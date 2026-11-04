@@ -16,7 +16,7 @@
 | Kobolds | Small, dexterous, highly intelligent Orbcraft and Mirrorcraft engineers | Here; `08_Other_Crafts.md` (Orbcraft), `18_The_Gilded_Coil_Imperial_Gazetteer.md` |
 | Vren | Batfolk; blood-using magical traditions | `08_Other_Crafts.md` |
 | Corvyn | Crowfolk; two independent arms **and two back-mounted wings**, Veilsight, Witchbonds | `08_Other_Crafts.md` |
-| Drider | Four-armed spiderfolk, daughters of Arrest | `08_Other_Crafts.md` |
+| Drider | Two-armed, six-legged spiderfolk with four pupil-less eyes; daughters of Arrest | `08_Other_Crafts.md` |
 | Untouched Serpentari | Humanoid Serpentari without the ancient true form | Here |
 | Drakyn | Dragons: hoards, Starspawn predation, Wyrmcraft | `06_Drakyn.md` |
 | Centaurs | Equine-bodied smiths; Anvilcant; green mana | `07_Centaurs_and_Smithcraft.md` |
@@ -39,6 +39,8 @@ These are **racial starting statistics**, not a new Orbcraft skill tree or free 
 
 ## Approved later anatomical and naming clarifications
 
+- **Drider anatomy, explicitly approved November 4, 2026:** Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. This supersedes the earlier four-armed description; no exact height, eye arrangement, skin palette or universal eye color is established.
+
 - **Drakyn** is the finalized racial name (singular and plural). They have a separate-winged humanoid Mantleform and quadrupedal Crownform, with common single-form Firstshaped dragons. See `06_Drakyn.md`.
 - **Centaurs** are 90% mares, 10% stallions. Ordinary members have a humanoid upper body and fully equine lower body. Firstshaped **Ponies** are smaller, fully equine, lack hands and have impressive oral dexterity. See `07_Centaurs_and_Smithcraft.md`.
 - **Corvyn anatomy, explicitly approved:** avian head with pointed beak; **two independent arms ending in clawed hands; two additional wings on the back**; two near-humanoid legs; fine plumage exposing magical tattoos. Older generic descriptions of talons/wings are to be read consistently with this separation; do not treat wings as substitutes for arms.
@@ -52,7 +54,7 @@ These are **racial starting statistics**, not a new Orbcraft skill tree or free 
 
 **Rarity:** Extremely rare; only a few dozen. **Sex:** All female. **Patron:** Arrest. **Society:** Small Courts. **Creation:** Second Verdict, not ordinary reproduction.
 
-Driders are magnificent, fearsome spider-women with humanlike upper bodies and enormous spider lower bodies, born from a divine sentence rather than natural breeding. The first thirteen were created by Arrest from condemned women—magistrates, priestesses, and executioners—who resisted injustice during the Age of Shackles. Additional Driders arise through the **Second Verdict**, in which a mortal woman of exceptional devotion is transformed inside a cocoon over thirteen days. Every new Drider is effectively a daughter of Arrest and a sister to the others.
+Driders are magnificent, fearsome spider-women with humanlike upper bodies and enormous spider lower bodies, born from a divine sentence rather than natural breeding. Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. The first thirteen were created by Arrest from condemned women—magistrates, priestesses, and executioners—who resisted injustice during the Age of Shackles. Additional Driders arise through the **Second Verdict**, in which a mortal woman of exceptional devotion is transformed inside a cocoon over thirteen days. Every new Drider is effectively a daughter of Arrest and a sister to the others.
 
 Driders organize themselves into **Courts** of roughly three to seven individuals: a **Matriarch** leads experienced **Weavers** and newly created **Unspun**. Their relationships are deeply affectionate; they groom, nest together, trade advice, and care for their sisters. Their devotion to justice is complicated by strong predatory instincts. They enjoy tracking, cornering, binding, and possessing control over clever prey, and some struggle to distinguish lawful restraint from personal pleasure.
 
