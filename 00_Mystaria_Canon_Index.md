@@ -12,9 +12,9 @@ Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, an
 
 In official Mystaria art, slave races should **usually wear visible collars**, with exceptions appropriate to the character, narrative context or explicit art direction. `11_Visual_Style_Guide.md` owns this presentation default; it does not make every individual enslaved or change racial mechanics.
 
-## Approved global official-art style and Corvyn figures — November 4, 2026
+## Approved global official-art style and adult female figures — November 4, 2026
 
-`11_Visual_Style_Guide.md` now requires the author's seven graphic animated style attributes for all official Mystaria art going forward: simplified strong shapes, clean varied bold contours, expressive stylized proportions, two or three hard cel-shading values, limited separated colors and colored shadows, selective readable detail, and dynamic expressive gestures. This supersedes the painterly living-storybook rendering requirement. `02_Races.md` records adult female Corvyn as characteristically particularly busty and voluptuous, preserving their approved avian anatomy. Individual image approval remains separate.
+`11_Visual_Style_Guide.md` now requires the author's seven graphic animated style attributes for all official Mystaria art going forward: simplified strong shapes, clean varied bold contours, expressive stylized proportions, two or three hard cel-shading values, limited separated colors and colored shadows, selective readable detail, and dynamic expressive gestures. This supersedes the painterly living-storybook rendering requirement. `02_Races.md` records adult females of all Mystaria races as characteristically busty and voluptuous, broadening the earlier Corvyn-specific guidance while preserving each race's established anatomy and form. Individual image approval remains separate.
 
 ## Read this before adjudicating a rule
 
