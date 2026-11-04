@@ -21,6 +21,14 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Drider anatomy and scale revised (LATEST)
+
+- **Explicit user correction:** Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**.
+- **Supersedes:** Earlier four-armed Drider descriptions and the former **Four-Arm Coordination** racial benefit. The revised anatomy has two arms and six spider-like legs; illustrations must use these counts.
+- **Preserved:** All-female identity, divine origins, Courts, sacred silks, natural wall climbing, vibration detection and biological silk production. Arrest's separate divine appearance is unchanged.
+- **Unspecified:** Exact dimensions, eye arrangement, precise skin palette, universal eye color, replacement racial ability and numerical attribute changes. Do not infer these from the new anatomy or scale.
+- **Updated files:** `02_Races.md`, `01_World_and_Shimmer.md`, `11_Visual_Style_Guide.md`, `00_Mystaria_Canon_Index.md`, and this changelog.
+
 ### November 4, 2026 — Warlock direct MP Hand Capacity approved (LATEST)
 
 - **Explicit approval:** Replace the old 1–3 spell-load system with direct temporary mana handling in **one hand**: **`max(1, floor(natural effective END / 5)) MP`**, i.e., **20% of natural effective END rounded down, minimum 1 MP**. For END 10/25/40/60/100/150/200, respective one-hand limits are **2/5/8/12/20/30/40 MP**.
