@@ -17,7 +17,7 @@ Drakyn created **mortal Sorcery** by adapting Starspawn **Starsong** into struct
 |---|---|
 | **Mantleform** | Humanoid form with draconic head/face, scales, claws, **two manipulating arms/hands**, **two legs**, **two separate wings on the back**, and variable horns/tail. |
 | **Crownform** | True quadrupedal dragon, four legs, wings separately mounted, and **highly opposable forelegs** capable of manipulation. |
-| **Firstshaped Drakyn** | Usually possess only Crownform; significantly more common than Firstshaped versions of most races. May be extremely small, even pocket-sized. |
+| **Firstshaped Drakyn** | Usually possess only Crownform; approximately **5% of Drakyn**, per the approved race-specific rate. May be extremely small, even pocket-sized. |
 | **Hoardgrowth** | Crownform body size increases with the size and personal significance of the dragon's genuinely treasured hoard, **not directly with level or MP**. |
 | **Treasure Compass** | Innate directional attraction to desirable treasures, including not-yet-owned ones. Greater treasures generally detectable farther away. Dragons develop conspicuously fixed, narrowed-pupil attention toward a find. |
 | **Lifespan** | Ancient, very long-lived mortal beings comparable in longevity to Serpentari. Do not convert this to a precise universal year count without a dated ruling. |
