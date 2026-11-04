@@ -29,7 +29,7 @@ The revoked rank techniques are not available alongside their replacements witho
 
 “The Naga command your mind. The Tidekin command the water around you. We command something far more intimate, darling. The blood that keeps you alive.”
 
-Vren magic should feel predatory, elegant, supernatural, and occasionally horrifying. Unlike the Naga's Crowncraft or the Tidekin's Wakecraft, the Vren do not develop a single magical technique into increasingly sophisticated applications.
+Vren magic should feel predatory, elegant, supernatural, and occasionally horrifying. Unlike the Naga's Psycraft or the Tidekin's Wakecraft, the Vren do not develop a single magical technique into increasingly sophisticated applications.
 
 Instead, their magic consists of six independent Disciplines, each representing a different expression of their vampiric nature.
 
@@ -216,7 +216,7 @@ Blood connections · Ritual promises · Mental influence · Long-term obligation
 
 Bloodbond is the Vren equivalent of a mentalist tradition, but it operates very differently from Naga Telepathy.
 
-A Naga Crownmind manipulates thoughts, emotions, and perceptions directly.
+A Naga Psychic manipulates thoughts, emotions, and perceptions directly.
 
 A Vren Bloodbinder establishes a supernatural connection through blood, then influences a person's body and decisions through that connection.
 
@@ -708,7 +708,7 @@ They do not automatically grant additional mana colors.
 
 Cantrips use trace mana and cost 0 MP. Meaningful supernatural effects require MP. A character's Channel Limit remains `ceil(effective INT ÷ 5)`, and sustained techniques follow the established activation and upkeep rules.
 
-Nightshape cannot grant Starspawn immortality or Named Spells. Blood Magic cannot perform green-mana regeneration. Bloodbond cannot simply read thoughts like Crowncraft Telepathy.
+Nightshape cannot grant Starspawn immortality or Named Spells. Blood Magic cannot perform green-mana regeneration. Bloodbond cannot simply read thoughts like Psycraft Telepathy.
 
 Sunlight remains a severe weakness, and Vren still require blood for their continued well-being.
 
@@ -733,13 +733,13 @@ Their free Blood Boon means even a starting Vren without a purchased Discipline 
 | Starting Vren Skill Points     | 0                                              |
 | Grandmaster Celerity           | Zero Interval — an instantaneous action        |
 
-Canon preserves the distinction between Bloodbond and Crowncraft Telepathy.
+Canon preserves the distinction between Bloodbond and Psycraft Telepathy.
 
 Naga influence minds through perception, emotion, and psychic suggestion. Vren influence people through supernatural relationships established by blood, bodily control, and binding obligations.
 
 That distinction makes the Vren's magic feel much more personal—and often considerably more unsettling.
 
-A Crownmind may know that you are afraid.
+A Psychic may know that you are afraid.
 
 A Bloodbinder may know exactly when your heart starts beating faster, whose blood you have sworn yourself to, and what will happen if you break your promise.
 
