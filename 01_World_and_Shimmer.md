@@ -14,6 +14,7 @@
 - The old compendium sometimes says **Ability Points**; check newer Craft references for the actual **Skill Point** economy rather than assuming interchangeable currencies.
 - **Natural MP:** for ordinarily mana-generating races, use the floor of effective END, subject to affinity and Soul Strain. **Moontouched have 0 natural MP**; **Drakyn have 0 natural MP** and do not restore it through rest. Neither rule is overridden by stat growth.
 - **Warlock handloads and channel limits:** see `04_Warlock_Manacraft.md`. Sorcery and racial Crafts have different mana mechanics; do not interchange them.
+- **Kobold starting stats (November 4, 2026):** Approved base **STR 2, DEX 8, END 3, INT 10, SPD 7**; racial modifiers **STR −10%, DEX +10%, INT +20%**. Effective start **STR 1.8, DEX 8.8, END 3, INT 12, SPD 7** (total 32.6). `02_Races.md` owns this racial sheet; the older historical starting-attribute table below predates Kobolds and is not complete.
 
 ## Source-derived world and divine canon
 
