@@ -1,6 +1,6 @@
 # Mystaria — Warlock / Manacraft: Authoritative Skill Reference
 
-**Status:** **APPROVED CANON — revised November 4, 2026**. The user's latest explicit decision replaces the former 25-rank Warlock trees with the recovered *Warlock Skills System, Revised*. The separately approved MP activation and upkeep schedule is incorporated below. **Five skills × five ranks × 5 SP = 125 SP**; innate Manabending costs 0 SP.
+**Status:** **APPROVED CANON — revised November 4, 2026**. The user's latest explicit decision replaces the former 25-rank Warlock trees with the recovered *Warlock Skills System, Revised*. The separately approved MP activation and upkeep schedule is incorporated below. **Five skills × five ranks × 5 SP = 125 SP**; innate Manabending costs 0 SP. **Latest approved capacity override:** a single hand temporarily holds `max(1, floor(natural effective END / 5)) MP`; this supersedes the historical spell-load categories.
 
 **Precedence:** The five recovered trees and this dossier supersede the conflicting older `Mystaria_Warlock_Skills_Canon.md` and its earlier copy in `04_Warlock_Manacraft.md`, including former Rank V techniques such as *Thousand Invisible Hands*, *Grand Expression*, *Great Reclamation*, *Living Arsenal* and *Absolute Reversal*. The older rank-specific MP prices belong to those superseded techniques and **do not automatically transfer** to differently functioning abilities. The new MP fees have separate explicit user approval. Earlier rules not in conflict remain valid.
 
@@ -48,7 +48,7 @@ Every Moontouched Warlock possesses this ability without purchasing a skill rank
 | Absorption                | Drains accessible raw mana and portions of active spells     |
 | Projection                | Releases raw mana into a target                              |
 | Temporary storage         | One hand, safely for 30 seconds; absolute maximum 60 seconds |
-| Handling Capacity         | 1–3 standard spells' worth, based on Endurance               |
+| Handling Capacity         | `max(1, floor(natural effective END / 5)) MP` in one hand      |
 | Conventional spellcasting | Impossible                                                   |
 | Internal mana storage     | Impossible                                                   |
 
@@ -64,30 +64,32 @@ A Warlock with 100 Intelligence can manipulate accessible mana more than 200 met
 
 However, range is not omniscience. They must perceive or otherwise locate the magical source, and ordinary Manabending cannot reach through solid magical barriers or concealed obstacles without appropriate techniques.
 
-### Handling Capacity — A Small Reservoir
+### Handling Capacity — Direct MP per Hand (approved November 4, 2026)
 
-Rather than allowing a Warlock to temporarily hold mana equal to their full Endurance, the hand acts as a much smaller reservoir.
+A Warlock can temporarily hold **one hand's worth of raw external mana**, not an internal reserve. The approved **MP per hand** limit replaces the earlier spell-load size, count, and END threshold system.
 
-A standard spell-load represents approximately one ordinary combat spell's worth of mana at the Warlock's current scale of power.
+```text
+Hand Capacity (MP) = max(1, floor(natural effective END / 5))
+```
 
-For consistent MP calculations, one reference spell-load equals `max(1, ceiling(END ÷ 10))` MP.
+Thus capacity is **20% of natural effective END**, rounded down, with a **minimum of 1 MP**. This rule uses the natural effective END relevant to Warlock handling, not a separately purchased MP reserve or a new stat.
 
-| Natural effective END | Spell-loads held | Maximum hand capacity |
-| --------------------- | ---------------- | --------------------- |
-| 2                     | 1                | 1 MP                  |
-| 10                    | 1                | 1 MP                  |
-| 25                    | 1                | 3 MP                  |
-| 40                    | 2                | 8 MP                  |
-| 60                    | 2                | 12 MP                 |
-| 100                   | 3                | 30 MP                 |
-| 150                   | 3                | 45 MP                 |
-| 200                   | 3                | 60 MP                 |
+| Natural effective END | Maximum MP held in the one hand |
+| ---: | ---: |
+| 2 | 1 MP |
+| 10 | 2 MP |
+| 25 | 5 MP |
+| 40 | 8 MP |
+| 60 | 12 MP |
+| 100 | 20 MP |
+| 150 | 30 MP |
+| 200 | 40 MP |
 
-These are reference capacities, not guarantees that every spell fits. Exceptionally powerful magic may contain more energy than the Warlock can safely hold.
+**Holding duration remains unchanged:** safe temporary holding is **30 seconds**, with an **absolute maximum of 60 seconds**. **Only one hand** is used for this handling allowance; two hands do not combine or double capacity under this ruling.
 
-A Warlock with 100 Endurance can hold 30 MP temporarily, not the entire 100 MP reserve of a comparable spellcaster.
+This is the upper bound on the quantity of mana immediately handled or absorbed in one interaction and, where an existing technique explicitly uses Handling Capacity as its throughput cap, that cap continues to apply. A large external supply does not make a Warlock capable of handling unlimited mana at once. Large transfers may be staged through external sources and vessels over time, subject to the existing handling limits and technique rules. The hand cannot hold a whole oversized spell just because the Warlock wins the absorption contest.
 
-External mana vessels remain essential. Warlocks can transfer much greater quantities of mana over time, but their immediate handling and transfer rate remain limited by this capacity.
+**Unchanged:** Manabending's range, INT absorption contest, all Manacraft skills, SP costs, activation/upkeep fees, prerequisites, external-source requirements, and the already unresolved payment-sequencing questions. In particular, the new hand-capacity formula **does not by itself authorize** paying an oversized activation cost directly from an external source or bypassing the limit through same-action harvesting.
 
 ### Absorbing Hostile Magic
 
@@ -425,7 +427,7 @@ This revision also preserves a particularly interesting contradiction in Surrend
 
 ## Explicitly unresolved parameters — do not invent canon
 
-1. **Spell-load category boundaries:** The approved recovered source defines a reference spell-load as `max(1, ceil(natural effective END / 10)) MP` and provides example END values for **1–3 spell-loads held**. It does **not** supply a complete formula indicating the exact END threshold at which capacity rises from 1 to 2 to 3 loads. Use the recorded example table and label intermediate cases unresolved until approved.
+1. **Hand Capacity — RESOLVED November 4, 2026:** the user explicitly replaced the older spell-load system with direct **one-hand** capacity `max(1, floor(natural effective END / 5)) MP`. No spell-load thresholds remain to adjudicate. The approved handling and transfer limits still govern instantaneous absorption and technique throughput.
 2. **Expanded effects:** No fixed numeric area/radius, duration or environmental scale was approved for Ley Carving, Mana Singularity, Hollow Radius, Soul Reaping, Soulwork or Null Dominion beyond the stated qualitative and MP constraints.
 3. **Imbuement longevity:** Rank I Reservoir Seal is one hour. Exact Rank IV Spell Imprint life and Rank V permanent device/soul-vessel life and vessel depletion rules are not independently specified, despite approved daily upkeep fees for Soulwork.
 4. **Source-energy timing:** Whether same-action harvest can supply activation costs and whether large activations can be paid from sources by incremental direct feed remain unresolved.
@@ -436,6 +438,6 @@ This revision also preserves a particularly interesting contradiction in Surrend
 - Recovered source: `Pasted text.txt`, *Mystaria — Warlock Skills System, Revised* (originally a proposal), superseding earlier 25-rank trees by explicit user decision on November 4, 2026.
 - SP: **5 SP for every Rank I–V**; proposed progressive costs are superseded.
 - Basic reach: **`2 + 2 × effective INT` meters**, not the previous approximate two-meter baseline. Skill-based Reach specializes pathway, connection and ley-line functionality.
-- Capacity: **spell-load handling** based on natural effective END, not an entire END-sized MP reservoir.
+- Capacity: **direct MP per hand**, `max(1, floor(natural effective END / 5)) MP`, in **one hand**. This supersedes the earlier **1–3 spell-loads** and `ceil(END / 10)` reference-load accounting. It remains temporary external mana handling, never an entire END-sized personal MP reserve.
 - Cost package: previous assistant proposal for **all 25 techniques** explicitly approved by user before the November 4 reconciliation; recorded above.
 - Former skill effects and obsolete MP prices are not purchasable alternative ranks. See `10_Canon_Changelog.md` for revision status.
