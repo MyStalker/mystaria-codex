@@ -365,7 +365,7 @@ Racial advantages are inherent biological, instinctive, or culturally inherited 
 | **Naga** | Venomous fangs; powerful constriction; infrared perception; inherited ancestral impressions and memories | 0 |
 | **Vren** | Sustained flight; echolocation; blood-fueled physical regeneration; exceptional nocturnal senses | 0 |
 | **Corvyn** | Sustained flight; Veilsight; extraordinary facial memory; vocal mimicry; exceptional long-distance vision | **+1** |
-| **Drider** | Four-arm coordination; natural wall climbing; vibration detection; biological silk production | 0 |
+| **Drider** | Natural wall climbing; vibration detection; biological silk production | 0 |
 | **Untouched Serpentari** | Prehensile tail; keen chemical perception; extraordinary long-term memory; Sovereign Aptitude | 0 |
 
 Extra Ability Points are awarded at level 1 in addition to standard starting allocations. They may purchase or improve eligible racial and class abilities but cannot bypass tier or level restrictions.
@@ -386,7 +386,7 @@ Certain advantages require additional definitions.
 
 **Corvyn — Veilsight:** Their eyes naturally perceive magical auras, residual enchantments, curses, certain invisible creatures, and supernatural connections. Veilsight cannot automatically read minds, identify lies, or penetrate every magical concealment.
 
-**Drider — Four-Arm Coordination:** Driders can manipulate multiple objects and perform several compatible physical actions simultaneously. This does not automatically grant additional combat turns or attacks.
+**Drider — Anatomy revision (November 4, 2026):** Driders have two arms, six long spider-like legs, dark drow-like skin, pointed ears, and four solid-color eyes without pupils; eye color varies by individual. They are one of Mystaria's largest mortal races. The former **Four-Arm Coordination** entry is superseded by this anatomy correction and grants no operative extra-arm benefit. Natural wall climbing, vibration detection and biological silk production remain unchanged; no replacement ability or numerical stat change was specified. See `02_Races.md`.
 
 ### IV. Untouched Serpentari — Sovereign Aptitude
 
