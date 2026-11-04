@@ -12,6 +12,10 @@ Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, an
 
 In official Mystaria art, slave races should **usually wear visible collars**, with exceptions appropriate to the character, narrative context or explicit art direction. `11_Visual_Style_Guide.md` owns this presentation default; it does not make every individual enslaved or change racial mechanics.
 
+## Approved global official-art style and Corvyn figures — November 4, 2026
+
+`11_Visual_Style_Guide.md` now requires the author's seven graphic animated style attributes for all official Mystaria art going forward: simplified strong shapes, clean varied bold contours, expressive stylized proportions, two or three hard cel-shading values, limited separated colors and colored shadows, selective readable detail, and dynamic expressive gestures. This supersedes the painterly living-storybook rendering requirement. `02_Races.md` records adult female Corvyn as characteristically particularly busty and voluptuous, preserving their approved avian anatomy. Individual image approval remains separate.
+
 ## Read this before adjudicating a rule
 
 **Canon precedence:**
@@ -38,7 +42,7 @@ In official Mystaria art, slave races should **usually wear visible collars**, w
 | [`08_Other_Crafts.md`](08_Other_Crafts.md) | Craft SP schedule, Psycraft (legacy Crowncraft), Wakecraft, Fraycraft, Witchcraft, Concordance, other magic | **CANON** descriptive, **rank source gaps** |
 | [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md) | Existing 5-tier equipment, Soul Strain, Gems and shop; proposed modular overhaul | **CANON** baseline; proposed additions clearly labeled |
 | [`10_Canon_Changelog.md`](10_Canon_Changelog.md) | Dated approvals, supersession matrix, unresolved decisions and maintenance rules | **AUTHORITATIVE STATUS LEDGER** |
-| [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) | Approved five mana emblems, Mystaria signature purple, purple Shimmer, purple/red skies, living-storybook presentation, artist approval workflow and illustration placement | **APPROVED VISUAL/WORLD CANON** where labeled; production guidance separated |
+| [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) | Approved five mana emblems, Mystaria signature purple, purple Shimmer, purple/red skies, global graphic animated art specification, artist approval workflow and illustration placement | **APPROVED VISUAL/WORLD CANON** where labeled; production guidance separated |
 | [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) | APPROVED Roadspeech and regional registers; speech, insults, compliments, curses, Muzzle-mouth, Kobold alarm words and Speaking in Colors | **CANON** — Kobold racial-index cross-reference reconciled |
 | [`13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md) | Tidekin innate Hydrokinesis; six Wakecraft skills × five ranks, MP, SP and cultural applications | **CANON** — 150 SP mastery |
 | [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
