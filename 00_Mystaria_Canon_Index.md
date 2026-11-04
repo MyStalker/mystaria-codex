@@ -22,7 +22,7 @@
 |---|---|---|
 | [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
 | [`02_Races.md`](02_Races.md) | Older full racial descriptions, Firstshaped and newer race identity cross-references | **CANON** with explicit Drakyn/Centaur/Corvyn updates |
-| [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS**, Red purchase count unresolved |
+| [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS** for Blue/Green/White; Red alteration count resolved |
 | [`04_Warlock_Manacraft.md`](04_Warlock_Manacraft.md) | Revised five Warlock trees, all 25 ranks, approved MP fees, new Manabending range and handling rules | **CANON**, full source reproduced |
 | [`05_Jestercraft.md`](05_Jestercraft.md) | Full approved versatility-overhaul Jestercraft, speaking Regalia, Stitches, Sponge, 130-SP complete mastery (both ultimates) | **CANON**, full source reproduced |
 | [`06_Drakyn.md`](06_Drakyn.md) | Dragon biology/culture, feeding, marks, five Wyrmcraft trees, SP costs | **CANON**; a few numeric metamagic limits unresolved |
@@ -86,7 +86,7 @@ Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Cust
 | Tier gates | I / level 1; II / 10; III / 25; IV / 50; V / 80 |
 | Ordinary Sorcery | **3 SP per Incantation**, **3 per alteration**; standard one-color 5 + 25 catalogue = **90 SP** |
 | Drakyn Sorcery | **2 SP per Incantation**, **2 per alteration**; standard one-color **60 SP** |
-| Red current itemization | **26 alterations** reported; **93 SP ordinary / 62 Drakyn** if all separately purchased; discrepancy to standard count unresolved |
+| Red Sorcery — resolved November 4 | **25 alterations**: Ignis 6, Varekh 5, Darvok 4, Ashal 5, Ruveth 5; **90 SP ordinary / 60 Drakyn**. Unidentified seventh Ignis purchase removed; all named alterations retained |
 | Warlock/Manacraft | **5 skills × 5 ranks × 5 SP = 125 SP**; free Manabending |
 | Jestercraft | **6 free foundations + 18 modifiers × 3 + 19 applications × 4 = 130 SP** (126 SP with one Hemweaving ultimate) |
 | Native racial Craft | Normally **5 SP per rank**; a five-rank discipline = **25 SP** |
