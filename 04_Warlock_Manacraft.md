@@ -91,6 +91,14 @@ This is the upper bound on the quantity of mana immediately handled or absorbed 
 
 **Unchanged:** Manabending's range, INT absorption contest, all Manacraft skills, SP costs, activation/upkeep fees, prerequisites, external-source requirements, and the already unresolved payment-sequencing questions. In particular, the new hand-capacity formula **does not by itself authorize** paying an oversized activation cost directly from an external source or bypassing the limit through same-action harvesting.
 
+### Raw Blue Projection Against Wounded Targets (approved November 4, 2026)
+
+When a Warlock blasts a wounded target with **raw blue mana**, its primary effect is **sensory overload and amplification of the pain of existing wounds**. The target's bodily perception can also fracture, disrupting their sense of where their body is and how its movements fit together, with accompanying disorientation and impaired coordination.
+
+This is an unstructured expression of raw blue energy, distinct from **structured Sorcery**. It does **not** freeze the target or turn into a splash of water. This approval establishes the wounded-target blue effect only; optional proposals for other colors or additional effects are not thereby canonized. The existing **Blue Hole — Shifting Depth** remains unchanged.
+
+This clarification adds no skill or prerequisite and changes no established SP/MP cost, rank, level gate, range, Handling Capacity, or external-source requirement. **UNRESOLVED:** exact duration, numerical pain or coordination penalties, resistance procedure, and any damage formula for this effect have not been approved.
+
 ### Absorbing Hostile Magic
 
 The approved Intelligence contest is:
