@@ -21,13 +21,20 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Red Sorcery alteration count reconciled (LATEST)
+
+- **Explicit user approval:** Removed the **unidentified seventh Ignis alteration purchase**. The six named Ignis alterations (**Flame Arsenal I**, **Flame Arsenal II**, **Lingering Fire**, **Backdraft**, **Stormspark**, **Impossible Combustion**) remain unchanged; all other named Red abilities remain valid.
+- **Operative ledger:** Ignis **6**, Varekh **5**, Darvok **4**, Ashal **5**, Ruveth **5** = **25 Red alterations**, alongside five base Incantations. Full Red mastery **90 SP ordinary / 60 SP Drakyn**. Uneven per-Incantation distribution is the approved total, not permission to invent a fifth Darvok alteration.
+- **Supersedes:** the provisional 26th alteration, 93/62 SP Red pricing, and 453/302 SP five-color estimates based on that unapproved extra slot. The standard five-color total remains 450/300 SP, pending recovery of final Blue/Green/White itemizations.
+- **Updated files:** `03_Sorcery.md`, `00_Mystaria_Canon_Index.md`, and this changelog. The earlier audit merge and unrelated mechanics are preserved.
+
 ### November 4, 2026 — Repository audit reconciliation (approved corrections; review branch)
 
 - **Restored missing canonical sources:** Reinstated `09_Equipment_and_Economy.md` (approved five-tier equipment baseline; clearly separated modular-equipment proposals and Moonlit Garden pricing conflicts) and the full `15_Naga_Psycraft_Canon.md` (Sovereign Sense, 15 approved ranks, 75 SP total, current **Psycraft / Psychics** terminology). These files existed in approved project sources but were absent from the GitHub repository.
 - **Imperial games:** Replaced mistaken descriptions of rotating "Imperial capital venues" with **major Imperial cities** in `17_Imperial_Sports_and_Great_Coil_Circuit.md`. **Sathryx remains the sole capital**; venue rotation mechanics are otherwise unchanged.
 - **Naga terminology:** Corrected outdated operative `Crowncraft` / `Crownmind` references to **Psycraft** / **Psychic(s)** in the races index and Wakecraft/Vren comparison passages. Historical explanation of superseded titles is retained where relevant. This changes names only, not abilities or costs.
 - **Firstshaped rarity (new explicit user ruling):** Approximately **10% of Centaurs** are Firstshaped Ponies; approximately **5% of Drakyn** are Firstshaped. These supersede application of the older generic `~1 in 50` rate to those two races. The generic rate remains background for other races without an approved exception. Updated `02_Races.md`, `06_Drakyn.md`, `07_Centaurs_and_Smithcraft.md`.
-- **Still NOT CANON / pending user review:** Kobold numerical starting attributes and racial modifiers must be proposed, not installed; the Red Sorcery alteration discrepancy concerns **Ignis**, with **seven reported slots but only six names recovered**; no alteration was deleted or repriced; Blue/Green/White final approved selections could not be recovered from the available candidate-menu sources; Warlock END spell-load thresholds need a newly approved formula. Centaur clockwork redesign, exact other gaps and unrequested mechanics remain unchanged.
+- **Still NOT CANON / pending user review:** Kobold numerical starting attributes and racial modifiers must be proposed, not installed; the former Red Sorcery Ignis discrepancy is now **resolved** by the author's explicit removal of the unidentified seventh purchase (25 alterations; 90/60 SP); Blue/Green/White final approved selections could not be recovered from the available candidate-menu sources; Warlock END spell-load thresholds need a newly approved formula. Centaur clockwork redesign, exact other gaps and unrequested mechanics remain unchanged.
 
 ### November 4, 2026 — Mindprism / Mnemonic Arts / Living Reliquaries approved (LATEST)
 
@@ -159,7 +166,7 @@
 - Ordinary Incantations and alterations **3 SP each**; Drakyn **2 SP each**.
 - Blue, Green, White color catalogues were approved earlier (five bases and five alterations each); their **exact 25 chosen names** are not all present in locally accessible export artifacts.
 - **Black's five groups and 25 selected alterations explicitly approved.** Full named list in `03_Sorcery.md`.
-- **Red's latest detailed revisions explicitly approved**, but the surviving accounting reports **26 alteration purchases**, including a seventh Ignis purchase whose name is not recovered. Current itemized Red price **93 SP non-Drakyn / 62 SP Drakyn**, pending purchase-list clarification. Do not silently restore standard 90/60.
+- **Historical provisional Red accounting — SUPERSEDED November 4:** Earlier reporting listed **26 alteration purchases** and 93/62 SP, including one unidentified seventh Ignis slot. The author's later explicit ruling removed that unidentified purchase. The current approved ledger is **25 alterations** and **90/60 SP**, preserving all named effects.
 
 ### November 3, 2026 — Jestercraft superseded
 
@@ -202,7 +209,7 @@
 
 ## 4. Priority unresolved issues (truthfully labeled)
 
-1. **Red Sorcery purchase count:** 26 approved itemized alteration slots; reconcile seventh Ignis entry versus standard 25 without changing the approved concepts.
+1. **Red Sorcery purchase count — RESOLVED November 4:** the author removed the unidentified seventh Ignis purchase, establishing **25 Red alterations**, **90 SP ordinary / 60 SP Drakyn**; all named abilities remain.
 2. **Approved Blue/Green/White chosen alterations:** obtain definitive exports or pasted selection lists, not just proposal menus.
 3. **Revised Anvilcant:** decide whether to approve Socketwright + three clockwork branches, the 200-SP total and concrete rank mechanics; until then, document proposal separately.
 4. **Modular equipment:** approve or revise slots, rune family rank values, socketed gem activation rates, multicolor surcharge and Manacistern caps/strain; current numbers are examples, not canon.
