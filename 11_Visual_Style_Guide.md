@@ -49,6 +49,10 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 - **Deep lore spoilers:** preserve intentional click-to-reveal behavior; do not reveal hidden secrets through unguarded images or thumbnails.
 - The user is the artistic decision-maker. Offer **at least three composition candidates** for each illustration before treating an illustration concept as selected.
 
+### Approved Drider visual anatomy — November 4, 2026
+
+Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. Depict exactly two arms, six spider-like legs and four pupil-less, solid-color eyes. Preserve the humanlike upper body and arachnid lower body. Earlier four-armed Drider illustrations and descriptions are superseded. Exact dimensions, eye arrangement and precise skin tones remain unspecified. This correction applies to Driders and does not change Arrest's own appearance. See `02_Races.md` for the owning racial description.
+
 ## 3. Proposed production guidelines — NOT YET APPROVED VISUAL CANON
 
 The following are practical recommendations for future art production, not immutable rules:
