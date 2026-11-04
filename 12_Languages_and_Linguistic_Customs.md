@@ -2,11 +2,11 @@
 
 **Reference:** `12_Languages_and_Linguistic_Customs.md`  
 **Edition:** 2026-11-04 — recovery and canon reconciliation  
-**Canon status:** **APPROVED** (original proposal, unchanged contents and later edits); **Kobold racial-index cross-reference unresolved**  
+**Canon status:** **APPROVED** (original proposal, unchanged contents and later edits); **Kobold racial-index cross-reference restored November 4, 2026**  
 **Authority:** User's latest explicit approval; `10_Canon_Changelog.md`; source files `Pasted text.txt` and `Pasted text (2).txt` (recovered exchange).  
 **Related references:** `00_Mystaria_Canon_Index.md`, `02_Races.md`, `01_World_and_Shimmer.md`, `08_Other_Crafts.md`.
 
-> **Canon reconciliation:** On November 4, 2026 the user expressly confirmed that the entire original linguistic proposal and all unchanged material are canon, with later revisions taking precedence. Kobold linguistic material is likewise approved, although Kobolds are absent from the current `02_Races.md` racial index; that reference omission is a documentation gap, **not** a reason to discard the approved language material. All entries are cultural tendencies, not mandatory behavior or fixed racial accents. No independent magical mechanics are established here.
+> **Canon reconciliation:** On November 4, 2026 the user expressly confirmed that the entire original linguistic proposal and all unchanged material are canon, with later revisions taking precedence. Kobold linguistic material is likewise approved, and Kobolds are now included in the current `02_Races.md` racial index with explicitly approved starting statistics. Earlier missing-index warnings are historical, not operative. All entries are cultural tendencies, not mandatory behavior or fixed racial accents. No independent magical mechanics are established here.
 
 ## Approved Cipherlight and Rainbow language — November 4, 2026
 
