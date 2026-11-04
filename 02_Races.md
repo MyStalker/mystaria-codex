@@ -12,7 +12,7 @@
 | Thornguard | Ratfolk; exceptional white-mana supply and endurance | `08_Other_Crafts.md` |
 | Tidekin | Otterfolk; Wakecraft | `08_Other_Crafts.md` |
 | Duskpaws | Raccoonfolk; Fraycraft, black mana | `08_Other_Crafts.md` |
-| Naga | Serpentine overseer lineages; Crowncraft | `08_Other_Crafts.md` |
+| Naga | Serpentine overseer lineages; Psycraft (Psychics) | `15_Naga_Psycraft_Canon.md` |
 | Vren | Batfolk; blood-using magical traditions | `08_Other_Crafts.md` |
 | Corvyn | Crowfolk; two independent arms **and two back-mounted wings**, Veilsight, Witchbonds | `08_Other_Crafts.md` |
 | Drider | Four-armed spiderfolk, daughters of Arrest | `08_Other_Crafts.md` |
@@ -26,7 +26,7 @@
 - **Drakyn** is the finalized racial name (singular and plural). They have a separate-winged humanoid Mantleform and quadrupedal Crownform, with common single-form Firstshaped dragons. See `06_Drakyn.md`.
 - **Centaurs** are 90% mares, 10% stallions. Ordinary members have a humanoid upper body and fully equine lower body. Firstshaped **Ponies** are smaller, fully equine, lack hands and have impressive oral dexterity. See `07_Centaurs_and_Smithcraft.md`.
 - **Corvyn anatomy, explicitly approved:** avian head with pointed beak; **two independent arms ending in clawed hands; two additional wings on the back**; two near-humanoid legs; fine plumage exposing magical tattoos. Older generic descriptions of talons/wings are to be read consistently with this separation; do not treat wings as substitutes for arms.
-- **Firstshaped:** are people, not unintelligent animals. Firstshaped Naga have no arms, hands or paws; Firstshaped Drakyn and Centaurs are unusually common compared with other Firstshaped races.
+- **Firstshaped:** are people, not unintelligent animals. Firstshaped Naga have no arms, hands or paws. **Approximately 10% of Centaurs** and **approximately 5% of Drakyn** are Firstshaped, per the latest approved racial rarity ruling; these are race-specific rates.
 
 ## Earlier compendium race chapters (retained source detail)
 
@@ -293,7 +293,7 @@ Ancient legends describe the **Black Testament**, hidden tattoo inscriptions sup
 
 ## 16. Firstshaped — Children of the Forgotten Form
 
-**Classification:** Hereditary physical variation of civilized races. **Rarity:** Uncommon; approximately one in fifty individuals. **Other names:** Oldforms, Rootborn, Little Ancestors. **Intelligence:** Fully sapient. **Mana affinity:** Inherited from their ordinary race.
+**Classification:** Hereditary physical variation of civilized races. **Rarity:** Generally uncommon, approximately one in fifty individuals among races without a more specific approved rate. **Exceptions:** approximately **10% of Centaurs** (Ponies) and approximately **5% of Drakyn** are Firstshaped. **Other names:** Oldforms, Rootborn, Little Ancestors. **Intelligence:** Fully sapient. **Mana affinity:** Inherited from their ordinary race.
 
 ### Origins and History
 
