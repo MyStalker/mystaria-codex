@@ -50,6 +50,8 @@ These are **racial starting statistics**, not a new Orbcraft skill tree or free 
 
 ## 7. Driders — Daughters of Arrest
 
+**Approved illustration style:** More anime-inspired character design, with controlled linework, simplified facial features, and expressive posing. See `11_Visual_Style_Guide.md`; retain current approved racial anatomy.
+
 **Rarity:** Extremely rare; only a few dozen. **Sex:** All female. **Patron:** Arrest. **Society:** Small Courts. **Creation:** Second Verdict, not ordinary reproduction.
 
 Driders are magnificent, fearsome spider-women with humanlike upper bodies and enormous spider lower bodies, born from a divine sentence rather than natural breeding. The first thirteen were created by Arrest from condemned women—magistrates, priestesses, and executioners—who resisted injustice during the Age of Shackles. Additional Driders arise through the **Second Verdict**, in which a mortal woman of exceptional devotion is transformed inside a cocoon over thirteen days. Every new Drider is effectively a daughter of Arrest and a sister to the others.
