@@ -28,13 +28,20 @@
 - **Supersedes:** the provisional 26th alteration, 93/62 SP Red pricing, and 453/302 SP five-color estimates based on that unapproved extra slot. The standard five-color total remains 450/300 SP, pending recovery of final Blue/Green/White itemizations.
 - **Updated files:** `03_Sorcery.md`, `00_Mystaria_Canon_Index.md`, and this changelog. The earlier audit merge and unrelated mechanics are preserved.
 
+### November 4, 2026 — Kobold Hero starting attributes approved (LATEST)
+
+- **Explicit user decision:** Kobold base starting attributes **STR 2, DEX 8, END 3, INT 10, SPD 7** (base total 30). Racial percentage modifiers **STR −10%, DEX +10%, INT +20%**, yielding effective **STR 1.8, DEX 8.8, END 3, INT 12, SPD 7** (effective total **32.6**).
+- **Racial index gap resolved:** Added Kobolds to `02_Races.md` and reconciled cross-references in the Canon Index and Languages document; `01_World_and_Shimmer.md` records this newer override alongside existing Hero stat mechanics. Earlier claims Kobold stats were unapproved or absent from the racial index are superseded.
+- **Limits:** This approval specifies only statistics and multipliers. It does **not** establish a new Kobold racial affinity, skill-rank costs, starting SP balance, special ability or Orbcraft tree.
+
+
 ### November 4, 2026 — Repository audit reconciliation (approved corrections; review branch)
 
 - **Restored missing canonical sources:** Reinstated `09_Equipment_and_Economy.md` (approved five-tier equipment baseline; clearly separated modular-equipment proposals and Moonlit Garden pricing conflicts) and the full `15_Naga_Psycraft_Canon.md` (Sovereign Sense, 15 approved ranks, 75 SP total, current **Psycraft / Psychics** terminology). These files existed in approved project sources but were absent from the GitHub repository.
 - **Imperial games:** Replaced mistaken descriptions of rotating "Imperial capital venues" with **major Imperial cities** in `17_Imperial_Sports_and_Great_Coil_Circuit.md`. **Sathryx remains the sole capital**; venue rotation mechanics are otherwise unchanged.
 - **Naga terminology:** Corrected outdated operative `Crowncraft` / `Crownmind` references to **Psycraft** / **Psychic(s)** in the races index and Wakecraft/Vren comparison passages. Historical explanation of superseded titles is retained where relevant. This changes names only, not abilities or costs.
 - **Firstshaped rarity (new explicit user ruling):** Approximately **10% of Centaurs** are Firstshaped Ponies; approximately **5% of Drakyn** are Firstshaped. These supersede application of the older generic `~1 in 50` rate to those two races. The generic rate remains background for other races without an approved exception. Updated `02_Races.md`, `06_Drakyn.md`, `07_Centaurs_and_Smithcraft.md`.
-- **Still NOT CANON / pending user review:** Kobold numerical starting attributes and racial modifiers must be proposed, not installed; the former Red Sorcery Ignis discrepancy is now **resolved** by the author's explicit removal of the unidentified seventh purchase (25 alterations; 90/60 SP); Blue/Green/White final approved selections could not be recovered from the available candidate-menu sources; Warlock END spell-load thresholds need a newly approved formula. Centaur clockwork redesign, exact other gaps and unrequested mechanics remain unchanged.
+- **Still NOT CANON / pending user review:** Kobold numerical starting attributes and racial modifiers were subsequently **approved** and added to `02_Races.md`; the former Red Sorcery Ignis discrepancy is now **resolved** by the author's explicit removal of the unidentified seventh purchase (25 alterations; 90/60 SP); Blue/Green/White final approved selections could not be recovered from the available candidate-menu sources; Warlock END spell-load thresholds need a newly approved formula. Centaur clockwork redesign, exact other gaps and unrequested mechanics remain unchanged.
 
 ### November 4, 2026 — Mindprism / Mnemonic Arts / Living Reliquaries approved (LATEST)
 
@@ -135,7 +142,7 @@
 - **Muzzle-mouth:** Approved derogatory term for enslaved people frequently muzzled or gagged, especially in the Gilded Coil; **not** a legal slave category. May be used against people no longer restrained; rare reclaimed use among enslaved communities does not neutralize it.
 - **Speaking in Colors:** Explicitly approved, definitive casual dialogue convention. The five magical energies are typically named by color (“shape the white,” “out of black”); the term **mana** remains standard in precise, academic, technical, mechanical, and Shimmer contexts. The magic mechanics themselves are unchanged.
 - Added approved magical praise/insults/slang for the represented peoples. Treat scenes as examples of linguistic style, not new mechanical permissions.
-- **OPEN documentation gap:** Kobold linguistic material is canon, but Kobolds are missing from the `02_Races.md` racial index. Do **not** remove the linguistic material or invent a new race sheet; reconcile the racial reference in a later update.
+- **RESOLVED November 4:** Kobold linguistic canon remains valid; Kobolds now appear in `02_Races.md` with explicitly approved starting attributes and modifiers. Any unapproved Orbcraft rank progression remains undocumented.
 - Updated the Canon Index to reference the recovered and operative linguistic dossier.
 
 ### November 3, 2026 — Drakyn finalized
