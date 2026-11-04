@@ -21,6 +21,13 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Red Sorcery alteration count reconciled (LATEST)
+
+- **Explicit user approval:** Remove the **unidentified seventh Ignis alteration purchase** from the Red Sorcery purchase ledger. The six **named Ignis** alterations (Flame Arsenal I, Flame Arsenal II, Lingering Fire, Backdraft, Stormspark, Impossible Combustion) and all other previously approved named abilities remain untouched.
+- **Final Red purchase ledger:** Ignis **6**; Varekh **5**; Darvok **4**; Ashal **5**; Ruveth **5** = **25 alterations**, plus five base Incantations. Complete Red Sorcery costs **90 SP ordinary / 60 SP Drakyn**. The standard five-color full catalogue benchmark remains **450 / 300 SP**; definitive Blue/Green/White selections still have source gaps. The unequal per-Incantation distribution is intentional under this ruling.
+- **Supersedes:** Previous provisional 26-alteration Red tally and **93 / 62 SP** Red mastery, as well as 453 / 302 SP all-color estimates derived from the extra purchase. Updated owning reference `03_Sorcery.md` and the Canon Index.
+
+
 ### November 4, 2026 — Mindprism / Mnemonic Arts / Living Reliquaries approved (LATEST)
 
 - **Approved technology and vocabulary:** Retinal **Mindprism** uses specially calibrated **Cipherlight** for the **Mnemonic Arts**. Approved terms: **Echo, Echo Orb, Everseal, Mindwright, Deepprint, Echoing, Mindcut, Echo Vault, Memory Bond, Dreamcasting, Dreamcaster, Dreamhouse, Skillprint, Living Reliquary, Hollow Reliquary**. Ordinary direct Cipherlight beams remain dangerously confusing.
@@ -151,7 +158,7 @@
 - Ordinary Incantations and alterations **3 SP each**; Drakyn **2 SP each**.
 - Blue, Green, White color catalogues were approved earlier (five bases and five alterations each); their **exact 25 chosen names** are not all present in locally accessible export artifacts.
 - **Black's five groups and 25 selected alterations explicitly approved.** Full named list in `03_Sorcery.md`.
-- **Red's latest detailed revisions explicitly approved**, but the surviving accounting reports **26 alteration purchases**, including a seventh Ignis purchase whose name is not recovered. Current itemized Red price **93 SP non-Drakyn / 62 SP Drakyn**, pending purchase-list clarification. Do not silently restore standard 90/60.
+- **Historical Red ledger (superseded by latest November 4 ruling):** Earlier reporting counted **26 purchases**, including an unidentified seventh Ignis slot, provisionally pricing Red at **93/62 SP**. This uncertainty was subsequently resolved by the user's explicit removal of the unidentified purchase. The operative Red total is **25 alterations, 90/60 SP**, with all named abilities preserved.
 
 ### November 3, 2026 — Jestercraft superseded
 
@@ -194,7 +201,7 @@
 
 ## 4. Priority unresolved issues (truthfully labeled)
 
-1. **Red Sorcery purchase count:** 26 approved itemized alteration slots; reconcile seventh Ignis entry versus standard 25 without changing the approved concepts.
+1. **Red Sorcery purchase count — RESOLVED November 4:** the unidentified seventh Ignis purchase is removed by explicit user ruling; **25 Red alterations, 90 SP ordinary / 60 SP Drakyn**, all named skills unchanged. No further decision needed unless the user reopens it.
 2. **Approved Blue/Green/White chosen alterations:** obtain definitive exports or pasted selection lists, not just proposal menus.
 3. **Revised Anvilcant:** decide whether to approve Socketwright + three clockwork branches, the 200-SP total and concrete rank mechanics; until then, document proposal separately.
 4. **Modular equipment:** approve or revise slots, rune family rank values, socketed gem activation rates, multicolor surcharge and Manacistern caps/strain; current numbers are examples, not canon.
