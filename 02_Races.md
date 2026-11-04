@@ -3,6 +3,10 @@
 **Authority:** CANON, with overrides noted. **Assembled:** 2026-11-03.  
 **Source basis:** earlier master compendium, combined with explicitly approved later descriptions of Drakyn, Centaurs, and Corvyn anatomy.
 
+## Approved adult female appearance across all races — November 4, 2026
+
+**Adult females of all Mystaria races are characteristically busty and voluptuous.** This broadens the earlier Corvyn-specific description into a setting-wide appearance direction. Apply the description through each race's established body plan and the global official-art style; preserve species identity, racial anatomy and form-specific features, including Firstshaped forms. This does not grant human body parts to races or forms that lack them, or change racial statistics or abilities. Earlier slender descriptions must be read consistently with this newer direction.
+
 ## Current racial index
 
 | Race | Identity / prominent gifts | Full specialist reference |
