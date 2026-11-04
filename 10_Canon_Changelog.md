@@ -21,6 +21,14 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Raw blue mana against wounded targets approved
+
+- **Explicit user approval:** A Warlock's raw blue blast against a wounded target primarily causes **sensory overload and pain amplification**, with secondary **fractured bodily perception and disrupted coordination**.
+- **Boundary:** Raw projection remains distinct from structured Sorcery; it does **not** freeze the target or become a splash of water. Approval is limited to this blue effect. Other optional proposals are not automatically canon.
+- **Owning reference:** `04_Warlock_Manacraft.md`; navigation summary in `00_Mystaria_Canon_Index.md`. This adds an approved clarification where the dossier previously lacked a wounded-target raw-blue description; it does not replace the existing **Blue Hole — Shifting Depth**.
+- **Preserved:** All existing Warlock skills, ranks, SP/MP costs, prerequisites, level gates, range, Handling Capacity, and external-source restrictions.
+- **UNRESOLVED:** Exact duration, numerical penalties, resistance procedure, and damage formula for this effect. No new numerical mechanics are inferred.
+
 ### November 4, 2026 — Busty and voluptuous adult female appearance extended to all races
 
 - **Latest explicit user direction:** Extend the busty and voluptuous description to adult females of every Mystaria race. The earlier Corvyn-specific direction remains included within this broader rule.
