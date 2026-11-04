@@ -1,6 +1,6 @@
 # MYSTARIA — Canon Library Index
 
-**Library edition:** November 4, 2026 — updated for approved Warlock Manacraft replacement and Gilded Coil regional gazetteer  
+**Library edition:** November 4, 2026 — approved Warlock, Gilded Coil, Mnemonic Arts and repository-audit reconciliation  
 **Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
 **Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
 
@@ -38,6 +38,10 @@
 | [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
 | [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md) | Approved southeastern Naga homeland: Worldspindles/Coilworks, four cities, Cipherlight/Coilnet Rainbows, Conclave, Scale Register, Mirrorwardens and Spindlewatch, economy, ecology, slavery and adventure setting | **CANON** — sole capital Sathryx; enslaved central-city majority with no approved percentage |
 | [`19_The_Mnemonic_Arts_and_Echo_Economy.md`](19_The_Mnemonic_Arts_and_Echo_Economy.md) | Mindprism retina-based Cipherlight, Echo records, memory return/Everseals, Skillprints, Dreamcasting, Echo Vaults and Living Reliquaries | **CANON** — unresolved technical rates and exact MP/Gem pricing marked |
+
+## November 4 repository audit — approved maintenance
+
+The GitHub library now includes the restored approved `09_Equipment_and_Economy.md` and `15_Naga_Psycraft_Canon.md`. Operative Naga terminology is **Psycraft / Psychics**; the Grand Coil Games rotate among **major Imperial cities**, and **Sathryx is the sole capital**. Firstshaped rates are approximately **10% of Centaurs (Ponies)** and **5% of Drakyn**, overriding generic rarity for those races. The original Red `Ignis` seven-reported/six-named alteration gap, missing selected Blue/Green/White alterations, and Warlock END threshold formula remain unresolved. Kobold starting statistics and racial modifiers have **not** been approved.
 
 ## Approved Mindprism, Echo Economy and Skillprints — November 4, 2026
 

@@ -6,11 +6,11 @@
 
 “The Naga can move a sword without touching it. Very impressive, darling. Now watch me turn the water inside their expensive lock to ice.”
 
-Wakecraft is one of Mystaria's most versatile magical traditions, comparable in depth to Naga Crowncraft and Moontouched Manabending.
+Wakecraft is one of Mystaria's most versatile magical traditions, comparable in depth to Naga Psycraft and Moontouched Manabending.
 
 Its practitioners are called Wakewrights.
 
-Where Crownminds command the mind and Warlocks command raw mana, Wakewrights command water and everything water makes possible.
+Where Psychics command the mind and Warlocks command raw mana, Wakewrights command water and everything water makes possible.
 
 A master Wakewright can create ice bridges, cut through stone with pressurized water, extract drinkable water from the earth, reconstruct crimes from a spilled drink, command aquatic Starspawn, build living coral fortifications, and reduce enemies to desiccated dust.
 
@@ -621,11 +621,11 @@ A Saltwake specialist might possess the power to undermine a stone enclosure or 
 
 The Naga's reliance on Wakecraft therefore creates a familiar Imperial contradiction: the more valuable Tidekin expertise becomes, the harder it is to keep its practitioners entirely under control.
 
-## IX. Wakecraft Compared with Crowncraft and Manabending
+## IX. Wakecraft Compared with Psycraft and Manabending
 
-| Property              | Wakecraft                                               | Crowncraft                                       | Manabending                                                |
+| Property              | Wakecraft                                               | Psycraft                                       | Manabending                                                |
 | --------------------- | ------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------- |
-| Practitioners         | Tidekin Wakewrights                                     | Naga Crownminds                                  | Moontouched Warlocks                                       |
+| Practitioners         | Tidekin Wakewrights                                     | Naga Psychics                                  | Moontouched Warlocks                                       |
 | Primary affinity      | Blue                                                    | Predominantly blue                               | No native mana affinity                                    |
 | Core ability          | Hydrokinesis                                            | Sovereign Sense                                  | Manabending                                                |
 | Primary resource      | Personal MP                                             | Personal MP                                      | External mana                                              |

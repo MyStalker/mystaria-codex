@@ -17,7 +17,7 @@
 | **Hollow Crown Expeditions** | Explore ruins, recover intact artifacts and document discoveries | Prestigious and dangerous competitive archaeology | Silent Works frontier; autumn |
 | **Starwarden Pursuit** | Complete tracking, access or cooperative challenges involving intelligent Starspawn | Wilderness sport and Starspawn relations | Inner Garden reserves; late spring |
 
-**Circuit:** The **Great Coil Circuit** connects these competitions; the **Grand Coil Games** take place every four years at rotating Imperial capital venues.
+**Circuit:** The **Great Coil Circuit** connects these competitions; the **Grand Coil Games** take place every four years at rotating major Imperial cities.
 
 **Important limits on interpretation:** The source says a *typical* Coilrun has two teams of five and timed rounds; this is setting detail, not a universal rule for all divisions. The five Worldspindle judging criteria are *equally weighted* in-world, but no numeric scale is specified. Golden Conquest forbids lethal attacks; details of enforcement are unspecified. The Starwarden Pursuit's most prestigious formats feature willing Starspawn, not compulsory consent by every organizer. Individual contest scoring, standard match duration, spell restrictions and formal athlete eligibility rules are not exhaustively defined.
 
@@ -337,7 +337,7 @@ A Naga family in Sathryx might follow its favorite Coilrun team with the same pa
 | Autumn           | Hollow Crown Expeditions     | Silent Works frontier            |
 | Winter           | Golden Conquest Championship | Sathryx                          |
 | Year-round       | Professional Coilrun League  | Major Imperial cities            |
-| Every four years | The Grand Coil Games         | Rotating Imperial capital venues |
+| Every four years | The Grand Coil Games         | Rotating major Imperial cities |
 
 The Grand Coil Games are established as a prestigious multi-sport event, attracting competitors from foreign kingdoms; their precise comparative global prestige is not separately quantified.
 

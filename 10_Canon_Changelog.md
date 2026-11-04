@@ -21,6 +21,14 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Repository audit reconciliation (approved corrections; review branch)
+
+- **Restored missing canonical sources:** Reinstated `09_Equipment_and_Economy.md` (approved five-tier equipment baseline; clearly separated modular-equipment proposals and Moonlit Garden pricing conflicts) and the full `15_Naga_Psycraft_Canon.md` (Sovereign Sense, 15 approved ranks, 75 SP total, current **Psycraft / Psychics** terminology). These files existed in approved project sources but were absent from the GitHub repository.
+- **Imperial games:** Replaced mistaken descriptions of rotating "Imperial capital venues" with **major Imperial cities** in `17_Imperial_Sports_and_Great_Coil_Circuit.md`. **Sathryx remains the sole capital**; venue rotation mechanics are otherwise unchanged.
+- **Naga terminology:** Corrected outdated operative `Crowncraft` / `Crownmind` references to **Psycraft** / **Psychic(s)** in the races index and Wakecraft/Vren comparison passages. Historical explanation of superseded titles is retained where relevant. This changes names only, not abilities or costs.
+- **Firstshaped rarity (new explicit user ruling):** Approximately **10% of Centaurs** are Firstshaped Ponies; approximately **5% of Drakyn** are Firstshaped. These supersede application of the older generic `~1 in 50` rate to those two races. The generic rate remains background for other races without an approved exception. Updated `02_Races.md`, `06_Drakyn.md`, `07_Centaurs_and_Smithcraft.md`.
+- **Still NOT CANON / pending user review:** Kobold numerical starting attributes and racial modifiers must be proposed, not installed; the Red Sorcery alteration discrepancy concerns **Ignis**, with **seven reported slots but only six names recovered**; no alteration was deleted or repriced; Blue/Green/White final approved selections could not be recovered from the available candidate-menu sources; Warlock END spell-load thresholds need a newly approved formula. Centaur clockwork redesign, exact other gaps and unrequested mechanics remain unchanged.
+
 ### November 4, 2026 — Mindprism / Mnemonic Arts / Living Reliquaries approved (LATEST)
 
 - **Approved technology and vocabulary:** Retinal **Mindprism** uses specially calibrated **Cipherlight** for the **Mnemonic Arts**. Approved terms: **Echo, Echo Orb, Everseal, Mindwright, Deepprint, Echoing, Mindcut, Echo Vault, Memory Bond, Dreamcasting, Dreamcaster, Dreamhouse, Skillprint, Living Reliquary, Hollow Reliquary**. Ordinary direct Cipherlight beams remain dangerously confusing.
