@@ -21,6 +21,12 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Drider and Centaur illustration style approved
+
+- **Explicit user direction:** Driders and Centaurs should be more anime-inspired, with **controlled linework, simplified facial features, and expressive posing**.
+- **Scope:** Character rendering within the living-storybook presentation; this supersedes any conflicting tendency toward realistic facial rendering for these races. No anatomy, lore or mechanics changes are introduced.
+- **Updated references:** `11_Visual_Style_Guide.md`, `02_Races.md`, `07_Centaurs_and_Smithcraft.md`, and `00_Mystaria_Canon_Index.md`.
+
 ### November 4, 2026 — Warlock direct MP Hand Capacity approved (LATEST)
 
 - **Explicit approval:** Replace the old 1–3 spell-load system with direct temporary mana handling in **one hand**: **`max(1, floor(natural effective END / 5)) MP`**, i.e., **20% of natural effective END rounded down, minimum 1 MP**. For END 10/25/40/60/100/150/200, respective one-hand limits are **2/5/8/12/20/30/40 MP**.
