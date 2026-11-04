@@ -21,6 +21,13 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Global official-art style and Corvyn figures approved
+
+- **Explicit user approval:** All official Mystaria artwork generated going forward must use the seven listed attributes: simplified strong shapes; clean varied bold outlines; expressive deliberately stylized proportions; two or three hard-edged cel-shading values and broad highlights; limited separated colors and colored shadows; large readable shapes with selective facial/focal detail; clear action lines, dynamic gestures and expressive hands.
+- **Supersession:** Replaces the painterly living-storybook rendering requirement globally, including environments. Earlier Drider/Centaur controlled-linework guidance remains compatible within this global specification. Species anatomy and established forms remain controlling.
+- **Racial appearance:** Adult female Corvyn characteristically have particularly busty, voluptuous figures. This supersedes the earlier blanket slender-figure description while preserving their avian features, independent arms and separate back wings. No numerical stats or mechanics change.
+- **Updated references:** `11_Visual_Style_Guide.md`, `02_Races.md`, `00_Mystaria_Canon_Index.md`, and `AGENTS.md`, plus this ledger. Existing collars, emblems and purple identity remain operative. The style specification is approved; `vol-peoples` version 6 remains unapproved.
+
 ### November 4, 2026 — Official-art collar depiction philosophy approved
 
 - **Explicit user direction:** In official art, slave races should usually be depicted wearing collars.
