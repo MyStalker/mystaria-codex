@@ -13,6 +13,7 @@
 | Tidekin | Otterfolk; Wakecraft | `08_Other_Crafts.md` |
 | Duskpaws | Raccoonfolk; Fraycraft, black mana | `08_Other_Crafts.md` |
 | Naga | Serpentine overseer lineages; Psycraft (Psychics) | `15_Naga_Psycraft_Canon.md` |
+| Kobolds | Small, dexterous, highly intelligent Orbcraft and Mirrorcraft engineers | Here; `08_Other_Crafts.md` (Orbcraft), `18_The_Gilded_Coil_Imperial_Gazetteer.md` |
 | Vren | Batfolk; blood-using magical traditions | `08_Other_Crafts.md` |
 | Corvyn | Crowfolk; two independent arms **and two back-mounted wings**, Veilsight, Witchbonds | `08_Other_Crafts.md` |
 | Drider | Four-armed spiderfolk, daughters of Arrest | `08_Other_Crafts.md` |
@@ -20,6 +21,21 @@
 | Drakyn | Dragons: hoards, Starspawn predation, Wyrmcraft | `06_Drakyn.md` |
 | Centaurs | Equine-bodied smiths; Anvilcant; green mana | `07_Centaurs_and_Smithcraft.md` |
 | Firstshaped | Fully sapient animal-bodied variants of other races | Here |
+
+## Approved Kobold level-1 Hero attributes — November 4, 2026
+
+**Canon:** The user explicitly approved the following Kobold base attributes and permanent racial multipliers. The five absolute Shimmer attributes apply normally; racial percentages modify base attributes as for other races.
+
+| Attribute | Base | Racial modifier | Effective starting value |
+|---|---:|---:|---:|
+| STR | **2** | **−10%** | **1.8** |
+| DEX | **8** | **+10%** | **8.8** |
+| END | **3** | — | **3** |
+| INT | **10** | **+20%** | **12** |
+| SPD | **7** | — | **7** |
+| **Total** | **30** | — | **32.6** |
+
+These are **racial starting statistics**, not a new Orbcraft skill tree or free purchased powers. Kobold Orbcraft/Mirrorcraft lore and cultural expressions remain governed by their existing references. No new mana affinity, starting SP award, level gate, Craft rank, or extra racial ability is implied by this ruling.
 
 ## Approved later anatomical and naming clarifications
 
