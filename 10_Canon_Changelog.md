@@ -21,6 +21,13 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Official-art collar depiction philosophy approved
+
+- **Explicit user direction:** In official art, slave races should usually be depicted wearing collars.
+- **Owning reference:** `11_Visual_Style_Guide.md` records visible collars as the normal art-direction convention, with contextual and explicitly directed exceptions preserved by the word **usually**.
+- **Scope:** Visual presentation only; no new racial classification, universal enslavement rule, legal status, or mechanics. This adds an explicit default where the guide previously had none.
+- **Cross-reference:** `00_Mystaria_Canon_Index.md`. Individual illustrations still require separate approval; `vol-peoples` version 3 remains awaiting approval.
+
 ### November 4, 2026 — Drider and Centaur illustration style approved
 
 - **Explicit user direction:** More anime-inspired character design for Driders and Centaurs, with **controlled linework, simplified facial features, and expressive posing**.
