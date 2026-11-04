@@ -140,3 +140,7 @@ The files generated in the conversation are **not automatically installed as Pro
 The five mana symbols are **approved visual canon**: Red = curling fire; Blue = water droplet with inner wave; White = radiant eight-point star; Green = veined leaf; Black = skull with purple forehead jewel. The **actual source artwork**, `Mystaria_Mana_Emblems_Approved.png`, controls design details. See [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) for visual rules and site placement. Artwork captions are not independent mechanical or philosophical canon.
 
 **Latest approved color identity:** Purple is Mystaria's signature publication color and the Shimmer's identifying color. The world's skies tend toward purple, occasionally red. For presentation see `11_Visual_Style_Guide.md`; for in-world sky/Shimmer canon see `01_World_and_Shimmer.md`. No specific palette code or cause for the sky colors has been approved.
+
+### Approved Drider and Centaur illustration style — November 4, 2026
+
+Driders and Centaurs use more anime-inspired character design with **controlled linework, simplified facial features, and expressive posing**. `11_Visual_Style_Guide.md` controls this rendering direction; `02_Races.md` and `07_Centaurs_and_Smithcraft.md` cross-reference it. Current approved anatomy and mechanics remain governed by the racial references.
