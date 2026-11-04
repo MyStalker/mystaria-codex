@@ -41,9 +41,9 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 Use more humanoid character proportions where compatible with the race, while preserving species identity and approved anatomy, including animal heads, paws, scales, feathers, wings and tails. Preserve the established humanlike upper bodies of Driders and Centaurs and the animal-bodied forms of Firstshaped. Stylization must respect each character's anatomy and the scene's emotional intent; subtle expressions remain appropriate when directed. Existing mana emblems, purple identity, collar convention and illustration approval procedure continue to apply. This approves the style specification; it does not approve any individual image.
 
-### November 4, 2026 — Corvyn figure guidance
+### November 4, 2026 — Adult female figure guidance across all races
 
-**USER-APPROVED RACIAL APPEARANCE:** Adult female Corvyn characteristically have particularly busty, voluptuous figures. Preserve their avian heads, feathers, taloned hands and feet, two independent arms and two additional back-mounted wings. See `02_Races.md` for the owning racial description.
+**USER-APPROVED RACIAL APPEARANCE AND ART DIRECTION:** Adult females of **all Mystaria races** are characteristically **busty and voluptuous**. This extends the earlier Corvyn-specific guidance to every race. Express the fuller, curvier silhouette through the established anatomy and body plan of each race and form, including Firstshaped, while following the global graphic animated style. Preserve species identity and form-specific features; this direction does not add human body parts to races or forms that lack them. Corvyn retain their avian heads, feathers, taloned hands and feet, two independent arms and two additional back-mounted wings. See `02_Races.md` for the owning racial appearance rule.
 
 
 ### November 4, 2026 — Approved collar depiction philosophy
