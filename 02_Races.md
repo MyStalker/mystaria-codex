@@ -235,7 +235,7 @@ Following the Serpentari Empire's collapse, persecution encouraged their descend
 
 ### Biology and Appearance
 
-Corvyn are slender avian humanoids standing five to six feet tall. They possess black feathers, sharp beaks, taloned hands and feet, and large wings capable of sustained flight.
+Corvyn are avian humanoids standing five to six feet tall. **Adult female Corvyn characteristically have particularly busty, voluptuous figures**, per the November 4, 2026 approved appearance clarification; the earlier blanket description of slender figures is superseded. They possess black feathers, sharp beaks, two independent arms ending in taloned hands, two near-humanoid legs with taloned feet, and two additional back-mounted wings capable of sustained flight.
 
 Their remarkable eyesight grants **Veilsight**, allowing them to perceive magical auras, hidden enchantments, curses, supernatural connections, and certain invisible creatures.
 
