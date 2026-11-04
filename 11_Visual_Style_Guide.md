@@ -25,6 +25,10 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 ## 2. Established art direction for the Living Codex
 
+### November 4, 2026 — Approved collar depiction philosophy
+
+**USER-APPROVED ART DIRECTION:** In official Mystaria artwork, members of the setting's slave races should **usually be depicted wearing visible collars**. Treat this as the default visual convention when composing representative racial illustrations and everyday social scenes. **Usually** allows exceptions where the selected character, established free or emancipated status, narrative context, or the author's explicit art direction calls for an uncollared depiction. Follow existing racial and social canon when identifying the relevant peoples; this direction does not establish a new exhaustive racial classification or make every individual enslaved. Fit collars naturally to species anatomy, clothing and the scene.
+
 ### November 4, 2026 — Approved Drider and Centaur character style
 
 **USER-APPROVED ART DIRECTION:** Depict Driders and Centaurs with more anime-inspired character design: **controlled linework, simplified facial features, and expressive posing**. Combine this character treatment with Mystaria's painterly living-storybook environments and atmosphere. Follow the current approved racial anatomy references; this rendering direction does not change anatomy or mechanics.
