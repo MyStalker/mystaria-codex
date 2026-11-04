@@ -1,0 +1,138 @@
+# MYSTARIA — Canon Library Index
+
+**Library edition:** November 4, 2026 — updated for approved Warlock Manacraft replacement and Gilded Coil regional gazetteer  
+**Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
+**Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
+
+## Read this before adjudicating a rule
+
+**Canon precedence:**
+
+1. The user's **latest explicit approval or correction** governs the subject, even when an older master compendium or generated guide disagrees.
+2. A dedicated approved canonical source (e.g. Warlock rank manuscript or revised Jester Craft) controls its own details over short summaries.
+3. The November 1 `Mystaria_Canon_Compendium.md` supplies background canon **only insofar as no later decision contradicts it**.
+4. An assistant's unapproved proposal or recommended formula is **not canon**, even if fully developed or contained in this library.
+5. Missing exact mechanics, absent named ranks and unresolved count conflicts must be labeled **UNKNOWN/UNRESOLVED**; never infer them just to make the documents look complete.
+
+**Status key:** **CANON** = explicitly approved and operative; **CANON WITH SOURCE GAPS** = approved but some exact recorded details inaccessible; **UNDER REVISION** = older approved content flagged for potential replacement; **PROPOSAL** = presented, not canon.
+
+## File directory
+
+| File | Scope | Current status |
+|---|---|---|
+| [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
+| [`02_Races.md`](02_Races.md) | Older full racial descriptions, Firstshaped and newer race identity cross-references | **CANON** with explicit Drakyn/Centaur/Corvyn updates |
+| [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS**, Red purchase count unresolved |
+| [`04_Warlock_Manacraft.md`](04_Warlock_Manacraft.md) | Revised five Warlock trees, all 25 ranks, approved MP fees, new Manabending range and handling rules | **CANON**, full source reproduced |
+| [`05_Jestercraft.md`](05_Jestercraft.md) | Full approved versatility-overhaul Jestercraft, speaking Regalia, Stitches, Sponge, 130-SP complete mastery (both ultimates) | **CANON**, full source reproduced |
+| [`06_Drakyn.md`](06_Drakyn.md) | Dragon biology/culture, feeding, marks, five Wyrmcraft trees, SP costs | **CANON**; a few numeric metamagic limits unresolved |
+| [`07_Centaurs_and_Smithcraft.md`](07_Centaurs_and_Smithcraft.md) | Centaur culture, 12 materials, Celestite, firearms; original Anvilcant and proposed clockwork overhaul | **CANON**, with separate **UNDER REVISION** and **PROPOSAL** chapters |
+| [`08_Other_Crafts.md`](08_Other_Crafts.md) | Craft SP schedule, Psycraft (legacy Crowncraft), Wakecraft, Fraycraft, Witchcraft, Concordance, other magic | **CANON** descriptive, **rank source gaps** |
+| [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md) | Existing 5-tier equipment, Soul Strain, Gems and shop; proposed modular overhaul | **CANON** baseline; proposed additions clearly labeled |
+| [`10_Canon_Changelog.md`](10_Canon_Changelog.md) | Dated approvals, supersession matrix, unresolved decisions and maintenance rules | **AUTHORITATIVE STATUS LEDGER** |
+| [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) | Approved five mana emblems, Mystaria signature purple, purple Shimmer, purple/red skies, living-storybook presentation, artist approval workflow and illustration placement | **APPROVED VISUAL/WORLD CANON** where labeled; production guidance separated |
+| [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) | APPROVED Roadspeech and regional registers; speech, insults, compliments, curses, Muzzle-mouth, Kobold alarm words and Speaking in Colors | **CANON** — Kobold racial-index documentation pending reconciliation |
+| [`13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md) | Tidekin innate Hydrokinesis; six Wakecraft skills × five ranks, MP, SP and cultural applications | **CANON** — 150 SP mastery |
+| [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
+| [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
+| [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
+| [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md) | Approved southeastern Naga homeland: Worldspindles/Coilworks, four cities, Cipherlight/Coilnet Rainbows, Conclave, Scale Register, Mirrorwardens and Spindlewatch, economy, ecology, slavery and adventure setting | **CANON** — sole capital Sathryx; enslaved central-city majority with no approved percentage |
+| [`19_The_Mnemonic_Arts_and_Echo_Economy.md`](19_The_Mnemonic_Arts_and_Echo_Economy.md) | Mindprism retina-based Cipherlight, Echo records, memory return/Everseals, Skillprints, Dreamcasting, Echo Vaults and Living Reliquaries | **CANON** — unresolved technical rates and exact MP/Gem pricing marked |
+
+## Approved Mindprism, Echo Economy and Skillprints — November 4, 2026
+
+`19_The_Mnemonic_Arts_and_Echo_Economy.md` controls the **approved Mnemonic Arts** of retinal **Mindprism**: **Echoing** consumes extravagant mana and is ordinarily impractical; **Mindcut** rapidly removes the source's original memories and can cause permanent brain damage; neurological strain from either cannot be healed by magic. An **Echo** remains bound to its original owner, cannot be destroyed by mortal technology, and returns if not held by a maintained, mana-consuming **Everseal** while that owner is alive; **the owner's death ends automatic return**. **Skillprints** can grant **actual Shimmer skills counted as purchased for 0 SP**, subject to compatibility, normal prerequisites and level gates; **about 5 SP worth per month** is the modest safe assimilation rate. They are very rare medium/high-level Hero rewards. **Dreamcasting** is real-time experiential entertainment. **Echo Vaults**, **Memory Bonds**, **Living Reliquaries** and **Hollow Reliquaries** are established. `18_The_Gilded_Coil_Imperial_Gazetteer.md` and `01_World_and_Shimmer.md` include corresponding cross-references; `12_Languages_and_Linguistic_Customs.md` records technical terms. Exact MP costs, return timing and exceptional procedures remain unresolved.
+
+## Approved Cipherlight / Rainbow network expansion — November 4, 2026
+
+`18_The_Gilded_Coil_Imperial_Gazetteer.md` establishes **Cipherlight**, the hazardous encoded light transmitting Orbcraft/Mirrorcraft messages through lighthouse relays and reflective underwater pipelines. An active network's atmospheric coverage is its **Rainbow**, a recognizable, usually subtle aurora-like display that intensifies with heavy traffic. Even a small Coilnet outside established cities, such as at a Drakyn lair, can attract attention. Unexpected Rainbows can alert security to possible espionage or foreign influence, without identifying or proving criminal activity. Regional interpretations are summarized in that dossier. `12_Languages_and_Linguistic_Customs.md` includes the **approved Kobold and regional Cipherlight/Rainbow sayings**. `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md` documents the **approved Tidekin Mirrorwake interaction**: exceptionally detectable Cipherlight passages, strong water impressions, potential overload/erasure-by-obscuring of other evidence, and sophisticated false impressions. Exact forensic thresholds, beam-coding and opposition mechanics remain unresolved. No existing Wakecraft ranks or SP costs change.
+
+
+## Approved Gilded Coil imperial gazetteer — November 4, 2026
+
+The user approved the complete *Gilded Coil — Heartland of the Naga Empire* manuscript where it does not conflict with later canon. The authoritative consolidated regional dossier is [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md). It establishes the **Inner Gardens / Outer Reaches / Silent Works** landscapes, four principal cities (**Sathryx**, **Velmora**, **Serrath Quay**, **Kheth-Vael**), Worldspindles/Coilworks, Imperial governance, Scale Register, **Scale Guard / Mirrorwardens / Coil Tribunals / Spindlewatch**, and regional economy, people, ecology and adventuring relevance. **Sathryx is the one imperial capital**. The four-yearly **Grand Coil Games rotate among major Imperial cities**. Enslaved people form **a majority of central-city residents**, with **no approved percentage** (the old 50–65% estimate is superseded). Subject-specific racial, magical and sporting dossiers govern their own mechanics.
+
+## Revised Warlock Manacraft approved — November 4, 2026
+
+`04_Warlock_Manacraft.md` now controls the **recovered replacement five-tree system**: **Mana Reach** (Unseen Hand → Ley Carving); **Mana Power** (Focused Expression → **Mana Singularity**, including **Green Hole — Genesis Bloom**); **Mana Harvest** (Afterglow → Soul Reaping); **Mana Imbuement** (Reservoir Seal → Soulwork); **Mana Dominion** (Deflection → Null Dominion). All **25 ranks cost 5 SP each (125 SP mastery)** at ordinary level gates; innate Manabending is free. **Basic range is `2 + 2 × effective INT` meters**; temporary hand storage follows the approved **natural-END-based 1–3 spell-load examples** rather than an END-sized personal pool. All **25 approved new MP activation/upkeep schedules** are recorded in the owning dossier. The old 25 ranks and their MP fees are **SUPERSEDED** wherever different, not optional parallel abilities; proposed progressive SP costs are rejected. Complete END boundaries for spell-load counts, same-action activation payments and some high-level scale/duration limits remain **UNRESOLVED**.
+
+## Approved Imperial sports and Great Coil Circuit — November 4, 2026
+
+The user's explicit approval canonizes the entirety of the recovered *Games of the Gilded Coil* manuscript. Read [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) for the six competitions (**Coilrun**, **Worldspindle Trials**, **Golden Conquest**, **Thousand Locks Regatta**, **Hollow Crown Expeditions**, **Starwarden Pursuit**), the **Great Coil Circuit**, Imperial sporting calendar, **Grand Coil Games**, professional and enslaved champions, sponsor politics, manatech broadcasting, and adventure hooks. The manuscript supplies setting objectives, examples and some typical competition structures, but does **not** establish a complete tabletop match-resolution system or numerical rules for every sport. The approved Naga magical tradition is **Psycraft** and practitioners are **Psychics**.
+
+## Approved Naga Psycraft — November 4, 2026
+
+**Psycraft** is the approved name of the Naga's predominantly blue-mana psychic tradition; **Crowncraft** is the superseded name. Practitioners are called **Psychics** (singular **Psychic**); **Crownmind** is a superseded, noncanonical title. Established proper names such as **The Perfect Crown** remain unchanged. `15_Naga_Psycraft_Canon.md` is the authoritative full reference: innate **Sovereign Sense**, plus **Psychokinesis**, **Telepathy**, and **Divination**, each with five sequential ranks at **5 SP each** (**75 SP** total). The approved manuscript also establishes the three academies, manatech connections, institutional roles, limitations and culture. Earlier `08_Other_Crafts.md` Crowncraft gap is resolved by this dossier; exact per-technique MP costs are not specified.
+
+## Approved Tidekin and Vren racial Crafts — November 4, 2026
+
+**Tidekin:** `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md` supersedes the old three-technique Wakecraft summary; innate Hydrokinesis, six five-rank skills and 150 SP full mastery.
+
+**Vren:** `14_Vren_Sanguine_Arts_Canon.md` contains Blood Boon and the six Disciplines of the Night; revised Blood Magic IV, Pulse Echo, Beastheart III–V and Celerity III supersede their original versions. Blood Boon activation follows `ceil(Hero Level / 25)` MP; level 25 costs 1 MP, level 26 costs 2 MP. The former table conflict is resolved by the November 4 clarification. Each rank costs 5 SP; 150 SP full mastery.
+
+`08_Other_Crafts.md` remains an older overview for these two races and is subordinate to the approved dedicated files.
+
+## Approved linguistic canon — November 4, 2026
+
+Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) for approved regional languages, cultural speech patterns, slurs, insults, compliments, curses, magical idioms and dialogue examples. **The original linguistic proposal is canon in full wherever not superseded by later user revisions.** For ordinary conversation, magic is called its **color** (e.g. “shape the white,” “out of black”); the word **mana** remains normal in technical and Shimmer contexts. **Muzzle-mouth** describes an enslaved person frequently muzzled or gagged, and is a strongly derogatory social insult, not a legal class. The Kobold cry **“Oops!”** warns of immediate catastrophe; **“Broken mirrors”** expresses bad luck.
+
+**Documentation gap:** Kobold linguistic practices are approved, but the current `02_Races.md` index does not include Kobolds. Do not erase or demote their language canon; reconcile the racial dossier separately, without fabricating mechanics.
+
+## Fast mechanics at a glance
+
+| System | Canon pricing / progression |
+|---|---|
+| Basic attributes | **STR / DEX / END / INT / SPD**; ordinary latest level gain **+2 base stat points**; **+1 every base stat at levels divisible by 5** |
+| Tier gates | I / level 1; II / 10; III / 25; IV / 50; V / 80 |
+| Ordinary Sorcery | **3 SP per Incantation**, **3 per alteration**; standard one-color 5 + 25 catalogue = **90 SP** |
+| Drakyn Sorcery | **2 SP per Incantation**, **2 per alteration**; standard one-color **60 SP** |
+| Red current itemization | **26 alterations** reported; **93 SP ordinary / 62 Drakyn** if all separately purchased; discrepancy to standard count unresolved |
+| Warlock/Manacraft | **5 skills × 5 ranks × 5 SP = 125 SP**; free Manabending |
+| Jestercraft | **6 free foundations + 18 modifiers × 3 + 19 applications × 4 = 130 SP** (126 SP with one Hemweaving ultimate) |
+| Native racial Craft | Normally **5 SP per rank**; a five-rank discipline = **25 SP** |
+| Naga Psycraft | **3 disciplines × 5 ranks × 5 SP = 75 SP**; free Sovereign Sense |
+| Foreign Craft | Awakening **5 SP once**, rank I **7 SP**, later ranks II–V **6 SP each** |
+| Drakyn Wyrmcraft | 5 disciplines, 25 ranks = **125 SP native**; all foreign **160 SP** with one awakening |
+| Original Centaur Anvilcant | 6 disciplines, 30 ranks = **150 SP**; two branches under redesign |
+| Proposed Centaur overhaul | 8 disciplines, 40 ranks = **200 SP** — **NOT CANON YET** |
+| Equipment | Five standard levels **14/30/50/70/90 Gems**, ordinary enchanted Soul Strain **1/2/4/6/8** |
+| Centaur equipment affinity | **Half equipment Soul Strain and half equipment stat bonuses**, round up totals; other properties retain full effect |
+| Mana-free races | **Moontouched** natural 0 MP; **Drakyn** natural 0 MP and 0 rest recovery (feed to acquire mana) |
+
+## Primary rules that avoid the largest continuity mistakes
+
+- **Drakyn**, not prior placeholder dragon racial names. Dragon elements arise **in the egg**. Their harvesting changes their current mana color and ejects an older pool into ambient mana.
+- **Jestercraft is NOT inversion/Recompense.** A sentient speaking Regalia grants six free foundations, physical Stitches and distinct Cut/Frayed states; Pincushion reverses currently Frayed once/day. Both Hemweaving ultimates may be purchased. Hollow Jesters survive as a lore possibility.
+- **Warlocks are not ordinary Sorcerers.** Chosen Moontouched manipulate raw external mana and already-shaped spells; their natural mana pool stays at zero. **Current five skill trees are the November 4 replacements**, not the prior November 3 trees; see `04_Warlock_Manacraft.md`.
+- **The Centaur race and Celestite are canon, but the eight-discipline clockwork/Socketwright expansion is still a proposal.** Do not silently bill all Centaur masters 200 SP.
+- **Black Sorcery alterations were explicitly approved. Red detailed revisions were explicitly approved.** The Red 26-purchase ledger and inaccessible Green/White/Blue final selected names remain open documentation problems, not permission to invent changes.
+- **Equipment material, enchantment, Gems, MP and Soul Strain are different mechanisms.** Celestite is **outside normal equipment quality** and destroys a wielder's experience/soul per stroke.
+- **Old compendium Shimmer growth of 1 attribute point per level is superseded.** Use 2 base points per level plus +1 all five every fifth level.
+
+## Sources and editorial method
+
+This library was assembled from accessible in-project original files, the existing master compendium, approved later reference files, and explicit decisions available in the current Mystaria Lore conversation context:
+
+- `Mystaria_Canon_Compendium.md` (Nov 1 legacy master, long background sections retained).
+- `Mystaria_Warlock_Skills_Canon.md` (historically approved but now superseded where conflicting by the recovered November 4 replacement; current 25 ranks and MP fees in `04_Warlock_Manacraft.md`).
+- `Mystaria_Jester_Craft_Canon_2026-11-03.md` (latest approved 130-SP Jestercraft versatility overhaul; integrated in `05_Jestercraft.md`). The 126-SP `Mystaria_Jester_Craft_Canon_Revised.md` is historical/superseded where inconsistent.
+- `Mystaria_Warlock_Skill_Costs.md` (earlier cost ledger; use only when not contradicted by full canon reference).
+- `Drakyn_Player_Field_Guide.html` and the November 3 Drakyn approval discussion.
+- `mystaria_green_sorcery_selection_menu.html` and `mystaria_white_sorcery_selection_menu.html` (**candidate menus, not final selected purchase exports**).
+- The November 3 Sorcery approvals, Centaur revision/approval, Celestite approval, and subsequent Smithcraft proposal discussion.
+
+### For other conversations in the project
+
+Open **this index** plus the **dedicated dossier for the subject** before responding. For mechanical disputes, check the **current status** and `10_Canon_Changelog.md` for superseded material. If a named power is missing, request or retrieve the final approved source transcript rather than improvising a "canon" ability.
+
+### How to install these as reusable project references
+
+The files generated in the conversation are **not automatically installed as Project Files**. Download the library ZIP, unpack it, and **add these Markdown files to the Mystaria Lore project's Files section**, replacing old conflicting versions or retaining the earlier compendium only as clearly labeled legacy background. Keeping the full file names and local Markdown links intact makes them easier to identify and cross-reference.
+
+**No automatic synchronization:** Later canon decisions must be deliberately incorporated into the owning Markdown dossier(s), index and changelog.
+
+### Approved visual reference (November 4, 2026)
+
+The five mana symbols are **approved visual canon**: Red = curling fire; Blue = water droplet with inner wave; White = radiant eight-point star; Green = veined leaf; Black = skull with purple forehead jewel. The **actual source artwork**, `Mystaria_Mana_Emblems_Approved.png`, controls design details. See [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) for visual rules and site placement. Artwork captions are not independent mechanical or philosophical canon.
+
+**Latest approved color identity:** Purple is Mystaria's signature publication color and the Shimmer's identifying color. The world's skies tend toward purple, occasionally red. For presentation see `11_Visual_Style_Guide.md`; for in-world sky/Shimmer canon see `01_World_and_Shimmer.md`. No specific palette code or cause for the sky colors has been approved.
