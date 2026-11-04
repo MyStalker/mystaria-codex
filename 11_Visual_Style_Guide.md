@@ -25,6 +25,10 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 ## 2. Established art direction for the Living Codex
 
+### November 4, 2026 — Approved Drider and Centaur character style
+
+**USER-APPROVED ART DIRECTION:** Depict Driders and Centaurs with more anime-inspired character design: **controlled linework, simplified facial features, and expressive posing**. Combine this character treatment with Mystaria's painterly living-storybook environments and atmosphere. Follow the current approved racial anatomy references; this rendering direction does not change anatomy or mechanics.
+
 ### November 4, 2026 — Approved purple identity and atmospheric color
 
 **USER-APPROVED VISUAL CANON — Mystaria's signature color:** **Purple** is the primary identifying color of *Mystaria* as a publication and setting brand. Give it particular prominence on title pages and in recurring backgrounds, framing, and decorative elements throughout the digital rulebook. Purple should recur frequently, without sacrificing the legibility of mechanical tables or overpowering other mana colors.
