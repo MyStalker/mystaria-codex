@@ -22,7 +22,7 @@
 |---|---|---|
 | [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
 | [`02_Races.md`](02_Races.md) | Older full racial descriptions, Firstshaped and newer race identity cross-references | **CANON** with explicit Drakyn/Centaur/Corvyn updates |
-| [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS**, Red purchase count unresolved |
+| [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS** for Blue/Green/White; Red purchase count resolved |
 | [`04_Warlock_Manacraft.md`](04_Warlock_Manacraft.md) | Revised five Warlock trees, all 25 ranks, approved MP fees, new Manabending range and handling rules | **CANON**, full source reproduced |
 | [`05_Jestercraft.md`](05_Jestercraft.md) | Full approved versatility-overhaul Jestercraft, speaking Regalia, Stitches, Sponge, 130-SP complete mastery (both ultimates) | **CANON**, full source reproduced |
 | [`06_Drakyn.md`](06_Drakyn.md) | Dragon biology/culture, feeding, marks, five Wyrmcraft trees, SP costs | **CANON**; a few numeric metamagic limits unresolved |
@@ -41,7 +41,7 @@
 
 ## November 4 repository audit — approved maintenance
 
-The GitHub library now includes the restored approved `09_Equipment_and_Economy.md` and `15_Naga_Psycraft_Canon.md`. Operative Naga terminology is **Psycraft / Psychics**; the Grand Coil Games rotate among **major Imperial cities**, and **Sathryx is the sole capital**. Firstshaped rates are approximately **10% of Centaurs (Ponies)** and **5% of Drakyn**, overriding generic rarity for those races. The original Red `Ignis` seven-reported/six-named alteration gap, missing selected Blue/Green/White alterations, and Warlock END threshold formula remain unresolved. Kobold starting statistics and racial modifiers have **not** been approved.
+The GitHub library now includes the restored approved `09_Equipment_and_Economy.md` and `15_Naga_Psycraft_Canon.md`. Operative Naga terminology is **Psycraft / Psychics**; the Grand Coil Games rotate among **major Imperial cities**, and **Sathryx is the sole capital**. Firstshaped rates are approximately **10% of Centaurs (Ponies)** and **5% of Drakyn**, overriding generic rarity for those races. The earlier Red `Ignis` seven-reported/six-named alteration discrepancy was **resolved by the author's explicit removal of the unidentified seventh purchase**; definitive selected Blue/Green/White alterations and the Warlock END threshold formula remain unresolved. Kobold starting statistics and racial modifiers have **not** been approved.
 
 ## Approved Mindprism, Echo Economy and Skillprints — November 4, 2026
 
@@ -90,7 +90,7 @@ Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Cust
 | Tier gates | I / level 1; II / 10; III / 25; IV / 50; V / 80 |
 | Ordinary Sorcery | **3 SP per Incantation**, **3 per alteration**; standard one-color 5 + 25 catalogue = **90 SP** |
 | Drakyn Sorcery | **2 SP per Incantation**, **2 per alteration**; standard one-color **60 SP** |
-| Red current itemization | **26 alterations** reported; **93 SP ordinary / 62 Drakyn** if all separately purchased; discrepancy to standard count unresolved |
+| Red Sorcery — resolved November 4 | **25 alterations**: Ignis 6, Varekh 5, Darvok 4, Ashal 5, Ruveth 5; **90 SP ordinary / 60 Drakyn**. Unidentified seventh Ignis purchase removed; all named alterations retained |
 | Warlock/Manacraft | **5 skills × 5 ranks × 5 SP = 125 SP**; free Manabending |
 | Jestercraft | **6 free foundations + 18 modifiers × 3 + 19 applications × 4 = 130 SP** (126 SP with one Hemweaving ultimate) |
 | Native racial Craft | Normally **5 SP per rank**; a five-rank discipline = **25 SP** |
@@ -109,7 +109,7 @@ Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Cust
 - **Jestercraft is NOT inversion/Recompense.** A sentient speaking Regalia grants six free foundations, physical Stitches and distinct Cut/Frayed states; Pincushion reverses currently Frayed once/day. Both Hemweaving ultimates may be purchased. Hollow Jesters survive as a lore possibility.
 - **Warlocks are not ordinary Sorcerers.** Chosen Moontouched manipulate raw external mana and already-shaped spells; their natural mana pool stays at zero. **Current five skill trees are the November 4 replacements**, not the prior November 3 trees; see `04_Warlock_Manacraft.md`.
 - **The Centaur race and Celestite are canon, but the eight-discipline clockwork/Socketwright expansion is still a proposal.** Do not silently bill all Centaur masters 200 SP.
-- **Black Sorcery alterations were explicitly approved. Red detailed revisions were explicitly approved.** The Red 26-purchase ledger and inaccessible Green/White/Blue final selected names remain open documentation problems, not permission to invent changes.
+- **Black Sorcery alterations were explicitly approved. Red detailed revisions were explicitly approved.** The former Red 26-purchase ledger is **superseded by the approved 25-alteration resolution (90/60 SP)**. Inaccessible Green/White/Blue final selected names remain open documentation problems, not permission to invent changes.
 - **Equipment material, enchantment, Gems, MP and Soul Strain are different mechanisms.** Celestite is **outside normal equipment quality** and destroys a wielder's experience/soul per stroke.
 - **Old compendium Shimmer growth of 1 attribute point per level is superseded.** Use 2 base points per level plus +1 all five every fifth level.
 
