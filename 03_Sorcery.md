@@ -2,7 +2,7 @@
 
 **Authority:** CANON for core Sorcery economy, the approved Black catalogue, and the most recent approved Red revisions; APPROVED BUT INCOMPLETE TRANSCRIPTION for Blue, Green, and White alteration names. **Edition:** 2026-11-03.
 
-> **Editorial integrity:** This file deliberately distinguishes (1) details present in accessible source files or context, (2) explicitly approved catalogues whose complete selections have not been supplied in an accessible definitive list, and (3) a numerical discrepancy in approved Red alteration purchases. Missing names are never filled with unapproved candidate alternatives. Add the original approved selection transcript when recovered.
+> **Editorial integrity:** This file deliberately distinguishes (1) details present in accessible source files or context, (2) explicitly approved catalogues whose complete selections have not been supplied in an accessible definitive list, and (3) the approved resolution of the earlier Red alteration-count discrepancy. Missing names are never filled with unapproved candidate alternatives. Add the original approved selection transcript when recovered.
 
 ## I. What Sorcery is — established
 
@@ -20,11 +20,11 @@ A color is not a moral alignment: **red** concerns heat, destruction and energet
 | Five base Incantations, no alterations | **15 SP** | **10 SP** |
 | Standard color: 5 bases + 25 alterations | **90 SP** | **60 SP** |
 | Standard all five colors: 25 bases + 125 alterations | **450 SP** | **300 SP** |
-| Current itemized Red: 5 bases + 26 alterations | **93 SP** | **62 SP** |
+| Approved Red: 5 bases + 25 alterations | **90 SP** | **60 SP** |
 
-**Current reconciliation:** The **standard color** benchmark remains 90/60 SP. The user's latest explicit approval of the detailed Red revisions **also approved their content**, but the available itemization reports **26 rather than 25 Red alteration purchases**. If all 26 remain separate, Red costs **93 SP / 62 SP**. The last Red purchase/duplication must be identified or explicitly consolidated before claiming Red is 90/60. Under the 26-purchase interpretation, every color total across all five becomes **453 ordinary / 302 Drakyn**. Do not silently delete the extra alteration or pretend the count is settled.
+**Approved Red reconciliation (November 4, 2026):** The user explicitly removed the **unidentified seventh Ignis purchase** from the Red alteration ledger. The six **named Ignis** alterations remain unchanged, as do the four named Darvok alterations and every other approved Red effect. Red therefore contains **25 purchasable alterations** across five base Incantations, costing **90 SP ordinary / 60 SP Drakyn** for the full color. The standard five-color catalogue totals remain **450 SP ordinary / 300 SP Drakyn**, subject to the still-unrecovered Blue, Green, and White named selections. The six-Ignis/four-Darvok distribution is an approved exception to the usual five-alterations-per-Incantation template, not a reason to fabricate a fifth Darvok alteration.
 
-**Ranking:** Sorcery Incantations and alterations have individual SP purchase prices, not the five-rank racial Craft purchase ladder. They are not automatic level-up rewards. Five named Incantations per color and five alterations per Incantation are the *standard catalogue shape*, but the approved Red list currently needs numerical reconciliation.
+**Ranking:** Sorcery Incantations and alterations have individual SP purchase prices, not the five-rank racial Craft purchase ladder. They are not automatic level-up rewards. Five named Incantations per color and five alterations per Incantation are the *standard catalogue shape*; approved Red currently has six named Ignis alterations and four named Darvok alterations, totaling 25 Red alterations.
 
 ### III. Sorcery and Drakyn-specific rules
 
@@ -41,13 +41,13 @@ Five base Incantations are approved. Their current **alteration** names and purc
 
 | Incantation | Base function | Approved alterations / mechanics | Itemized purchases |
 |---|---|---|---:|
-| **Ignis** | Projected destructive flame and fiery attack | **Flame Arsenal I**, **Flame Arsenal II** (successive arsenal refinements); **Lingering Fire** (continued burning); **Backdraft** (acts on a target **already burning**); **Stormspark** (lightning manifestation); **Impossible Combustion** (exceptional combustion effect). **One additional Ignis alteration purchase appears in the last reported Red accounting, but its exact name is not recovered here.** | **7 reported**, 6 named here |
+| **Ignis** | Projected destructive flame and fiery attack | **Flame Arsenal I**, **Flame Arsenal II** (successive arsenal refinements); **Lingering Fire** (continued burning); **Backdraft** (acts on a target **already burning**); **Stormspark** (lightning manifestation); **Impossible Combustion** (exceptional combustion effect). **The formerly reported unidentified seventh purchase is removed from the approved ledger; all six named alterations are retained.** | **6** |
 | **Varekh — Reckless Haste** | Accelerate temporal/physical action | **Surefoot**; **Shared Rush**; **Overdrive**; **Hastening Field**; **Measured Slow** (controlled reversal / deceleration). | 5 |
 | **Darvok — Booming Blow** | Concussive force and sonic impact | **Thunderclap**, **Counterclap**, **Echo Strike**, **Soundbreaker**. | 4 |
 | **Ashal — Kindled Edge** | Heat/enhance weapons and equipment | **Scorching Touch** (cumulative heating, approximately 2-minute emphasis on metal); **Fireforge** (heat-assisted reshaping); **Farspark** (ranged slashes); **Searing Brand**; **Forgekiss** (focused cutting). | 5 |
 | **Ruveth — Kindled Power** | Empower the next act (approximately +50% boost in discussed balance; pays an additional mana surcharge beyond the normal Channel Limit accounting) | **Held Ember**, **Gifted Spark**, **Efficient Flame**, **Tinderflame**, **Wildfire** (upkeep-free chant in discussed revision). | 5 |
 
-**Important restriction:** Some alteration mechanics were described only at the concept level in the presently accessible conversation summary. Treat the effects above as confirmed *identities*, not complete final numeric stat blocks. In particular, an alleged seventh named Ignis alteration must not be invented. Stormspark and the other named transformations do not grant a new mana color.
+**Important restriction:** Some alteration mechanics were described only at the concept level in the presently accessible conversation summary. Treat the effects above as confirmed *identities*, not complete final numeric stat blocks. The previously unidentified seventh Ignis purchase is no longer canonically purchasable; no seventh named Ignis alteration has been added. Stormspark and the other named transformations do not grant a new mana color.
 
 ### Blue — water, perception, transformation, affection (catalogue approved; item names incomplete)
 
@@ -162,7 +162,7 @@ All five selected groups below were explicitly approved November 3, 2026. Names 
 
 1. Retrieve the approved **Blue 5+25** catalogue verbatim.
 2. Retrieve the user-selected **Green 25** and **White 25** alteration IDs and descriptions; available HTML menus store **candidate** pools, not those final selections.
-3. Reconcile **the 26th Red alteration purchase**, including whether Ignis's seventh recorded purchase is an additional named effect, a duplicate, or an altered cost treatment. Until then, Red full mastery **93/62 SP** follows its reported itemization.
+3. **Resolved November 4, 2026:** The user's ruling removed the unidentified seventh Ignis purchase, leaving 25 approved Red alterations (Ignis six, Varekh five, Darvok four, Ashal five, Ruveth five) and **90/60 SP** complete Red mastery. Preserve all six named Ignis effects; do not invent a new Darvok effect merely to make the rows symmetric.
 4. Do not assume an undocumented per-Incantation numerical MP formula, specific damage chart, or Incantation unlocking level. Record those only if formally approved.
 
 **Source trace:** Latest in-project explicit approvals of Black and Red (November 3, 2026), earlier approved Blue/Green/White catalogue statements, `mystaria_green_sorcery_selection_menu.html`, `mystaria_white_sorcery_selection_menu.html` (candidate menus only), and the Drakyn approved Wyrmcraft reference retained in project conversation context.
