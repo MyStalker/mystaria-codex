@@ -4,6 +4,10 @@
 **Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
 **Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
 
+## Approved Drider anatomy revision — November 4, 2026
+
+Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. `02_Races.md` owns the revised description; `01_World_and_Shimmer.md` removes the obsolete Four-Arm Coordination benefit, and `11_Visual_Style_Guide.md` records the illustration requirements. Earlier four-armed Drider references are superseded. This ruling does not revise Arrest's own anatomy or establish numerical racial stat changes.
+
 ## Read this before adjudicating a rule
 
 **Canon precedence:**
