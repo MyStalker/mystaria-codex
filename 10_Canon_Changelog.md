@@ -21,6 +21,12 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Busty and voluptuous adult female appearance extended to all races
+
+- **Latest explicit user direction:** Extend the busty and voluptuous description to adult females of every Mystaria race. The earlier Corvyn-specific direction remains included within this broader rule.
+- **Implementation:** `02_Races.md` owns the setting-wide description; `11_Visual_Style_Guide.md` applies it to official art; `00_Mystaria_Canon_Index.md` records the expanded scope.
+- **Anatomical continuity:** Interpret the description through each race's existing body plan and form, including Firstshaped; preserve species identity and do not add human body parts to forms that lack them. No numerical mechanics change. Individual image approval remains separate.
+
 ### November 4, 2026 — Global official-art style and Corvyn figures approved
 
 - **Explicit user approval:** All official Mystaria artwork generated going forward must use the seven listed attributes: simplified strong shapes; clean varied bold outlines; expressive deliberately stylized proportions; two or three hard-edged cel-shading values and broad highlights; limited separated colors and colored shadows; large readable shapes with selective facial/focal detail; clear action lines, dynamic gestures and expressive hands.
