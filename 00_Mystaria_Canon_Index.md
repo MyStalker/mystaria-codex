@@ -21,7 +21,7 @@
 | File | Scope | Current status |
 |---|---|---|
 | [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
-| [`02_Races.md`](02_Races.md) | Older full racial descriptions, Firstshaped and newer race identity cross-references | **CANON** with explicit Drakyn/Centaur/Corvyn updates |
+| [`02_Races.md`](02_Races.md) | Racial descriptions and Firstshaped peoples, including approved Kobold starting statistics and Drakyn/Centaur/Corvyn updates | **CANON** with newer racial overrides |
 | [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS**, Red purchase count unresolved |
 | [`04_Warlock_Manacraft.md`](04_Warlock_Manacraft.md) | Revised five Warlock trees, all 25 ranks, approved MP fees, new Manabending range and handling rules | **CANON**, full source reproduced |
 | [`05_Jestercraft.md`](05_Jestercraft.md) | Full approved versatility-overhaul Jestercraft, speaking Regalia, Stitches, Sponge, 130-SP complete mastery (both ultimates) | **CANON**, full source reproduced |
@@ -31,7 +31,7 @@
 | [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md) | Existing 5-tier equipment, Soul Strain, Gems and shop; proposed modular overhaul | **CANON** baseline; proposed additions clearly labeled |
 | [`10_Canon_Changelog.md`](10_Canon_Changelog.md) | Dated approvals, supersession matrix, unresolved decisions and maintenance rules | **AUTHORITATIVE STATUS LEDGER** |
 | [`11_Visual_Style_Guide.md`](11_Visual_Style_Guide.md) | Approved five mana emblems, Mystaria signature purple, purple Shimmer, purple/red skies, living-storybook presentation, artist approval workflow and illustration placement | **APPROVED VISUAL/WORLD CANON** where labeled; production guidance separated |
-| [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) | APPROVED Roadspeech and regional registers; speech, insults, compliments, curses, Muzzle-mouth, Kobold alarm words and Speaking in Colors | **CANON** — Kobold racial-index documentation pending reconciliation |
+| [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) | APPROVED Roadspeech and regional registers; speech, insults, compliments, curses, Muzzle-mouth, Kobold alarm words and Speaking in Colors | **CANON** — Kobold racial-index cross-reference reconciled |
 | [`13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md) | Tidekin innate Hydrokinesis; six Wakecraft skills × five ranks, MP, SP and cultural applications | **CANON** — 150 SP mastery |
 | [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
 | [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
@@ -80,7 +80,7 @@ The user's explicit approval canonizes the entirety of the recovered *Games of t
 
 Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Customs.md) for approved regional languages, cultural speech patterns, slurs, insults, compliments, curses, magical idioms and dialogue examples. **The original linguistic proposal is canon in full wherever not superseded by later user revisions.** For ordinary conversation, magic is called its **color** (e.g. “shape the white,” “out of black”); the word **mana** remains normal in technical and Shimmer contexts. **Muzzle-mouth** describes an enslaved person frequently muzzled or gagged, and is a strongly derogatory social insult, not a legal class. The Kobold cry **“Oops!”** warns of immediate catastrophe; **“Broken mirrors”** expresses bad luck.
 
-**Documentation gap:** Kobold linguistic practices are approved, but the current `02_Races.md` index does not include Kobolds. Do not erase or demote their language canon; reconcile the racial dossier separately, without fabricating mechanics.
+**Kobold racial index resolved November 4:** `02_Races.md` now records Kobolds and their expressly approved base **STR 2 / DEX 8 / END 3 / INT 10 / SPD 7**, with **STR −10%, DEX +10%, INT +20%** racial modifiers. Effective initial total **32.6**. This approval establishes no additional Orbcraft ranks, mana affinity, or starting SP grants.
 
 ## Fast mechanics at a glance
 
