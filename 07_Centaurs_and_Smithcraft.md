@@ -5,6 +5,8 @@
 
 ## I. Biology and place in the world — CANON
 
+**Approved illustration style — November 4, 2026:** More anime-inspired character design, with controlled linework, simplified facial features, and expressive posing. See `11_Visual_Style_Guide.md`; follow current approved racial anatomy.
+
 Centaurs have the entire humanlike upper torso, arms and hands of an ordinary humanoid joined to the body of a fully formed equine below the waist. Their great size gives enormous lifting and pulling capacity, fast ground movement, and exceptional stamina. Roughly **90% are female (mares)** and **10% male (stallions)**. They are beautiful by local standards and valued both for work and public ornamentation.
 
 **Firstshaped Centaurs are Ponies:** smaller and entirely equine, lacking arms/hands, with extraordinary **oral dexterity** enabling specialized tools. Ponies may be full-grown adults and accomplished artisans, not merely children. Approximately **10% of Centaurs** are Firstshaped Ponies, per the approved race-specific rate. Drakyn have their own approximately 5% rate.

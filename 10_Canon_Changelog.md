@@ -21,6 +21,12 @@
 
 ## 2. Canon approvals / revision history
 
+### November 4, 2026 — Drider and Centaur illustration style approved
+
+- **Explicit user direction:** More anime-inspired character design for Driders and Centaurs, with **controlled linework, simplified facial features, and expressive posing**.
+- Apply this character treatment within the painterly living-storybook presentation. This supersedes conflicting realistic facial rendering preferences for these races; current approved anatomy and mechanics are preserved.
+- Updated `11_Visual_Style_Guide.md`, `02_Races.md`, `07_Centaurs_and_Smithcraft.md`, and `00_Mystaria_Canon_Index.md`.
+
 ### November 4, 2026 — Drider anatomy and scale revised (LATEST)
 
 - **Explicit user correction:** Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**.

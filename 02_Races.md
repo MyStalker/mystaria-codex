@@ -52,6 +52,8 @@ These are **racial starting statistics**, not a new Orbcraft skill tree or free 
 
 ## 7. Driders — Daughters of Arrest
 
+**Approved illustration style — November 4, 2026:** More anime-inspired character design, with controlled linework, simplified facial features, and expressive posing. See `11_Visual_Style_Guide.md`; follow current approved racial anatomy.
+
 **Rarity:** Extremely rare; only a few dozen. **Sex:** All female. **Patron:** Arrest. **Society:** Small Courts. **Creation:** Second Verdict, not ordinary reproduction.
 
 Driders are magnificent, fearsome spider-women with humanlike upper bodies and enormous spider lower bodies, born from a divine sentence rather than natural breeding. Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. The first thirteen were created by Arrest from condemned women—magistrates, priestesses, and executioners—who resisted injustice during the Age of Shackles. Additional Driders arise through the **Second Verdict**, in which a mortal woman of exceptional devotion is transformed inside a cocoon over thirteen days. Every new Drider is effectively a daughter of Arrest and a sister to the others.
