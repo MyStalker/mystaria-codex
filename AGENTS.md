@@ -27,7 +27,7 @@ An assistant proposal, brainstorming transcript, worked example, or unapproved d
 - Keep `SP`, attribute points, `MP`, `Gems`, and `Soul Strain` distinct.
 - Respect existing exceptions (for example, Skillprints may count compatible Shimmer skills as purchased for zero SP, subject to their approved constraints).
 - In ordinary in-world speech, refer to magical energy by **color** (red/blue/green/white/black); reserve `mana` for technical or mechanically precise language. Cultural speech patterns are tendencies, not mandatory accents.
-- For visual work, Mystaria's identifying color is purple and the Shimmer is purple; preserve the approved **five mana symbols** and Living Storybook aesthetic. Never label new art or palette variations as approved without the user's explicit approval.
+- For visual work, Mystaria's identifying color is purple and the Shimmer is purple; preserve the approved **five mana symbols** and follow the global graphic animated art specification in `11_Visual_Style_Guide.md`: simplified silhouettes, bold varied contours, expressive stylized proportions, two or three cel-shading values, separated limited colors, selective detail and dynamic gestures. This supersedes the former painterly Living Storybook rendering requirement. Never label new art or palette variations as approved without the user's explicit approval.
 - Keep established canon intact outside the requested scope. Correct legacy contradictions only when supported by an approved ruling; otherwise report them.
 
 ## Files to update when canon changes

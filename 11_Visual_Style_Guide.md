@@ -25,13 +25,34 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 ## 2. Established art direction for the Living Codex
 
+### November 4, 2026 — Official art style for all future Mystaria artwork
+
+**USER-APPROVED ART DIRECTION:** All official art generated for Mystaria going forward must use the following graphic, animated style. This applies across races, characters, environments and scenes, superseding the earlier painterly living-storybook rendering requirement.
+
+| Attribute | Required treatment |
+|---|---|
+| Shapes | Simplified forms, strong silhouettes, exaggerated curves, angular accents |
+| Linework | Clean contours, varied line weight, bold outer outlines, minimal interior detail |
+| Proportions | Expressive eyes, exaggerated expressions, deliberately stylized anatomy |
+| Shading | Two or three distinct cel-shading values, hard shadow edges, broad graphic highlights |
+| Color | Limited palette, strong color separation, colored shadows |
+| Detail | Large readable shapes, selective detail around the face and focal point |
+| Pose | Clear line of action, dynamic gesture, expressive hands, intentional exaggeration |
+
+Use more humanoid character proportions where compatible with the race, while preserving species identity and approved anatomy, including animal heads, paws, scales, feathers, wings and tails. Preserve the established humanlike upper bodies of Driders and Centaurs and the animal-bodied forms of Firstshaped. Stylization must respect each character's anatomy and the scene's emotional intent; subtle expressions remain appropriate when directed. Existing mana emblems, purple identity, collar convention and illustration approval procedure continue to apply. This approves the style specification; it does not approve any individual image.
+
+### November 4, 2026 — Adult female figure guidance across all races
+
+**USER-APPROVED RACIAL APPEARANCE AND ART DIRECTION:** Adult females of **all Mystaria races** are characteristically **busty and voluptuous**. This extends the earlier Corvyn-specific guidance to every race. Express the fuller, curvier silhouette through the established anatomy and body plan of each race and form, including Firstshaped, while following the global graphic animated style. Preserve species identity and form-specific features; this direction does not add human body parts to races or forms that lack them. Corvyn retain their avian heads, feathers, taloned hands and feet, two independent arms and two additional back-mounted wings. See `02_Races.md` for the owning racial appearance rule.
+
+
 ### November 4, 2026 — Approved collar depiction philosophy
 
 **USER-APPROVED ART DIRECTION:** In official Mystaria artwork, members of the setting's slave races should **usually be depicted wearing visible collars**. Treat this as the default visual convention when composing representative racial illustrations and everyday social scenes. **Usually** allows exceptions where the selected character, established free or emancipated status, narrative context, or the author's explicit art direction calls for an uncollared depiction. Follow existing racial and social canon when identifying the relevant peoples; this direction does not establish a new exhaustive racial classification or make every individual enslaved. Fit collars naturally to species anatomy, clothing and the scene.
 
 ### November 4, 2026 — Approved Drider and Centaur character style
 
-**USER-APPROVED ART DIRECTION:** Depict Driders and Centaurs with more anime-inspired character design: **controlled linework, simplified facial features, and expressive posing**. Combine this character treatment with Mystaria's painterly living-storybook environments and atmosphere. Follow the current approved racial anatomy references; this rendering direction does not change anatomy or mechanics.
+**USER-APPROVED ART DIRECTION:** Depict Driders and Centaurs with more anime-inspired character design: **controlled linework, simplified facial features, and expressive posing**. Apply the global official-art style above to both these characters and their environments; the former painterly living-storybook rendering requirement is superseded. Follow the current approved racial anatomy references; this rendering direction does not change anatomy or mechanics.
 
 ### November 4, 2026 — Approved purple identity and atmospheric color
 
@@ -47,7 +68,7 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 **User-selected presentation preferences:**
 
-- **Living storybook** aesthetic for lore: painterly, atmospheric, whimsical and sometimes unsettling; make room for Mystaria's cruelty, moral complexity and divine contradictions.
+- **Graphic animated art** for lore: follow all seven approved style attributes above. Preserve atmosphere, whimsy and unsettling narrative moments that make room for Mystaria's cruelty, moral complexity and divine contradictions.
 - **Readable tabletop reference** treatment for rules and numbers: structured tables, clear typography, restrained decoration, legible contrast and useful navigation.
 - A coherent shared visual language across the website introduction and the full Codex. The website is the preferred reading format; do **not** prioritize further development of a separate introduction PDF.
 - Every one of the thirteen major Codex volumes and each race page should receive a distinctive illustration.
@@ -90,4 +111,4 @@ The previously prepared illustration selection menu, candidate list, and dropdow
 
 ## 7. Canon boundaries
 
-This document governs **visual identity and presentation only**. It does not change mana mechanics, Sorcery philosophy, SP costs, racial lore, or the status of any proposed gameplay overhaul. In case of conflict, the user's latest explicit decision governs visual art; approved subject dossiers govern gameplay and setting facts; `10_Canon_Changelog.md` records status and supersession.
+This document governs **visual identity and presentation only**. It does not change mana mechanics, Sorcery philosophy, SP costs, or the status of any proposed gameplay overhaul. Approved racial appearance changes are recorded in the owning racial reference and cross-referenced here. In case of conflict, the user's latest explicit decision governs visual art; approved subject dossiers govern gameplay and setting facts; `10_Canon_Changelog.md` records status and supersession.

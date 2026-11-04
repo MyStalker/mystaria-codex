@@ -3,6 +3,10 @@
 **Authority:** CANON, with overrides noted. **Assembled:** 2026-11-03.  
 **Source basis:** earlier master compendium, combined with explicitly approved later descriptions of Drakyn, Centaurs, and Corvyn anatomy.
 
+## Approved adult female appearance across all races — November 4, 2026
+
+**Adult females of all Mystaria races are characteristically busty and voluptuous.** This broadens the earlier Corvyn-specific description into a setting-wide appearance direction. Apply the description through each race's established body plan and the global official-art style; preserve species identity, racial anatomy and form-specific features, including Firstshaped forms. This does not grant human body parts to races or forms that lack them, or change racial statistics or abilities. Earlier slender descriptions must be read consistently with this newer direction.
+
 ## Current racial index
 
 | Race | Identity / prominent gifts | Full specialist reference |
@@ -235,7 +239,7 @@ Following the Serpentari Empire's collapse, persecution encouraged their descend
 
 ### Biology and Appearance
 
-Corvyn are slender avian humanoids standing five to six feet tall. They possess black feathers, sharp beaks, taloned hands and feet, and large wings capable of sustained flight.
+Corvyn are avian humanoids standing five to six feet tall. **Adult female Corvyn characteristically have particularly busty, voluptuous figures**, per the November 4, 2026 approved appearance clarification; the earlier blanket description of slender figures is superseded. They possess black feathers, sharp beaks, two independent arms ending in taloned hands, two near-humanoid legs with taloned feet, and two additional back-mounted wings capable of sustained flight.
 
 Their remarkable eyesight grants **Veilsight**, allowing them to perceive magical auras, hidden enchantments, curses, supernatural connections, and certain invisible creatures.
 
