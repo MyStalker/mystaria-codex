@@ -12,9 +12,9 @@
 - **Skill Points (SP)** buy abilities, Crafts, and Sorcery purchases. These are **not** the same currency as stat-allocation points. Divine quests may award SP; ordinary XP/stat leveling does not automatically purchase abilities.
 - **General ability tier gates:** I at level 1, II at 10, III at 25, IV at 50, V at 80, subject to each system's own prerequisites and purchase cost.
 - The old compendium sometimes says **Ability Points**; check newer Craft references for the actual **Skill Point** economy rather than assuming interchangeable currencies.
-- **Natural MP:** for ordinarily mana-generating races, use the floor of effective END, subject to affinity and Soul Strain. **Moontouched have 0 natural MP**; **Drakyn have 0 natural MP** and do not restore it through rest. Neither rule is overridden by stat growth.
+- **Natural MP:** for ordinarily mana-generating races, use the floor of **revised** effective END, subject to affinity and Soul Strain; **this intentionally increases early MP**. **Moontouched have 0 natural MP**; **Drakyn have 0 natural MP** and do not restore it through rest. Neither rule is overridden by stat growth.
 - **Warlock handloads and channel limits:** see `04_Warlock_Manacraft.md`. Sorcery and racial Crafts have different mana mechanics; do not interchange them.
-- **Kobold starting stats (November 4, 2026):** Approved base **STR 2, DEX 8, END 3, INT 10, SPD 7**; racial modifiers **STR −10%, DEX +10%, INT +20%**. Effective start **STR 1.8, DEX 8.8, END 3, INT 12, SPD 7** (total 32.6). `02_Races.md` owns this racial sheet; the older historical starting-attribute table below predates Kobolds and is not complete.
+- **Kobold starting stats (revised November 5, 2026):** Base **STR 12, DEX 18, END 13, INT 20, SPD 17**; racial modifiers **STR −10%, DEX +10%, INT +20%**. Effective start **STR 10.8, DEX 19.8, END 13, INT 24, SPD 17** (total 84.6). `02_Races.md` owns this racial sheet; the larger racial table below does not include Kobolds.
 
 ## Source-derived world and divine canon
 
@@ -297,40 +297,40 @@ A Moontouched with 10 Strength possesses the same measurable lifting and strikin
 
 #### Attribute progression
 
-Every Hero begins with racial base attributes between 1 and 10. Each level grants one Attribute Point, which permanently increases a chosen base attribute by 1.
+As of November 5, 2026, each established Hero racial starting base attribute is increased by **10 before racial multipliers**. Each level still grants **2 allocatable base-stat points**, and every fifth level grants **+1 to all five base stats**; the historical one-point rule in this section is superseded. **All attributes have a hard minimum of 1**, including monsters, after applicable modifiers. Monsters may have stats below 10.
 
 Racial percentage modifiers apply to the base attribute, including all subsequent increases.
 
-**Effective Attribute = Base Attribute × Racial Multiplier**
+**Effective Attribute = max(1, Base Attribute × Racial Multiplier)**
 
-For example, a Thornguard with 8 base Strength and a +20% multiplier possesses 9.6 effective Strength. Raising their base Strength to 9 produces 10.8 effective Strength.
+For example, a Thornguard with **18** new base Strength and a +20% multiplier possesses **21.6** effective Strength. Raising the base Strength to 19 produces **22.8** effective Strength.
 
 Effective attributes retain decimal values. Milestones use the final modified value.
 
 | Effective Attribute | Classification |
 |---|---|
-| 1–24.99 | Ordinary to exceptional mortal |
-| 25–99.99 | Heroic and supernatural |
-| 100+ | Legendary |
+| 1–34.99 | Ordinary to exceptional mortal (migrated historical milestone) |
+| 35–109.99 | Heroic and supernatural |
+| 110+ | Legendary |
 
 Attributes determine capability, while anatomical differences still influence reach, equipment compatibility, and methods of movement. A character's size does not secretly multiply their Strength.
 
 ### II. Racial Starting Attributes
 
-These values represent typical level-1 Heroes before racial modifiers. Individual characters may have minor variations where appropriate.
+**November 5 approved migration:** These are the revised level-1 Hero base attributes, **+10 in each stat before racial modifiers**. Individual characters may vary where otherwise permitted. These values supersede the earlier lower historical tables.
 
 | Race | STR | DEX | END | INT | SPD | Base Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Moontouched | 1 | 7 | 2 | 5 | 10 | 25 |
-| Bloomkin | 2 | 8 | 1 | 10 | 6 | 27 |
-| Thornguard | 8 | 4 | 10 | 3 | 5 | 30 |
-| Tidekin | 5 | 9 | 6 | 5 | 8 | 33 |
-| Duskpaws | 3 | 10 | 4 | 7 | 7 | 31 |
-| Naga | 7 | 6 | 8 | 7 | 6 | 34 |
-| Vren | 8 | 8 | 8 | 5 | 9 | 38 |
-| Corvyn | 3 | 6 | 3 | 8 | 7 | 27 |
-| Drider | 9 | 9 | 9 | 9 | 9 | 45 |
-| Untouched Serpentari | 7 | 6 | 7 | 9 | 6 | 35 |
+| Moontouched | 11 | 17 | 12 | 15 | 20 | 75 |
+| Bloomkin | 12 | 18 | 11 | 20 | 16 | 77 |
+| Thornguard | 18 | 14 | 20 | 13 | 15 | 80 |
+| Tidekin | 15 | 19 | 16 | 15 | 18 | 83 |
+| Duskpaws | 13 | 20 | 14 | 17 | 17 | 81 |
+| Naga | 17 | 16 | 18 | 17 | 16 | 84 |
+| Vren | 18 | 18 | 18 | 15 | 19 | 88 |
+| Corvyn | 13 | 16 | 13 | 18 | 17 | 77 |
+| Drider | 19 | 19 | 19 | 19 | 19 | 95 |
+| Untouched Serpentari | 17 | 16 | 17 | 19 | 16 | 85 |
 
 #### Permanent racial multipliers
 
@@ -338,16 +338,16 @@ These modifiers continue applying throughout Hero progression.
 
 | Race | Attribute modifiers | Effective Starting Total |
 |---|---|---:|
-| Moontouched | DEX +30% | 27.1 |
-| Bloomkin | STR −20%, DEX +10% | 27.4 |
-| Thornguard | STR +20% | 31.6 |
-| Tidekin | DEX +10% | 33.9 |
-| Duskpaws | INT +10% | 31.7 |
-| Naga | END +10% | 34.8 |
-| Vren | STR +10%, SPD +10% | 39.7 |
-| Corvyn | STR −10%, INT +20% | 28.3 |
-| Drider | END +10% | 45.9 |
-| Untouched Serpentari | INT +10% | 35.9 |
+| Moontouched | DEX +30% | 80.1 |
+| Bloomkin | STR −20%, DEX +10% | 76.4 |
+| Thornguard | STR +20% | 83.6 |
+| Tidekin | DEX +10% | 84.9 |
+| Duskpaws | INT +10% | 82.7 |
+| Naga | END +10% | 85.8 |
+| Vren | STR +10%, SPD +10% | 91.7 |
+| Corvyn | STR −10%, INT +20% | 79.3 |
+| Drider | END +10% | 96.9 |
+| Untouched Serpentari | INT +10% | 86.9 |
 
 Multipliers affect only their listed attributes. They do not directly increase mana reserves, spell strength, Ability Points, or unrelated racial abilities.
 
@@ -630,3 +630,13 @@ All Nymbrin alchemy produces **hex**. Its airborne red smog is **the Haze**, req
 ## November 5, 2026 — Hero and Legendary Shimmer Guard (CANON cross-reference)
 
 Heroes possess the divine **Shimmer Guard**, granting two additional low-penalty injury stages beyond an ordinary mortal's three injury advancements. When a Hero proceeds beyond the first Wounded stage, the Guard visibly casts **purple Shimmer light from the eyes**. The Shimmer perfectly diagnoses its Hero's personal injuries and suppresses pain so the Hero can keep acting. A Hero can suppress the visual glow but then experiences full pain; the agreed injury percentage modifiers remain unchanged, with extreme pain adjudicated in context. A healthy Hero does not ordinarily fall to a single overwhelming attack absent DM exception. Renowned **Legends** (mortals or monsters) can manifest their own Guard from mortal belief and reputation, without inheriting the Shimmer's other Hero benefits. Severe damage to a Legend's *legend* can disable the Guard, and the Legend **may collapse immediately** when their injuries exceed ordinary mortal limits. Refer to `22_Combat_Endurance_and_Shimmer_Guard.md` for complete injury and healing mechanics; this addition does not change natural MP calculations or Hero stat progression.
+
+## November 5, 2026 — Global attribute rebasing (CANON)
+
+- New racial Hero **base stats = prior approved base + 10 for each attribute**, then apply the race's usual percentage modifiers. This **intentionally magnifies racial percentage differences** and is not a neutral effective-attribute conversion. Any resulting attribute is **minimum 1**, never negative or zero. Other creatures/monsters may have attributes of **1–9**; Hero starting values are not universal floors.
+- **Remove the former combat-only +10** from Power, natural Resistance/Defense Power, and the Speed Evasion Ratio. Compare squared **new effective** values directly. Existing injury thresholds, armor model status and Speed difficulty categories are unchanged.
+- Raise effective-attribute **milestone thresholds 25 → 35 and 100 → 110**; leave existing relative racial variation intact. Audit any other ability prerequisites expressed as fixed stat thresholds as their owning source is revised.
+- **Natural MP = floor(new effective END)** (minimum consistent with stat floor), subject to ordinary Soul Strain, racial affinity and all existing exceptions. **Moontouched and Drakyn retain 0 natural MP**. Natural MP rise is an explicit intentional buff. **Channel Limits do not rise simply because displayed INT rose**: use a clamped legacy-equivalent INT `max(1, new effective INT − 10)` in the established `ceil(INT / 5)` limit. This leaves slight race-modifier effects by design and avoids negatives. Review all fixed MP costs of existing mana-derived powers **later**, without automatically increasing or altering approved MP/SP prices now.
+- Short-ranged attribute-scaling magic also uses `max(1, new effective INT − 10)` rather than raw newly inflated INT, unless its dedicated canon rule differs. This ensures a creature at **new effective INT 11** does not gain a formerly unreachable **greater-than-10-meter** base range merely from the display rebasing. Existing longer-range exceptions such as Warlock Manabending retain their own original scale. See `04_Warlock_Manacraft.md` and `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`.
+- Adopted provisional practical lifting benchmark (strength + lifting proposal accepted as standard): **one-time waist-height lifting capacity in pounds = `100 × (effective STR / 15)^2`**, subject to actual grip, anatomy, leverage, surface and circumstances. At STR 10 ≈ 44 lb, STR 15 = 100 lb, STR 25 ≈ 278 lb. This is a **tabletop benchmark, not a real-world lifting standard**, and does not mean objects of equal weight can always be maneuvered or thrown.
+- Older numerical examples elsewhere in the document using pre-migration values are **historical and superseded** where they conflict with this section.
