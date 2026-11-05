@@ -257,3 +257,8 @@ The user later requested that **Formwright and Monumentcraft be considered blank
 ### November 5, 2026 — Attribute rebasing note
 
 The new starting totals above use **+10 to each original base attribute before racial +25% STR/SPD modifiers**. Hero lifting calculations now use the adopted quadratic STR-based benchmark in `01_World_and_Shimmer.md`; racial anatomy still affects handling. Equipment-derived boosts and the Centaur half-equipment-affinity rules remain unchanged. The **armor-rating and SPD-penalty scaling overhaul remains an unfinished proposal**. Existing firearm reaction SPD benchmarks must be reviewed for consistency with new starting stats, but are not silently replaced here.
+
+
+## November 5, 2026 — Extreme-speed charge principle (cross-reference)
+
+Speed-led attacks may gain modest **Power** from **relative closing velocity** after suitable acceleration and run-up, not from SPD alone and not from extra attacks. Matching the mover's velocity to cancel their closing-speed difference removes that speed-derived charge bonus. **Dash** represents peak burst, sprint one speed-chart tier below, sustainable jog two tiers below; exact dash mph and Power bonuses, including the illustrative 25% at 100 mph and 50% at 500 mph, remain **PROPOSAL**. This does not change Adamantite/crownsalt gun construction, recoil, firearm SPD reaction tiers, established weapon multipliers, or unfinished armor/Speed-penalty integration. See `22_Combat_Endurance_and_Shimmer_Guard.md`.
