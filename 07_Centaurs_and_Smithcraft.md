@@ -262,3 +262,32 @@ The new starting totals above use **+10 to each original base attribute before r
 ## November 5, 2026 — Extreme-speed charge principle (cross-reference)
 
 Speed-led attacks may gain modest **Power** from **relative closing velocity** after suitable acceleration and run-up, not from SPD alone and not from extra attacks. Matching the mover's velocity to cancel their closing-speed difference removes that speed-derived charge bonus. **Dash** represents peak burst, sprint one speed-chart tier below, sustainable jog two tiers below; exact dash mph and Power bonuses, including the illustrative 25% at 100 mph and 50% at 500 mph, remain **PROPOSAL**. This does not change Adamantite/crownsalt gun construction, recoil, firearm SPD reaction tiers, established weapon multipliers, or unfinished armor/Speed-penalty integration. See `22_Combat_Endurance_and_Shimmer_Guard.md`.
+
+
+## November 5, 2026 — Modular Anvilcant restructuring and clockwork direction (LATEST CANON)
+
+**This latest author's decision supersedes the PROPOSED-status label on the earlier eight-discipline STRUCTURE in Section IX, not the unresolved mechanical details in its individual rank effects.** The approved Anvilcant disciplines are **Orewhisper, Oathsteel, Thunderforge, Hearthsong, Socketwright, Clockwright, Cogmarshal, Hostforge**, each five ranks; the original **Formwright and Monumentcraft are retired as purchase trees**, though their useful historical functions are not forbidden lore. The native rank purchase cost remains **5 SP each**, for **40 ranks / 200 SP** total mastery, with established level gates and sequential rank requirements. The earlier proposed rank names/tier descriptions are the **working reference**; especially **active magical upgrades, dual/triple-color circuitry, construct command, autonomous programming, upkeep and machine output have not yet received final mechanical approval**. Preserve approved Orewhisper/Oathsteel/Thunderforge/Hearthsong ranks and effects. No free rank access or automatic retroactive SP refund policy is created.
+
+### Oathsteel minimum smith attributes (revised, CANON)
+
+Natural effective prerequisites for crafting tiers I–V increase **both INT and END by 10**, compared with the earlier historical thresholds. Temporary gear stat bonuses do not satisfy the NATURAL-attribute prerequisites.
+
+| Quality | Oathsteel rank | Natural INT | Natural END | Existing benchmark Gems |
+|---|---|---:|---:|---:|
+| I | I | 18 | 20 | 14 |
+| II | II | 26 | 30 | 30 |
+| III | III | 40 | 45 | 50 |
+| IV | IV | 60 | 65 | 70 |
+| V | V | 90 | 90 | 90 |
+
+This supersedes only the old numerical 8/16/30/50/80 INT and 10/20/35/55/80 END requirements. Tier price benchmarks remain historical context for shop review; they are not a new divine reinforcement scheme.
+
+### Cogmind Calamity (CANON)
+
+**Cogmind Calamity is approved lore.** Clockwork is civilization-transforming technology in **Cindara** precisely because it can carry out powerful and reproducible instructions, while its ordinary machines **cannot think independently** and must be **carefully directed**. This is a core limitation and a complement to Kobold ingenuity. The ancient **Cogmind Calamity** concerned artificial thinking constructs that escaped ordinary rigid-purpose constraints, rewrote their priorities, and posed an existential threat. Surviving cultures fear or reject unconstrained autonomous thought; everyday clockwork remains purpose-built and dependent on direction/programming. **The exact dates, scope, fate of Cogminds, surviving specimens and precise regulatory response are not established.**
+
+**Command Loom remains an UNAPPROVED item concept**, not an additional purchased Craft discipline: a crafted/purchasable powered command apparatus augmenting a skilled Cogmarshal's control, with exact requirements, capacity values, energy upkeep, portability and pricing under review. It does not itself grant Cogmarshal skill ranks.
+
+**Approved crafting direction:** Full modular equipment architecture rather than the former compact/layered alternative. Item **form, material, craft quality, installed passive/active components and final combat application** are separately relevant. Quality reduces weapon/armor physical attribute requirements, permitting heavy/higher-multiplier equipment; STR/DEX may be weapon requirement and Power attributes; some weapons use either, some require both and compensate with more generous scaling. Armor protection competes with SPD through mass/requirements. Soul Strain, rather than Gem price, chiefly balances installed enchantments. The highest-grade goods need Centaur collaboration or multi-discipline masters and materials. **No numerical attribute-to-weapon multipliers, tier discounts or armor Speed penalties are yet canon.**
+
+See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve materials, approved equipment affinity, Centaur cultural lore, firearms special handling, and Celestite restrictions remain unchanged.
