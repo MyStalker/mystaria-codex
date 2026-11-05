@@ -151,3 +151,7 @@ Most dragonmarks are **permanent bite scars**; ordinary healing magic usually ca
 **Celestite cross-reference:** This rare divine metal universally activates every Drakyn's Treasure Compass, regardless of hoarding preference; see `07_Centaurs_and_Smithcraft.md`. Its anti-ley-line field threatens Silent Thunder.
 
 **Unspecified and not to be fabricated:** exact Drakyn universal lifespan in years; exact activation cost for each Wyrmcraft metamagic; full Caught Breath slot/prepayment algorithm; maximum simultaneous Songmarks beyond the overlapping rule; Silent Thunder mark strain price; detailed Tiamat head identities. Preserve these gaps until explicitly ruled.
+
+
+## Toxic dragon eggs — approved Nymbrin/Haze expansion
+**Exposure to the red Haze is the primary cause of dragon eggs developing into toxic dragons.** The Haze is airborne hex pollution from Scarlands alchemical industry; this adds a primary environmental cause without replacing other established dragon biology or Wyrmcraft mechanics. See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for hex, elementals and the full approved environmental context.

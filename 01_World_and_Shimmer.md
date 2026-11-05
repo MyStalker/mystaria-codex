@@ -617,3 +617,11 @@ Her deals are often technically truthful and deceptively incomplete. She insists
 ## Source maintenance note
 
 Sections derived from the older compendium retain their historical wording intentionally, and are not evidence that later changes have been reverted. For Jesters, Warlocks, Drakyn, Centaurs, Sorcery, and modern Smithcraft proposals, consult their dedicated files first.
+
+
+---
+
+## Scarlands alchemy, El Dorado and pollution — approved expansion
+[20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) owns the new world history and environmental rules. Alchemy underpins Scarlands technology; Vren recruited Nymbrin after the God War. Lost true philosopher's stones violated equivalent exchange; modern ones do not. El Dorado's reciprocal Starspawn homunculi gained permanent enhancements; modern mutation ends at celestial recall. This does not change Starspawn's established God War origin; detailed historical sequencing is unresolved.
+All Nymbrin alchemy produces **hex**. Its airborne red smog is **the Haze**, requiring **clearbreaths** in severe pollution. Native tolerance costs at least one-third of lifespan. Hex delirium, Starspawn factory attacks and environmental-collapse hex storms are established. Haze exposure is the primary cause of toxic-dragon eggs. Hex causing the Scarlands wasteland remains a theory.
+

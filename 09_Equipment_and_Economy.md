@@ -212,3 +212,10 @@ Surrender can also reward compassionate deeds with minor gifts, such as a compli
 ## Moonlit Garden interactive HTML recovery — November 4, 2026
 
 The user supplied the self-contained `moonlit_garden_shop (1).html` as a separate historical version of Surrender’s Shimmer Gem Shop. Its complete catalogue is transcribed in `16_Moonlit_Garden_Gem_Shop.md`. Early-level Surrender Heroes can use those shop offerings unless later restrictions supersede them; having access is not automatic ownership. **The HTML itself calls its prices proposals and predates the equipment update.** Numerous product prices differ from this file’s older catalogue; do not silently replace either source’s numbers. Specific item pricing and equipment-derived bonuses/Soul Strain remain **UNDER REVIEW** pending explicit reconciliation. The modular equipment overhaul above is still only proposed.
+
+---
+
+## Approved Nymbrin materials and consumable design
+The [Nymbrin dossier](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) controls **Pazara** living construction, hardened Pazara **chitin**, **clearbreaths**, five intoxicants, and **Rapture Salt** as Vren standard alchemical ordnance. All alchemy generates hex.
+Nymbrin consumable power is tied to Gem costs and calibrated against **30% of a Hero's typical Gem budget** allocated to consumables. This is a design benchmark, not a compulsory purchase or free grant. Exact prices/yields and the budget's progression window remain unresolved. The Centaur modular overhaul remains a separate proposal; no equipment or shop prices are replaced.
+

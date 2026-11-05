@@ -118,3 +118,10 @@ Summoners serve as adventurers, monster handlers, caravan guards, explorers, and
 - The old Shimmer document called some spending currency **Ability Points**; the newer Craft ledger uses **Skill Points (SP)**. Do not combine them without explicit reconciliation.
 - Neither a Witchbond nor a Summoner Accord is interchangeable with Warlock Manabending, Drakyn Sorcery, or Regalia bonding.
 - Distinguish a **named technique that appears in prose** from a **complete five-rank skill tree** with approved per-rank SP purchases.
+
+
+---
+
+## Nymbrin Wetcraft — approved six-domain foundation
+Blue-aligned **Wetcraft** comprises **Elixircraft, Venomcraft, Ordnance, Reshaping, Recomposition and Vital Transmutation**: three consumable crafts and three active transmutation disciplines. All generate hex; modern exchange is constrained by mass, constituents and complexity. See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for full approved effects, circles, stones, mutations and limits. Full rank/SP/MP mechanics remain unresolved. The [technique selection draft](21_Nymbrin_Skill_Options_DRAFT.md) is not canon.
+

@@ -744,3 +744,10 @@ A Psychic may know that you are afraid.
 A Bloodbinder may know exactly when your heart starts beating faster, whose blood you have sworn yourself to, and what will happen if you break your promise.
 
 **Canon status:** APPROVED. All six Disciplines, their five ranks, revised Blood Boon, cantrips, passive attribute bonuses, and associated cultural practices are canon under the revisions recorded above.
+
+
+---
+
+## Nymbrin guilds and Scarlands industry — approved cultural cross-reference
+See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md): Vren recruited Nymbrin after the God War; guilds hold substantial Blood Court influence and protected Golden Leases, with strikes and rebellion supporting those rights. Their continued acceptance of Vren rule is calculated and profitable. Vren trade five named intoxicants; Rapture Salt is their standard alchemical explosive. Upper-city Vren and palace slaves often cannot breathe the lower Haze; access to clean air can enforce confinement. No Sanguine Arts rank or numerical rule is changed.
+

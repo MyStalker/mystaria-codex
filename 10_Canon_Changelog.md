@@ -284,3 +284,15 @@
 3. When an ability remains a **proposal**, place it under a heading that explicitly says so and keep it separate from the operative rules.
 4. Do not replace original project Files merely by generating a download in chat. Upload/replace the new files within the Mystaria Lore project's **Files section**.
 5. In a different ChatGPT project conversation, open `00_Mystaria_Canon_Index.md` and the relevant subject files before adjudicating numerical mechanics.
+
+
+## Approved Nymbrin canon and Hexen terminology — November 4, 2026
+The author explicitly accepted **all current Nymbrin lore** and selected **Hexen** for mutants. Full approved content is preserved in `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`: frog anatomy and rapid lifecycle, pools and absentee parenting, Golden Lease, ranks and debt enforcement, Baphomet observances, Duskpaw shared history/alliance, Wakebound, El Dorado and lost true stones, modern homunculi, six Wetcraft domains, permanent mutation, living machinery, ardor draughts, five intoxicants, Pazara/chitin, elementals, hex/Haze/clearbreaths and toxic dragon eggs.
+
+**Supersession:** Golden Lease replaces Gilded Term; Hexen replaces provisional mutant collective names; playful tab/gig/bet speech supersedes the stronger legalistic characterization. Lost true stones violate equivalent exchange; modern stones obey it. Existing Nymbrin mutant legal protections are an explicit exception to general Hexen exclusion.
+
+**Affected files:** 00 index, 01 world, 02 races, 06 Drakyn, 08 crafts, 09 economy, 10 changelog, 12 linguistics, 14 Vren, new 20 dossier and new 21 proposal. Cross-references preserve existing mechanics and keep the centaur modular overhaul unapproved.
+
+**Gameplay direction:** all Nymbrin alchemy generates hex. Consumable power is tied to Gem cost, calibrated around a 30% Hero-budget allocation. `21_Nymbrin_Skill_Options_DRAFT.md` offers 12 candidates per discipline plus custom input; none of these newly generated techniques is approved by the preceding lore acceptance.
+
+**Unresolved:** starting stats and numerical jumps; clutch size; full rank/SP/MP/action rules; exact pricing/yield and budget window; quantitative hex system; exact ancient chronology and stone manufacture; future elemental race. Starspawn retain their established God War origins and Duskpaws their Night of a Thousand Locks liberation.

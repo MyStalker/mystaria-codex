@@ -1406,3 +1406,10 @@ This is a **terminology convention**, not a change to the magic system. MP remai
 4. **Old phrases:** The override table preserves discarded phrases strictly as a historical crosswalk. They are **not** alternative current sayings. The active text in Part One uses the replacement wording.
 5. **In-world prejudice:** Terms such as *Muzzle-mouth*, *Pet* and other slurs are explicitly documented as discriminatory in-world speech, not neutral authorial labels.
 6. **Unspecified phonetics:** No complete phoneme inventory, compulsory biological pronunciation defect, or grammar for each race was supplied. Do not infer one from muzzles or beaks.
+
+
+---
+
+## Nymbrin — cheerful trade language, approved
+Nymbrin speech casually calls a kingdom's debt its **tab**, jobs **gigs**, and investments **bets**. Their commercial metaphors are playful and fun-seeking, becoming precise when actual terms matter. Avoid portraying every conversation as legal drafting. Affection can be “my favorite bad bet”; threats “You have made yourself expensive.” **The Golden Lease** is formal; **selling the season** colloquial. Pools are households; young are tadpoles; expatriates on Tidekin rafts are Wakebound; mutants collectively **Hexen**. Full usage and examples: [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md).
+
