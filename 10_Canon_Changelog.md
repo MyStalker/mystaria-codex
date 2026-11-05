@@ -21,7 +21,14 @@
 
 ## 2. Canon approvals / revision history
 
-### November 5, 2026 — Direction 5 style selected; race references prioritized
+### November 5, 2026 — Style choice corrected to Direction 4 (LATEST)
+
+- User explicitly corrected the selection: **Direction 4**, detailed ink-and-color fantasy, is the defining Mystaria style. Direction 5 is an archived alternative.
+- Full guide now specifies delicate occasionally broken ink contours, sparse hatching, restrained translucent washes, subtle paper texture, economical expressive faces, practical clothing detail and grouped fur/feathers.
+- Defining style reference is Race Image Origin — Direction 4, version 10. Original Race Image Origin v6 remains separately preserved.
+- Adult female busty/voluptuous appearance, race-reference priority, deferred website work, collars and racial anatomy remain unchanged. Updated guide, index and repository instructions; historical selection below is superseded.
+
+### November 5, 2026 — Direction 5 selection (SUPERSEDED by correction above); race references prioritized
 
 - User selected the Japanese woodblock/modern anime hybrid as the defining style: rhythmic ink lines, designed negative space, layered flat scenery, stylized foliage/clouds, restrained separated pigments, selective textile patterns and subtle print texture, preserving animated characters and species anatomy.
 - `11_Visual_Style_Guide.md` records the full specification and links to preserved Race Image Origin v6 and Direction 5 v11. Style reference acceptance does not canonize every anatomical detail or authorize site integration.
