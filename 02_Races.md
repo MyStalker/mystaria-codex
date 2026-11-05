@@ -395,3 +395,13 @@ Starting Skill Points **0**; ordinary natural green MP **8** before Soul Strain.
 ## Racial attribute source warning
 
 The earlier master compendium's ten-race table remains in `01_World_and_Shimmer.md` as a historical record. It predates Centaurs and Drakyn and uses superseded progression text. Treat the current dossiers and subsequent approved revisions as controlling for any affected entry.
+
+
+---
+
+## Nymbrin — approved racial dossier
+See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for full approved anatomy, rapid egg/tadpole lifecycle, pools, toxins, hydration, guilds, Golden Lease, love and age. **Hexen** is the collective mutant name; elementals await a separate racial treatment.
+
+### Duskpaw history and Nymbrin relationship — later addition
+Duskpaws also lived in El Dorado before the **Night of a Thousand Locks**. The Serpentari's Great Taking robbed the shared city, contributing to Duskpaw criminal culture and an enduring alliance with Nymbrin. Their established Serpentari enslavement and Baphomet-granted liberation remain operative; the older origin paragraph is incomplete without this shared-city history. Stealing from Nymbrin is a deep taboo, while consensual contractual swindling is a competitive game. Guild, Cache and pool membership frequently crosses racial boundaries. Tidekin alone have fur thick and oily enough for harmless ordinary Nymbrin contact; Duskpaw households require precautions. Full details: the Nymbrin dossier.
+

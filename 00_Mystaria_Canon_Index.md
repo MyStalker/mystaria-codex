@@ -160,3 +160,11 @@ The five mana symbols are **approved visual canon**: Red = curling fire; Blue = 
 ### Approved Drider and Centaur illustration style — November 4, 2026
 
 Driders and Centaurs use more anime-inspired character design with **controlled linework, simplified facial features, and expressive posing**. See `11_Visual_Style_Guide.md`, with cross-references in `02_Races.md` and `07_Centaurs_and_Smithcraft.md`. Follow current approved racial anatomy.
+
+
+---
+
+## Approved Nymbrin, Wetcraft and Hexen — November 4, 2026
+[`20_Nymbrin_Wetcraft_and_Hexen_Canon.md`](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) owns the complete approved Nymbrin race, six Wetcraft domains, Golden Lease, El Dorado/Great Taking, Duskpaw alliance, Wakebound, Pazara/chitin, drugs, passion potions, Hexen and Haze. All current conversation lore is approved, with **Hexen** superseding provisional mutant names. Its later additions control overlapping older summaries.
+[`21_Nymbrin_Skill_Options_DRAFT.md`](21_Nymbrin_Skill_Options_DRAFT.md) is a **PROPOSAL**: twelve selectable technique concepts per discipline. No new technique ranks/costs are approved by the lore acceptance. Consumables use Gem-based power and the author's 30% budget design allocation. Centaur's modular overhaul remains noncanon.
+
