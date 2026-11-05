@@ -103,7 +103,7 @@ Occasionally experience a vague premonition immediately before something signifi
 
 These abilities are subtle and cannot replace trained techniques. Active use consumes blue mana.
 
-A level 1 Naga begins with 7 effective Intelligence and 10 effective Endurance, providing 10 natural MP before equipment Soul Strain.
+Following November 5, 2026 global rebasing, a level-1 Naga begins with **17 effective INT** and **19.8 effective END** (base END 18 with the established +10% racial modifier), providing **19 natural MP** before equipment Soul Strain. The former 7/10/10 example is superseded.
 
 Naga therefore possess respectable initial mana reserves, although their Intelligence is not inherently as high as that of Bloomkin or Kobolds. Their extraordinary potential comes from dedicated training, unusually long lives, and skilled control.
 
@@ -472,3 +472,6 @@ The deepest irony is that Naga culture celebrates absolute mastery over the self
 The Serpentari gave the Naga psychic power to oversee an Empire. The Naga turned that gift into an entire philosophy of civilization.
 
 Canon status: **APPROVED — November 4, 2026.** The manuscript and its accompanying institutions are canon. The original tradition name **Crowncraft** is superseded by **Psycraft**. The three disciplines, named techniques, and other proper names remain unchanged.
+## November 5, 2026 — Psycraft stat rebasing
+
+All racial Hero base attributes now increase by +10 before racial multipliers, with effective minimum 1. Naga natural MP intentionally increases with END. Generic Channel Limit uses `ceil(max(1, effective INT − 10) / 5)` instead of raw revised INT, preserving approximately prior instantaneous output. Existing Psychic techniques, Mana costs, SP costs and Sovereign Sense function remain unchanged, with mana-price review flagged for the wider rebalance.
