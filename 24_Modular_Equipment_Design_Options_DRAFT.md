@@ -56,3 +56,53 @@ Proposed fractional-charge tracking: full devotion restores `END/10 MP` for one 
 **Slot philosophy (proposal):** one outer armor chassis; optional light underlayer only for joints/gaps; one head, one neck, one arms/bracers, one hand/gloves, one feet/boots, one waist, two actively enchanted rings (more mundane rings may be worn), and held/accessible implements. One instance of a named spell cannot benefit simultaneously from multiple casting implements. Different sources of equipment magic add Soul Strain subject to quality budget and mutually exclusive families; distinct passive gear can remain modular.
 
 **Open:** all numeric quality rating/penetration, armor coverage, weapon form multipliers, absolute STR/DEX requirements, single-vs-balanced scaling, momentum interaction, Soul Strain allocations, item slot count and capacity, prayer throughput and active rune mechanics.
+
+
+## November 5, 2026 — Elemental contact, Loom prices and integration tests (PROPOSAL ONLY)
+
+### Command Loom Gem prices and mobile hardware (not approved)
+
+| Cogmarshal rank required to craft/operate | Loom quality | Gem price proposal | Historical proposed total CP with Loom |
+|---|---|---:|---:|
+| I | I | 12 | 2 |
+| II | II | 28 | 4 |
+| III | III | 55 | 6 |
+| IV | IV | 90 | 8 |
+| V | V | 140 | 12 |
+
+Loom is carried as a compact **remote control** rather than a fixed engine. Level gates, physical control methods, mana consumption, reliable radio/light/tether command range, remote interference and individual construct maintenance still need review. It cannot think for its operator, grant Cogmarshal ranks, or create additional actions beyond already approved mechanics. Gem prices buy the Loom only, not an army of constructs or fuel.
+
+### Three distinct passive elemental damage-resolution options
+
+**A: Dual Power Packet**. Once a weapon strike physically contacts armor, calculate normal physical Power vs applicable physical Defense, and calculate a separate lower elemental Power packet against natural Resistance and type-specific magical protection. Ordinary armor is not assumed to block every elemental contact; fire or conductive lightning may reach the wearer when the physical edge cannot pierce. Elemental packet Power per rank, injury thresholds and whether contacting armor counts are unresolved. Strong type-specific resistance can negate the packet. Pros: matches Power/Resistance engine; cons: extra per-hit calculation.
+
+**B: Conditional Contact Rider (recommended for simplicity).** A physically connected strike, even when physical injury is superficial, applies a specific small elemental rider. At ranks I–IV, its direct injury advancement is capped at at most one state, and magical/specific resistance can reduce it to mere sensation or negate it entirely; many lower-rank contacts should leave only superficial effects. The rider only works when the attack makes meaningful contact, not after a complete dodge. Fire: heat/burn, ice: chilled limb/brittle eligible armor, water: wetness/pressure, lightning: conductive-vs-insulating armor, air: brief destabilizing force, toxic: hex contamination with separate later-defined systemic effects. Pros: one fast GM judgement; cons: must establish defensible type-specific thresholds and avoid guaranteed injury on every contact.
+
+**C: Damage Conversion**. Convert a bounded share of ordinary weapon Power into elemental Power; split vs physical coverage and elemental protection. At ranks I–IV retain mostly physical Power; at rank V the weapon becomes wholly elemental and forfeits original material benefits. Pros: strong thematic consistency; cons: can accidentally weaken weapons and has complex mixed resistance resolution.
+
+**Rank philosophy shared across options:** I faint contact, II clear but still weak effect, III meaningful specialized interaction, IV significant partial-element strike, V complete elemental form; the rank V item's **original material property/bonus is replaced**, not added. Exact damage Power shares, Magic/Specific Resistance calculations, rank-V physical handling and object persistence are unapproved. All nonactivated passive effects should be less potent than analogous Sorcery gem activations. No passive effect follows a target who fully evades.
+
+### Magic-specific interactions (not approved numerical values)
+
+- **Fire:** heat may affect conductive armor underneath even when the edge fails to puncture, but magic resistance to fire suppresses it.
+- **Ice:** chill/freeze an exposed limb or degrade eligible brittle material after sufficient contact; immunity/ice-resistant material matters.
+- **Water:** impact or conduction effects only if consistent with valid water mechanisms, not limitless free water creation.
+- **Lightning:** effective against conductive armor, weaker against suitable glass/insulating armor; equipment material/coverage decides.
+- **Air:** brief displacement/pressure effect, constrained by resistance and environmental anchoring.
+- **Toxic/hex:** contact contamination can build toward the already established hex pollution effects such as hex delirium, magical instability and other delayed consequences. **Numerical doses, duration, resistance, armor passage, rates and side-effects are RESERVED for future explicit design**. Do not mistake this for free approved Nymbrin alchemy or assume every contact causes delirium.
+
+### Quality handling tests
+
+**New current rule:** base physical stat requirement × (1 − quality percentage) − 5 points per individually required attribute, minimum 1. Quality I through V percent reduction 0%, 5%, 10%, 15%, 20%. So a base requirement of 100 is 95 at Quality I, 75 at Quality V. A balanced weapon that normally requires 100 STR *and* 100 DEX needs 75 in **each** at Quality V. Requirement rounding still needs approval.
+
+### Armor Speed penalty examples
+
+Testing only: base chain burden 15% requiring 20 STR; base plate burden 30% requiring 30 STR; wearing both when covering distinct areas means add remaining penalties after independent Strength relief. At STR 30, chain residual 7.5%, plate 30%, combined 37.5%. At STR 60 both can become 0%. Speed floor 1, penetration/coverage and other actual physical burdens remain separate.
+
+### First balance pass agenda
+
+1. Use comparative specialization builds with equal stat-point investment, including STR 400 tests and dual-attribute balanced weapons, preserving unarmed/dagger baselines.
+2. Set actual Armor Ratings per material, physical form, and I–V craftsmanship before tuning Speed burdens.
+3. Establish enchantment's shared stat-boost budget, per-rune/per-gem cumulative Soul Strain and useful spell frequency considering dual-mode Thrift and extended Longsong.
+4. Set a chosen passive elemental contact procedure without defeating END or special magic Resistance.
+5. Fix Cogmarshal Command Loom portable control limitations and activated spell gem imprint costs/knowledge requirements.
