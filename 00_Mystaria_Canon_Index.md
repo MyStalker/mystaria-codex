@@ -178,3 +178,7 @@ Driders and Centaurs use more anime-inspired character design with **controlled 
 ## November 5, 2026 — Combat, Endurance, and Shimmer Guard
 
 The approved injury system, combat +10 quadratic comparison, impact thresholds, weapon baselines, Hero and Legend Shimmer Guard, heal burn, firearm principles and terminology are consolidated in [`22_Combat_Endurance_and_Shimmer_Guard.md`](22_Combat_Endurance_and_Shimmer_Guard.md). **Adamantite** remains the metal's correct spelling; **Crownsalt** is also colloquially called **gunpowder**. **Armor numerical scaling with Centaur crafting remains PROPOSED / UNRESOLVED**, as do precise firearm handling ratios, recoil triggers and short-rest heal-burn recovery. Supersede the previous dagger 0.85× with **dagger 1.0×, gauntlets 1.0× and unarmed 0.85×**. The new dossier owns combat mechanics; existing five-tier equipment prices, Craft ranks and costs are unchanged.
+
+## November 5, 2026 — Combat terminology
+
+The approved combat vocabulary is **Power** (general scaling result, not necessarily damage), **Resistance** (effective END before the +10 combat offset), and **Defense** (withstanding an effect, not evasion). Specific resistances organize threat-specific modifiers; evasion is separate. The owning reference is [`22_Combat_Endurance_and_Shimmer_Guard.md`](22_Combat_Endurance_and_Shimmer_Guard.md). Existing quadratic formulas and impact thresholds are unchanged; exact mixed-modifier resolution, armor scaling, casting-implement bonuses and vulnerability stacking remain unresolved.
