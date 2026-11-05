@@ -246,3 +246,10 @@ The user later requested that **Formwright and Monumentcraft be considered blank
 - The individual Smithcraft rune/active gem effect catalogues and proposed Manacistern capacity/strain figures still need validation.
 - Additional Celestite byproduct names are candidates, not canon materials.
 - All **twelve** canon material names should remain; Deepbronze was excluded from the selected list.
+
+
+## November 5, 2026 — Firearm handling and armor scaling status
+
+**Approved clarification:** The correct material spelling remains **Adamantite**, not Adamantine. **Crownsalt** is also acceptably called **gunpowder**. Guns' offensive force is determined by the gun and ammunition, **not directly by the shooter's Strength**. Each gun is to have a damage-to-required-Strength relationship: insufficient Strength impairs aim/handling and magnifies recoil, with a minimum below which unsupported use is impossible and a sufficient-strength threshold for negligible recoil burden. Exact numeric thresholds are **UNRESOLVED**. Adamantite-reinforced high-end firearms can be extraordinarily heavy; supports or bracing can enable firing weapons too heavy to wield freely but are poor for mobile melee and do not automatically eliminate recoil. Magic including Jester ribbons may mitigate carried weight/movement **without automatically cancelling recoil**. An actual **severe recoil injury advances one wound state**; numerical trigger is unresolved. Trufula frames still require compatible **noncombustive propellants**; use of the colloquial word gunpowder does not change material compatibility.
+
+**Armor scaling — UNFINISHED PROPOSAL:** Reconcile protective ratings, quadratic Endurance +10 defenses, armor penetration and all five equipment-quality tiers with approved Centaur Smithcraft/Anvilcant and equipment-affinity rules. Do **not** treat prior sample armor ratings, penetration percentages or equipment-quality conversion as canon. See `22_Combat_Endurance_and_Shimmer_Guard.md` and `09_Equipment_and_Economy.md`. No Smithcraft ranks, costs or established material properties are altered here.
