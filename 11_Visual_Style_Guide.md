@@ -25,21 +25,35 @@ The **reference image is the source of truth for the actual emblem designs**. Te
 
 ## 2. Established art direction for the Living Codex
 
-### November 4, 2026 — Official art style for all future Mystaria artwork
+### November 5, 2026 — Defining official style: Direction 4, detailed ink-and-color fantasy
 
-**USER-APPROVED ART DIRECTION:** All official art generated for Mystaria going forward must use the following graphic, animated style. This applies across races, characters, environments and scenes, superseding the earlier painterly living-storybook rendering requirement.
+**LATEST USER CORRECTION:** Direction **4**, not Direction 5, is Mystaria's defining official art style. Use delicate ink-and-color fantasy illustration with Japanese manga-influenced character construction. This supersedes the mistaken woodblock/anime selection and the earlier uniform bold-outline cel rendering requirement.
 
-| Attribute | Required treatment |
+| Element | Required treatment |
 |---|---|
-| Shapes | Simplified forms, strong silhouettes, exaggerated curves, angular accents |
-| Linework | Clean contours, varied line weight, bold outer outlines, minimal interior detail |
-| Proportions | Expressive eyes, exaggerated expressions, deliberately stylized anatomy |
-| Shading | Two or three distinct cel-shading values, hard shadow edges, broad graphic highlights |
-| Color | Limited palette, strong color separation, colored shadows |
-| Detail | Large readable shapes, selective detail around the face and focal point |
-| Pose | Clear line of action, dynamic gesture, expressive hands, intentional exaggeration |
+| Linework | Delicate ink contours with varied weight and occasional broken edges; avoid uniform heavy outlines |
+| Texture | Sparse fine hatching for deep creases and textural accents; subtle warm-ivory paper grain |
+| Color | Restrained translucent color washes beneath crisp drawing; muted moss greens, dusty teal, russet, indigo, plum and warm ivory, with small brass accents |
+| Faces | Economical, carefully constructed features, nuanced character-specific expressions; vary eyelids, ears, beak angles and mouth tension |
+| Shapes and anatomy | Strong readable silhouettes and deliberately stylized anatomy, preserving species identity and established body plans |
+| Fur and feathers | Designed groups and masses; individual strands only at focal points |
+| Clothing and equipment | Believable construction, functional fastenings, layered fabric, stitching, selective folds and modest signs of wear |
+| Shading and light | Calm tonal range, soft restrained washes, selective ink accents and diffuse warmth; avoid glossy realistic rendering |
+| Detail | Selective detail around faces, hands and focal objects; descriptive environmental drawing that recedes behind the cast |
+| Pose | Clear readable gesture and character personality; neutral consistent poses when documenting anatomy |
 
-Use more humanoid character proportions where compatible with the race, while preserving species identity and approved anatomy, including animal heads, paws, scales, feathers, wings and tails. Preserve the established humanlike upper bodies of Driders and Centaurs and the animal-bodied forms of Firstshaped. Stylization must respect each character's anatomy and the scene's emotional intent; subtle expressions remain appropriate when directed. Existing mana emblems, purple identity, collar convention and illustration approval procedure continue to apply. This approves the style specification; it does not approve any individual image.
+The result should feel observational, tactile and drawn: neither dense all-over crosshatching, ornate gold embroidery everywhere, flat heavy-outline cel art, nor photorealistic painting. Preserve atmosphere and narrative range without overwhelming the drawing. Japanese influence concerns visual design rather than automatic changes to Mystaria clothing or architecture. Preserve racial anatomy, emblems, purple identity, collars and world-specific features.
+
+**Defining image references, preserved separately:**
+- **Race Image Origin**: original graphic composition/character baseline, `vol-peoples` version 6: https://chatgpt.com/library?file_id=libfile_3d7bd96fa3f08191a8da1d5496f4d1e2&account_id=personal
+- **Race Image Origin — Direction 4**: ink-and-color study, `vol-peoples` version 10. Defining approved STYLE example: https://chatgpt.com/library?file_id=libfile_17a5750b47448191a1216dc7ef7d1979&account_id=personal
+- Direction 5 remains an archived alternative, not the official style. Preserve the baseline and studies separately. Style-example approval does not canonize every anatomical detail or authorize website placement.
+
+### November 5, 2026 — Current production priority
+
+**USER DIRECTION:** First establish a reference sheet for each race. The earlier website illustration queue, page placements, dropdown crops and one-standalone-illustration restriction are deferred and must not drive this phase. Multi-view reference sheets are permitted. Website changes and integration require a later request.
+
+**Recommended workflow (production advice, not new racial canon):** Approve one representative design and proportions first; create full-resolution front, side and back views separately using the same approved master image and written specification. Check silhouette, height, markings, limb/digit counts, clothing, wings and tail roots across views. Assemble approved views into a sheet without regenerating them. Use neutral consistent lighting, scale and background; restrain paper texture and decorative scenery so anatomy remains readable. Add expressions and anatomical close-ups separately as needed.
 
 ### November 4, 2026 — Adult female figure guidance across all races
 
@@ -66,9 +80,9 @@ Use more humanoid character proportions where compatible with the race, while pr
 
 **Not yet specified:** An exact purple hex code, print color standard, gradient system, and palette proportions remain **artist-directed / undecided**. Do not present suggested color codes as established canon.
 
-**User-selected presentation preferences:**
+**Earlier website presentation preferences — deferred during the race-reference phase:**
 
-- **Graphic animated art** for lore: follow all seven approved style attributes above. Preserve atmosphere, whimsy and unsettling narrative moments that make room for Mystaria's cruelty, moral complexity and divine contradictions.
+- **Graphic animated art** for lore: follow the current Direction 4 ink-and-color specification above. Preserve atmosphere, whimsy and unsettling narrative moments that make room for Mystaria's cruelty, moral complexity and divine contradictions.
 - **Readable tabletop reference** treatment for rules and numbers: structured tables, clear typography, restrained decoration, legible contrast and useful navigation.
 - A coherent shared visual language across the website introduction and the full Codex. The website is the preferred reading format; do **not** prioritize further development of a separate introduction PDF.
 - Every one of the thirteen major Codex volumes and each race page should receive a distinctive illustration.
@@ -97,14 +111,14 @@ The following are practical recommendations for future art production, not immut
 1. **Candidate:** Propose a concept, subject, composition and location in the Codex.
 2. **Artist selection:** The user chooses a candidate or supplies an alternative and may request revisions.
 3. **Approved visual:** Mark only explicitly approved designs as approved; preserve their source images.
-4. **Integration:** Add approved assets to the website at the specified placement and link the relevant page or dropdown.
+4. **Current output:** Build approved race reference sheets. Website integration is deferred until separately requested.
 5. **Revision record:** Log replaced motifs or superseded assets, and update the Canon Index if the visual reference structure changes.
 
 ## 5. Existing illustration-planning references
 
-The previously prepared illustration selection menu, candidate list, and dropdown placement audit are **planning materials**, not approved images or lore. They remain available for the user's art-direction decisions. The current approved visual asset in this guide is the five-mana emblem sheet.
+The previously prepared illustration selection menu, candidate list, and dropdown placement audit are **planning materials**, not approved images or lore. They remain available for the user's art-direction decisions. Approved visual references include the five-mana emblem sheet and the Direction 4 style example identified above.
 
-## 6. Pending website changes (do not apply until next requested site build)
+## 6. Deferred website changes (do not apply until next requested site build)
 
 - Rename reader-facing **“The Peoples of Mystaria”** to **“The Races of Mystaria”** in the appropriate site navigation, headings and links when the user next requests an updated website. This is an editorial navigation preference, not a change to racial lore.
 - Integrate approved illustrations only after art selection and site revision are requested.
