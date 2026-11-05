@@ -1,7 +1,7 @@
 # Mystaria — Centaurs, Anvilcant, Firearms, Materials and Celestite
 
 **Authority:** The Centaur race, original Anvilcant foundation, twelve named materials, and Celestite are **CANON**, approved 2026-11-03. The later **modular-equipment and clockwork overhaul is PROPOSED**, not approved. The distinction is explicit throughout.  
-**Latest approved attributes:** STR 11, DEX 3, END 8, INT 6, SPD 10 (base). Do **not** restore the older +2 DEX/END/INT draft.
+**Latest approved attributes (November 5, 2026):** STR 21, DEX 13, END 18, INT 16, SPD 20 (base). Do **not** restore the older +2 DEX/END/INT draft.
 
 ## I. Biology and place in the world — CANON
 
@@ -15,14 +15,14 @@ Centaurs have the entire humanlike upper torso, arms and hands of an ordinary hu
 
 | Attribute | Base | Racial adjustment | Effective starting |
 |---|---:|---|---:|
-| STR | 11 | **+25%** | **13.75** |
-| DEX | 3 | — | **3** |
-| END | 8 | — | **8** |
-| INT | 6 | — | **6** |
-| SPD | 10 | **+25%** | **12.5** |
-| **Total** | **38** | — | **43.25** |
+| STR | 21 | **+25%** | **26.25** |
+| DEX | 13 | — | **13** |
+| END | 18 | — | **18** |
+| INT | 16 | — | **16** |
+| SPD | 20 | **+25%** | **25** |
+| **Total** | **88** | — | **98.25** |
 
-**Natural MP:** 8 green, before Soul Strain. **Starting bonus Skill Points:** **0**. Centaur endurance is good but below Thornguard's. Raw STR and SPD are major strengths; dexterity is modest, and smithing expertise is earned through training and Craft progression, not overwhelming innate INT.
+**Natural MP:** 18 green, before Soul Strain. **Starting bonus Skill Points:** **0**. Centaur endurance is good but below Thornguard's. Raw STR and SPD are major strengths; dexterity is modest, and smithing expertise is earned through training and Craft progression, not overwhelming innate INT.
 
 ## II. Origins and the holy city — CANON
 
@@ -253,3 +253,7 @@ The user later requested that **Formwright and Monumentcraft be considered blank
 **Approved clarification:** The correct material spelling remains **Adamantite**, not Adamantine. **Crownsalt** is also acceptably called **gunpowder**. Guns' offensive force is determined by the gun and ammunition, **not directly by the shooter's Strength**. Each gun is to have a damage-to-required-Strength relationship: insufficient Strength impairs aim/handling and magnifies recoil, with a minimum below which unsupported use is impossible and a sufficient-strength threshold for negligible recoil burden. Exact numeric thresholds are **UNRESOLVED**. Adamantite-reinforced high-end firearms can be extraordinarily heavy; supports or bracing can enable firing weapons too heavy to wield freely but are poor for mobile melee and do not automatically eliminate recoil. Magic including Jester ribbons may mitigate carried weight/movement **without automatically cancelling recoil**. An actual **severe recoil injury advances one wound state**; numerical trigger is unresolved. Trufula frames still require compatible **noncombustive propellants**; use of the colloquial word gunpowder does not change material compatibility.
 
 **Armor scaling — UNFINISHED PROPOSAL:** Reconcile protective ratings, quadratic Endurance +10 defenses, armor penetration and all five equipment-quality tiers with approved Centaur Smithcraft/Anvilcant and equipment-affinity rules. Do **not** treat prior sample armor ratings, penetration percentages or equipment-quality conversion as canon. See `22_Combat_Endurance_and_Shimmer_Guard.md` and `09_Equipment_and_Economy.md`. No Smithcraft ranks, costs or established material properties are altered here.
+
+### November 5, 2026 — Attribute rebasing note
+
+The new starting totals above use **+10 to each original base attribute before racial +25% STR/SPD modifiers**. Hero lifting calculations now use the adopted quadratic STR-based benchmark in `01_World_and_Shimmer.md`; racial anatomy still affects handling. Equipment-derived boosts and the Centaur half-equipment-affinity rules remain unchanged. The **armor-rating and SPD-penalty scaling overhaul remains an unfinished proposal**. Existing firearm reaction SPD benchmarks must be reviewed for consistency with new starting stats, but are not silently replaced here.

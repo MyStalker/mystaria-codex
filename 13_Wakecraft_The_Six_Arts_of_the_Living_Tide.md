@@ -667,3 +667,7 @@ And the Tidekin gain a wonderful new cultural boast:
 “The Naga can read your mind. The Vren can taste your blood. The Warlocks can steal your magic. Me? Darling, I can tell you what happened here yesterday, cut through your front door, and make a lovely little bridge out of your driveway. You're welcome.”
 
 **Canon status: APPROVED.** This expansion replaces the earlier limited Wakecraft framework while retaining Currentweaving, Tidebinding, and Mirrorwake in their revised roles. It was explicitly approved as the definitive Tidekin racial Craft.
+
+## November 5, 2026 — Revised starting attributes and range / channel compatibility (CANON)
+
+Racial Hero starting bases increase by 10 **before** racial percentage modifiers. **Natural MP now uses floor(new natural effective END)**, intentionally expanding low-level MP reserves. **Hydrokinesis base range is now `2 + max(1, new effective INT − 10)` meters**, before Longwake or other expressly existing technique modifiers; this replaces previous `2 + effective INT` references. **Channel Limit remains approximately its pre-migration value:** `ceil(max(1, new effective INT − 10) / 5)` MP per immediate effect, superseding old direct-INT examples. At new effective INT 11, base Hydrokinesis range is 3 m, not more than 10 m. All six disciplines, prices, rank effects and named technique costs remain unchanged. Their mana costs need future holistic review in light of enlarged personal mana reserves.

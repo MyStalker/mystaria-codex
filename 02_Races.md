@@ -26,18 +26,18 @@
 | Centaurs | Equine-bodied smiths; Anvilcant; green mana | `07_Centaurs_and_Smithcraft.md` |
 | Firstshaped | Fully sapient animal-bodied variants of other races | Here |
 
-## Approved Kobold level-1 Hero attributes — November 4, 2026
+## Approved Kobold level-1 Hero attributes — updated November 5, 2026
 
 **Canon:** The user explicitly approved the following Kobold base attributes and permanent racial multipliers. The five absolute Shimmer attributes apply normally; racial percentages modify base attributes as for other races.
 
 | Attribute | Base | Racial modifier | Effective starting value |
 |---|---:|---:|---:|
-| STR | **2** | **−10%** | **1.8** |
-| DEX | **8** | **+10%** | **8.8** |
-| END | **3** | — | **3** |
-| INT | **10** | **+20%** | **12** |
-| SPD | **7** | — | **7** |
-| **Total** | **30** | — | **32.6** |
+| STR | **12** | **−10%** | **10.8** |
+| DEX | **18** | **+10%** | **19.8** |
+| END | **13** | — | **13** |
+| INT | **20** | **+20%** | **24** |
+| SPD | **17** | — | **17** |
+| **Total** | **80** | — | **84.6** |
 
 These are **racial starting statistics**, not a new Orbcraft skill tree or free purchased powers. Kobold Orbcraft/Mirrorcraft lore and cultural expressions remain governed by their existing references. No new mana affinity, starting SP award, level gate, Craft rank, or extra racial ability is implied by this ruling.
 
@@ -383,14 +383,14 @@ For Shimmer racial selection, **Untouched Serpentari** are a distinct unmodified
 
 | Stat | Base | Effective |
 |---|---:|---:|
-| STR | 11 | **13.75** (+25%) |
-| DEX | 3 | **3** |
-| END | 8 | **8** |
-| INT | 6 | **6** |
-| SPD | 10 | **12.5** (+25%) |
-| **Total** | **38** | **43.25** |
+| STR | 21 | **26.25** (+25%) |
+| DEX | 13 | **13** |
+| END | 18 | **18** |
+| INT | 16 | **16** |
+| SPD | 20 | **25** (+25%) |
+| **Total** | **88** | **98.25** |
 
-Starting Skill Points **0**; ordinary natural green MP **8** before Soul Strain. Do not reapply the original higher END/DEX/INT draft.
+Starting Skill Points **0**; ordinary natural green MP **18** before Soul Strain. Do not reapply the original higher END/DEX/INT draft.
 
 ## Racial attribute source warning
 
@@ -405,3 +405,7 @@ See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon
 ### Duskpaw history and Nymbrin relationship — later addition
 Duskpaws also lived in El Dorado before the **Night of a Thousand Locks**. The Serpentari's Great Taking robbed the shared city, contributing to Duskpaw criminal culture and an enduring alliance with Nymbrin. Their established Serpentari enslavement and Baphomet-granted liberation remain operative; the older origin paragraph is incomplete without this shared-city history. Stealing from Nymbrin is a deep taboo, while consensual contractual swindling is a competitive game. Guild, Cache and pool membership frequently crosses racial boundaries. Tidekin alone have fur thick and oily enough for harmless ordinary Nymbrin contact; Duskpaw households require precautions. Full details: the Nymbrin dossier.
 
+
+## November 5, 2026 — Race attribute rebasing (CANON)
+
+All approved level-1 Hero racial **base attributes increase by +10 per stat before existing racial percentage modifiers**, with minimum effective stat **1**. The Kobold and Centaur current tables above are updated; the standard other-race table in `01_World_and_Shimmer.md` is the consolidated numeric reference. Earlier stat examples embedded in historical lore or derived racial references are superseded when inconsistent. Monsters and other creatures may still have attributes **below 10**, down to the absolute minimum of **1**. Increased natural MP is intentional, except the established Moontouched and Drakyn 0-natural-MP cases. This rebasing does not change racial abilities, skill prerequisites by fiat, extra SP, special anatomy or spell purchases.

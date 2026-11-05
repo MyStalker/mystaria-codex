@@ -449,3 +449,16 @@ This revision also preserves a particularly interesting contradiction in Surrend
 - Capacity: **direct MP per hand**, `max(1, floor(natural effective END / 5)) MP`, in **one hand**. This supersedes the earlier **1–3 spell-loads** and `ceil(END / 10)` reference-load accounting. It remains temporary external mana handling, never an entire END-sized personal MP reserve.
 - Cost package: previous assistant proposal for **all 25 techniques** explicitly approved by user before the November 4 reconciliation; recorded above.
 - Former skill effects and obsolete MP prices are not purchasable alternative ranks. See `10_Canon_Changelog.md` for revision status.
+
+## November 5, 2026 — Rebasing compatibility for effective INT/END (CANON)
+
+The new racial Hero base attributes receive +10 **before** racial modifiers. To preserve the general Manabending range and *one-hand temporary handling limit* while accepting small race-modifier differences, use:
+
+```text
+Legacy-equivalent INT = max(1, new effective INT − 10)
+Legacy-equivalent END = max(1, new natural effective END − 10)
+Base Manabending range = 2 + 2 × legacy-equivalent INT meters
+One-hand Handling Capacity = max(1, floor(legacy-equivalent END / 5)) MP
+```
+
+These formulas **supersede the earlier unadjusted effective INT/END examples** and do **not** increase the Warlock's hand throughput simply because the displayed attributes were rebased. A Warlock at new effective INT 11 has 4 m base Manabending reach. Warlocks **still have no natural MP** and retain the existing hand duration, one-hand limitation, all 25 skill ranks, MP costs and prerequisites. Ordinary personal MP for mana-producing races is intentionally raised elsewhere; existing Warlock spell/MP costs are scheduled for a future global balance review, not changed in this migration. All derived attributes and clamped formula inputs have minimum 1.

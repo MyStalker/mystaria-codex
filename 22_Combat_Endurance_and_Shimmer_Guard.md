@@ -143,3 +143,19 @@ For Heroes and Legends confronting overwhelming Speed discrepancies, **Shimmer G
 ### Rejected for routine play: percentage evasion model
 
 The author explicitly **dislikes the prior Proposal Three / Bounded Evasion Curve** as a player-facing or GM-facing operational mechanic. Percent dodge frequencies may be used, if ever, **only as hidden, rare, highly technical playtesting calibration**, not as a published rule, random dodge check, mandated outcome frequency, or substitute for the approved difficulty ladder and tactical pressure. Do not canonize the earlier suggested percentages.
+
+## November 5, 2026 — Global attribute rebase supersedes combat-only +10 (CANON)
+
+**Priority note:** This later author-approved rule supersedes the older passages above that add +10 only while calculating combat. **Every approved Hero racial base attribute increases +10 before racial percentage modifiers**. After modifiers, all attributes are clamped to **minimum 1**, including monsters. Non-Hero monsters may have attributes **1–9**. The stronger influence of racial percentage modifiers is intentional.
+
+Use **new effective STR directly** to derive weapon Power, **new effective END (Resistance) directly** to derive Defense Power, and **new effective SPD directly** in Speed comparisons:
+
+```text
+Strength-weapon Power = (new effective STR × weapon modifier)^2
+Natural Defense Power = (new effective END / Resistance)^2
+Working armored Defense Power = Resistance^2 + (effective Armor Rating)^2
+Impact Ratio = Power / applicable Defense Power
+Evasion Ratio = Defender new effective SPD / Attacker new effective SPD
+```
+
+The former combat-only +10 must **not** be added a second time. The six approved Speed difficulty categories, pressure states, impact thresholds, glancing rules, Shimmer Guard/injury progression, and unresolved armor scaling remain unchanged. The revised scale aims for average human Strength **15** and stronger-than-most-human Strength around **25**. Practical one-time waist-height lifting benchmark: **`100 × (effective STR / 15)^2` pounds**, rounded for table use and subject to anatomy/handling. Numerical firearm STR requirements, armor SPD penalties and primary-skill scaling remain pending.
