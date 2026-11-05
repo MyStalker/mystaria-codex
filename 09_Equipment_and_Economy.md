@@ -219,3 +219,8 @@ The user supplied the self-contained `moonlit_garden_shop (1).html` as a separat
 The [Nymbrin dossier](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) controls **Pazara** living construction, hardened Pazara **chitin**, **clearbreaths**, five intoxicants, and **Rapture Salt** as Vren standard alchemical ordnance. All alchemy generates hex.
 Nymbrin consumable power is tied to Gem costs and calibrated against **30% of a Hero's typical Gem budget** allocated to consumables. This is a design benchmark, not a compulsory purchase or free grant. Exact prices/yields and the budget's progression window remain unresolved. The Centaur modular overhaul remains a separate proposal; no equipment or shop prices are replaced.
 
+
+
+## November 5, 2026 — Combat and healing cross-reference
+
+Approved combat now applies the **combat-only +10** offset, quadratic comparison, and updated damage/injury thresholds; dagger 1.0×, gauntlets 1.0×, unarmed 0.85×. Healing magic incurs **heal burn on the recipient**, stacking with other Soul Strain, under the amounts and rest rules in `22_Combat_Endurance_and_Shimmer_Guard.md`. **Actual armor-rating progression, penetration, and numerical integration with equipment quality remain unfinished PROPOSALS**; the five established equipment tiers, Gem prices, ordinary equipment-derived Soul Strain and Centaur half-gear affinity are not replaced. **Adamantite** is the correct material name. Crownsalt is also known as **gunpowder**; gun-specific required Strength and recoil burden do not directly modify intrinsic damage, and severe recoil injuries advance one injury state.
