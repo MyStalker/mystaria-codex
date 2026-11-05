@@ -53,6 +53,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 | [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
 | [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
 | [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md) | Approved southeastern Naga homeland: Worldspindles/Coilworks, four cities, Cipherlight/Coilnet Rainbows, Conclave, Scale Register, Mirrorwardens and Spindlewatch, economy, ecology, slavery and adventure setting | **CANON** — sole capital Sathryx; enslaved central-city majority with no approved percentage |
+| [`22_Combat_Endurance_and_Shimmer_Guard.md`](22_Combat_Endurance_and_Shimmer_Guard.md) | Approved impact, wounds, Shimmer Guard, heal burn and firearm principles; armor numerical scaling not finalized | **CANON with explicit PROPOSAL/UNRESOLVED subsections** |
 | [`19_The_Mnemonic_Arts_and_Echo_Economy.md`](19_The_Mnemonic_Arts_and_Echo_Economy.md) | Mindprism retina-based Cipherlight, Echo records, memory return/Everseals, Skillprints, Dreamcasting, Echo Vaults and Living Reliquaries | **CANON** — unresolved technical rates and exact MP/Gem pricing marked |
 
 ## November 4 repository audit — approved maintenance
@@ -172,3 +173,8 @@ Driders and Centaurs use more anime-inspired character design with **controlled 
 [`20_Nymbrin_Wetcraft_and_Hexen_Canon.md`](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) owns the complete approved Nymbrin race, six Wetcraft domains, Golden Lease, El Dorado/Great Taking, Duskpaw alliance, Wakebound, Pazara/chitin, drugs, passion potions, Hexen and Haze. All current conversation lore is approved, with **Hexen** superseding provisional mutant names. Its later additions control overlapping older summaries.
 [`21_Nymbrin_Skill_Options_DRAFT.md`](21_Nymbrin_Skill_Options_DRAFT.md) is a **PROPOSAL**: twelve selectable technique concepts per discipline. No new technique ranks/costs are approved by the lore acceptance. Consumables use Gem-based power and the author's 30% budget design allocation. Centaur's modular overhaul remains noncanon.
 
+
+
+## November 5, 2026 — Combat, Endurance, and Shimmer Guard
+
+The approved injury system, combat +10 quadratic comparison, impact thresholds, weapon baselines, Hero and Legend Shimmer Guard, heal burn, firearm principles and terminology are consolidated in [`22_Combat_Endurance_and_Shimmer_Guard.md`](22_Combat_Endurance_and_Shimmer_Guard.md). **Adamantite** remains the metal's correct spelling; **Crownsalt** is also colloquially called **gunpowder**. **Armor numerical scaling with Centaur crafting remains PROPOSED / UNRESOLVED**, as do precise firearm handling ratios, recoil triggers and short-rest heal-burn recovery. Supersede the previous dagger 0.85× with **dagger 1.0×, gauntlets 1.0× and unarmed 0.85×**. The new dossier owns combat mechanics; existing five-tier equipment prices, Craft ranks and costs are unchanged.
