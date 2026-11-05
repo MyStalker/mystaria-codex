@@ -751,3 +751,7 @@ A Bloodbinder may know exactly when your heart starts beating faster, whose bloo
 ## Nymbrin guilds and Scarlands industry — approved cultural cross-reference
 See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md): Vren recruited Nymbrin after the God War; guilds hold substantial Blood Court influence and protected Golden Leases, with strikes and rebellion supporting those rights. Their continued acceptance of Vren rule is calculated and profitable. Vren trade five named intoxicants; Rapture Salt is their standard alchemical explosive. Upper-city Vren and palace slaves often cannot breathe the lower Haze; access to clean air can enforce confinement. No Sanguine Arts rank or numerical rule is changed.
 
+
+## November 5, 2026 — Attribute/Channel migration (CANON override)
+
+Increase all starting racial **base** attributes by 10 **before** percentage modifiers; each effective attribute has minimum 1. Existing Beastheart/Celerity **+5/+15/+25 effective stat** benefits are granted after racial percentages exactly as before. The historical level-100 point-budget example in Part IV uses **pre-rebasing baseline stats** and is **superseded as a numerical example**; do not use its 207-AP comparison under the revised baseline without recalculation. Existing Vren Channel Limit uses `ceil(max(1, new effective INT − 10) / 5)` to avoid accidental per-action amplification; natural MP for mana-generating Vren increases with revised END. All abilities/MP costs remain unchanged pending future universal review.
