@@ -94,3 +94,52 @@ In a genuinely synchronized attack, weaker attackers can combine offensive **pow
 **Illustrative scenario, not a ruling on numerical effects:** A Sorcerer using an implement casts **Ignis** at a Thornguard in plate armor, coated in lantern oil and protected by a barrier. First decide whether Ignis connects. Determine Ignis's Power under its actual spell rules and the implement's approved effect, then apply any proven fire-specific Resistance, armor protection that really works against the spell, the actual barrier mechanism, and any oil-induced vulnerability. Do not assume that plate stops fire, that lantern oil changes effective END, or that all barriers merely increase END. Specific numerical modifiers, spell damage scaling and their precedence are **not yet canonical**.
 
 This terminology clarification supersedes uses of “attack rating,” “effective Endurance” and “Defense” as interchangeable names for Power, Resistance and evasion in older summaries. It does **not** change the quadratic law, the +10 offset, the injury thresholds, or existing Sorcery skill/MP/SP costs.
+
+
+## November 5, 2026 — Speed and Evasion: approved design direction
+
+**Status:** **CANON for the design philosophy, difficulty ladder, pressure states, no-extra-attacks restriction, and Shimmer prediction feature.** Specific procedural modifiers, numerical armor SPD penalties, and a full hit-resolution algorithm are **UNRESOLVED**. Do not treat hypothetical frequencies as canon.
+
+### Core principles
+
+- **STR, DEX, INT** are the primary scaling attributes for thematic skill output. General-purpose, Skill-Point-purchased STR/DEX skills are planned for future development; **no names, SP prices, rank effects, or purchases are established here**. Specific magic can also scale with END under its existing rules.
+- **END / Resistance** is the universal protection against landed harm. **SPD / Speed** helps a combatant evade and land attacks on fast opponents, with emphasis on **defensive** use; DEX remains distinct for accuracy and technique. Speed never independently grants extra attacks within an action. Special skills or magic that might alter action count are speculative, not granted.
+- Evasion is separate from Defense, entirely negating a successfully dodged attack. **Glancing blows** are permitted as an intermediate result when an attack cannot wholly miss or wholly connect; they reduce the resulting **injury states by approximately half, NOT Power**. Exact rounding for odd injury counts remains **UNRESOLVED**. Glances should be less common than complete dodges. Targeted, high-quality attacks particularly invite evasion; armor/Resistance are especially dependable against repeated weaker strikes.
+- Different combat circumstances are the principal counter to superior Speed: **area attacks, multiple coordinated enemies, constraints on escape paths, terrain and setup**; even extraordinary Speed does not guarantee absolute immunity in all situations. Extreme disparity may make a direct ordinary attack impossible in the *current circumstances* until the attacker changes those circumstances. Armor **directly penalizes SPD**, but numerical values and equipment-quality scaling remain an **UNFINISHED PROPOSAL**, coordinated with Centaur crafting.
+- The design benchmark is that, against **one ordinary melee opponent in open conditions**, equal extra-stat investment in SPD versus END should yield **roughly comparable overall injury avoidance/mitigation**. END should be more consistent across multiple smaller attacks and area exposure; SPD should be strongest at evading individual dangerous hits. This is a balance goal, not an approved probability system.
+
+### Approved baseline Evasion Ratio and difficulty ladder
+
+The ratio compares defender and attacker **effective SPD**, using the combat-only offset; actual ability to dodge additionally depends on situation and the attack's nature.
+
+```text
+Evasion Ratio = (Defender effective SPD + 10) / (Attacker effective SPD + 10)
+```
+
+| Evasion Ratio | Difficulty to land a direct attack | Interpretation |
+|---|---|---|
+| Below **0.50** | **Certain** | A straightforward strike should ordinarily connect unless circumstances alter it |
+| **0.50–0.79** | **Easy** | Defender needs favorable circumstances to evade |
+| **0.80–1.24** | **Average** | Neither side has a major Speed advantage |
+| **1.25–1.49** | **Hard** | Defender usually evades if aware and free to move |
+| **1.50–2.99** | **Very Hard** | A direct hit normally needs a created opening |
+| **3.00 and higher** | **Impossible** | Ordinary direct attacks cannot connect under unchanged circumstances |
+
+The displayed decimal bands are human-friendly approximations; **exact treatment of gaps between hundredths is unresolved**. For human adjudication, compare to the shown boundaries and avoid needless precision. Difficulty is a default **before contextual adjustments**. **Certain does not bypass armor/Resistance** and **Impossible is not absolute invulnerability**.
+
+### Four pressure states: open, pressured, trapped, extreme pressure
+
+- **Open:** clear escape routes; the defender can benefit from their normal Speed advantage.
+- **Pressured:** crowding, distraction, an ally flanking, partial confinement, or converging threats; evasion is harder and glancing blows become plausible.
+- **Trapped:** meaningful escape routes are denied or attack coverage prevents a clean ordinary dodge; armor, barriers, Resistance and applicable magic become crucial.
+- **Extreme Pressure:** unusually intense saturation such as a coordinated army of archers and swordsmen, overwhelming numbers and multiple overlapping attacks. The target is severely constrained **but never automatically helpless**: creative magical mobility, cover, disruptions, defensive techniques and favorable opportunities may still matter. Do not assume this state automatically makes every attack hit or authorizes unlimited group power.
+
+Pressure changes the **circumstances** of an attack, not END/Resistance itself. The precise number of difficulty steps or die-less success procedures for each state is **UNRESOLVED**. Flanking by one ally and being targeted by a full formation should not be treated as equally oppressive.
+
+### Shimmer prediction — approved feature, conditional DM intervention
+
+For Heroes and Legends confronting overwhelming Speed discrepancies, **Shimmer Guard can display predicted evasion paths** (for Heroes, Shimmer-style purple path projections; Legends' manifestation follows their own Guard). This is an in-world sensory/anticipatory effect and a DM-facing mechanical aid when Speed disparities make ordinary attacks difficult to adjudicate or play. It can convey plausible movement/escape paths or openings and support adjudication of an otherwise impossible direct attack; it **does not** automatically boost SPD, grant extra actions, guarantee a hit, disclose certain future events, or override an opponent's abilities. Its numeric activation threshold, predictive certainty, and any explicit accuracy adjustment are **UNRESOLVED**. It should be used sparingly, when needed to preserve satisfying tactical counterplay, not treated as omniscience or ordinary always-on aim assistance.
+
+### Rejected for routine play: percentage evasion model
+
+The author explicitly **dislikes the prior Proposal Three / Bounded Evasion Curve** as a player-facing or GM-facing operational mechanic. Percent dodge frequencies may be used, if ever, **only as hidden, rare, highly technical playtesting calibration**, not as a published rule, random dodge check, mandated outcome frequency, or substitute for the approved difficulty ladder and tactical pressure. Do not canonize the earlier suggested percentages.
