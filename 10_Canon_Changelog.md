@@ -21,6 +21,14 @@
 
 ## 2. Canon approvals / revision history
 
+### November 5, 2026 — Direction 5 style selected; race references prioritized
+
+- User selected the Japanese woodblock/modern anime hybrid as the defining style: rhythmic ink lines, designed negative space, layered flat scenery, stylized foliage/clouds, restrained separated pigments, selective textile patterns and subtle print texture, preserving animated characters and species anatomy.
+- `11_Visual_Style_Guide.md` records the full specification and links to preserved Race Image Origin v6 and Direction 5 v11. Style reference acceptance does not canonize every anatomical detail or authorize site integration.
+- Earlier uniform bold-outline cel rendering is superseded. Busty and voluptuous adult female appearance across all races, collars, emblems and purple identity remain operative.
+- Race reference sheets take priority; earlier website illustration queue, placements and single-image composition restriction are deferred for this phase. Separate full-resolution views and later sheet assembly are recommended production workflow, not new lore.
+- Updated guide, index, repository instructions and this ledger. Existing racial descriptions and mechanics are preserved.
+
 ### November 4, 2026 — Raw blue mana against wounded targets approved
 
 - **Explicit user approval:** A Warlock's raw blue blast against a wounded target primarily causes **sensory overload and pain amplification**, with secondary **fractured bodily perception and disrupted coordination**.
