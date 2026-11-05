@@ -349,7 +349,7 @@ These modifiers continue applying throughout Hero progression.
 | Drider | END +10% | 96.9 |
 | Untouched Serpentari | INT +10% | 86.9 |
 
-Multipliers affect only their listed attributes. They do not directly increase mana reserves, spell strength, Ability Points, or unrelated racial abilities.
+Multipliers affect only their listed attributes. Through **effective END**, these modifiers now affect ordinary natural MP as explicitly approved; through effective INT they affect spell calculations where the owning formulas specify. They do not independently grant Ability Points, skill ranks, or unrelated racial abilities.
 
 ### III. Racial Advantages
 
