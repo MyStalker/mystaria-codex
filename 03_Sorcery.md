@@ -166,3 +166,7 @@ All five selected groups below were explicitly approved November 3, 2026. Names 
 4. Do not assume an undocumented per-Incantation numerical MP formula, specific damage chart, or Incantation unlocking level. Record those only if formally approved.
 
 **Source trace:** Latest in-project explicit approvals of Black and Red (November 3, 2026), earlier approved Blue/Green/White catalogue statements, `mystaria_green_sorcery_selection_menu.html`, `mystaria_white_sorcery_selection_menu.html` (candidate menus only), and the Drakyn approved Wyrmcraft reference retained in project conversation context.
+
+## Combat vocabulary cross-reference — November 5, 2026
+
+The approved universal vocabulary calls the relevant scaling result **Power**, which does not automatically mean damage; **Resistance** is baseline effective END, potentially subject to narrowly applicable resistance adjustments. **Defense** means withstanding an effect and never includes evasion. A casting implement can modify spell performance only as its actual approved effect specifies; do not assign unapproved Ignis damage, Power multipliers, oil-vulnerability adjustments or fire-resistance bonuses. See `22_Combat_Endurance_and_Shimmer_Guard.md` for the existing quadratic injury-comparison framework and unresolved modifier layering. All spell purchases, descriptions and MP/SP rules remain unchanged.
