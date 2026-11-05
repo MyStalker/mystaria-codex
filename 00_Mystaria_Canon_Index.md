@@ -168,3 +168,8 @@ Driders and Centaurs use more anime-inspired character design with **controlled 
 [`20_Nymbrin_Wetcraft_and_Hexen_Canon.md`](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) owns the complete approved Nymbrin race, six Wetcraft domains, Golden Lease, El Dorado/Great Taking, Duskpaw alliance, Wakebound, Pazara/chitin, drugs, passion potions, Hexen and Haze. All current conversation lore is approved, with **Hexen** superseding provisional mutant names. Its later additions control overlapping older summaries.
 [`21_Nymbrin_Skill_Options_DRAFT.md`](21_Nymbrin_Skill_Options_DRAFT.md) is a **PROPOSAL**: twelve selectable technique concepts per discipline. No new technique ranks/costs are approved by the lore acceptance. Consumables use Gem-based power and the author's 30% budget design allocation. Centaur's modular overhaul remains noncanon.
 
+
+
+## Later Nymbrin system direction — pending design review
+[22_Nymbrin_Hex_and_Transmutation_Foundation_DRAFT.md](22_Nymbrin_Hex_and_Transmutation_Foundation_DRAFT.md) records the author's requested bodily hex, costly stationary blue-mana venting with inflated vocal sac, hit-based hex discharge and seventh hex-weapon discipline. Its implementation numbers are **PROPOSALS**, not canon.
+[23_Nymbrin_Consumable_Crafting_PENDING.md](23_Nymbrin_Consumable_Crafting_PENDING.md) records tier-unlocking Elixircraft/Venomcraft/Ordnance and the former choices as recipes. Status is explicitly **UNAPPROVED / PENDING CANON REVIEW AFTER CENTAUR CRAFTING**. The old 21 catalogue is historical for crafting and remains candidate material for the active disciplines; rank selection is paused. The six-domain historical dossier is not approval of a finalized seven-skill progression.

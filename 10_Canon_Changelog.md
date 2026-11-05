@@ -296,3 +296,11 @@ The author explicitly accepted **all current Nymbrin lore** and selected **Hexen
 **Gameplay direction:** all Nymbrin alchemy generates hex. Consumable power is tied to Gem cost, calibrated around a 30% Hero-budget allocation. `21_Nymbrin_Skill_Options_DRAFT.md` offers 12 candidates per discipline plus custom input; none of these newly generated techniques is approved by the preceding lore acceptance.
 
 **Unresolved:** starting stats and numerical jumps; clutch size; full rank/SP/MP/action rules; exact pricing/yield and budget window; quantitative hex system; exact ancient chronology and stone manufacture; future elemental race. Starspawn retain their established God War origins and Duskpaws their Night of a Thousand Locks liberation.
+
+
+## Nymbrin foundations and deferred crafting review — November 4, 2026
+**Status:** author-directed system foundations recorded; assistant implementation is **PROPOSAL**. Manufacturing model explicitly **UNAPPROVED**, to be reviewed after Centaur crafting.
+The author requests that basic Reshaping/Recomposition/Vital Transmutation act like innate Hydrokinesis and generate bodily hex instead of directly spending MP. Hex naturally dissipates; stationary venting costs substantial blue mana, swells the vocal sac and creates a dangerous short-range attack after a vulnerable interval. A strike can interrupt and wound the user. A seventh discipline weaponizes hex and removes its payload when attacks land.
+New `22_Nymbrin_Hex_and_Transmutation_Foundation_DRAFT.md` separates these requested foundations from proposed mass, reach, capacity, recovery, vent and resistance rules. No proposed numbers or full new skill ranks are approved.
+New `23_Nymbrin_Consumable_Crafting_PENDING.md` preserves the revised five-rank tier-unlock model, all 36 recipe/modifier candidates, Gem-cost philosophy and 30% consumables allocation. Review jointly with Centaur crafting before canonization; the Centaur redesign remains unapproved.
+Index and old selection draft now point to these replacements. The older HTML picker is not an authoritative current skill tree. Existing approved racial lore remains intact.

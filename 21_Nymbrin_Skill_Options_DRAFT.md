@@ -1,4 +1,6 @@
 # Nymbrin technique selection — PROPOSAL, NOT CANON
+
+> **Later author direction:** The first three disciplines below are recipe/modifier catalogues, not lists of purchasable rank abilities. Manufacturing ranks only unlock item tiers; the detailed replacement is [23_Nymbrin_Consumable_Crafting_PENDING.md](23_Nymbrin_Consumable_Crafting_PENDING.md), explicitly **UNAPPROVED pending Centaur review**. Active rank selection is paused while [22_Nymbrin_Hex_and_Transmutation_Foundation_DRAFT.md](22_Nymbrin_Hex_and_Transmutation_Foundation_DRAFT.md) develops bodily hex, target limits and the requested seventh hex-weapon discipline. The original catalogue is retained for reference.
 Twelve selectable concepts for each of the six approved Wetcraft disciplines. These are candidates to assemble into rank progressions, not twelve automatically granted abilities. Select multiple favorites, reorder or supply a custom field. No choices have yet been made.
 
 ## Design constraints
