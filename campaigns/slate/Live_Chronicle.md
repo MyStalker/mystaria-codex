@@ -1,5 +1,10 @@
 # Lillia's Campaign — Live Chronicle
 
+### Approved visual reference — Neri “Wrong-Way” Reedwake (November 6, 2026)
+
+The DM explicitly approved the **latest Neri reference sheet** as official campaign-canon art. This latest sheet supersedes the previous full-body reference and shows a shorter (~one-foot reduction compared to prior art), slightly fuller-chested otterfolk captain in three-quarter view, plus facial expressions, back view, accessories and fur-mark detail studies. Preserve the illustrated burgundy cropped jacket, sea-green swim top, dark fitted shorts, turquoise Kin-knot, gold paw and toe rings, brown fur with light muzzle/chest, whiskers, and otter tail. The flattened neck-fur rings are visually established but do **not** prove a Harborband backstory. Her exact height remains unspecified; no new dialogue, scene event, or lore revelation follows from art approval. **GitHub image asset is pending upload** (filename from approved generation: `a_detailed_character_reference_sheet_in_a_watercol.png`); do not substitute earlier artwork.
+
+
 > Campaign-specific continuity for Slate's solo Mystaria game. This is not world canon. Confirmed events, unresolved interactions, and DM-only details must remain distinct. This document is updated at meaningful roleplay exchanges on the campaign branch.
 
 ## RP communication protocol
