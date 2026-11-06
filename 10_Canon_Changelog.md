@@ -512,3 +512,16 @@ Subject owners: `09_Equipment_and_Economy.md` and `22_Combat_Endurance_and_Shimm
 **APPROVED RAPID FIRE:** At range, extra-ammunition automatic fire establishes pressure where the delivered threat is meaningful; at close quarters, a concentrated burst may significantly increase physical attack Power when projectiles connect. Distinct firing choices, each within one normal attack action; no full independent damage action per projectile. Specific ammo consumption, close burst modifier, suppression PP amount/duration, coverage, magazine and recoil rules remain unapproved. **DRAFT NUMBERS ONLY:** one PP for a credible ranged burst, or +35% final Power for a valid close burst (alternates +25% / +50%); no simultaneous two-mode bonus.
 
 Owning docs: `22_Combat_Endurance_and_Shimmer_Guard.md`, `09_Equipment_and_Economy.md`; proposals `24_Modular_Equipment_Design_Options_DRAFT.md`.
+
+
+## November 6, 2026 — Full-auto +1 PP, close-burst +35% Power, nonstacking and magazines (LATEST)
+
+**APPROVED NUMERICAL RAPID FIRE:** Ranged Suppressive Fire expends extra ammunition to create **+1 PP from a single qualified gunner**, as long as a real threat and firing line exist; close-range Concentrated Burst expends extra ammunition to grant **+35% FINAL physical Power** on a qualifying hit, not a +35% pre-square attack rating. These were formerly trial proposals and now are expressly approved. Does not ignore evasion, covered armor, wards, Shimmer Guard or mundane constraints; never grant independent full attacks per projectile. The two modes' benefits do not stack.
+
+**APPROVED SINGLE-USER EXCLUSIVITY:** User with two automatic guns cannot gain extra pressure or a doubled close-burst benefit compared with one. Offhand Attack, offhand Defense, ranged suppression and close burst are competing choices in the user's weapon-tactic commitment, not stackable same-user threat sources. Other independently threatening allies may still supply their own PP; one user's ammunition consumption is not an infinite PP source.
+
+**APPROVED AMMUNITION DATA:** Each gun profile has numeric **Ammunition Capacity**; every automatic gun also specifies numeric **Full-Auto Volley Cost**. Ordinary unupgraded auto magazines cannot fire multiple entire full-auto volleys without reloading; **upgraded magazines/feed systems** permit repeated volleys subject to physical fit/weight/reload restrictions. The exact capacity and volley numbers have not been stated or approved and remain future design. Full-turn careful high-capacity-magazine reloading remains the existing rule.
+
+**FUTURE NONCANON PROFICIENCIES:** Add a possible purchase allowing suitable normally nonautomatic weapons, **especially bows**, to use rapid-fire-like shooting or suppression/concentrated sequences. No automatic weapon action-economy shortcut, SP/rank cost or qualification approved. Earlier proposed time-reduction and protected-reload Proficiencies remain under consideration.
+
+**NEXT:** Handling and recoil requirements, then concrete ranged-weapon profiles, then equipment materials and quality. Owners `09_Equipment_and_Economy.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`; `07_Centaurs_and_Smithcraft.md` cross-reference; `24_Modular_Equipment_Design_Options_DRAFT.md` unresolved tests.
