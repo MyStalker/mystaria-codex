@@ -77,3 +77,33 @@ A **STR-led bow, javelin or sling** has a small DEX minimum to aim or control de
 4. **Immediately proceed to ARMOR**, including shields and penetration; afterwards other weapon crafting and other equipment.
 
 This file should not be renamed `CANON` or merged without explicit user approval of specific new numeric and item design choices.
+
+
+## November 6, 2026 — REPLACEMENT RANGED REQUIREMENTS, AUTHOR-APPROVED TEST BASELINES (NOT FINAL)
+
+These override the **numeric handling requirements** in the original ranged candidate chart for testing only. The original table's other columns (forms, proposed ammo, volley, coverage, etc.) remain separately provisional. For bows, STR is full intended draw and partial draw may be possible with lower force; do not change engineered caps. For crossbows, cocking equipment can alter operator burden. Firearm recoil remains separate from carry/load and normal intrinsic ballistic Power; full-auto volley thresholds are **not set by this new table**.
+
+| ID | Shape | Support/draw STR | Handling DEX | Single-shot recoil STR |
+|---|---|---:|---:|---:|
+| B-01 | Shortbow | 10 | 9 | — |
+| B-02 | Recurve bow | 13 | 11 | — |
+| B-03 | Longbow | 18 | 13 | — |
+| B-04 | Composite bow | 17 | 15 | — |
+| B-05 | Warbow | 25 | 15 | — |
+| B-06 | Mounted recurve | 16 | 16 | — |
+| X-01 | Hand crossbow | 6 | 10 | — |
+| X-02 | Hunting crossbow | 11 | 12 | — |
+| X-03 | Military crossbow | 16 | 15 | — |
+| X-04 | Arbalest | 23 | 17 | — |
+| X-05 | Repeating crossbow | 15 | 18 | — |
+| X-06 | Battle-saddle crossbow | rated mount | 20 | — |
+| G-01 | Single-shot pistol | 9 | 12 | 15 |
+| G-02 | Revolver | 11 | 14 | 18 |
+| G-03 | Automatic pistol | 12 | 17 | 20 |
+| G-04 | Musket | 15 | 15 | 23 |
+| G-05 | Carbine | 18 | 18 | 25 |
+| G-06 | Automatic carbine | 21 | 21 | 30 |
+| G-07 | Precision rifle | 26 | 25 | 35 |
+| G-09 | Scattergun | 19 | 17 | 30 |
+
+**Not replaced by a numeric value in this approval:** special Adamantite/Trufula gun rows, Centaur saddle automatic gun, ordinary throwing/manual weapons, deployed siege equipment, full-auto volley recoil, and firearm/siege mount configurations. They retain proposal status and must be calibrated at materials/mounting stage. Ordinary reference ×1.00 / Trufula ×0.50 / Adamantite ×2.50 applies as an illustrative **STR/support factor only**, not automatic DEX or recoil change. Very heavy Adamantite cannons may require endgame STR specialism to wield *freely*; a rated carriage or battle saddle can transfer load and recoil differently. Trufula's propellant restriction is unchanged.
