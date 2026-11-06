@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Kobold fashion, eyesight, and professional independence (LATEST)
+
+- **Approved author clarification:** Kobold dress remains practical even for prestigious household specialists: mechanic-like and professor-like garments, notably petticoats. Tailored coats and scholarly accessories are compatible design examples, not a mandatory uniform. Established utility belts, goggles, fitted lab coats, Orb interfaces and restrained leather/latex remain valid.
+- **Racial biology:** Kobold eyes generally have weak long-distance vision as cave adaptations; spectacles are notably common in casual dress. Kobolds imprinted onto sharp-sighted races such as Corvyn can be exceptions. **UNRESOLVED:** visual ranges, heredity/physiological mechanism of imprint exceptions, any stat or combat effect. No new numerical racial penalties or imprint-derived skill grants.
+- **Freedom and clothing:** Free Kobold engineers often wear damaged, burnt, torn, patched or worn equipment and lab coats, without masters maintaining uniform policies. Enslaved high-skill household specialists may wear neat, maintained technical/academic clothing. These are tendencies, not absolute legal-status tests.
+- **Approved preceding direction:** Technical craftsmanship and personally cherished tools may serve as ornament and prestige; no universal tool ceremony or dress regulation implied. Separate formal-gala, professor wardrobe details, workshop etiquette and presentation/demonstration proposals remain **NOT YET CANON**.
+- **Owning reference:** `27_Kobold_Imperial_Fashion.md`, with relevant cross-references in `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`, `25_Imperial_Collar_Culture_and_Restraints.md`.
+
+
 ## November 6, 2026 — Naga fashion, matriarch circlets and ceremonial chain symbolism (LATEST)
 
 - **Explicit author approval:** Complete *The Silks and Chains of the Eternal Coil* Naga fashion dossier approved with final author clarifications. Imperial sensual attire emphasizes short dancer-like silks, frequently bare shoulders/midriffs, and elaborate jewelry, rather than excessive fabric. Social status is shown through composition and ornament, not skin coverage.
