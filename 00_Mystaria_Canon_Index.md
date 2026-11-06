@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Approved Tidekin fashion, swimwear and Kin-knots — November 6, 2026
+
+**CANON:** [`29_Tidekin_Imperial_Fashion.md`](29_Tidekin_Imperial_Fashion.md) owns approved Imperial Tidekin wear: **close-fitting swimmer-friendly clothing, with bikini tops very common in casual wear**, removable decorative layers, aquatic practicality, Raft Kin-knots as sentimental accessories, colorful individualized free-person dress, and occupation-adapted Saltbound attire. Approved existing Harborband design (two separated corrosion-resistant rings; upper value, lower security/obedience) is unchanged; exact coding remains unresolved. This clothing direction creates no magical equipment effect or universal dress regulation.
+
+
 ## Approved Kobold fashion and eyesight — November 6, 2026
 
 `27_Kobold_Imperial_Fashion.md` records the approved Kobold professional/casual style, including petticoats and professor/mechanic attire even for prestigious household specialists, common spectacles and naturally weak distance vision from cave adaptation (with exceptions such as Corvyn-imprinted Kobolds), and the haggard, scorched or torn clothes often preferred by independent free Kobold engineers. The exact effect of imprinting on acuity is unresolved. **Presentation Dress** (polished scholarly formality) and **Demonstration Dress** (practical work attire) are now approved cultural conventions, alongside the cherished Working Coat and symbolic/functional Proud Tool distinction. Neither is a mandatory uniform nor proof of competency. More elaborate Academic Gala or strict tool/patch etiquette remains **PROPOSAL**.
@@ -82,6 +87,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 | [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
 | [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
 | [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
+| [`29_Tidekin_Imperial_Fashion.md`](29_Tidekin_Imperial_Fashion.md) | Tidekin close-fitting swimwear, bikini-style casual tops, Kin-knots, Saltbound workwear, free Tidekin individuality | **CANON** |
 | [`27_Kobold_Imperial_Fashion.md`](27_Kobold_Imperial_Fashion.md) | Approved Kobold everyday and prestigious professional clothing, cave-adapted eyesight, spectacles, free/enslaved dress contrast; ceremonial proposals segregated | **CANON** with labeled **PROPOSALS** |
 | [`26_Imperial_Fashion_and_Dress.md`](26_Imperial_Fashion_and_Dress.md) | Approved Naga everyday, matriarchal, courtly, occupational and ritual dress; historic chains, circlets and regional variations | **CANON** — legal requirement and literal ritual binding explicitly limited |
 | [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md) | Approved southeastern Naga homeland: Worldspindles/Coilworks, four cities, Cipherlight/Coilnet Rainbows, Conclave, Scale Register, Mirrorwardens and Spindlewatch, economy, ecology, slavery and adventure setting | **CANON** — sole capital Sathryx; enslaved central-city majority with no approved percentage |
