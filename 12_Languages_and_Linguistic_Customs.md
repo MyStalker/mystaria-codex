@@ -1426,3 +1426,7 @@ Nymbrin speech casually calls a kingdom's debt its **tab**, jobs **gigs**, and i
 ## November 6, 2026 — Windling acoustic weapon and Cogsong coexistence
 
 Windlings may be equipped with a built-in **sonic music box** whose harmful audible frequencies are designed **not to interfere with Cogsong's valid command signaling**. This is a distinct sonic weapon, not a replacement language or a living creature speaking Cogsong. It may damage biological hearing or, after sustained exposure, a clockwork machine's Cogsong acoustic receiver (microphone). Its exact frequencies, encoding, protective measures, range and mechanical severity are unresolved. The command protocol's proper name remains **Cogsong**.
+
+## November 6, 2026 — Targeted music-box attack and Cogsong channel separation
+
+Windlings produce a short-range **targeted sonic distraction** via their built-in music-box emitters while still receiving Cogsong commands on protected, noninterfering command channels. A single specified-target sonic assault can continue **up to three turns** after one attack order. The audible weapon normally ceases to pose danger once the target is about **five meters from the swarm**, and barriers or direct ear protection can reduce it. This offensive signal is **not** itself a Cogsong command language and does not allow Windlings to issue autonomous commands to other machines. Precise acoustic frequencies, injury status, and receiver-damage parameters are unresolved.
