@@ -371,3 +371,7 @@ The author explicitly accepted **all current Nymbrin lore** and selected **Hexen
 **RANK V:** Author accepted retaining ordinary appropriate physical-attack Power **plus the limited passive elemental rider** when a weapon becomes fully elemental, while **replacing original material special bonuses**. Exact handling where physical mass/shape changes is unresolved.
 
 **NOT YET CANON:** General Elemental Magnitude mathematical formula for sorceries, all status thresholds/debuffs/durations, passive rank coefficients, ice freeze scaling and spell use, hex statistical penalties, construct stat blocks, Loom operating parameters. Relevant subject files `01_World_and_Shimmer.md`, `03_Sorcery.md`, `06_Drakyn.md`, `07_Centaurs_and_Smithcraft.md`, `09_Equipment_and_Economy.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`; proposals `24_Modular_Equipment_Design_Options_DRAFT.md`.
+
+## November 5, 2026 — Name and action-economy clarification
+
+Mystaria is the canonical world name, superseding the mistaken name Cindara in the clockwork notes. The user outlined revised lightning, water, air and hex status goals. Detailed numbers still require review. Clockwork squads should act together on their commander's action and offer tactical choices rather than multiplying independent attack turns or complete individual injury trackers. Exact command limits, squad resilience and conditional attacks remain proposals. See `07_Centaurs_and_Smithcraft.md` and `22_Combat_Endurance_and_Shimmer_Guard.md` for full details.
