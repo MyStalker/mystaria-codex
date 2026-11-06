@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Approved racial naming conventions and 450-name library — November 5, 2026
+
+**CANON:** [`24_Racial_Naming_Conventions_and_Namebook.md`](24_Racial_Naming_Conventions_and_Namebook.md) is the controlling reference for approved naming conventions and **30 common-name examples each for 15 groups (450 total)**: Naga, Kobolds, Moontouched, Bloomkin, Thornguard, Tidekin, Duskpaws, Vren, Corvyn, Driders, Untouched Serpentari, Drakyn, Centaurs, Firstshaped and Nymbrin. Naga inherit maternal syllables **flexibly**; Kobolds retain birth names before First Devotion; Corvyn retain birth names before Ink Names. Names are reusable cultural examples, not 450 established NPCs. Follow the owning dossier for rules on lineage, titles, earned names and Firstshaped parent-race identity. `12_Languages_and_Linguistic_Customs.md` governs speech and language; `02_Races.md` governs racial identity.
+
+
 **Library edition:** November 4, 2026 — approved Warlock, Gilded Coil, Mnemonic Arts and repository-audit reconciliation  
 **Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
 **Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
