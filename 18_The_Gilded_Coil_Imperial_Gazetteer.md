@@ -1,5 +1,10 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Kobold Presentation and Demonstration Dress (CANON)
+
+Kobold academic and technical communities commonly distinguish polished **Presentation Dress**, respectful of formal audiences, from useful **Demonstration Dress**, respectful of actual experimental work. Free inventors often prize their patched, burned, carefully modified **Working Coats**; cherished tools or inventions may be symbols at ceremonies and practical devices in the workshop. Naga employers can impose uniform requirements on enslaved specialists, sometimes clashing with Kobold preferences. These are widespread tendencies, never proof of skill or legal status or compulsory dress categories. See `27_Kobold_Imperial_Fashion.md`.
+
+
 ## November 6, 2026 — Approved Kobold scholarly and technical fashion
 
 Prestigious Kobold household specialists retain practical engineer or professor wardrobes, sometimes including petticoats and scholarly accessories rather than purely aristocratic finery. Spectacles are widespread in casual Kobold fashion: Kobold natural eyesight is poorly adapted to long distances due to ancestral cave habitats, with some exceptions for individuals imprinted upon keen-sighted races like Corvyn. Free Kobold engineers often neglect appearances, keeping torn, scorched or patched coats when no master maintains uniform policies. These are non-universal cultural tendencies; no numeric sight or imprint effects approved. See `27_Kobold_Imperial_Fashion.md`.
