@@ -39,6 +39,10 @@ Each race adapts the regional language to its anatomy and tradition. The legal d
 
 `27_Kobold_Imperial_Fashion.md` governs approved Kobold professional and casual clothes: practical professor/mechanic wear even in prestigious households, petticoats, common spectacles, cave-adapted poor long-distance vision with possible Corvyn-imprinted exceptions, and the often torn/scorched coats of free independent engineers. These customs do not change Orb Collar hardware, mandatory identification or special restraint rules below.
 
+## Tidekin clothing context — CANON
+
+`29_Tidekin_Imperial_Fashion.md` owns the approved aquatic clothing customs: close-fitting swimwear, **common bikini-style casual tops**, removable ornamentation, Kin-knots and diverse working/free attire. This clothing does not replace the Harborband's existing distinct upper valuation and lower security/obedience rings or finalize their administrative code.
+
 ## Racial collar decisions — CANON visual direction
 
 - **Kobolds:** Simple smooth metal band with **one colored central orb**, no exposed rings, clamps, buckles, or locks. Unlike decorative jewelry alone, orb collars are primarily usable **tools**. Technical professionals generally keep an orb on their person; **free Kobolds especially favor orb-bearing bracers**. Kobold style is modern fantasy laboratory wear, fitted coats, utility harnesses and restrained use of leather/latex accessories; the user's supplied red Kobold engineer image is a principal fashion reference, though not embedded here.
