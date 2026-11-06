@@ -1,5 +1,10 @@
 # Mystaria — Languages and Linguistic Customs
 
+## Approved racial naming conventions and namebook — November 5, 2026
+
+**CANON:** The complete 15-group, **450-example** approved racial namebook and the rules for maternal syllables, inherited houses, chosen names, craft names, Cache affiliations, earned epithets, ceremonial names and commercial names are in `24_Racial_Naming_Conventions_and_Namebook.md`. **Naga** inherited syllables are flexible; **Kobolds** have birth names before First Devotion; **Corvyn** have birth names before Ink Names. **Firstshaped** retain their parent race's naming tradition. These examples are not 450 established individuals, nor do ceremonial names establish true-name magic. This supplement does not supersede the approved Roadspeech, Imperial Coil Speech, Canopy Cant, Red Cant or race-related dialogue customs below.
+
+
 **Reference:** `12_Languages_and_Linguistic_Customs.md`  
 **Edition:** 2026-11-04 — recovery and canon reconciliation  
 **Canon status:** **APPROVED** (original proposal, unchanged contents and later edits); **Kobold racial-index cross-reference restored November 4, 2026**  
