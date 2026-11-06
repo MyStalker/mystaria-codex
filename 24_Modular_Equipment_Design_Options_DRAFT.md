@@ -141,3 +141,68 @@ A wielder with **40 STR**, a fire rune rank IV (1.0), and a defender with **30 E
 ### Outstanding decisions
 
 Whether exact elemental injury is added after normal physical injury or can substitute for it on a full elemental rank-V hit; whether passive contact is allowed on a glancing blow; balanced-weapon rune offensive-stat clamp; status duration and repeated-hit caps; exact % resistance modifiers where specific canon already defines protections; barriers/material contact; rune Soul Strain; rank-V effective weapon shape and how materials cease to matter; the full quantitative hex exposure system.
+
+
+## November 5, 2026 — Elemental Magnitude and elemental status design (PROPOSAL ONLY)
+
+**APPROVED SOURCE DIRECTIONS:** 'Contact Pressure' is renamed **Elemental Magnitude** for energy attacks and especially Sorcery, while retaining an attack-type-appropriate source of Power. Three Elemental Status severity ranks exist conceptually; rank III passive element runes are allowed to cause resisted status. Energy status can weaken its own element Resistance. Wetness increases lightning transfer with real conductive pathways. All specific numbers below are new suggestions and remain **UNAPPROVED**.
+
+### Suggested universal energy metadata
+
+For applicable magic or weapon effect, list: (1) energy/element category, (2) original Power/skill/MP source, (3) **Elemental Magnitude** and delivery route, (4) applicable **Specific Resistance** and material transfer, (5) Elemental Status, (6) recovery and continuing cost. Do not apply elemental formulas to every healing/psychic/non-energy effect. Preserve approved Incantations, alterations and prerequisites. Existing passive-rune draft 'Contact Pressure' arithmetic should henceforth be **read as Elemental Magnitude** where applicable, **not as a second new stat**.
+
+Passive weapon test (only a numerical PROPOSAL): `EM = (relevant offensive attribute / type-adjusted Resistance) × rune intensity × applicable contact factor`. Source for Sorcery must instead derive from the **actual spell's approved INT/MP scaling**, which has not been numerically specified for all Sorceries. These are different delivery/source formulas within shared elemental outcome conventions.
+
+Suggested EM status thresholds: **<0.5 negligible**, **0.5–<1 trace**, **1–<1.5 condition rank 1**, **1.5–<2.25 condition rank 2**, **≥2.25 condition rank 3**. Source/rune rank caps still matter: passive rune I–II no lasting status, rank III may produce status rank 1, rune IV up to status rank 2, rune V up to status rank 3. Higher-output activated Sorcery effects could attain higher status tiers under their own balancing rules. Do not confuse passive rune I–V with *Elemental Status* 1–3. Passive rune IV/V independent injury remains maximum +1 from the contact rider per connected attack, and for hex injury waits for the separate hex system.
+
+### Status-specific susceptibility proposal
+
+A successful elemental status weakens **only its own type-specific Resistance** by **10% / 20% / 30%** for severity rank 1/2/3. This applies when *later attacks* of that type test EM, including legitimate activated spells; **never lower the END stat globally** and do not alter unrelated elements. The debuff is tied to the current highest severity, not an unlimited stack of multiple status instances. A second valid later contact of equal/higher EM may intensify one status rank if source rank and resistance permit; max 3; limit status advancement to once per combat round per element and do not make a failed hit or blocked pathway count. Mitigation and recovery are evaluated against protected **pre-status Resistance** when determining whether a new hit can newly worsen status to avoid an automatic unbreakable positive-feedback loop. Strong specific elemental resistance still strongly mitigates and near-immunity can be challenged only by an exceptional source/overwhelming appropriate EM (numeric bypass threshold not fixed).
+
+### Suggested distinct elemental conditions (severity 1/2/3)
+
+| Element | Rank 1 condition | Rank 2 condition | Rank 3 condition |
+|---|---|---|---|
+| Fire, **Burning** | Smoldering: one **burn tick every third round** if severity/Resistance supports it | Burning: burn tick **every other round** | Engulfed: burn tick **every round** |
+| Ice, **Frozen** | Freeze one limb / localized joint | Immobilize roughly half the body | Freeze entire body, temporary but extreme control |
+| Lightning, **Shocked** | One-round stun-like interruption of a task/action | One-round stun plus temporary malfunction of conductive gear | One-round stun plus strong interruption of active electrical systems; never automatic 3-round lockdown |
+| Water, **Drenched / Surged** | Knock prone if unbraced | Knock prone + push about **5 ft** | Knock prone + push about **15 ft** |
+| Air, **Buffeted** | Push about **5 ft**, usually no prone | Push **15 ft** | Push **30 ft**; more displacement than water but less direct physical harm |
+| Toxic/Hex, **Hexbound** | Candidate reduced stat or magical disturbance | Larger stat penalty, contaminated equipment | Severe but temporary stat penalty and instability; **not instant hex delirium** |
+
+Fire **burn tick suggestion**: A tick is a periodic attempted elemental injury/condition, **not automatically one injury state**: require active burning, viable fuel/path and a resistance test. At severity 1/2, ticks are usually superficial; injury advancement eligibility is restricted by appropriate effective magnitude/source rank and existing injury-state cap. No tick may bypass Hero/Legend Guard. Successful fire suppression ends status even if the scheduled tick has not occurred; additional fire hits do not multiply tick counts. Otherwise a rank III passive sword could kill heavily armored foes through guaranteed uncounterable damage.
+
+Ice duration suggestion: **Full-body freeze at severity 3** lasts `max(1,min(3,ceil(90 / effective END)))` rounds if not broken early, while rank 1/2 freeze lasts at most that long, often shorter. At END 15 -> 3 rounds; END 30 -> 3 rounds; END 60 -> 2 rounds; END 90+ -> 1 round. Specialized ice resistance, heat, forceful rescue, external magic, breaking the ice, and appropriate physical capabilities may shorten duration. **Do not automatically allow a rune III to fully freeze**, because its status tier is capped at 1. The immobilized character's armor/END/Guard remain relevant, and displacement or ongoing violence can break the ice.
+
+Lightning one-round stun suggestion: On a **qualifying hit and type-specific Resistance failure**, interfere with **the next intended action** for at most one combat round. Additional shocks within that window refresh neither duration nor add new stun rounds. For severe ranks, add equipment disruption rather than extra stun duration. Do not make insulated targets or native lightning-resistant Drakyn trivially helpless; no automatic equal-power stun lock.
+
+Water/air suggested displacement must require a physical force pathway and scale against END and anchoring, mass, terrain, restraints and relevant elements; the listed distances are **unbraced humanoid maximum reference examples, not automatic movement**. Air specializes in launching further but less directly injuring. Water can be better at knocking prone, saturating armor or creating exposed wetness; being wet has a **proposed +25% lightning contact transfer factor** only where an effective conductive path reaches the target; insulated suits and barriers can negate the effect. Consequential falling or hazardous terrain damage uses existing physical combat rules, not an extra free elemental injury.
+
+### Toxic/hex status alternatives
+
+**A. Focused Attribute Suppression (recommend):** The target's highest usable *effective* stat (or one stat specified by valid toxin design) suffers temporary **−5%/−10%/−15%** at statuses 1/2/3. This does **not** reduce *base attributes* or delete Hero progression; minimum final attribute 1. End of exposure and conventional/magical purification can restore stats. Strong anti-hex resistances protect. Fixed one-stat suppression protects against universal stacking and creates tactical choices.
+
+**B. Mana System Corruption:** Rather than direct stat penalties, hex causes fluctuating Channel Limit, Leywell/gem reliability, mana expenditure and strain. This mirrors Nymbrin Haze lore but risks complex spellcasting bookkeeping.
+
+**C. General Debilitation:** Hex applies a smaller global effective-stat penalty **−2%/−5%/−8%** at statuses 1/2/3. The tradeoff is greater intuitive breadth but it can overshadow ordinary injury states, stack unpleasantly with existing wound penalties and hurt every build the same way.
+
+**Important canon separation:** Nymbrin hex is accumulated magical pollution and prolonged exposure can cause **hex delirium**, with paranoia, perception distortion and unreliable magical control. No instant madness, automatic permanent mutation, or universal dose-free injury from passive rune contact. Elemental status is a transient combat-layer proposal; any actual long-term hex burden/exposure mechanics must be separately approved in the Nymbrin dossier.
+
+### Design checks still required
+
+- A status-level resistance reduction is helpful without letting each hit escalate exponentially; source rank caps, 1 advancement/round and recovery must resist stun/freeze/burn-lock.
+- Balancing the rank-V pure-element weapon: **keep appropriate ordinary weapon Power plus bounded passive rider while sacrificing the original material's special property**, and evaluate any physical reach/weight change separately.
+- No existing Sorcery damage numbers are invented, no gem price/MP/SP changes, no elemental absolute immunities (even native fire Drakyn have near-immunity), and no construct builds are canonized automatically.
+
+### Clockwork follow-up docket — revisit after the remaining crafting rules
+
+| Named family | Intended niche | Material-to-stat illustration (not a stat block) | Possible integrations |
+|---|---|---|---|
+| **Windling** | Tiny aerial/hovering messenger, observation, scouting | Lightweight/frame materials primarily set SPD/END and flight load | Leywell power, observation passive rune, programmed alert/signal gem |
+| **Quickstep** | Agile ground/climbing scout, porter | Light frame and elastic joints shape SPD/DEX/STR | Leywell, mobility/stealth runes, control circuit |
+| **Iron Servitor** | Workhorse laborer and combat machine | Structural material and gears set STR/END and working speed | Leywell, stat-modifying passive runes, sorcery gem for one programmed action |
+| **Bulwark** | Heavy shielded defensive machine | Dense armor materials increase END/mass but reduce SPD | Leywell, wards, defensive spell crystal |
+| **Gearsteed** | Transport, cavalry mount, hauling | Drive train and frame set STR, SPD, load capacity | Leywell, propulsion and protection runes, transport control |
+| **Siege Engine** | Heavy attack/large construction platform | Frame/mount/ammunition establish STR/END/movement and intrinsic firearm/artillery damage | Multiple materials, one/more Leywells, heavy Sorcery gem, Cogmarshal Loom coordination |
+
+Each construct needs **material-based STR/DEX/END/INT/SPD values**, dimensions/mass, material weaknesses (including Trufula flame hazard), quality/reliability, Clockwright fabrication gates, relevant Orewhisper/Hostforge/Oathsteel/Socketwright contributions under Mastery Intersection, hardware/controller, compatible Leywell capacity/discharge, runes and sorcery crystal, cost in Gems/materials, MP per combat turn vs maintenance, and operational behavior when out of controller range. **None of these numeric construct sheets or recipes has been approved.** Prior approximate examples: scout 1 MP/turn, Iron Servitor 2, Bulwark 4, siege ≥8; Quickstep/Gearsteed rates unspecified.

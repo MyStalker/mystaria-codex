@@ -155,3 +155,8 @@ Most dragonmarks are **permanent bite scars**; ordinary healing magic usually ca
 
 ## Toxic dragon eggs — approved Nymbrin/Haze expansion
 **Exposure to the red Haze is the primary cause of dragon eggs developing into toxic dragons.** The Haze is airborne hex pollution from Scarlands alchemical industry; this adds a primary environmental cause without replacing other established dragon biology or Wyrmcraft mechanics. See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for hex, elementals and the full approved environmental context.
+
+
+## November 5, 2026 — Elemental near-immunity clarified
+
+Even a fire-element Drakyn has **near-immunity to heat, NOT absolute immunity**. Heat intense enough, an applicable exception or a relevant weakness can still overcome the creature's natural resistance. This applies to other innate Drakyn elemental protections as well: language such as 'immune' in informal descriptions of elemental defenses denotes **near-immunity** in the ordinary energy/damage framework, never absolute energy-proof invulnerability. **No numerical Elemental Magnitude threshold for overcoming near-immunity is approved.** The principle does not change how the elemental egg type is acquired, existing contrasting vulnerabilities, mana affinity, Sorcery integration, or Drakyn natural MP = 0.
