@@ -422,3 +422,8 @@ Track Recoil Strain on the shooter, not the target; 0/1/2/3+ accumulated strain 
 **DM WARNING (approved):** Because armor AR is squared, early-game armoring is a very large reduction in Impact relative to unarmored END. Armor cost/availability must normally slow acquisition (especially full Heavy armor) until opponent Power and tactical options can answer it. This is an **economic pacing instruction**, not a universal minimum level, no automatic Gem-price declaration, and not authorization to nerf AR. Preserve legitimate armor penetration, uncovered targeting, armor gap underarmor and the existing rear rule.
 
 **Remaining proposals:** Quantitative universal Slashing/Piercing/pike penetration (sample tests 0/50/65% still illustrative), physical armor STR/SPD burden, coverage targeting difficulty, shields, material-based AR modifications, quality and pricing. Next evaluate coverage/mobility effects and strength thresholds together, using level 1/25/50 benchmarks; do not count nine classes as nine separate physical AR values.
+
+
+### November 6, 2026 — Acid enchantment armor reduction, future integration
+
+**AUTHOR-DIRECTED DESIGN PRINCIPLE:** Acid attacks from a future Acid element/effect in enchantment design must be able to **reduce Armor Rating** with **minimum AR 0**. Do not reduce END or the END² natural defense term by implication. Exact acid corrosion amounts, duration, stacking, repair, material compatibility and affected coverage remain **UNRESOLVED**. Preserve standard covered-hit armor and penetration procedures until specific numbers receive later approval; Acid here is **not a new mana color**.
