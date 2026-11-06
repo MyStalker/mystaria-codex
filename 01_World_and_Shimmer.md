@@ -1,5 +1,16 @@
 # Mystaria — World, Divinity, Mana, and Shimmer
 
+## Three powers, three institutional philosophies of slavery — November 6, 2026 (CANON)
+
+**Read this when first introducing slavery in Mystaria.** The three dominant slaveholding powers differ in the reasons they give for their institutions:
+
+- **Naga Imperium:** Enslaves others **for order and hierarchy**.
+- **Thornguard / Canopy Kingdoms:** Enslaves others **to protect the weak, whether they like it or not**.
+- **Vren / Blood Courts:** Enslaves others **to exploit the weak and shamelessly increase their own power**.
+
+These are prevailing social rationales, not moral approvals or mandatory personal beliefs. Individual opposition and contradictions remain possible. Details and the approved regional collar aesthetics are indexed in `25_Imperial_Collar_Culture_and_Restraints.md`.
+
+
 **Authority:** CANON with identified legacy sections. **Assembled:** 2026-11-03.  
 **Source basis:** `Mystaria_Canon_Compendium.md` (consolidated through November 1, 2026); later explicit decisions from the Mystaria Lore project take precedence.
 

@@ -1,5 +1,18 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Approved Imperial collar culture, Orbcraft interface, and magical collar distinctions
+
+**Imperial philosophy:** Naga justify slavery as a structure of **order and hierarchy**, distinct from Thornguard protection-of-the-weak paternalism and Vren shameless exploitation for power. See the initial world overview in `01_World_and_Shimmer.md` and the owning collar dossier `25_Imperial_Collar_Culture_and_Restraints.md`.
+
+**Cultural collar presentation:** Mixed public/classified identification; standard working collars and class-dependent luxury; temporary gags or muzzles for both ceremonial/disciplinary and security contexts, not as normal continuous workwear. Imperial fittings are polished, precisely manufactured, hierarchical and registered through established Coil insignia and Scale Register marks.
+
+**Common enslaved peoples:** Kobolds, Tidekin, Moontouched, Bloomkin and Duskpaws. Orb Collars for enslaved Kobolds have a smooth metal band, a single functional colored orb and no outward rings, buckles, locks or clamps; free Kobold technicians favor orb bracers. Tidekin Harborbands have at least two separate neck rings, with **upper value** and **lower security/obedience** identification; exact grade codes unapproved. Moonlace, Petalwork and Nightlocks remain distinct racial designs; an open lock is approved Duskpaw emancipation symbolism.
+
+**Orb interface clarification:** Computational Orbs process Cipherlight; **Magic Mirrors specifically convert pictures to Cipherlight and back**. A compatible Orb or Mirror can control Kobold machinery. Orbcraft-capable Kobolds can directly comprehend Orb datastreams without a Magic Mirror. Gesturing at an Orb Collar projects a small local aurora: ungifted onlookers staring at it get a mild headache, while Orbcrafters interpret a rich information stream. Very intense atmospheric Rainbows remain a possible processing hazard even to trained Orbcrafters. This refines, rather than erases, the direct Cipherlight hazard for ordinary viewers; no Mindprism exception is implied.
+
+**Expensive specialized magical collars (author-directed concepts):** (1) **Mirror Collar**, a locally recording wearable camera with **no broadcast**, manually connected to an Orb to review footage; (2) **Trance Collar**, high-mana hypnosis suppressing reasoning in insufficiently resistant wearers, leaving only simple tasks, rarely suitable for Kobold engineers; (3) **Shock Collar**, medium-mana and the most common magical restraint of the three, normally manual activation, with optional boundaries tied to a *specified* Rainbow area. All override racial collar silhouettes for practicality; none is assumed to read thoughts, secrets or intent or to transmit omnipresent signals. Numeric costs, thresholds, duration and trigger details remain unapproved. **Censure Collar / Censureband is a name proposal only.**
+
+
 **Authority:** APPROVED CANON — November 4, 2026. The user approved the complete compatible material from the recovered early *The Gilded Coil — Heartland of the Naga Empire* manuscript, with three express rulings and newer subject-specific canon controlling any conflict.
 
 **Scope:** Southeastern Mystaria; Naga capital and cities; Worldspindles and Coilworks; the Conclave of Coils; Imperial Manatech, labor, economy, policing, ecology, and adventuring context. This is a comprehensive **world and society** reference, not new combat, equipment, or racial Craft rules.

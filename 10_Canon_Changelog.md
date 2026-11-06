@@ -1,5 +1,18 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Three slavery philosophies, regional collars, Orbcraft and magical restraints (LATEST)
+
+**Explicit author approvals:**
+- Naga enslave for **order and hierarchy**; Thornguard enslave to **protect the weak whether they like it or not**; Vren enslave to **exploit the weak and grow their power shamelessly**. Place this comparison at the first world-level explanation of slavery.
+- **Duskpaw open locks** signify emancipation. The regional collar direction is approved: Imperial polish/registration, Scarlands repaired personalized wear, Canopy heraldic/botanical craft. Imperial visual classification is mixed public/official, with luxury depending on class and gags/muzzles used for both ceremonial/disciplinary and security reasons, while ordinary work remains unsilenced.
+- **Kobold Orbs** directly process Cipherlight; Magic Mirrors convert images into/from Cipherlight. Both can control Kobold machinery. Orbcraft practitioners can directly understand/manipulate the information stream. The functional Orb Collar has one central colored Orb, smooth metal, no exposed restraint hardware; a paw-operated local aurora gives unskilled observers a mild headache, but communicates rich information to Orbcrafters. Extreme Rainbows can still overwhelm even the gifted. Free technicians favor Orb bracers.
+- **Tidekin Harborbands** generally use at least two distinct metal rings: upper valuation, lower security/obedience.
+- **Specialized high-cost Imperial magical collars:** **Mirror Collar** records locally and cannot broadcast; footage is reviewed only after manual connection to an Orb. **Trance Collar** has high mana demand and suppresses higher reasoning if not resisted, making it unsuitable for most Kobold engineering work. The **Shock Collar** is medium-mana, deliberate/manual control normally, optionally checking exit from a *specific* Rainbow region; it cannot universally infer thoughts, weapon handling, secrets or intent, nor activate remotely from any arbitrary location. Their practical appearances override ordinary race-specific collars. Fine costs/durations/checks/thresholds are not approved.
+- **Censure Collar / Censureband** is only a proposed name for the Shock Collar; **NOT APPROVED**.
+
+**References:** `25_Imperial_Collar_Culture_and_Restraints.md` (owning consolidated cultural dossier), `01_World_and_Shimmer.md`, `02_Races.md`, `08_Other_Crafts.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`. The user has not approved fine numeric mechanics, appearance artwork of magical collars, or shock-collar name.
+
+
 ## November 5, 2026 — Racial naming conventions and 450-name library (APPROVED)
 
 - **Explicit author approval:** All 15 reconciled racial naming traditions and all 30 proposed names per group (450 entries) were approved without requested revisions. The authoritative full list is `24_Racial_Naming_Conventions_and_Namebook.md`.
