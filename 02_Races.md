@@ -44,12 +44,12 @@ The author approved **all 15 naming conventions and 450 example names**. The own
 
 | Attribute | Base | Racial modifier | Effective starting value |
 |---|---:|---:|---:|
-| STR | **12** | **−10%** | **10.8** |
-| DEX | **18** | **+10%** | **19.8** |
+| STR | **12** | **−25%** | **9** |
+| DEX | **18** | **+25%** | **22.5** |
 | END | **13** | — | **13** |
-| INT | **20** | **+20%** | **24** |
+| INT | **20** | **+25%** | **25** |
 | SPD | **17** | — | **17** |
-| **Total** | **80** | — | **84.6** |
+| **Total** | **80** | — | **86.5** |
 
 These are **racial starting statistics**, not a new Orbcraft skill tree or free purchased powers. Kobold Orbcraft/Mirrorcraft lore and cultural expressions remain governed by their existing references. No new mana affinity, starting SP award, level gate, Craft rank, or extra racial ability is implied by this ruling.
 
@@ -421,3 +421,7 @@ Duskpaws also lived in El Dorado before the **Night of a Thousand Locks**. The S
 ## November 5, 2026 — Race attribute rebasing (CANON)
 
 All approved level-1 Hero racial **base attributes increase by +10 per stat before existing racial percentage modifiers**, with minimum effective stat **1**. The Kobold and Centaur current tables above are updated; the standard other-race table in `01_World_and_Shimmer.md` is the consolidated numeric reference. Earlier stat examples embedded in historical lore or derived racial references are superseded when inconsistent. Monsters and other creatures may still have attributes **below 10**, down to the absolute minimum of **1**. Increased natural MP is intentional, except the established Moontouched and Drakyn 0-natural-MP cases. This rebasing does not change racial abilities, skill prerequisites by fiat, extra SP, special anatomy or spell purchases.
+
+## November 6, 2026 — Latest racial modifier correction (CANON)
+
+**All permanent racial attribute percentage modifiers are multiples of 25%.** The corrected consolidated race multipliers and resulting effective level-1 stat totals for standard races are in `01_World_and_Shimmer.md`; this instruction supersedes older 10%, 20%, and 30% racial percentage examples. In particular, **Moontouched receive SPD +25% and NO DEX racial multiplier**, while **Thornguard receive STR +25%**. Existing nonzero modifiers on other attributes are normalized to +25% or −25% retaining their sign, unless a later explicit author correction states otherwise. Kobolds have STR −25%, DEX +25%, INT +25% with unchanged base stats; their corrected effective total is **86.5**. Centaurs already have STR +25% and SPD +25%, so the current Centaur table does not change. No new base stats, Ability Points, SP, skills or gear grants are implied.
