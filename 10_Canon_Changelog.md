@@ -21,6 +21,12 @@
 
 ## 2. Canon approvals / revision history
 
+### November 5, 2026 — Gem fractional reward credit and buyback rounding (APPROVED)
+
+- **Explicit author approval:** Do not round each qualifying encounter's Gem reward individually and do not impose a 1-Gem minimum. Track fractional earned Gem amounts as **unpaid credit**, issue whole Gems when the cumulative credit reaches a whole Gem, and carry the remainder forward. Example: 0.6 + 0.6 Gems pays 1 Gem and retains 0.2 credit. This is accounting, not fractional physical Gems.
+- **Gem Shop settlement:** Eligible buybacks pay **50% of the original price, rounded down to the nearest whole Gem**; discarded fractions are not carried forward. Example: 15 Gems original price → 7 Gems buyback.
+- **Economic projections** retain fractional precision; the previously documented ~1,510.5-Gem reference resale loss is a theoretical estimate and actual whole-Gem buyback settlement may increase losses slightly. Existing XP, threat multipliers, patron eligibility and equipment-wealth targets are unchanged. Owning document: `09_Equipment_and_Economy.md`.
+
 ### November 5, 2026 — Hero Gem wealth, consumables, shop buyback, and threat rewards (LATEST)
 
 - **Explicit author approval:** `09_Equipment_and_Economy.md` now owns the typical Hero equipment-wealth curve `W(L) = 3 + 3997 × ((L−1)/99)^2.3` (levels 1–100), targeting **3 Gems in equipment at level 1** and **4,000 Gems of currently owned equipment at level 100**, with the latter reflecting a **typical Hero who replaces equipment at every quality tier**, not an unusually thrifty Hero.
