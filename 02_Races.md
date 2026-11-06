@@ -1,5 +1,9 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Approved Naga fashion and matriarchal adornment
+
+Modern Naga wear short dancer-like silks and heavy jewelry, notably optional impractical chains and manacles remembering their ancestors' Serpentari bondage. A Matriarch customarily wears a circlet, even copper if impoverished; **this is social custom, not law**. Formal ritual attire more strongly evokes historical enslavement, but actual self-binding remains an exceptional zealot or abolitionist statement. Naga dress varies by class, profession and city, and does not alter racial traits, magical Crafts or legal status. Full details in `26_Imperial_Fashion_and_Dress.md`.
+
 ## November 6, 2026 — Approved racial collar and fashion distinctions
 
 **Kobolds** favor modern-fantasy laboratory coats, utility harnesses, restrained leather/latex accessories and functional Orb interfaces. Their slave collars feature a simple smooth metal band and single colored central Orb, without visible locks, clamps, buckles or loops. Free professional Kobolds favor Orb bracers. **Tidekin** Harborbands usually have at least two metal rings around their long necks: upper for valuation and lower for the owner's security/obedience assessment (coding not yet established). **Duskpaws** use the **open lock** as an approved cultural symbol of emancipation.
