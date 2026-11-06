@@ -504,3 +504,11 @@ Subject owners: `09_Equipment_and_Economy.md` and `22_Combat_Endurance_and_Shimm
 **APPROVED MOUNT ROLES:** Fixed side, articulated, heavy-support, assisted-loading mounts remain distinct, with combined rigs permitted when engineered. No free extra attacks or automatic recoil cancellation.
 
 **FUTURE NONCANON PROFICIENCY OPTIONS:** Draft a time-reducing reload specialization and a vulnerability-reducing one; neither is an established purchased Skill/Proficiency or has approved SP costs. Preserve racial battle saddles, construct and general monster horde group design, existing firearm intrinsic-power rules. Owners: `22_Combat_Endurance_and_Shimmer_Guard.md`, `09_Equipment_and_Economy.md`; cross-ref `07_Centaurs_and_Smithcraft.md`; draft `24_Modular_Equipment_Design_Options_DRAFT.md`.
+
+## November 6, 2026 — Rapid fire and Evasion-Pressure modifiers (LATEST)
+
+**APPROVED:** Net 0 PP gives baseline evasion difficulty, net 1–2 PP makes attacks one six-tier category easier to land, and net 3+ PP makes attacks two categories easier to land, capped. Trapped is separate, negating ordinary dodge without erasing other defenses. A meaningful Aim action in place of an attack makes its ensuing qualifying shot one category easier to land; don't double count aiming as PP.
+
+**APPROVED RAPID FIRE:** At range, extra-ammunition automatic fire establishes pressure where the delivered threat is meaningful; at close quarters, a concentrated burst may significantly increase physical attack Power when projectiles connect. Distinct firing choices, each within one normal attack action; no full independent damage action per projectile. Specific ammo consumption, close burst modifier, suppression PP amount/duration, coverage, magazine and recoil rules remain unapproved. **DRAFT NUMBERS ONLY:** one PP for a credible ranged burst, or +35% final Power for a valid close burst (alternates +25% / +50%); no simultaneous two-mode bonus.
+
+Owning docs: `22_Combat_Endurance_and_Shimmer_Guard.md`, `09_Equipment_and_Economy.md`; proposals `24_Modular_Equipment_Design_Options_DRAFT.md`.
