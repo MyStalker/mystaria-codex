@@ -370,3 +370,20 @@ One commanded multi-turn sonic attack is the explicitly approved special case to
 **Interaction order for ordinary eligible attacks:** determine baseline hit difficulty from existing relative effective SPD; apply meaningful Pressure improvement (1 step easier at net 1–2 PP, 2 steps easier at net 3+ PP); apply eligible cover penalty (+1/+2/+3 steps harder); apply other **distinct**, already established aiming and tactical effects without double counting; clamp to the existing six difficulty categories for adjudication. Aimed shot's approved 1 category easier is not automatically an extra PP. Example: defender under Extreme Pressure but behind Full Cover: 2 steps easier due to PP and 2 steps harder due to cover, cancel numerically while the actual PP remains. Trapped is **independent** of PP and ordinary evasion; Trapped defenders may still have physical cover, barriers and other lawful defensive responses. Cover is not inherently a method of reducing the attacker's automatic Suppressive Fire PP against every target: it may block a meaningful threat, but it changes hit probability through the separate cover ladder while the shooter still controls an actually threatened region.
 
 **Pending numerical balance:** Determine strain added by weapon output, firing mode, user Recoil STR above/below requirement, rated bracing/saddle, recoil reset timing edge cases, and how extreme recoil injury is triggered. Cover cannot be assumed to block all explosive/shock/wide-area attacks from every direction, and geometry remains critical.
+
+
+## November 6, 2026 — Approved recoil strain generation per shot (LATEST)
+
+The author approved the **STR-to-Recoil STR strain-generation table** most recently proposed in `24_Modular_Equipment_Design_Options_DRAFT.md`. This supersedes prior descriptions of +1 per ordinary shot and +2 per automatic volley as merely illustrative. Use the **effective STR of the wielder divided by the currently applicable, physically support-adjusted Recoil STR requirement for the selected firing mode**:
+
+| Recoil STR qualification ratio | Ordinary shot: Strain gained | Full-auto volley: Strain gained |
+|---|---:|---:|
+| **>= 1.25** | **0** | **1** |
+| **>= 1.00 and < 1.25** | **1** | **2** |
+| **>= 0.75 and < 1.00** | **1** | **2** |
+| **>= 0.50 and < 0.75** | **2** | **3** |
+| **< 0.50** | **Not safely usable unsupported** | **Not safely usable unsupported** |
+
+Track Recoil Strain on the shooter, not the target; 0/1/2/3+ accumulated strain generates 0/1/2/3 PP **against the shooter**, capped at 3 from strain. One entire **nonshooting turn** resets strain even if spent running, defending, casting or reloading. A full-auto volley is ONE recoil event for this purpose, never one Strain increment per bullet. In a <50% gate, genuinely effective special mounting or assistance can permit recalculation against its new residual Recoil STR requirement; the table does not authorize unsupported unsafe firing. Physical supports must really carry/distribute force, and a gun with no material recoil can be marked N/A rather than inventing an artificial threshold. These numbers do not lower DEX or overwrite the distinct approved STR shortfall situational SPD penalty.
+
+**Previously approved recoil injury cap remains:** a genuinely injurious single discharge or one complete volley advances the shooter's injury track by **at most one injury state** attributable to recoil, not per shot within a burst. Actual injury trigger, recoil recovery edge cases, and individual gun requirement ratings still need profiles. Recoil Strain does not grant the user an offensive PP or stack same-user dual-wield benefits.
