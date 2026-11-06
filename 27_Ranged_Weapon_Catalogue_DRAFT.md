@@ -71,7 +71,7 @@ A **STR-led bow, javelin or sling** has a small DEX minimum to aim or control de
 
 ## Following work, preserving author sequence
 
-1. Review this 33-shape candidate register: family, ammunition, relative range, feasibility, DEX floor, bow cap, gun Support/Recoil STR and mount operation. Numbers are *not approved yet*.
+1. Review this 34-shape candidate register: family, ammunition, relative range, feasibility, DEX floor, bow cap, gun Support/Recoil STR and mount operation. Numbers are *not approved yet*.
 2. Determine actual **intrinsic ranged Power baseline** without alloy/enchantment layering. Build per-family physics-appropriate Power formulas; keep armor-specific bypass and material modifiers separate.
 3. Continue to **quantitative coverage/universal horde combat** and **mounts/rated supports**, the final two remaining shape tasks.
 4. **Immediately proceed to ARMOR**, including shields and penetration; afterwards other weapon crafting and other equipment.
