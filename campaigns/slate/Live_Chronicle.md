@@ -58,6 +58,16 @@ The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring
 
 **Confirmed current state:** Lillia now **wears and possesses the Emberwrap**, apparently offered freely; no price or conditions have been asserted. Valerious remains wrapped in the woolen blanket. Neri's past ownership is **unconfirmed** and awaits Neri's response. The quest **Warmth for Two** remains active unless the DM rules otherwise; finding an outfit provides warmth but doesn't automatically fulfill the sharing-with-someone-in-need objective. Neither Tavi nor Fenn has been named aloud to Lillia in the provided RP unless established separately. The SillyTavern bridge setup is paused OOC; it is not a fictional event.
 
+## Confirmed roleplay handoff — Neri's history, Lillia's introduction, and the Emberwrap
+
+**DM's actual Neri post:** Neri squeezed Lillia affectionately, acknowledged that her two former neck rings signified assessed value and trouble/obedience, said those responsible underestimated how troublesome she was, and complimented the Emberwrap. She rubbed her spine along Lillia's back. Tavi and Fenn whispered while observing Lillia. Valerious rubbed against the warmest band of Lillia's leg, apparently still seeking warmth despite his blanket. This DM-authored text supersedes the preceding draft, including its additional gestures and environmental details.
+
+**Slate's actual Lillia response:** Lillia showed sympathy for Neri's former ownership and apologized for calling her an otter, although Lillia mistakenly said *Tideborn* instead of *Tidekin*. She introduced herself aloud as **Lillia**, with **Lilly** for friends, jokingly proclaimed herself the cutest bunny in the caves, and praised the Emberwrap's warmth and appearance. Lillia volunteered to repay Neri for the valuable garment, wondering whether it was enchanted. She noticed the two male Tidekin and became somewhat nervous and excited.
+
+**Current confirmed state:** Lillia wears the Emberwrap and has offered to repay Neri, but **no repayment terms have been agreed**. Neri's former enslavement and two classification rings were confirmed by her own words, but the former owner's identity and specifics of her escape remain unrevealed. Tavi and Fenn's whispered remarks are unheard/undetermined. Valerious remains injured, seeking warmth. Lillia has introduced her name. **Warmth for Two remains active**, and any new mission Neri proposes is not canon until the DM actually sends it to Slate.
+
+**Next NPC response:** The assistant's forthcoming continuation is a **draft only**; it is not part of the confirmed chronicle until the DM returns the exact version sent to Slate, followed by Slate's reply.
+
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
