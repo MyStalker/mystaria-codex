@@ -216,3 +216,46 @@ Each construct needs **material-based STR/DEX/END/INT/SPD values**, dimensions/m
 **Group action prototype (not canon):** One commander action orders one squad to shoot, relocate, shield an ally, or suppress an area. Group members perform one coordinated effect; additional bodies improve available formation, coverage and reliability without granting an independent full attack to each. Suppressive fire primarily increases pressure; a potential attack against a Trapped foe is a prepared conditional resolution using that squad's existing action budget, not a free fresh full action. Multiple squads need explicit commander actions or a well-bounded order capacity. No independent per-unit wound tracks by default: model squads through shared integrity/cohesion and individual casualties when dramatically relevant. A single boss construct can retain its own wound progression. Current Command Points 1/2/3/4/6 or 2/4/6/8/12 with Loom are older UNAPPROVED proposals.
 
 **Open choices:** A single command per action vs command capacity bundled in one action; whether a group can carry out a standing defensive instruction without spending full new actions; shared squad integrity versus threshold casualties; unit count as coverage rather than additive Power; free suppression reaction limit, commander interruptions and line-of-control; mixed-material stats and joint upkeep; remote actions while the commander attacks independently.
+
+
+## November 5, 2026 — Clockwork command prototype, signal envelope, Hex and shock details (PROPOSALS ONLY)
+
+### Mechanical Starsong name and communications
+
+**Approved physical model:** music-box-like mechanically encoded acoustic Starsong transmitted by carried Command Looms; neither Starspawn nor unaided living organisms can speak valid commands. Distinct from Kobold Cipherlight. **Candidate names, NOT CANON:** Cogchant (recommended), Clockcant, Brassong, Anvilverse.
+
+**Proposed acoustic envelope:** Each Loom has an *Ideal Command Range*. Silent environment = ×1.00, town = ×0.75, ordinary magic/sword battle = ×0.50, heavy war/spell/gunfire = ×0.25. For a hypothetical ideal Loom range 120 m, actual ranges are 120/90/60/30 m. **120 m is an example, not an approved Quality or Cogmarshal range.** Obstructions, attenuation, reverberation, underwater channels and deliberate competing mechanical signal may further impair it. Lower volume does NOT reduce speed of sound, but noise and faint signals require repeated encoded phrases / acknowledgements, causing latency. Suggested: up to 50% effective range, order received in current round; over 50% to 100%, decoded next round; outside range fails. This rule's timing and effect on effective combat SPD need balance and are NOT approved.
+
+### Homogeneous squads and action economy
+
+**Canon architecture:** a normal squad uses one construct type; may split its members into two positional groups and coordinate flanking under one command, but **different machine types NEVER share a combined offensive squad order**. Support Gearsteeds/Bulwarks may grant passive movement/Defense and share physical cover. Attacking orders cost the controller their ordinary action, preventing an ordinary personal attack that turn. Squad size changes tactical coverage and durability, not full independent turns.
+
+**Suggested baseline:** 4 homogeneous machines = standard squad, 2–3 = understrength, 5–6 = reinforced, more require another squad slot; 1 = individual unit action under command. With 4+ units, gain expanded firing lanes / support coverage and reliability, rather than multiplying weapon Power by number of guns. Each order produces at most ONE injury-state-producing combined attack unless a future explicitly purchased ability says otherwise. Subgroups can create flank/pressure but still resolve the one commanded attacking effect. Size multipliers, requirements, command capacity and build costs NOT CANON.
+
+**Suggested squad integrity:** four states Operational / Damaged / Disrupted / Destroyed, tracking the group rather than per-member injury states. At integrity changes, fewer members reduce performance; cinematic targeted destruction may remove a specific machine. Individual Siege Engines instead use the established injury progression. This model should not invent free Hero/Legend Shimmer Guard for clockwork.
+
+**Orders and role ideas:** Iron Servitors volley as one combined attack or suppress one defined lane; suppression mainly shifts existing four pressure circumstances and may reserve one bounded attack ONLY if the target becomes Trapped. Quicksteps enter/skirmish/leave for a single modest attack under one command; their ability to withdraw depends on SPD/terrain and the target's reactions. Windlings swarm/distract, obscure vision, or lift target/ally only within total material-derived lift capacity; no infinite hovering carrying capacity. Gearsteeds passive carriage/mobility support; Bulwarks passive cover/Defense support; neither joins servitor volleys. Siege Engines are separately directed, pilotable on some models, customizable, keep individual injury states and need considerable energy/fuel.
+
+**Command fallback:** On interruption with both commander and Leywell still powered, only the strongest eligible military squad may make one protective basic attack at 50% effective SPD; no extra squad attacks, no independent complex pathing, gear-keyed allies exempt. If controller mana or any affected construct Leywell is empty, the affected machine shuts off. Lost/stolen Loom cannot be remotely repaired; damaged retained one requires relevant crafting qualification, tools, mana and one full turn entirely vulnerable. Proposed repair MP charge could be **2/4/8/12/18** by Loom quality but this is entirely unapproved, unlike approved Loom Gem prices 12/28/55/90/140. Reconnection after a new Loom is supplied, and whether power requirements apply to every command, are unresolved.
+
+### Shocks and Hex implementation options
+
+**Approved stun resistance multiplier:** After stun recovery Lightning-specific Resistance ×2 for the next turn. A successful fresh stun during this window gives Lightning-specific Resistance ×4 during the next post-stun turn instead (not ×8); further shocks cannot extend an active stun. Proposed phase rule: grant protection from instant recovery until the end of the creature's next opportunity to act, preventing initiative-boundary loopholes; if the victim fails to get a turn, protection still lasts at least one full round. Extension beyond ×4 unapproved.
+
+**Hex Mana Scouring working profile, NOT numeric canon:**
+- Hex rank I / II / III proposed drain **2/4/8 MP** on qualifying contact (passive attack or Sorcery with corresponding magnitude; higher passive rune rank may improve cap but details unresolved). MP is **lost/neutralized, not automatically given to attacker**. Distinct available Leywell reservoirs can be targeted only when there is a real magical pathway. Drain one designated pool before another to avoid automatic emptying of every battery on wearer.
+- If drained pool is empty before contact or becomes empty from that hit, a **depletion backlash** might cause up to **+1 injury** with sufficiently high EM, and **+2 states only for the strongest qualifying Hex effect** (perhaps Status III/active Sorcery, not incidental low-rank passive weapon touch). Avoid double counting normal weapon injuries and explicit Shimmer Guard protections.
+- Versus magical shields, propose **+10% magnitude** or one minor favorable interaction, never both; do not automatically ignore spell prerequisites.
+- Against magical constructs, cause one-round interruption of a Leywell-fed active function, not permanent destruction or generic auto-stun from merely touching armored plating.
+- Nymbrin Haze/Hex poisoning/delirium retains its independently existing exposure and ecology requirements. No automatic mutation or intoxication.
+All these figures need author review and do not replace actual established Nymbrin or Sorcery mechanics.
+
+### Remaining decisions needed
+
+1. Do commanders spend one action per active squad order, or can a single action set one synchronized order across several SAME-TYPE split groups?
+2. Standard squad size (proposal four) and when reinforcements require new squad capacity.
+3. Does an already-issued order last until completed without ongoing repeated command actions, and what passive/standing orders are allowed without producing extra attacks?
+4. Meaning of 'half Speed' in fallback, one-time basic attack timing, competing commander interruptions, and what makes a military squad the 'strongest'.
+5. Whether commander's MP loss disables ALL their constructs instantly even if Leywells are full, or just prevents new control orders; latest user wording prefers full deactivation.
+6. Per-machine Leywell drain and role-specific upkeep remain unresolved; broad quality and crafting requirements still to be designed.
+7. Clockwork prosthetics near the final completion of Centaur Craft; no stats, replacement limb speed, sensory link, medical effects or enchantment budgets yet.
