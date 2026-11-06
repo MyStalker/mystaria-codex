@@ -2,10 +2,18 @@
 
 ### Approved visual reference — Neri “Wrong-Way” Reedwake (November 6, 2026)
 
-The DM explicitly approved the **latest Neri reference sheet** as official campaign-canon art. This latest sheet supersedes the previous full-body reference and shows a shorter (~one-foot reduction compared to prior art), slightly fuller-chested otterfolk captain in three-quarter view, plus facial expressions, back view, accessories and fur-mark detail studies. Preserve the illustrated burgundy cropped jacket, sea-green swim top, dark fitted shorts, turquoise Kin-knot, gold paw and toe rings, brown fur with light muzzle/chest, whiskers, and otter tail. The flattened neck-fur rings are visually established but do **not** prove a Harborband backstory. Her exact height remains unspecified; no new dialogue, scene event, or lore revelation follows from art approval. **GitHub image asset is pending upload** (filename from approved generation: `a_detailed_character_reference_sheet_in_a_watercol.png`); do not substitute earlier artwork.
+The DM explicitly approved the **latest Neri reference sheet** as official campaign-canon art. This latest sheet supersedes the previous full-body reference and shows a shorter (~one-foot reduction compared to prior art), slightly fuller-chested otterfolk captain in three-quarter view, plus facial expressions, back view, accessories and fur-mark detail studies. Preserve the illustrated burgundy cropped jacket, sea-green swim top, dark fitted shorts, turquoise Kin-knot, gold paw and toe rings, brown fur with light muzzle/chest, whiskers, and otter tail. The flattened neck-fur rings are visually established but do **not** prove a Harborband backstory. Her approved height is approximately **4 feet**, and the reference proportions now establish the standard Tidekin appearance; no new dialogue, scene event, or lore revelation follows from art approval. **GitHub image asset is pending upload** (filename from approved generation: `a_detailed_character_reference_sheet_in_a_watercol.png`); do not substitute earlier artwork.
 
 
 > Campaign-specific continuity for Slate's solo Mystaria game. This is not world canon. Confirmed events, unresolved interactions, and DM-only details must remain distinct. This document is updated at meaningful roleplay exchanges on the campaign branch.
+
+## Neri's voice and leisure (DM-approved canon, November 6, 2026)
+
+- Neri **frequently but not constantly** calls Lillia **“Babe”**. It is an affectionate, teasing verbal habit, not mandatory in every sentence or every exchange.
+- Neri **occasionally** uses surfer expressions and colloquialisms. Keep them light, organic, and sparse; her voice remains quick-witted and flirtatious, not a parody of surfer speech.
+- Neri has a **personal history of surfing**, consistent with her Tidekin aquatic life. Do not invent specific competitions, famous exploits, places, or dates without DM approval.
+- A **surfboard among her belongings is a possibility, not a confirmed inventory item**. Introduce one in play only after DM approval or confirmed scene text.
+- Neri is about **4 feet tall**. This matches the approved reference sheet and is now the **typical adult Tidekin height**; individuals may vary. This supersedes the earlier note that her height was unspecified.
 
 ## RP communication protocol
 
