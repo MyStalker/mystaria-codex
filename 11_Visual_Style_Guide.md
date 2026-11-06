@@ -1,5 +1,14 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved collar, regional fashion, and Kobold reference directions
+
+**Regional visual distinctions:** Naga Imperium: polished, manufactured, registered and hierarchical; Scarlands: dark, worn, repaired, repurposed and individualized; Canopy Kingdoms: fine craftsmanship, botanical/heraldic, woven and engraved. These overlay, not erase, species-specific design. Approved fashion uses mature, often provocative adult costume design, but practical fit and established anatomy remain primary.
+
+**Kobold reference:** The author's uploaded red Kobold engineer image is the major clothing inspiration: fantasy-friendly white fitted laboratory coat, high-low skirt, goggles, belts, restrained leather accessories and useful harnesses. The Orb Collar is a **smooth metal band with one central colored functional orb** and **no visible ring, clamp, buckle or lock**. Free Kobold technical professionals instead favor Orb bracers. A local information aurora appears during direct paw gestures.
+
+**Other approved directions:** Tidekin Harborband typically two separate neck rings (upper value, lower security/obedience); Duskpaw **open lock** represents emancipation; Corvyn robes are flamboyant witch/wizard garments with extravagant hats/hoods. Expensive Mirror, Trance and Shock collars are special-purpose forms overriding ordinary race shapes, not standard clothing. See `25_Imperial_Collar_Culture_and_Restraints.md`. Do not treat unapproved additional sketches, colors, or naming options as canonical.
+
+
 **Authority:** Visual design reference. **Status:** The five mana emblem designs, Mystaria’s signature purple identity, purple Shimmer, and purple/red sky tendency are **USER-APPROVED VISUAL/WORLD CANON**; other art direction below is either an established presentation preference or a proposed production guideline, as labeled.  
 **Approved reference artwork:** [`Mystaria_Mana_Emblems_Approved.png`](Mystaria_Mana_Emblems_Approved.png)  
 **Created:** November 4, 2026.  
