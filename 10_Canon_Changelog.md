@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Tidekin stature and Neri characterization (LATEST)
+
+- **Author-approved racial appearance:** Typical adult Tidekin height is **around 4 feet**, using Neri's approved reference illustration as the proportion guide. The former broad 4–5-foot height characterization is superseded as the default; individuals may vary. No numeric racial mechanic is changed.
+- **Slate campaign only:** Neri “Wrong-Way” Reedwake calls Lillia **“Babe”** as a frequent, nonconstant tic; she occasionally uses surfer lingo without making it every line. She has surfed in her past. A personal surfboard is **suggested but not yet confirmed** as an owned item.
+- Owning records: `02_Races.md`, `11_Visual_Style_Guide.md`, `campaigns/slate/Live_Chronicle.md`.
+
+
 ## November 6, 2026 — Tidekin fashion and everyday swimwear approved (LATEST)
 
 - **Explicit author approval:** Approved the full proposed Tidekin Imperial clothing direction (aquatic practicality, Kin-knot adornment, Saltbound workwear, colorful free Tidekin expression, and movement-oriented formal dress), with **close-fitting swimwear** preferred and **bikini-style tops very common in casual clothing**.
