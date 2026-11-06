@@ -47,7 +47,7 @@ There is no approved compulsory outfit, specific festival costume, magical garme
 
 ## VII. Visual Reference and Boundaries
 
-Show Tidekin as **small otterfolk, approximately four to five feet tall**, keeping their established anatomy and aquatic mobility. Distinguish swim-oriented garments from impractical land-only costumes. Ordinary casual outfits often have bikini tops; layering may vary with occupation and scene. Saltbound working outfits should accommodate the known Harborband and realistic task safety. Free Tidekin should look individual rather than obligatorily disheveled.
+Show Tidekin as **small otterfolk, typically around four feet tall (individual variation is possible)**, keeping their established anatomy and aquatic mobility. Distinguish swim-oriented garments from impractical land-only costumes. Ordinary casual outfits often have bikini tops; layering may vary with occupation and scene. Saltbound working outfits should accommodate the known Harborband and realistic task safety. Free Tidekin should look individual rather than obligatorily disheveled.
 
 Follow `11_Visual_Style_Guide.md` for approved illustration style and individual artistic approval. No image has been approved through this clothing ruling.
 
