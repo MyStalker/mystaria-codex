@@ -9,6 +9,7 @@
 
 - Five absolute attributes: **STR, DEX, END, INT, SPD**. Effective attributes incorporate permanent racial percentage modifiers.
 - **Most recent Hero stat progression:** each level awards **2 points to allocate among base stats**; **every fifth level adds +1 to all five base stats**. This supersedes the November 1 compendium's earlier 1-Attribute-Point progression.
+- **Approved Shimmer XP progression (November 5, 2026):** XP to advance from current level `L` to `L + 1` is `L × (L + 1)`. Ordinary qualifying enemy/quest XP uses `2 × encounter level × threat modifier`; designated bosses award enough XP to advance the Hero **exactly two levels** from their current progress. See **Shimmer XP and encounter threat** below. This is XP, not SP or stat-allocation points.
 - **Skill Points (SP)** buy abilities, Crafts, and Sorcery purchases. These are **not** the same currency as stat-allocation points. Divine quests may award SP; ordinary XP/stat leveling does not automatically purchase abilities.
 - **General ability tier gates:** I at level 1, II at 10, III at 25, IV at 50, V at 80, subject to each system's own prerequisites and purchase cost.
 - The old compendium sometimes says **Ability Points**; check newer Craft references for the actual **Skill Point** economy rather than assuming interchangeable currencies.
@@ -265,6 +266,75 @@ Heroes begin at **level 1**, with the absolute racial starting attributes, modif
 A Hero's patron affects the activities that award XP. Arrest favors justice, investigation, legitimate capture, legal problems, and clever use of rules. Surrender rewards protection, compassion, friendship, peaceful resolution, and befriending Starspawn rather than killing them. Baphomet rewards revenge, sabotage, exposure of hypocrisy, creative rule-breaking, and mischievous humiliation. Accomplishments may earn Gems, the currency of patron-specific divine shops, including Arrest's **Ordered Armory**, Surrender's **Moonlit Garden**, and Baphomet's **Crimson Bazaar**. Their divine quests can be serious, minor, eccentric, or comically petty, and may award XP, Gems, Ability Points, and occasionally Attribute Points.
 
 Ability progression is divided into **five tiers**: Tier I available at level 1, Tier II from level 10, Tier III from level 25, Tier IV from level 50, and Tier V from level 80. Higher tiers must be bought or unlocked; leveling does not automatically grant every power. A Drider might advance Verdict Thread, a Tidekin Witness Wake, a Vren Crimson Clause, and a Warlock Open Channel. Heroes are still mortal and must learn their abilities and manage resources carefully.
+
+---
+
+## Shimmer XP and encounter threat — approved November 5, 2026
+
+**Status: APPROVED CANON.** This section is the operative numerical Shimmer XP progression. It does not replace the established patron-specific criteria for whether an action earns XP, the existing level-up attribute awards, or the separate Skill Point economy.
+
+### XP required to gain a level
+
+For a Hero at current level **L**:
+
+```text
+XP required to advance from level L to L + 1 = L × (L + 1)
+```
+
+This is the **XP required for the next level**, not a cumulative lifetime-XP threshold. Progress toward the next level carries forward when a reward exceeds the remaining requirement; recompute the next requirement at the new level.
+
+| Current level | XP to next level | Equal-level Henchman XP | Henchmen needed from zero progress |
+| ---: | ---: | ---: | ---: |
+| 1 | 2 | 2 | 1 |
+| 2 | 6 | 4 | 2 |
+| 5 | 30 | 10 | 3 |
+| 10 | 110 | 20 | 6 |
+| 25 | 650 | 50 | 13 |
+| 50 | 2,550 | 100 | 26 |
+| 75 | 5,700 | 150 | 38 |
+| 100 | 10,100 | 200 | 51 |
+
+This targets approximately one qualifying equal-level encounter to advance at level 1 and fifty at level 100 (the discrete result is **51**).
+
+### Threat classes and suggested relative level bands
+
+Use the **Hero's current level** as the comparison point. The level bands below are **encounter-design guidelines**, not automatic overrides of actual threat. The GM designates an encounter's threat class based on combat capability, numbers, equipment, magic, terrain, coordination, and special mechanics. A boss need not exceed the Hero's level if its encounter design justifies the designation.
+
+| Class | Suggested enemy level relative to Hero | Intended threat | XP modifier |
+| --- | --- | --- | ---: |
+| **Horde** | Up to and including 50% | Swarmable, individually trivial | ×0.1 |
+| **Minion** | Above 50% through 80% | Minor threat individually | ×0.4 |
+| **Henchman** | Above 80% through 110% | Nearly equal combatant, slightly weaker or comparable | ×1 |
+| **Elite** | Above 110% through 140% | Miniboss, substantial tactical challenge | ×2 |
+| **Boss** | Above 140%, **or specially designated** | Major prepared, prolonged encounter | Special: two levels |
+
+These bands are comparative guidelines, not minimum level requirements or a mandate that every enemy at a given ratio has a particular role. **Horde** refers to the threat posed by each member; it does not multiply a single enemy's XP by the number in a swarm.
+
+### Standard encounter and quest XP
+
+```text
+XP = 2 × encounter level × threat modifier
+```
+
+For a qualifying defeated enemy, **encounter level** is that enemy's level. The same threat-equivalent structure can price a patron-qualifying quest, investigation, rescue, peaceful resolution, or other accomplishment, using a GM-assigned equivalent challenge level and class. **No killing requirement** is implied. This does not make ordinary mundane quests automatically award XP: the accomplishment must still qualify under the Hero's patron's established XP principles.
+
+Round a fractional ordinary reward to the nearest whole XP, with a minimum of **1 XP for a qualifying encounter**. This rounding convention is for the calculation only and does **not** establish that trivial or repetitive actions always qualify for an XP award. No additional anti-farming numerical penalty is established by this approval.
+
+For example, a level-100 Henchman awards **200 XP**; a level-100 Horde enemy awards **20 XP**; a level-100 Minion awards **80 XP**; a level-100 Elite awards **400 XP**, if the GM assigns those respective threat roles.
+
+### Boss XP: advance exactly two levels
+
+A **qualifying Boss** awards enough XP for the Hero to advance **exactly two levels from their level at the moment of victory**, accounting for their current progress toward the next level. This **replaces** the ordinary enemy-level multiplier, regardless of the boss's own level.
+
+If the Hero is level **L** and has **P** XP already accumulated toward level **L + 1**, the Boss XP award is:
+
+```text
+Boss XP = [L × (L + 1) − P] + [(L + 1) × (L + 2)]
+```
+
+The award advances the Hero from **L** to **L + 2**, with **zero remaining progress** toward **L + 3**. Example: a level-50 Hero with zero progress receives **2,550 + 2,652 = 5,202 XP** and reaches level 52. A level-50 Hero with 500 XP progress instead receives **4,702 XP** for the same two-level result.
+
+**Unchanged boundaries:** Patron-specific XP qualification, mundane quest bookkeeping, Shimmer level-up stat gains, racial/Craft/Sorcery tier gates, SP prices, and other existing progression rules remain intact. No new repeat-farming restriction or special party XP division rule has been approved.
 
 ---
 
