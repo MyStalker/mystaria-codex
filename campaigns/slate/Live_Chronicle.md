@@ -4,11 +4,7 @@
 
 ## RP communication protocol
 
-- `[OOC]`: DM-to-assistant instruction; pause roleplay and do not advance the scene.
-- `[RP]`: Continue roleplay with short response windows and meaningful player agency.
-- `[CANON]`: Record or correct an established campaign fact; do not advance the scene without an accompanying RP request.
-- Unprefixed character dialogue/action from Slate is treated as Lillia's in-character contribution.
-- Preserve the difference between actual outcomes and offers, intentions, and unconfirmed details.
+See **[Roleplay_Protocol.md](Roleplay_Protocol.md)**. The DM's revised/sent NPC post plus Slate's actual Lillia post are canonical. Assistant-generated NPC continuations are **drafts until the DM sends and returns the edited version**. `[OOC]`/`[OC]` pauses RP; `[RP]` requests a draft; `[CANON]` establishes facts.
 
 ## Current confirmed context
 
@@ -25,25 +21,33 @@
 - Lillia was surprised that the otter could speak, became embarrassed about her lack of clothing, insisted that she had excellent judgment, and argued that cute creatures should be friendly to one another.
 - Neri identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
 - **Resolved interaction:** Lillia took the offered woolen blanket and wrapped the injured Valerious in it rather than using it herself. She nuzzled him, praised Neri's paws, playfully suggested Neri show more fur, and asked whether Neri needed help. Lillia remains cold and inadequately dressed. The blanket is now with Valerious, not Lillia.
-- **Latest Neri response:** Neri playfully accepted the compliment about her paws, noted that the blanket was intended for Lillia, and appreciated Lillia's kindness toward Valerious. Neri hinted that she might need help but prioritized finding Lillia proper clothing. She called to Tavi to ask whether they had bunny-sized clothing aboard that did not smell of fish.
-- **Unresolved:** Tavi has not answered; no clothes have been provided yet. Neri has not explained what help she might need. **Warmth for Two remains active**; do not record completion merely because Valerious received a blanket.
+- **Pipkin draft, NOT YET CANON:** Neri playfully accepted the compliment about her paws, said the blanket was intended for Lillia, appreciated her kindness to Valerious, and called to Tavi for bunny-sized clothes. **The DM has not yet supplied the revised version actually sent to Slate; do not record this as an event.**
+- **Unresolved:** The latest established in-character reply is Lillia asking whether Neri needs help. No clothes have been provided, Neri's potential request has not been revealed, and **Warmth for Two remains active**. The proposed Neri-to-Tavi clothing request awaits DM-confirmed transcript.
 - **DM-approved narration correction:** Neri's prior scene dialogue is the user's edited version, which includes Neri's ornate paw, a gold ring, and expressive banter. Slate's latest Lillia post and the reply above take precedence over earlier summarized dialogue.
 
 ## Confirmed Tidekin smuggler crew (DM canon)
 
-These names, roles, and personalities are approved for Lillia's campaign. The prior captain name **Nerissia** (also written **Narissa**) is superseded by **Neri “Wrong-Way” Reedwake**. This is a naming retcon only: all of the captain's previous dialogue and actions belong to Neri, with no change to the scene's events.
+These names, roles, personalities, and updated cast appearance choices are approved for Lillia's campaign. The prior captain name **Nerissia** (also written **Narissa**) is superseded by **Neri “Wrong-Way” Reedwake**. This is a naming retcon only: all of the captain's previous dialogue and actions belong to Neri, with no change to the scene's events.
 
 | Name | Role | Established characterization |
 |---|---|---|
-| **Neri “Wrong-Way” Reedwake** | Captain | Quick-witted, flirtatious, outwardly dismissive of danger; her crew knows she takes it seriously. *Wrong-Way* is an earned story name; Reedwake is her waterway surname. |
-| **Tavi Bluecurrent** | First mate and navigator | Practical; regularly corrects Neri's adventurous interpretations of geography. |
-| **Rikka Driftwater** | Cargo master | Expert smuggler, knowledgeable about cargo values, evasive about suspicious crates. |
-| **Kippi Brooktail** | Deckhand | Young, enthusiastic, frequently in the wrong place at the wrong time. |
-| **Viri Saltcurrent** | Lookout | Quiet, observant, spots trouble early. |
+| **Neri “Wrong-Way” Reedwake** | Female; captain | Quick-witted and flirtatious, outwardly dismissive of danger; burgundy cropped jacket over sea-green swim top, black fitted shorts, gold toe ring, turquoise Kin-knot at neck. Two faint rings of flattened neck fur suggest a former Harborband, but the backstory is unconfirmed. *Wrong-Way* is an earned story name. |
+| **Tavi Bluecurrent** | Male; first mate, navigator and cargo carrier | Broad-shouldered dark-brown fur, navy sleeveless vest and short swimwear; practical, serious, and frequently exasperated by Neri's navigation; helps carry cargo crates. Bare, unmarked neck. |
+| **Rikka Driftwater** | Female; cargo master | Rust-red bikini top, fitted cargo trousers and many pouches; expert smuggler who directs cargo handling and is evasive about suspicious crates. Two narrow worn-fur rings at the neck, suggestive of a former Harborband; history unconfirmed. |
+| **Fenn Ripplebrook** | Male; deckhand and cargo carrier | Athletic golden-brown otter with fluffy muzzle, open orange vest, turquoise fitted shorts and Kin-knots; carries stacked crates, eager to impress. No visible neck marks. **Replaces the earlier proposed Kippi Brooktail, who is not part of the confirmed crew.** |
+| **Viri Saltcurrent** | Female; lookout | Fitted violet top, charcoal shorts, secured hooded cape and silver fish earring; quiet, observant, spots trouble early. Bare, unmarked neck. |
 
 **Continuity boundary:** These crew members are established as NPCs, but Lillia has not necessarily met or learned the names of Tavi, Rikka, Kippi, or Viri. Do not imply introductions or other encounters have happened until played.
 
 **Naming source:** `24_Racial_Naming_Conventions_and_Namebook.md`, approved Tidekin waterway surnames and earned story names.
+
+## Clothing option under DM development: the Emberwrap
+
+The DM **selected the Emberwrap design** as a potential clothing solution, but **Lillia has not been offered, equipped with, or accepted it on-screen**. It is not yet in her inventory. Keep the mechanism a mystery in player-facing presentation. Appearance: soft fitted wrap top with exposed shoulders and midriff, a short flowing skirt, broad ornamental belt, bronze clasps, golden embroidery and amber-colored stones. Subtle metalwork is worked into the fabric; the light outfit gives off persistent gentle warmth. DM-only explanation: insulated components made using Centaur **Hearthiron**, a heat-retaining metal that is otherwise capable of dangerous temperatures. The exact gear benefits, market cost, and duration are not assigned.
+
+## Transcript priority
+
+The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring; laughter; identification as Tidekin; critique of Lillia's clothing; offering a woolen blanket and asking if cute things help one another), followed by **Slate's actual Lillia reply** (admiring Neri's toe beans, carrying injured Valerious, wrapping him in the blanket and nuzzling him; teasing Neri about her fur; asking whether Neri needs help). Both are **confirmed**, overriding Pipkin's earlier suggested wording. The **next Neri reply remains a draft** until the DM sends and returns the edited copy.
 
 ## Recording policy
 
