@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved Kobold Presentation and Demonstration Dress
+
+**Presentation Dress** is clean, tailored, professor-like attire with optional petticoats, spectacles and commemorative tools for formal audiences. **Demonstration Dress** emphasizes authentic practical workwear: modified, patched, scorched or worn laboratory coats, useful tools and appropriate safety equipment. The cherished **Working Coat** may retain years of custom repairs; a **Proud Tool** can be symbolic in formal dress and functional in working dress. These are flexible cultural conventions, not uniform specifications. Do not depict false wear as an automatic skill or status badge. Preserve ordinary Kobold scale and established Orb Collar/bracer distinctions. Full text: `27_Kobold_Imperial_Fashion.md`.
+
+
 ### November 6, 2026 — Kobold scholar/engineer fashion and visual scale (CANON)
 
 Kobold fashion remains practical even for prestigious household specialists: mechanic and professor silhouettes, petticoats, functional technical apparel and frequent spectacles (especially casual wear). Kobolds have poor natural distance vision adapted for caves, with possible exceptions among Corvyn-imprinted Kobolds, but no fixed visual acuity mechanic. Free Kobolds often have torn, scorched, stained or repeatedly patched lab coats when unconstrained by masters' uniform policies. Enslaved household specialists can be sharply maintained. Preserve **small Kobold stature**; earlier generated tall-looking Kobold fashion examples received only conditional feedback on clothing, not anatomy approval. See `27_Kobold_Imperial_Fashion.md`; new images require separate approval.

@@ -2,7 +2,7 @@
 
 ## Approved Kobold fashion and eyesight — November 6, 2026
 
-`27_Kobold_Imperial_Fashion.md` records the approved Kobold professional/casual style, including petticoats and professor/mechanic attire even for prestigious household specialists, common spectacles and naturally weak distance vision from cave adaptation (with exceptions such as Corvyn-imprinted Kobolds), and the haggard, scorched or torn clothes often preferred by independent free Kobold engineers. The exact effect of imprinting on acuity is unresolved. Follow-up ceremonial, tool-prestige etiquette and demonstration-dress customs are clearly labeled **PROPOSAL**, not yet canon.
+`27_Kobold_Imperial_Fashion.md` records the approved Kobold professional/casual style, including petticoats and professor/mechanic attire even for prestigious household specialists, common spectacles and naturally weak distance vision from cave adaptation (with exceptions such as Corvyn-imprinted Kobolds), and the haggard, scorched or torn clothes often preferred by independent free Kobold engineers. The exact effect of imprinting on acuity is unresolved. **Presentation Dress** (polished scholarly formality) and **Demonstration Dress** (practical work attire) are now approved cultural conventions, alongside the cherished Working Coat and symbolic/functional Proud Tool distinction. Neither is a mandatory uniform nor proof of competency. More elaborate Academic Gala or strict tool/patch etiquette remains **PROPOSAL**.
 
 ## Approved Naga fashion and ceremonial dress — November 6, 2026
 
