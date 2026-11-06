@@ -21,6 +21,17 @@
 
 ## 2. Canon approvals / revision history
 
+### November 5, 2026 — Hero Gem wealth, consumables, shop buyback, and threat rewards (LATEST)
+
+- **Explicit author approval:** `09_Equipment_and_Economy.md` now owns the typical Hero equipment-wealth curve `W(L) = 3 + 3997 × ((L−1)/99)^2.3` (levels 1–100), targeting **3 Gems in equipment at level 1** and **4,000 Gems of currently owned equipment at level 100**, with the latter reflecting a **typical Hero who replaces equipment at every quality tier**, not an unusually thrifty Hero.
+- **Approved spending and resale:** By level 100, approximately **30% of all Gems ever earned** is spent on consumables. Gem Shops buy back **items they originally sold** for **half their original purchase price**. Replacement losses are incorporated into the typical earnings budget, not compensated by a free reimbursement.
+- **Reference model:** Quality milestones at Hero levels **10, 25, 50, 75, 100** are balancing assumptions, **not equipment-use prerequisites**. The representative portfolio values are **19 / 157 / 796 / 2,049 / 4,000 Gems**; four complete replacement resales create **~1,510.5 Gems of cumulative losses**. With `E(L) = (W(L) + R(L)) / 0.70`, the level-100 lifetime target is **~7,872 Gems earned**, **~2,362 Gems spent on consumables**, and **4,000 Gems currently in equipment**. Half-Gem arithmetic does not establish a fractional Gem denomination.
+- **Gem reward multipliers explicitly match existing XP multipliers:** **Horde ×0.1, Minion ×0.4, Henchman ×1, Elite ×2**. A **Boss** grants a special Gem reward equivalent to **two levels of budgeted Gem progression**, including milestone replacement allowance where applicable; the existing Boss **XP** reward of exactly two level advances remains unchanged. **Do not adopt** the unapproved Elite ×3 / Minion ×0.5 XP suggestions from the immediately preceding discussion.
+- **Reward calibration:** Base Gem rewards derive from the incremental lifetime earnings budget `E(L+1) − E(L)` and expected qualifying encounter/quest pacing. The exact encounter/quest allocation and fractional reward rounding remain unresolved. The two-level Boss Gem formula `E(L+2) − E(L)` is specified for **L+2 ≤100**; beyond-level-100 Gem progression is unresolved.
+- **No changes:** Patron-specific eligibility, mundane quest limits, XP math, tier gates, shop catalogue item prices, five quality benchmarks, SP, and equipment usage requirements. Reference: `09_Equipment_and_Economy.md`, indexed in `00_Mystaria_Canon_Index.md`.
+
+
+
 ### November 5, 2026 — Shimmer XP progression and enemy threat classes approved (LATEST)
 
 - **Explicit user approval:** Hero XP required to advance from level **L** to **L + 1** is **`L × (L + 1)`**, as a per-level requirement, not cumulative lifetime XP. Example thresholds: level 1 **2 XP**, level 50 **2,550 XP**, level 100 **10,100 XP**. XP carries through level transitions.
