@@ -1,0 +1,54 @@
+# Lillia's Campaign — Live Chronicle
+
+> Campaign-specific continuity for Slate's solo Mystaria game. This is not world canon. Confirmed events, unresolved interactions, and DM-only details must remain distinct. This document is updated at meaningful roleplay exchanges on the campaign branch.
+
+## RP communication protocol
+
+See **[Roleplay_Protocol.md](Roleplay_Protocol.md)**. The DM's revised/sent NPC post plus Slate's actual Lillia post are canonical. Assistant-generated NPC continuations are **drafts until the DM sends and returns the edited version**. `[OOC]`/`[OC]` pauses RP; `[RP]` requests a draft; `[CANON]` establishes facts.
+
+## Current confirmed context
+
+- Player character: Lillia (Lilly), level-3 Moontouched Warlock Hero, patron Surrender.
+- Companion: Valerious, level-2 gilded nightfox.
+- Location: Starspawn-inhabited caves in the Scarlands, near Serpentari-era ruins.
+- Quest: **Warmth for Two** (quest option 2), active. The established objective is to find warmth and shelter and share that safety with someone in need. No completion is recorded.
+- Lillia is cold and inadequately clothed.
+- Lillia previously purchased a frayed treasure map for 3 Gems. Four level-2 encounters (one nightfox and three wispfoxes) were awarded 1 Gem each by campaign ruling; ledger balance after the map purchase is 1 Gem.
+
+## Current RP exchange — Neri “Wrong-Way” Reedwake
+
+- Neri greeted Lillia and Valerious: “Well, look what the current dragged in. A fox with good taste and a bunny with absolutely terrible judgment.”
+- Lillia was surprised that the otter could speak, became embarrassed about her lack of clothing, insisted that she had excellent judgment, and argued that cute creatures should be friendly to one another.
+- Neri identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
+- **Resolved interaction:** Lillia took the offered woolen blanket and wrapped the injured Valerious in it rather than using it herself. She nuzzled him, praised Neri's paws, playfully suggested Neri show more fur, and asked whether Neri needed help. Lillia remains cold and inadequately dressed. The blanket is now with Valerious, not Lillia.
+- **Pipkin draft, NOT YET CANON:** Neri playfully accepted the compliment about her paws, said the blanket was intended for Lillia, appreciated her kindness to Valerious, and called to Tavi for bunny-sized clothes. **The DM has not yet supplied the revised version actually sent to Slate; do not record this as an event.**
+- **Unresolved:** The latest established in-character reply is Lillia asking whether Neri needs help. No clothes have been provided, Neri's potential request has not been revealed, and **Warmth for Two remains active**. The proposed Neri-to-Tavi clothing request awaits DM-confirmed transcript.
+- **DM-approved narration correction:** Neri's prior scene dialogue is the user's edited version, which includes Neri's ornate paw, a gold ring, and expressive banter. Slate's latest Lillia post and the reply above take precedence over earlier summarized dialogue.
+
+## Confirmed Tidekin smuggler crew (DM canon)
+
+These names, roles, personalities, and updated cast appearance choices are approved for Lillia's campaign. The prior captain name **Nerissia** (also written **Narissa**) is superseded by **Neri “Wrong-Way” Reedwake**. This is a naming retcon only: all of the captain's previous dialogue and actions belong to Neri, with no change to the scene's events.
+
+| Name | Role | Established characterization |
+|---|---|---|
+| **Neri “Wrong-Way” Reedwake** | Female; captain | Quick-witted and flirtatious, outwardly dismissive of danger; burgundy cropped jacket over sea-green swim top, black fitted shorts, gold toe ring, turquoise Kin-knot at neck. Two faint rings of flattened neck fur suggest a former Harborband, but the backstory is unconfirmed. *Wrong-Way* is an earned story name. |
+| **Tavi Bluecurrent** | Male; first mate, navigator and cargo carrier | Broad-shouldered dark-brown fur, navy sleeveless vest and short swimwear; practical, serious, and frequently exasperated by Neri's navigation; helps carry cargo crates. Bare, unmarked neck. |
+| **Rikka Driftwater** | Female; cargo master | Rust-red bikini top, fitted cargo trousers and many pouches; expert smuggler who directs cargo handling and is evasive about suspicious crates. Two narrow worn-fur rings at the neck, suggestive of a former Harborband; history unconfirmed. |
+| **Fenn Ripplebrook** | Male; deckhand and cargo carrier | Athletic golden-brown otter with fluffy muzzle, open orange vest, turquoise fitted shorts and Kin-knots; carries stacked crates, eager to impress. No visible neck marks. **Replaces the earlier proposed Kippi Brooktail, who is not part of the confirmed crew.** |
+| **Viri Saltcurrent** | Female; lookout | Fitted violet top, charcoal shorts, secured hooded cape and silver fish earring; quiet, observant, spots trouble early. Bare, unmarked neck. |
+
+**Continuity boundary:** These crew members are established as NPCs, but Lillia has not necessarily met or learned the names of Tavi, Rikka, Kippi, or Viri. Do not imply introductions or other encounters have happened until played.
+
+**Naming source:** `24_Racial_Naming_Conventions_and_Namebook.md`, approved Tidekin waterway surnames and earned story names.
+
+## Clothing option under DM development: the Emberwrap
+
+The DM **selected the Emberwrap design** as a potential clothing solution, but **Lillia has not been offered, equipped with, or accepted it on-screen**. It is not yet in her inventory. Keep the mechanism a mystery in player-facing presentation. Appearance: soft fitted wrap top with exposed shoulders and midriff, a short flowing skirt, broad ornamental belt, bronze clasps, golden embroidery and amber-colored stones. Subtle metalwork is worked into the fabric; the light outfit gives off persistent gentle warmth. DM-only explanation: insulated components made using Centaur **Hearthiron**, a heat-retaining metal that is otherwise capable of dangerous temperatures. The exact gear benefits, market cost, and duration are not assigned.
+
+## Transcript priority
+
+The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring; laughter; identification as Tidekin; critique of Lillia's clothing; offering a woolen blanket and asking if cute things help one another), followed by **Slate's actual Lillia reply** (admiring Neri's toe beans, carrying injured Valerious, wrapping him in the blanket and nuzzling him; teasing Neri about her fur; asking whether Neri needs help). Both are **confirmed**, overriding Pipkin's earlier suggested wording. The **next Neri reply remains a draft** until the DM sends and returns the edited copy.
+
+## Recording policy
+
+At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
