@@ -108,3 +108,44 @@ A canonical shape catalogue should contain one stable record for each design wit
 ## November 6, 2026 — Secondary F comparison and armor philosophy (REVIEW PROPOSAL)
 
 The author suggests that secondary F be closer to **0.90 or 0.85** of primary, rather than the prior 0.95. **Quill recommends 0.90 for proper secondary strikes**: with the approved quadratic formula it yields **81% primary physical Power**, a substantial 19% reduction; 0.85 yields 72.25%, a 27.75% reduction. **Reserve 0.85 for exceptionally awkward or poor secondary weapon geometry, if the author later approves such cases.** The numeric ratios in this paragraph are NOT canon until explicitly adopted. A greatsword's pointed secondary blade thrust may be lethal against unarmored flesh but not specialize against plate like a purpose-made pike; that design distinction should involve distinct tip geometry, armor and the later armor-pass rules, not an invented piercing-bypass percentage today. Greatsword pommel remains unarmed-equivalent maximum, as already approved. The user has requested continuation to ranged weapon shapes while numerical secondary F remains on review.
+
+
+## November 6, 2026 — REPLACEMENT MINIMA, AUTHOR-APPROVED TEST BASELINES (NOT FINAL)
+
+These **supersede the earlier numerical minimums in the working table for all subsequent testing**, without ratifying final shape requirements. All figures are post-rebase **effective** stats and for ordinary reference materials. Existing shape/form/F/coverage entries are unaffected. For Either-stat items, the STR floor shown after the semicolon applies **only when using DEX mode**. Both requires both values.
+
+| ID | Weapon | Replacement minimum |
+|---|---|---|
+| L-01 | Dagger | DEX 5; support STR 3 |
+| L-02 | Stiletto | DEX 7; support STR 3 |
+| L-03 | Short knife | STR 5 OR DEX 5; DEX-mode support STR 3 |
+| L-04 | Cestus/knuckles | STR 4 |
+| L-05 | Hand axe | STR 6 |
+| L-06 | Light pick | STR 6 |
+| L-07 | Short club | STR 3 |
+| L-08 | Sickle | DEX 6; support STR 4 |
+| M-01 | Arming sword | STR 9 OR DEX 9; DEX-mode support STR 5 |
+| M-02 | Longsword | STR 12 AND DEX 10 |
+| M-03 | Rapier | DEX 12; support STR 5 |
+| M-04 | Sabre | DEX 11; support STR 6 |
+| M-05 | Falchion | STR 12 |
+| M-06 | Mace | STR 10 |
+| M-07 | Warhammer | STR 11 |
+| M-08 | War pick | STR 11 |
+| M-09 | Battleaxe | STR 13 |
+| M-10 | Short spear | STR 9 OR DEX 9; DEX-mode support STR 5 |
+| M-11 | Quarterstaff | STR 8 AND DEX 8 |
+| H-01 | Greatsword | STR 18 AND DEX 12 |
+| H-02 | Zweihander | STR 21 AND DEX 13 |
+| H-03 | Greataxe | STR 19 |
+| H-04 | Maul | STR 19 |
+| H-05 | Great hammer | STR 21 |
+| H-06 | Poleaxe | STR 18 AND DEX 12 |
+| H-07 | Halberd | STR 17 AND DEX 12 |
+| H-08 | Glaive | STR 15 AND DEX 12 |
+| H-09 | Pike | STR 14 AND DEX 11 |
+| H-10 | Long spear | STR 13 OR DEX 13; DEX-mode support STR 8 |
+| H-11 | Lance | STR 18; actual mounting/support geometry still applies |
+| H-12 | Heavy flail | STR 22 |
+
+**Test material factors (STR/support only):** conventional ×1.00; Trufula ×0.50; Adamantite ×2.50, round up. Do not universally multiply handling DEX or firearm recoil by material weight. Material approval and component composition are outstanding. Existing old requirements in the original register remain superseded **for testing only**, not operative final canon.
