@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Approved Naga fashion and ceremonial dress — November 6, 2026
+
+**CANON:** [`26_Imperial_Fashion_and_Dress.md`](26_Imperial_Fashion_and_Dress.md) owns the approved Naga fashion dossier: short dancer-like silks, revealing but socially respectable silhouettes, conspicuous impractical jeweled chains/manacles reflecting historical Serpentari enslavement, and Matriarch circlets customary even for the poor (copper), but **not legal mandates**. Ceremonial attire invokes historical servitude more directly; literal self-binding is exceptional, notably zealot reenactments or abolitionist protests, never a universal rite. Political interpretations differ, including Unbound Daughters' criticism of current slaveholding. Existing Imperial collar mechanics and other peoples' fashion remain unchanged. See `10_Canon_Changelog.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`.
+
 ## Approved Coilsting Collar name — November 6, 2026
 
 **Coilsting Collar** is the user-approved name of the specialized Imperial magical restraint previously described by the working title **Shock Collar**. **Censure Collar / Censureband** was a naming proposal and is not canon. All established behavior and unresolved numerical details remain unchanged. The owning source is `25_Imperial_Collar_Culture_and_Restraints.md`; revision status is in `10_Canon_Changelog.md`.
@@ -74,6 +78,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 | [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
 | [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
 | [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
+| [`26_Imperial_Fashion_and_Dress.md`](26_Imperial_Fashion_and_Dress.md) | Approved Naga everyday, matriarchal, courtly, occupational and ritual dress; historic chains, circlets and regional variations | **CANON** — legal requirement and literal ritual binding explicitly limited |
 | [`18_The_Gilded_Coil_Imperial_Gazetteer.md`](18_The_Gilded_Coil_Imperial_Gazetteer.md) | Approved southeastern Naga homeland: Worldspindles/Coilworks, four cities, Cipherlight/Coilnet Rainbows, Conclave, Scale Register, Mirrorwardens and Spindlewatch, economy, ecology, slavery and adventure setting | **CANON** — sole capital Sathryx; enslaved central-city majority with no approved percentage |
 | [`22_Combat_Endurance_and_Shimmer_Guard.md`](22_Combat_Endurance_and_Shimmer_Guard.md) | Approved impact, wounds, Shimmer Guard, heal burn and firearm principles; armor numerical scaling not finalized | **CANON with explicit PROPOSAL/UNRESOLVED subsections** |
 | [`19_The_Mnemonic_Arts_and_Echo_Economy.md`](19_The_Mnemonic_Arts_and_Echo_Economy.md) | Mindprism retina-based Cipherlight, Echo records, memory return/Everseals, Skillprints, Dreamcasting, Echo Vaults and Living Reliquaries | **CANON** — unresolved technical rates and exact MP/Gem pricing marked |
