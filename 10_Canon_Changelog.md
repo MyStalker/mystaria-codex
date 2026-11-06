@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Coilsting Collar name approved (LATEST)
+
+- **Explicit author approval:** **Coilsting Collar** is the approved proper name of the formerly provisionally titled **Shock Collar**, one of the three high-cost Naga Imperial magical restraint collars.
+- **Supersession:** Retire **Shock Collar** as the item's working name; **Censure Collar / Censureband** remains an unapproved, superseded naming proposal. Historical references to either identify the same design discussion, not additional devices.
+- **No mechanical changes:** Preserve medium relative mana demand, normal deliberate manual activation, optional designated-Rainbow-boundary trigger, signal/control-route constraints, and the prohibition on universal mind/intent/secret detection. Fine numerical effects, power, costs, safeguards and exact visuals remain unresolved.
+- **Files:** `25_Imperial_Collar_Culture_and_Restraints.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`, `11_Visual_Style_Guide.md`.
+
 ## November 6, 2026 — Three slavery philosophies, regional collars, Orbcraft and magical restraints (LATEST)
 
 **Explicit author approvals:**
@@ -10,7 +17,7 @@
 - **Specialized high-cost Imperial magical collars:** **Mirror Collar** records locally and cannot broadcast; footage is reviewed only after manual connection to an Orb. **Trance Collar** has high mana demand and suppresses higher reasoning if not resisted, making it unsuitable for most Kobold engineering work. The **Shock Collar** is medium-mana, deliberate/manual control normally, optionally checking exit from a *specific* Rainbow region; it cannot universally infer thoughts, weapon handling, secrets or intent, nor activate remotely from any arbitrary location. Their practical appearances override ordinary race-specific collars. Fine costs/durations/checks/thresholds are not approved.
 - **Censure Collar / Censureband** is only a proposed name for the Shock Collar; **NOT APPROVED**.
 
-**References:** `25_Imperial_Collar_Culture_and_Restraints.md` (owning consolidated cultural dossier), `01_World_and_Shimmer.md`, `02_Races.md`, `08_Other_Crafts.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`. The user has not approved fine numeric mechanics, appearance artwork of magical collars, or shock-collar name.
+**References:** `25_Imperial_Collar_Culture_and_Restraints.md` (owning consolidated cultural dossier), `01_World_and_Shimmer.md`, `02_Races.md`, `08_Other_Crafts.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`. **Historical status at the time of this entry:** fine numeric mechanics, appearance artwork of magical collars, and the shock-collar name were then unapproved. The name was subsequently approved as **Coilsting Collar** above.
 
 
 ## November 5, 2026 — Racial naming conventions and 450-name library (APPROVED)
