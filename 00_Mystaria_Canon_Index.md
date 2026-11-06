@@ -311,3 +311,7 @@ The five approved attack Coverage categories are **Point, Narrow, Sweep, Wide Sw
 ## November 6, 2026 — Visible coverage column on main melee chart (LATEST)
 
 **APPROVED CHART PRESENTATION:** Every master melee equipment chart should show **Primary Coverage** as a distinct explicit column alongside weapon Class, Reach, Scaling, F and primary damage form. Weapon-specific alternate forms keep their own alternative coverage. Wide/horizontally scrollable tables are preferable to hiding Coverage. Updated 31-entry review catalogue in `25_Melee_Weapon_Catalogue_DRAFT.md`; **numeric target counts/angles and individual draft stats remain unapproved**. Finish five shape stages, then armor before further crafting as previously approved.
+
+## November 6, 2026 — Melee Power calibration review draft (STEP 2)
+
+**New review-only file:** `26_Melee_Power_Calibration_DRAFT.md` evaluates all 31 proposed shapes from `25_Melee_Weapon_Catalogue_DRAFT.md` at matched STR+DEX totals, keeping **Primary Coverage** visible. No new numerical shape stats are canon. Mathematical note: approved Both uses `0.65(STR+DEX)` and required dual minima, therefore **equal stat totals produce equal Both A even if divided differently**, provided both minima are satisfied. New alternate-attack F scaling and handling rules remain proposals. Numeric multi-target coverage remains unfinished by author's request. After shape steps, prioritize ARMOR before materials/quality. Status documented `10_Canon_Changelog.md`.
