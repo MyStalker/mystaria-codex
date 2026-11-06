@@ -1,5 +1,9 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved Naga fashion (The Silks and Chains of the Eternal Coil)
+
+**Naga design canon:** Short silk dancer-style tops and hip drapes with exposed shoulders/back/midriff; ornaments and fine metalwork, rather than excessive fabric, express aristocratic wealth. **Ornamental chains and manacles** (light, heavy, lavishly jeweled and deliberately impractical) memorialize ancestral Serpentari-era enslavement as modern status symbols, not contemporary working restraints. **Matriarchs are customarily circleted**, even poor Matriarchs with copper, but the tradition is not a legal requirement. Ritual dress much more explicitly evokes historic bondage; **literal self-binding is exceptional**, chiefly as zealot symbolism or abolitionist protest. Do not impose generic harness motifs as the Naga's defining fashion language. Full owning reference: `26_Imperial_Fashion_and_Dress.md`. Separate image approval remains required.
+
 ### November 6, 2026 — Approved collar, regional fashion, and Kobold reference directions
 
 **Regional visual distinctions:** Naga Imperium: polished, manufactured, registered and hierarchical; Scarlands: dark, worn, repaired, repurposed and individualized; Canopy Kingdoms: fine craftsmanship, botanical/heraldic, woven and engraved. These overlay, not erase, species-specific design. Approved fashion uses mature, often provocative adult costume design, but practical fit and established anatomy remain primary.
