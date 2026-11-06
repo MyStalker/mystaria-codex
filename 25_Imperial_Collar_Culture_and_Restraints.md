@@ -67,17 +67,17 @@ A **walking recording camera**: captures what its viewpoint can see. **Cannot br
 
 When active, induces intense hypnosis, strongly stifling higher reasoning if the wearer fails to resist. The affected person becomes severely impaired and can only shamble through simple instructions, not undertake intellectual or technical tasks. **Very high mana demand** makes sustained use impractical; short use is more feasible. Kobold technical workers **almost never** use these, because accidental activation during delicate work can precipitate disaster. Exact resistance method, activation duration, power costs, post-effect recovery and safeguards remain unresolved.
 
-### Shock Collar — working name UNAPPROVED
+### Coilsting Collar — APPROVED NAME
 
-**Commonest of the three magical restraint types**, though still an expensive specialized collar compared with mundane identification. Uses **medium mana** relative to the other designs and normally requires **deliberate manual activation**. An optional installation may trigger when the collar leaves a specified **Rainbow coverage area**; this requires defined network coverage rather than omnipresent tracking. **No universal intent, thought, whisper, weapon-handling or secret-detection triggers**. It cannot activate at arbitrary locations on an owner's whim without an actual signal or control route. Specific thresholds, shocks, safeguards, signal reach, mana amounts, and resistances are unresolved. The final proper name/title is pending author approval.
+**Commonest of the three magical restraint types**, though still an expensive specialized collar compared with mundane identification. Uses **medium mana** relative to the other designs and normally requires **deliberate manual activation**. An optional installation may trigger when the collar leaves a specified **Rainbow coverage area**; this requires defined network coverage rather than omnipresent tracking. **No universal intent, thought, whisper, weapon-handling or secret-detection triggers**. It cannot activate at arbitrary locations on an owner's whim without an actual signal or control route. Specific thresholds, shocks, safeguards, signal reach, mana amounts, and resistances are unresolved. **Coilsting Collar** is the author-approved proper name for this Imperial restraint. The former descriptive working title **Shock Collar** is superseded.
 
-**PROPOSED name:** **Censure Collar**, commonly **Censureband**. This label is **NOT CANON** until expressly accepted. Other candidate names may be developed.
+**Superseded naming proposal:** **Censure Collar / Censureband** was never approved and is not an operative name.
 
 ## Deferred cultural and mechanical questions — NOT CANON
 
-- Exact appearance and practical identification marks of Mirror, Trance and Shock collars.
+- Exact appearance and practical identification marks of Mirror, Trance and Coilsting collars.
 - Specific code colors/grades for the Tidekin Harborband's valuation and security rings.
 - Whether an Orb Collar needs separate authorization or hardware for technical access.
-- Whether a Rainbow boundary-triggered Shock Collar can function when disconnected, and how the boundary is established.
+- Whether a Rainbow boundary-triggered Coilsting Collar can function when disconnected, and how the boundary is established.
 - Full numerical power, effect/resistance and expense balancing for all three magical collars.
 - Broader cultural use of restraints, emancipation ceremonies, and regional variations outside the specifically approved design concepts.
