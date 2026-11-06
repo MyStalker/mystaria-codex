@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Moontouched racial modifier correction — November 5, 2026
+
+**CANON:** Moontouched gain **+25% SPD**, not +30% DEX. Their level-1 base stats remain STR 11, DEX 17, END 12, INT 15, SPD 20; resulting effective values are STR 11, DEX 17, END 12, INT 15, SPD 25. This later author correction supersedes earlier racial tables; `01_World_and_Shimmer.md` owns the operative racial attribute table.
+
+
 **Library edition:** November 4, 2026 — approved Warlock, Gilded Coil, Mnemonic Arts and repository-audit reconciliation  
 **Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
 **Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
