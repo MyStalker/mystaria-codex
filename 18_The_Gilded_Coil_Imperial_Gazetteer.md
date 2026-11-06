@@ -1,5 +1,10 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Approved Tidekin fashion in the Gilded Coil
+
+Tidekin clothes favor **close-fitting aquatic swimwear, including very common bikini-style casual tops**, with removable decorative layers, quick-drying practical garments and personal **Kin-knots**. Free Tidekin frequently dress in colorful individualized pieces; Saltbound workers, household attendants, navigators and Wakewrights wear occupation-adapted swim-capable attire and the established Harborband identification rings. Kin-knots express kinship, not legally ranked ownership. Full reference: `29_Tidekin_Imperial_Fashion.md`.
+
+
 ## November 6, 2026 — Kobold Presentation and Demonstration Dress (CANON)
 
 Kobold academic and technical communities commonly distinguish polished **Presentation Dress**, respectful of formal audiences, from useful **Demonstration Dress**, respectful of actual experimental work. Free inventors often prize their patched, burned, carefully modified **Working Coats**; cherished tools or inventions may be symbols at ceremonies and practical devices in the workshop. Naga employers can impose uniform requirements on enslaved specialists, sometimes clashing with Kobold preferences. These are widespread tendencies, never proof of skill or legal status or compulsory dress categories. See `27_Kobold_Imperial_Fashion.md`.
