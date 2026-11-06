@@ -7,6 +7,8 @@
 
 ## Current mechanical overrides — use these, not superseded versions
 
+- **Latest Moontouched racial modifier correction (November 5, 2026):** Moontouched receive **+25% effective SPD**, with **no racial DEX modifier**. The revised level-1 base attributes remain STR 11, DEX 17, END 12, INT 15, SPD 20, yielding effective SPD 25 and effective starting total 80. This supersedes all older Moontouched DEX +30% references.
+
 - Five absolute attributes: **STR, DEX, END, INT, SPD**. Effective attributes incorporate permanent racial percentage modifiers.
 - **Most recent Hero stat progression:** each level awards **2 points to allocate among base stats**; **every fifth level adds +1 to all five base stats**. This supersedes the November 1 compendium's earlier 1-Attribute-Point progression.
 - **Approved Shimmer XP progression (November 5, 2026):** XP to advance from current level `L` to `L + 1` is `L × (L + 1)`. Ordinary qualifying enemy/quest XP uses `2 × encounter level × threat modifier`; designated bosses award enough XP to advance the Hero **exactly two levels** from their current progress. See **Shimmer XP and encounter threat** below. This is XP, not SP or stat-allocation points.
@@ -409,7 +411,7 @@ These modifiers continue applying throughout Hero progression.
 
 | Race | Attribute modifiers | Effective Starting Total |
 |---|---|---:|
-| Moontouched | DEX +30% | 80.1 |
+| Moontouched | SPD +25% | 80 |
 | Bloomkin | STR −20%, DEX +10% | 76.4 |
 | Thornguard | STR +20% | 83.6 |
 | Tidekin | DEX +10% | 84.9 |
