@@ -21,6 +21,17 @@
 
 ## 2. Canon approvals / revision history
 
+### November 5, 2026 — Shimmer XP progression and enemy threat classes approved (LATEST)
+
+- **Explicit user approval:** Hero XP required to advance from level **L** to **L + 1** is **`L × (L + 1)`**, as a per-level requirement, not cumulative lifetime XP. Example thresholds: level 1 **2 XP**, level 50 **2,550 XP**, level 100 **10,100 XP**. XP carries through level transitions.
+- **Ordinary qualifying reward:** **`XP = 2 × encounter level × threat modifier`**. A defeated enemy uses its own level; a qualifying quest or nonviolent patron-approved achievement can use a GM-assigned equivalent challenge level. Round to nearest whole XP, minimum **1 XP for a qualifying encounter**. Patron-specific XP rules and the fact that mundane quests do not automatically award XP remain operative.
+- **Threat modifiers and relative-level guidelines:** **Horde ×0.1** (enemy level ≤50% of Hero); **Minion ×0.4** (>50%–80%); **Henchman ×1** (>80%–110%); **Elite ×2** (>110%–140%); **Boss** (usually >140% or specially designated). These are **guidelines**; the GM assigns actual encounter class based on capabilities and context, not level ratio alone. The categories indicate swarmable trivial enemies, minor threats, near-peers, minibosses and prepared prolonged bosses respectively.
+- **Boss exception:** A qualifying Boss grants the remaining XP to the next level **plus** the full XP for the following level, advancing the Hero **exactly two levels from the Hero's current level and progress**. At level 50 with no progress, the reward is **5,202 XP** and the Hero reaches level 52. Boss XP replaces, rather than multiplies, ordinary enemy XP.
+- **Pacing:** One equal-level Henchman at level 1 yields the **2 XP** needed to level; at level 100, an equal-level Henchman gives **200 XP** against **10,100 XP**, so **51** encounters are needed from zero progress (approximately the requested 50).
+- **Not approved by implication:** The previously floated anti-farming numerical restriction and any party XP division procedure remain unspecified; merely trivial/repetitive acts are not automatically patron-qualified. This approval does **not** change Shimmer attribute gains, Skill Point costs, rank prerequisites, or the goddesses' established reward criteria.
+- **Owning file:** `01_World_and_Shimmer.md`; indexed in `00_Mystaria_Canon_Index.md`.
+
+
 ### November 5, 2026 — Style choice corrected to Direction 4 (LATEST)
 
 - User explicitly corrected the selection: **Direction 4**, detailed ink-and-color fantasy, is the defining Mystaria style. Direction 5 is an archived alternative.
