@@ -150,7 +150,7 @@ Their clergy, **Hearthwhispers**, emphasize voluntary trust and often reject her
 
 ## 12. Tidekin — Children of the Unquiet Sea
 
-**Race:** Otterfolk. **Rarity:** Common along coasts and waterways. **Height:** 4–5 feet. **Lifespan:** 70–90 years. **Patron:** Arrest. **Magic:** Blue-mana Wakecraft. **Family:** Rafts.
+**Race:** Otterfolk. **Rarity:** Common along coasts and waterways. **Height:** approximately **4 feet typical** for adults (individual variation; previous 4–5-foot generalization is superseded as the default). **Lifespan:** 70–90 years. **Patron:** Arrest. **Magic:** Blue-mana Wakecraft. **Family:** Rafts.
 
 Tidekin trace their divine connection to Arrest's intervention after an otterfolk was unjustly drowned. Through the memories carried by water, she revealed the truth. The Tidekin inherited **Wakecraft**, a blue-mana tradition dependent on existing water: **Currentweaving** redirects currents, **Mirrorwake** detects faint memories or impressions held in water, and **Tidebinding** adjusts local water density and buoyancy. It cannot conjure unlimited water from nothing.
 
