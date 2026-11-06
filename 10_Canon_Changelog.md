@@ -1,11 +1,22 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Kobold Presentation and Demonstration Dress approved (LATEST)
+
+- **Explicit author approval:** All six sections of the Kobold **Presentation Dress versus Demonstration Dress** proposal, including the cherished **Working Coat**, the practical-versus-symbolic use of the **Proud Tool**, and their implications for free and enslaved professionals. The distinction is a widespread **cultural convention**, not mandated clothing or a statutory costume category.
+- **Presentation Dress:** Clean and composed professor-style attire for lectures, court, examinations and formal audiences; may include academic coats, fitted waistcoats, short skirts/petticoats, spectacles, polished instruments and appropriate Orb interfaces. It is not restricted to rich Kobolds.
+- **Demonstration Dress:** Functional worn, repaired or scorched workwear appropriate for live invention demonstrations, practical examinations, competitions and laboratory work. Genuine work wear may be respected, but artificially inflicted damage does not signify expertise; safety and useful tools still matter.
+- **Working Coat:** Familiar patches, sleeves and custom pockets can give an engineer's older coat personal and technical value beyond its price; even a wealthy free inventor may favor one.
+- **Proud Tool:** Important tools or personal inventions may be displayed ceremonially in Presentation Dress, or used as actual working implements in Demonstration Dress. Decorative patron gifts such as golden replicas are possible, **not required** or proof of skill.
+- **Class and autonomy:** Owner-maintained uniforms and Naga expectations may clash with free Kobold informality. The difference is rooted in clothing choice and control, not innate competence or a foolproof legal-status indicator.
+- **Owning file:** `27_Kobold_Imperial_Fashion.md`; index, visual guide and Imperial Gazetteer cross-referenced. **Still PROPOSAL:** formalized Academic Gala festivals, rigid tool-wearing etiquette, official patch rankings and prescribed professor uniforms. No numeric mechanics, status rules or eyesight changes.
+
+
 ## November 6, 2026 — Kobold fashion, eyesight, and professional independence (LATEST)
 
 - **Approved author clarification:** Kobold dress remains practical even for prestigious household specialists: mechanic-like and professor-like garments, notably petticoats. Tailored coats and scholarly accessories are compatible design examples, not a mandatory uniform. Established utility belts, goggles, fitted lab coats, Orb interfaces and restrained leather/latex remain valid.
 - **Racial biology:** Kobold eyes generally have weak long-distance vision as cave adaptations; spectacles are notably common in casual dress. Kobolds imprinted onto sharp-sighted races such as Corvyn can be exceptions. **UNRESOLVED:** visual ranges, heredity/physiological mechanism of imprint exceptions, any stat or combat effect. No new numerical racial penalties or imprint-derived skill grants.
 - **Freedom and clothing:** Free Kobold engineers often wear damaged, burnt, torn, patched or worn equipment and lab coats, without masters maintaining uniform policies. Enslaved high-skill household specialists may wear neat, maintained technical/academic clothing. These are tendencies, not absolute legal-status tests.
-- **Approved preceding direction:** Technical craftsmanship and personally cherished tools may serve as ornament and prestige; no universal tool ceremony or dress regulation implied. Separate formal-gala, professor wardrobe details, workshop etiquette and presentation/demonstration proposals remain **NOT YET CANON**.
+- **Approved preceding direction:** Technical craftsmanship and personally cherished tools may serve as ornament and prestige; no universal tool ceremony or dress regulation implied. **Historical status:** A later explicit approval (above) establishes Presentation/Demonstration Dress, the Working Coat, and personal tool display as canon. Formalized gala institutions, mandated outfits, strict tool etiquette and patch rankings remain proposals.
 - **Owning reference:** `27_Kobold_Imperial_Fashion.md`, with relevant cross-references in `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`, `25_Imperial_Collar_Culture_and_Restraints.md`.
 
 
