@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved Tidekin Imperial clothing
+
+Depict Tidekin in **close-fitting, aquatic, swimmer-friendly clothing**; **bikini-style tops are very common in casual wear**. Brief skirts, short jackets, sleeveless or fitted tops, quick-drying fabrics and removable social layers are appropriate. Kin-knots are valued Raft-linked keepsakes and may decorate wrists, waist and garments. Free Tidekin favor colorful individual expression, while Saltbound outfits accommodate aquatic labor and the approved streamlined two-ring Harborband. Preserve small otterfolk anatomy and practical water movement; no required specific accessory colors or fabrics. Owning reference: `29_Tidekin_Imperial_Fashion.md`; individual artwork requires approval.
+
+
 ### November 6, 2026 — Approved Kobold Presentation and Demonstration Dress
 
 **Presentation Dress** is clean, tailored, professor-like attire with optional petticoats, spectacles and commemorative tools for formal audiences. **Demonstration Dress** emphasizes authentic practical workwear: modified, patched, scorched or worn laboratory coats, useful tools and appropriate safety equipment. The cherished **Working Coat** may retain years of custom repairs; a **Proud Tool** can be symbolic in formal dress and functional in working dress. These are flexible cultural conventions, not uniform specifications. Do not depict false wear as an automatic skill or status badge. Preserve ordinary Kobold scale and established Orb Collar/bracer distinctions. Full text: `27_Kobold_Imperial_Fashion.md`.
