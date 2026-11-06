@@ -1,5 +1,14 @@
 # Mystaria — Other Racial Crafts and Special Magic
 
+## November 6, 2026 — Kobold Orbcraft direct interfaces (CANON)
+
+Computational **Orbs** process encoded information and **Cipherlight**. **Magic Mirrors** are required to convert visual pictures **into Cipherlight and vice versa**. Both compatible Orbs and Magic Mirrors can issue controls to Kobold machinery. Kobolds capable of Orbcraft can directly interpret and manipulate the stream from an Orb **without** a Mirror showing a picture or text screen; the stream is meaningful to their minds.
+
+The approved **Orb Collar** is primarily an engineering tool, not merely an ornament: a smooth metal neckband with **one central colored orb** and **no visible rings, locks, buckles or clamps**. Manipulating that orb with paw gestures creates a small aurora of dense data. An ungifted person staring straight at that localized display experiences a soft headache, whereas an Orbcrafter perceives rich information far beyond a static image. Technical Kobolds commonly carry or wear an Orb; free Kobolds especially favor Orb **bracers** instead of collars.
+
+Extremely intense **Coilnet Rainbows** can still strain even the gifted, while the old warning against ordinary direct Cipherlight exposure continues to apply to ungifted observers. No exact visual exposure thresholds, Orbcraft skill ranks, SP costs, or new equipment-power costs have been established. The special retinal calibration for **Mindprism** is unchanged. See `18_The_Gilded_Coil_Imperial_Gazetteer.md` and `25_Imperial_Collar_Culture_and_Restraints.md`.
+
+
 **Authority:** Existing lore from the November 1 master compendium, with later general Skill Point schedule and source-status markings. **Assembled:** 2026-11-03.
 
 ## General Craft SP schedule — current baseline
