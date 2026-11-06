@@ -323,3 +323,19 @@ See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve
 **Command Point interpretation (APPROVED only as far as stated):** CP measures controlled formation capacity, not bonus combat actions. The user explicitly approved **+1 CP reinforcement cost**, **1 CP per 4 Windlings** and the **4-construct standard**. The full Cogmarshal CP rank progression, baseline non-Windling squad costs, Command Loom quality effects and range/MP upkeep are not yet approved; do not silently adopt earlier sample tables.
 
 **Final Smithcraft docket:** Develop clockwork prosthetics as one of the final crafting systems before declaring Centaur Smithcraft complete.
+
+## November 6, 2026 — Approved Cogmarshal Command Point capacity (LATEST)
+
+**CANON:** A Cogmarshal operating a **mandatory compatible functioning Cogsong Command Loom** has Command Point (CP) capacity according to their purchased Cogmarshal rank:
+
+| Cogmarshal rank | Maximum CP | Maximum Windlings if all CP allocated to them |
+|---|---:|---:|
+| I | **2** | 8 |
+| II | **4** | 16 |
+| III | **6** | 24 |
+| IV | **8** | 32 |
+| V | **12** | 48 |
+
+This **explicitly approves the formerly proposed 2/4/6/8/12 capacity progression**, superseding the earlier statement that these were unapproved. It **does not restore optional Looms or a native no-Loom CP pool**. CP is a capacity for controlled machines/formations, **not bonus actions, attacks or MP**. The approved Windling rate remains **4 Windlings per CP**, with no independent attack per Windling. An ordinary homogeneous squad is four machines; reinforcing it to five through eight commits **+1 CP**, and each new attack still requires a new meaningful command action. Other machine types' baseline CP costs, Cogsong range/latency, MP upkeep and detailed Windling combat effects remain **UNAPPROVED**.
+
+**Rank prerequisites and SP costs are unchanged:** Cogmarshal remains within the approved five-rank Anvilcant progression, **5 SP per rank**, with established level gates 1/10/25/50/80. A higher Loom grade never substitutes for missing Cogmarshal training. Existing Loom Gem prices remain **12/28/55/90/140**.
