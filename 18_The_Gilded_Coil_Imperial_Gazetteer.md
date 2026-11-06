@@ -1,5 +1,9 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Approved Naga fashion and chains of ancestral memory
+
+**Naga fashion:** Everyday and court dress use short dancer-like silks, prominent jewelry and revealing but socially ordinary silhouettes. Ornamental, often extravagantly jeweled, impractical chains and manacles mark status and recall the Naga's former Serpentari enslavement; Matriarchs customarily wear circlets (even poor Matriarchs use copper), though **not by law**. Ritual dress deliberately resembles ancient servitude more closely, while **actual binding is exceptional** and typically a zealot's or abolitionist protester's conspicuous statement, not a required observance. Status symbols are interpreted differently by conservative Coils and Unbound Daughters. Detailed owning reference: `26_Imperial_Fashion_and_Dress.md`. Existing mandatory collars for enslaved peoples are separate from voluntary Naga ornaments.
+
 ## November 6, 2026 — Approved Imperial collar culture, Orbcraft interface, and magical collar distinctions
 
 **Imperial philosophy:** Naga justify slavery as a structure of **order and hierarchy**, distinct from Thornguard protection-of-the-weak paternalism and Vren shameless exploitation for power. See the initial world overview in `01_World_and_Shimmer.md` and the owning collar dossier `25_Imperial_Collar_Culture_and_Restraints.md`.
