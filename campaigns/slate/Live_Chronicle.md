@@ -24,7 +24,10 @@
 - Neri greeted Lillia and Valerious: “Well, look what the current dragged in. A fox with good taste and a bunny with absolutely terrible judgment.”
 - Lillia was surprised that the otter could speak, became embarrassed about her lack of clothing, insisted that she had excellent judgment, and argued that cute creatures should be friendly to one another.
 - Neri identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
-- **Unresolved:** Lillia has not yet responded to the blanket-related offer in the latest established RP exchange. Do not record the blanket as received, or the quest as advanced/completed, without player action and an established outcome.
+- **Resolved interaction:** Lillia took the offered woolen blanket and wrapped the injured Valerious in it rather than using it herself. She nuzzled him, praised Neri's paws, playfully suggested Neri show more fur, and asked whether Neri needed help. Lillia remains cold and inadequately dressed. The blanket is now with Valerious, not Lillia.
+- **Latest Neri response:** Neri playfully accepted the compliment about her paws, noted that the blanket was intended for Lillia, and appreciated Lillia's kindness toward Valerious. Neri hinted that she might need help but prioritized finding Lillia proper clothing. She called to Tavi to ask whether they had bunny-sized clothing aboard that did not smell of fish.
+- **Unresolved:** Tavi has not answered; no clothes have been provided yet. Neri has not explained what help she might need. **Warmth for Two remains active**; do not record completion merely because Valerious received a blanket.
+- **DM-approved narration correction:** Neri's prior scene dialogue is the user's edited version, which includes Neri's ornate paw, a gold ring, and expressive banter. Slate's latest Lillia post and the reply above take precedence over earlier summarized dialogue.
 
 ## Confirmed Tidekin smuggler crew (DM canon)
 
