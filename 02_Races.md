@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## Approved racial naming traditions — November 5, 2026
+
+The author approved **all 15 naming conventions and 450 example names**. The owning reference is `24_Racial_Naming_Conventions_and_Namebook.md`; consult it when naming NPCs or Heroes. The traditions cover Naga, Kobolds, Moontouched, Bloomkin, Thornguard, Tidekin, Duskpaws, Vren, Corvyn, Driders, Untouched Serpentari, Drakyn, Centaurs, Firstshaped and Nymbrin. **Firstshaped use the naming customs of their parent race**, not a separate race-specific language. Naga syllable inheritance is flexible; Kobolds have birth names before Devotion; Corvyn have birth names before Ink Names. Approved examples are reusable name patterns, not additional established characters or new racial mechanics.
+
+
 **Authority:** CANON, with overrides noted. **Assembled:** 2026-11-03.  
 **Source basis:** earlier master compendium, combined with explicitly approved later descriptions of Drakyn, Centaurs, and Corvyn anatomy.
 
