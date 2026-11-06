@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Approved slavery philosophies, Imperial collar culture and Orb interfaces — November 6, 2026
+
+**Player-facing world principle:** Naga enslave for **order/hierarchy**, Thornguard for **enforced protection of the weak**, and Vren for **shameless exploitation and increased personal power**. Start with `01_World_and_Shimmer.md`; the new owning reference `25_Imperial_Collar_Culture_and_Restraints.md` consolidates the approved visual/racial collar decisions, the Duskpaw **open-lock emancipation** symbol, Tidekin two-ring Harborband classification, Kobold direct Cipherlight Orb interfaces, and the three specialized expensive Imperial magical collars. **Censure Collar / Censureband is a proposed name only**, and magical collar numerical mechanics are unresolved. The Imperial user-approved cultural defaults are mixed public/official identification, class-dependent ornament, and limited ceremonial/security silencing. See `08_Other_Crafts.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`, `11_Visual_Style_Guide.md`, and `10_Canon_Changelog.md`.
+
+
 ## Approved racial naming conventions and 450-name library — November 5, 2026
 
 **CANON:** [`24_Racial_Naming_Conventions_and_Namebook.md`](24_Racial_Naming_Conventions_and_Namebook.md) is the controlling reference for approved naming conventions and **30 common-name examples each for 15 groups (450 total)**: Naga, Kobolds, Moontouched, Bloomkin, Thornguard, Tidekin, Duskpaws, Vren, Corvyn, Driders, Untouched Serpentari, Drakyn, Centaurs, Firstshaped and Nymbrin. Naga inherit maternal syllables **flexibly**; Kobolds retain birth names before First Devotion; Corvyn retain birth names before Ink Names. Names are reusable cultural examples, not 450 established NPCs. Follow the owning dossier for rules on lineage, titles, earned names and Firstshaped parent-race identity. `12_Languages_and_Linguistic_Customs.md` governs speech and language; `02_Races.md` governs racial identity.
