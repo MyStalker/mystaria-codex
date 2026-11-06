@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Kobold scholar/engineer fashion and visual scale (CANON)
+
+Kobold fashion remains practical even for prestigious household specialists: mechanic and professor silhouettes, petticoats, functional technical apparel and frequent spectacles (especially casual wear). Kobolds have poor natural distance vision adapted for caves, with possible exceptions among Corvyn-imprinted Kobolds, but no fixed visual acuity mechanic. Free Kobolds often have torn, scorched, stained or repeatedly patched lab coats when unconstrained by masters' uniform policies. Enslaved household specialists can be sharply maintained. Preserve **small Kobold stature**; earlier generated tall-looking Kobold fashion examples received only conditional feedback on clothing, not anatomy approval. See `27_Kobold_Imperial_Fashion.md`; new images require separate approval.
+
+
 ### November 6, 2026 — Approved Naga fashion (The Silks and Chains of the Eternal Coil)
 
 **Naga design canon:** Short silk dancer-style tops and hip drapes with exposed shoulders/back/midriff; ornaments and fine metalwork, rather than excessive fabric, express aristocratic wealth. **Ornamental chains and manacles** (light, heavy, lavishly jeweled and deliberately impractical) memorialize ancestral Serpentari-era enslavement as modern status symbols, not contemporary working restraints. **Matriarchs are customarily circleted**, even poor Matriarchs with copper, but the tradition is not a legal requirement. Ritual dress much more explicitly evokes historic bondage; **literal self-binding is exceptional**, chiefly as zealot symbolism or abolitionist protest. Do not impose generic harness motifs as the Naga's defining fashion language. Full owning reference: `26_Imperial_Fashion_and_Dress.md`. Separate image approval remains required.

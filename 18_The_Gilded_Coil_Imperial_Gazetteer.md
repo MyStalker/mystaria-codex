@@ -1,5 +1,9 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Approved Kobold scholarly and technical fashion
+
+Prestigious Kobold household specialists retain practical engineer or professor wardrobes, sometimes including petticoats and scholarly accessories rather than purely aristocratic finery. Spectacles are widespread in casual Kobold fashion: Kobold natural eyesight is poorly adapted to long distances due to ancestral cave habitats, with some exceptions for individuals imprinted upon keen-sighted races like Corvyn. Free Kobold engineers often neglect appearances, keeping torn, scorched or patched coats when no master maintains uniform policies. These are non-universal cultural tendencies; no numeric sight or imprint effects approved. See `27_Kobold_Imperial_Fashion.md`.
+
 ## November 6, 2026 — Approved Naga fashion and chains of ancestral memory
 
 **Naga fashion:** Everyday and court dress use short dancer-like silks, prominent jewelry and revealing but socially ordinary silhouettes. Ornamental, often extravagantly jeweled, impractical chains and manacles mark status and recall the Naga's former Serpentari enslavement; Matriarchs customarily wear circlets (even poor Matriarchs use copper), though **not by law**. Ritual dress deliberately resembles ancient servitude more closely, while **actual binding is exceptional** and typically a zealot's or abolitionist protester's conspicuous statement, not a required observance. Status symbols are interpreted differently by conservative Coils and Unbound Daughters. Detailed owning reference: `26_Imperial_Fashion_and_Dress.md`. Existing mandatory collars for enslaved peoples are separate from voluntary Naga ornaments.

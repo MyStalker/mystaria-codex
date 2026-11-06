@@ -1,5 +1,9 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Kobold long-distance eyesight and professional attire (CANON)
+
+Kobolds naturally see poorly at a distance because their eyes evolved for caves, where far vision was less essential. Spectacles are very common, especially with casual dress. Kobolds imprinted onto keen-eyed races (e.g. Corvyn) may be exceptions; quantitative visual effects and imprint mechanisms are **UNRESOLVED**, and no new attribute penalty or bonus is established. Even highly respected household specialists dress practically as engineers or professors; petticoats, technical coats and scholarly wear are principal examples. Free Kobold engineers often neglect uniform polish in favor of experimentation and wear torn, burnt and repaired coats, unlike the typically regulated attire of enslaved specialists. See `27_Kobold_Imperial_Fashion.md`.
+
 ## November 6, 2026 — Approved Naga fashion and matriarchal adornment
 
 Modern Naga wear short dancer-like silks and heavy jewelry, notably optional impractical chains and manacles remembering their ancestors' Serpentari bondage. A Matriarch customarily wears a circlet, even copper if impoverished; **this is social custom, not law**. Formal ritual attire more strongly evokes historical enslavement, but actual self-binding remains an exceptional zealot or abolitionist statement. Naga dress varies by class, profession and city, and does not alter racial traits, magical Crafts or legal status. Full details in `26_Imperial_Fashion_and_Dress.md`.

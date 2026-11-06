@@ -35,6 +35,10 @@ Each race adapts the regional language to its anatomy and tradition. The legal d
 - **Scale Register:** Every enslaved person in the Gilded Coil wears an identification collar, typically with owning Coil insignia and a Scale Register-recognized mark. Collars are not automatically sophisticated magical restraints.
 - **Regional custom and racial fashion do not automatically imply enslavement** for any particular individual.
 
+## Kobold dress cross-reference — CANON
+
+`27_Kobold_Imperial_Fashion.md` governs approved Kobold professional and casual clothes: practical professor/mechanic wear even in prestigious households, petticoats, common spectacles, cave-adapted poor long-distance vision with possible Corvyn-imprinted exceptions, and the often torn/scorched coats of free independent engineers. These customs do not change Orb Collar hardware, mandatory identification or special restraint rules below.
+
 ## Racial collar decisions — CANON visual direction
 
 - **Kobolds:** Simple smooth metal band with **one colored central orb**, no exposed rings, clamps, buckles, or locks. Unlike decorative jewelry alone, orb collars are primarily usable **tools**. Technical professionals generally keep an orb on their person; **free Kobolds especially favor orb-bearing bracers**. Kobold style is modern fantasy laboratory wear, fitted coats, utility harnesses and restrained use of leather/latex accessories; the user's supplied red Kobold engineer image is a principal fashion reference, though not embedded here.
