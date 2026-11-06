@@ -1422,3 +1422,7 @@ Nymbrin speech casually calls a kingdom's debt its **tab**, jobs **gigs**, and i
 ## November 6, 2026 — Cogsong (APPROVED NAME)
 
 **Cogsong** is the approved proper name for Centaur clockwork's mechanically encoded, music-box-like acoustic form of Starsong. It is transmitted by a **mandatory Command Loom** and cannot be spoken as a valid command by an unaided living creature, including Starspawn. Unlike Kobold Cipherlight, Cogsong relies on sound and suffers signal attenuation, environmental masking, decoding delays and acoustic obstructions. Silent, Town, Battle and War remain the named signal conditions, with exact range and latency modifiers UNAPPROVED. Prior proposed names Cogchant, Clockcant, Brassong and Anvilverse are superseded; they are NOT alternative canonical names. Do not conflate Cogsong with ordinary spoken Starsong or override established Speaking-in-Colors conventions.
+
+## November 6, 2026 — Windling acoustic weapon and Cogsong coexistence
+
+Windlings may be equipped with a built-in **sonic music box** whose harmful audible frequencies are designed **not to interfere with Cogsong's valid command signaling**. This is a distinct sonic weapon, not a replacement language or a living creature speaking Cogsong. It may damage biological hearing or, after sustained exposure, a clockwork machine's Cogsong acoustic receiver (microphone). Its exact frequencies, encoding, protective measures, range and mechanical severity are unresolved. The command protocol's proper name remains **Cogsong**.
