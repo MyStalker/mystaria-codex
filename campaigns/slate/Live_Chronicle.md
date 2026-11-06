@@ -19,12 +19,28 @@
 - Lillia is cold and inadequately clothed.
 - Lillia previously purchased a frayed treasure map for 3 Gems. Four level-2 encounters (one nightfox and three wispfoxes) were awarded 1 Gem each by campaign ruling; ledger balance after the map purchase is 1 Gem.
 
-## Current RP exchange — Nerissia
+## Current RP exchange — Neri “Wrong-Way” Reedwake
 
-- Nerissia greeted Lillia and Valerious: “Well, look what the current dragged in. A fox with good taste and a bunny with absolutely terrible judgment.”
+- Neri greeted Lillia and Valerious: “Well, look what the current dragged in. A fox with good taste and a bunny with absolutely terrible judgment.”
 - Lillia was surprised that the otter could speak, became embarrassed about her lack of clothing, insisted that she had excellent judgment, and argued that cute creatures should be friendly to one another.
-- Nerissia identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
+- Neri identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
 - **Unresolved:** Lillia has not yet responded to the blanket-related offer in the latest established RP exchange. Do not record the blanket as received, or the quest as advanced/completed, without player action and an established outcome.
+
+## Confirmed Tidekin smuggler crew (DM canon)
+
+These names, roles, and personalities are approved for Lillia's campaign. The prior captain name **Nerissia** (also written **Narissa**) is superseded by **Neri “Wrong-Way” Reedwake**. This is a naming retcon only: all of the captain's previous dialogue and actions belong to Neri, with no change to the scene's events.
+
+| Name | Role | Established characterization |
+|---|---|---|
+| **Neri “Wrong-Way” Reedwake** | Captain | Quick-witted, flirtatious, outwardly dismissive of danger; her crew knows she takes it seriously. *Wrong-Way* is an earned story name; Reedwake is her waterway surname. |
+| **Tavi Bluecurrent** | First mate and navigator | Practical; regularly corrects Neri's adventurous interpretations of geography. |
+| **Rikka Driftwater** | Cargo master | Expert smuggler, knowledgeable about cargo values, evasive about suspicious crates. |
+| **Kippi Brooktail** | Deckhand | Young, enthusiastic, frequently in the wrong place at the wrong time. |
+| **Viri Saltcurrent** | Lookout | Quiet, observant, spots trouble early. |
+
+**Continuity boundary:** These crew members are established as NPCs, but Lillia has not necessarily met or learned the names of Tavi, Rikka, Kippi, or Viri. Do not imply introductions or other encounters have happened until played.
+
+**Naming source:** `24_Racial_Naming_Conventions_and_Namebook.md`, approved Tidekin waterway surnames and earned story names.
 
 ## Recording policy
 
