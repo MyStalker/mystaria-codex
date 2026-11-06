@@ -1,5 +1,12 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Approved racial collar and fashion distinctions
+
+**Kobolds** favor modern-fantasy laboratory coats, utility harnesses, restrained leather/latex accessories and functional Orb interfaces. Their slave collars feature a simple smooth metal band and single colored central Orb, without visible locks, clamps, buckles or loops. Free professional Kobolds favor Orb bracers. **Tidekin** Harborbands usually have at least two metal rings around their long necks: upper for valuation and lower for the owner's security/obedience assessment (coding not yet established). **Duskpaws** use the **open lock** as an approved cultural symbol of emancipation.
+
+Selected additional collar designs: **Moontouched** Moonlace; **Bloomkin** Maid's Choker in the Canopy Kingdoms and Petalwork elsewhere; **Corvyn** Hexlace or Inkband for lower-security individuals; **Driders** Verdict Collar; **Untouched Serpentari** Serpent's Circlet; **Drakyn** Conqueror's Band for work slaves or Jewel Torque for respected individuals; **Centaurs** usually padded Herd Torque; **Firstshaped** parent-race-adapted design; **Nymbrin** Botanical Filigree or prestigious Golden Vial. Corvyn witch robes and extravagant hats/hoods are prominent cultural fashion. These are visual traditions, not automatic legal statuses or new mechanical effects. Preserve the approved Centaur Saddle Vow. Full explanation in `25_Imperial_Collar_Culture_and_Restraints.md`.
+
+
 ## Approved racial naming traditions — November 5, 2026
 
 The author approved **all 15 naming conventions and 450 example names**. The owning reference is `24_Racial_Naming_Conventions_and_Namebook.md`; consult it when naming NPCs or Heroes. The traditions cover Naga, Kobolds, Moontouched, Bloomkin, Thornguard, Tidekin, Duskpaws, Vren, Corvyn, Driders, Untouched Serpentari, Drakyn, Centaurs, Firstshaped and Nymbrin. **Firstshaped use the naming customs of their parent race**, not a separate race-specific language. Naga syllable inheritance is flexible; Kobolds have birth names before Devotion; Corvyn have birth names before Ink Names. Approved examples are reusable name patterns, not additional established characters or new racial mechanics.
