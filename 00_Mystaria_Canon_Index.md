@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Tidekin stature and Neri voice update — November 6, 2026
+
+**CANON:** Typical adult Tidekin stature is **around 4 feet**, using the approved Neri “Wrong-Way” Reedwake reference proportions as the visual standard. This replaces the earlier default 4–5-foot summary, without making all Tidekin exactly the same height. See `02_Races.md` and `11_Visual_Style_Guide.md`. In Slate's campaign, Neri calls Lillia **“Babe”** frequently but not constantly, occasionally uses surfer slang, and has a history of surfing; an owned surfboard is **possible, not confirmed**. See `campaigns/slate/Live_Chronicle.md`.
+
 ## Approved Tidekin fashion, swimwear and Kin-knots — November 6, 2026
 
 **CANON:** [`29_Tidekin_Imperial_Fashion.md`](29_Tidekin_Imperial_Fashion.md) owns approved Imperial Tidekin wear: **close-fitting swimmer-friendly clothing, with bikini tops very common in casual wear**, removable decorative layers, aquatic practicality, Raft Kin-knots as sentimental accessories, colorful individualized free-person dress, and occupation-adapted Saltbound attire. Approved existing Harborband design (two separated corrosion-resistant rings; upper value, lower security/obedience) is unchanged; exact coding remains unresolved. This clothing direction creates no magical equipment effect or universal dress regulation.
