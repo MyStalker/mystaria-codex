@@ -4,6 +4,10 @@
 **Purpose:** A stable, modular reference for the Mystaria Lore project, so multiple conversations can retrieve approved mechanics without relying on incomplete chat memory.  
 **Scope:** Lore, divine history, Shimmer, Sorcery, Warlocks, Jestercraft, Drakyn, Centaurs, equipment, racial Crafts, approved linguistics, and visual references.
 
+## Approved Shimmer XP and encounter threat — November 5, 2026
+
+`01_World_and_Shimmer.md` owns the newly approved **XP to next level = L × (L + 1)** curve, where **L is the current Hero level**. Qualifying non-Boss enemy or equivalent patron-approved quest XP is **2 × encounter level × threat modifier**, rounded to whole XP (minimum 1 XP for a qualifying award). **Horde ×0.1** (suggested enemy level ≤50% of Hero), **Minion ×0.4** (>50–80%), **Henchman ×1** (>80–110%), **Elite ×2** (>110–140%), and **Boss** (usually >140%, or specially designated) awards exactly **two full level advances** from the Hero's current XP progress instead of the ordinary formula. The GM assigns actual threat roles based on encounter capability; relative level bands are guidance. A level-1 Hero needs 2 XP, usually one equal-level Henchman; level 100 needs 10,100 XP, approximately **51 equal-level Henchmen**. Existing patron XP qualification, mundane quest limitations, stat growth and SP costs remain unchanged. No numeric anti-farming penalty or party split is approved.
+
 ## Approved Drider anatomy revision — November 4, 2026
 
 Driders have dark skin reminiscent of a drow elf, pointed ears, **two arms**, and **six long spider-like legs** supporting an enormous arachnid lower body. They have **four solid-color eyes with no pupils**; eye color varies between individuals. Their long legs and imposing bodies make them **one of Mystaria's largest mortal races**. `02_Races.md` owns the revised description; `01_World_and_Shimmer.md` removes the obsolete Four-Arm Coordination benefit, and `11_Visual_Style_Guide.md` records the illustration requirements. Earlier four-armed Drider references are superseded. This ruling does not revise Arrest's own anatomy or establish numerical racial stat changes.
