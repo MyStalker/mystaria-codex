@@ -15,6 +15,10 @@
 
 These are the prevailing institutional rationales, not universal beliefs held by every individual or moral endorsements. Regional and individual dissent remain possible. Existing Thornguard/Bloomkin, Naga/Kobold, and Vren institutions are not replaced.
 
+## Related Naga fashion and historical chains — CANON
+
+The detailed approved Naga wardrobe and ritual reference is `26_Imperial_Fashion_and_Dress.md`: short silk, lavish jewelry, voluntary and impractical historical manacle/chain ornamentation, customary (not legally mandatory) Matriarch circlets, and exceptional rather than ordinary literal self-binding at ceremonies. These chosen Naga accessories must not be confused with the legally mandated identification collars of enslaved people or the specialized Mirror, Trance and Coilsting restraints described here. Unbound Daughters may criticize the symbolism of chains amid ongoing slavery.
+
 ## Approved regional collar aesthetic — CANON
 
 - **Naga Imperium:** Precisely manufactured; polished and hierarchical; formal insignia and registration when appropriate.
