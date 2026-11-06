@@ -27,7 +27,7 @@ These are prevailing social rationales, not moral approvals or mandatory persona
 - The old compendium sometimes says **Ability Points**; check newer Craft references for the actual **Skill Point** economy rather than assuming interchangeable currencies.
 - **Natural MP:** for ordinarily mana-generating races, use the floor of **revised** effective END, subject to affinity and Soul Strain; **this intentionally increases early MP**. **Moontouched have 0 natural MP**; **Drakyn have 0 natural MP** and do not restore it through rest. Neither rule is overridden by stat growth.
 - **Warlock handloads and channel limits:** see `04_Warlock_Manacraft.md`. Sorcery and racial Crafts have different mana mechanics; do not interchange them.
-- **Kobold starting stats (revised November 5, 2026):** Base **STR 12, DEX 18, END 13, INT 20, SPD 17**; racial modifiers **STR −10%, DEX +10%, INT +20%**. Effective start **STR 10.8, DEX 19.8, END 13, INT 24, SPD 17** (total 84.6). `02_Races.md` owns this racial sheet; the larger racial table below does not include Kobolds.
+- **Kobold starting stats (latest racial override November 6, 2026):** Base **STR 12, DEX 18, END 13, INT 20, SPD 17**; racial modifiers **STR −25%, DEX +25%, INT +25%**. Effective start **STR 9, DEX 22.5, END 13, INT 25, SPD 17** (total 86.5). `02_Races.md` owns this racial sheet; the larger racial table below does not include Kobolds.
 
 ## Source-derived world and divine canon
 
@@ -385,7 +385,7 @@ Racial percentage modifiers apply to the base attribute, including all subsequen
 
 **Effective Attribute = max(1, Base Attribute × Racial Multiplier)**
 
-For example, a Thornguard with **18** new base Strength and a +20% multiplier possesses **21.6** effective Strength. Raising the base Strength to 19 produces **22.8** effective Strength.
+For example, a Thornguard with **18** new base Strength and a **+25%** multiplier possesses **22.5** effective Strength. Raising the base Strength to 19 produces **23.75** effective Strength.
 
 Effective attributes retain decimal values. Milestones use the final modified value.
 
@@ -416,20 +416,20 @@ Attributes determine capability, while anatomical differences still influence re
 
 #### Permanent racial multipliers
 
-These modifiers continue applying throughout Hero progression.
+**LATEST November 6, 2026 approval:** All permanent racial attribute modifiers must be **integer multiples of 25 percentage points**. Existing nonzero modifiers of +10%, +20% or +30% become +25%; existing −10% or −20% become −25% (maintaining affected attributes and modifier signs) unless the author supplies a different explicit correction. **Moontouched instead have SPD +25%, NOT any racial DEX bonus.** The revised multipliers below supersede previous tables and historical examples. These modifiers continue applying throughout Hero progression.
 
 | Race | Attribute modifiers | Effective Starting Total |
 |---|---|---:|
-| Moontouched | DEX +30% | 80.1 |
-| Bloomkin | STR −20%, DEX +10% | 76.4 |
-| Thornguard | STR +20% | 83.6 |
-| Tidekin | DEX +10% | 84.9 |
-| Duskpaws | INT +10% | 82.7 |
-| Naga | END +10% | 85.8 |
-| Vren | STR +10%, SPD +10% | 91.7 |
-| Corvyn | STR −10%, INT +20% | 79.3 |
-| Drider | END +10% | 96.9 |
-| Untouched Serpentari | INT +10% | 86.9 |
+| Moontouched | **SPD +25%** | **80** |
+| Bloomkin | **STR −25%, DEX +25%** | **78.5** |
+| Thornguard | **STR +25%** | **84.5** |
+| Tidekin | **DEX +25%** | **87.75** |
+| Duskpaws | **INT +25%** | **85.25** |
+| Naga | **END +25%** | **88.5** |
+| Vren | **STR +25%, SPD +25%** | **97.25** |
+| Corvyn | **STR −25%, INT +25%** | **78.25** |
+| Drider | **END +25%** | **99.75** |
+| Untouched Serpentari | **INT +25%** | **89.75** |
 
 Multipliers affect only their listed attributes. Through **effective END**, these modifiers now affect ordinary natural MP as explicitly approved; through effective INT they affect spell calculations where the owning formulas specify. They do not independently grant Ability Points, skill ranks, or unrelated racial abilities.
 
@@ -740,3 +740,7 @@ At extraordinary velocities, suitable movement-assisted attacks may gain a **mod
 ## November 5, 2026 — Energy resistance glossary guidance (LATEST)
 
 **Immunity, energy-specific:** In Mystaria's ordinary physical and magical damage vocabulary, describing a creature as 'immune' to a form of heat, cold, lightning or other energy means **near-immune**, not genuinely invincible. Sufficiently extreme Elemental Magnitude or an established effective bypass/weakness may overcome the protection. This is a semantic and design ruling, **not** an invented fixed resistance multiplier, mandatory injury on every hit, or a change to unrelated explicitly absolute spiritual/cosmic protections. Even native-element Drakyn are near-immune, never absolutely impervious. Refer to `06_Drakyn.md`, `09_Equipment_and_Economy.md`, `03_Sorcery.md` and `22_Combat_Endurance_and_Shimmer_Guard.md`. 
+
+## November 6, 2026 — 25%-increment racial modifier correction (LATEST CANON)
+
+The author requires all permanent **racial attribute percentage modifiers** to use **25-percentage-point steps only** (including negative values). Existing affected-stat bonuses/penalties formerly 10%, 20% or 30% are normalized to a single 25% step of the same sign unless explicitly corrected by the author. **Moontouched's true racial bonus is SPD +25%, not DEX +30% or any other DEX modifier. Thornguard is STR +25%, not +20%.** This governs all playable races including Kobolds (STR −25%, DEX +25%, INT +25%) and the pre-existing Centaur STR +25%/SPD +25%. The starting base attributes and approved level-up increments **+2 allocatable per level gained and +1 to every base stat at multiples of 5** are unchanged. Apply modifiers to base attributes after the +10 racial base rebase, and apply equipment attribute bonuses afterwards. Earlier 10/20/30 racial examples are historical and superseded. Follow `10_Canon_Changelog.md` for updated effective totals.
