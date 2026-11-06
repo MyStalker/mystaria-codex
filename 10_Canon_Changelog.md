@@ -1,5 +1,15 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Naga fashion, matriarch circlets and ceremonial chain symbolism (LATEST)
+
+- **Explicit author approval:** Complete *The Silks and Chains of the Eternal Coil* Naga fashion dossier approved with final author clarifications. Imperial sensual attire emphasizes short dancer-like silks, frequently bare shoulders/midriffs, and elaborate jewelry, rather than excessive fabric. Social status is shown through composition and ornament, not skin coverage.
+- **History and adornment:** Modern Naga derive elaborate chains and manacles from the period of their own enslavement under Serpentari. Light or heavy, often lavishly jeweled pieces are deliberately impractical emblems of standing and freedom. The earlier proposed generic harness influence is rejected as a defining Naga style; practical slave restraints and specialized magical collars remain separate.
+- **Matriarchs:** Circlets are essential **cultural expectations**, including copper circlets for poor Matriarchs, **not statutory requirements**. Proposed copper, bronze/brass, silver, gold and gem-set prestige associations are approved as customary and flexible, never official legal grading.
+- **Ceremonies:** More overt historical captivity imagery is approved for ritual dress. Actual self-binding is **exceptional**, chiefly by zealots or abolitionists deliberately making a statement, not a standard rite. Remembrance, succession, ancestral household observances and conservative court practices are cultural traditions with local variation, not mandatory magic or procedures.
+- **Politics:** Different factions may interpret ornaments differently. Traditional Naga celebrate historical emancipation and status while Unbound Daughters may criticize modern slavery and its symbolism. Do not prescribe unanimous views.
+- **Owning full reference:** `26_Imperial_Fashion_and_Dress.md`; cross-references updated in `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`, and `25_Imperial_Collar_Culture_and_Restraints.md`.
+- **Preserved limits:** No armor, stats, magic, costs, universal ceremonial binding, legal jewelry mandates, or mandatory dress codes. Exact historic restraint schematics and prices unresolved; individual artwork requires separate approval.
+
 ## November 6, 2026 — Coilsting Collar name approved (LATEST)
 
 - **Explicit author approval:** **Coilsting Collar** is the approved proper name of the formerly provisionally titled **Shock Collar**, one of the three high-cost Naga Imperial magical restraint collars.
