@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 5, 2026 — Racial naming conventions and 450-name library (APPROVED)
+
+- **Explicit author approval:** All 15 reconciled racial naming traditions and all 30 proposed names per group (450 entries) were approved without requested revisions. The authoritative full list is `24_Racial_Naming_Conventions_and_Namebook.md`.
+- **Naga:** Flexible inherited maternal syllables take precedence, alongside dynastic Coil and public/private names. **Kobolds:** Birth names exist before First Devotion; earned achievement names are reserved for free or accomplished Kobolds, with accomplishment not requiring freedom. **Moontouched:** Chosen adult names. **Bloomkin:** Artisan family names. **Thornguard:** Banner names. **Tidekin:** Primarily waterway surnames, with some story names. **Duskpaws:** Cache names. **Vren:** Bloodline names. **Corvyn:** Birth names and earned Ink Names. **Driders:** Verdict and optional reclaimed names. **Untouched Serpentari:** Ancient lineage and everyday shortened names. **Drakyn:** Hoard titles and ceremonial/common names. **Centaurs:** Forge and herd names. **Firstshaped:** Parent-race naming. **Nymbrin:** Alchemy and trade names.
+- **No new NPCs or institutions:** These are reusable examples, not 450 newly established individuals, court rosters, families, historical events or magical true-name mechanics. Drider scarcity and Centaur demographics remain unchanged. No SP, Craft, race or Shimmer mechanic changes.
+- **Files:** New `24_Racial_Naming_Conventions_and_Namebook.md`; cross-references in `00_Mystaria_Canon_Index.md`, `02_Races.md`, and `12_Languages_and_Linguistic_Customs.md`. This entry records explicit approval and supersedes any implication that the naming draft remains a proposal.
+
+
 **Authority:** This is a revision index, not a new fictional skill tree. **Snapshot date:** November 4, 2026.  
 **Editorial principle:** Latest explicit user approval outranks earlier drafts, source templates, assistant suggestions and outdated compendium passages. A proposal is not canon simply because it appears in a long reply.
 
