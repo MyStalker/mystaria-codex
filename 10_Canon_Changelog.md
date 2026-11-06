@@ -1,5 +1,15 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Tidekin fashion and everyday swimwear approved (LATEST)
+
+- **Explicit author approval:** Approved the full proposed Tidekin Imperial clothing direction (aquatic practicality, Kin-knot adornment, Saltbound workwear, colorful free Tidekin expression, and movement-oriented formal dress), with **close-fitting swimwear** preferred and **bikini-style tops very common in casual clothing**.
+- **Practical silhouette:** Fitted aquatic clothes, short skirts, brief jackets or sleeveless tops, quick-drying/water-suitable materials and manageable fastenings; loose flowing social layers can be removed or secured for swimming.
+- **Kin-knots:** Existing Raft kinship cords may be incorporated into waist cords, bracelets, accessories and garment attachments. Their worth is personal and relational rather than a standardized cash value.
+- **Saltbound and freedom:** Occupation-adapted attire for canal workers, navigators, household attendants and Wakewrights, preserving mobility. Free Tidekin often choose colorful, individualized accessories. Neither outfit cost nor customization is definitive proof of free/enslaved legal standing.
+- **Harborband:** Preserve the existing at-least-two corrosion-resistant neck rings (upper assessed value, lower security/obedience). Specific coding remains **UNRESOLVED**. No magical collar capability or numerical mechanic is added.
+- **Owning file:** `29_Tidekin_Imperial_Fashion.md`; navigational and social/visual cross-references in `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `25_Imperial_Collar_Culture_and_Restraints.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`. No compulsory ceremonies, color codes, new fabrics, item costs or Wakecraft mechanics approved.
+
+
 ## November 6, 2026 — Kobold Presentation and Demonstration Dress approved (LATEST)
 
 - **Explicit author approval:** All six sections of the Kobold **Presentation Dress versus Demonstration Dress** proposal, including the cherished **Working Coat**, the practical-versus-symbolic use of the **Proud Tool**, and their implications for free and enslaved professionals. The distinction is a widespread **cultural convention**, not mandated clothing or a statutory costume category.

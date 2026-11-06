@@ -1,5 +1,9 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Tidekin Imperial fashion (CANON)
+
+Tidekin wear **close-fitting swim-friendly clothing**, with **bikini-style tops very common in casual dress**; optional decorative layers can be removed or secured to permit swimming. The aquatic fashion language prizes maneuverability, colorful personal expression, and cherished Raft **Kin-knots** as accessories. Saltbound attire varies by occupation while retaining the existing at-least-two-ring Harborband (upper assessed value, lower security/obedience). No exact grade codes, magical clothes or game effects are approved. See `29_Tidekin_Imperial_Fashion.md`.
+
 ## November 6, 2026 — Kobold long-distance eyesight and professional attire (CANON)
 
 Kobolds naturally see poorly at a distance because their eyes evolved for caves, where far vision was less essential. Spectacles are very common, especially with casual dress. Kobolds imprinted onto keen-eyed races (e.g. Corvyn) may be exceptions; quantitative visual effects and imprint mechanisms are **UNRESOLVED**, and no new attribute penalty or bonus is established. Even highly respected household specialists dress practically as engineers or professors; petticoats, technical coats and scholarly wear are principal examples. Free Kobold engineers often neglect uniform polish in favor of experimentation and wear torn, burnt and repaired coats, unlike the typically regulated attire of enslaved specialists. See `27_Kobold_Imperial_Fashion.md`.
