@@ -22,53 +22,63 @@ Do not treat any of these *new numerical catalogue proposals* as canon without a
 - Coverage permits only actually reachable enemies in an attack motion. **Line does not grant penetration**, and broad arcs do not multiply Power freely. Exact target counts and Power sharing across different targets are **pending**.
 - Shields and armor ratings / penetration percentages are reserved for the **armor-first-after-shapes** pass, not preempted by this file.
 
+## Author-approved changes in principle; numerical values still REVIEW ONLY
+
+**Main secondary attack:** Weapons may provide a genuine secondary attack with **somewhat lower F than the primary**. The Greatsword's serious secondary is **Piercing / Point (blade thrust)**. Its blunt pommel strike is **not a meaningful heavy-weapon secondary** and must be **no more dangerous than a comparable unarmed strike**, even though the greatsword is massive. Do not evaluate such a pommel strike through the greatsword's Both-stat `A` and heavy F: evaluate an otherwise legal improvised pommel hit using **unarmed-equivalent Power as a ceiling** (unarmed approved F=0.85 with its appropriate STR base). This prevents the Two-Stat sum from secretly raising pommel damage above an ordinary punch. This applies in principle to other mundane pommel/haft/butt strikes unless the constructed head is a purpose-built striking weapon. Explicitly built double-headed weapons may have better secondary techniques once assessed separately.
+
+**Asymmetric handling prerequisites:** **DEX-led melee equipment has a small physical STR floor** to carry, direct and recover its weapon. Compatible equipment-derived STR can satisfy this floor using the effective stat under existing item bonus rules. Both-stat weapons already require a STR and DEX minimum. **Pure STR-led melee weapons are NOT given a reciprocal DEX floor merely for being STR-led**. **STR-led RANGED weapons** should, however, have a small DEX handling requirement when aimed/operated, independently of primary STR scaling; the exact family/weapon minima belong to the future ranged chart. A weapon with Either scaling uses its qualifying STR mode without an additional DEX floor; its DEX-mode demands the stated small Support STR floor. Actual leverage, hand size and anatomy remain relevant.
+
+**NEW UNAPPROVED numeric review defaults:** (a) a purpose-built alternative ordinary strike starts at `F_secondary=0.95*F_primary`, deliberately just a small reduction, rounded in this chart to three decimals; **0.95 is proposed and not yet canon**; (b) proposed DEX-mode STR floors vary from **6–18** by size/reach, shown explicitly in the register, **not approved**; (c) particularly awkward alternate actions and special multiheaded weapon profiles may demand individually tuned F rather than this blanket suggestion. **This is a provisional single-secondary display**, not authorization to delete physically valid further options in future finalization. All primary Fs, prerequisites and per-row coverage assignments remain pending author approval.
+
+
 ## Design interpretation of the proposed numbers
 
 **F is one total attack-rating multiplier for the entire listed shape/mode**. Do **not** multiply F again by a separate global Heavy ×1.30 or Piercing ×0.90, Slashing ×1.10, Blunt ×1.00: those previous numbers are *not* approved, and double counting would distort the formula. To limit escalating quadratic gaps, the proposal keeps most Light F near 1, Medium near 1.1–1.2, Heavy near 1.2–1.35. Larger F is not automatically superior overall: reach, actual attack geometry, stat minima, attributes, timing, room and offhand options matter.
 
 **Stat prerequisites shown are current post-rebase effective attributes**, not pre-rebase racial baseline + combat bonus. For Either, the minimum attaches to the attribute actually used to operate the weapon; do not freely pick a 5 STR character's huge DEX while ignoring the DEX minimum. For Both, **both minimums must be met**; if not, the Both-specific scaling formula is not available, and a separate underqualified-use ruling will be needed. Merely failing a stat minimum is not a license to invoke the better attribute without prerequisites. These requirements are *first-pass calibration only*, not automatic gates for all races, sizes or materials.
 
-The primary attack mode alone defines its intended ordinary coverage. An alternate listed below is possible only if the build has the relevant point/edge/poll/spike; missing components invalidate that mode. Alternate damage form uses the **same proposed shape F as the base starting test** (no invented stacked form multiplier); whether a materially different motion deserves a separate F is open. For point-vs-sweep advantage, use *geometry and later armor pass* rather than adding an unapproved damage-form coefficient.
+The primary attack mode alone defines its intended ordinary coverage. An alternate listed below is possible only if the build has the relevant point/edge/poll/spike; missing components invalidate that mode. **Superseded by the latest author ruling:** a weapon's primary attack and its genuine secondary should not default to identical F. The chart now uses a **proposed** secondary F of 0.95 times the primary pending specific approval; an emergency pommel strike remains capped by appropriate unarmed Power, not secondary F. Further built-in heads retain eligibility for individual-mode calibration. For point-vs-sweep advantage, use *geometry and later armor pass* rather than adding an unapproved damage-form coefficient.
 
 ## Proposed full weapon shape register
 
+**The main chart has separate primary and secondary F fields, a prominent primary Coverage field, and DEX-mode Support STR floor; horizontal scrolling is expected. The secondary coefficients and numerical floors are proposals until user approval.**
 **Main-chart display decision (author-approved):** Keep **Primary coverage** as a distinct prominent column directly beside primary damage form, visible alongside weapon Class, Reach, Scaling and F. Leave the catalogue wide, with horizontal scrolling where necessary, instead of dropping coverage from condensed listings. Each listed alternate attack still specifies its own coverage in the alternate column. Quantitative target counts/angles/ranges remain **UNRESOLVED** and must not be guessed. All per-weapon assignments and proposed F/stat values remain unapproved pending explicit catalogue review.
 
 The `Stat profile` column uses approved STR / DEX / Either / Both labels; **all row values are proposals**. Suffixes "(poll)", "(tip)", "(beak)" etc mean construction-dependent alternates.
 
-| ID | Weapon shape | Class | Reach | Scaling | Proposed F | Primary form | **Primary coverage** | Alternate form / coverage | Minimum stats | Notes |
-|---|---|---|---|---|---:|---|---|---|---|---|
-| L-01 | Dagger | Light | Short | DEX | 1.00 | Piercing | **Point** | Slashing / Narrow | DEX 8 | Grapple and tight-space utility; not exclusive 1.00 baseline |
-| L-02 | Stiletto | Light | Short | DEX | 1.01 | Piercing | **Point** | None | DEX 12 | Focused needle; little area coverage |
-| L-03 | Short knife | Light | Short | Either | 0.97 | Slashing | **Narrow** | Piercing / Point | STR 7 or DEX 7 | Small versatile edge |
-| L-04 | Cestus / knuckle weapon | Light | Short | STR | 1.00 | Blunt | **Narrow** | None | STR 9 | Preserve approved gauntlet F=1.00 reference where relevant |
-| L-05 | Hand axe | Light | Short | STR | 1.05 | Slashing | **Sweep** | Blunt / Narrow (poll) | STR 12 | Small head-heavy cutter; alternate only with a real poll |
-| L-06 | Light pick | Light | Short | STR | 1.05 | Piercing | **Point** | Blunt / Narrow (hammer poll) | STR 12 | Point pressure vs broad-cut weakness |
-| L-07 | Short club | Light | Short | STR | 0.97 | Blunt | **Narrow** | None | STR 8 | Simple impact weapon |
-| L-08 | Sickle | Light | Short | DEX | 1.00 | Slashing | **Narrow** | Piercing / Point (tip) | DEX 12 | Hook geometry contextual, no automatic disarm |
-| M-01 | Arming sword | Medium | Medium | Either | 1.14 | Slashing | **Sweep** | Piercing / Point; Blunt / Narrow (pommel) | STR 15 or DEX 15 | General-purpose cutting blade |
-| M-02 | Longsword | Medium | Medium | Both | 1.10 | Slashing | **Sweep** | Piercing / Point; Blunt / Narrow (hilt) | STR 18 and DEX 18 | Both-stat scaling; alternate grip not extra attack |
-| M-03 | Rapier | Medium | Medium | DEX | 1.13 | Piercing | **Point** | Slashing / Narrow (edged design) | DEX 24 | Strong point-line precision, not broad cutting |
-| M-04 | Sabre | Medium | Medium | DEX | 1.15 | Slashing | **Sweep** | Piercing / Point (usable tip) | DEX 20 | Cut-oriented curved blade |
-| M-05 | Falchion | Medium | Medium | STR | 1.19 | Slashing | **Sweep** | Blunt / Narrow (pommel) | STR 22 | Wide cutting mass balanced by handling |
-| M-06 | Mace / flanged mace | Medium | Medium | STR | 1.17 | Blunt | **Narrow** | Piercing / Point (purpose-built spike) | STR 20 | Flanges do not grant automatic armor bypass |
-| M-07 | Warhammer | Medium | Medium | STR | 1.18 | Blunt | **Narrow** | Piercing / Point (beak) | STR 21 | Beak only when actually present |
-| M-08 | War pick | Medium | Medium | STR | 1.17 | Piercing | **Point** | Blunt / Narrow (hammer face) | STR 22 | Concentrated point |
-| M-09 | Battleaxe | Medium | Medium | STR | 1.20 | Slashing | **Sweep** | Blunt / Narrow (poll) | STR 23 | Handle and leverage matter |
-| M-10 | Short spear | Medium | Medium | Either | 1.12 | Piercing | **Point** | Blunt / Narrow (butt) | STR 15 or DEX 15 | Medium reach; close grapple still needs space |
-| M-11 | Quarterstaff | Medium | Medium | Both | 1.07 | Blunt | **Sweep** | Blunt / Narrow (butt thrust) | STR 13 and DEX 15 | No piercing without a genuine point |
-| H-01 | Greatsword | Heavy | Long | Both | 1.27 | Slashing | **Wide Sweep** | Piercing / Point; Blunt / Narrow (pommel) | STR 35 and DEX 24 | Large arcs require room |
-| H-02 | Zweihander | Heavy | Long | Both | 1.29 | Slashing | **Wide Sweep** | Piercing / Point; Blunt / Narrow (guard) | STR 40 and DEX 28 | Length and grip constrain cramped fights |
-| H-03 | Greataxe | Heavy | Medium | STR | 1.34 | Slashing | **Wide Sweep** | Blunt / Narrow (poll) | STR 39 | Reach Medium despite Heavy mass |
-| H-04 | Maul | Heavy | Medium | STR | 1.32 | Blunt | **Sweep** | None | STR 40 | Extreme blows can exceed ordinary injury states |
-| H-05 | Great hammer | Heavy | Medium | STR | 1.35 | Blunt | **Sweep** | Piercing / Point (spiked side) | STR 42 | Crushing head; spike optional by build |
-| H-06 | Poleaxe | Heavy | Long | Both | 1.26 | Piercing | **Point (top spike)** | Slashing / Sweep (axe); Blunt / Narrow (hammer) | STR 35 and DEX 24 | Three faces only if built with them |
-| H-07 | Halberd | Heavy | Long | Both | 1.25 | Slashing | **Sweep** | Piercing / Point (top spike); Blunt / Narrow (butt) | STR 33 and DEX 25 | Reach control, multiple real heads |
-| H-08 | Glaive | Heavy | Long | Both | 1.24 | Slashing | **Sweep** | Piercing / Point (pointed tip) | STR 30 and DEX 24 | Draw cuts, exposed in grapples |
-| H-09 | Pike | Heavy | Long | Both | 1.20 | Piercing | **Line** | Blunt / Narrow (butt) | STR 28 and DEX 22 | Line is an attack path; not automatic penetration |
-| H-10 | Long spear | Heavy | Long | Either | 1.20 | Piercing | **Point** | Blunt / Narrow (butt) | STR 27 or DEX 27 | Long reach not automatically Wide Sweep |
-| H-11 | Lance | Heavy | Long | STR | 1.28 | Piercing | **Point** | Blunt / Narrow (butt) | STR 36 | Designed for supported charge; mounted charge Power separate |
-| H-12 | Heavy flail | Heavy | Medium | STR | 1.30 | Blunt | **Sweep** | None | STR 42 | Articulation and recovery hazardous, not guaranteed shield bypass |
+| ID | Weapon shape | Class | Reach | Scaling | Proposed Primary F | Primary form | **Primary coverage** | Secondary attack / coverage | **Proposed Secondary F** | Stat minimum | **DEX-mode Support STR floor** | Notes |
+|---|---|---|---|---|---:|---|---|---|---:|---|---:|---|
+| L-01 | Dagger | Light | Short | DEX | 1.00 | Piercing | **Point** | Slashing / Narrow | 0.950 | DEX 8 | 6 | Grapple and tight-space utility; not exclusive 1.00 baseline |
+| L-02 | Stiletto | Light | Short | DEX | 1.01 | Piercing | **Point** | None | — | DEX 12 | 6 | Focused needle; little area coverage |
+| L-03 | Short knife | Light | Short | Either | 0.97 | Slashing | **Narrow** | Piercing / Point | 0.921 | STR 7 or DEX 7 | 6 | Small versatile edge |
+| L-04 | Cestus / knuckle weapon | Light | Short | STR | 1.00 | Blunt | **Narrow** | None | — | STR 9 | — | Preserve approved gauntlet F=1.00 reference where relevant |
+| L-05 | Hand axe | Light | Short | STR | 1.05 | Slashing | **Sweep** | Blunt / Narrow (poll) | 0.997 | STR 12 | — | Small head-heavy cutter; alternate only with a real poll |
+| L-06 | Light pick | Light | Short | STR | 1.05 | Piercing | **Point** | Blunt / Narrow (hammer poll) | 0.997 | STR 12 | — | Point pressure vs broad-cut weakness |
+| L-07 | Short club | Light | Short | STR | 0.97 | Blunt | **Narrow** | None | — | STR 8 | — | Simple impact weapon |
+| L-08 | Sickle | Light | Short | DEX | 1.00 | Slashing | **Narrow** | Piercing / Point (tip) | 0.950 | DEX 12 | 7 | Hook geometry contextual, no automatic disarm |
+| M-01 | Arming sword | Medium | Medium | Either | 1.14 | Slashing | **Sweep** | Piercing / Point | 1.083 | STR 15 or DEX 15 | 10 | General-purpose cutting blade; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (pommel) |
+| M-02 | Longsword | Medium | Medium | Both | 1.10 | Slashing | **Sweep** | Piercing / Point | 1.045 | STR 18 and DEX 18 | — | Both-stat scaling; alternate grip not extra attack; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (hilt) |
+| M-03 | Rapier | Medium | Medium | DEX | 1.13 | Piercing | **Point** | Slashing / Narrow (edged design) | 1.073 | DEX 24 | 10 | Strong point-line precision, not broad cutting |
+| M-04 | Sabre | Medium | Medium | DEX | 1.15 | Slashing | **Sweep** | Piercing / Point (usable tip) | 1.092 | DEX 20 | 12 | Cut-oriented curved blade |
+| M-05 | Falchion | Medium | Medium | STR | 1.19 | Slashing | **Sweep** | Blunt / Narrow (pommel) | 1.130 | STR 22 | — | Wide cutting mass balanced by handling; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| M-06 | Mace / flanged mace | Medium | Medium | STR | 1.17 | Blunt | **Narrow** | Piercing / Point (purpose-built spike) | 1.111 | STR 20 | — | Flanges do not grant automatic armor bypass |
+| M-07 | Warhammer | Medium | Medium | STR | 1.18 | Blunt | **Narrow** | Piercing / Point (beak) | 1.121 | STR 21 | — | Beak only when actually present |
+| M-08 | War pick | Medium | Medium | STR | 1.17 | Piercing | **Point** | Blunt / Narrow (hammer face) | 1.111 | STR 22 | — | Concentrated point |
+| M-09 | Battleaxe | Medium | Medium | STR | 1.20 | Slashing | **Sweep** | Blunt / Narrow (poll) | 1.140 | STR 23 | — | Handle and leverage matter |
+| M-10 | Short spear | Medium | Medium | Either | 1.12 | Piercing | **Point** | Blunt / Narrow (butt) | 1.064 | STR 15 or DEX 15 | 12 | Medium reach; close grapple still needs space; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| M-11 | Quarterstaff | Medium | Medium | Both | 1.07 | Blunt | **Sweep** | Blunt / Narrow (butt thrust) | 1.016 | STR 13 and DEX 15 | — | No piercing without a genuine point; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| H-01 | Greatsword | Heavy | Long | Both | 1.27 | Slashing | **Wide Sweep** | Piercing / Point (blade thrust) | 1.206 | STR 35 and DEX 24 | — | Large arcs require room; pommel/blunt strike is at most unarmed-equivalent and not a full weapon secondary; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (pommel) |
+| H-02 | Zweihander | Heavy | Long | Both | 1.29 | Slashing | **Wide Sweep** | Piercing / Point (blade thrust) | 1.226 | STR 40 and DEX 28 | — | Length and grip constrain cramped fights; pommel/blunt strike is at most unarmed-equivalent and not a full weapon secondary; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (guard) |
+| H-03 | Greataxe | Heavy | Medium | STR | 1.34 | Slashing | **Wide Sweep** | Blunt / Narrow (poll) | 1.273 | STR 39 | — | Reach Medium despite Heavy mass |
+| H-04 | Maul | Heavy | Medium | STR | 1.32 | Blunt | **Sweep** | None | — | STR 40 | — | Extreme blows can exceed ordinary injury states |
+| H-05 | Great hammer | Heavy | Medium | STR | 1.35 | Blunt | **Sweep** | Piercing / Point (spiked side) | 1.282 | STR 42 | — | Crushing head; spike optional by build |
+| H-06 | Poleaxe | Heavy | Long | Both | 1.26 | Piercing | **Point (top spike)** | Slashing / Sweep (axe) | 1.197 | STR 35 and DEX 24 | — | Three faces only if built with them; other physically valid attack modes for later individual F calibration: Blunt / Narrow (hammer) |
+| H-07 | Halberd | Heavy | Long | Both | 1.25 | Slashing | **Sweep** | Piercing / Point (top spike) | 1.188 | STR 33 and DEX 25 | — | Reach control, multiple real heads; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (butt) |
+| H-08 | Glaive | Heavy | Long | Both | 1.24 | Slashing | **Sweep** | Piercing / Point (pointed tip) | 1.178 | STR 30 and DEX 24 | — | Draw cuts, exposed in grapples |
+| H-09 | Pike | Heavy | Long | Both | 1.20 | Piercing | **Line** | Blunt / Narrow (butt) | 1.140 | STR 28 and DEX 22 | — | Line is an attack path; not automatic penetration; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| H-10 | Long spear | Heavy | Long | Either | 1.20 | Piercing | **Point** | Blunt / Narrow (butt) | 1.140 | STR 27 or DEX 27 | 18 | Long reach not automatically Wide Sweep; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| H-11 | Lance | Heavy | Long | STR | 1.28 | Piercing | **Point** | Blunt / Narrow (butt) | 1.216 | STR 36 | — | Designed for supported charge; mounted charge Power separate; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |
+| H-12 | Heavy flail | Heavy | Medium | STR | 1.30 | Blunt | **Sweep** | None | — | STR 42 | — | Articulation and recovery hazardous, not guaranteed shield bypass |
 
 ## Evaluation and mathematical fairness
 
