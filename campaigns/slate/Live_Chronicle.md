@@ -49,6 +49,15 @@ The DM **selected the Emberwrap design** as a potential clothing solution, but *
 
 The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring; laughter; identification as Tidekin; critique of Lillia's clothing; offering a woolen blanket and asking if cute things help one another), followed by **Slate's actual Lillia reply** (admiring Neri's toe beans, carrying injured Valerious, wrapping him in the blanket and nuzzling him; teasing Neri about her fur; asking whether Neri needs help). Both are **confirmed**, overriding Pipkin's earlier suggested wording. The **next Neri reply remains a draft** until the DM sends and returns the edited copy.
 
+
+## Confirmed roleplay handoff — Neri's Emberwrap offer and Lillia's question (November 6, 2026)
+
+**DM-sent Neri post (authoritative):** Neri teased Lillia about her 'premium beans', noticed Lillia giving Valerious the blanket, and called to Tavi for bunny-sized clothes. The scene established visible outfits for Neri (sea-green bikini top, cropped burgundy jacket, black shorts, gold toe ring, turquoise neck knot and two faint parallel bands of flattened fur around her neck), Tavi (broad-shouldered male, sleeveless navy vest, swim shorts, map case, spectacles, unmarked neck), and Fenn (shorter golden-brown male, open orange vest, turquoise shorts, wrist Kin-knots, carrying crates, unmarked neck). An incomplete tooltip described the **Emberwrap**, a short wrap top and flowing skirt, warm despite sparse fabric, with metallic ornamentation whose workings are unknown to Lillia. This supersedes any conflicting earlier draft details.
+
+**Slate's Lillia post (authoritative):** Lillia was grateful for the clothes and **put on the Emberwrap**, finding it comfortable, warm and securely fitted. She hugged Neri tightly but without much force. She noticed and touched the two marks on Neri's neck and asked: **'Did you used to belong to someone? Collars are cute and you are absent one...'** Lillia's description suggests her body is unusually resilient despite low physical strength; no mechanical bonus has been ruled from this observation.
+
+**Confirmed current state:** Lillia now **wears and possesses the Emberwrap**, apparently offered freely; no price or conditions have been asserted. Valerious remains wrapped in the woolen blanket. Neri's past ownership is **unconfirmed** and awaits Neri's response. The quest **Warmth for Two** remains active unless the DM rules otherwise; finding an outfit provides warmth but doesn't automatically fulfill the sharing-with-someone-in-need objective. Neither Tavi nor Fenn has been named aloud to Lillia in the provided RP unless established separately. The SillyTavern bridge setup is paused OOC; it is not a fictional event.
+
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
