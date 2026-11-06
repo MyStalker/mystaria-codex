@@ -7,6 +7,7 @@
 ## Approved Hero Gem wealth, resale and threat rewards — November 5, 2026
 
 `09_Equipment_and_Economy.md` owns the **approved typical-Hero Gem progression**: target equipment purchase-value `W(L) = 3 + 3997 × ((L−1)/99)^2.3` for levels 1–100, from **3 Gems at level 1** to **4,000 Gems in currently owned equipment at level 100**, with a typical Hero replacing their equipment at each quality tier. **30% of lifetime Gem earnings** is the typical consumable allocation; Gem Shops buy back **their previously sold items at 50% of original price**. The reference full-replacement milestones are levels 10/25/50/75/100; expected resale losses total **~1,511 Gems**, yielding **~7,872 lifetime Gems earned** and **~2,362 spent on consumables** by level 100. **Gem threat modifiers match the unchanged canonical XP modifiers**: Horde ×0.1, Minion ×0.4, Henchman ×1, Elite ×2; Bosses receive a special **two-level Gem-budget award** (without changing the existing two-level XP rule). Reference calculations, limits, and open payout rounding details are in the owning file. This is a typical economic target, not an automatic Gem award or item-use level gate.
+**Approved Gem settlement:** Qualifying fractional Gem rewards accrue as unpaid credit until a whole Gem can be issued; **no per-encounter rounding or 1-Gem minimum**. Gem Shops round eligible half-price buybacks **down to whole Gems**; fractional buyback remainders are not banked. The equipment/economy dossier owns examples and details.
 
 ## Approved Shimmer XP and encounter threat — November 5, 2026
 
