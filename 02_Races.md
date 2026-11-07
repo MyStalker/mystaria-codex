@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Duskpaw Lastwear and salvage dress (CANON)
+
+**Lastwear** means clothing visibly associated with its previous wearer's death. Salvaged, memorial and trophy uses are recognized motives, not formal categories. Torn, mixed, repaired and repurposed clothing is exceptionally common in Duskpaw personal fashion, including formalwear, while Caches may exchange garments rich in history. Free Duskpaws may display reclaimed opened locks as emancipation ornaments. **Enslaved Duskpaws, particularly in the Scarlands and Gilded Coil, may be made to wear maintained, regulated occupational uniforms rather than their own salvaged clothes.** Specific uniforms await approval; Nightlock and Fraycraft are unchanged. Details: `32_Duskpaw_Fashion_and_Lastwear.md`.
+
+
 ## November 6, 2026 — Duskpaw Lastwear terminology (CANON)
 
 **Lastwear** is the approved Duskpaw fashion term for clothing **visibly associated with its previous wearer's death**. Its specific social meanings, acceptable signs, provenance and relation to other salvage customs remain under development. The established open-lock emancipation symbol, Nightlock collar, Caches and Hoards are unchanged. See `32_Duskpaw_Fashion_and_Lastwear.md`.
