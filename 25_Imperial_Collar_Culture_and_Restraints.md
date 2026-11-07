@@ -48,6 +48,10 @@ Each race adapts the regional language to its anatomy and tradition. The legal d
 
 `29_Tidekin_Imperial_Fashion.md` owns the approved aquatic clothing customs: close-fitting swimwear, **common bikini-style casual tops**, removable ornamentation, Kin-knots and diverse working/free attire. This clothing does not replace the Harborband's existing distinct upper valuation and lower security/obedience rings or finalize their administrative code.
 
+## Duskpaw Lastwear and compulsory workwear distinction — CANON
+
+`32_Duskpaw_Fashion_and_Lastwear.md` owns approved salvaged, asymmetrical and Lastwear dress customs. Duskpaw slavery in Scarlands and Imperial service can require maintained, identified, occupation-suitable uniforms; personal patchwork preference is not an exemption. The **Nightlock** remains the established Duskpaw collar and the chosen **open lock** continues to symbolize emancipation. Specific occupational uniform silhouettes remain **proposals**, not yet approved as canon.
+
 ## Racial collar decisions — CANON visual direction
 ## Bloomkin Bannerweave fashion and collar distinction — CANON
 

@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Duskpaw salvage and Lastwear clothing (CANON)
+
+Free/self-chosen Duskpaw attire exceptionally often incorporates torn, patched, mismatched, asymmetrical and reclaimed garments, including formal clothing. **Lastwear** visibly recalls the former wearer's death, through surviving real wear or damage, and may be scavenged, memorial or provocative trophy attire. Faux battle damage is commonly ridiculed for wastefulness. Reclaimed open locks can be worn as emancipation symbols, distinct from compulsory Nightlock collars. **Enslaved Duskpaws in the Scarlands or Imperium may be required to wear tidy, identifiable work uniforms rather than their personally preferred free patchwork aesthetic.** No specific Duskpaw uniform shape has yet been approved. See `32_Duskpaw_Fashion_and_Lastwear.md`; keep species anatomy and approved visual style.
+
+
 ### November 6, 2026 — Duskpaw Lastwear terminology (CANON)
 
 **Lastwear** names Duskpaw clothing **visibly associated with its previous wearer's death**. Do not universalize specific wounds, bloodstains, distress patterns, ceremonial symbolism, or legally proven origin: these additional details await approval. The author's preferred direction also emphasizes torn, mixed and reused clothing, but no definitive outfit sheet has been approved. Preserve Duskpaw anatomy, previously approved Nightlock collars and open-lock emancipation symbol. See `32_Duskpaw_Fashion_and_Lastwear.md`.

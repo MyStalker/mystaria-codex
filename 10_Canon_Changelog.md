@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Duskpaw salvage dress and Lastwear expansion approved (LATEST)
+
+- **Explicit approval:** Author accepted the preceding Duskpaw fashion preferences and recommendations, including **Lastwear**. Exceptionally common torn, mismatched, repaired, reused and mixed attire, Cache sharing and heirloom history, patchwork formal outfits, and reclaimed open-lock ornaments are cultural patterns.
+- **Lastwear:** Retain definition as clothing **visibly associated with its former wearer's death**. Salvaged, memorial and trophy Lastwear are **descriptive motives**, not official grades. Real signs can be repaired but remain noticeable; intentional fake battle damage is ordinarily mocked as pretentious waste, though responses vary by person and grief context.
+- **Critical context:** Duskpaws are prevalent in the **Scarlands** and also common in the **Imperium**; enslaved Duskpaws cannot assume autonomy over wardrobe. Owners often demand serviceable and regulated work uniforms, even if a Duskpaw prefers haphazard salvage dress. This does not authorize any particular proposed uniform pattern yet.
+- **Owning reference:** `32_Duskpaw_Fashion_and_Lastwear.md`; index, racial reference, visuals, linguistic note and collar dossier revised. **PROPOSAL:** future named occupational uniform silhouettes and detailed industry variants. No alteration to Nightlock, Fraycraft or the open-lock symbol.
+
+
 ## November 6, 2026 — Lastwear approved as Duskpaw fashion term (LATEST)
 
 - **Explicit author approval:** **Lastwear** is the Duskpaw fashion term for clothing **visibly associated with its previous wearer's death**. The author approved the selected name and precise category definition, not all accompanying cultural possibilities.
