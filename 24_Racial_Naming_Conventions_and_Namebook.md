@@ -1,5 +1,10 @@
 # Mystaria — Approved Racial Naming Conventions and Common Namebook
 
+## November 6, 2026 — Bloomkin heroic epithets supplement existing naming (CANON)
+
+Bloomkin commonly use elaborate, self-awarded heroic **presentation titles** in knightly and aristocratic circles, e.g. “the Hope of the Canopy,” without replacing their approved short personal names and craft-derived family names. Such extravagant introductions are colloquial and expressive, **not a separate legal title system or evidence of the feats claimed**. Their Thornguard partnerships and Bloomkin-led **Bannerweave** are detailed in `31_Bloomkin_Bannerweave_Fashion.md`. The previously approved 30 Bloomkin name examples remain unchanged.
+
+
 **Status:** CANON, explicitly approved by the author November 5, 2026 (all 15 groups and all 450 proposed examples).  
 **Authority:** Latest author approvals; `00_Mystaria_Canon_Index.md`, `10_Canon_Changelog.md`, `02_Races.md`, `12_Languages_and_Linguistic_Customs.md`.  
 **Scope:** Cultural name construction, example name pools and NPC/character naming guidance; **no new mechanical powers or historical NPCs**.
