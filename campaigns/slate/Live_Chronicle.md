@@ -68,6 +68,14 @@ The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring
 
 **Next NPC response:** The assistant's forthcoming continuation is a **draft only**; it is not part of the confirmed chronicle until the DM returns the exact version sent to Slate, followed by Slate's reply.
 
+## Confirmed roleplay handoff — Neri's test of generosity (November 6, 2026)
+
+**DM's actual Neri post:** Neri corrected Lillia's use of "pet" and "otter," emphasized that she and her crew are independent Tidekin, remarked that the Emberwrap was genuine costly Centaur craftsmanship and was worth giving Lillia because Lillia sheltered Valerious. She teased Tavi and Fenn for whispering, hinted that she might need help, and asked Lillia whether she would help a stranger without promise of a monetary reward. This **DM-sent version** is canonical, superseding the assistant's earlier draft.
+
+**Slate's actual Lillia response:** Lillia said she would help without a promised reward, sympathized with Neri's past, and gestured to the two male Tidekin. She joked that being near Neri's cute paws would be reward enough, scratched Valerious between his ears, and explained that she cares about money chiefly for outfits like the Emberwrap or meeting pretty Tidekin. She was openly admiring Neri's paws and happily wagged her tail.
+
+**Current state and pending choices:** Neri has not yet explained the requested favor or named a person in need. Lillia has expressed willingness to help without a fixed payment, **but has not agreed to specific terms or actions**. The Emberwrap remains on Lillia and Valerious remains with her. **Warmth for Two** is active; any mission offered in the next assistant response is a *draft proposal* until explicitly sent by the DM.
+
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
