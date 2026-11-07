@@ -1,5 +1,10 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 6, 2026 — Bloomkin grand introductions and champion epithets (CANON)
+
+Bloomkin in noble and knightly circles enthusiastically introduce themselves with **fanciful and sometimes gloriously inflated heroic epithets**, including squires, Shieldmates and renowned tailors. Most enjoy declaring themselves champions. Illustrations: **“The greatest wielder of the white to have ever lived!”**, **“The Hope of the Canopy!”**, or **“Champion of a Hundred Banners!”** These are contextual, theatrical personal claims and not official ranks, true accomplishments or replacement family names. Their Thornguard partners may feign exasperation while privately finding the performance charming. Bloomkin still speak precisely and pride themselves on real craftsmanship; their bold introductions need not characterize every conversation. Ordinary speech uses **white** instead of the technical `mana`. The `31_Bloomkin_Bannerweave_Fashion.md` dossier owns the paired fashion and titles context, and the approved namebook still owns naming rules.
+
+
 ## Tidekin pirate-flavored slang — November 6, 2026 (CANON)
 
 Tidekin often borrow **pirate and nautical lingo** in everyday banter, especially in playful, theatrical, or silly scenes. **“Parlay”** is an established word in their slang, useful for calling a negotiation, truce, or chance to talk. They may jokingly exclaim **“Arrr!”**, **“Shiver me timbers!”**, and similar old-sailor expressions. This is an expressive cultural habit, **not a requirement that every Tidekin sound like a caricatured pirate**. Usage depends on the speaker and situation; serious or intimate scenes can feature restrained, sincere speech. Existing Tidekin expressions such as “shucking” remain valid alongside the pirate lingo. Neri Reedwake's occasional surfer slang is a compatible, distinctive personal habit.
