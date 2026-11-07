@@ -84,6 +84,10 @@ The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring
 
 **Current state:** The rescue and ravine assistance are **not yet agreed**. The stranded person's location, identity, and situation are pending Neri's answer. Lillia has not crossed the ravine. **Warmth for Two** remains active; do not assume rescue or quest completion. Assistant's next Neri reply is a draft until returned in the next DM-confirmed `Neri:`/`Lillia:` handoff.
 
+## Tidekin speech addition (DM-approved, November 6, 2026)
+
+The Tidekin colloquial swear **“shucking”** is a fairly common alternative to “fucking,” named for shucking oysters, one of their favorite foods. Apply naturally to Neri and her crew as appropriate, without forcing it into every exchange. World-canon authority is the new entry in `12_Languages_and_Linguistic_Customs.md` (separate canon PR until merged).
+
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
