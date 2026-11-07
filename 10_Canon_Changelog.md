@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Duskpaw Latchjack and Lockjack uniform designs approved (LATEST)
+
+- **Explicit author approval:** **Latchjack** is the Duskpaw occupational slave uniform, with a **one-piece jumpsuit/coverall** as its primary silhouette, superseding the earlier jacket-and-hip-apron-only emphasis. In the Naga Imperium, uniforms commonly show wrinkles, backwards caps, very large work gloves, practical pocket/utility arrangements and a rather relaxed industrial look despite an owner's control over clothing. Adult female Duskpaws often leave the upper front partly open for heat and comfort, sometimes exposing cleavage. This is an adult styling tendency, not a legal rule or required state.
+- **Role variants approved in concept:** **Reclaimer** (salvage), **Underworks Hand** (maintenance/sewers), **Hazerunner** (hazards), **Swiftfoot** (courier/logistics), **Storekeeper** (inventory). These labels distinguish outfit directions, not new formal job ranks. Hazard protection must be genuinely functional; a Latchjack does not grant Haze immunity.
+- **Lockjack:** Approved name for a **non-removable-by-wearer punitive Latchjack**, otherwise serving the same work role, with prominent old-fashioned **prison stripes** and commonly **bells** that impede quiet movement. Details of locking, removal, washing, alarms, authorized access, safety and any quantitative stealth rules remain **UNRESOLVED**.
+- **Scarlands distinction:** Vren-administered Duskpaw Latchjacks use **firmer slave harnesses and conspicuous metal collars** emphasizing dominion, unlike relatively polished Imperial workwear. The already-established **Nightlock** remains the Duskpaw collar identity; the exact regional integration and additional hardware effects are unresolved. Do not invent a second distinct collar or numeric restraint rule.
+- **Owner:** `32_Duskpaw_Fashion_and_Lastwear.md`; cross-references in the Canon Index, Races, Visual Style Guide, Imperial Gazetteer and Imperial Collar reference. This supersedes the November 6 earlier entry marking Latchjack occupational silhouettes as merely proposed. Prior Lastwear approvals remain intact.
+
+
 ## November 6, 2026 — Duskpaw salvage dress and Lastwear expansion approved (LATEST)
 
 - **Explicit approval:** Author accepted the preceding Duskpaw fashion preferences and recommendations, including **Lastwear**. Exceptionally common torn, mismatched, repaired, reused and mixed attire, Cache sharing and heirloom history, patchwork formal outfits, and reclaimed open-lock ornaments are cultural patterns.

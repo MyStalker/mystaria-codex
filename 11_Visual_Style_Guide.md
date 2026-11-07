@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved Duskpaw Latchjack and Lockjack uniform silhouettes
+
+**Latchjack** is the signature Duskpaw slave **jumpsuit/coverall**, not a miniature Kobold lab coat: often wrinkled, worn with a backwards cap and oversized work gloves. Feature an angled/diagonal front opening, practical fitted pockets, reinforced work zones and tail accommodation. Adult female Duskpaws commonly wear its upper front partly unfastened for comfort, sometimes revealing cleavage; this is an optional adult styling tendency and must not compromise actually required hazard protection. **Lockjack** uses the same ordinary work silhouette but is punitive and not wearer-removable, with **old-time prisoner stripes** and often **bells** drawing attention and complicating sneaking. Occupational variants: Reclaimer, Underworks Hand, Hazerunner, Swiftfoot, Storekeeper. **Scarlands** versions have firmer slave harnesses and conspicuous metal collars reflecting Vren domination; preserve the existing **Nightlock** identity. Exact lock mechanisms/stealth modifiers unresolved. Full canon in `32_Duskpaw_Fashion_and_Lastwear.md`; artwork still needs approval.
+
+
 ### November 6, 2026 — Duskpaw salvage and Lastwear clothing (CANON)
 
 Free/self-chosen Duskpaw attire exceptionally often incorporates torn, patched, mismatched, asymmetrical and reclaimed garments, including formal clothing. **Lastwear** visibly recalls the former wearer's death, through surviving real wear or damage, and may be scavenged, memorial or provocative trophy attire. Faux battle damage is commonly ridiculed for wastefulness. Reclaimed open locks can be worn as emancipation symbols, distinct from compulsory Nightlock collars. **Enslaved Duskpaws in the Scarlands or Imperium may be required to wear tidy, identifiable work uniforms rather than their personally preferred free patchwork aesthetic.** No specific Duskpaw uniform shape has yet been approved. See `32_Duskpaw_Fashion_and_Lastwear.md`; keep species anatomy and approved visual style.

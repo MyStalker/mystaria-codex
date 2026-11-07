@@ -52,6 +52,10 @@ Each race adapts the regional language to its anatomy and tradition. The legal d
 
 `32_Duskpaw_Fashion_and_Lastwear.md` owns approved salvaged, asymmetrical and Lastwear dress customs. Duskpaw slavery in Scarlands and Imperial service can require maintained, identified, occupation-suitable uniforms; personal patchwork preference is not an exemption. The **Nightlock** remains the established Duskpaw collar and the chosen **open lock** continues to symbolize emancipation. Specific occupational uniform silhouettes remain **proposals**, not yet approved as canon.
 
+## Duskpaw work uniforms, punitive Lockjacks and Scarlands restraints — CANON
+
+Duskpaw outfit canon in `32_Duskpaw_Fashion_and_Lastwear.md`: the **Latchjack** is a jumpsuit-style, occupation-adapted uniform; a **Lockjack** is its **punitive, non-wearer-removable** version with prisoner stripes and commonly stealth-complicating bells, while otherwise retaining the Latchjack's ordinary work function. Scarlands Duskpaw uniforms often add **firmer harnesses and conspicuous metal collars** to communicate Vren mastery. This does **not** replace the approved **Nightlock** Duskpaw collar, redefine the open-lock emancipation symbol, or canonize any locking mechanism, magical power, hardware ratings, removal procedure or numerical stealth penalty. Such details remain **UNRESOLVED**.
+
 ## Racial collar decisions — CANON visual direction
 ## Bloomkin Bannerweave fashion and collar distinction — CANON
 
