@@ -13,3 +13,11 @@ Private-to-the-DM planning notes in the narrative sense; repository access permi
 - Lillia's cold and lack of clothing are immediate narrative concerns and may provide an organic connection to supplies or shelter, if approved by the DM.
 - Do not force the side passages to be the only way across the ravine.
 - Distinguish campaign-established facts from DM plans and unapproved proposals.
+
+## Dangerous-location encounter rolls (DM-approved rule, November 6, 2026)
+- Slate rolls **1d100** for encounter quality while exploring dangerous locales; higher is safer or more positive.
+- Illustrative results: **90+** may yield a treasure hoard; **80** may yield a merchant. These are examples rather than fixed universal outcomes.
+- More dangerous locations require higher rolls for favorable outcomes.
+- In the currently enemy-filled Scarlands caves, **70 is neutral but interesting**, not boring.
+- **Slate's latest roll was 70.** The next encounter should create hurdles and opportunities involving Surrender's quest **Warmth for Two**, not automatically complete it.
+- Encounter design and outcomes are pending DM approval and play, not canonical scene events.
