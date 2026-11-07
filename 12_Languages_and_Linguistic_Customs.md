@@ -1,5 +1,10 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 6, 2026 — Lastwear's common social uses (CANON)
+
+**Lastwear** remains the approved term for clothing visibly associated with the former wearer's death. Duskpaws may wear it as **salvage**, a **memorial** to someone important, or a **trophy** associated with a foe. These are descriptive motives, not necessarily formal categories. Deliberately fake distressing of perfectly usable fabric is commonly mocked as wasteful rather than treated as an automatic religious insult. Individual responses vary. Existing Duskpaw slang and the severity of older insults are unchanged; no new fixed catchphrases are implied.
+
+
 ## November 6, 2026 — Duskpaw Lastwear term (CANON)
 
 **Lastwear** is the approved Duskpaw term for clothing **visibly associated with its previous wearer's death**. It describes a fashion category, not a new curse, slur, sacred title, or legal classification. Other Duskpaw dress customs and expressions remain pending. See `32_Duskpaw_Fashion_and_Lastwear.md`.
