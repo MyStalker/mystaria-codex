@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Approved Bloomkin Bannerweave and Twinmantle
+
+In Thornguard and Bloomkin paired fashion, **Bannerweave** uses **Bloomkin-led, complementary heraldry**: a grand caped knight and a smaller, perfectly tailored squire or Shieldmate whose insignia, trim and colors complete the design rather than duplicate it. **Twinmantle** means especially coordinated outfits. Tiny, grandiose heroic coats, capes and accessories should project **awe**, not generic servile cuteness; heroic legends inspire designs and **purple is revered** among Bloomkin. Preserve 3–4-foot mousefolk vs 5–7-foot ratfolk scale and actual functional outfits, along with unchanged collar conventions. The **First Fitting** is an important tailoring milestone. Owning reference: `31_Bloomkin_Bannerweave_Fashion.md`. Individual art still needs user approval.
+
+
 ### November 6, 2026 — Approved Moontouched fashion cues
 
 In Moontouched casual fashion favor soft **sweaters and socks for warmth**, while **pantyhose are common in formal clothing**. Maid outfits belong to maid employment and maid cafés or similar popular themed hospitality, **not every scene featuring rabbitfolk**. Preserve distinction between free workers and enslaved household staff; attire alone does not prove legal status. Avoid claiming specific pastel palettes, exact lace/bow combinations or ritual costumes are already approved. See `30_Moontouched_Imperial_Fashion.md`.
