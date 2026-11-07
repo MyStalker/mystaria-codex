@@ -1,27 +1,52 @@
-# Duskpaw Fashion — Lastwear
+# Duskpaw Fashion — Salvage, Caches and Lastwear
 
-**Status:** Mixed: the Lastwear name and definition below are **APPROVED CANON** (November 6, 2026); all other fashion concepts are labeled **PROPOSAL**.
-**Authority:** Explicit author naming approval, with Duskpaw race and family background in `02_Races.md`, emancipation symbol in `25_Imperial_Collar_Culture_and_Restraints.md`, and regional appearance guidance in `11_Visual_Style_Guide.md`.
+**Status:** APPROVED CANON — author's November 6, 2026 approval of previously proposed Duskpaw salvage-fashion customs and Lastwear, with new occupational uniform designs explicitly separated as **PROPOSAL**.
+**Owners:** Duskpaw race and Caches (`02_Races.md`); linguistic customs (`12_Languages_and_Linguistic_Customs.md`); Scarlands and Imperial context (`20_Nymbrin_Wetcraft_and_Hexen_Canon.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`); collars and emancipation icon (`25_Imperial_Collar_Culture_and_Restraints.md`).
 
-## Lastwear — CANON
+## I. Practical Salvage and Mixed Clothing — CANON
 
-**Lastwear** is the approved Duskpaw fashion term for **clothing visibly associated with its previous wearer's death**. The identifying idea is the garment's conspicuous connection to the death of someone who wore it before. This is a *fashion term*, not a legal category, religious rank, spell, or gameplay effect.
+Duskpaws hate wasting useful things. **Torn, mismatched, patched, visibly repaired, repurposed and layered clothing is exceptionally common** in Duskpaw self-chosen dress. Deliberate asymmetry and unexpected combinations of fabric, fittings or accessories often express pride in the intelligence of reuse and a garment's accumulated history rather than material poverty. Even relatively wealthy Duskpaws may choose these looks over purchasing matching new outfits.
 
-The author has separately expressed a strong desired Duskpaw direction of abundant torn garments, mixed outfits, and an aversion to wasting useful materials. The precise norms, prevalence, boundaries, and kinds of visible death associations beyond the approved definition remain to be developed. Do not infer that the former wearer must have been killed in a specific way, that every item has proven provenance, or that bloodstains or wounds are mandatory.
+This habit is consistent with their history as forced scavengers, their resourcefulness, and the value their Caches place on small finds. The emphasis is **usefulness and personal choice**, not a universal inability to maintain clean clothes.
 
-**Existing background, not new rulings:** Duskpaws descend from an enslaved scavenger caste, belong to Caches with communal Hoards, and associate the open lock with emancipation. Their own **Nightlock** slave collar remains distinct. This context supports future exploration but does not automatically establish additional clothing traditions.
+**Important correction for institutional contexts:** Enslaved Duskpaws, particularly those in the Scarlands and Naga Imperium, can be compelled to wear standardized, serviceable, visibly regulated uniforms instead of freely assembled salvage clothes. A Duskpaw's personal clothing preferences do **not** override a master's demands; clothing and control of presentation are meaningful distinctions between free dress and enslaved labor. The specific distinctive uniform silhouettes remain **PROPOSAL** in Section VII.
 
-## Further fashion ideas — PROPOSAL, not yet approved
+## II. Lastwear — CANON
 
-The following were proposed during the Lastwear naming discussion, but the author's latest approval named **only Lastwear**. Do not promote these to canon absent later explicit approval:
+**Lastwear** is the established Duskpaw fashion term for **clothing visibly associated with its previous wearer's death**. The association is supposed to be recognizable, not completely disguised or erased. Repairs may stabilize the garment while leaving characteristic signs of its history visible, such as a repaired tear, slash, scorch or other evidence when appropriate to its actual past.
 
-- Treating torn, patched, asymmetric, mismatched and repurposed garments as a widespread fashion norm across all Duskpaw classes, rather than an observed preference or design direction.
-- Specific Lastwear meanings for trophies from enemies, memorial garments from loved ones, or scavenged stranger's clothing.
-- Mandatory preservation of battle damage or stigma against artificially distressed pieces.
-- Cache-wide communal garment-sharing and rules of inheritance, repair, or memorial property.
-- Formal fashion judged by a garment's stories rather than matching fabrics, and popularity of Lastwear in aristocratic imitation.
-- Wearing salvaged open-lock hardware as a distinct widespread accessory tradition beyond the already approved open-lock emancipation symbol.
+The broad cultural practice includes three **descriptive, non-legal** uses rather than three fixed official grades:
 
-## Unresolved
+- **Salvaged Lastwear:** An otherwise useful garment reclaimed after a stranger's or former wearer's death; rejecting it solely for its history can seem wasteful.
+- **Memorial Lastwear:** A garment retained in remembrance of a beloved friend, relative or other important person.
+- **Trophy Lastwear:** A provocative or triumphant piece associated with an enemy, defeated oppressor or adversary; context and wearer intent matter.
 
-The exact customary boundaries of Lastwear, how wearer death is signified or substantiated, attitudes in different regions and Caches, and relationships to ownership or mourning require further author decisions. No equipment statistics, new Fraycraft mechanics, or new collars are established here.
+The three motives can overlap. Wearing Lastwear does not mean every Duskpaw celebrates death or participates in violence, and the clothing is not automatically a sacred object. Some appreciate its value; some cherish the deceased; some make a defiant political statement; some deliberately make others uncomfortable.
+
+An aristocrat who pays to have perfectly good clothing falsely distressed to imitate death-marked Lastwear is more likely to be **mocked for wastefulness and pretension** than to cause universal solemn outrage. Reactions vary by individual and context, especially where genuine bereavement is involved. Manufactured damage is not genuine Lastwear's history.
+
+## III. Caches and Clothing Histories — CANON
+
+Duskpaw Caches already maintain communal **Hoards**. Garments can be shared, traded, gifted, borrowed, repaired, inherited and adapted between Cache members. Old clothes may accumulate alterations and personal histories over years or generations; their wearers may value the story of a garment more than uniformity or its original price. Ownership, gifts and memorial attachments still matter. A communal culture of reuse does **not** license taking cherished memorial clothing or other Cache property without consent.
+
+## IV. Formal Dress — CANON
+
+Duskpaw formal attire does not have to become pristine or match perfectly. Carefully selected asymmetrical garments, elegant items combined with ragged heirlooms, salvage with personal stories, and ingenious repurposing may be judged beautiful or prestigious. A visibly repaired coat can be more significant to its wearer than a new matching garment. The meaning of objects can supersede fabric value, but this is a tendency rather than a universal rule at every court or workplace.
+
+## V. Emancipation and the Open Lock — CANON
+
+**The open lock** is already a recognized Duskpaw emancipation symbol, distinct from a compulsory closed or functional restraint. Some free Duskpaws repurpose broken locks, opened shackles or discarded restraint fittings as chosen fashion accessories. These objects may celebrate liberation or reclaim once-coercive materials. This voluntary adornment must not be confused with the existing **Nightlock** slave collar, whose design and legal function are unchanged.
+
+## VI. Geographic and Social Boundaries
+
+Duskpaws are especially common in the **Scarlands**, and also prominent in the **Naga Imperium**. Free individuals may wear patchwork, Lastwear and Cache-linked finery; enslaved people may be dressed according to their masters' occupational standards even when they would prefer self-chosen salvage styles.
+
+Scarlands precedent includes repaired, weathered and personalized design language, but a regulated uniform can still be tidy and fit for work. Imperial outfits tend toward polished, identifiable manufacture and occupational standardization. These existing regional art principles do not by themselves establish any particular uniform cut or heraldic marking.
+
+## VII. Duskpaw Slave Uniform Directions — PROPOSAL / NOT YET CANON
+
+Under author review: a **distinctive occupational Duskpaw uniform language** that contrasts with free Duskpaw self-chosen patchwork and Kobold lab coats. Candidate roles include salvage sorting and recycling, hazardous cleanup, sewer and infrastructure maintenance, courier and warehouse work, urban retrieval, controlled handling of goods and tools, and specialist surveillance or records work. Scarlands uniforms should be compatible with Haze and industrial or alchemical safety where genuinely required; Imperial uniforms should be more standardized and registered. No fixed silhouette, role assignment, colors, proprietary job names or equipment abilities have been approved yet.
+
+## VIII. Mechanics and Production Limits
+
+This fashion record does not add Fraycraft ranks, skill costs, new restraints, armor protection, immunity to Haze, legal status markers or stat effects. **Protective equipment must actually be suitable to hazards**; a decorative scarf does not substitute for a functional Haze mask. Artist-created garments and illustrations require separate user approval. Historical provenance of individual Lastwear garments depends on the character and story rather than an automatic certification system.
