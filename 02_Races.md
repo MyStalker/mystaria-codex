@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Approved Moontouched casual, formal and occupational fashion
+
+Moontouched commonly wear **sweaters and socks in casual life to stay warm**; **pantyhose are common in formal dress**. Maid uniforms are recognizable occupational wear because Moontouched often serve as maids, but these uniforms are **not their universal everyday wardrobe**. Maid cafés and similar themed hospitality establishments are popular Moontouched cultural venues. No uniform establishes legal slavery status or changes their magic or racial statistics. See `30_Moontouched_Imperial_Fashion.md`.
+
+
 ## November 6, 2026 — Tidekin Imperial fashion (CANON)
 
 Tidekin wear **close-fitting swim-friendly clothing**, with **bikini-style tops very common in casual dress**; optional decorative layers can be removed or secured to permit swimming. The aquatic fashion language prizes maneuverability, colorful personal expression, and cherished Raft **Kin-knots** as accessories. Saltbound attire varies by occupation while retaining the existing at-least-two-ring Harborband (upper assessed value, lower security/obedience). No exact grade codes, magical clothes or game effects are approved. See `29_Tidekin_Imperial_Fashion.md`.
