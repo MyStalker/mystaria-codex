@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Moontouched sweaters, socks, formal hosiery and maid cafés approved (LATEST)
+
+- **Explicit author ruling:** Casual Moontouched clothing commonly includes **sweaters and socks for warmth**. **Pantyhose are common for formal wear**.
+- **Occupational distinction:** Moontouched commonly serve as maids and wear maid costumes when working in that profession or in related themed hospitality. Maid uniforms are **not** ordinary clothing expected in unrelated circumstances. No assumptions about enslaved versus free legal status from outfit alone.
+- **Cultural venues:** **Maid cafés and similar themed hospitality establishments are popular among Moontouched**, with maid attire used in context; no particular venue, menu, price, franchise, or magical rule established.
+- **Owning file:** `30_Moontouched_Imperial_Fashion.md`; references updated in Canon Index, races, Visual Style Guide, Imperial Gazetteer, and collar dossier. Existing Moonlace collar appearance is preserved.
+- **Approval boundary:** Earlier assistant proposals about pastel palettes, exact lace/bow and skirt combinations, ceremonial gifts, Hearth Circle costume customs and universal palettes were not expressly approved and remain **PROPOSAL**. No new cold-resistance penalty or equipment mechanic.
+
+
 ## November 6, 2026 — Tidekin stature and Neri characterization (LATEST)
 
 - **Author-approved racial appearance:** Typical adult Tidekin height is **around 4 feet**, using Neri's approved reference illustration as the proportion guide. The former broad 4–5-foot height characterization is superseded as the default; individuals may vary. No numeric racial mechanic is changed.

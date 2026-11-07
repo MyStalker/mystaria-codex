@@ -20,6 +20,11 @@ These are the prevailing institutional rationales, not universal beliefs held by
 The detailed approved Naga wardrobe and ritual reference is `26_Imperial_Fashion_and_Dress.md`: short silk, lavish jewelry, voluntary and impractical historical manacle/chain ornamentation, customary (not legally mandatory) Matriarch circlets, and exceptional rather than ordinary literal self-binding at ceremonies. These chosen Naga accessories must not be confused with the legally mandated identification collars of enslaved people or the specialized Mirror, Trance and Coilsting restraints described here. Unbound Daughters may criticize the symbolism of chains amid ongoing slavery.
 
 ## Approved regional collar aesthetic — CANON
+## Moontouched clothes and Moonlace distinction — CANON
+
+`30_Moontouched_Imperial_Fashion.md` establishes sweaters and socks for casual warmth, formal pantyhose and maid uniforms used in maid work or popular maid cafés rather than universal everyday attire. These wardrobe customs do not change the approved Moonlace collar or imply that a maid uniform alone identifies an enslaved person.
+
+
 
 - **Naga Imperium:** Precisely manufactured; polished and hierarchical; formal insignia and registration when appropriate.
 - **Scarlands:** Darker, repaired, individualized, worn, with repurposed fittings.
