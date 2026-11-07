@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Bloomkin Bannerweave heroic attire (CANON)
+
+Bloomkin often act as the personal tailors of Thornguard knights, creating complementary **Bannerweave** heraldic outfits for the knight and their own heroic squire or Shieldmate presentation. **Twinmantle** describes especially coordinated pair ensembles; the **First Fitting** is a prized Bloomkin-led artistic milestone. Most Bloomkin in noble/knightly life enthusiastically present themselves as champions with extravagant fanciful titles; Thornguard companions are often secretly endeared. Their fashion seeks to inspire awe, draws on legends and heroes of the gods, and reveres **purple**. Legendary Thornguard may attract competing aspiring Bloomkin Shieldmates. This cultural authority does not remove the Oath of Protection or alter Concordance: Thornguard supply white energy and Bloomkin shape it. See `31_Bloomkin_Bannerweave_Fashion.md`.
+
+
 ## November 6, 2026 — Approved Moontouched casual, formal and occupational fashion
 
 Moontouched commonly wear **sweaters and socks in casual life to stay warm**; **pantyhose are common in formal dress**. Maid uniforms are recognizable occupational wear because Moontouched often serve as maids, but these uniforms are **not their universal everyday wardrobe**. Maid cafés and similar themed hospitality establishments are popular Moontouched cultural venues. No uniform establishes legal slavery status or changes their magic or racial statistics. See `30_Moontouched_Imperial_Fashion.md`.

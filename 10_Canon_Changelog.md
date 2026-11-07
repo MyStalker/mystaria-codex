@@ -1,5 +1,15 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Bloomkin Bannerweave, hero introductions and First Fitting approved (LATEST)
+
+- **Explicit author approval:** **Bannerweave** names the Bloomkin-led shared fashion tradition of Thornguard knights and Bloomkin Shieldmates, using **complementary heraldry** rather than identical miniature outfits. **Twinmantle** denotes particularly synchronized paired presentation. Bloomkin are often their knights' personal tailors; the first coordinated joint wardrobe is the important artistic milestone **First Fitting**.
+- **Aesthetic and personality:** Bloomkin seek to **inspire awe** through theatrical, expertly sewn hero-and-squire attire and revere heroes of the gods and legends. Their romanticized notions of a hero may be naive, but their craft is exceptionally skilled. **Purple** is held in particular reverence; no compulsory palette or added magic.
+- **Speech and social custom:** Fanciful, exuberant self-introductions and self-proclaimed champion titles are common among Bloomkin squires, Shieldmates and celebrated craftspeople, e.g. “the greatest wielder of the white” or “the Hope of the Canopy.” Thornguard partners often pretend disapproval while being endeared. These are expressive epithets, **not** changes to personal/craft family names, registered titles or true achievements.
+- **Reputation and bonds:** Legendary Thornguard may attract many skilled Bloomkin eager to be their Shieldmate. Tailors and magic shapers should generally be treated with care because of their importance, without abolishing the historic **Oath of Protection**, legislating benevolence, or altering Concordance. Thornguard still supply white; Bloomkin shape it. 
+- **Controlling document:** `31_Bloomkin_Bannerweave_Fashion.md`; cross-reference `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `12_Languages_and_Linguistic_Customs.md`, `24_Racial_Naming_Conventions_and_Namebook.md`, `25_Imperial_Collar_Culture_and_Restraints.md`.
+- **Limits:** No new SP costs, armor, magic, mandated uniform, legal heraldic rank or fixed selection ceremony. Existing Bloomkin Maid's Choker/Petalwork visual distinctions are preserved.
+
+
 ## November 6, 2026 — Moontouched sweaters, socks, formal hosiery and maid cafés approved (LATEST)
 
 - **Explicit author ruling:** Casual Moontouched clothing commonly includes **sweaters and socks for warmth**. **Pantyhose are common for formal wear**.
