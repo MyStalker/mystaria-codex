@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 6, 2026 — Lastwear approved as Duskpaw fashion term (LATEST)
+
+- **Explicit author approval:** **Lastwear** is the Duskpaw fashion term for clothing **visibly associated with its previous wearer's death**. The author approved the selected name and precise category definition, not all accompanying cultural possibilities.
+- **Owner:** New `32_Duskpaw_Fashion_and_Lastwear.md`; cross-references in `00_Mystaria_Canon_Index.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, and `12_Languages_and_Linguistic_Customs.md`.
+- **Still proposals:** Specific signs and provenance of death, enemy trophies versus memorial clothing, communal Cache garment rules, formal etiquette, mandatory preservation of damage, and judgments about imitation. Torn and mismatched useful clothes remain a strong user-stated design direction, but this narrow approval establishes only the name/definition. No mechanics, legal status or collar changes.
+
+
 ## November 6, 2026 — Bloomkin Bannerweave, hero introductions and First Fitting approved (LATEST)
 
 - **Explicit author approval:** **Bannerweave** names the Bloomkin-led shared fashion tradition of Thornguard knights and Bloomkin Shieldmates, using **complementary heraldry** rather than identical miniature outfits. **Twinmantle** denotes particularly synchronized paired presentation. Bloomkin are often their knights' personal tailors; the first coordinated joint wardrobe is the important artistic milestone **First Fitting**.
