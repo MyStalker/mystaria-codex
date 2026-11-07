@@ -49,6 +49,11 @@ Each race adapts the regional language to its anatomy and tradition. The legal d
 `29_Tidekin_Imperial_Fashion.md` owns the approved aquatic clothing customs: close-fitting swimwear, **common bikini-style casual tops**, removable ornamentation, Kin-knots and diverse working/free attire. This clothing does not replace the Harborband's existing distinct upper valuation and lower security/obedience rings or finalize their administrative code.
 
 ## Racial collar decisions — CANON visual direction
+## Bloomkin Bannerweave fashion and collar distinction — CANON
+
+The approved heroic paired costume tradition **Bannerweave** (including **Twinmantle** and **First Fitting**) is owned by `31_Bloomkin_Bannerweave_Fashion.md`. It is Bloomkin-led complementarily heraldic tailoring for Thornguard knights and Shieldmates, **not** a new collar or legal category. Previously approved regional collar designs (**Maid's Choker** in Canopy Kingdoms, **Petalwork** elsewhere) are unchanged, as are the institution of the Oath of Protection and the cooperative Concordance roles.
+
+
 
 - **Kobolds:** Simple smooth metal band with **one colored central orb**, no exposed rings, clamps, buckles, or locks. Unlike decorative jewelry alone, orb collars are primarily usable **tools**. Technical professionals generally keep an orb on their person; **free Kobolds especially favor orb-bearing bracers**. Kobold style is modern fantasy laboratory wear, fitted coats, utility harnesses and restrained use of leather/latex accessories; the user's supplied red Kobold engineer image is a principal fashion reference, though not embedded here.
 - **Tidekin:** The **Harborband** generally comprises **at least two separate, streamlined corrosion-resistant metal rings** fitted to their elongated necks. The **upper ring indicates assessed value**, and the **lower ring indicates security/obedience classification**. Exact symbols, colors, numerical grades, and administration have not been determined. Ordinary designs should remain practical for aquatic labor. These distinctions represent owners' assessments, not objective moral qualities.
