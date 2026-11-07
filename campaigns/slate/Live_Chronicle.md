@@ -76,6 +76,14 @@ The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring
 
 **Current state and pending choices:** Neri has not yet explained the requested favor or named a person in need. Lillia has expressed willingness to help without a fixed payment, **but has not agreed to specific terms or actions**. The Emberwrap remains on Lillia and Valerious remains with her. **Warmth for Two** is active; any mission offered in the next assistant response is a *draft proposal* until explicitly sent by the DM.
 
+## Confirmed roleplay handoff — Neri's rescue request and Lillia's bargain (November 6, 2026)
+
+**DM-sent Neri post:** Neri asked Lillia to help rescue a cold, frightened, possibly hungry person trapped in a narrow area of the caves that the cargo-bearing crew could not easily enter. Neri said she intended to take the person to safety before sailing and would explain risks rather than knowingly send Lillia blindly into danger. She suggested Lillia's smaller size could help. She teased Tavi and Fenn, who reacted to the banter. The identity and exact location of the stranded person remain **unrevealed**; the wording was deliberately not specific.
+
+**Slate's Lillia response:** Lillia said she suspects she might know where the person is and offered to find them, comfort them with 'bunny hugs,' and bring them back if they consent. She noted that she cannot force someone to come. She proposed a reciprocal deal: Neri and her crew provide tools or assistance to cross the nearby ravine, and Lillia helps locate the endangered person. Lillia asked for the person's identity and location while making an adorable begging face.
+
+**Current state:** The rescue and ravine assistance are **not yet agreed**. The stranded person's location, identity, and situation are pending Neri's answer. Lillia has not crossed the ravine. **Warmth for Two** remains active; do not assume rescue or quest completion. Assistant's next Neri reply is a draft until returned in the next DM-confirmed `Neri:`/`Lillia:` handoff.
+
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
