@@ -1,5 +1,10 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Moontouched knitwear, service clothing and maid cafés
+
+Moontouched commonly wear **sweaters and socks for casual warmth** and **pantyhose in formal outfits**. They often work as maids, wearing maid uniforms for their duties rather than throughout unrelated everyday life. **Maid cafés and comparable themed hospitality venues are popular in Moontouched culture.** Such work can be voluntary or coerced according to the actual worker's status; outfit alone does not determine it. The existing Moonlace collar and Imperial labor distinctions remain unchanged. See `30_Moontouched_Imperial_Fashion.md`.
+
+
 ## November 6, 2026 — Approved Tidekin fashion in the Gilded Coil
 
 Tidekin clothes favor **close-fitting aquatic swimwear, including very common bikini-style casual tops**, with removable decorative layers, quick-drying practical garments and personal **Kin-knots**. Free Tidekin frequently dress in colorful individualized pieces; Saltbound workers, household attendants, navigators and Wakewrights wear occupation-adapted swim-capable attire and the established Harborband identification rings. Kin-knots express kinship, not legally ranked ownership. Full reference: `29_Tidekin_Imperial_Fashion.md`.
