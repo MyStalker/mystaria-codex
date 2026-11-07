@@ -1,5 +1,10 @@
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
+## November 6, 2026 — Duskpaw Imperial Latchjack uniforms (CANON)
+
+Enslaved Duskpaw occupational uniforming commonly features the **Latchjack**, a practical one-piece jumpsuit with a characteristic rumpled industrial style, backwards caps and large work gloves, complemented by pockets, tools and task-dependent protection. Adult female workers may leave its upper front partly open for heat and comfort. Common variant names are **Reclaimer**, **Underworks Hand**, **Hazerunner**, **Swiftfoot** and **Storekeeper**, describing salvage, maintenance, hazardous retrieval, courier and inventory dress. The punitive **Lockjack** is not independently removable by its wearer, has old-time prison stripes and often bells to make hiding/quiet movement difficult. Unlike the Imperial treatment, **Scarlands** masters favor more conspicuous metal collars and firmer slave harnesses. The Nightlock remains established; mechanical details are unresolved. See `32_Duskpaw_Fashion_and_Lastwear.md`.
+
+
 ## November 6, 2026 — Moontouched knitwear, service clothing and maid cafés
 
 Moontouched commonly wear **sweaters and socks for casual warmth** and **pantyhose in formal outfits**. They often work as maids, wearing maid uniforms for their duties rather than throughout unrelated everyday life. **Maid cafés and comparable themed hospitality venues are popular in Moontouched culture.** Such work can be voluntary or coerced according to the actual worker's status; outfit alone does not determine it. The existing Moonlace collar and Imperial labor distinctions remain unchanged. See `30_Moontouched_Imperial_Fashion.md`.
