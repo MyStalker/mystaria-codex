@@ -1,5 +1,10 @@
 # Mystaria — Languages and Linguistic Customs
 
+## Tidekin pirate-flavored slang — November 6, 2026 (CANON)
+
+Tidekin often borrow **pirate and nautical lingo** in everyday banter, especially in playful, theatrical, or silly scenes. **“Parlay”** is an established word in their slang, useful for calling a negotiation, truce, or chance to talk. They may jokingly exclaim **“Arrr!”**, **“Shiver me timbers!”**, and similar old-sailor expressions. This is an expressive cultural habit, **not a requirement that every Tidekin sound like a caricatured pirate**. Usage depends on the speaker and situation; serious or intimate scenes can feature restrained, sincere speech. Existing Tidekin expressions such as “shucking” remain valid alongside the pirate lingo. Neri Reedwake's occasional surfer slang is a compatible, distinctive personal habit.
+
+
 ## Tidekin colloquial profanity — November 6, 2026 (CANON)
 
 **“Shucking”** is a fairly common Tidekin swear and an in-culture alternative to **“fucking.”** The expression draws from **shucking oysters**, a favorite Tidekin food. Tidekin may use it as an expletive or intensifier in roughly the same informal contexts as the stronger word it replaces (for example, “What the shuck?” or “That's shucking ridiculous”). This is a natural speech habit, **not a mandatory verbal tic**; frequency varies by person and circumstances. It does not replace other approved Tidekin curses or expressions.
