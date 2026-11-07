@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Duskpaw Lastwear name approved — November 6, 2026
+
+**CANON:** `32_Duskpaw_Fashion_and_Lastwear.md` defines **Lastwear** as the Duskpaw fashion term for clothing **visibly associated with its previous wearer's death**. Other proposed Duskpaw customs about trophies, memorials, formal outfits, Cache sharing and artificially damaged garments are still **PROPOSAL**; do not treat them as approved. This decision does not change Nightlock collars, the open-lock emancipation symbol or Fraycraft.
+
+
 ## Approved Bloomkin Bannerweave hero-and-squire fashion — November 6, 2026
 
 **CANON:** [`31_Bloomkin_Bannerweave_Fashion.md`](31_Bloomkin_Bannerweave_Fashion.md) defines **Bannerweave**, the Bloomkin-led complementary heraldic outfits of Thornguard knights and their Bloomkin Shieldmates; **Twinmantle** for especially coordinated pairs; the artistic milestone **First Fitting**; grand self-proclaimed heroic introductions, profound admiration for gods' and legendary heroes, and particular reverence for **purple**. Bloomkin tailor both the knight's cape and their own heroic squire outfits. Celebrated Thornguard legends attract Bloomkin eager to serve as Shieldmates. Existing Concordance: Thornguard provide white, Bloomkin shape it. The Oath of Protection and potential unequal legal status are not erased; no clothing mechanics added.
@@ -101,6 +106,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 | [`14_Vren_Sanguine_Arts_Canon.md`](14_Vren_Sanguine_Arts_Canon.md) | Vren Blood Boon and six Disciplines of the Night, 30 ranks, revised abilities and costs | **CANON** — 150 SP mastery; Blood Boon cost formula clarified |
 | [`15_Naga_Psycraft_Canon.md`](15_Naga_Psycraft_Canon.md) | Naga Psycraft (formerly Crowncraft), its Psychics, Sovereign Sense, three disciplines of five ranks and imperial psychic culture | **CANON** — 75 SP mastery |
 | [`17_Imperial_Sports_and_Great_Coil_Circuit.md`](17_Imperial_Sports_and_Great_Coil_Circuit.md) | Approved six Gilded Coil sports, Great Coil Circuit, calendar, professional athletes, slavery and adventuring implications | **CANON** world/society; detailed tabletop match rules unestablished |
+| [`32_Duskpaw_Fashion_and_Lastwear.md`](32_Duskpaw_Fashion_and_Lastwear.md) | Approved Lastwear term and definition; other dress customs pending | **CANON** name, **PROPOSAL** further lore |
 | [`31_Bloomkin_Bannerweave_Fashion.md`](31_Bloomkin_Bannerweave_Fashion.md) | Bloomkin-led Bannerweave, complementary heroic heraldry, Twinmantle, First Fitting and champion introductions | **CANON** |
 | [`30_Moontouched_Imperial_Fashion.md`](30_Moontouched_Imperial_Fashion.md) | Sweaters/socks, formal pantyhose, maid uniforms in occupational contexts and popular maid cafés | **CANON** |
 | [`29_Tidekin_Imperial_Fashion.md`](29_Tidekin_Imperial_Fashion.md) | Tidekin close-fitting swimwear, bikini-style casual tops, Kin-knots, Saltbound workwear, free Tidekin individuality | **CANON** |

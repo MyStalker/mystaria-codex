@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Duskpaw Lastwear terminology (CANON)
+
+**Lastwear** is the approved Duskpaw fashion term for clothing **visibly associated with its previous wearer's death**. Its specific social meanings, acceptable signs, provenance and relation to other salvage customs remain under development. The established open-lock emancipation symbol, Nightlock collar, Caches and Hoards are unchanged. See `32_Duskpaw_Fashion_and_Lastwear.md`.
+
+
 ## November 6, 2026 — Bloomkin Bannerweave heroic attire (CANON)
 
 Bloomkin often act as the personal tailors of Thornguard knights, creating complementary **Bannerweave** heraldic outfits for the knight and their own heroic squire or Shieldmate presentation. **Twinmantle** describes especially coordinated pair ensembles; the **First Fitting** is a prized Bloomkin-led artistic milestone. Most Bloomkin in noble/knightly life enthusiastically present themselves as champions with extravagant fanciful titles; Thornguard companions are often secretly endeared. Their fashion seeks to inspire awe, draws on legends and heroes of the gods, and reveres **purple**. Legendary Thornguard may attract competing aspiring Bloomkin Shieldmates. This cultural authority does not remove the Oath of Protection or alter Concordance: Thornguard supply white energy and Bloomkin shape it. See `31_Bloomkin_Bannerweave_Fashion.md`.

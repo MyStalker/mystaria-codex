@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 6, 2026 — Duskpaw Lastwear terminology (CANON)
+
+**Lastwear** names Duskpaw clothing **visibly associated with its previous wearer's death**. Do not universalize specific wounds, bloodstains, distress patterns, ceremonial symbolism, or legally proven origin: these additional details await approval. The author's preferred direction also emphasizes torn, mixed and reused clothing, but no definitive outfit sheet has been approved. Preserve Duskpaw anatomy, previously approved Nightlock collars and open-lock emancipation symbol. See `32_Duskpaw_Fashion_and_Lastwear.md`.
+
+
 ### November 6, 2026 — Approved Bloomkin Bannerweave and Twinmantle
 
 In Thornguard and Bloomkin paired fashion, **Bannerweave** uses **Bloomkin-led, complementary heraldry**: a grand caped knight and a smaller, perfectly tailored squire or Shieldmate whose insignia, trim and colors complete the design rather than duplicate it. **Twinmantle** means especially coordinated outfits. Tiny, grandiose heroic coats, capes and accessories should project **awe**, not generic servile cuteness; heroic legends inspire designs and **purple is revered** among Bloomkin. Preserve 3–4-foot mousefolk vs 5–7-foot ratfolk scale and actual functional outfits, along with unchanged collar conventions. The **First Fitting** is an important tailoring milestone. Owning reference: `31_Bloomkin_Bannerweave_Fashion.md`. Individual art still needs user approval.
