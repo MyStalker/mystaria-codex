@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak Hearth speech — November 7, 2026
+
+**CANON:** Kharak may swear freely around hatchlings but soften their tone, conduct and patience; **“little fang”** is an affectionate nickname. See `12_Languages_and_Linguistic_Customs.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`. Fashion and military visual concepts remain under development.
+
 ## Kharak profane speech — November 7, 2026
 
 **CANON:** “Fangrot!” is the everyday exclamation; “Arrest's Arse!” a blasphemous curse; “Rot your word!” a serious condemnation; and “Coward!” a commonplace accusation. Their colorful approved vulgar insults and contrast with tender speech toward hatchlings are in `12_Languages_and_Linguistic_Customs.md`. “Shit and splinters!” is rejected. Kharak fashion, collars, and three-quarter racial art are next in the approved production sequence.
