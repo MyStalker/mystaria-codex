@@ -1,5 +1,16 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — APPROVED KHARAK MASTER RACIAL ART REFERENCE (LATEST)
+
+The author explicitly **approved the second of the two newly produced Kharak reference images** (the full *Kharak — Rexfolk of the Imperium* character reference sheet with a full-body heroine, head studies, small anatomy turnarounds, eye detail, color swatches, and an inset Claspjaw technical depiction). **This particular image is the approved master visual reference** for the Kharak, superseding earlier unapproved character image iterations as master art. The canonical original PNG is saved in the user's persistent file Library at:
+
+`/Mystaria/Approved_Art/Mystaria_Kharak_Approved_Master_Reference_White_Gold.png`
+
+The reference depicts an adult, strongly built, humanoid-armed female Kharak with **white/ivory natural scales**, **gold Tattao and geometric body markings**, **red eyes**, a distinct reptilian facial crest, **large three-clawed bare feet**, a **smooth, broad and continuous tail with no unwanted protrusions or indentations**, a **close-fitting Claspjaw with hanging identification tags**, a dark **industrial street-samurai-style light Imperial uniform**, **long cape-draped outerwear**, and an **oversized industrial greatsword**. The image is a **visual reference**, not a mechanical equipment-stat ruling, a named character's biography, a mandated outfit for all Kharak, or a requirement that Kharak be white-scaled. Previously approved colorful scale variation and varied Coil fashion and equipment remain valid. The final standard **Claspjaw's equipment-level construction** remains defined by its separately approved original chained technical sheet; the master image's wearable rendering establishes fitting and scale.
+
+**Artifact preservation:** The actual image is stored in the persistent **Library** path above, **not embedded in the GitHub repository**. The GitHub canon text records approval and exact asset location; do not imply that the PNG itself was committed to the repo. If publishing bundled canon art to GitHub later, upload that identical PNG rather than regenerating it.
+
+
 ## November 8, 2026 — FINAL CLASPJAW VISUAL REFERENCE APPROVED (LATEST)
 
 The author chose the existing *Claspjaw — Standard Kharak Collar* technical parchment sheet as the definitive ordinary collar design. Its **heavy brushed gunmetal near-circular cuff** has a **small split between squared front ends**, connected by a **short hanging chain with two rectangular identification dog tags suspended centrally**. It features **asymmetrical right-side-in-reference lock housing, visible curved toothed ratcheting arm, keyway, factory-finished seams/bolts**, and **yellow-gold diagonal industrial stripe markings**. Preserve proportions and layout as in approved technical illustration. Do not replace it with a smooth choker, an O-ring-focused restraint, a gemstone/orb collar, or the open C-shape without a chain. Optional spiked undercollar fashion remains distinct from the standard collar.
