@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak fashion materials and service/war contrast (LATEST)
+
+- **Approved:** dense woven cloth is common outside full war; traditional fur accents; leather jackets worn draped as capes; three proposed Kharak design influences coexist, with slight preference for Coil Street Samurai.
+- **Approved:** mostly peaceful Imperium assigns many soldiers to monster fighting and military policing of enslaved populations; light everyday military armor. War equipment takes fur, teeth accessories, Viking-inspired imagery and restrained power-armor-like visual cues. This is not approval of actual powered armor mechanics.
+- **Clarified:** Thornguard visual fashion is traditional knight-and-rogue, contrasting with industrial street-samurai Kharak.
+- **Still proposed:** specific sensual adult women's outfits, material recipes, equipment designs, and precise uniform cuts.
+
 ## November 7, 2026 — Kharak anatomy and industrial-fashion direction (LATEST)
 
 - **Author-established:** Kharak arms and hands are large, humanoid-proportioned and dexterous, allowing conventional scaled military weaponry; this is a significant distinction from Thornguard and not an exotic Draykin-style body plan.
