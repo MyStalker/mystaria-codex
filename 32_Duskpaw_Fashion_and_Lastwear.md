@@ -73,7 +73,9 @@ Each job may alter fabric weight, closures, useful tools, glove design and prote
 
 **Old-fashioned prison-style stripes** are a defining visual feature. **Bells are often fitted to make stealth more difficult**, drawing attention to the wearer and publicly indicating the conspicuous disciplinary status. This aesthetic is intended to make it obvious that the wearer has been punished; it does not establish any particular offense, standard sentence, official stripe code or automatic criminal conviction.
 
-The exact mechanism preventing unauthorized removal, servicing arrangements, ability to change or wash the outfit, physical safety safeguards, authorized release procedure, and quantitative detection/stealth effects remain **UNRESOLVED**. There is **no new numeric stealth modifier**, universal magical suppression, special Fraycraft interaction or automatic collar behavior. A Lockjack must not be mistaken for a redesigned Nightlock collar.
+**Approved security principle (November 7, 2026):** The Lockjack's garment-retention mechanism is **independent of the Nightlock collar**. Its authorized release is under a **designated supervisor's control**, rather than the wearer's. It must remain usable for **ordinary work and basic hygiene**, including necessary care and cleaning without requiring the Duskpaw to be able to independently remove the uniform. This is a functional design requirement, not an approved locking schematic, certification, permission hierarchy, or extra magical restraint.
+
+The exact retention hardware, servicing approach, garment-changing and washing procedure, emergency access and safety safeguards, and quantitative detection/stealth effects remain **UNRESOLVED**. There is **no new numeric stealth modifier**, universal magical suppression, special Fraycraft interaction or automatic collar behavior. A Lockjack must not be mistaken for a redesigned Nightlock collar.
 
 ### VII.D. Scarlands adaptation: visible Vren domination
 
