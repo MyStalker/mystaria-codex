@@ -1,8 +1,12 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Tattao, variable Kharak uniforms and authorized exposure (CANON)
+
+**Use “Tattao”, not “Tatao”.** Kharak favor occasional **gold/silver teeth in their actual mouths** and stylish **sunglasses**. Coil wealth and purpose create varied outfits: farmhands, nightlife bouncers, household escorts with improvised breastplates beneath jackets, and highly regimented military units with precise standardized uniforms. Lack of costly equipment does not mean lack of discipline. In light speed-focused uniforms, revealing backs, male chests and female cleavage are accepted **authorized cuts**; a short-sleeved open-back crossbow sniper with tactical rigging is a useful example. **Tattao designs continue into textile or armor patterns** when clothing conceals them, especially in regulated military dress. Do not assume full coverage or casual rule-breaking is necessary for discipline.
+
 ### November 8, 2026 — Kharak provocative punk civilian dress (CANON)
 
-Adult Kharak civilian clothing strongly favors **provocative punk / Coil Street Samurai** styling: asymmetric fitted dense-woven crop tops, high-waisted reinforced trousers, broad utility belts, exposed Tatao, and **leather jackets worn open or cape-style**. Approved variations include cropped/open vests, halter or open-back tops, fur-trimmed jackets, and Warclan tooth ornaments. Bare scales, shoulders, midriff, back and upper chest are socially ordinary in Mystaria; do not default to skirts or over-cover Kharak females. Tail-friendly tailoring and powerful tyrannosaur anatomy take priority. These styles are options, not uniforms, and men can wear similarly revealing looks. Precise collars and reference art remain pending.
+Adult Kharak civilian clothing strongly favors **provocative punk / Coil Street Samurai** styling: asymmetric fitted dense-woven crop tops, high-waisted reinforced trousers, broad utility belts, exposed Tattao, and **leather jackets worn open or cape-style**. Approved variations include cropped/open vests, halter or open-back tops, fur-trimmed jackets, and Warclan tooth ornaments. Bare scales, shoulders, midriff, back and upper chest are socially ordinary in Mystaria; do not default to skirts or over-cover Kharak females. Tail-friendly tailoring and powerful tyrannosaur anatomy take priority. These styles are options, not uniforms, and men can wear similarly revealing looks. Precise collars and reference art remain pending.
 
 ### November 7, 2026 — Kharak urban fashion and war kit (APPROVED DIRECTION)
 
