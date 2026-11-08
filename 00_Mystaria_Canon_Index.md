@@ -1,8 +1,12 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak Tattao and differentiated uniforms — November 8, 2026
+
+**CANON:** Spell **Tattao** (supersedes Tatao). Gold/silver mouth teeth and sunglasses are fashionable. Kharak uniforms vary with Coil wealth, function and institutional strictness, from farmhands and nightlife security to disciplined regulars. Authorized light uniforms may reveal backs, male chests and female cleavage; fabric/armor motifs visually continue covered Tattao. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
+
 ## Kharak punk civilian fashion — November 8, 2026
 
-**CANON:** Provocative Coil Street Samurai punk streetwear, especially asymmetric woven tops, fitted reinforced trousers, belts, visible Tatao, cape-worn leather jackets; open vests, open-back/halter variations, fur and tooth accents. Tail-friendly, anatomy-conscious, revealing scales are normal. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`. Imperial uniform details, collars and racial art still pending.
+**CANON:** Provocative Coil Street Samurai punk streetwear, especially asymmetric woven tops, fitted reinforced trousers, belts, visible Tattao, cape-worn leather jackets; open vests, open-back/halter variations, fur and tooth accents. Tail-friendly, anatomy-conscious, revealing scales are normal. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`. Imperial uniform details, collars and racial art still pending.
 
 ## Kharak casual and military fashion direction — November 7, 2026
 
@@ -58,9 +62,9 @@
 **CANON FORMAT:** True ancient Imperial Serpentari possess **four proper names**, optionally plus earned ceremonial/regnal titles. Their sound blends aristocratic dynastic tradition with exotic grandiloquent titles. **PROPOSAL:** Personal Self, ancestral Blood, Great Coil, and Ascendancy as the four positions. This supplements rather than replaces the established **Untouched Serpentari** two-name namebook. Reconcile any 'High King' as appropriate with the established **Nine Thrones** and **First Sovereign**. Kharak *Hatchtreason* remains an unapproved crime-name proposal. See `24_Racial_Naming_Conventions_and_Namebook.md` and `10_Canon_Changelog.md`.
 
 
-## Kharak families, Tatao, religious devotion and Vornak — November 7, 2026
+## Kharak families, Tattao, religious devotion and Vornak — November 7, 2026
 
-**CANON:** The Kharak's **Hearth** and **Warclan** family organization, intense hatchling protection, **First Oath** at young warriorhood and **Second Oath** at army service, and the **Tatao** allegiance tattoos favoring Coil over Warclan imagery are recorded in [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md). Kharak children **do not inherit their parents' slave status**, unlike the usual Imperial maternal rule. Imperial Kharak prominently worship **Arrest**; wilder clans often favor **Baphomet**. Personal + Warclan + earned epithet naming is approved: **Kharzug Vornak, Khan of the Unbroken Word**, is conventionally quoted as **Vornak**; his descendants serve the senior Matriarch. The Khan's **Honored Defeat** by an unnamed Serpentari sovereign is approved. True Serpentari monarch naming, tattoo pattern specifics, collective hatchery-challenge legal standing and chronology remain open.
+**CANON:** The Kharak's **Hearth** and **Warclan** family organization, intense hatchling protection, **First Oath** at young warriorhood and **Second Oath** at army service, and the **Tattao** allegiance tattoos favoring Coil over Warclan imagery are recorded in [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md). Kharak children **do not inherit their parents' slave status**, unlike the usual Imperial maternal rule. Imperial Kharak prominently worship **Arrest**; wilder clans often favor **Baphomet**. Personal + Warclan + earned epithet naming is approved: **Kharzug Vornak, Khan of the Unbroken Word**, is conventionally quoted as **Vornak**; his descendants serve the senior Matriarch. The Khan's **Honored Defeat** by an unnamed Serpentari sovereign is approved. True Serpentari monarch naming, tattoo pattern specifics, collective hatchery-challenge legal standing and chronology remain open.
 
 
 ## Kharak supplemental approvals — November 7, 2026
