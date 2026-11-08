@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak casual and military fashion direction — November 7, 2026
+
+**CANON DIRECTION:** Dense woven cloth, traditional fur accents, jackets worn cape-style; preference for urban Coil Street Samurai among three compatible influences. Peacetime monster-hunting and slave-regulating military police favor light armor; full war gear evokes Viking fur/teeth and restrained power-armor aesthetics. Thornguard contrast with traditional knight/rogue dress. Specific outfits and powered armor mechanics remain unapproved. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
+
 ## Kharak anatomy and industrial fashion direction — November 7, 2026
 
 **CANON DIRECTION:** Kharak have powerful, dexterous humanoid arms, distinct from Thornguard; their Imperial look combines Kobold-enabled technological practicality with dark street-samurai/fantasy military styling and industrial melee weapons. Casual dress includes furs and leather jackets, especially for men. Exact fashion, materials, collars and master artwork await approval. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
