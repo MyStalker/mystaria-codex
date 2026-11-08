@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak protection of other races' children — November 7, 2026
+
+**CANON:** Acts resembling Hatchbane against children of other species are broadly despised by Kharak as a matter of **informal honor**, without automatically constituting the same formal Kharak offense. This moral development contrasts with early Khans' Extinction campaigns; Vornak formalized a reform movement developing over generations, rather than inventing compassion alone. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Hatchbane degrees and Kharak historical Extinction — November 7, 2026
 
 **CANON:** Third-Degree Hatchbane concerns substantial neglect and mistreatment with reparations and improvement; Second Degree concerns substantial injury/kidnapping and culpable failure to protect, ordinarily punished by the permanent painful **Banebrand**; First Degree includes deliberate killing, commissioned assassination and culpably foreseeable lethal kidnapping, with forfeiture of title/Coil or **Decimation**. Ancient adult-offspring life substitution survives only as a nearly unused non-Imperial, non-Arrest tribal blood-law exception; only a true Serpentari may rescind that ancient provision. Earlier Khans practiced **Extinction** of rival bloodlines and some minor species, including children; modern Kharak protection of hatchlings represents imperfect moral reform. Details and boundaries: `33_Kharak_Rexfolk_Culture_and_Command.md`.
