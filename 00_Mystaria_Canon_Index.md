@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Approved Kharak Master Visual Reference — November 8, 2026
+
+**CANON ART APPROVED:** The author's selected **second generated Kharak character sheet** (*Kharak — Rexfolk of the Imperium*) is the definitive master appearance reference. White/ivory scales, gold Tattao, red eyes, muscular humanoid-arm reptilian anatomy, smooth tail, fitted Claspjaw, dark industrial military clothing, cape-like coat and massive sword characterize this *example*, not all Kharak coloration or outfits. Full resolution PNG is saved in persistent **Library** at `/Mystaria/Approved_Art/Mystaria_Kharak_Approved_Master_Reference_White_Gold.png`; **image file not yet present in GitHub repository**. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`. Exact Claspjaw hardware follows separately approved chained technical sheet.
+
+
 ## Claspjaw definitive reference: chained split-front cuff — November 8, 2026
 
 **LATEST CANON:** The author chose the *original Claspjaw — Standard Kharak Collar* parchment technical artwork as the standard design: broad brushed gunmetal industrial cuff, squared front terminals with short visible gap, a **loose chain bridging them**, **two dog tags hanging from the chain midpoint**, and side-mounted asymmetrical toothed handcuff ratchet and keyed housing; yellow-gold industrial diagonal stripes. This **supersedes the earlier fully unobstructed open C-shaped/no-chain ruling** (see below, now historical only). See `25_Imperial_Collar_Culture_and_Restraints.md`, `11_Visual_Style_Guide.md`, `33_Kharak_Rexfolk_Culture_and_Command.md` and changelog. Exact mechanical function remains open.
