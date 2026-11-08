@@ -7,7 +7,7 @@ The author chose the existing *Claspjaw — Standard Kharak Collar* technical pa
 **Canon supersession:** The previously approved *genuinely unobstructed open C and single-side tag attachment* concept recorded below is **SUPERSEDED by this later explicit author selection**. Existing Scale Register and specialist magical collars remain unchanged. The approved visual sheet does not establish engineering specifications or magical powers.
 
 
-## November 8, 2026 — Claspjaw unobstructed front approved (CANON)
+## November 8, 2026 — Claspjaw unobstructed front (SUPERSEDED by chained technical sheet)
 
 The **Claspjaw** has an **open C-shaped silhouette**, with an actual **unobstructed front gap** between separate steel ends, not an O-shaped closed ring. It must have **no spanning chain, hidden bridge, plate or O-ring** across that gap. Its **two small identification dog tags hang centrally**, on a short freely hanging chain supported from **one side**; the tag chain must not connect both ends. Preserve heavy modern-handcuff-inspired industrial manufacture and an asymmetrical ratcheting clasp. Earlier assistant suggestions of a recessed connector, and images showing chains between both ends, are superseded. How it remains secure without a front bridge is **open engineering**, not canon mechanics.
 
@@ -19,7 +19,7 @@ The **Claspjaw** has an **open C-shaped silhouette**, with an actual **unobstruc
 **Natural Kharak coloration:** Strong, exotic, saturated natural scale colors are normal: **fully red, blue, or deep green Kharak are not uncommon**. The species visually bridges colorful Kobolds and dragons. Color does not by itself denote Coil, rank, personality, mana affinity or power. For master racial artwork, preserve the user's **original uploaded reference's anatomy and pose** as primary reference, interpreted in light of subsequent approved strong humanoid arms, clothing, Tattao and Claspjaw. Do not substitute an unrelated pose or anatomy as definitive.
 
 
-## November 8, 2026 — Kharak industrial collar direction (AUTHOR-APPROVED FEATURES; NAME PENDING)
+## November 8, 2026 — Kharak industrial collar direction (HISTORICAL EARLY DRAFT; name since approved)
 
 The Kharak's ordinary Imperial collar is a **heavier, industrial counterpart to the Kobold collar**, **without a central orb**. It is an asymmetrical, manufactured metal assembly with a **visible interlocking closure reminiscent of a modern handcuff**, rather than one seamless smooth band. The author favors a **deliberate gap in the middle/front**, **hanging dog-tag-style identification**, and fashionable **spiked undercollars** for nightlife that do not always require additional choker jewelry. This collar silhouette should have a **universal distinctive name**, but the proposed name **“Ironjaw” is not yet approved**. The exact gap construction, tag format, metal finishes, structural bridge, ornamental engravings and other assistant-proposed details remain unapproved. Existing Scale Register and specialized collar rules remain unchanged; no default magic is implied.
 
