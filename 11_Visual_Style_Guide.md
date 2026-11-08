@@ -1,5 +1,9 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Kharak provocative punk civilian dress (CANON)
+
+Adult Kharak civilian clothing strongly favors **provocative punk / Coil Street Samurai** styling: asymmetric fitted dense-woven crop tops, high-waisted reinforced trousers, broad utility belts, exposed Tatao, and **leather jackets worn open or cape-style**. Approved variations include cropped/open vests, halter or open-back tops, fur-trimmed jackets, and Warclan tooth ornaments. Bare scales, shoulders, midriff, back and upper chest are socially ordinary in Mystaria; do not default to skirts or over-cover Kharak females. Tail-friendly tailoring and powerful tyrannosaur anatomy take priority. These styles are options, not uniforms, and men can wear similarly revealing looks. Precise collars and reference art remain pending.
+
 ### November 7, 2026 — Kharak urban fashion and war kit (APPROVED DIRECTION)
 
 Kharak favor **dense woven cloth** in ordinary dress, with traditional fur accents and **leather jackets sometimes worn cape-style over the shoulders**. Combine Industrial Vanguard, Coil Street Samurai and Hearthborn Bruiser influences, **slightly prioritizing Coil Street Samurai**. Female casual fashion should recover Mystaria's mature sensuality through anatomical tailoring and confident silhouettes, but **no exact outfit cuts have been approved yet**. Imperial peacetime soldiers, including monster hunters and military police overseeing enslaved people, usually wear **light protection**. All-out war gear should evoke **Viking-inspired fur and teeth ornamentation**, industrial fantasy and subtle **power-armor-like aesthetics** without implying actual powered armor technology. **Thornguard** retain a contrasting traditional **knight-and-rogue** aesthetic. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
