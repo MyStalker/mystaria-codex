@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak signature expressions — November 7, 2026
+
+**CANON:** “Count them home.”; “My word stands.” / “Then I stand with it.”; and the revised curse “Rot your word.” Kharak vulgar profanity and everyday exclamation remain in development; “Cracked shell!” is not the selected staple. See `12_Languages_and_Linguistic_Customs.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Kharak development sequence and Vornak open history — November 7, 2026
 
 **AUTHOR DIRECTION:** Keep Vornak's detailed personal history unresolved for future stories. Develop Kharak linguistic customs first, then casual/uniform fashion, collar style, and a three-quarter-view master racial illustration. New designs and phrases require approval. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
