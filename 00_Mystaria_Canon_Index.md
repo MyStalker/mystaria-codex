@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak supplemental approvals — November 7, 2026
+
+**CANON:** The **Court of Fangs**, **Oathspeaker** advocates and **Crown Arbiter** judges, approved cross-cultural Kharak/Naga influences, **Khan of the Unbroken Word** epithet and three maxims, and a historical strategic contest preceding modern Golden Conquest are now recognized in [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md). INT 17 is a **preferred balance target, not a final numeric sheet**. Clan/family systems, full Khan name, opposing Serpentari king, decisive historic contest outcome and specific dress/language designs remain pending.
+
+
 ## Kharak (Rexfolk) martial culture — November 7, 2026
 
 **CANON / DEVELOPMENT:** **Kharak** is the approved racial name for the Rexfolk, the Imperium's enormous tyrannosaur warriors. Their proud allegiance philosophy, stigma of clanless freedom, barbaric professional ranks (Fang through High Warchief), **First Fang** appointment, conquered-clan history, and First Fang's institutional Right of Challenge have been approved in principle. Their historical Serpentari restraint, later Naga military integration and favored Drakyn legal intermediaries are established; precise legal mechanisms, legendary Khan and early Imperial sports details, INT/STR numeric sheet, full red-mana/bite/weapon mechanics, fashion and linguistics await decisions. See [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md).
