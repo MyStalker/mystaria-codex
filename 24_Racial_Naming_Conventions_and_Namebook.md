@@ -1,5 +1,10 @@
 # Mystaria — Approved Racial Naming Conventions and Common Namebook
 
+## November 7, 2026 — Kharak names added (CANON)
+
+**Kharak** (Rexfolk) use a strong, consonant-rich **personal name + Warclan name**, optionally followed by an **earned epithet**. Clan membership may be inherited, adopted or formally joined; both sexes may use overlapping name patterns. Examples of personal names: Kharzug, Thorgat, Borghan, Durgan, Varkul, Ghorak, Vraksha, Kharza, Rhazka, Tharka, Zhurra, Vorga. Example Warclans: **Vornak, Kharvul, Thrazgor, Gorvash, Dravok**. The established historical figure **Kharzug Vornak, Khan of the Unbroken Word**, is commonly referred to simply as **Vornak**; his descendants remain the exceptionally prestigious Warclan serving the highest-ranking Matriarch. This extends the existing 15-group namebook; it does not rename its older 450 approved example names. Existing **Untouched Serpentari** ceremonial lineage naming is not altered. Separate proposals for the ancient true Serpentari sovereign remain pending. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 ## November 6, 2026 — Bloomkin heroic epithets supplement existing naming (CANON)
 
 Bloomkin commonly use elaborate, self-awarded heroic **presentation titles** in knightly and aristocratic circles, e.g. “the Hope of the Canopy,” without replacing their approved short personal names and craft-derived family names. Such extravagant introductions are colloquial and expressive, **not a separate legal title system or evidence of the feats claimed**. Their Thornguard partnerships and Bloomkin-led **Bannerweave** are detailed in `31_Bloomkin_Bannerweave_Fashion.md`. The previously approved 30 Bloomkin name examples remain unchanged.
