@@ -10,12 +10,16 @@
 - Unprefixed text in the established roleplay handoff format is also treated as roleplay material, not as an invitation to improvise unrelated events.
 
 ## The authoritative handoff sequence (critical)
-1. Pipkin drafts a response as an NPC (e.g. Neri). **This draft is not automatically canon** and may never be used verbatim.
-2. The DM edits, curates and sends their chosen reply to Slate.
-3. The DM returns here with `Neri:` (or another NPC's name) followed by the **exact revised reply sent to Slate**, and `Lillia:` followed by **Slate's actual character reply**.
-4. **Only the DM's revised/sent NPC text and Slate's actual reply are the authoritative in-character transcript.** The revised text supersedes any conflicting Pipkin draft.
-5. Pipkin continues as the relevant NPC, stops at a natural opportunity for Lillia to answer, and treats its new reply as another **uncanonized draft** until the next handoff.
-6. Other NPC labels can be used analogously. If a message indicates draft versus actually sent text, follow the DM's explicit status.
+
+1. Pipkin (or SillyTavern) drafts NPC/environment narration. **Drafts are not canon**, even if written in-character.
+2. The DM edits, curates, and actually sends the chosen final post to Slate.
+3. The DM returns the completed exchange using the canonical speaker labels:
+   - `DM:` — the **exact final NPC dialogue, actions, and environmental narration** actually sent to Slate, regardless of which NPC(s) speak. It is not a label for an assistant draft.
+   - `Lillia:` — **Slate's actual player-character response**, copied as sent.
+4. Only the DM's actually sent `DM:` post and Slate's actual `Lillia:` post form the authoritative in-character transcript, subject to explicit later DM corrections. Assistant drafts, proposed dialogue, and abandoned details are not events.
+5. On receiving the completed canonical exchange, continue with a **new noncanonical NPC/environmental draft** and stop where Slate can make a meaningful choice. Never narrate Lillia's voluntary decisions, dialogue, or inner thoughts.
+6. **Legacy compatibility:** Older handoffs labeled `Neri:`, `Peri:`, or another NPC name remain canonical when the DM had identified them as the final post actually sent to Slate. For **new handoffs**, use `DM:` and `Lillia:` exclusively. Do not retroactively change the facts of older exchanges. If a passage's send status is unclear, don't assume it was canonized.
+7. `[RP]` requests RP continuation; `[OOC]` pauses the scene; `[CANON]` asserts campaign facts. These commands are separate from speaker labels and neither transform a draft into an actually sent post.
 
 ## What to record in GitHub
 - At every meaningful handoff, record the **confirmed exchanges and their consequences**, preferably in the live chronicle. Do not turn Pipkin's unapproved replies, proposed NPC secrets, possible treasure, offers, or unresolved choices into actual events.
