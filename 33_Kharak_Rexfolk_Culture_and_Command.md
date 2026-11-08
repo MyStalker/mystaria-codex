@@ -1,5 +1,13 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — Provocative punk Kharak civilian silhouette (APPROVED)
+
+The author approves **provocative punk streetwear** as the leading Kharak civilian fashion identity, emphasizing the previously preferred **Coil Street Samurai** aesthetic. In Mystaria, revealing fur and scales is broadly normal, including among enslaved people; Kharak are not uniquely modest or habitually covered. Clothing can be bold, sensual, athletic and practical without requiring skirts or concealing their powerful anatomy.
+
+**Approved favorite combination:** fitted **asymmetric dense-woven top**, **high-waisted reinforced trousers**, **broad utility belt**, **visible Tatao**, and a **leather jacket worn open or draped over the shoulders like a cape**. Also approved as compatible outfit variants: **open or cropped vest** with a low neckline and fitted trousers; **halter or open-back woven top** with fur-trimmed jacket and inherited tooth ornaments. Exposed shoulders, upper chest, midriff and back are ordinary adult fashion options, not necessarily rebellion or sexual signaling. Cut clothing for broad shoulders, strong limbs, large hips/thighs and functional tail access; avoid defaulting to skirts or forcing human proportions. Men can share these styles with different tailoring preferences.
+
+These are **civilian fashion canon**, not a mandate that every Kharak wear identical garments. Exact collar styles, specific manufactured textile grades, uniform patterns, and final racial art remain unresolved.
+
 ## November 7, 2026 — Kharak fabric, jackets and peacetime military fashion (APPROVED DIRECTION)
 
 **Dense woven cloth** is a favorite material for most Kharak outfits outside all-out war. Traditional **furs** persist as accents, heirlooms and clan expression. **Leather jackets may be worn draped over the shoulders like capes**, a distinctive approved styling option. The three previously proposed design families (Industrial Vanguard, Coil Street Samurai, Hearthborn Bruiser) are accepted as compatible influences, with a **slight preference for the urban Coil Street Samurai** look. Exact named outfit patterns and women's sensual casual designs remain unapproved.
