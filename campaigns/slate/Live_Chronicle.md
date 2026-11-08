@@ -53,6 +53,14 @@ See **[Roleplay_Protocol.md](Roleplay_Protocol.md)**. The DM's revised/sent NPC 
 - **DM-known Peri setup, not yet player-discovered:** Peri is hungry but has used Wakecraft to collect dew from the rocks; he can carry his unfinished Artificial Legend Matrix, while fixed workshop apparatus tempts him to stay. The matrix cannot yet grant Shimmer Guard; witnessing a real Hero's or Legend's Guard **visibly activate** is his likely future spark of insight, not an automatic instant solution.
 - **Unresolved:** Clothing, current injuries or fatigue from the washings, Peri's first reaction, the matrix's discovery, and the conclusion of **Warmth for Two** are not confirmed by this update.
 
+## Confirmed handoff — First meeting with Peri and shared warmth (November 8, 2026)
+
+- **Confirmed DM post:** Upon opening the vault, Lillia encountered Peri in a dim, humid workshop. Peri was startled by her puffed-up fur and apparent exhaustion, asked whether Neri had sent her, seemed moved that someone came for him, expressed concern about the sanitation machinery's treatment of Lillia, and betrayed his hunger with a loud stomach growl. He carefully set aside the device he was holding. These are actual DM-sent details, not an assistant draft.
+- **Confirmed Lillia reply:** Lillia leaned into Peri and nuzzled him, found him alarmingly cold, and urgently tried to put her own warm Emberwrap top on him. As a result of offering the wrap, she exposed her upper body. She demanded that he accept the warmth. The Emberwrap's warmth and its presence on Lillia before this gesture are now **confirmed**, superseding the older note that its acquisition/equipping was unconfirmed. Exactly how and when she obtained it remains unrecorded.
+- **DM-established scene conditions:** Peri wears sparse clothing akin to Neri's; the tunnel/workshop is near freezing, and he has become very cold while stranded. The user requested these conditions for the ongoing scene.
+- **Pending NPC draft, NOT CANON:** Peri's response to the embrace and the offered Emberwrap has not yet been approved/sent by the DM. Do not record his acceptance, clothing change, dialogue, or quest completion until confirmed in a later handoff.
+- **Quest status:** *Warmth for Two* has a substantial act of sharing warmth on-screen, but patron-awarded completion and any new XP/Gems have not been confirmed.
+
 ## Confirmed Tidekin smuggler crew (DM canon)
 
 These names, roles, personalities, and updated cast appearance choices are approved for Lillia's campaign. The prior captain name **Nerissia** (also written **Narissa**) is superseded by **Neri “Wrong-Way” Reedwake**. This is a naming retcon only: all of the captain's previous dialogue and actions belong to Neri, with no change to the scene's events.
