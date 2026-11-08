@@ -1,5 +1,9 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Kharak industrial collar (APPROVED FEATURES; NAME OPEN)
+
+Kharak ordinary Imperial collars are **substantial asymmetrical industrial metal bands**, with a **visible handcuff-inspired interlocking clasp**, **no orb**, a **characteristic central/front gap**, and **hanging dog-tag-style identification**. **Spiked undercollars** are popular punk/nightlife accessories and need not be supplemented by other chokers. The universal collar name is pending: **“Ironjaw” is a proposal only**. Exact structural gap solution, finishes, tag text and optional embellishments are unapproved. Preserve Scale Register identification and distinct specialized magical collar designs.
+
 ### November 8, 2026 — Tattao, variable Kharak uniforms and authorized exposure (CANON)
 
 **Use “Tattao”, not “Tatao”.** Kharak favor occasional **gold/silver teeth in their actual mouths** and stylish **sunglasses**. Coil wealth and purpose create varied outfits: farmhands, nightlife bouncers, household escorts with improvised breastplates beneath jackets, and highly regimented military units with precise standardized uniforms. Lack of costly equipment does not mean lack of discipline. In light speed-focused uniforms, revealing backs, male chests and female cleavage are accepted **authorized cuts**; a short-sleeved open-back crossbow sniper with tactical rigging is a useful example. **Tattao designs continue into textile or armor patterns** when clothing conceals them, especially in regulated military dress. Do not assume full coverage or casual rule-breaking is necessary for discipline.
