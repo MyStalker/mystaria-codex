@@ -1,5 +1,10 @@
 # Imperial Collar Culture, Regional Slavery Philosophies, and Orb Interfaces
 
+## November 7, 2026 — Kharak Tatao and nonhereditary status (CANON)
+
+**Kharak (Rexfolk)** have the culturally paramount **Tatao**, a tattoo whose motifs match their collar's design and prominently display their owning Naga **Coil**, with **Warclan** allegiance secondary. Tatao record claimed allegiance, not Corvyn-style impartial witnessing. Their military-age **Second Oath** marks entry into Coil service. **Kharak children do not inherit slave status** from their parents, unlike the Imperium's general maternal inheritance rule; they receive clan-related warriorhood rites earlier, but have not yet embraced Coil ownership. A rare Kharak may decline service and walk away. Specific collar form, tattoo motifs, changes after sanctioned transfers and legal registration are not yet defined. Collars remain compulsory for actually enslaved Imperial subjects; tattoo marks do not replace Scale Register status. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 **Status:** Mixed: approved user rulings are labeled **CANON**; design options not explicitly approved are labeled **PROPOSAL**. **Updated:** November 6, 2026.  
 **Authority:** Latest user decisions, `01_World_and_Shimmer.md`, `18_The_Gilded_Coil_Imperial_Gazetteer.md`, `08_Other_Crafts.md`, `02_Races.md`, `11_Visual_Style_Guide.md`, `10_Canon_Changelog.md`.
 
