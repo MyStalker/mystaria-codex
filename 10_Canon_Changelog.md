@@ -1,8 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
-## November 7, 2026 — Harchband approved as Kharak hatchling crime (LATEST)
+## November 7, 2026 — Terminology correction (LATEST)
 
-- **Harchband** is the author-approved name of the particularly heinous crime of harming a Kharak egg or hatchling. Its perpetrators are called **hatch-traitors** (singular **hatch-traitor**).
+- **Hatchbane** is the approved Kharak crime name; **hatch-traitor** remains the perpetrator. This corrects the previous mistaken spelling *Harchband*, which is superseded and not canon.
+
+## November 7, 2026 — Hatchbane approved as Kharak hatchling crime (LATEST)
+
+- **Hatchbane** is the author-approved name of the particularly heinous crime of harming a Kharak egg or hatchling. Its perpetrators are called **hatch-traitors** (singular **hatch-traitor**).
 - This **supersedes** the earlier unapproved suggestion *Hatchtreason* / *Hatchtraitor*. Exact legal elements, levels of culpability, penalties, missing-egg investigations, and emergency challenge procedure remain undecided. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
 
 ## November 7, 2026 — True Serpentari four proper names and Kharak hatchling-crime terminology request (LATEST)
