@@ -1,8 +1,8 @@
 # MYSTARIA — Canon Library Index
 
-## Kharak Harchband crime terminology — November 7, 2026
+## Kharak Hatchbane crime terminology — November 7, 2026
 
-**CANON:** The Kharak crime of harming an egg or hatchling is called **Harchband**; its perpetrators are **hatch-traitors**. This replaces the unapproved Hatchtreason terminology. Statutory elements and sentencing remain open. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+**CANON:** The Kharak crime of harming an egg or hatchling is called **Hatchbane**; its perpetrators are **hatch-traitors**. This replaces the unapproved Hatchtreason terminology. Statutory elements and sentencing remain open. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
 
 ## Ancient Serpentari four-name convention — November 7, 2026
 
