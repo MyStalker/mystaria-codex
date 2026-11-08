@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Final approved Claspjaw artwork (LATEST VISUAL CANON)
+
+Use the author's selected **original Claspjaw technical sheet with the chain between two squared front ends** as the standard depiction. The Kharak neck cuff is broad, heavy brushed gunmetal, near-circular with a **small visible split-front gap** and a **short loosely draped connecting chain**, from whose **center two rectangular dog tags hang**. Show the **asymmetrical toothed handcuff ratchet, substantial side lock housing and keyway**, visible assembly seams, restrained hardware, and **yellow-gold diagonal industrial bands**. No orb, huge front O-ring, medieval padlock or sleek uninterrupted Kobold-style band. **SUPERCEDES the earlier fully open C-shape with no chain**; that concept and its associated later generated open-C reference sheet are *not* the chosen final collar visual. Follow original selected technical reference's general hardware layout and proportions, even in small-scale character art. This is visual approval only, not new gameplay mechanics.
+
+
 ### November 8, 2026 — Claspjaw open C-shaped front (APPROVED)
 
 Depict the Kharak **Claspjaw** as a thick asymmetrical industrial **C-shaped neck cuff with a completely clear front opening** between visibly separated ends. Do **not** draw a connecting chain, recessed bridge, bar, O-ring, strap or plate through this gap. **Two small dog tags hang naturally in the center of the gap from one side-mounted attachment only**, never stretched between ends. Show the modern-handcuff-like ratchet mechanism clearly, with one side featuring the locking housing. The security principle for this genuinely open C-shaped design is not yet defined. Previous collar diagrams with a chain bridging the split front are **not approved master references**.
