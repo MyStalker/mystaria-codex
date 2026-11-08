@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Mirror evidence and mental privacy in Imperial courts — November 7, 2026
+
+**CANON:** Mirrors capture sights and sounds, while Orbs store recordings; legal video/audio is called **mirror evidence**, not Orb recordings. Psionic mind reading, Orbcraft memory extraction and Tidekin Mirrorwake may support guilt or innocence but are fallible, and compelled deep probing is dangerous and exceptionally restricted in principle. Free persons have **independent rights to silence and mental privacy**; nonconsensual emotion reading cannot be used against them as evidence or grounds for suspicion. Masters exercise substantial authority over slaves' questioning. Detailed **Writ of Deep Inquiry** safeguards and Hatchbane evidence thresholds remain **proposals**, not canon. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `10_Canon_Changelog.md`.
+
 ## Kharak protection of other races' children — November 7, 2026
 
 **CANON:** Acts resembling Hatchbane against children of other species are broadly despised by Kharak as a matter of **informal honor**, without automatically constituting the same formal Kharak offense. This moral development contrasts with early Khans' Extinction campaigns; Vornak formalized a reform movement developing over generations, rather than inventing compassion alone. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
