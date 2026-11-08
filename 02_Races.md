@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 6, 2026 — Approved Duskpaw Latchjack and Lockjack uniforms
+
+Enslaved Duskpaws commonly wear occupation-specific **Latchjack jumpsuits**, particularly in the Imperium, whose signature styling includes wrinkled fabric, backwards caps, oversized working gloves, tools and pocket storage; adult female workers may wear the upper front partially open for comfort. Recognizable occupational outfit variants include **Reclaimer, Underworks Hand, Hazerunner, Swiftfoot and Storekeeper**. A punitive **Lockjack** is a Latchjack the wearer cannot remove independently, with prison stripes and often bells that make quiet movement difficult. Scarlands uniforms additionally favor firm slave harnesses and prominent metal collars to show Vren control. Existing **Nightlock** collar identity is unchanged. Details in `32_Duskpaw_Fashion_and_Lastwear.md`; no new game effects.
+
+
 ## November 6, 2026 — Duskpaw Lastwear and salvage dress (CANON)
 
 **Lastwear** means clothing visibly associated with its previous wearer's death. Salvaged, memorial and trophy uses are recognized motives, not formal categories. Torn, mixed, repaired and repurposed clothing is exceptionally common in Duskpaw personal fashion, including formalwear, while Caches may exchange garments rich in history. Free Duskpaws may display reclaimed opened locks as emancipation ornaments. **Enslaved Duskpaws, particularly in the Scarlands and Gilded Coil, may be made to wear maintained, regulated occupational uniforms rather than their own salvaged clothes.** Specific uniforms await approval; Nightlock and Fraycraft are unchanged. Details: `32_Duskpaw_Fashion_and_Lastwear.md`.
