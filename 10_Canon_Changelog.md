@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Kharak racial stat block and natural bite approved (LATEST)
+
+- **APPROVED level-1 base stats:** STR 22, DEX 15, END 20, INT 17, SPD 14, base total 88. Permanent **STR +25%, INT +25%**, all other racial attribute multipliers neutral, **no Speed penalty**. Effective values STR 27.5, DEX 15, END 20, INT 21.25, SPD 14, total **97.75**. These follow universal Hero stat gain and 25%-increment racial rules.
+- **APPROVED bite:** innate physical STR-led **Piercing**, **Medium Reach**, **Low Coverage** (Point/focused target) ordinary melee attack; its F matches the **longsword primary attack-rating F**. Use approved no-extra-+10 `(STR_effective × F_longsword)^2` Power formula. No free attack, material blade advantages, extra targets or special armor bypass. Earlier greatsword-bite idea is superseded.
+- **UNRESOLVED:** the longsword's standalone numerical F (draft 1.10 and older 1.15 are not canon) and any resulting concrete bite F; natural claws/tail profile, red mana affinity, Kharak unique abilities, grapple-bite maneuvers and special biomechanics. No numerical item catalogue gate, MP exception, new power or extra SP approved.
+- **Owning documentation updated:** `01_World_and_Shimmer.md`, `02_Races.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+
 ## November 8, 2026 — Kharak white-and-gold master reference art APPROVED (LATEST)
 
 - **Author explicitly approved the second generated Kharak character reference sheet** (*Kharak — Rexfolk of the Imperium*) as the canonical visual master. This is the full-body white-scaled gold-Tattao red-eyed female soldier with massive industrial sword, dark light-duty uniform, cape-like outerwear, smooth continuous tail, close-fitting Claspjaw, anatomical sketches and expression studies.
