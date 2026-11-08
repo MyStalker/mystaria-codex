@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak (Rexfolk) martial culture — November 7, 2026
+
+**CANON / DEVELOPMENT:** **Kharak** is the approved racial name for the Rexfolk, the Imperium's enormous tyrannosaur warriors. Their proud allegiance philosophy, stigma of clanless freedom, barbaric professional ranks (Fang through High Warchief), **First Fang** appointment, conquered-clan history, and First Fang's institutional Right of Challenge have been approved in principle. Their historical Serpentari restraint, later Naga military integration and favored Drakyn legal intermediaries are established; precise legal mechanisms, legendary Khan and early Imperial sports details, INT/STR numeric sheet, full red-mana/bite/weapon mechanics, fashion and linguistics await decisions. See [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md).
+
+
 ## Approved Duskpaw salvage fashion and Lastwear — November 6, 2026
 
 **CANON:** [`32_Duskpaw_Fashion_and_Lastwear.md`](32_Duskpaw_Fashion_and_Lastwear.md) owns exceptionally common torn, mismatched, visibly repaired and repurposed **free-chosen Duskpaw clothing**, Cache garment-sharing and meaningful heirlooms, asymmetrical formalwear, reclaimed open-lock accessories, and **Lastwear** (visibly associated with previous wearer's death). Lastwear is used as salvage, memorial, or trophy dress without formal grading. Artificially distressed imitation is generally mocked for wastefulness rather than universally condemned. **Enslaved Duskpaws in the Scarlands and Imperium may be forced into maintained, regulated occupational uniforms**; specific cuts and role designs remain **PROPOSAL**, not approved. Nightlock remains unchanged.
