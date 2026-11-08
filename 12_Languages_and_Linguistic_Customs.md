@@ -1,5 +1,9 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 7, 2026 — Kharak hatchling-directed speech (APPROVED)
+
+Kharak parents and relatives **do not necessarily stop swearing around their hatchlings**. Instead, they notably soften their **tone, manner, patience and physical behavior**, often speaking gently and reassuringly immediately after ordinary profanity. **“Little fang”** is an approved affectionate nickname for a young Kharak, among many family-specific pet names, not a required form of address. This tender family register contrasts with their exceptionally profane barracks language; do not impose courtly diction or a universal profanity taboo on parents.
+
 ## November 7, 2026 — Kharak profane speech (APPROVED)
 
 Kharak everyday language can be **crude, profane, direct, and exceptionally inventive in insult**, contrasting with the notably gentle way many address their hatchlings. Their distinctive everyday exclamation is **“Fangrot!”**. **“Arrest's Arse!”** is an approved irreverent invocation of Arrest, a deliberately profane counterpoint to the Moontouched **“Sweet Surrender!”**. **“Rot your word!”** is a serious curse against betrayed promises. **“Coward!”** is a commonplace direct accusation, especially for someone who flees a fight, though context can distinguish shameful abandonment from a responsible tactical retreat.
