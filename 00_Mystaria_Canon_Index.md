@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak profane speech — November 7, 2026
+
+**CANON:** “Fangrot!” is the everyday exclamation; “Arrest's Arse!” a blasphemous curse; “Rot your word!” a serious condemnation; and “Coward!” a commonplace accusation. Their colorful approved vulgar insults and contrast with tender speech toward hatchlings are in `12_Languages_and_Linguistic_Customs.md`. “Shit and splinters!” is rejected. Kharak fashion, collars, and three-quarter racial art are next in the approved production sequence.
+
 ## Kharak signature expressions — November 7, 2026
 
 **CANON:** “Count them home.”; “My word stands.” / “Then I stand with it.”; and the revised curse “Rot your word.” Kharak vulgar profanity and everyday exclamation remain in development; “Cracked shell!” is not the selected staple. See `12_Languages_and_Linguistic_Customs.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
