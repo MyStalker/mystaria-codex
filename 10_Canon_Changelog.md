@@ -1,5 +1,11 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Kharak provocative punk streetwear approved (LATEST)
+
+- **Approved:** Kharak civilian fashion leans strongly toward provocative punk and Coil Street Samurai styles, with revealing scales and tattoos socially normal. Primary combination: fitted asymmetric dense-woven top, reinforced high-waisted trousers, utility belt, visible Tatao, leather jacket worn open or cape-style.
+- **Approved compatible variations:** open/cropped vest; halter/open-back top; fur-trimmed jacket and traditional tooth ornaments. Tail accommodation and strong Kharak anatomy remain essential. No default skirts or excessive modesty; men may share revealing fashion styles.
+- **Open:** specific Imperial service uniform patterns, material grades, collar design and final three-quarter racial master artwork.
+
 ## November 7, 2026 — Kharak fashion materials and service/war contrast (LATEST)
 
 - **Approved:** dense woven cloth is common outside full war; traditional fur accents; leather jackets worn draped as capes; three proposed Kharak design influences coexist, with slight preference for Coil Street Samurai.
