@@ -33,15 +33,23 @@ See **[Roleplay_Protocol.md](Roleplay_Protocol.md)**. The DM's revised/sent NPC 
 - Lillia is cold and inadequately clothed.
 - Lillia previously purchased a frayed treasure map for 3 Gems. Four level-2 encounters (one nightfox and three wispfoxes) were awarded 1 Gem each by campaign ruling; ledger balance after the map purchase is 1 Gem.
 
-## Current RP exchange — Neri “Wrong-Way” Reedwake
+## Previous confirmed RP exchange — Neri “Wrong-Way” Reedwake
 
 - Neri greeted Lillia and Valerious: “Well, look what the current dragged in. A fox with good taste and a bunny with absolutely terrible judgment.”
 - Lillia was surprised that the otter could speak, became embarrassed about her lack of clothing, insisted that she had excellent judgment, and argued that cute creatures should be friendly to one another.
 - Neri identified herself as Tidekin, teased Lillia about her judgment and lack of clothing, and drew attention to a folded woolen blanket on a nearby cargo crate. She asked whether Lillia's supposed law of cuteness obliged cute things to help each other.
 - **Resolved interaction:** Lillia took the offered woolen blanket and wrapped the injured Valerious in it rather than using it herself. She nuzzled him, praised Neri's paws, playfully suggested Neri show more fur, and asked whether Neri needed help. Lillia remains cold and inadequately dressed. The blanket is now with Valerious, not Lillia.
 - **Pipkin draft, NOT YET CANON:** Neri playfully accepted the compliment about her paws, said the blanket was intended for Lillia, appreciated her kindness to Valerious, and called to Tavi for bunny-sized clothes. **The DM has not yet supplied the revised version actually sent to Slate; do not record this as an event.**
-- **Unresolved:** The latest established in-character reply is Lillia asking whether Neri needs help. No clothes have been provided, Neri's potential request has not been revealed, and **Warmth for Two remains active**. The proposed Neri-to-Tavi clothing request awaits DM-confirmed transcript.
+- **Subsequent update:** Lillia later gladly agreed to leave to help. She then attempted the vault puzzle, failed four times and was subjected to its forceful wash punishment on each failure, before solving it successfully and unlocking the vault. The exact intervening dialogue was not supplied verbatim; do not invent what Neri said or which precise puzzle actions occurred. Whether additional clothing was provided remains unconfirmed. **Warmth for Two** has no confirmed completion.
 - **DM-approved narration correction:** Neri's prior scene dialogue is the user's edited version, which includes Neri's ornate paw, a gold ring, and expressive banter. Slate's latest Lillia post and the reply above take precedence over earlier summarized dialogue.
+
+## Latest DM-confirmed progress — Vault puzzle and imminent Peri encounter (November 8, 2026)
+
+- After asking Neri whether help was needed, **Lillia gladly agreed to leave to help** in a subsequent player post. The precise wording of this post and Neri's intervening dialogue have not been provided; only the reported decision is established here.
+- Lillia attempted the **vault-opening puzzle**. She **failed four times**, receiving the puzzle's powerful **washing punishment** repeatedly, then **solved it successfully and unlocked the vault**. This is the confirmed outcome. Do not invent the sequence of puzzle manipulations, wound levels, exposure rules or any additional penalties.
+- **Current RP handoff:** The vault has just opened. The next scene is **Lillia's first encounter with Peri**, male Tidekin salvage craftsman. The first exchange itself is **not yet played**. Let the DM/player decide Lillia's words and actions.
+- **DM-known Peri setup, not yet player-discovered:** Peri is hungry but has used Wakecraft to collect dew from the rocks; he can carry his unfinished Artificial Legend Matrix, while fixed workshop apparatus tempts him to stay. The matrix cannot yet grant Shimmer Guard; witnessing a real Hero's or Legend's Guard **visibly activate** is his likely future spark of insight, not an automatic instant solution.
+- **Unresolved:** Clothing, current injuries or fatigue from the washings, Peri's first reaction, the matrix's discovery, and the conclusion of **Warmth for Two** are not confirmed by this update.
 
 ## Confirmed Tidekin smuggler crew (DM canon)
 
@@ -65,7 +73,7 @@ The DM **selected the Emberwrap design** as a potential clothing solution, but *
 
 ## Transcript priority
 
-The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring; laughter; identification as Tidekin; critique of Lillia's clothing; offering a woolen blanket and asking if cute things help one another), followed by **Slate's actual Lillia reply** (admiring Neri's toe beans, carrying injured Valerious, wrapping him in the blanket and nuzzling him; teasing Neri about her fur; asking whether Neri needs help). Both are **confirmed**, overriding Pipkin's earlier suggested wording. The **next Neri reply remains a draft** until the DM sends and returns the edited copy.
+The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring; laughter; identification as Tidekin; critique of Lillia's clothing; offering a woolen blanket and asking if cute things help one another), followed by **Slate's actual Lillia reply** (admiring Neri's toe beans, carrying injured Valerious, wrapping him in the blanket and nuzzling him; teasing Neri about her fur; asking whether Neri needs help). Both are **confirmed**, overriding Pipkin's earlier suggested wording. The earlier proposed Neri reply remains an unconfirmed draft. Later DM-reported milestones (Lillia agreeing to help and opening the vault) supersede the chronicle's former stopping point, but no unsupplied dialogue should be reconstructed.
 
 ## Recording policy
 
