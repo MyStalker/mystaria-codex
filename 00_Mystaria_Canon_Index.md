@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Serpentari four-name meanings and inherited Ascendancy — November 7, 2026
+
+**CANON:** Ancient true Serpentari have four proper names: **Self, Blood, Great Coil, Ascendancy**. The fourth name is **inherited at birth** and may later be replaced with an **earned** name celebrating demonstrated achievement; retention is permissible. Additional titles are separate. This does not alter the approved two-name Untouched Serpentari tradition. See `24_Racial_Naming_Conventions_and_Namebook.md`. The historical Serpentari First Sovereign who defeated Vornak is not yet named.
+
+
 ## Kharak Hatchbane crime terminology — November 7, 2026
 
 **CANON:** The Kharak crime of harming an egg or hatchling is called **Hatchbane**; its perpetrators are **hatch-traitors**. This replaces the unapproved Hatchtreason terminology. Statutory elements and sentencing remain open. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
