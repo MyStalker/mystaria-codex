@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — True Serpentari four-name semantics and inherited-to-earned Ascendancy approved (LATEST)
+
+- The author approves the four ancient true Serpentari name positions: **Self** (parent-given personal identity), **Blood** (ancestral line), **Great Coil** (aristocratic dynasty and political belonging), **Ascendancy** (a name inherited at birth that can later be **replaced by a name earned** through personal achievement). An inherited Ascendancy need not be replaced and is not automatically dishonorable. Additional ceremonial, conquest and regnal titles remain possible. Existing two-name Untouched Serpentari conventions remain distinct.
+- The established Great Coils, Coilkeepers, Nine Thrones and First Sovereign remain operative. **Vaessarith Theryn Voryss Xalquorin** is a naming example, not yet the approved identity of Vornak's opposing monarch.
+- Earlier proposals concerning Hatchbane's culpability distinctions, investigation of missing eggs, and a special emergency parental petition to the Court of Fangs are approved as **design direction**: intentional offenses and accidents should not be conflated; an accusation alone is not conviction; parents can seek urgent intervention, without gaining unrestricted authority to mutiny. Exact elements, petition standing, safeguards, and penalties remain unresolved.
+
+
 ## November 7, 2026 — Terminology correction (LATEST)
 
 - **Hatchbane** is the approved Kharak crime name; **hatch-traitor** remains the perpetrator. This corrects the previous mistaken spelling *Harchband*, which is superseded and not canon.
