@@ -1,5 +1,9 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — Kharak industrial collar direction (AUTHOR-APPROVED FEATURES; NAME PENDING)
+
+The Kharak's ordinary Imperial collar is a **heavier, industrial counterpart to the Kobold collar**, **without a central orb**. It is an asymmetrical, manufactured metal assembly with a **visible interlocking closure reminiscent of a modern handcuff**, rather than one seamless smooth band. The author favors a **deliberate gap in the middle/front**, **hanging dog-tag-style identification**, and fashionable **spiked undercollars** for nightlife that do not always require additional choker jewelry. This collar silhouette should have a **universal distinctive name**, but the proposed name **“Ironjaw” is not yet approved**. The exact gap construction, tag format, metal finishes, structural bridge, ornamental engravings and other assistant-proposed details remain unapproved. Existing Scale Register and specialized collar rules remain unchanged; no default magic is implied.
+
 ## November 8, 2026 — Tattao spelling and variable Imperial Kharak uniforms (AUTHOR-APPROVED)
 
 **Terminology correction:** spell the Kharak tattoo/heraldic system **Tattao**, not “Tatao”. The older spelling is superseded.
