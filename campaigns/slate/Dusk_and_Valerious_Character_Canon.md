@@ -16,7 +16,7 @@
 
 ## Valerious — gilded nightfox
 
-- **Identity:** Level-2 **gilded nightfox**; a Starspawn companion Lillia defeated and befriended in the Scarlands caves. Currently injured and wrapped in the blanket Neri offered.
+- **Identity:** Level-2 **gilded nightfox**, **at least approximately 300 years old and clearly an adult by nightfox standards**; a Starspawn companion Lillia defeated and befriended in the Scarlands caves. Currently injured and wrapped in the blanket Neri offered.
 - **Intelligence and communication:** **Smarter than Lillia**, understands her spoken language, and often expresses the opinion that her ideas are foolish. Communicates through **pantomime, gestures, positioning and facial expressions** rather than established fluent speech.
 - **Danger sense:** Can sniff out danger. Knows Lillia craves danger and its consequences; if he intervenes to protect her, the threat is genuinely serious by his judgment.
 - **Disposition:** Exceptionally loyal, vain rather than merely proud, hungry for affirmation, and liable to act out when slighted. Distrusts mortals after abandonment by his prior witch. His growing affection for Lillia may challenge that distrust.
@@ -29,7 +29,7 @@
 
 ## Open questions and portrayal boundaries
 
-- Valerious's precise age/adult status, full sapience/abstract judgment, and any ability to speak or transform have **not** been newly established in these answers. Understanding Lillia and outsmarting her is established, but don't silently invent additional anatomy, transformations or powers.
+- Valerious is **at least approximately 300 years old** and no child; his conduct is strongly animal-influenced despite his superior intelligence and language comprehension. Precise abilities to speak or transform have **not** been established. Do not silently invent additional anatomy, transformations or powers.
 - Dusk's future awakening to his genuine tenderness, Valerious's discovery that Lillia is mortal, and any relationship milestones are **not** already played events.
 - The DM reviews RP before canonization. Assistant or SillyTavern drafts are proposals; only confirmed handoffs become campaign events. Preserve Lillia's player agency.
 - Distinguish individual traits above from race-wide truths where the DM described one individual rather than every member of the species.
