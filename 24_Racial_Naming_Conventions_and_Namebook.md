@@ -1,5 +1,14 @@
 # Mystaria — Approved Racial Naming Conventions and Common Namebook
 
+## November 7, 2026 — Ancient true Serpentari four-name meanings approved (CANON)
+
+The ancient true Serpentari use four **proper names** in this order: **(1) Self**, the personal name bestowed by parents; **(2) Blood**, the ancestral bloodline within the family; **(3) Great Coil**, the recognized aristocratic dynasty and political allegiance; and **(4) Ascendancy**, a name inherited at birth reflecting family aspirations or ancestral legacy that **may later be replaced by an earned Ascendancy name** honoring the bearer's demonstrated accomplishments. The fourth name is initially inherited, not initially self-declared and not automatically provisional pending a mandatory adulthood replacement. Keeping it can express faithful continuation of a lineage; earning a replacement can mark exceptional distinction. Neither earning a new Ascendancy nor keeping the inherited one confers mechanical benefits.
+
+Ancient true Serpentari may append elaborate earned, regnal or ceremonial **titles beyond the four proper names**, preserving the approved blended aristocratic/dominion style. The established **Great Coils**, **Coilkeepers**, **Nine Thrones** and **First Sovereign** remain the political context. This does not replace the existing two-name **Untouched Serpentari** naming canon.
+
+**Illustrative only:** Vaessarith Theryn Voryss Xalquorin demonstrates the four positions, but this sample is not automatically a named historical sovereign or approved specific Great Coil genealogy. The High King who defeated Vornak remains unnamed pending selection.
+
+
 ## November 7, 2026 — Ancient Serpentari four-name format (CANON FORMAT; INTERNAL SEMANTICS PROPOSED)
 
 **Explicit author decision:** True ancient Imperial Serpentari have **four proper names**, rather than the more usual two, and may append additional ceremonial/regnal titles. Their linguistic style combines the approved Untouched Serpentari's aristocratic ceremonial heritage (option A) with elaborate statements of dominion and achievement (option C), but should sound somewhat more alien and exotic. This is a distinct ancient true-Serpentari practice; it does **not** retroactively replace the existing 30 approved two-name **Untouched Serpentari** examples.
