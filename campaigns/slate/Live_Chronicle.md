@@ -22,6 +22,8 @@ The DM explicitly approved the **latest Neri reference sheet** as official campa
 
 ## RP communication protocol
 
+**Current handoff labels (DM-approved November 8, 2026):** Use `DM:` for the final NPC/environment post actually sent to Slate, and `Lillia:` for Slate's actual response. Older character-named labels are preserved as historical canonical handoffs when confirmed as sent. This is a protocol change, not an in-world event.
+
 See **[Roleplay_Protocol.md](Roleplay_Protocol.md)**. The DM's revised/sent NPC post plus Slate's actual Lillia post are canonical. Assistant-generated NPC continuations are **drafts until the DM sends and returns the edited version**. `[OOC]`/`[OC]` pauses RP; `[RP]` requests a draft; `[CANON]` establishes facts.
 
 ## Current confirmed context
