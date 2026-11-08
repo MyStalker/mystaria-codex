@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 7, 2026 — Kharak (Rexfolk) approved development (CANON / OPEN MECHANICS)
+
+**Kharak** is the approved racial name for huge anthropomorphic tyrannosaur Rexfolk, the Naga Imperium's terrifying heavy warriors. Common but less numerous than Duskpaws, they prize rank, strength, competence, and allegiance; clanless/masterless freedom can carry deep shame. They have the approved Fang-to-High-Warchief military ranks, First Fang appointments, and evidence-led Right of Challenge. Their ancestors were formidable unstable clan conquerors crushed and heavily restrained by the Serpentari, later more closely integrated into Naga-led armies. Independent clans remain. They are **not unintelligent**: target base INT at least 15, preferably 17, but no complete attribute sheet is approved. Desired red affinity, highest ordinary racial STR, greatsword-scale bites, larger weapon multipliers and other mechanical details await approval. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 ## November 6, 2026 — Duskpaw Lastwear and salvage dress (CANON)
 
 **Lastwear** means clothing visibly associated with its previous wearer's death. Salvaged, memorial and trophy uses are recognized motives, not formal categories. Torn, mixed, repaired and repurposed clothing is exceptionally common in Duskpaw personal fashion, including formalwear, while Caches may exchange garments rich in history. Free Duskpaws may display reclaimed opened locks as emancipation ornaments. **Enslaved Duskpaws, particularly in the Scarlands and Gilded Coil, may be made to wear maintained, regulated occupational uniforms rather than their own salvaged clothes.** Specific uniforms await approval; Nightlock and Fraycraft are unchanged. Details: `32_Duskpaw_Fashion_and_Lastwear.md`.
