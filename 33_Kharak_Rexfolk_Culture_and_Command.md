@@ -1,5 +1,11 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 7, 2026 — Kharak humanoid arms and industrial Imperial design direction (AUTHOR-ESTABLISHED)
+
+**Approved anatomy distinction:** Kharak have **substantial, humanoid-proportioned, dexterous arms and hands**, not the short forelimbs of real-world tyrannosaurs. They are common frontline soldiers able to wield scaled conventional melee weapons, not anatomically exotic Draykin. This should be a major visual distinction from Thornguard, without changing any previously approved Thornguard anatomy. Preserve the Kharak's recognizable tyrannosaur head, jaws, overall power and tail.
+
+**Author-directed aesthetic:** Imperial Kharak fashion and military equipment should embrace the advanced technological manufacture of the Naga Imperium, especially Kobold engineering, with **near-modern practical construction combined with fantasy styling**. Visual inspiration includes **Cyberpunk street samurai** and the **dark clothing, clean industrial melee-weapon silhouettes and heroic military styling associated with Cloud Strife in Final Fantasy VII Remake**; do not copy specific protected character designs. Civilian fashion includes **more furs** and **leather jackets, especially for men**. Melee weapons remain a major military visual focus. These are approved broad directions; exact garment patterns, materials, equipment functions, uniforms and collar styles remain **unapproved proposals**.
+
 ## November 7, 2026 — Gentle speech to hatchlings (APPROVED)
 
 Kharak adults commonly remain capable of swearing around their young while **softening their tone and conduct** toward hatchlings. Reassurance, physical gentleness, patience and affectionate nicknames distinguish Hearth speech from rough military banter; the approved example **“little fang”** is one such endearment, not compulsory. This complements the established protective Hearth ethic. Fashion, armor, weapons and collar aesthetics remain to be approved separately.
