@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Mirror evidence and separate mental privacy/silence rights (LATEST)
+
+- **Approved correction:** mirrors record visual/audio information; Orbs **store** mirror recordings but cannot directly record sight or sound. Call video/audio recordings **mirror evidence**, not 'Orb recordings'. Authenticated mirror evidence and eyewitness accounts are favored; Imperial courts tend to favor free-folk over enslaved eyewitness testimony.
+- **Approved:** psionic mind reading, Orbcraft memory extraction and Tidekin Mirrorwake may support innocence or guilt, but are not infallible. Compelled deep mind reading or memory transfer is painful, dangerous, potentially permanently harmful, and restricted in principle to very high-stakes cases with extensive independent evidence when ordinary proof remains inconclusive. Trivial emotion-reading capability does not imply unrestricted admissibility.
+- **Approved:** free people hold separate rights to **silence** and **mental privacy**. They can invoke each independently; unconsented emotional readings cannot be used as evidence or grounds for suspicion. Masters have significant authority over whether and how their slaves are questioned; exact bounds remain open.
+- **PROPOSED ONLY:** a special **Writ of Deep Inquiry**, requiring independent Crown Arbiter authorization, necessity, proportionality, exhaustion of safer means and a limited scope. Prior suggested evidence thresholds and court workflow are also pending explicit approval.
+
 ## November 7, 2026 — Kharak compassion toward other races' children (LATEST)
 
 - **Approved:** Kharak regard acts comparable to Hatchbane committed against children of **other races** as especially disgusting, though the protection of their own young remains more intense. This is primarily **informal cultural condemnation**, not an automatic expansion of the formal Kharak Hatchbane offense. It provides grounds for cross-cultural kinship, adopted/protected outsiders, and soldiers' crises of conscience.
