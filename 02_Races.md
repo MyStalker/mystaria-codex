@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 7, 2026 — Kharak family and allegiance distinctions (CANON)
+
+Kharak raise fiercely protected hatchlings in **Hearths** within wider oath-bound **Warclans**, and serving clans commonly belong to a Naga **Coil**. Offspring **do not inherit enslavement from their parents**; a teenage **First Oath** is commitment to warriorhood and clan, while the later **Second Oath** at army age embraces Coil service and usually accompanies a **Tatao**, the collar-coordinated tattoo displaying Coil then Warclan allegiance. Imperial Kharak predominantly worship **Arrest**; independent wilder clans favor **Baphomet**. **Kharzug Vornak, Khan of the Unbroken Word**, and his descendants are central to their history, and the descendants serve the highest Matriarch. Name tradition: personal name, Warclan name, earned epithet. Detailed canon and open boundaries: `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 ## November 7, 2026 — Kharak (Rexfolk) approved development (CANON / OPEN MECHANICS)
 
 **Kharak** is the approved racial name for huge anthropomorphic tyrannosaur Rexfolk, the Naga Imperium's terrifying heavy warriors. Common but less numerous than Duskpaws, they prize rank, strength, competence, and allegiance; clanless/masterless freedom can carry deep shame. They have the approved Fang-to-High-Warchief military ranks, First Fang appointments, and evidence-led Right of Challenge. Their ancestors were formidable unstable clan conquerors crushed and heavily restrained by the Serpentari, later more closely integrated into Naga-led armies. Independent clans remain. They are **not unintelligent**: target base INT at least 15, preferably 17, but no complete attribute sheet is approved. Desired red affinity, highest ordinary racial STR, greatsword-scale bites, larger weapon multipliers and other mechanical details await approval. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
