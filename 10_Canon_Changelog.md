@@ -1,5 +1,17 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak Hearths, Warclans, Tatao, Arrest worship and Vornak approved (LATEST)
+
+- **Family:** Hearth homes, extended multihousehold Warclans and wider Imperial Coil allegiance; adoption, shared hatchling care, martial education, affection, and clanlessness as severe social burden. Both mothers and fathers may lead by merit.
+- **Hatchlings:** Intensive protective ethos; harm to a hatchery can provoke furious collective challenges even where ordinary challenge law grants direct standing to the First Fang. Special emergency procedures and collective standing are **UNRESOLVED**, not automatically granted.
+- **Legal exception:** **Kharak offspring are exempt from hereditary slavery**, overriding the Gilded Coil's general maternal-status rule for this race. The **First Oath** recognizes teenage warrior responsibilities to Warclan; the **Second Oath** at army-service age is the culturally acclaimed voluntary entry into Coil service, ordinarily accompanying their **Tatao**. Exact ages and legal safeguards remain undefined; rare Kharak refuse or depart.
+- **Tatao:** Unique named Kharak allegiance tattoos aligned visually with collars, prominently displaying their Coil and secondarily Warclan. These are **belonging marks**, distinct from Corvyn witnessing/Ink Name art. Transferring allegiance is consequential; exact designs and retattooing procedures open.
+- **Faith:** Imperial Kharak chiefly honor **Arrest** with an interpretation emphasizing fair challenge and familial responsibility; independent wild clans often follow **Baphomet**.
+- **Names and Vornak:** Approved personal + Warclan + earned title pattern; **Kharzug Vornak, Khan of the Unbroken Word**, commonly called **Vornak** when quoted. His descendants remain in the highest-ranked Matriarch's service as the most prestigious Kharak lineage. Examples Kharzug, Thorgat, Borghan, Durgan, Varkul, Ghorak, Vraksha, Kharza, Rhazka, Tharka, Zhurra, Vorga; Warclans Vornak, Kharvul, Thrazgor, Gorvash and Dravok.
+- **Historic ruling:** The **Honored Defeat** is chosen. Vornak accepted an authentic strategic defeat by an ancient Serpentari monarch; the sovereign technically honored the compact but his empire enslaved and heavily restrained the Kharak. Historic contest is ancestral in spirit to modern Golden Conquest; modern sport rules are unchanged. Serpentari king's personal name and exact chronology not yet approved.
+- Owning file: `33_Kharak_Rexfolk_Culture_and_Command.md`. Detailed Tatao patterns, literal ceremony scripting, legal transfer process, numeric stats and High King name remain **OPEN**.
+
+
 ## November 7, 2026 — Kharak supplemental approvals: cultural exchange, Court of Fangs, Khan's maxims (LATEST)
 
 - Author approved earlier suggestions: Kharak–Naga mutual cultural influence in military frankness, tactical prestige, recorded rank, stable Coil duty, law and precedent, blended Imperial luxury/military adornment, and cross-cultural speech.
