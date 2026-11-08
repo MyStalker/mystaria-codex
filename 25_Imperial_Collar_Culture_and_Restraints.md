@@ -1,5 +1,10 @@
 # Imperial Collar Culture, Regional Slavery Philosophies, and Orb Interfaces
 
+## November 8, 2026 — Claspjaw approved as Kharak collar name (CANON)
+
+The ordinary Kharak industrial collar has the universal name **Claspjaw**. This names the already approved asymmetrical heavy metal, exposed handcuff-style clasp, central gap, dog-tag identification and no-orb design; optional spiked undercollars remain a nightlife style. The earlier proposal **Ironjaw** is superseded, not canonical. The collar's unapproved mechanical details and established Scale Register and specialist restraints remain unchanged.
+
+
 ## November 8, 2026 — Kharak industrial collar silhouette (AUTHOR-APPROVED; NAME PENDING)
 
 The ordinary Kharak Imperial collar is a **heavy, asymmetrical, industrial metal band** with an **exposed interlocking handcuff-like closure**, unlike the smooth orb-bearing Kobold collar; **no orb** is included. A **deliberate central/front gap**, **hanging dog-tag-style identification**, and popular **spiked undercollar** fashion are part of the author's direction. A universal design name is required but **“Ironjaw” remains a proposal**. Exact locking geometry, bridge across the gap, tag format, finishes, and optional ornamentation remain unresolved. Preserve ordinary Imperial identification/Scale Register conventions and separate specialized magical restraints.
