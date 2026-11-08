@@ -1,5 +1,11 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak compassion toward other races' children (LATEST)
+
+- **Approved:** Kharak regard acts comparable to Hatchbane committed against children of **other races** as especially disgusting, though the protection of their own young remains more intense. This is primarily **informal cultural condemnation**, not an automatic expansion of the formal Kharak Hatchbane offense. It provides grounds for cross-cultural kinship, adopted/protected outsiders, and soldiers' crises of conscience.
+- **Approved historical direction:** generations of Kharak families, elders and warriors began rejecting ancestral Extinction practices before Vornak; he helped give the emerging protective ethic the force of law rather than single-handedly inventing it. Exact legislative history remains open.
+- **Still PROPOSED:** three-part motive/opportunity/means review, evidentiary preference for authenticated Orb records and free-folk eyewitnesses, tiered proof thresholds, and court sentencing workflow. No new procedural specifics canonized pending author approval.
+
 ## November 7, 2026 — Hatchbane degrees, ancient substitution and Kharak Extinction past (LATEST)
 
 - **Approved Third Degree:** substantial neglect/disrespect, poor food/lodging and abusive care, including failures caused by compulsory slave duties; reparations, often humiliating apology, mandatory excellence in subsequent care; repeated failure may escalate.
