@@ -1,5 +1,13 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 7, 2026 — Kharak profane speech (APPROVED)
+
+Kharak everyday language can be **crude, profane, direct, and exceptionally inventive in insult**, contrasting with the notably gentle way many address their hatchlings. Their distinctive everyday exclamation is **“Fangrot!”**. **“Arrest's Arse!”** is an approved irreverent invocation of Arrest, a deliberately profane counterpoint to the Moontouched **“Sweet Surrender!”**. **“Rot your word!”** is a serious curse against betrayed promises. **“Coward!”** is a commonplace direct accusation, especially for someone who flees a fight, though context can distinguish shameful abandonment from a responsible tactical retreat.
+
+Approved colorful expressions: **“Fuck your banner.”** (contempt for authority or allegiance); **“You couldn't lead shit downhill.”** (incompetent command); **“Piss-for-brains.”** (fool); **“Shitjaw.”** (empty talker); **“Arse-biter.”** (cowardly flatterer or bully); **“You've got more balls than brains.”** (reckless courage, sometimes affectionate); **“Go chew rocks.”** (dismissal); **“I'll shove that title up your arse.”** (contempt for rank used as a shield). These are flexible speech habits, not compulsory catchphrases. Serious insults such as **clutchless** remain rare; do not conflate ordinary vulgarity with Hatchbane accusations.
+
+**Rejected:** **“Shit and splinters!”** as too silly for the intended voice. **“Cracked shell!”** is not the signature everyday swear. **“Fangrot!”** is the chosen replacement. Previous approved signature expressions **“Count them home.”**, **“My word stands.”**, and **“Then I stand with it.”** remain unchanged.
+
 ## November 7, 2026 — Kharak signature expressions (APPROVED; profanity pending)
 
 The author explicitly approves **“Count them home.”** as a characteristic Kharak farewell and instruction before dangerous duty: bring all those entrusted to you back safely. The author also approves the serious commitment **“My word stands.”** and its familial/companion response **“Then I stand with it.”** These are social conventions, not magical contracts. Their use should feel natural rather than mandatory in every exchange.
