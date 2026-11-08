@@ -1,3 +1,10 @@
+
+
+## November 8, 2026 — Energy versus magic-generated physical attacks (LATEST AUTHOR GUIDANCE)
+
+**AUTHOR-APPROVED DESIGN PHILOSOPHY:** Direct energy-based spells should generally **deal more damage and offer more tactical versatility/status options** than otherwise comparable magic-generated or magic-propelled physical attack spells. Physical spells are valid deliberate counters against high-MR opponents (for example, Nullporcelain mage hunters), but the ordinary damage catalogue should **not** be about half physical merely for variety or flavor. The ratio is qualitative, not a numeric spell-count quota or a universal attack multiplier. Elemental Magnitude applies to relevant energy spells; MR is a separate item magic-defense property, not ordinary physical AR. Material rules control whether a magically powered attack actually delivers energy or indirect physical impact.
+
+**USER-AUTHORIZED OPTIONAL TEST EXAMPLES, NOT NEW SPELL CANON:** For later simplified benchmarking only, compare existing **Ignis** used as a basic fire-energy attack and a working test called **Slingshot** that produces/propels a physical projectile. Each example deals approximately **Light-weapon baseline attack damage**, with attacking output **INT-scaled** rather than STR. This testing comparison does **not** formally introduce an Incantation named Slingshot, set its color, MP/SP price, prerequisite, alter Ignis's approved purchase ledger/alterations, or contradict the general intention that *fully developed* energy spells can be stronger and more versatile. An actual rock strike is defended by physical AR and ordinary relevant physical defenses, not by high MR just because magic produced the impetus. Resolve specific spell stats and MR/Elemental Magnitude formula when the full Sorcery catalogue is designed.
 # Mystaria — Sorcery, Elder Resonance, Incantations and Alterations
 
 **Authority:** CANON for core Sorcery economy, the approved Black catalogue, and the most recent approved Red revisions; APPROVED BUT INCOMPLETE TRANSCRIPTION for Blue, Green, and White alteration names. **Edition:** 2026-11-03.
