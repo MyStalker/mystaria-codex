@@ -1,5 +1,9 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 7, 2026 — Approved Kharak signature speech (PARTIAL)
+
+The author approves **“Count them home.”** as a common instruction/farewell before dangerous duty, and **“My word stands.”** with the response **“Then I stand with it.”** as a serious nonmagical promise exchange. The preferred form of the earlier proposed insult is **“Rot your word.”**, not “Rot your oath.” Kharak everyday profanity should be unusually rough, vivid and competitive with Tidekin verbal flair; the specific new vulgar expressions remain **proposals**, not canon. Do not adopt “Cracked shell!” as the everyday swear. See `12_Languages_and_Linguistic_Customs.md`.
+
 **Status:** PARTIALLY APPROVED CANON. Initial development and explicit approvals November 7, 2026. **Kharak** is the approved racial name; **Rexfolk** is a descriptive name. New precise mechanics, fashion and full language remain unresolved. Approved legal designations, cross-cultural practices and Khan epithet/maxims are below; his name, naming system, and Honored Defeat are now approved; the Serpentari monarch's identity remains open.
 
 ## Race and broad direction (author-established)
