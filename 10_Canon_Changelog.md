@@ -7,7 +7,7 @@
 - **Unchanged:** collar name Claspjaw; optional spiked undercollar; Scale Register identification; special magical collars separate. Exact inner engineering, security ratings, and identification encoding still unresolved.
 
 
-## November 8, 2026 — Claspjaw truly open front and centered dog tags (LATEST)
+## November 8, 2026 — Claspjaw truly open front and centered dog tags (SUPERSEDED)
 
 - **Author approved:** Claspjaw is **C-shaped with a genuinely unobstructed central/front opening**. No bridge, hidden support, chain, ring, strap or plate joins its ends across the gap.
 - **Author approved:** identification dog tags **hang centered in the front gap**, suspended freely from a single attachment point, **not connecting both ends**.
@@ -22,7 +22,7 @@
 - **Visual art instruction:** use the user's original Kharak image as the reference for pose and anatomy, reconciled with approved humanoid arms, for subsequent master artwork. Specific final art awaits approval.
 
 
-## November 8, 2026 — Kharak industrial collar features approved; naming open (LATEST)
+## November 8, 2026 — Kharak industrial collar features approved; naming open (HISTORICAL; name since approved)
 
 - **Approved design direction:** heavier industrial counterpart to Kobold collar, without orb; asymmetrical handcuff-like interlocking closure; front/central gap; hanging dog-tag identification; fashionable spiked undercollars for nightlife.
 - **Pending approval:** universal collar name (**Ironjaw** suggested), precise structural gap solution, finishes, tags, embellishments and engineering specifics. Do not add unapproved magic.
