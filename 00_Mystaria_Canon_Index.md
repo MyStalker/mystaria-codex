@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Hatchbane degrees and Kharak historical Extinction — November 7, 2026
+
+**CANON:** Third-Degree Hatchbane concerns substantial neglect and mistreatment with reparations and improvement; Second Degree concerns substantial injury/kidnapping and culpable failure to protect, ordinarily punished by the permanent painful **Banebrand**; First Degree includes deliberate killing, commissioned assassination and culpably foreseeable lethal kidnapping, with forfeiture of title/Coil or **Decimation**. Ancient adult-offspring life substitution survives only as a nearly unused non-Imperial, non-Arrest tribal blood-law exception; only a true Serpentari may rescind that ancient provision. Earlier Khans practiced **Extinction** of rival bloodlines and some minor species, including children; modern Kharak protection of hatchlings represents imperfect moral reform. Details and boundaries: `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Serpentari four-name meanings and inherited Ascendancy — November 7, 2026
 
 **CANON:** Ancient true Serpentari have four proper names: **Self, Blood, Great Coil, Ascendancy**. The fourth name is **inherited at birth** and may later be replaced with an **earned** name celebrating demonstrated achievement; retention is permissible. Additional titles are separate. This does not alter the approved two-name Untouched Serpentari tradition. See `24_Racial_Naming_Conventions_and_Namebook.md`. The historical Serpentari First Sovereign who defeated Vornak is not yet named.
