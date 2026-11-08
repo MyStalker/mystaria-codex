@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak development sequence and Vornak open history — November 7, 2026
+
+**AUTHOR DIRECTION:** Keep Vornak's detailed personal history unresolved for future stories. Develop Kharak linguistic customs first, then casual/uniform fashion, collar style, and a three-quarter-view master racial illustration. New designs and phrases require approval. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Hatchbane evidentiary procedure and Deep Inquiry writ — November 7, 2026
 
 **CANON:** Court of Fangs assesses motive/opportunity/means and authenticates **mirror evidence**; Third/Second/First Degree require preponderance, clear-and-convincing, and beyond-reasonable-doubt proof respectively. Five stages: petition/protection, investigation, hearing, judgment, sentence/review. Exceptional compelled mind/memory examination requires an independently authorized, narrow **Writ of Deep Inquiry**, substantial prior evidence, exhaustion of safer methods and proportionality; free persons retain separate silence and mental privacy rights. See `33_Kharak_Rexfolk_Culture_and_Command.md`. Detailed appeals and slave safeguards remain open.
