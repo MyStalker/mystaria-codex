@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak Warflow stances and prepared Fangscript — November 8, 2026
+
+**LATEST AUTHOR DIRECTION:** **Attack Flow** and **Guard Flow** are **two separate skill trees**, each developing a Combo pool toward intended **3 untrained / 8 mastered**; **only one martial stance's benefits at a time**. Attack Flow stance evolution: elementally imbued strikes, elemental movement, then small flat Attack Fangscript discount. **Guard Flow tactical overhaul requested:** avoid primarily numerical DEX/wound resistance/reversal; candidate enemy Reads, repositioning/redirection and counters **not approved**. Meditation may prepare spendable Fangscript momentum in ~**6-second intervals**, +1 per 20 effective INT and lasting ~**10 minutes**; these **numerical details remain proposals** until approved, not a definitive purchase rule. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `08_Other_Crafts.md`. Existing combat Pressure Points are unrelated to Attack/Guard Combo.
+
+
 ## Thornguard MP reserve and the new Martial Arts framework — November 8, 2026
 
 **LATEST APPROVAL:** Thornguard MP = **2 × floor(effective END)**, no personal mana shaping. Ordinary full **equipment Soul Strain capped at half their natural doubled reservoir**, protecting capacity (not a perpetual current-MP minimum). Compatible Concordance and external transfer pathways still required. Thornguard and Moontouched can learn otherwise eligible genuinely passive/mana-free/external-powered crafts and Jestercraft, not ordinary self-Sorcery. **Arts** are the intended martial branch: Thornguard mana-free enduring martial play, Kharak supernatural combat. Kharak intended structure: **Warflow Attack/Guard combos + stat-scaling named Fangscript** with meaningful noncombat preparation and inefficient direct red-MP casting. This is **approved system direction, not numerical/purchasable Art canon**. Details: `01_World_and_Shimmer.md`, `08_Other_Crafts.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, `10_Canon_Changelog.md`.
