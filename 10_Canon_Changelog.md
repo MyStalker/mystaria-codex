@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Kharak white-and-gold master reference art APPROVED (LATEST)
+
+- **Author explicitly approved the second generated Kharak character reference sheet** (*Kharak — Rexfolk of the Imperium*) as the canonical visual master. This is the full-body white-scaled gold-Tattao red-eyed female soldier with massive industrial sword, dark light-duty uniform, cape-like outerwear, smooth continuous tail, close-fitting Claspjaw, anatomical sketches and expression studies.
+- **Artwork preservation:** Exact source PNG uploaded to persistent Library: `/Mystaria/Approved_Art/Mystaria_Kharak_Approved_Master_Reference_White_Gold.png`. **The binary image has not been committed into GitHub**; the GitHub documents point to the Library asset.
+- **Visual precedence:** The new approved master reference supersedes prior unapproved character-art iterations as the Kharak master. The separately approved chained Claspjaw equipment technical sheet still supplies collar mechanism details.
+- **Unaffected:** Kharak scale-color diversity, individual outfits and equipment variance, mechanics, stat requirements and unresolved Claspjaw security engineering.
+- **Updated:** `33_Kharak_Rexfolk_Culture_and_Command.md`, `11_Visual_Style_Guide.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+
 ## November 8, 2026 — Claspjaw original chained technical sheet selected as FINAL design (LATEST APPROVAL)
 
 - **Author-approved visual authority:** original parchment *Claspjaw — Standard Kharak Collar* technical illustration showing heavy brushed gunmetal near-ring with **two squared front ends, small gap, short chain linking the ends, and two dog tags hanging from the chain's center**. One side features an **asymmetrical toothed handcuff-style ratchet, rectangular keyed lock housing**, with industrial yellow-gold diagonal stripes and manufactured hardware.
