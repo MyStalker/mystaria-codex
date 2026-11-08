@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Claspjaw definitive reference: chained split-front cuff — November 8, 2026
+
+**LATEST CANON:** The author chose the *original Claspjaw — Standard Kharak Collar* parchment technical artwork as the standard design: broad brushed gunmetal industrial cuff, squared front terminals with short visible gap, a **loose chain bridging them**, **two dog tags hanging from the chain midpoint**, and side-mounted asymmetrical toothed handcuff ratchet and keyed housing; yellow-gold industrial diagonal stripes. This **supersedes the earlier fully unobstructed open C-shaped/no-chain ruling** (see below, now historical only). See `25_Imperial_Collar_Culture_and_Restraints.md`, `11_Visual_Style_Guide.md`, `33_Kharak_Rexfolk_Culture_and_Command.md` and changelog. Exact mechanical function remains open.
+
+
 ## Claspjaw open C-shaped front — November 8, 2026
 
 **CANON:** The Kharak Claspjaw has a truly **unobstructed C-shaped front gap**, never a complete ring or a split front bridged by chain/metal. Two identification dog tags hang freely in the center, supported from one side without joining the ends. Keep asymmetrical industrial handcuff-style ratchet. Security/retention engineering is still open. See `25_Imperial_Collar_Culture_and_Restraints.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, and `11_Visual_Style_Guide.md`.
