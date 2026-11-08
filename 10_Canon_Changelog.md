@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Thornguard reserve and Kharak Arts design direction (LATEST)
+
+- **Approved Thornguard change:** natural white MP is **2 × floor(effective END)** (level-1 END 20 = 40 MP). They retain no direct self-casting/shaping/spending. **Equipment Soul Strain incurs ordinary full strain** but has a **hard ceiling of 50% of doubled natural MP** (20 in example), preserving other half of *capacity* for cooperative use, **not guaranteeing unspendable current MP**. Other Soul Strain origins remain governed by their own rules; any global total-cap interaction remains unresolved.
+- **Approved access principle:** Thornguard and ordinary Moontouched may qualify for genuinely passive/mana-free or otherwise lawfully externally powered Crafts, alchemy/crafting and Jestercraft where the owner prerequisites permit; neither gains unauthorized active personal mana shaping or ordinary Sorcery. Chosen-Warlock exceptions preserved. Mana transfers to allies/wells require compatible established interfaces, not automatic free self-release.
+- **Author's Kharak Martial Art development direction:** Warflow and Fangscript work together. Warflow has distinct Attack and Guard combo-building development, sustained red mana investment can enhance benefits and combo ceiling; Fangscript uses named stat-scaling physical supernatural techniques with significant noncombat use via brief meditation/preparation and very inefficient red-MP direct invocation without combo. This direction is to be developed; **no numeric mechanics, SP prices, full rank skills, definitive named moves, or power scaling are approved**. Attack/Guard combo is separate from existing Pressure Points.
+- **Author's Thornguard Arts direction:** mana-free, highly enduring, somewhat lower scaling and rich combat decisions; details still to be designed. Files: `01_World_and_Shimmer.md`, `08_Other_Crafts.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+
 ## November 8, 2026 — Kharak racial stat block and natural bite approved (LATEST)
 
 - **APPROVED level-1 base stats:** STR 22, DEX 15, END 20, INT 17, SPD 14, base total 88. Permanent **STR +25%, INT +25%**, all other racial attribute multipliers neutral, **no Speed penalty**. Effective values STR 27.5, DEX 15, END 20, INT 21.25, SPD 14, total **97.75**. These follow universal Hero stat gain and 25%-increment racial rules.
