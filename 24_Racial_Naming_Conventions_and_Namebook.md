@@ -1,5 +1,12 @@
 # Mystaria — Approved Racial Naming Conventions and Common Namebook
 
+## November 7, 2026 — Ancient Serpentari four-name format (CANON FORMAT; INTERNAL SEMANTICS PROPOSED)
+
+**Explicit author decision:** True ancient Imperial Serpentari have **four proper names**, rather than the more usual two, and may append additional ceremonial/regnal titles. Their linguistic style combines the approved Untouched Serpentari's aristocratic ceremonial heritage (option A) with elaborate statements of dominion and achievement (option C), but should sound somewhat more alien and exotic. This is a distinct ancient true-Serpentari practice; it does **not** retroactively replace the existing 30 approved two-name **Untouched Serpentari** examples.
+
+**PROPOSAL pending approval:** Slot 1 = intimate personal identity or Self; slot 2 = ancestral bloodline or Blood; slot 3 = Great Coil dynastic affiliation; slot 4 = an earned/adult Ascendancy identity reflecting achievement, provisional when young. Sample four-part name: **Vaessarith Theryn Voryss Xalquorin**. Neither the four sample names nor their slot assignment is finalized canon. This proposal is compatible with the approved true Serpentari **Great Coils**, **Coilkeepers**, **Nine Thrones** and elective supreme **First Sovereign** institution; kingship terminology must not silently supplant those institutions. More elaborate regnal style is distinct from the four proper names.
+
+
 ## November 7, 2026 — Kharak names added (CANON)
 
 **Kharak** (Rexfolk) use a strong, consonant-rich **personal name + Warclan name**, optionally followed by an **earned epithet**. Clan membership may be inherited, adopted or formally joined; both sexes may use overlapping name patterns. Examples of personal names: Kharzug, Thorgat, Borghan, Durgan, Varkul, Ghorak, Vraksha, Kharza, Rhazka, Tharka, Zhurra, Vorga. Example Warclans: **Vornak, Kharvul, Thrazgor, Gorvash, Dravok**. The established historical figure **Kharzug Vornak, Khan of the Unbroken Word**, is commonly referred to simply as **Vornak**; his descendants remain the exceptionally prestigious Warclan serving the highest-ranking Matriarch. This extends the existing 15-group namebook; it does not rename its older 450 approved example names. Existing **Untouched Serpentari** ceremonial lineage naming is not altered. Separate proposals for the ancient true Serpentari sovereign remain pending. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
