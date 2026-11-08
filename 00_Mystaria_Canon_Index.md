@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Claspjaw and reptilian scale variation — November 8, 2026
+
+**CANON:** **Claspjaw** is the Kharak industrial collar's universal name, replacing the proposed Ironjaw. Kharak commonly have natural red, blue and deep-green scales; Naga and Serpentari may have elaborate real-snake-like natural patterning. Preserve the original supplied Kharak image's anatomy and pose when making the master reference, with newer humanoid-arm decisions respected. See `33_Kharak_Rexfolk_Culture_and_Command.md`, `25_Imperial_Collar_Culture_and_Restraints.md`, `02_Races.md`, and `11_Visual_Style_Guide.md`.
+
+
 ## Kharak industrial collar direction — November 8, 2026
 
 **APPROVED FEATURES:** heavy asymmetric metal collar, visible handcuff-like interlocking closure, central gap, hanging dog-tag identification, optional spiked undercollar, no Kobold-style orb. Universal name and exact mechanical/ornamental details remain open; “Ironjaw” is only proposed. See `25_Imperial_Collar_Culture_and_Restraints.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
