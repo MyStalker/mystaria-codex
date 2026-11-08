@@ -1,5 +1,9 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 7, 2026 — Gentle speech to hatchlings (APPROVED)
+
+Kharak adults commonly remain capable of swearing around their young while **softening their tone and conduct** toward hatchlings. Reassurance, physical gentleness, patience and affectionate nicknames distinguish Hearth speech from rough military banter; the approved example **“little fang”** is one such endearment, not compulsory. This complements the established protective Hearth ethic. Fashion, armor, weapons and collar aesthetics remain to be approved separately.
+
 ## November 7, 2026 — Kharak profanity and family contrast (APPROVED)
 
 Kharak are often enthusiastically profane, with rough and inventive insults rivaling Tidekin verbal flair. This makes their gentle speech toward their own young especially distinctive. **“Fangrot!”** is their signature everyday curse; **“Arrest's Arse!”** is an irreverent divine exclamation contrasting with Moontouched “Sweet Surrender!”; **“Rot your word!”** condemns broken promises; **“Coward!”** is commonplace for perceived flight from a fight. Approved further profane insults and dismissals are catalogued in `12_Languages_and_Linguistic_Customs.md`. **“Shit and splinters!”** is rejected as too silly. Do not erase the distinction between reckless cowardice accusations and the established Kharak obligation to preserve soldiers' lives.
