@@ -1,5 +1,12 @@
 # Mystaria — Other Racial Crafts and Special Magic
 
+## November 8, 2026 — Kharak Martial Arts design refinement (PROGRESSION PENDING)
+
+**Warflow has two separate skills: Attack Flow and Guard Flow.** They advance independently and each tracks relevant attack/guard Combo; a martial artist can benefit from only **one stance at a time**. Intended basic combo limit **3**, rising toward **8** with full individual-Flow skill mastery; the exact five-rank sequence is a calibration proposal, not a newly priced rank table. **Attack Flow's approved design direction:** successive stance unlocks provide scaling attack elemental imbuement, elemental mobility at qualifying combo, then a small flat discount on offensive Fangscript techniques; maintain red-mana compatibility. **Guard Flow is intentionally unfinished**: replace originally floated passive DEX/wound-ignoring/wound-reversing bonuses with meaningful decisions enabled by high guard combo; enemy-reading, redirection and carefully timed counters are candidate approaches only.
+
+**Author-proposed meditation preparation:** roughly **6 seconds per increment**, additional **1 momentum per 20 effective INT**, about **10 minute** duration. This is a **working numerical proposal** for paying eligible Fangscript out of combat or at fight onset; prepared momentum is spent, not permanently retained. It must not automatically generate extra attacks, universal Pressure Points, or unbounded combo. Mathematical interpretation, limit, interaction with stance passives and high-INT acceleration are still pending. The intended three payment channels remain earned Combo, prepared focus, and costly direct red MP. Do not canonize example named maneuvers or numbers yet.
+
+
 ## November 8, 2026 — Martial Arts versus Crafts: approved design direction
 
 The author establishes **Arts** as the prospective **martial-arts branch**, distinct in identity from mana-shaping **Crafts**. Thornguard and Kharak are to have **racial Martial Arts** rather than conventional innate racial spell-shaping Crafts. **Thornguard Arts** use **no MP**, must be comparatively less explosive/scaling than mana-consuming magical effects, and emphasize repeatable meaningful fighting options and endurance. **Kharak Arts** are **supernatural bodily combat feats** and can be powered by their red mana, but their detailed costs/tiers remain to be designed. These are governing high-level distinctions only; no full rank trees, SP fees, technique formulas, or active effect list yet approved.
