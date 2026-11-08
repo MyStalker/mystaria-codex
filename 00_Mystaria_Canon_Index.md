@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak anatomy and industrial fashion direction — November 7, 2026
+
+**CANON DIRECTION:** Kharak have powerful, dexterous humanoid arms, distinct from Thornguard; their Imperial look combines Kobold-enabled technological practicality with dark street-samurai/fantasy military styling and industrial melee weapons. Casual dress includes furs and leather jackets, especially for men. Exact fashion, materials, collars and master artwork await approval. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
+
 ## Kharak Hearth speech — November 7, 2026
 
 **CANON:** Kharak may swear freely around hatchlings but soften their tone, conduct and patience; **“little fang”** is an affectionate nickname. See `12_Languages_and_Linguistic_Customs.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`. Fashion and military visual concepts remain under development.
