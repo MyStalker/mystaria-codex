@@ -1,5 +1,10 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak hatchling speech approved; fashion next (LATEST)
+
+- **Approved:** Kharak adults need not censor profanity around hatchlings; instead they speak and act with noticeably greater tenderness, patience and reassurance. **“Little fang”** is an accepted affectionate nickname, not mandatory for all families.
+- **Next design phase:** Imperial Kharak casual dress, uniforms, armor, weapons and later collars/master racial art. No proposed new outfit or weapon aesthetic is canon until expressly approved.
+
 ## November 7, 2026 — Kharak profane lexicon approved (LATEST)
 
 - **Approved:** “Fangrot!” as signature everyday curse; “Arrest's Arse!” as profane invocation; “Rot your word!” as the corrected curse; and commonplace “Coward!”.
