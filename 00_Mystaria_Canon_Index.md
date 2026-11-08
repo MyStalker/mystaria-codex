@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak Harchband crime terminology — November 7, 2026
+
+**CANON:** The Kharak crime of harming an egg or hatchling is called **Harchband**; its perpetrators are **hatch-traitors**. This replaces the unapproved Hatchtreason terminology. Statutory elements and sentencing remain open. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Ancient Serpentari four-name convention — November 7, 2026
 
 **CANON FORMAT:** True ancient Imperial Serpentari possess **four proper names**, optionally plus earned ceremonial/regnal titles. Their sound blends aristocratic dynastic tradition with exotic grandiloquent titles. **PROPOSAL:** Personal Self, ancestral Blood, Great Coil, and Ascendancy as the four positions. This supplements rather than replaces the established **Untouched Serpentari** two-name namebook. Reconcile any 'High King' as appropriate with the established **Nine Thrones** and **First Sovereign**. Kharak *Hatchtreason* remains an unapproved crime-name proposal. See `24_Racial_Naming_Conventions_and_Namebook.md` and `10_Canon_Changelog.md`.
