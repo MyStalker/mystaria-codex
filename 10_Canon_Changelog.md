@@ -1,5 +1,10 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Vornak history intentionally left open; Kharak production order (LATEST)
+
+- **Author direction:** preserve Vornak's detailed biography, motives, campaigns and chronology as deliberately **open** for future plotlines; do not invent finalized history beyond previously approved broad canon.
+- **Development order:** Kharak speech and linguistic customs first; then casual/uniform clothing; then collars coordinated with Tatao; finally three-quarter-view master racial artwork. New designs and idioms remain proposals until expressly approved.
+
 ## November 7, 2026 — Hatchbane evidence and Deep Inquiry procedure approved (LATEST)
 
 - **Approved:** Court of Fangs addresses motive, opportunity and means; authenticated **mirror evidence** and eyewitness accounts are favored, with independent corroboration and consideration of exculpatory evidence. Free-folk testimony traditionally receives greater weight than enslaved testimony, but corroborated enslaved testimony is admissible. Direct proof can establish guilt without separately proving a specific motive.
