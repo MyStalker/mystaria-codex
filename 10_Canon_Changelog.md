@@ -1,8 +1,16 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Tattao spelling; Kharak varied uniforms and exposed heraldry (LATEST)
+
+- **Terminology corrected:** Kharak body heraldry is **Tattao**; **Tatao** is superseded.
+- **Approved:** occasional gold/silver teeth **in the mouth** and fashionable sunglasses.
+- **Approved:** uniform style and equipment depend on Coil wealth, purpose and institutional discipline. Poor Coils can have carefully maintained improvised equipment; Kharak may be farmhands, nightlife bouncers, household escorts, monster hunters, guards or regimented troops. Prestigious organized militaries rigorously enforce authorized uniforms.
+- **Approved:** lightly armored male and female uniforms may deliberately reveal back, male chest and female cleavage. Body Tattao is important enough that uniform textiles and armor repeat/continue the pattern when covered. Short-sleeved open-back crossbow sniper is an illustrative accepted look.
+- **Open:** precise uniform templates, material specifications, collar designs, and reference art.
+
 ## November 8, 2026 — Kharak provocative punk streetwear approved (LATEST)
 
-- **Approved:** Kharak civilian fashion leans strongly toward provocative punk and Coil Street Samurai styles, with revealing scales and tattoos socially normal. Primary combination: fitted asymmetric dense-woven top, reinforced high-waisted trousers, utility belt, visible Tatao, leather jacket worn open or cape-style.
+- **Approved:** Kharak civilian fashion leans strongly toward provocative punk and Coil Street Samurai styles, with revealing scales and tattoos socially normal. Primary combination: fitted asymmetric dense-woven top, reinforced high-waisted trousers, utility belt, visible Tattao, leather jacket worn open or cape-style.
 - **Approved compatible variations:** open/cropped vest; halter/open-back top; fur-trimmed jacket and traditional tooth ornaments. Tail accommodation and strong Kharak anatomy remain essential. No default skirts or excessive modesty; men may share revealing fashion styles.
 - **Open:** specific Imperial service uniform patterns, material grades, collar design and final three-quarter racial master artwork.
 
@@ -40,7 +48,7 @@
 ## November 7, 2026 — Vornak history intentionally left open; Kharak production order (LATEST)
 
 - **Author direction:** preserve Vornak's detailed biography, motives, campaigns and chronology as deliberately **open** for future plotlines; do not invent finalized history beyond previously approved broad canon.
-- **Development order:** Kharak speech and linguistic customs first; then casual/uniform clothing; then collars coordinated with Tatao; finally three-quarter-view master racial artwork. New designs and idioms remain proposals until expressly approved.
+- **Development order:** Kharak speech and linguistic customs first; then casual/uniform clothing; then collars coordinated with Tattao; finally three-quarter-view master racial artwork. New designs and idioms remain proposals until expressly approved.
 
 ## November 7, 2026 — Hatchbane evidence and Deep Inquiry procedure approved (LATEST)
 
@@ -95,16 +103,16 @@
 - **PROPOSAL, not canon:** **Hatchtreason** as Kharak offense covering knowing harm, abduction or culpable endangerment of eggs/hatchlings, and **Hatchtraitor** as condemnation of culprit. Alternatives Broodslaughter and Hearthbane. Differentiating deliberate violence, negligence, and accidents is important; no criminal statute or mandatory sentence is yet approved.
 
 
-## November 7, 2026 — Kharak Hearths, Warclans, Tatao, Arrest worship and Vornak approved (LATEST)
+## November 7, 2026 — Kharak Hearths, Warclans, Tattao, Arrest worship and Vornak approved (LATEST)
 
 - **Family:** Hearth homes, extended multihousehold Warclans and wider Imperial Coil allegiance; adoption, shared hatchling care, martial education, affection, and clanlessness as severe social burden. Both mothers and fathers may lead by merit.
 - **Hatchlings:** Intensive protective ethos; harm to a hatchery can provoke furious collective challenges even where ordinary challenge law grants direct standing to the First Fang. Special emergency procedures and collective standing are **UNRESOLVED**, not automatically granted.
-- **Legal exception:** **Kharak offspring are exempt from hereditary slavery**, overriding the Gilded Coil's general maternal-status rule for this race. The **First Oath** recognizes teenage warrior responsibilities to Warclan; the **Second Oath** at army-service age is the culturally acclaimed voluntary entry into Coil service, ordinarily accompanying their **Tatao**. Exact ages and legal safeguards remain undefined; rare Kharak refuse or depart.
-- **Tatao:** Unique named Kharak allegiance tattoos aligned visually with collars, prominently displaying their Coil and secondarily Warclan. These are **belonging marks**, distinct from Corvyn witnessing/Ink Name art. Transferring allegiance is consequential; exact designs and retattooing procedures open.
+- **Legal exception:** **Kharak offspring are exempt from hereditary slavery**, overriding the Gilded Coil's general maternal-status rule for this race. The **First Oath** recognizes teenage warrior responsibilities to Warclan; the **Second Oath** at army-service age is the culturally acclaimed voluntary entry into Coil service, ordinarily accompanying their **Tattao**. Exact ages and legal safeguards remain undefined; rare Kharak refuse or depart.
+- **Tattao:** Unique named Kharak allegiance tattoos aligned visually with collars, prominently displaying their Coil and secondarily Warclan. These are **belonging marks**, distinct from Corvyn witnessing/Ink Name art. Transferring allegiance is consequential; exact designs and retattooing procedures open.
 - **Faith:** Imperial Kharak chiefly honor **Arrest** with an interpretation emphasizing fair challenge and familial responsibility; independent wild clans often follow **Baphomet**.
 - **Names and Vornak:** Approved personal + Warclan + earned title pattern; **Kharzug Vornak, Khan of the Unbroken Word**, commonly called **Vornak** when quoted. His descendants remain in the highest-ranked Matriarch's service as the most prestigious Kharak lineage. Examples Kharzug, Thorgat, Borghan, Durgan, Varkul, Ghorak, Vraksha, Kharza, Rhazka, Tharka, Zhurra, Vorga; Warclans Vornak, Kharvul, Thrazgor, Gorvash and Dravok.
 - **Historic ruling:** The **Honored Defeat** is chosen. Vornak accepted an authentic strategic defeat by an ancient Serpentari monarch; the sovereign technically honored the compact but his empire enslaved and heavily restrained the Kharak. Historic contest is ancestral in spirit to modern Golden Conquest; modern sport rules are unchanged. Serpentari king's personal name and exact chronology not yet approved.
-- Owning file: `33_Kharak_Rexfolk_Culture_and_Command.md`. Detailed Tatao patterns, literal ceremony scripting, legal transfer process, numeric stats and High King name remain **OPEN**.
+- Owning file: `33_Kharak_Rexfolk_Culture_and_Command.md`. Detailed Tattao patterns, literal ceremony scripting, legal transfer process, numeric stats and High King name remain **OPEN**.
 
 
 ## November 7, 2026 — Kharak supplemental approvals: cultural exchange, Court of Fangs, Khan's maxims (LATEST)
