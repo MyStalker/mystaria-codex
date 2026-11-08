@@ -1,5 +1,11 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak signature phrases approved; vulgar lexicon pending (LATEST)
+
+- **Approved:** “Count them home.” as a Kharak safety/return farewell; “My word stands.” and “Then I stand with it.” as a customary, nonmagical commitment and response.
+- **Author correction:** use **“Rot your word.”** in place of proposed “Rot your oath.”
+- **Design direction:** Kharak profanity should be genuinely vulgar, rough and inventive, comparable in colorful impact to Tidekin swearing. “Cracked shell!” is rejected as too egg-centered for the everyday staple; “Broken fang!” and alternatives are not yet approved. Newly proposed curses and insults remain proposals.
+
 ## November 7, 2026 — Vornak history intentionally left open; Kharak production order (LATEST)
 
 - **Author direction:** preserve Vornak's detailed biography, motives, campaigns and chronology as deliberately **open** for future plotlines; do not invent finalized history beyond previously approved broad canon.
