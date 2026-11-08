@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak profane lexicon approved (LATEST)
+
+- **Approved:** “Fangrot!” as signature everyday curse; “Arrest's Arse!” as profane invocation; “Rot your word!” as the corrected curse; and commonplace “Coward!”.
+- **Approved profane lines:** “Fuck your banner.”, “You couldn't lead shit downhill.”, “Piss-for-brains.”, “Shitjaw.”, “Arse-biter.”, “You've got more balls than brains.”, “Go chew rocks.”, and “I'll shove that title up your arse.” Kharak speech is often rough and vulgar, with especially gentle family speech toward hatchlings.
+- **Rejected:** “Shit and splinters!” (too silly). “Cracked shell!” is not the signature everyday swear; “Fangrot!” supersedes it.
+- Existing approved “Count them home.” and “My word stands.” / “Then I stand with it.” remain in force. Other proposed language/fashion details remain unapproved.
+
 ## November 7, 2026 — Kharak signature phrases approved; vulgar lexicon pending (LATEST)
 
 - **Approved:** “Count them home.” as a Kharak safety/return farewell; “My word stands.” and “Then I stand with it.” as a customary, nonmagical commitment and response.
