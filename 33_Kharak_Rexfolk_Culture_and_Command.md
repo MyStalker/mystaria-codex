@@ -1,6 +1,6 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
-**Status:** PARTIALLY APPROVED CANON. Initial development and explicit approvals November 7, 2026. **Kharak** is the approved racial name; **Rexfolk** is a descriptive name. New precise mechanics, fashion, language, judicial designations, and specific Khan/sports history remain proposals or unresolved.
+**Status:** PARTIALLY APPROVED CANON. Initial development and explicit approvals November 7, 2026. **Kharak** is the approved racial name; **Rexfolk** is a descriptive name. New precise mechanics, fashion and full language remain unresolved. Approved legal designations, cross-cultural practices and Khan epithet/maxims are below; his full identity and historical contest outcome remain under design.
 
 ## Race and broad direction (author-established)
 - Anthropomorphic tyrannosaur mortals closely associated with the Naga Imperium, among the largest mortal races short of Serpentari. Common, but less populous than Duskpaws.
@@ -34,7 +34,7 @@ The Rexfolk use ancestral clan-derived titles for professional Imperial roles:
 The ancestral Rexfolk were formidable nomadic conquerors and accomplished warriors, capable of rapidly uniting armies but repeatedly destabilized by clan rivalries, betrayal, and succession struggles. Their problem was sustaining political unity, not lack of intelligence.
 - The ancient Serpentari defeated them, devastated or destroyed their homeland and held them under severe **physical and magical restraint**, much as early Drakyn were constrained, treating them as living weapons.
 - Over generations, many Rexfolk recast this catastrophe as the beginning of lasting order and even thanked the Serpentari; this is an ideological memory, not necessarily impartial history. Independent clans can remember differently.
-- Naga eventually developed closer ties with Rexfolk through cultural compatibility and practical necessity, integrating them as soldiers and commanders. Specific mutual cultural influences remain **PROPOSED** pending approval.
+- Naga eventually developed closer ties with Rexfolk through cultural compatibility and practical necessity, integrating them as soldiers and commanders. **Approved mutual cultural influence:** Rexfolk introduced a norm of blunt competence-based military criticism, deeply personal warrior oaths and battle-proven prestige into some Naga military households, while Naga introduced recorded ranks, durable Coil-centered allegiance, formal challenge procedures, strategic logistics and legal precedent into Kharak commands. Military Naga may speak bluntly among officers and Kharak commanders may be courtly negotiators. Luxury armor ornaments, warband insignia and military trophy accessories are approved cultural directions, but no compulsory garment design or mechanical effects are set.
 - The author proposes a legendary near-unifier, a great Khan who founded the practice of honorable leadership challenges, whose eventual defeat by the Serpentari came through a noncombat demonstration of strength associated with the earliest Imperial sports. **His identity, exact competition, circumstances, historical chronology and relationship to existing approved six sports are not yet canonized in detail.**
 
 ## Approved Right of Challenge, open procedure
@@ -43,10 +43,15 @@ The ancestral Rexfolk were formidable nomadic conquerors and accomplished warrio
 - This applies to small Matriarch-led gangs as well as great armies. Legal proceedings can lead to **Imperial reorganization** of service, including transfer of a small unit to a more suitable Matriarch or competitive offers of service for a major Warchief.
 - **Desertion** remains rebellion; properly sanctioned **reorganization within the Imperial hierarchy** is distinct. Spurious and overeager challenges can incur demotion or punishment.
 - **Drakyn** are particularly favored intermediaries and judges, in keeping with their oath culture and transnational overlapping territories. They do not automatically replace the Conclave of Coils, Scale Register or existing Coil Tribunals.
-- Court name, advocate/judge titles, standing procedures, evidentiary thresholds, appeals, enforcement, transfer of registered ownership, and dragons' precise legal jurisdiction **remain PROPOSED/UNRESOLVED**.
+- **Approved designations:** The **Court of Fangs** is the challenge forum; an **Oathspeaker** argues evidence and precedent for parties; a **Crown Arbiter** judges such disputes, with Drakyn especially respected in the role. Challenges require demonstrable rather than merely rumored failures; review can address substantial financial and household failures as well as military disasters. Reorganization may transfer warriors and registered service but not automatically convey all estates or debts. Greater contested cases may receive Drakyn arbitration; smaller disputes need not require a dragon's physical attendance. Exact thresholds, appeals, enforcement, dragon jurisdiction and transfer documentation remain unresolved.
 
 ## Pending design work
-1. Founding Khan: name, epithet, maxims, challenge and nonviolent defeat, connections to the approved six sports without rewriting their existing rules.
+1. Founding Khan: **Khan of the Unbroken Word** is approved as his epithet, and the guiding precepts 'A blade wins a battle. A command wins a war. A law preserves the victory.', 'Challenge your superior before his mistakes become your soldiers’ graves.', and 'The strongest warrior is not the one who never kneels. It is the one who knows whom to kneel before.' are approved attributed sayings. A strategic contest ancestral to **Golden Conquest** is approved as an intended connection, without changing the six existing sports or claiming Golden Conquest's modern regulations were ancient. The Khan's full name, opponent, and whether the Serpentari honored or betrayed the outcome remain OPEN.
 2. Exact racial attribute sheet, minimum/preferred intelligence and comparative Strength balance, red affinity, bite/equipment mechanics.
-3. Rexfolk–Naga cross-cultural traditions, fashion/collars, language and quotations.
+3. Fully specified family customs, personal and clan naming, detailed fashion/collars and comprehensive linguistic customs are OPEN.
 4. Legal offices and challenge protocols; practical cases involving debt, reputation and competing Coils.
+
+## November 7 supplemental author approval
+- **Base INT 17** is the approved preferred design target for the eventual balancing sheet; do not yet treat it as a finalized starting-stat number. The minimum desired INT 15 remains a floor if balancing forces reconsideration.
+- The strategic ancestry linking the Khan's historic noncombat defeat to today's **Golden Conquest** is approved in direction, not an assertion that the current sport's Orb formats and nonlethal rules existed in his age.
+- The Khan's epithet **Khan of the Unbroken Word** and three maxims above are approved. His personal and clan names are not yet approved.
