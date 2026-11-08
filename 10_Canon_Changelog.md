@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — True Serpentari four proper names and Kharak hatchling-crime terminology request (LATEST)
+
+- **Approved naming form:** Ancient true Serpentari have **four proper names**, optionally followed by additional titles. Combine aristocratic dynastic tradition (previous option A) with elevated conquest/achievement regnal titulature (option C), making the names more alien/exotic. Preserve distinct approved two-name **Untouched Serpentari** convention unless later expressly revised.
+- Existing **Great Coils**, **Coilkeepers**, **Nine Thrones**, and chosen **First Sovereign** remain controlling. A Serpentari historical 'High King' must be reconciled with First Sovereign rather than presumed an unrelated monarchy.
+- **PROPOSAL, not canon:** Four slots as Self, Blood (lineage), Great Coil (dynasty), Ascendancy (earned/provisional adult identity). Example Vaessarith Theryn Voryss Xalquorin. Formal semantics await author confirmation.
+- **PROPOSAL, not canon:** **Hatchtreason** as Kharak offense covering knowing harm, abduction or culpable endangerment of eggs/hatchlings, and **Hatchtraitor** as condemnation of culprit. Alternatives Broodslaughter and Hearthbane. Differentiating deliberate violence, negligence, and accidents is important; no criminal statute or mandatory sentence is yet approved.
+
+
 ## November 7, 2026 — Kharak Hearths, Warclans, Tatao, Arrest worship and Vornak approved (LATEST)
 
 - **Family:** Hearth homes, extended multihousehold Warclans and wider Imperial Coil allegiance; adoption, shared hatchling care, martial education, affection, and clanlessness as severe social burden. Both mothers and fathers may lead by merit.
