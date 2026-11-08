@@ -1,3 +1,7 @@
+## Universal armor-coverage burden and uniform composite AR — November 8, 2026 (LATEST)
+
+**AUTHOR DIRECTION:** Universal coverage multipliers for physical STR and SPD burden: **Partial 60%, Standard 80%, Full 100%** of the same Full outfit; ceil STR, round percentage-point SPD penalty half-up. A listed composite main-surface **AR applies uniformly to every actually covered main surface**, not itemized material-specific body panels. Uncovered AR0 and protected Medium/Heavy joint AR25 remain. QV Full Heavy Trufula/Boughsteel **AR105, STR28, −16% SPD** => Partial **17/−10%**, Standard **23/−13%**; Trufula/Adamantite **AR135, STR55, −21%** => Partial **33/−13%**, Standard **44/−17%**. These fixed benchmark constructions do not create a universal arbitrary material mixing formula. See `09_Equipment_and_Economy.md`, `07_Centaurs_and_Smithcraft.md`, and changelog.
+
 # MYSTARIA — Canon Library Index
 
 ## Kharak Guard Flow Perfect Pivot chosen; physically countering Sorcery — November 8, 2026
