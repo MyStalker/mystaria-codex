@@ -1,5 +1,10 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 7, 2026 — Kharak naming, oaths and Vornak's quotations (CANON)
+
+Kharak use sturdy personal names and Warclan surnames, with earned martial/philosophical epithets. **Kharzug Vornak, Khan of the Unbroken Word**, is commonly quoted as **Vornak**. His three approved sayings are recorded in `33_Kharak_Rexfolk_Culture_and_Command.md`; citing them is a natural Kharak rhetorical habit. Their adolescent **First Oath** expresses belonging to Warclan, their **Second Oath** at service age expresses Coil allegiance, normally commemorated by the **Tatao**. More specific phonology, colloquialisms and syntax remain unapproved. Existing Serpentari naming conventions and Corvyn Ink Name customs remain separate.
+
+
 ## November 6, 2026 — Lastwear's common social uses (CANON)
 
 **Lastwear** remains the approved term for clothing visibly associated with the former wearer's death. Duskpaws may wear it as **salvage**, a **memorial** to someone important, or a **trophy** associated with a foe. These are descriptive motives, not necessarily formal categories. Deliberately fake distressing of perfectly usable fabric is commonly mocked as wasteful rather than treated as an automatic religious insult. Individual responses vary. Existing Duskpaw slang and the severity of older insults are unchanged; no new fixed catchphrases are implied.
