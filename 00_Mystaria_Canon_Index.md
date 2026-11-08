@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak Guard Flow revisions and approved Fangscript meditation — November 8, 2026
+
+**LATEST:** Kharak native red elemental manifestations normally express fire; compatible Drakyn dragonmark elemental alterations are approved in direction, precise mark interface unresolved. **Guard Flow stage 2:** qualify tactical maneuvers to defeat genuine flank, offhand, suppression, burst-concentration, or long-reach advantages; no automatic exemption from established Pressure or ×1.35 final-Power concentrated burst. **Guard Flow third stance upgrade remains OPEN**; *Perfect Reversal* rejected as redundant with Fangscript; multiple tactical capstones suggested but none approved. **Fangscript meditation NOW APPROVED:** uninterrupted 6-second intervals, `1 + floor(effective INT/20)` prepared momentum per interval, 10-minute duration, capped by relevant Combo capacity, spent on Fangscript, no advance combat-stance passive effects or extra stacked full meter. Details and remaining uncertainties in `33_Kharak_Rexfolk_Culture_and_Command.md` and `08_Other_Crafts.md` and latest changelog.
+
+
 ## Kharak Warflow stances and prepared Fangscript — November 8, 2026
 
 **LATEST AUTHOR DIRECTION:** **Attack Flow** and **Guard Flow** are **two separate skill trees**, each developing a Combo pool toward intended **3 untrained / 8 mastered**; **only one martial stance's benefits at a time**. Attack Flow stance evolution: elementally imbued strikes, elemental movement, then small flat Attack Fangscript discount. **Guard Flow tactical overhaul requested:** avoid primarily numerical DEX/wound resistance/reversal; candidate enemy Reads, repositioning/redirection and counters **not approved**. Meditation may prepare spendable Fangscript momentum in ~**6-second intervals**, +1 per 20 effective INT and lasting ~**10 minutes**; these **numerical details remain proposals** until approved, not a definitive purchase rule. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `08_Other_Crafts.md`. Existing combat Pressure Points are unrelated to Attack/Guard Combo.
