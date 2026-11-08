@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak industrial collar direction — November 8, 2026
+
+**APPROVED FEATURES:** heavy asymmetric metal collar, visible handcuff-like interlocking closure, central gap, hanging dog-tag identification, optional spiked undercollar, no Kobold-style orb. Universal name and exact mechanical/ornamental details remain open; “Ironjaw” is only proposed. See `25_Imperial_Collar_Culture_and_Restraints.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ## Kharak Tattao and differentiated uniforms — November 8, 2026
 
 **CANON:** Spell **Tattao** (supersedes Tatao). Gold/silver mouth teeth and sunglasses are fashionable. Kharak uniforms vary with Coil wealth, function and institutional strictness, from farmhands and nightlife security to disciplined regulars. Authorized light uniforms may reveal backs, male chests and female cleavage; fabric/armor motifs visually continue covered Tattao. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
