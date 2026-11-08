@@ -1,5 +1,12 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — FINAL CLASPJAW VISUAL REFERENCE APPROVED (LATEST)
+
+The author chose the existing *Claspjaw — Standard Kharak Collar* technical parchment sheet as the definitive ordinary collar design. Its **heavy brushed gunmetal near-circular cuff** has a **small split between squared front ends**, connected by a **short hanging chain with two rectangular identification dog tags suspended centrally**. It features **asymmetrical right-side-in-reference lock housing, visible curved toothed ratcheting arm, keyway, factory-finished seams/bolts**, and **yellow-gold diagonal industrial stripe markings**. Preserve proportions and layout as in approved technical illustration. Do not replace it with a smooth choker, an O-ring-focused restraint, a gemstone/orb collar, or the open C-shape without a chain. Optional spiked undercollar fashion remains distinct from the standard collar.
+
+**Canon supersession:** The previously approved *genuinely unobstructed open C and single-side tag attachment* concept recorded below is **SUPERSEDED by this later explicit author selection**. Existing Scale Register and specialist magical collars remain unchanged. The approved visual sheet does not establish engineering specifications or magical powers.
+
+
 ## November 8, 2026 — Claspjaw unobstructed front approved (CANON)
 
 The **Claspjaw** has an **open C-shaped silhouette**, with an actual **unobstructed front gap** between separate steel ends, not an O-shaped closed ring. It must have **no spanning chain, hidden bridge, plate or O-ring** across that gap. Its **two small identification dog tags hang centrally**, on a short freely hanging chain supported from **one side**; the tag chain must not connect both ends. Preserve heavy modern-handcuff-inspired industrial manufacture and an asymmetrical ratcheting clasp. Earlier assistant suggestions of a recessed connector, and images showing chains between both ends, are superseded. How it remains secure without a front bridge is **open engineering**, not canon mechanics.
