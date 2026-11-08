@@ -1,5 +1,12 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — Claspjaw name and colorful Kharak scales (CANON)
+
+**Claspjaw** is the approved universal name for the ordinary Kharak Imperial collar. It retains the previously approved heavy, asymmetrical, industrial metal assembly, handcuff-inspired visible interlocking clasp, characteristic front/central gap, dog-tag identification, no orb, and optional spiked undercollar for nightlife. **Ironjaw** was an unapproved proposal, now rejected in favor of Claspjaw. Exact internal clasp engineering, gap bridge, tags, ornament and finishes have not been approved.
+
+**Natural Kharak coloration:** Strong, exotic, saturated natural scale colors are normal: **fully red, blue, or deep green Kharak are not uncommon**. The species visually bridges colorful Kobolds and dragons. Color does not by itself denote Coil, rank, personality, mana affinity or power. For master racial artwork, preserve the user's **original uploaded reference's anatomy and pose** as primary reference, interpreted in light of subsequent approved strong humanoid arms, clothing, Tattao and Claspjaw. Do not substitute an unrelated pose or anatomy as definitive.
+
+
 ## November 8, 2026 — Kharak industrial collar direction (AUTHOR-APPROVED FEATURES; NAME PENDING)
 
 The Kharak's ordinary Imperial collar is a **heavier, industrial counterpart to the Kobold collar**, **without a central orb**. It is an asymmetrical, manufactured metal assembly with a **visible interlocking closure reminiscent of a modern handcuff**, rather than one seamless smooth band. The author favors a **deliberate gap in the middle/front**, **hanging dog-tag-style identification**, and fashionable **spiked undercollars** for nightlife that do not always require additional choker jewelry. This collar silhouette should have a **universal distinctive name**, but the proposed name **“Ironjaw” is not yet approved**. The exact gap construction, tag format, metal finishes, structural bridge, ornamental engravings and other assistant-proposed details remain unapproved. Existing Scale Register and specialized collar rules remain unchanged; no default magic is implied.
