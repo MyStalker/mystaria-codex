@@ -1,5 +1,17 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak name, Rexfolk philosophy, military hierarchy and challenges approved (LATEST)
+
+- **Name approved:** **Kharak**, with Rexfolk a descriptive everyday designation. The new reference is `33_Kharak_Rexfolk_Culture_and_Command.md`.
+- **Race:** Very large tyrannosaur mortal warrior people; common but fewer than Duskpaws, main feared heavy combatants of the Naga Imperium; ordinary work-slave employment rare. Desired red affinity, greatest playable-race Strength, huge bite and oversized weapons; precise mechanics **not yet established**.
+- **Intelligence:** Author specifically rejects the dumb-brute archetype; wants base INT minimum **15**, prefers **17** if stat balancing permits. These numbers are design constraints, **not an approved final race sheet**.
+- **Approved worldview:** Belonging to a worthy hierarchy is honorable; unwanted freedom and clanlessness can be humiliating. Allegiance is tied to earned competence, not meek surrender; independent clans may act as mercenaries or bandits and violently resist unearned captivity. A defeated clan may elect to swear service.
+- **Approved ranks:** Fang, Bloodfang, Clawleader, Warhowler, Warclaw, Warchief, High Warchief. **First Fang** is the senior Rexfolk servant immediately beneath a Matriarch, distinct from a universal military rank.
+- **Origins:** Powerful unstable nomadic/clan conquerors, disunited by betrayal; ancient Serpentari ruined their homeland and kept them under severe physical/magical leashes as living weapons. A later Rexfolk ideological tradition paradoxically praises the imposed order; Naga then fostered closer military and cultural partnerships. Exact mutual fashions/customs not yet approved.
+- **Right of Challenge:** First Fang has standing and responsibility to challenge evidence-backed leadership failures, including failed stewardship of small household gangs, major campaigns and economic/reputational collapse. Documentary precedent and clear terms matter. Legitimate reassignment inside the Imperial hierarchy is distinct from desertion/rebellion; overzealous challengers may be punished or demoted. Competing Matriarch offers or redeployment of modest units are recognized possibilities. **Drakyn** favored as legal intermediaries/judges; court titles and detailed procedure are still proposals.
+- **Founding Khan:** Author established the intended concept of a great near-unifier and intellectual/martial lawgiver, eventually defeated by a Serpentari in a nonviolent test of power associated with the origin of Imperial sports. Identity, nature of that contest and historical particulars remain **OPEN**, and must respect approved `17_Imperial_Sports_and_Great_Coil_Circuit.md`.
+
+
 ## November 6, 2026 — Duskpaw salvage dress and Lastwear expansion approved (LATEST)
 
 - **Explicit approval:** Author accepted the preceding Duskpaw fashion preferences and recommendations, including **Lastwear**. Exceptionally common torn, mismatched, repaired, reused and mixed attire, Cache sharing and heirloom history, patchwork formal outfits, and reclaimed open-lock ornaments are cultural patterns.
