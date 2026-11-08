@@ -7,7 +7,7 @@
 **Supersession:** The author's newer explicit choice **reverses** the previous no-chain, fully unobstructed open-C ruling. The older section below describing an unrestricted gap and dog tags suspended from only one side is **SUPERSEDED** and must not guide new illustrations. A short front chain bridging the two ends is now **required** for the selected design. The approved sheet is a **visual reference, not approval of additional numerical, magical or mechanical rules**; detailed locking/retention mechanics and precise dog-tag data remain unspecified.
 
 
-## November 8, 2026 — Claspjaw open-front C-silhouette (LATEST APPROVED CANON)
+## November 8, 2026 — Claspjaw open-front C-silhouette (SUPERSEDED by chained technical sheet)
 
 The **Claspjaw** is a heavy, asymmetrical industrial Kharak neck cuff visibly shaped like an **open C**, not a complete ring. The front features a **genuinely unobstructed gap between two separated metal ends**: no bridge, chain, ring, strap, plate or other visible connection crosses the opening. The exposed ratcheting handcuff-style locking assembly remains characteristic, positioned asymmetrically. **Two dog-tag-style identification plates hang freely in the center of the opening**, suspended from **one attachment point** so that their chain does **not connect the two ends** or close the gap. This visual design supersedes all earlier suggestions of a concealed/recessed bridge and the previous illustration's chain linking both ends. The exact practical security/retention mechanism of an unobstructed C-shaped collar is **unresolved**, not invented here. Ordinary Imperial Scale Register requirements and specialist collar mechanics are unchanged.
 
@@ -17,7 +17,7 @@ The **Claspjaw** is a heavy, asymmetrical industrial Kharak neck cuff visibly sh
 The ordinary Kharak industrial collar has the universal name **Claspjaw**. This names the already approved asymmetrical heavy metal, exposed handcuff-style clasp, central gap, dog-tag identification and no-orb design; optional spiked undercollars remain a nightlife style. The earlier proposal **Ironjaw** is superseded, not canonical. The collar's unapproved mechanical details and established Scale Register and specialist restraints remain unchanged.
 
 
-## November 8, 2026 — Kharak industrial collar silhouette (AUTHOR-APPROVED; NAME PENDING)
+## November 8, 2026 — Kharak industrial collar silhouette (HISTORICAL EARLY DRAFT; name since approved)
 
 The ordinary Kharak Imperial collar is a **heavy, asymmetrical, industrial metal band** with an **exposed interlocking handcuff-like closure**, unlike the smooth orb-bearing Kobold collar; **no orb** is included. A **deliberate central/front gap**, **hanging dog-tag-style identification**, and popular **spiked undercollar** fashion are part of the author's direction. A universal design name is required but **“Ironjaw” remains a proposal**. Exact locking geometry, bridge across the gap, tag format, finishes, and optional ornamentation remain unresolved. Preserve ordinary Imperial identification/Scale Register conventions and separate specialized magical restraints.
 
