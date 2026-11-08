@@ -41,7 +41,10 @@ An assistant proposal, brainstorming transcript, worked example, or unapproved d
 ## Working method
 
 - For exploratory requests: propose options, identify balance implications, and explicitly label them **NOT YET CANON**.
-- For requested approved updates: implement the exact scope; make a small, reviewable change on a branch / pull request when possible. **Do not merge without user approval.**
+- **LATEST AUTHOR-APPROVED GITHUB WORKFLOW (November 7, 2026):** For routine lore, character records, campaign archives, mechanics and Markdown documentation, **commit explicitly approved changes directly to the repository's default branch (`main`) whenever permissions allow**. A clear user approval in conversation authorizes publishing that specific approved content; do not require a second confirmation, PR review or merge approval. This supersedes older blanket instructions to create branches/PRs for ordinary canon maintenance.
+- For exploratory or unapproved work, keep clearly labeled proposal/draft content separate from operative approved canon; do not publish it as finalized rules. Explicitly requested draft-document maintenance may be committed to `main` if safely labeled.
+- **Reserve branches/pull requests** for user-explicit requests, major code changes, potentially destructive migrations or removals, serious unresolved canon conflicts, or environments where branch protection prevents direct commits. Never silently bypass branch protection; if a PR becomes necessary, tell the user why. Avoid merging without authorization for that *exceptional* PR; routine direct commits do not entail a merge approval step.
+- If the direct write is denied, report the permissions restriction. Never imply a commit happened until GitHub confirms the write. Keep changes narrowly scoped and preserve full revision history.
 - For a rules question: cite or identify the owning file/section and distinguish firm canon from source gaps.
 - For a larger reconciliation: compare subject files against the index and changelog; present conflicts with options instead of silently adjudicating them.
 - Never assume ChatGPT Project attachments, chat history, downloaded ZIP files, and GitHub are automatically synchronized. GitHub is the versioned repository; apply approved new decisions explicitly.
