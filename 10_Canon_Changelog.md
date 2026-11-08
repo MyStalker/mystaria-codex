@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Claspjaw approved; Kharak colors and Naga/Serpentari natural patterning (LATEST)
+
+- **Approved:** **Claspjaw** is the universal name for the ordinary industrial Kharak collar. Earlier **Ironjaw** proposal is superseded; existing approved physical design unchanged, internal engineering and exact finishes open.
+- **Approved:** fully red, blue and deep green are not uncommon natural Kharak scale colors. Naga and Serpentari commonly have elaborate natural scale patterns derived from real snakes. No extra mechanics or symbolic coloration inferred.
+- **Visual art instruction:** use the user's original Kharak image as the reference for pose and anatomy, reconciled with approved humanoid arms, for subsequent master artwork. Specific final art awaits approval.
+
+
 ## November 8, 2026 — Kharak industrial collar features approved; naming open (LATEST)
 
 - **Approved design direction:** heavier industrial counterpart to Kobold collar, without orb; asymmetrical handcuff-like interlocking closure; front/central gap; hanging dog-tag identification; fashionable spiked undercollars for nightlife.
