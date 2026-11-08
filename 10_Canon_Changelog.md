@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak supplemental approvals: cultural exchange, Court of Fangs, Khan's maxims (LATEST)
+
+- Author approved earlier suggestions: Kharak–Naga mutual cultural influence in military frankness, tactical prestige, recorded rank, stable Coil duty, law and precedent, blended Imperial luxury/military adornment, and cross-cultural speech.
+- **Court of Fangs**, **Oathspeaker** advocates and **Crown Arbiter** judges are approved names. Drakyn are especially favored for major arbitration; routine cases do not always require one. Evidence must establish material failure rather than rumor. Transfer of warrior service does not automatically transfer estates/debts. Precise procedures and jurisdiction remain open.
+- **Khan of the Unbroken Word** is the approved epithet for the historic great Khan. Three approved sayings: “A blade wins a battle. A command wins a war. A law preserves the victory.”; “Challenge your superior before his mistakes become your soldiers' graves.”; “The strongest warrior is not the one who never kneels. It is the one who knows whom to kneel before.” The link to an ancestral strategic contest leading toward modern **Golden Conquest** is approved in direction, without retroactively imposing modern Orb mechanics.
+- **Base INT 17** is an approved *design target*, not a completed racial stat sheet; 15 is the minimum desired if constrained. Actual stat configuration is unresolved.
+- **Still unapproved:** The Khan's personal and clan names, family and naming customs, final contest outcome (honored vs betrayed), opponent High King's identity, legal fine print, fashion and numeric mechanics. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 ## November 7, 2026 — Kharak name, Rexfolk philosophy, military hierarchy and challenges approved (LATEST)
 
 - **Name approved:** **Kharak**, with Rexfolk a descriptive everyday designation. The new reference is `33_Kharak_Rexfolk_Culture_and_Command.md`.
