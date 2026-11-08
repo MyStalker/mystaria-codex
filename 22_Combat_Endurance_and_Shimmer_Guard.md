@@ -1,5 +1,10 @@
 # Mystaria — Combat, Endurance, Injuries, Firearms and Shimmer Guard
 
+## November 8, 2026 — Kharak bite racial natural weapon (APPROVED)
+
+**Kharak Bite:** Strength-led natural physical melee attack, **Piercing**, **Medium Reach**, **Low Coverage**, operationally the existing **Point** category (focused on one target), and a **normal attack action/opportunity**. Its single attack-rating modifier `F_bite` is **defined by equality with the ordinary longsword's primary `F_longsword`**, not with the longsword's STR/DEX governing-attribute formula: `Power_bite = (effective STR × F_longsword)^2`. **No extra combat-only +10** after the approved racial attribute rebase. The specific numerical longsword F is still a draft, so neither former 1.15 nor draft 1.10 becomes fixed canon through this equality. There is no automatic extra attack, multi-target sweep, unusual armor bypass or blade/material/crafting bonus. Bite needs accessible head/jaw alignment and valid contact; no hands are required. Apply current general Piercing, armor, evasion, injury and Shimmer Guard rules. Claws/tail, explicit grapple-bite techniques and other special effects not defined here remain OPEN. Earlier lore proposed a greatsword-like bite; this current approval **supersedes** that unapproved numerical comparison.
+
+
 **Status:** CANON for the author's explicit November 5, 2026 decisions and adopted baseline; numerical firearm handling/armor scaling details explicitly labeled UNRESOLVED or PROPOSAL. This dossier is the subject reference for combat. Read `00_Mystaria_Canon_Index.md` and `10_Canon_Changelog.md` first.
 
 ## 1. Damage and Endurance: quadratic comparison (CANON)
