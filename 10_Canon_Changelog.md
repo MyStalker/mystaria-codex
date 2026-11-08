@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Claspjaw truly open front and centered dog tags (LATEST)
+
+- **Author approved:** Claspjaw is **C-shaped with a genuinely unobstructed central/front opening**. No bridge, hidden support, chain, ring, strap or plate joins its ends across the gap.
+- **Author approved:** identification dog tags **hang centered in the front gap**, suspended freely from a single attachment point, **not connecting both ends**.
+- **Superseded:** proposed recessed connector and technical art with chain crossing the front gap.
+- **Still unresolved:** engineering for secure retention of an open C-shaped cuff; no new collar powers or legal functions established.
+
+
 ## November 8, 2026 — Claspjaw approved; Kharak colors and Naga/Serpentari natural patterning (LATEST)
 
 - **Approved:** **Claspjaw** is the universal name for the ordinary industrial Kharak collar. Earlier **Ironjaw** proposal is superseded; existing approved physical design unchanged, internal engineering and exact finishes open.
