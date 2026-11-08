@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak punk civilian fashion — November 8, 2026
+
+**CANON:** Provocative Coil Street Samurai punk streetwear, especially asymmetric woven tops, fitted reinforced trousers, belts, visible Tatao, cape-worn leather jackets; open vests, open-back/halter variations, fur and tooth accents. Tail-friendly, anatomy-conscious, revealing scales are normal. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`. Imperial uniform details, collars and racial art still pending.
+
 ## Kharak casual and military fashion direction — November 7, 2026
 
 **CANON DIRECTION:** Dense woven cloth, traditional fur accents, jackets worn cape-style; preference for urban Coil Street Samurai among three compatible influences. Peacetime monster-hunting and slave-regulating military police favor light armor; full war gear evokes Viking fur/teeth and restrained power-armor aesthetics. Thornguard contrast with traditional knight/rogue dress. Specific outfits and powered armor mechanics remain unapproved. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`.
