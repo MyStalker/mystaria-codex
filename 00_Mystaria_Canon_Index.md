@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak playable stats and natural bite — November 8, 2026
+
+**CANON:** Level-1 base **STR 22 / DEX 15 / END 20 / INT 17 / SPD 14**; permanent **STR +25%, INT +25%**, no SPD penalty; effective **27.5 / 15 / 20 / 21.25 / 14**, combined total **97.75**. Their **natural bite** is a normal STR-based **Piercing** melee attack with **Medium Reach**, **Low/Point Coverage** and single attack-rating multiplier equal to the **ordinary longsword's primary F** (numerical longsword F **not yet finalized**). No free extra attack, no arbitrary extra weapon/material bonuses. Details: `33_Kharak_Rexfolk_Culture_and_Command.md`, `02_Races.md`, `01_World_and_Shimmer.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`. Other Kharak natural attacks, mana affinity and abilities remain open.
+
+
 ## Approved Kharak Master Visual Reference — November 8, 2026
 
 **CANON ART APPROVED:** The author's selected **second generated Kharak character sheet** (*Kharak — Rexfolk of the Imperium*) is the definitive master appearance reference. White/ivory scales, gold Tattao, red eyes, muscular humanoid-arm reptilian anatomy, smooth tail, fitted Claspjaw, dark industrial military clothing, cape-like coat and massive sword characterize this *example*, not all Kharak coloration or outfits. Full resolution PNG is saved in persistent **Library** at `/Mystaria/Approved_Art/Mystaria_Kharak_Approved_Master_Reference_White_Gold.png`; **image file not yet present in GitHub repository**. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `11_Visual_Style_Guide.md`. Exact Claspjaw hardware follows separately approved chained technical sheet.
