@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Guard Flow tactical direction and Fangscript meditation approved (LATEST)
+
+- **APPROVED:** Kharak natural red elemental Warflow effects manifest fire; compatible **Drakyn elemental dragonmarks may alter those manifestations**. Detailed cross-craft mark interface, precise eligible marks, costs, Soul Strain and alternate-element mechanics are **OPEN**, and existing dragonmarks do not universally rewrite unrelated Martial Arts or grant missing mana colors.
+- **APPROVED Guard Flow stage-2 development objective:** meaningful high-combo defenses actively defeat specific enemy advantages from flanking, offhand/dual-wield threats, ranged suppression and long-reach weapon control, possibly break up the close **Concentrated Burst ×1.35 final Power** situation by legitimate evasion/redirection. No automatic universal anti-burst immunity, no auto-Pressure subtraction, no grant of free attacks or override of shield directional limits. Numeric thresholds/rank mechanics remain unapproved.
+- **GUARD STAGE 3 OPEN:** *Perfect Reversal* rejected as redundant with Guard Fangscript and must be replaced. Prefer meaningful non-combo-spending tactical option, not mirrored cheap attacks or simple resistance/wound inflation. Six capstone candidates are **PROPOSALS**: Perfect Pivot, Unwritten Move, Hold the Line, Thousand-Fang Awareness, Stolen Initiative, Master's Answer. Older inverted-wound proposal reserved **as possible Fangscript technique only**, not approved.
+- **AUTHOR-APPROVED meditation procedure** (upgrades earlier numerical proposal): every uninterrupted **6 seconds** outside hostile exchanges yields `1 + floor(effective INT / 20)` prepared momentum; **10-minute lifespan**, consumption on Fangscript use, current relevant combo cap, no automatic Warflow stance passive buffs, and no doubling resource capacity through a separate full prepared pool. No meditation farming during combat, no extra attacks. Which Attack/Guard pool applies and specific Fangscript costs still pending. Starting effective Kharak INT 21.25 earns 2 per six seconds; 3-cap fills in 12 seconds.
+- **Updated:** `33_Kharak_Rexfolk_Culture_and_Command.md`, `08_Other_Crafts.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`. No older Drakyn/Sorcery, Pressure Point, recoil, shield or reach-control rules rewritten.
+
+
 ## November 8, 2026 — Warflow split into separate skills and single-stance limit (LATEST DIRECTION)
 
 - **Author clarification:** Attack Flow and Guard Flow are **two distinct skills** with separate progression, not merely two modes of a single skill. A martial artist receives **only one stance's benefits at any moment**. Intended combo maximum grows from **3 untrained** to **8 fully mastered**; rank-by-rank assignment, costs and precise bonuses remain for approval.
