@@ -1,5 +1,9 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 7, 2026 — Kharak urban fashion and war kit (APPROVED DIRECTION)
+
+Kharak favor **dense woven cloth** in ordinary dress, with traditional fur accents and **leather jackets sometimes worn cape-style over the shoulders**. Combine Industrial Vanguard, Coil Street Samurai and Hearthborn Bruiser influences, **slightly prioritizing Coil Street Samurai**. Female casual fashion should recover Mystaria's mature sensuality through anatomical tailoring and confident silhouettes, but **no exact outfit cuts have been approved yet**. Imperial peacetime soldiers, including monster hunters and military police overseeing enslaved people, usually wear **light protection**. All-out war gear should evoke **Viking-inspired fur and teeth ornamentation**, industrial fantasy and subtle **power-armor-like aesthetics** without implying actual powered armor technology. **Thornguard** retain a contrasting traditional **knight-and-rogue** aesthetic. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ### November 7, 2026 — Kharak industrial Imperial aesthetic (APPROVED DIRECTION)
 
 Kharak possess **fully developed humanoid arms and hands**, a key distinction from Thornguard; they are upright, strong tyrannosaur people suited to common military equipment, not short-armed dinosaurs or exotic Draykin. Imperial fashion embraces **Kobold-influenced technological manufacture**, near-modern utility, dark practical clothing, industrial clean-lined melee weapons, and fantasy detailing. Broad visual inspirations: **street samurai from Cyberpunk** and **Cloud Strife's industrial military styling in Final Fantasy VII Remake**, as inspiration only, not literal copied outfits or weapons. Casual clothing leans toward **furs and leather jackets, particularly for men**. Precise uniforms, material recipes, armor, weapon specs, collars and master art remain unapproved. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
