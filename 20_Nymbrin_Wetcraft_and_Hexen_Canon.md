@@ -164,3 +164,8 @@ Consumable design is tied to **Gem costs and power**, calibrated around **30% of
 
 ## Preserved boundaries
 No Nymbrin starting attribute array, stat multiplier, full SP/MP progression, clutch size, exact jump distance, exact toxin dose or complete elemental race is specified. Adult appearance follows the global guide while retaining Nymbrin anatomy. Modern stones obey equivalent exchange; lost true stones are the exception. Historical manufacture and exact permanent ancient homunculus mechanism remain mysteries.
+
+
+## November 6, 2026 — Hard defensive materials resist Nymbrin Wetcraft (author-directed future balance requirement)
+
+**AUTHOR APPROVED DIRECTION FOR FUTURE RESHAPING RULES:** Shields, finished armor and purpose-made **hard protective materials must be substantially harder to reshape or otherwise alter with Nymbrin Wetcraft** than ordinary stone or weak, unconsolidated matter. Hardness, engineering quality, material properties, structural reinforcement, affected quantity and transmutation complexity should matter, without rendering such defenses universally immune to well-equipped expert Nymbrin practitioners. Preserve Wetcraft's existing **modern equivalent exchange**: weight/constituents, replacement resources, alchemical circles, philosopher's-stone restrictions, and the **Hex cost of all alchemy** continue to apply. No numerical difficulty ratio, flat resistance, added SP/MP price, per-rank Wetcraft resistance or effortless material manufacture is approved yet. Shield durability/Defense Ratings are separate from this uncalibrated material-transmutation resistance; don't silently apply an arbitrary numerical identity between them. Mechanical calibration to occur when Wetcraft matter resistance is built.
