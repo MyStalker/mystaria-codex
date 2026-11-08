@@ -1,10 +1,22 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — Tattao spelling and variable Imperial Kharak uniforms (AUTHOR-APPROVED)
+
+**Terminology correction:** spell the Kharak tattoo/heraldic system **Tattao**, not “Tatao”. The older spelling is superseded.
+
+**Fashion:** Occasional **gold or silver teeth in the mouth**, whether decorative or repaired, are fashionable; **stylish sunglasses** are also appropriate, especially in urban settings. These are not mandatory accessories.
+
+**Uniforms vary with Coil means and actual work.** A relatively poor Naga Coil may maintain its Kharak's clothes impeccably while lacking matching high-end armor and factory-forged axes. Not every Coil needs a conventional soldier: Kharak may work as farmhands, laborers, nightlife bouncers, discreet security, household guards or escorts. An inexpensive breastplate under a jacket may be entirely appropriate for a dedicated guard escorting a younger Naga household member. Cost and role determine equipment availability, not necessarily pride or discipline. Conversely, prestigious, organized military institutions enforce **very strict uniform standards** with little casual customization. Avoid treating all Kharak as identical Imperial guards.
+
+**Authorized sensuality in light uniforms:** Uniform discipline and revealing cuts are compatible. Light, speed-oriented uniforms for adult men and women can expose much of the **back**, the **chest on men**, and **cleavage on women**, with appropriate rigging and tailoring. A Kharak crossbow sniper wearing a short-sleeved tactical top open at the back is an approved illustrative example, not a mandated sniper uniform. Heavy armor still covers vulnerable areas as mission demands.
+
+**Tattao-to-clothing continuity:** Tattao is sufficiently important to military and Coil identity that **garment and armor patterns echo, match or visually continue the wearer's Tattao** when the body marks are covered. In regulated units, matching heraldic motifs can be part of an authorized uniform rather than personal customization. Specific methods, grades of cloth and equipment mechanics remain open.
+
 ## November 8, 2026 — Provocative punk Kharak civilian silhouette (APPROVED)
 
 The author approves **provocative punk streetwear** as the leading Kharak civilian fashion identity, emphasizing the previously preferred **Coil Street Samurai** aesthetic. In Mystaria, revealing fur and scales is broadly normal, including among enslaved people; Kharak are not uniquely modest or habitually covered. Clothing can be bold, sensual, athletic and practical without requiring skirts or concealing their powerful anatomy.
 
-**Approved favorite combination:** fitted **asymmetric dense-woven top**, **high-waisted reinforced trousers**, **broad utility belt**, **visible Tatao**, and a **leather jacket worn open or draped over the shoulders like a cape**. Also approved as compatible outfit variants: **open or cropped vest** with a low neckline and fitted trousers; **halter or open-back woven top** with fur-trimmed jacket and inherited tooth ornaments. Exposed shoulders, upper chest, midriff and back are ordinary adult fashion options, not necessarily rebellion or sexual signaling. Cut clothing for broad shoulders, strong limbs, large hips/thighs and functional tail access; avoid defaulting to skirts or forcing human proportions. Men can share these styles with different tailoring preferences.
+**Approved favorite combination:** fitted **asymmetric dense-woven top**, **high-waisted reinforced trousers**, **broad utility belt**, **visible Tattao**, and a **leather jacket worn open or draped over the shoulders like a cape**. Also approved as compatible outfit variants: **open or cropped vest** with a low neckline and fitted trousers; **halter or open-back woven top** with fur-trimmed jacket and inherited tooth ornaments. Exposed shoulders, upper chest, midriff and back are ordinary adult fashion options, not necessarily rebellion or sexual signaling. Cut clothing for broad shoulders, strong limbs, large hips/thighs and functional tail access; avoid defaulting to skirts or forcing human proportions. Men can share these styles with different tailoring preferences.
 
 These are **civilian fashion canon**, not a mandate that every Kharak wear identical garments. Exact collar styles, specific manufactured textile grades, uniform patterns, and final racial art remain unresolved.
 
@@ -82,7 +94,7 @@ The ancestral Rexfolk were formidable nomadic conquerors and accomplished warrio
 ## Pending design work
 1. Founding Khan: **Khan of the Unbroken Word** is approved as his epithet, and the guiding precepts 'A blade wins a battle. A command wins a war. A law preserves the victory.', 'Challenge your superior before his mistakes become your soldiers’ graves.', and 'The strongest warrior is not the one who never kneels. It is the one who knows whom to kneel before.' are approved attributed sayings. A strategic contest ancestral to **Golden Conquest** is approved as an intended connection, without changing the six existing sports or claiming Golden Conquest's modern regulations were ancient. The Khan's name is **Kharzug Vornak**, usually quoted as **Vornak**. The **Honored Defeat** interpretation is approved: he accepted a fair strategic defeat to the Serpentari monarch, who honored the literal terms but whose regime subjected the Kharak to cruel captivity. Exact contest rules, opposing monarch identity and full chronology remain OPEN.
 2. Exact racial attribute sheet, minimum/preferred intelligence and comparative Strength balance, red affinity, bite/equipment mechanics.
-3. Family and naming foundations, religious loyalties, Tatao and childhood oath system are approved below. Detailed tattoo visual designs, individual garment patterns and comprehensive linguistics remain OPEN.
+3. Family and naming foundations, religious loyalties, Tattao and childhood oath system are approved below. Detailed tattoo visual designs, individual garment patterns and comprehensive linguistics remain OPEN.
 4. Legal offices and challenge protocols; practical cases involving debt, reputation and competing Coils.
 
 ## November 7 supplemental author approval
@@ -101,11 +113,11 @@ The ancestral Rexfolk were formidable nomadic conquerors and accomplished warrio
 ### Oaths, status and childhood exemption
 - Kharak are **exempt from hereditary enslavement**, an expressly approved exception to ordinary Imperial maternal-status inheritance. An underage Kharak is not automatically owned merely because their parents are.
 - The **First Oath** occurs on becoming a young warrior, ordinarily sometime in the teenage years: acceptance of adult-like responsibilities toward the Warclan, but **not** Imperial enslavement.
-- The **Second Oath** occurs upon reaching age for military service. A Kharak publicly embraces service to a particular Coil; this is normally the proudest day of youth and is marked with the traditional **Tatao**. No universal numerical age, form of legal registration, or permitted coercion safeguards have been established.
+- The **Second Oath** occurs upon reaching age for military service. A Kharak publicly embraces service to a particular Coil; this is normally the proudest day of youth and is marked with the traditional **Tattao**. No universal numerical age, form of legal registration, or permitted coercion safeguards have been established.
 - Rare individuals decline or walk away from this path, remaining clanless or seeking new allegiance, including adventuring. They are not thereby automatically enslaved. Others may opportunistically court, manipulate or attempt capture, but involuntary service is not rendered legitimate by their vulnerability.
 
-### Tatao (singular and collective traditional name)
-- **Tatao** are Kharak traditional tattoos openly proclaiming their allegiance. Their designs visually coordinate with their collars and identify both their owning **Coil** (most prominently) and **Warclan**; their skin displays whose cause they serve.
+### Tattao (singular and collective traditional name)
+- **Tattao** are Kharak traditional tattoos openly proclaiming their allegiance. Their designs visually coordinate with their collars and identify both their owning **Coil** (most prominently) and **Warclan**; their skin displays whose cause they serve.
 - They signify chosen or socially expected belonging, rank and durable obligation rather than impartial historical witnessing. This distinguishes them from Corvyn tattoo and Ink Name traditions.
 - Transfers of service are serious and require deliberate handling of ancestral/previous tattoo marks. No precise design language, body placements, magical properties, removal methods or mandatory re-inking procedures are settled. **Tattoo and collar are not substitutes for Scale Register legal records**.
 
@@ -184,4 +196,4 @@ The **Writ of Deep Inquiry** is an exceptional, narrowly scoped authorization fo
 
 The author explicitly chooses to **leave Vornak's detailed personal history open** to preserve future plot possibilities. Do not fill in specific campaigns, formative motivations, private history, chronological details or unapproved personal reforms as settled canon. Existing approved broad accomplishments, sayings, Honored Defeat and historical direction remain operative.
 
-Next Kharak development sequence: **(1) linguistic traditions** (swears, sayings, vocal flavor), **(2) casual and uniform fashion**, **(3) collar styling** coordinated with Tatao, **(4) three-quarter-view racial master art**. The language and clothing/art designs to be discussed are **proposals until approved**.
+Next Kharak development sequence: **(1) linguistic traditions** (swears, sayings, vocal flavor), **(2) casual and uniform fashion**, **(3) collar styling** coordinated with Tattao, **(4) three-quarter-view racial master art**. The language and clothing/art designs to be discussed are **proposals until approved**.
