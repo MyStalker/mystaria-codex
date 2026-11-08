@@ -1,5 +1,9 @@
 # MYSTARIA — Canon Library Index
 
+## Hatchbane evidentiary procedure and Deep Inquiry writ — November 7, 2026
+
+**CANON:** Court of Fangs assesses motive/opportunity/means and authenticates **mirror evidence**; Third/Second/First Degree require preponderance, clear-and-convincing, and beyond-reasonable-doubt proof respectively. Five stages: petition/protection, investigation, hearing, judgment, sentence/review. Exceptional compelled mind/memory examination requires an independently authorized, narrow **Writ of Deep Inquiry**, substantial prior evidence, exhaustion of safer methods and proportionality; free persons retain separate silence and mental privacy rights. See `33_Kharak_Rexfolk_Culture_and_Command.md`. Detailed appeals and slave safeguards remain open.
+
 ## Mirror evidence and mental privacy in Imperial courts — November 7, 2026
 
 **CANON:** Mirrors capture sights and sounds, while Orbs store recordings; legal video/audio is called **mirror evidence**, not Orb recordings. Psionic mind reading, Orbcraft memory extraction and Tidekin Mirrorwake may support guilt or innocence but are fallible, and compelled deep probing is dangerous and exceptionally restricted in principle. Free persons have **independent rights to silence and mental privacy**; nonconsensual emotion reading cannot be used against them as evidence or grounds for suspicion. Masters exercise substantial authority over slaves' questioning. Detailed **Writ of Deep Inquiry** safeguards and Hatchbane evidence thresholds remain **proposals**, not canon. See `33_Kharak_Rexfolk_Culture_and_Command.md` and `10_Canon_Changelog.md`.
