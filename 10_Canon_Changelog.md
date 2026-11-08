@@ -1,5 +1,12 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Claspjaw original chained technical sheet selected as FINAL design (LATEST APPROVAL)
+
+- **Author-approved visual authority:** original parchment *Claspjaw — Standard Kharak Collar* technical illustration showing heavy brushed gunmetal near-ring with **two squared front ends, small gap, short chain linking the ends, and two dog tags hanging from the chain's center**. One side features an **asymmetrical toothed handcuff-style ratchet, rectangular keyed lock housing**, with industrial yellow-gold diagonal stripes and manufactured hardware.
+- **Explicit reversal/supersession:** the intervening author-approved **fully unobstructed C-shaped front with NO bridging chain** is **superseded** by the newer author decision to adopt the earlier chained design. The reference chosen *now* governs future art and related prose. Do not silently reconcile these as two simultaneous ordinary standard designs.
+- **Unchanged:** collar name Claspjaw; optional spiked undercollar; Scale Register identification; special magical collars separate. Exact inner engineering, security ratings, and identification encoding still unresolved.
+
+
 ## November 8, 2026 — Claspjaw truly open front and centered dog tags (LATEST)
 
 - **Author approved:** Claspjaw is **C-shaped with a genuinely unobstructed central/front opening**. No bridge, hidden support, chain, ring, strap or plate joins its ends across the gap.
