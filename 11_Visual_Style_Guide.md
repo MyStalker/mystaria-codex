@@ -1,5 +1,9 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 7, 2026 — Kharak industrial Imperial aesthetic (APPROVED DIRECTION)
+
+Kharak possess **fully developed humanoid arms and hands**, a key distinction from Thornguard; they are upright, strong tyrannosaur people suited to common military equipment, not short-armed dinosaurs or exotic Draykin. Imperial fashion embraces **Kobold-influenced technological manufacture**, near-modern utility, dark practical clothing, industrial clean-lined melee weapons, and fantasy detailing. Broad visual inspirations: **street samurai from Cyberpunk** and **Cloud Strife's industrial military styling in Final Fantasy VII Remake**, as inspiration only, not literal copied outfits or weapons. Casual clothing leans toward **furs and leather jackets, particularly for men**. Precise uniforms, material recipes, armor, weapon specs, collars and master art remain unapproved. See `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
 ### November 6, 2026 — Duskpaw salvage and Lastwear clothing (CANON)
 
 Free/self-chosen Duskpaw attire exceptionally often incorporates torn, patched, mismatched, asymmetrical and reclaimed garments, including formal clothing. **Lastwear** visibly recalls the former wearer's death, through surviving real wear or damage, and may be scavenged, memorial or provocative trophy attire. Faux battle damage is commonly ridiculed for wastefulness. Reclaimed open locks can be worn as emancipation symbols, distinct from compulsory Nightlock collars. **Enslaved Duskpaws in the Scarlands or Imperium may be required to wear tidy, identifiable work uniforms rather than their personally preferred free patchwork aesthetic.** No specific Duskpaw uniform shape has yet been approved. See `32_Duskpaw_Fashion_and_Lastwear.md`; keep species anatomy and approved visual style.
