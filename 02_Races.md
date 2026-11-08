@@ -1,5 +1,10 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 8, 2026 — Kharak coloration and snake-inspired Naga/Serpentari scales (CANON)
+
+Kharak natural scale colors can be notably vibrant and exotic. **Fully red, blue and deep-green Kharak are not uncommon**, providing a visual bridge between colorful Kobolds and dragons. **Naga and Serpentari** commonly display elaborate natural scale patterns reminiscent of real snakes; patterned bands, saddles, diamonds, mottling and combinations are all appropriate examples rather than mandatory markings. These colors/patterns carry no inherent rules bonuses, mana affinity or rank implications. Kharak ordinary Imperial collars are named **Claspjaw**; see `25_Imperial_Collar_Culture_and_Restraints.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
+
+
 ## November 7, 2026 — Kharak family and allegiance distinctions (CANON)
 
 Kharak raise fiercely protected hatchlings in **Hearths** within wider oath-bound **Warclans**, and serving clans commonly belong to a Naga **Coil**. Offspring **do not inherit enslavement from their parents**; a teenage **First Oath** is commitment to warriorhood and clan, while the later **Second Oath** at army age embraces Coil service and usually accompanies a **Tatao**, the collar-coordinated tattoo displaying Coil then Warclan allegiance. Imperial Kharak predominantly worship **Arrest**; independent wilder clans favor **Baphomet**. **Kharzug Vornak, Khan of the Unbroken Word**, and his descendants are central to their history, and the descendants serve the highest Matriarch. Name tradition: personal name, Warclan name, earned epithet. Detailed canon and open boundaries: `33_Kharak_Rexfolk_Culture_and_Command.md`.
