@@ -1,5 +1,12 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 8, 2026 — Kharak racial starting statistics and natural bite (CANON)
+
+**Kharak level 1:** Base **STR 22, DEX 15, END 20, INT 17, SPD 14** (**total 88**); permanent racial **STR +25%, INT +25%**, with **no SPD modifier**. Effective **STR 27.5, DEX 15, END 20, INT 21.25, SPD 14** (**total 97.75**). Kharak are strong and intellectually capable, with solid Endurance and comparatively low base Speed rather than a lifelong Speed penalty. Universal Hero stat progression and racial multiplier rules apply unchanged.
+
+**Natural bite:** Physical, **Strength-scaled** Piercing melee attack, **Medium Reach**, **Low Coverage** (Point / one focused target), normal attack opportunity, no held weapon. It uses the **same weapon attack-rating multiplier F as the ordinary longsword's primary attack**. This is an approved **relative value**, not approval of the longsword's currently draft numeric F. Power follows the normal approved formula `(effective STR × F_longsword)^2`. It does not automatically qualify for sword-specific materials or upgrades, cover multiple targets, ignore armor, or grant a free second strike. Further specifics: `33_Kharak_Rexfolk_Culture_and_Command.md`; combat reference `22_Combat_Endurance_and_Shimmer_Guard.md`. Kharak red mana affinity and other natural attacks remain unresolved.
+
+
 ## November 8, 2026 — Kharak coloration and snake-inspired Naga/Serpentari scales (CANON)
 
 Kharak natural scale colors can be notably vibrant and exotic. **Fully red, blue and deep-green Kharak are not uncommon**, providing a visual bridge between colorful Kobolds and dragons. **Naga and Serpentari** commonly display elaborate natural scale patterns reminiscent of real snakes; patterned bands, saddles, diamonds, mottling and combinations are all appropriate examples rather than mandatory markings. These colors/patterns carry no inherent rules bonuses, mana affinity or rank implications. Kharak ordinary Imperial collars are named **Claspjaw**; see `25_Imperial_Collar_Culture_and_Restraints.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
