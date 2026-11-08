@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Hatchbane evidence and Deep Inquiry procedure approved (LATEST)
+
+- **Approved:** Court of Fangs addresses motive, opportunity and means; authenticated **mirror evidence** and eyewitness accounts are favored, with independent corroboration and consideration of exculpatory evidence. Free-folk testimony traditionally receives greater weight than enslaved testimony, but corroborated enslaved testimony is admissible. Direct proof can establish guilt without separately proving a specific motive.
+- **Approved thresholds:** Third Degree **preponderance of evidence**, Second Degree **clear and convincing**, First Degree **beyond reasonable doubt**. First Degree normally calls for two independent evidentiary foundations; independently authenticated exceptionally clear mirror evidence can suffice.
+- **Approved five stages:** petition/protection, investigation, hearing, judgment, sentence/review. Include Third-Degree welfare follow-up, Banebrand identity verification and independent review before irreversible punishment.
+- **Approved Writ of Deep Inquiry:** narrowly scoped, independent Crown Arbiter authorization of dangerous compelled deep mind reading or memory extraction only for exceptionally grave unresolved cases, with substantial independent evidence, exhaustion of safer methods, necessity/proportionality, scope limits, witnessed documentation and restrictions on unrelated discoveries. Informed consent governs voluntary limited examination. Free persons' independent rights to silence and mental privacy remain recognized; invoking them is not proof of guilt.
+- Outstanding specifics include examiner qualifications, appeals timing, slave protections, and writ refusal/remedies. Supersedes earlier entries marking these procedures as proposals.
+
 ## November 7, 2026 — Mirror evidence and separate mental privacy/silence rights (LATEST)
 
 - **Approved correction:** mirrors record visual/audio information; Orbs **store** mirror recordings but cannot directly record sight or sound. Call video/audio recordings **mirror evidence**, not 'Orb recordings'. Authenticated mirror evidence and eyewitness accounts are favored; Imperial courts tend to favor free-folk over enslaved eyewitness testimony.
