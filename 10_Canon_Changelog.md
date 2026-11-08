@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Lockjack retention and supervised release approved (LATEST)
+
+- **Explicit author approval:** A punitive **Lockjack's retention mechanism is independent of the existing Nightlock slave collar**. Authorized release is **controlled by a designated supervisor**; the wearer cannot independently remove the garment.
+- **Functional boundary:** Lockjacks must still permit **ordinary work and basic hygiene**. Their punishment and visible stripes/bells do not create a separate occupational function.
+- **Still UNRESOLVED:** Specific fastening or locking schematics, access and maintenance procedures, emergency release, security hierarchy, sanitation methods, Fraycraft interactions, and quantitative stealth effects. No new mechanic or Nightlock redesign approved.
+- **Status:** A **distinct punitive Scarlands Lockjack variant** has not been approved; present as a possible future design discussion only. Source: `32_Duskpaw_Fashion_and_Lastwear.md`.
+
+
 ## November 6, 2026 — Duskpaw Latchjack and Lockjack uniform designs approved (LATEST)
 
 - **Explicit author approval:** **Latchjack** is the Duskpaw occupational slave uniform, with a **one-piece jumpsuit/coverall** as its primary silhouette, superseding the earlier jacket-and-hip-apron-only emphasis. In the Naga Imperium, uniforms commonly show wrinkles, backwards caps, very large work gloves, practical pocket/utility arrangements and a rather relaxed industrial look despite an owner's control over clothing. Adult female Duskpaws often leave the upper front partly open for heat and comfort, sometimes exposing cleavage. This is an adult styling tendency, not a legal rule or required state.
