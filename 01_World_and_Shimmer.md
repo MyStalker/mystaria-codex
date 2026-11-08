@@ -1,5 +1,14 @@
 # Mystaria — World, Divinity, Mana, and Shimmer
 
+## November 8, 2026 — Kharak Hero starting stat entry (LATEST CANON)
+
+| Race | Base STR | Base DEX | Base END | Base INT | Base SPD | Base total | Permanent racial modifiers | Effective STR | Effective DEX | Effective END | Effective INT | Effective SPD | Effective total |
+|---|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|---:|
+| **Kharak** | **22** | **15** | **20** | **17** | **14** | **88** | **STR +25%, INT +25%** | **27.5** | **15** | **20** | **21.25** | **14** | **97.75** |
+
+**Approved November 8:** Kharak are now a playable Hero starting-attribute entry. **No racial SPD penalty**; the relatively low 14 is a base score. Existing universal +2 base points per level gained, +1 to all five base stats every fifth level, and multiplier timing remain unchanged. Their **natural bite** uses the longsword's **primary attack-rating multiplier** by equality, but longsword's *individual numerical F remains unapproved*; see `33_Kharak_Rexfolk_Culture_and_Command.md` and `22_Combat_Endurance_and_Shimmer_Guard.md`. The older ten-race table later in this document is not exhaustive; this Kharak entry supplements it.
+
+
 ## Three powers, three institutional philosophies of slavery — November 6, 2026 (CANON)
 
 **Read this when first introducing slavery in Mystaria.** The three dominant slaveholding powers differ in the reasons they give for their institutions:
