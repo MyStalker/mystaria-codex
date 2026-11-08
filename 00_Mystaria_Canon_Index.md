@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Thornguard MP reserve and the new Martial Arts framework — November 8, 2026
+
+**LATEST APPROVAL:** Thornguard MP = **2 × floor(effective END)**, no personal mana shaping. Ordinary full **equipment Soul Strain capped at half their natural doubled reservoir**, protecting capacity (not a perpetual current-MP minimum). Compatible Concordance and external transfer pathways still required. Thornguard and Moontouched can learn otherwise eligible genuinely passive/mana-free/external-powered crafts and Jestercraft, not ordinary self-Sorcery. **Arts** are the intended martial branch: Thornguard mana-free enduring martial play, Kharak supernatural combat. Kharak intended structure: **Warflow Attack/Guard combos + stat-scaling named Fangscript** with meaningful noncombat preparation and inefficient direct red-MP casting. This is **approved system direction, not numerical/purchasable Art canon**. Details: `01_World_and_Shimmer.md`, `08_Other_Crafts.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, `10_Canon_Changelog.md`.
+
+
 ## Kharak playable stats and natural bite — November 8, 2026
 
 **CANON:** Level-1 base **STR 22 / DEX 15 / END 20 / INT 17 / SPD 14**; permanent **STR +25%, INT +25%**, no SPD penalty; effective **27.5 / 15 / 20 / 21.25 / 14**, combined total **97.75**. Their **natural bite** is a normal STR-based **Piercing** melee attack with **Medium Reach**, **Low/Point Coverage** and single attack-rating multiplier equal to the **ordinary longsword's primary F** (numerical longsword F **not yet finalized**). No free extra attack, no arbitrary extra weapon/material bonuses. Details: `33_Kharak_Rexfolk_Culture_and_Command.md`, `02_Races.md`, `01_World_and_Shimmer.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`. Other Kharak natural attacks, mana affinity and abilities remain open.
