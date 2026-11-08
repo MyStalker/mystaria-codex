@@ -1,6 +1,6 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
-**Status:** PARTIALLY APPROVED CANON. Initial development and explicit approvals November 7, 2026. **Kharak** is the approved racial name; **Rexfolk** is a descriptive name. New precise mechanics, fashion and full language remain unresolved. Approved legal designations, cross-cultural practices and Khan epithet/maxims are below; his full identity and historical contest outcome remain under design.
+**Status:** PARTIALLY APPROVED CANON. Initial development and explicit approvals November 7, 2026. **Kharak** is the approved racial name; **Rexfolk** is a descriptive name. New precise mechanics, fashion and full language remain unresolved. Approved legal designations, cross-cultural practices and Khan epithet/maxims are below; his name, naming system, and Honored Defeat are now approved; the Serpentari monarch's identity remains open.
 
 ## Race and broad direction (author-established)
 - Anthropomorphic tyrannosaur mortals closely associated with the Naga Imperium, among the largest mortal races short of Serpentari. Common, but less populous than Duskpaws.
@@ -46,12 +46,41 @@ The ancestral Rexfolk were formidable nomadic conquerors and accomplished warrio
 - **Approved designations:** The **Court of Fangs** is the challenge forum; an **Oathspeaker** argues evidence and precedent for parties; a **Crown Arbiter** judges such disputes, with Drakyn especially respected in the role. Challenges require demonstrable rather than merely rumored failures; review can address substantial financial and household failures as well as military disasters. Reorganization may transfer warriors and registered service but not automatically convey all estates or debts. Greater contested cases may receive Drakyn arbitration; smaller disputes need not require a dragon's physical attendance. Exact thresholds, appeals, enforcement, dragon jurisdiction and transfer documentation remain unresolved.
 
 ## Pending design work
-1. Founding Khan: **Khan of the Unbroken Word** is approved as his epithet, and the guiding precepts 'A blade wins a battle. A command wins a war. A law preserves the victory.', 'Challenge your superior before his mistakes become your soldiers’ graves.', and 'The strongest warrior is not the one who never kneels. It is the one who knows whom to kneel before.' are approved attributed sayings. A strategic contest ancestral to **Golden Conquest** is approved as an intended connection, without changing the six existing sports or claiming Golden Conquest's modern regulations were ancient. The Khan's full name, opponent, and whether the Serpentari honored or betrayed the outcome remain OPEN.
+1. Founding Khan: **Khan of the Unbroken Word** is approved as his epithet, and the guiding precepts 'A blade wins a battle. A command wins a war. A law preserves the victory.', 'Challenge your superior before his mistakes become your soldiers’ graves.', and 'The strongest warrior is not the one who never kneels. It is the one who knows whom to kneel before.' are approved attributed sayings. A strategic contest ancestral to **Golden Conquest** is approved as an intended connection, without changing the six existing sports or claiming Golden Conquest's modern regulations were ancient. The Khan's name is **Kharzug Vornak**, usually quoted as **Vornak**. The **Honored Defeat** interpretation is approved: he accepted a fair strategic defeat to the Serpentari monarch, who honored the literal terms but whose regime subjected the Kharak to cruel captivity. Exact contest rules, opposing monarch identity and full chronology remain OPEN.
 2. Exact racial attribute sheet, minimum/preferred intelligence and comparative Strength balance, red affinity, bite/equipment mechanics.
-3. Fully specified family customs, personal and clan naming, detailed fashion/collars and comprehensive linguistic customs are OPEN.
+3. Family and naming foundations, religious loyalties, Tatao and childhood oath system are approved below. Detailed tattoo visual designs, individual garment patterns and comprehensive linguistics remain OPEN.
 4. Legal offices and challenge protocols; practical cases involving debt, reputation and competing Coils.
 
 ## November 7 supplemental author approval
 - **Base INT 17** is the approved preferred design target for the eventual balancing sheet; do not yet treat it as a finalized starting-stat number. The minimum desired INT 15 remains a floor if balancing forces reconsideration.
 - The strategic ancestry linking the Khan's historic noncombat defeat to today's **Golden Conquest** is approved in direction, not an assertion that the current sport's Orb formats and nonlethal rules existed in his age.
 - The Khan's epithet **Khan of the Unbroken Word** and three maxims above are approved. His personal and clan names are not yet approved.
+
+## November 7 — Approved families, religion, tattoos and age-of-service custom
+
+### Family organization
+- A **Hearth** is a biological/adoptive family household of parents, children, close relatives and chosen carers; a **Warclan** comprises multiple Hearths and oath-sworn, sometimes unrelated members. The Imperial **Coil** is the superordinate allegiance for serving Warclans. Clan affiliation and household obligations are intensely meaningful; severing them is neither casual nor automatically socially accepted.
+- Hatchlings are cherished and ferociously protected. Adults commonly share rearing, strategy education and family history; mothers and fathers can both lead families and military units by proven competence, not an exclusively sex-based status. A parent's physically intimidating reputation may unintentionally isolate a child from peers.
+- Harm or threatened injury to a Kharak hatchery is a particularly explosive crisis, even for normally rule-minded parents. A Matriarch allowing such harm may face a desperate, furious challenge from affected parents; this **does not automatically give all parents formal First Fang standing** or guarantee impartial process. Whether a special collective petition or emergency challenge mechanism exists remains open.
+- Expulsion from a Warclan can bring severe social disgrace and clanlessness but need not erase bonds of parenthood or relatives' private loyalty.
+
+### Oaths, status and childhood exemption
+- Kharak are **exempt from hereditary enslavement**, an expressly approved exception to ordinary Imperial maternal-status inheritance. An underage Kharak is not automatically owned merely because their parents are.
+- The **First Oath** occurs on becoming a young warrior, ordinarily sometime in the teenage years: acceptance of adult-like responsibilities toward the Warclan, but **not** Imperial enslavement.
+- The **Second Oath** occurs upon reaching age for military service. A Kharak publicly embraces service to a particular Coil; this is normally the proudest day of youth and is marked with the traditional **Tatao**. No universal numerical age, form of legal registration, or permitted coercion safeguards have been established.
+- Rare individuals decline or walk away from this path, remaining clanless or seeking new allegiance, including adventuring. They are not thereby automatically enslaved. Others may opportunistically court, manipulate or attempt capture, but involuntary service is not rendered legitimate by their vulnerability.
+
+### Tatao (singular and collective traditional name)
+- **Tatao** are Kharak traditional tattoos openly proclaiming their allegiance. Their designs visually coordinate with their collars and identify both their owning **Coil** (most prominently) and **Warclan**; their skin displays whose cause they serve.
+- They signify chosen or socially expected belonging, rank and durable obligation rather than impartial historical witnessing. This distinguishes them from Corvyn tattoo and Ink Name traditions.
+- Transfers of service are serious and require deliberate handling of ancestral/previous tattoo marks. No precise design language, body placements, magical properties, removal methods or mandatory re-inking procedures are settled. **Tattoo and collar are not substitutes for Scale Register legal records**.
+
+### Religion
+- **Arrest** is the principal deity venerated by Imperial Kharak, whose fairness, vows, disciplined challenge and accountability are interpreted through their own honor-based hierarchy. More independent and wild Warclans commonly honor **Baphomet**, especially her aspects of revenge and freedom from unearned dominion.
+- Neither faith negates Kharak intelligence, individual dissent, or the existing approved beliefs of Naga and Kobolds.
+
+### Names and legendary continuity
+- **Kharak names:** strong, short, consonant-rich personal names followed by stable Warclan names; earned heroic or military epithets may follow. Mates can retain independent clan names or join through formal allegiance. Both sexes may draw from overlapping name patterns.
+- Approved examples from initial proposal: Kharzug, Thorgat, Borghan, Durgan, Varkul, Ghorak; Vraksha, Kharza, Rhazka, Tharka, Zhurra, Vorga. Warclans: **Vornak, Kharvul, Thrazgor, Gorvash, Dravok**. Example meanings and histories remain proposals unless explicitly established.
+- **Kharzug Vornak, the Khan of the Unbroken Word** is the approved founding strategist and philosopher; he is most commonly cited by clan name **Vornak**. His descendants still serve the **highest-ranked Naga Matriarch** (normally the High Matriarch) and their Warclan is among the most coveted, distinguished and prestigious in the world. Exact succession and household ownership formalities are not established.
+- **The Honored Defeat is approved:** Vornak willingly honored the outcome of a fair, nonlethal strategy contest against a Serpentari sovereign, ancestral in spirit to today's Golden Conquest. The victor kept the literal settlement but the Kharak nevertheless endured humiliating restraints and long captivity. The Serpentari opponent's name is NOT YET CANON.
