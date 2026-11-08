@@ -1,5 +1,10 @@
 # Imperial Collar Culture, Regional Slavery Philosophies, and Orb Interfaces
 
+## November 8, 2026 — Claspjaw open-front C-silhouette (LATEST APPROVED CANON)
+
+The **Claspjaw** is a heavy, asymmetrical industrial Kharak neck cuff visibly shaped like an **open C**, not a complete ring. The front features a **genuinely unobstructed gap between two separated metal ends**: no bridge, chain, ring, strap, plate or other visible connection crosses the opening. The exposed ratcheting handcuff-style locking assembly remains characteristic, positioned asymmetrically. **Two dog-tag-style identification plates hang freely in the center of the opening**, suspended from **one attachment point** so that their chain does **not connect the two ends** or close the gap. This visual design supersedes all earlier suggestions of a concealed/recessed bridge and the previous illustration's chain linking both ends. The exact practical security/retention mechanism of an unobstructed C-shaped collar is **unresolved**, not invented here. Ordinary Imperial Scale Register requirements and specialist collar mechanics are unchanged.
+
+
 ## November 8, 2026 — Claspjaw approved as Kharak collar name (CANON)
 
 The ordinary Kharak industrial collar has the universal name **Claspjaw**. This names the already approved asymmetrical heavy metal, exposed handcuff-style clasp, central gap, dog-tag identification and no-orb design; optional spiked undercollars remain a nightlife style. The earlier proposal **Ironjaw** is superseded, not canonical. The collar's unapproved mechanical details and established Scale Register and specialist restraints remain unchanged.
