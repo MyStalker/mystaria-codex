@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Claspjaw open C-shaped front (APPROVED)
+
+Depict the Kharak **Claspjaw** as a thick asymmetrical industrial **C-shaped neck cuff with a completely clear front opening** between visibly separated ends. Do **not** draw a connecting chain, recessed bridge, bar, O-ring, strap or plate through this gap. **Two small dog tags hang naturally in the center of the gap from one side-mounted attachment only**, never stretched between ends. Show the modern-handcuff-like ratchet mechanism clearly, with one side featuring the locking housing. The security principle for this genuinely open C-shaped design is not yet defined. Previous collar diagrams with a chain bridging the split front are **not approved master references**.
+
+
 ### November 8, 2026 — Claspjaw, reptilian coloration and master-art reference (CANON)
 
 The Kharak ordinary collar is universally named **Claspjaw** (superseding the proposed Ironjaw); preserve its previously approved heavy asymmetrical industrial, clasped, gapped, tagged and orb-free silhouette. Kharak commonly have bold natural scales including **uniform red, blue and deep green**. Naga and Serpentari may commonly bear **real-snake-inspired complex scale patterns**, including natural bands, blotches, saddles, diamonds and mixed-color arrangements; these are examples, not fixed species-wide patterns. For the Kharak racial master, **retain the anatomy and pose of the user's original supplied illustration**, reconciled with later explicit Kharak humanoid-arm canon, before modifying wardrobe/collar. Do not treat proposed color meanings or exact color palettes as canonical.
