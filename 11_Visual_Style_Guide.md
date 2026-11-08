@@ -1,5 +1,10 @@
 # Mystaria — Visual Style Guide and Approved Mana Emblems
 
+### November 8, 2026 — Claspjaw, reptilian coloration and master-art reference (CANON)
+
+The Kharak ordinary collar is universally named **Claspjaw** (superseding the proposed Ironjaw); preserve its previously approved heavy asymmetrical industrial, clasped, gapped, tagged and orb-free silhouette. Kharak commonly have bold natural scales including **uniform red, blue and deep green**. Naga and Serpentari may commonly bear **real-snake-inspired complex scale patterns**, including natural bands, blotches, saddles, diamonds and mixed-color arrangements; these are examples, not fixed species-wide patterns. For the Kharak racial master, **retain the anatomy and pose of the user's original supplied illustration**, reconciled with later explicit Kharak humanoid-arm canon, before modifying wardrobe/collar. Do not treat proposed color meanings or exact color palettes as canonical.
+
+
 ### November 8, 2026 — Kharak industrial collar (APPROVED FEATURES; NAME OPEN)
 
 Kharak ordinary Imperial collars are **substantial asymmetrical industrial metal bands**, with a **visible handcuff-inspired interlocking clasp**, **no orb**, a **characteristic central/front gap**, and **hanging dog-tag-style identification**. **Spiked undercollars** are popular punk/nightlife accessories and need not be supplemented by other chokers. The universal collar name is pending: **“Ironjaw” is a proposal only**. Exact structural gap solution, finishes, tag text and optional embellishments are unapproved. Preserve Scale Register identification and distinct specialized magical collar designs.
