@@ -1,3 +1,7 @@
+## Nullporc protection until shattered — November 8, 2026 (LATEST)
+
+**APPROVED:** Nullporc (Nullporcelain) grants **full protection while intact or lightly damaged/cracked**. **Shattered** equipment gives **none of its own protective benefits** until repaired, irrespective of healing the wearer. No proportional cracked-state reduction or separate shield-style durability meter. Exact shattering trigger, repair requirements and numerical protections remain open. See `07_Centaurs_and_Smithcraft.md`, `09_Equipment_and_Economy.md` and changelog.
+
 ## Ratified armor/elemental doctrine and Nullporcelain design brief — November 8, 2026 (LATEST)
 
 **CANON PHILOSOPHY:** Ordinary physical AR does not automatically reduce Elemental Magnitude or direct psychic effects. Appropriate material resistance, barriers, conductivity/insulation and attack pathways control such protection. A magically thrown physical rock is still a physical projectile, not an automatically resisted pure spell. **AUTHOR'S NULLPORCELAIN TARGETS:** poor and breakable physical armor; strong anti-spell defense without energy-spell breakage; area magic generally engages worn protection whereas targeted exposure can bypass; independent Nullporcelain anti-psychic/fear helmet as deliberate simple mixed-equipment exception. Injury-linked armor cracking and exact numbers are **PROPOSALS**, not yet canon. See `07_Centaurs_and_Smithcraft.md`, `09_Equipment_and_Economy.md`, and changelog.
