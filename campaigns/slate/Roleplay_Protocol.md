@@ -21,6 +21,16 @@
 6. **Legacy compatibility:** Older handoffs labeled `Neri:`, `Peri:`, or another NPC name remain canonical when the DM had identified them as the final post actually sent to Slate. For **new handoffs**, use `DM:` and `Lillia:` exclusively. Do not retroactively change the facts of older exchanges. If a passage's send status is unclear, don't assume it was canonized.
 7. `[RP]` requests RP continuation; `[OOC]` pauses the scene; `[CANON]` asserts campaign facts. These commands are separate from speaker labels and neither transform a draft into an actually sent post.
 
+## Two-draft fusion workflow (DM-approved, November 8, 2026)
+
+1. When the DM supplies a new canonical exchange with `DM:` and `Lillia:` (normally under `[RP]`), Pipkin writes the next **noncanonical** NPC/environment draft in the established compact 2–3 paragraph style.
+2. The DM may then paste SillyTavern's alternate version prefixed **`Silly:`**. This label means **an alternate draft to fuse**, NEVER an authoritative RP turn and NEVER a new player action.
+3. On receiving `Silly:`, **fuse the immediately preceding Pipkin draft and the supplied SillyTavern draft into one complete revised NPC/environment post**. Generally prioritize and preserve **SillyTavern's dialogue** while using and lightly adjusting Pipkin's narration, scene descriptions, actions, and transitions as needed for smooth flow and consistency. Avoid doubling actions, repeating dialogue, or combining incompatible details.
+4. An **`[OOC]` instruction at the top** of the SillyTavern handoff may identify specific Pipkin dialogue, scene elements, ordering, or other details to preserve or change. These explicit preferences override the default dialogue priority.
+5. Output the **fused post only** (plus at most a tiny draft/status label if useful), keeping the 2–3 paragraph default. Do not generate a further scene continuation after the fusion.
+6. The fused post remains a **draft** until the DM actually sends the chosen/edited final text to Slate and returns it with `DM:`. Only that sent final version and Slate's `Lillia:` reply enter canonical continuity. The presence of `Silly:` or a fusion request alone never advances canon.
+7. Do not ask routine clarifying questions when the source drafts and the instructions above are sufficient. Resolve minor overlap with the default priorities and preserve player agency.
+
 ## What to record in GitHub
 - At every meaningful handoff, record the **confirmed exchanges and their consequences**, preferably in the live chronicle. Do not turn Pipkin's unapproved replies, proposed NPC secrets, possible treasure, offers, or unresolved choices into actual events.
 - The current canonical transcript may be preserved verbatim where helpful, with concise event summaries separately.
