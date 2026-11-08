@@ -1,5 +1,10 @@
 # MYSTARIA — Canon Library Index
 
+## Kharak families, Tatao, religious devotion and Vornak — November 7, 2026
+
+**CANON:** The Kharak's **Hearth** and **Warclan** family organization, intense hatchling protection, **First Oath** at young warriorhood and **Second Oath** at army service, and the **Tatao** allegiance tattoos favoring Coil over Warclan imagery are recorded in [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md). Kharak children **do not inherit their parents' slave status**, unlike the usual Imperial maternal rule. Imperial Kharak prominently worship **Arrest**; wilder clans often favor **Baphomet**. Personal + Warclan + earned epithet naming is approved: **Kharzug Vornak, Khan of the Unbroken Word**, is conventionally quoted as **Vornak**; his descendants serve the senior Matriarch. The Khan's **Honored Defeat** by an unnamed Serpentari sovereign is approved. True Serpentari monarch naming, tattoo pattern specifics, collective hatchery-challenge legal standing and chronology remain open.
+
+
 ## Kharak supplemental approvals — November 7, 2026
 
 **CANON:** The **Court of Fangs**, **Oathspeaker** advocates and **Crown Arbiter** judges, approved cross-cultural Kharak/Naga influences, **Khan of the Unbroken Word** epithet and three maxims, and a historical strategic contest preceding modern Golden Conquest are now recognized in [`33_Kharak_Rexfolk_Culture_and_Command.md`](33_Kharak_Rexfolk_Culture_and_Command.md). INT 17 is a **preferred balance target, not a final numeric sheet**. Clan/family systems, full Khan name, opposing Serpentari king, decisive historic contest outcome and specific dress/language designs remain pending.
