@@ -88,3 +88,10 @@ The DM supplied an **actual revised Neri post** (her elaborate paw and gold ring
 ## Recording policy
 
 At each meaningful RP exchange, append the actual player action, NPC response, and confirmed consequences. Track quest changes and new relationships only when established. Keep unrevealed DM secrets out of player-facing material. Retcons should explicitly supersede the affected entry instead of silently erasing history.
+
+## Confirmed handoff — Emberwrap given to Peri (November 8, 2026)
+
+- **Confirmed final DM post:** Peri caught Lillia as she leaned against him in the near-freezing workshop. He was extremely cold and trembling in sparse work clothes. He was startled when she removed her Emberwrap top, protested that she needed it more, examined its fine woven fabric and metalwork, and nevertheless put it on. The warmth visibly relieved his cold; he then worried that Lillia would be cold without it. This final post supersedes earlier assistant drafts.
+- **Confirmed Lillia response:** Lillia removed the Emberwrap skirt as well and fastened it around Peri, giving him **both pieces of the outfit**. She argued that *he* was the one risking hypothermia, then realized her own exposed state and covered herself, embarrassed. She asked whether Peri needed anything from the strange workshop and proposed returning to Neri promptly if not. She also made a shy, teasing comment about whether he liked seeing her undressed. These are Slate's established actions and dialogue; no answer from Peri has yet been confirmed.
+- **Continuity:** Peri currently wears the complete Emberwrap. Lillia no longer wears it and is exposed to the intense cave cold. Her precise ongoing exposure effects and Peri's decision about leaving the lab remain unresolved. *Warmth for Two* has not been expressly declared completed or rewarded by Surrender.
+- **Draft boundary:** Any subsequent `Silly:` post is only an alternate NPC draft for fusion. It is **not a canonical reply from Peri** until the DM actually sends and returns the chosen `DM:` version.
