@@ -1,5 +1,11 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 7, 2026 — Kharak anatomy and industrial-fashion direction (LATEST)
+
+- **Author-established:** Kharak arms and hands are large, humanoid-proportioned and dexterous, allowing conventional scaled military weaponry; this is a significant distinction from Thornguard and not an exotic Draykin-style body plan.
+- **Approved aesthetic direction:** technologically advanced, Kobold-influenced Imperial construction; near-modern street-samurai practicality mixed with fantasy, dark military clothing and clean industrial melee weapons; casual furs and men's leather jackets. Cyberpunk street samurai and Cloud Strife (FFVII Remake) are visual inspirations, not direct costume copying.
+- **Not yet approved:** named outfit styles, specific material systems, uniform cuts, weapon designs, collar forms and final racial illustration.
+
 ## November 7, 2026 — Kharak hatchling speech approved; fashion next (LATEST)
 
 - **Approved:** Kharak adults need not censor profanity around hatchlings; instead they speak and act with noticeably greater tenderness, patience and reassurance. **“Little fang”** is an accepted affectionate nickname, not mandatory for all families.
