@@ -1,5 +1,13 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 7, 2026 — Kharak fabric, jackets and peacetime military fashion (APPROVED DIRECTION)
+
+**Dense woven cloth** is a favorite material for most Kharak outfits outside all-out war. Traditional **furs** persist as accents, heirlooms and clan expression. **Leather jackets may be worn draped over the shoulders like capes**, a distinctive approved styling option. The three previously proposed design families (Industrial Vanguard, Coil Street Samurai, Hearthborn Bruiser) are accepted as compatible influences, with a **slight preference for the urban Coil Street Samurai** look. Exact named outfit patterns and women's sensual casual designs remain unapproved.
+
+The Imperium is largely at peace: many Kharak soldiers primarily **fight monsters** or serve as **military police overseeing enslaved populations**, rather than fighting conventional wars. Everyday service armor should be **light**, built around mobility and practical equipment. For actual war gear, blend **fur, teeth ornaments, Viking-inspired martial imagery** and **restrained power-armor-like visual cues** with advanced Kobold/Imperial manufacture. No powered armor technology, armor ratings, magical effects or new weapon mechanics are approved by this aesthetic direction alone.
+
+**Thornguard visual contrast:** Thornguard favor a **traditional knight-and-rogue fantasy aesthetic**, whereas Kharak favor modern-industrial Imperial street-samurai silhouettes with retained barbarian heritage. Do not alter existing Thornguard anatomical canon.
+
 ## November 7, 2026 — Kharak humanoid arms and industrial Imperial design direction (AUTHOR-ESTABLISHED)
 
 **Approved anatomy distinction:** Kharak have **substantial, humanoid-proportioned, dexterous arms and hands**, not the short forelimbs of real-world tyrannosaurs. They are common frontline soldiers able to wield scaled conventional melee weapons, not anatomically exotic Draykin. This should be a major visual distinction from Thornguard, without changing any previously approved Thornguard anatomy. Preserve the Kharak's recognizable tyrannosaur head, jaws, overall power and tail.
