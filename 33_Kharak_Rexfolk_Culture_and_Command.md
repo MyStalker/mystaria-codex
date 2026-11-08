@@ -1,5 +1,9 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 7, 2026 — Kharak profanity and family contrast (APPROVED)
+
+Kharak are often enthusiastically profane, with rough and inventive insults rivaling Tidekin verbal flair. This makes their gentle speech toward their own young especially distinctive. **“Fangrot!”** is their signature everyday curse; **“Arrest's Arse!”** is an irreverent divine exclamation contrasting with Moontouched “Sweet Surrender!”; **“Rot your word!”** condemns broken promises; **“Coward!”** is commonplace for perceived flight from a fight. Approved further profane insults and dismissals are catalogued in `12_Languages_and_Linguistic_Customs.md`. **“Shit and splinters!”** is rejected as too silly. Do not erase the distinction between reckless cowardice accusations and the established Kharak obligation to preserve soldiers' lives.
+
 ## November 7, 2026 — Approved Kharak signature speech (PARTIAL)
 
 The author approves **“Count them home.”** as a common instruction/farewell before dangerous duty, and **“My word stands.”** with the response **“Then I stand with it.”** as a serious nonmagical promise exchange. The preferred form of the earlier proposed insult is **“Rot your word.”**, not “Rot your oath.” Kharak everyday profanity should be unusually rough, vivid and competitive with Tidekin verbal flair; the specific new vulgar expressions remain **proposals**, not canon. Do not adopt “Cracked shell!” as the everyday swear. See `12_Languages_and_Linguistic_Customs.md`.
