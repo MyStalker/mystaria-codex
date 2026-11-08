@@ -1,5 +1,13 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Guard Flow final design selected: Perfect Pivot with Master's Answer (LATEST)
+
+- **Approved design choice:** Guard Flow's final stance upgrade is **Perfect Pivot (option A)** combined with the *specific learned tactical response* aspect of **Master's Answer (option F)**. It is a stance affordance following meaningful successful defense, not a Fangscript technique, not combo-spending, not a simple wound/stat bonus, and not automatic attack generation. It supersedes the former *Perfect Reversal* and the previous *capstone undecided* status. **Exact progression/rank, cost, action-economy timing, exchange-frequency, thresholds and prediction persistence remain pending.**
+- **Guard progression direction:** Read the Blade to learn genuine tendencies; Break the Pattern to overcome physical tactical disadvantages; Perfect Pivot to transform a qualified defense into positional/engagement advantage, exploiting actual enemy commitment and observed tactics.
+- **Approved anti-magic identity:** Kharak counter spells through better **physical evasion, positioning, viable cover, timing of actual delivery interruption, and observation of repeating casting habits**, *not* extra magic Resistance, blanket spell cancellation, reflected spells, or reduced elemental damage by default. **Proposed examples only:** Blastline Pivot, Broken Cadence, Spell's Blindside, Master's Answer. AoE requires actual escape beyond its footprint; silent/instant/counter-contingent spells are not automatically vulnerable to interruption. Casting interruption specifics remain a general mechanical open item. No change to Sorcery's Wyrmcraft, action economy, Shimmer Guard, Pressure or elemental calculations.
+- **Updated files:** `33_Kharak_Rexfolk_Culture_and_Command.md`, `08_Other_Crafts.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+
 ## November 8, 2026 — Guard Flow tactical direction and Fangscript meditation approved (LATEST)
 
 - **APPROVED:** Kharak natural red elemental Warflow effects manifest fire; compatible **Drakyn elemental dragonmarks may alter those manifestations**. Detailed cross-craft mark interface, precise eligible marks, costs, Soul Strain and alternate-element mechanics are **OPEN**, and existing dragonmarks do not universally rewrite unrelated Martial Arts or grant missing mana colors.
