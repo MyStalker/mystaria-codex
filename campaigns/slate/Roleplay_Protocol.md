@@ -31,6 +31,8 @@
 6. The fused post remains a **draft** until the DM actually sends the chosen/edited final text to Slate and returns it with `DM:`. Only that sent final version and Slate's `Lillia:` reply enter canonical continuity. The presence of `Silly:` or a fusion request alone never advances canon.
 7. Do not ask routine clarifying questions when the source drafts and the instructions above are sufficient. Resolve minor overlap with the default priorities and preserve player agency.
 
+8. **SillyTavern is optional, never a prerequisite.** If the DM does not supply a `Silly:` post, do not wait, request one, or leave a prior fusion pending. Accept the next `DM:` post as the authoritative final post actually sent to Slate, together with `Lillia:` as Slate's actual reply, and continue the RP normally with a fresh noncanonical draft. This applies whether the DM used Pipkin's draft, edited it, authored something new, or chose not to consult SillyTavern.
+
 ## What to record in GitHub
 - At every meaningful handoff, record the **confirmed exchanges and their consequences**, preferably in the live chronicle. Do not turn Pipkin's unapproved replies, proposed NPC secrets, possible treasure, offers, or unresolved choices into actual events.
 - The current canonical transcript may be preserved verbatim where helpful, with concise event summaries separately.
