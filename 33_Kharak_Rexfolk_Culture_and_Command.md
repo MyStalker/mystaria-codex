@@ -112,3 +112,7 @@ Hatchbane is meant to demonstrate the **strong heart and justice-led, if imperfe
 
 ### Legal interpretation
 The Court of Fangs distinguishes allegation from conviction, investigates missing eggs without presuming death, and separates deliberate injury, foreseeable harm, culpable negligence and unavoidable accident. Emergency parental petitions may demand urgent intervention without conferring unrestricted mutiny rights. Degree assignment, evidentiary standards, appeals, exact thresholds, and sentencing procedures remain **OPEN** beyond the principles approved above.
+
+## November 7, 2026 — Compassion beyond the Hearth and Vornak reform direction (APPROVED)
+
+The Kharak regard acts resembling Hatchbane against **children of other races** as especially disgusting and dishonorable, although their protective intensity toward their own eggs and hatchlings is stronger. This broader ethic is **largely informal**, not an automatic extension of the formal Kharak-specific Hatchbane charge to all species. It can unite Hearths with families of other races and create crises of conscience for soldiers ordered to mistreat enemy young. This ethic contrasts with earlier Khans' campaigns of Extinction. The author also explicitly approves the historical direction that Vornak did **not** single-handedly invent Kharak compassion: generations of parents, warriors and elders questioned Extinction, and Vornak's leadership helped give their evolving convictions force of law. Exact reforms, texts and dates remain open.
