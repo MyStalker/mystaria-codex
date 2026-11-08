@@ -1,5 +1,10 @@
 # Kharak — Rexfolk, The Crown's Fangs
 
+## November 8, 2026 — Claspjaw unobstructed front approved (CANON)
+
+The **Claspjaw** has an **open C-shaped silhouette**, with an actual **unobstructed front gap** between separate steel ends, not an O-shaped closed ring. It must have **no spanning chain, hidden bridge, plate or O-ring** across that gap. Its **two small identification dog tags hang centrally**, on a short freely hanging chain supported from **one side**; the tag chain must not connect both ends. Preserve heavy modern-handcuff-inspired industrial manufacture and an asymmetrical ratcheting clasp. Earlier assistant suggestions of a recessed connector, and images showing chains between both ends, are superseded. How it remains secure without a front bridge is **open engineering**, not canon mechanics.
+
+
 ## November 8, 2026 — Claspjaw name and colorful Kharak scales (CANON)
 
 **Claspjaw** is the approved universal name for the ordinary Kharak Imperial collar. It retains the previously approved heavy, asymmetrical, industrial metal assembly, handcuff-inspired visible interlocking clasp, characteristic front/central gap, dog-tag identification, no orb, and optional spiked undercollar for nightlife. **Ironjaw** was an unapproved proposal, now rejected in favor of Claspjaw. Exact internal clasp engineering, gap bridge, tags, ornament and finishes have not been approved.
