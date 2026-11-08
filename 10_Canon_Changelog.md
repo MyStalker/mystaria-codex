@@ -1,5 +1,14 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Warflow split into separate skills and single-stance limit (LATEST DIRECTION)
+
+- **Author clarification:** Attack Flow and Guard Flow are **two distinct skills** with separate progression, not merely two modes of a single skill. A martial artist receives **only one stance's benefits at any moment**. Intended combo maximum grows from **3 untrained** to **8 fully mastered**; rank-by-rank assignment, costs and precise bonuses remain for approval.
+- **Attack Flow preferred stance progression:** combo-scaled elemental attack imbuement, elemental movement at higher combo, and final small flat Fangscript Attack Combo discount. Any fire/ice elemental crossover must obey later approved affinity rules.
+- **Guard Flow explicitly under redesign:** user is skeptical of a passive DEX/ignored-wounds/reversed-wounds package and prefers **new tactical options at high combo**, not merely increased survival numbers. Enemy-reading, redirection, ally protection and conditional counters suggested only, not approved.
+- **User's PROPOSED meditation values:** ~6 seconds per preparation interval, +1 momentum per 20 effective INT, ~10 minutes duration, spent on Fangscript. Formula `1 + floor(INT / 20)`, whether prepared momentum activates stances, cap-sharing, action interruptions and final duration remain **open proposals**. Prior direct red-MP Fangscript option remains intended, inefficient, unpriced. This is a design note, not SP/MP numerical canon.
+- **Files updated:** `33_Kharak_Rexfolk_Culture_and_Command.md`, `08_Other_Crafts.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+
 ## November 8, 2026 — Thornguard reserve and Kharak Arts design direction (LATEST)
 
 - **Approved Thornguard change:** natural white MP is **2 × floor(effective END)** (level-1 END 20 = 40 MP). They retain no direct self-casting/shaping/spending. **Equipment Soul Strain incurs ordinary full strain** but has a **hard ceiling of 50% of doubled natural MP** (20 in example), preserving other half of *capacity* for cooperative use, **not guaranteeing unspendable current MP**. Other Soul Strain origins remain governed by their own rules; any global total-cap interaction remains unresolved.
