@@ -5,7 +5,7 @@
 **LATEST CANON:** The author chose the *original Claspjaw — Standard Kharak Collar* parchment technical artwork as the standard design: broad brushed gunmetal industrial cuff, squared front terminals with short visible gap, a **loose chain bridging them**, **two dog tags hanging from the chain midpoint**, and side-mounted asymmetrical toothed handcuff ratchet and keyed housing; yellow-gold industrial diagonal stripes. This **supersedes the earlier fully unobstructed open C-shaped/no-chain ruling** (see below, now historical only). See `25_Imperial_Collar_Culture_and_Restraints.md`, `11_Visual_Style_Guide.md`, `33_Kharak_Rexfolk_Culture_and_Command.md` and changelog. Exact mechanical function remains open.
 
 
-## Claspjaw open C-shaped front — November 8, 2026
+## Claspjaw open C-shaped front (SUPERSEDED) — November 8, 2026
 
 **CANON:** The Kharak Claspjaw has a truly **unobstructed C-shaped front gap**, never a complete ring or a split front bridged by chain/metal. Two identification dog tags hang freely in the center, supported from one side without joining the ends. Keep asymmetrical industrial handcuff-style ratchet. Security/retention engineering is still open. See `25_Imperial_Collar_Culture_and_Restraints.md`, `33_Kharak_Rexfolk_Culture_and_Command.md`, and `11_Visual_Style_Guide.md`.
 
@@ -15,7 +15,7 @@
 **CANON:** **Claspjaw** is the Kharak industrial collar's universal name, replacing the proposed Ironjaw. Kharak commonly have natural red, blue and deep-green scales; Naga and Serpentari may have elaborate real-snake-like natural patterning. Preserve the original supplied Kharak image's anatomy and pose when making the master reference, with newer humanoid-arm decisions respected. See `33_Kharak_Rexfolk_Culture_and_Command.md`, `25_Imperial_Collar_Culture_and_Restraints.md`, `02_Races.md`, and `11_Visual_Style_Guide.md`.
 
 
-## Kharak industrial collar direction — November 8, 2026
+## Kharak industrial collar direction (HISTORICAL; name since approved) — November 8, 2026
 
 **APPROVED FEATURES:** heavy asymmetric metal collar, visible handcuff-like interlocking closure, central gap, hanging dog-tag identification, optional spiked undercollar, no Kobold-style orb. Universal name and exact mechanical/ornamental details remain open; “Ironjaw” is only proposed. See `25_Imperial_Collar_Culture_and_Restraints.md` and `33_Kharak_Rexfolk_Culture_and_Command.md`.
 
