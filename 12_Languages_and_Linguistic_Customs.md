@@ -1,5 +1,13 @@
 # Mystaria — Languages and Linguistic Customs
 
+## November 7, 2026 — Kharak signature expressions (APPROVED; profanity pending)
+
+The author explicitly approves **“Count them home.”** as a characteristic Kharak farewell and instruction before dangerous duty: bring all those entrusted to you back safely. The author also approves the serious commitment **“My word stands.”** and its familial/companion response **“Then I stand with it.”** These are social conventions, not magical contracts. Their use should feel natural rather than mandatory in every exchange.
+
+**“Rot your word.”** is the author-preferred revision of the proposed curse “Rot your oath.” The earlier wording is superseded. It expresses bitter contempt for a person who breaks or corrupts promises.
+
+**Still proposed:** common casual exclamations and explicit profanity, including “Fangrot!”, “Shit and splinters!”, and other rough barracks insults. “Cracked shell!” is disfavored as an everyday swear because it overemphasizes eggs; “Broken fang!” is not yet selected. Other newly suggested sayings and vocal details remain pending specific approval.
+
 ## November 7, 2026 — Kharak naming, oaths and Vornak's quotations (CANON)
 
 Kharak use sturdy personal names and Warclan surnames, with earned martial/philosophical epithets. **Kharzug Vornak, Khan of the Unbroken Word**, is commonly quoted as **Vornak**. His three approved sayings are recorded in `33_Kharak_Rexfolk_Culture_and_Command.md`; citing them is a natural Kharak rhetorical habit. Their adolescent **First Oath** expresses belonging to Warclan, their **Second Oath** at service age expresses Coil allegiance, normally commemorated by the **Tatao**. More specific phonology, colloquialisms and syntax remain unapproved. Existing Serpentari naming conventions and Corvyn Ink Name customs remain separate.
