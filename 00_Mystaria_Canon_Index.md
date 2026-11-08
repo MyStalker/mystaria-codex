@@ -1,3 +1,7 @@
+## Nullporcelain AR0, high magic protection, intermediate burden — November 8, 2026 (LATEST)
+
+**APPROVED:** Pure Nullporc has **physical AR0 at every quality and armor class**, with no default Medium/Heavy built-in AR25 padding exception. Anti-magic efficacy is intended to rival **Adamantite's physical defensive significance**, not reuse literal AR170 as magical arithmetic. At matched class/quality/coverage, weight and STR/mobility burden lie **between Trufula and Boughsteel**. Exact Magic/Elemental Magnitude/Psychic Resistance figures and shatter triggers remain open. Future Psycraft mechanics must account for real material-based mental defense from Nullporc helmets without giving ordinary physical armor psychic defense. See owning equipment/Smithcraft files and changelog.
+
 ## Ceramic armor retains protection until shattered; individual-material-first workflow — November 8, 2026
 
 **APPROVED:** Extend Nullporc's intact/cracked **100%** protective effect and Shattered **0% until repaired** to genuinely ceramic-style armor, without a new durability meter or wearer-healing repair. Material-specific shatter thresholds remain open; do not automatically classify tough Glassweave as ceramic. **WORKFLOW:** finish and test pure materials individually before optional advanced composites on their own reference page. Nullporcelain numerical design is next; Celestite remains outside standard quality. See `07_Centaurs_and_Smithcraft.md`, `09_Equipment_and_Economy.md` and `10_Canon_Changelog.md`.
