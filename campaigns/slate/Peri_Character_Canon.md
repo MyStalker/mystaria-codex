@@ -38,3 +38,12 @@ Peri's immediate reluctance to abandon the vault can resolve in the scene; his l
 ## Portrayal note
 
 Keep the initial NPC compact, scene-focused, and capable of growing if Slate takes a liking to him. He is an enthusiastic engineer with a serious insecurity, not simply comic relief. Separate established character history from what Lillia knows on-screen.
+
+## Vault discovery — Artificial Legend Matrix (DM scene design, not yet played)
+
+- **Object:** Peri has been working on a portable, unfinished **Artificial Legend Matrix** in the ancient workshop vault. The project's ambitious goal is to store divine energy and manufacture the **Shimmer Guard-style protection** associated with a Hero or Legend for ordinary people. Its feasibility and final mechanism are unresolved; this is **not** a functioning artifact or proof that artificial Heroes can be made.
+- **Canon boundary:** Existing Shimmer rules distinguish the divine Guard of Heroes from the reputation-and-belief-based Guard of Legends. The device's possible ability to imitate that protection does not automatically confer other Shimmer benefits, Hero leveling, or true Legend status. Exactly how the experiment might work remains a mystery.
+- **Present condition:** Peri **can carry the incomplete matrix away**. The workshop's powerful tools and fixed apparatus cannot travel with him and tempt him to stay. The matrix briefly flares and flickers, but does not yet work reliably.
+- **Potential insight:** Witnessing a genuine Hero or Legend in action **may spark an insight for Peri**, but does not automatically complete the invention or activate a working Guard. Preserve player agency and dramatic pacing.
+- **Physical condition:** Peri is very hungry after being trapped. He has prevented serious thirst by using craftsmanship-oriented Wakecraft to gather dew/condensation from the rocks.
+- **Scene priority:** Rescue and meeting Peri come first; the matrix and fixed workshop are an optional temptation, not a mandatory quest or forced choice. No claim that Lillia has already saved him, witnessed the matrix, or demonstrated her powers here.
