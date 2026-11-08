@@ -1,5 +1,11 @@
 # Mystaria — Canon Changelog, Supersession Ledger, and Open Questions
 
+## November 8, 2026 — Kharak industrial collar features approved; naming open (LATEST)
+
+- **Approved design direction:** heavier industrial counterpart to Kobold collar, without orb; asymmetrical handcuff-like interlocking closure; front/central gap; hanging dog-tag identification; fashionable spiked undercollars for nightlife.
+- **Pending approval:** universal collar name (**Ironjaw** suggested), precise structural gap solution, finishes, tags, embellishments and engineering specifics. Do not add unapproved magic.
+- **Terminology maintenance:** update older Kharak tattoo spelling **Tatao** to approved **Tattao** in the Imperial collar dossier.
+
 ## November 8, 2026 — Tattao spelling; Kharak varied uniforms and exposed heraldry (LATEST)
 
 - **Terminology corrected:** Kharak body heraldry is **Tattao**; **Tatao** is superseded.
