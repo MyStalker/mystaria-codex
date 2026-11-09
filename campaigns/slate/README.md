@@ -8,6 +8,7 @@ This directory records **campaign continuity**, not universal Mystaria canon. Co
 - [Characters](party-and-characters.md)
 - [Session log](session-log.md)
 - [Current adventure](current-adventure.md)
+- **[Next three scenes: DM packet and selectable vault loot](Next_Three_Scenes_DM_Packet.md)**
 - [Open threads](open-threads.md)
 - [Blackweir city canon and working Grand Arch districts](Blackweir_City_Canon.md)
 - [Legendary relics and Second Ascendancy planning](Legendary_Relics_and_Second_Ascendancy_Planning.md)
