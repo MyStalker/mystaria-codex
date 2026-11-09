@@ -18,3 +18,10 @@
 - **Vault MacGuffin:** The Drowned Meridian remains a candidate only; determine its specific relevance to Sella and Blackweir before canonizing the treasure contents.
 - **Three outlaw creatives:** Mara's quarry and labor cause, Varrin's Hollow Choir and winter assassination plot, Tikka's press and Drakyn partner. Their final recruitment outcomes remain unplayed.
 - **Alchemist target:** Influential male Nymbrin exploiting Starspawn; name and allies are not settled. Nymbrin guilds' lease negotiations could shift following his demise but no assassination has occurred.
+
+## Long-range relic conspiracy (approved direction, events not played)
+
+- **Six craft-linked legendary treasures:** [Planning dossier](Legendary_Relics_and_Second_Ascendancy_Planning.md). Drowned Meridian = Wakecraft; First Regalia = Jestercraft; Witness's Quill working title = Bloodbond / Corvyn Living Ink; slots 4 and 5 intentionally open; slot 6 = Anvilcant-forged Celestite weapon. Each has an individual prior Hero/Legend whose story and current survival remain to be worked out.
+- **Legendary Resonance:** Anyone can use normal artifact power, while a qualified Craft user may temporarily manifest staggering legendary power given extreme genuine shared belief, with grave risks. Exact game mechanics TBD.
+- **Ishkarith and surviving Serpentari:** Long-arc relic collector and speculative divinity/ascendancy research; specific apparatus effects, outcomes and supporting cast TBD. One mid-arc contact in his network and an optional Drowned Meridian theft/recovery plot may foreshadow the larger arc, but none has happened.
+- **God War Celestite weapon:** Could have dealt the killing blow to the historical Serpentari supreme ruler, not established as actual history until later approval. Existing soul damage, anti-magic and forging canon remains mandatory.
