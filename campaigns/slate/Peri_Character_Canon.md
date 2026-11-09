@@ -58,3 +58,8 @@ Keep the initial NPC compact, scene-focused, and capable of growing if Slate tak
 ## DM-confirmed correction — Workshop departure (November 8, 2026)
 
 - **Peri has physically departed the workshop/vault with Lillia**, not merely agreed to leave. This overrides prior uncertainty about whether the departure occurred. No specific onward location, reunion with Neri, or new technical breakthrough has been confirmed.
+
+
+## Proposed treasure-vault research beat — DM-approved setup November 9, 2026
+
+At the **next treasure vault**, following the already-confirmed departure from his original workshop, **Peri carries a damaged ancient kobold research notebook he previously acquired**. He is flipping through it while attempting to identify the objects in the treasure vault. The DM approves his role as a **fallible item-namer/explainer** who can suggest informal names and describe likely basic powers based on incomplete records, craftsmanship knowledge and demonstrations. Large parts of the book remain untranslated or damaged. Do not make him able to explain hidden Meridian needles, water scaling or ancient secrets automatically. The party has not yet played the resulting treasure scene; nothing has been awarded.
