@@ -25,3 +25,10 @@
 - **Legendary Resonance:** Anyone can use normal artifact power, while a qualified Craft user may temporarily manifest staggering legendary power given extreme genuine shared belief, with grave risks. Exact game mechanics TBD.
 - **Ishkarith and surviving Serpentari:** Long-arc relic collector and speculative divinity/ascendancy research; specific apparatus effects, outcomes and supporting cast TBD. One mid-arc contact in his network and an optional Drowned Meridian theft/recovery plot may foreshadow the larger arc, but none has happened.
 - **God War Celestite weapon:** Could have dealt the killing blow to the historical Serpentari supreme ruler, not established as actual history until later approval. Existing soul damage, anti-magic and forging canon remains mandatory.
+
+
+## Meridian loot-preparation checklist — important for every future treasure generation
+
+**Before designing treasure, vault finds or salvage, consult [Meridian Loot & Investigation Clue Register](Meridian_Loot_Clue_Register.md).** Particularly consider the **damaged, partly untranslated/restoration-needed kobold research notebook** and **ancient sealed water vial carrying Mirrorwake-readable impressions**. Additional clues: an Imperial confiscation/transfer ledger, old navigational maps, Tala songs and logs, propaganda about Tala's loved one, and signs of the submerged planet-spanning Serpentari passages. No clue is automatically found by Lillia without DM-confirmed play.
+
+**Approved background:** Tala Sixwake is the former Tidekin Wakecraft-master wielder of the Meridian; her true/half-true/false legends and confiscation-to-vault history are now DM-approved. The Serpentari were aquatic; the planetary underwater route network is real but **unnamed**, whereas the **Scaled City** remains an unverified rumor. Network name candidates: Worldcoil, Deepveins, Sovereign Channels, Undercoil, Abyssal Arteries. The precise content of the water vial, historical translator, notebook restoration method, Tala's loved one and fate remain open.
