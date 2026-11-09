@@ -84,3 +84,20 @@ Blackweir's exact ruler, aristocratic patron of Dusk's theatre, the powerful own
 - Reciprocal covenants and high-value Golden Leases should be especially instructive for the danger of badly specified requirements and missing contingency provisions.
 
 **Further assistant recommendations, not mechanically settled:** distinguish continuous breach from one-time prohibited acts, the exact plateau and reset behavior, whether sincere efforts at compliance moderate penalties, how involuntary violation is detected, and how impossible commands work without automatic mercy. The DM accepts the overall previous conceptual suggestions, but precise game mechanics are not yet ratified.
+
+## Bloodbond enforcement edge cases — DM-approved canon (November 9, 2026)
+
+The DM explicitly approved **all eight** of these rulings as established Bloodbond canon. They supersede tentative suggestions and apply as guiding rules even while numerical progression and rank mechanics remain under redesign:
+
+1. **Impossible orders:** Compulsion persists even when fulfillment is impossible. Pain and bleeding rise toward a generally survivable plateau. Only applicable contractual exceptions suspend enforcement.
+2. **Ambiguous orders:** Magic follows the clearest ordinary interpretation of the command. A portion with no sufficiently clear actionable meaning is not magically enforceable.
+3. **Conflicting orders:** Higher-priority clauses supersede lower ones; among equally ranked conflicting direct commands, the most recent controls.
+4. **Exhaustion/rest:** No automatic rest exemption. Physical incapacity can stop activity but does not by itself discharge the obligation. Inconsiderate or abusive drafting can inflict prolonged suffering.
+5. **Punishment ending:** The bond's enforcement fades relatively promptly when an active violation ceases. New breaches trigger fresh enforcement; ordinary injuries remain until healed by natural or magical means.
+6. **Master's death:** The original agreement's applicable succession terms control. Absent applicable succession, the deceased master's personal command authority ends, although otherwise independent obligations can survive.
+7. **Fraud/loopholes:** Forged paperwork cannot rewrite a Crimson Ledger's operative record. Authentic defects and loopholes within original covenants and their fixed-at-formation legal citations are exploitable.
+8. **Permanent release:** A master may waive, suspend, exempt or end duties only where the original covenant gives them that power. Court or political authority alone cannot unilaterally override or rewrite a Ledger covenant.
+
+**Sella-specific application (working story premise, NOT played canon):** A potential mass release requires proof that multiple covenants share a genuine original legal dependency; an isolated loophole does not destroy unrelated bonds. The Crimson Drayke can interpret real loopholes, not manufacture them. Sella's precise scheme and outcome remain undecided.
+
+**Remaining open work:** precise numerical Bloodbond enforcement/ranks and global skill revision, not the eight approved principles above.
