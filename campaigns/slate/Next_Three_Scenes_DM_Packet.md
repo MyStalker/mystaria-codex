@@ -102,3 +102,12 @@
 - Only Lillia notices the vial initially. Present it naturally without forcing interaction; companions could notice later if she draws attention.
 - Peri is simultaneously studying his own notebook, with humanly limited recognition. Let Slate ask questions or ask for a demonstration before choosing loot.
 - Keep the player-facing description of the vial mundane. All Mirrorwake mechanics and the possibility of contaminated water belong to DM notes until discovered.
+
+
+## Opening-story continuity correction — authoritative DM handoff November 9, 2026
+
+The **Velvet Annex, Dusk's modest clandestine hideout beneath the Hollow Wards**, and his pre-Lillia pursuits (saving theatre from political retaliation for sheltering Sella, gathering unconventional creative allies, and seeking Bloodlord prestige through captives) are DM-approved. The location has ties to cavern maintenance paths and Blackweir's old service routes. It is **not Dusk's actual theatre** in the Grand Arch's Velvet Ring.
+
+**Do not use the earlier loosely proposed empty-cage surprise/reunion as an established scene.** The canonical opening is [October 29 first post](Opening_Post_2026-10-29_Verbatim.md): Lillia woke in a velvet-panelled carved stone cage featuring hamster wheel, water cylinder and rod, worn poetry books, and a rough statue of Dusk. Dusk **had already seen her sleeping**, but **they never spoke** before Lillia escaped **beneath a loose tile disturbed by Dusk's installation of his own statue**. She reached adjacent caverns within minutes. When she returns, he may remember the sleeping captive, but his first conversation with her is **still to occur**.
+
+The DM's favored causation is that **Sella previously prayed at length to Surrender in the same cell**. The goddess can hear prayers and observe her Heroes, and conduct limited subsequent observations. She is not omniscient; neither Dusk's response nor Lillia's fate was guaranteed. Specific prayer content, Sella's confinement and Dusk's knowledge remain open. The original Surrender dialogue is canon verbatim, including its references to pawn, queen, knight and white rabbit. No automatic Bloodbond or preexisting contractual submission.
