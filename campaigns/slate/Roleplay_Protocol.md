@@ -83,3 +83,11 @@ This is the default workflow for Slate's solo Mystaria campaign **when the Mysta
 ### Surrender's two voices (explicitly DM-approved, November 8, 2026)
 
 Surrender has two contrasting presentation registers: **ordinary patronage** is affectionate and encouraging; **with Lillia specifically**, she becomes distinctly more shameless, provocative, teasing, and vicariously fascinated by Lillia's voluntary embarrassment and submissive/masochistic fantasies. Preserve both as recognizably the same deity, not separate personalities. The DM explicitly approves this contrast and the broader mature, risqué campaign atmosphere, while retaining player agency and non-graphic ChatGPT roleplay. This approval establishes campaign characterization, not an unplayed scene event.
+
+## Tidekin dialogue restraint (DM-approved, November 9, 2026)
+
+- **Long-term portrayal preference:** Tidekin characters, especially **Neri** and **Peri**, should use culture-specific phrases and sailor idioms **roughly half as frequently** as earlier roleplay drafts. Their cultural voices should remain recognizable without repetitive catchphrases or dialogue becoming a caricature.
+- **“Shiver me timbers” is exceptionally rare**, reserved for a playful, exaggerated, deliberately unserious moment. Never use it as a routine exclamation during danger, emotional revelations, or solemn discoveries.
+- Similarly reduce habitual “shucking tides,” “shucking barnacles,” “Arrr,” and other race/culture-specific interjections by around 50%. Avoid stacking two such phrases in the same exchange; prefer ordinary conversational language with distinctive personality, rhythm, word choice and occasional maritime imagery.
+- Preserve character-specific voices: **Neri** remains bold, warm, sly, confident and lightly nautical; **Peri** remains curious, excitable, hesitant and technically minded. Their personalities, not repeated Tidekin slang, should carry their dialogue.
+- This is an **out-of-character style adjustment for future drafts, revisions and Rocinante/SillyTavern fusions**, not a retroactive change to confirmed historical dialogue. When fusing external dialogue, lightly edit overused interjections to follow this preference while keeping characterization intact.
