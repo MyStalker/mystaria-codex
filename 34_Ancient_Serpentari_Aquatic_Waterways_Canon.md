@@ -1,6 +1,6 @@
 # Ancient Serpentari Aquatic Nature and Planetary Waterways
 
-**Status:** Author-approved global Mystaria worldbuilding, November 9, 2026. The proper name of the waterway network has NOT been selected. Do not treat the suggested labels as settled canon.
+**Status:** Author-approved global Mystaria worldbuilding, November 9, 2026. The planetary network is definitively named **the Worldcoil**. Its deepest, extremely dangerous lower stratum is definitively **the Undercoil**. Earlier alternative names are historical proposals, not current names.
 
 ## Confirmed world facts
 
@@ -11,7 +11,7 @@
 - Different historical explanations coexist, and **none is established as the whole truth**: private imperial logistics/travel; secret restricted infrastructure; or routes ultimately leading to a rumored hidden refuge called **the Scaled City**.
 - **The Scaled City** is a recognized **rumor/legend**, not a confirmed accessible site. According to the tradition, it is an exclusive Serpentari sanctuary **devoid of slaves**; some speculate it shelters one or more of the fewer-than-ten surviving hidden true Serpentari. Whether it exists, its current condition, its original purpose, and who lives there are intentionally unknown. 'No slaves' is part of the claimed internal social composition, not proof that enslaved labor was never used to construct or sustain it.
 
-## Possible network names — proposals, not approved
+## Naming history — superseded proposals
 
 - **The Worldcoil** — recommended single mythic name.
 - **The Deepveins** — evocative common term.
@@ -19,7 +19,7 @@
 - **The Undercoil** — folkloric name.
 - **The Abyssal Arteries** — scholarly/poetic term.
 
-Possible layered convention (also unapproved): *Worldcoil* as ancient/proper name, *Deepveins* as popular everyday name, *Sovereign Channels* as bureaucratic label. Await DM selection rather than assuming this hierarchy.
+Superseded layered convention (not adopted): *Worldcoil* as ancient/proper name, *Deepveins* as popular everyday name, *Sovereign Channels* as bureaucratic label. **Definitive selection: Worldcoil for the planetary network; Undercoil for its deepest, separate level.**
 
 ## Continuity and design boundaries
 
@@ -27,3 +27,12 @@ Possible layered convention (also unapproved): *Worldcoil* as ancient/proper nam
 - Existing Tidekin **Wakecraft** does not gain unlimited water creation or universal access to all channels; routes may be restricted, collapsed, pressurized, warded, or physically dangerous.
 - In Slate's campaign the **Drowned Meridian** is a relic that may help locate hidden water routes, but no automatic worldwide mapping, entrance access, or knowledge of Scaled City follows from possessing it.
 - See `campaigns/slate/Legendary_Relics_and_Second_Ascendancy_Planning.md` for the Tidekin navigator Tala Sixwake and `campaigns/slate/Meridian_Loot_Clue_Register.md` for potential discoveries. These are campaign planning, not global historical events unless separately approved.
+
+
+## The Worldcoil, Undercoil and Elder Star vigil (DM-approved November 9, 2026)
+
+- The vast serpent-built global aquatic network's proper name is **the Worldcoil**. It is obscure and mysterious in most regions, but segments remain in service, especially under the **modern Naga Imperium**, which can use selected stable routes for their intended ancient transit/logistical function. Modern Imperial knowledge and control do not extend to the whole Worldcoil.
+- **The Undercoil** is a deeper, much more secret and **high-level, exceptionally dangerous** stratum *beneath* the ordinary Worldcoil, holding the most hazardous ancient Serpentari secrets. This is a destination for powerful late-campaign adventurers, with extreme environmental conditions, ancient defensive systems, old imperial experiments, hostile ecology and dangerous political/magical knowledge. Specific hazards are proposals to develop, not complete established encounter mechanics.
+- **Aquatic Starspawn** are unusually likely to know or detect entrances, passages and flows through migration, instinct, territories and long habitation. Some **Elder Stars** could have direct ancient knowledge. This does not mean every aquatic species can supply maps or access safe passages.
+- **At the final approach to the Scaled City, OR whatever secret eventually replaces it, a company of Elder Starspawn continues fighting the God War to this day.** Their mission is to finish the ancient struggle against the Serpentari. Individual members may have quit, but the company endured for ages. Many have been defeated or physically killed repeatedly, undergone **Celestial Recall**, then returned to the same remote battleground to resume their ancient duty. This struggle should eventually support a genuinely epic, high-level confrontation or approach. Their motives can be complex rather than categorically evil.
+- The Elder Star company's present combat situation is planned ancient worldbuilding, **not yet a played campaign event**; their leaders, numbers, allegiances, specific orders, opposition, repeated transit paths, victory conditions, and the Scaled City's actual existence/location remain undecided.
