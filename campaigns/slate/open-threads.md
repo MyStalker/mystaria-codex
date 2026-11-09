@@ -32,3 +32,10 @@
 **Before designing treasure, vault finds or salvage, consult [Meridian Loot & Investigation Clue Register](Meridian_Loot_Clue_Register.md).** Particularly consider the **damaged, partly untranslated/restoration-needed kobold research notebook** and **ancient sealed water vial carrying Mirrorwake-readable impressions**. Additional clues: an Imperial confiscation/transfer ledger, old navigational maps, Tala songs and logs, propaganda about Tala's loved one, and signs of the submerged planet-spanning Serpentari passages. No clue is automatically found by Lillia without DM-confirmed play.
 
 **Approved background:** Tala Sixwake is the former Tidekin Wakecraft-master wielder of the Meridian; her true/half-true/false legends and confiscation-to-vault history are now DM-approved. The Serpentari were aquatic; the planetary underwater route network is real but **unnamed**, whereas the **Scaled City** remains an unverified rumor. Network name candidates: Worldcoil, Deepveins, Sovereign Channels, Undercoil, Abyssal Arteries. The precise content of the water vial, historical translator, notebook restoration method, Tala's loved one and fate remain open.
+
+
+## Immediate RP readiness
+
+**Ready-to-run proposals:** [Next Three Scenes DM Packet](Next_Three_Scenes_DM_Packet.md): vault aftermath and choosing two extra kobold/Serpentari curiosities, reintroduction to Dusk's separate hideout (where Lillia was previously caged and from which she escaped into the caves), and first Mara Vetch recruitment adventure. Loot names and abilities are proposals until approved. The **damaged kobold notebook and sealed Mirrorwake water vial** are investigation clues, not required to count against the two reward selections.
+
+**Long-arc canon:** Planetary waterways are definitively the **Worldcoil**; deep perilous layer **Undercoil**. An enduring company of Elder Starspawn at the deepest final approach still wages the God War through repeated Celestial Recalls. Exact commanders, route and Scaled City existence unresolved. The Drowned Meridian's remaining needle functions, ranges and Neri's secret destination are **deliberately unresolved**; no need to finalize before RP.
