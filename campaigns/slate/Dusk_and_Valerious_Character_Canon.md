@@ -58,3 +58,13 @@
 - Dusk and Neri's incompatible political futures should create recurring meaningful choices for Lillia without prescribing her allegiance or the arc's outcome.
 
 **Unapproved brainstorms, not canon:** A monumental sculptor, forbidden composer and underground printer have been floated as candidates for the three creative outlaws. A military co-conspirator using Dusk's popularity as a recruiting platform is a possible interpretation of the confirmed premise, but motives and betrayal are not settled.
+
+## Recruitment design and pivotal relationships — further DM approvals (November 9, 2026)
+
+**DM-approved campaign planning rules (not yet events played):**
+- Each of Dusk's three outlaw creatives must genuinely disagree with him on a **critical governing principle**. Lillia's recruitment mission requires resolving the disagreement by persuading either the outlaw to accept Dusk's position, Dusk to accept theirs, or potentially shaping another negotiated solution. The settlements of these disputes meaningfully shape Dusk's future city-state. Do not preassign a correct choice or force Lillia's decision.
+- The three proposed archetypes remain **monument maker, composer, and printer**. Each must be a real, active outlaw, not a passive exile. Lillia should face substantial danger, fighting and adventure simply to reach an audience. Develop race, personality, personal motivation, contribution, demands, current base and recruitment expedition for each. Prior associations among them are desired but optional.
+- Dusk is an artist **and competent leader**, with an allied militaristic revolutionary who uses Dusk's capacity to rally supporters. In either Neri's or Dusk's route, the revolutionary eventually becomes a formidable opponent or a very difficult person to persuade, not a trivial obstacle. No ultimate outcome is predetermined.
+- The enslaved person Dusk sheltered **became a star performer at his theatre**. They care deeply for both Dusk and Neri, and find truth in both of their competing philosophies. Preserve this individual's independent wishes, complexity, and agency. Their identity, current situation and preferences remain to be established.
+
+**Fresh unapproved proposals, not canon:** Mara Vetch (Duskpaw architect/monument maker, labor freedom), Cael Vesper (Vren composer, cultural independence), and Tikka Quillgear (Kobold printer, government transparency) are working concept candidates only. Their names, bases, offenses, demands, NPC alliances, and quest designs require the DM's approval.
