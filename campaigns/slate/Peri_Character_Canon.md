@@ -29,9 +29,9 @@ Peri's modest *magical skill profile* relative to Neri is established; their res
 - **Combat:** Peri is firmly unconfident in direct battle despite impressive magical power. Under pressure he may **rush in without a plan and then freeze or choke at the decisive moment**. This contrast is a persistent character trait, not merely an effect of the vault.
 - **Rescue:** He is physically easier to save than to convince that rescue is enough. Returning empty-handed feels like proof of failure. He may keep trying to recover a device or finish an investigation even when leaving is safer.
 
-## Vault-scene intent (not a confirmed event)
+## Vault-scene intent (original planning notes, partly superseded by confirmed play)
 
-The planned vault encounter is primarily **a charming rescue and character introduction**, not an obligatory mechanical side quest. Peri entered the old workshop/vault seeking a potentially valuable mechanical discovery, partly to prove himself to Neri and his crew. Whether he actually finds or secures anything, how Lillia helps, and whether he leaves promptly are **unplayed** and remain subject to Slate's choices.
+The planned vault encounter is primarily **a charming rescue and character introduction**, not an obligatory mechanical side quest. Peri entered the old workshop/vault seeking a potentially valuable mechanical discovery, partly to prove himself to Neri and his crew. Lillia has now met him, warmed him, and received his agreement to leave. Details of later movement and possession of specific workshop materials remain unresolved.
 
 Peri's immediate reluctance to abandon the vault can resolve in the scene; his long-term need to prove himself does not disappear after one rescue. Avoid assigning a mandatory new quest or forcing Lillia's emotional interpretation. The mentor's fate remains a potential later hook rather than an immediate required objective.
 
@@ -46,4 +46,11 @@ Keep the initial NPC compact, scene-focused, and capable of growing if Slate tak
 - **Present condition:** Peri **can carry the incomplete matrix away**. The workshop's powerful tools and fixed apparatus cannot travel with him and tempt him to stay. The matrix briefly flares and flickers, but does not yet work reliably.
 - **Potential insight:** Peri's **most likely breakthrough trigger is witnessing a genuine Hero's or Legend's Shimmer Guard actually manifest in front of him** (rather than merely watching impressive combat or hearing a story). The visible Guard activation can give him a spark of inspiration, but does **not** automatically complete the invention or activate a working Guard. The DM controls if and when this happens; it has not occurred in the vault scene. Preserve player agency and dramatic pacing.
 - **Physical condition:** Peri is very hungry after being trapped. He has prevented serious thirst by using craftsmanship-oriented Wakecraft to gather dew/condensation from the rocks.
-- **Scene priority:** Rescue and meeting Peri come first; the matrix and fixed workshop are an optional temptation, not a mandatory quest or forced choice. No claim that Lillia has already saved him, witnessed the matrix, or demonstrated her powers here.
+- **Scene priority:** Rescue and meeting Peri come first; the matrix and fixed workshop are an optional temptation, not a mandatory quest or forced choice. Lillia has now rescued Peri from the sealed workshop, examined or handled his unfinished matrix, and lent him her complete Emberwrap. A manifested Shimmer Guard has **not** been confirmed.
+
+## Confirmed update — End of first meeting (November 8, 2026)
+
+- Peri agreed to accompany Lillia out of the workshop, despite his anxiety about leaving unique fixed equipment behind. This is a confirmed outcome, not a guarantee that he has already arrived back with Neri.
+- He is warmed by Lillia's complete Emberwrap, which she gave him while exposing herself to the frigid workshop air.
+- Lillia suggested she *might* be able to locate a Hero for him to study, without offering a binding promise, naming a Hero, or revealing her own identity. His future progress, and whether a real Shimmer Guard is demonstrated, remain unresolved.
+- His underlying fear of being worthless without a breakthrough has **not** been cured just because he agreed to leave.
