@@ -90,3 +90,14 @@
 - The DM approves Tikka's dispute with Dusk over independent publication and its potentially serious downstream consequences; truth is considered the highest purpose of printing, especially for informing the public. The DM's latest wording attributes this core principle to 'Lillia'; until clarified, do not silently assert this as Lillia's established personal ideology rather than the intended Tikka position.
 
 **Unapproved details:** 'Varrin Hollowpage' is one suggested Corvyn name, among others. 'The Longest Vigil' as a festival and 'The Last Candle' as the altered play are new proposals, not canon. The plot, spy operation, star identity and mechanics of recruitment remain open.
+
+## Varrin and Tikka: latest decisions (November 9, 2026)
+
+**DM-approved character and encounter direction, NOT yet played events:**
+- The Corvyn composer/spymaster's name is **Varrin Hollowpage**. This supersedes the placeholder Cael/Vesper. He operates the Hollow Choir's performer-based intelligence network.
+- Varrin's recruitment revolves around a major performance during a Vren winter holiday with Christmas-like cultural significance. The operation culminates in a **planned assassination**. The assassination target should **not be sympathetic**, but the target and especially their allies/friends should be genuinely terrifying opponents; the target's identity, allies, holiday name and actual outcome have not been approved or played.
+- Dusk personally cares about the performance's lead star, the show's success, and the star's safety. The star co-wrote the original play, deeply values its message, feels strong reluctance, and objects to Varrin's changes serving a revolutionary agenda. Dusk sees artistic integrity and performer autonomy as essential; he need not categorically object to killing the villainous target. The star's ultimate choices must not be dictated.
+- **Tikka Quillgear is the Kobold printer**, with a Drakyn ally whose final identity is still proposed. DM approves sharpening the corruption dilemma: the corrupt decision-maker enriches themself unabashedly but also genuinely sustains vital public services with the illicit financial system. Public disclosure could have serious effects on those services. Whether/when/how to publish must be a difficult, non-rigged choice and not an argument that truth lacks value.
+- **Lillia need not have any existing special devotion to truth.** The DM wants her investment in Dusk and Neri to be sufficient motivation for exploring a wider range of ideals through play. Do not attribute Tikka's journalistic principles to Lillia.
+
+**Unapproved brainstorms:** 'The Longest Vigil' holiday, 'The Last Candle' play, Lord Severan Valcor as assassination target, terrifying allies and 'Red Ledger Consortium' as corrupt institution are working proposals, NOT established campaign/world canon. Do not record the assassination as accomplished or the financial wrongdoing as discovered in play.
