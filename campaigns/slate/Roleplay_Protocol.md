@@ -66,7 +66,7 @@ This is the default workflow for Slate's solo Mystaria campaign **when the Mysta
 
 ## Roleplay style
 - **Permanent RP formatting preference (DM approved, November 6, 2026):** Draft roleplay continuations in **2–3 substantial paragraphs** by default. Integrate dialogue and narration within flowing paragraphs instead of putting each quotation or action on its own line. Avoid gratuitous blank lines and excessive spacing. Maintain this structure across scenes and NPCs unless a particular scene specifically calls for an exception.
-- **Paragraph-length ceiling (DM approved, November 9, 2026):** No paragraph in the final roleplay post may exceed **1,000 words**. Split any longer passages into additional natural paragraphs, using as many paragraphs as necessary. This limit overrides the 2–3 paragraph default; preserve compact integrated dialogue/narration otherwise. Apply this limit both to original drafts and to fused `Silly:` drafts.
+- **Discord paragraph-length ceiling (DM approved, November 9, 2026; supersedes the previous 1,000-word limit):** Each paragraph in any final roleplay post must be **1,900 individual characters or fewer**, counting spaces, punctuation, and formatting characters. Break longer text into as many natural paragraphs as necessary, even if that exceeds the 2–3 paragraph default. Apply to initial drafts, edits, and SillyTavern/Rocinante fusion posts. Target a small safety margin below 1,900 characters when practical for easy Discord copying.
 - Stay in character for the specified NPC and keep windows fairly short, around Slate's reply length or less where possible.
 - Do not control Lillia's thoughts, speech or actions.
 - Keep the active quest **Warmth for Two** present as an opportunity, not a forced success condition.
