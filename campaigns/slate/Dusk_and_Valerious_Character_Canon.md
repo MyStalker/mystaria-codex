@@ -101,3 +101,12 @@
 - **Lillia need not have any existing special devotion to truth.** The DM wants her investment in Dusk and Neri to be sufficient motivation for exploring a wider range of ideals through play. Do not attribute Tikka's journalistic principles to Lillia.
 
 **Unapproved brainstorms:** 'The Longest Vigil' holiday, 'The Last Candle' play, Lord Severan Valcor as assassination target, terrifying allies and 'Red Ledger Consortium' as corrupt institution are working proposals, NOT established campaign/world canon. Do not record the assassination as accomplished or the financial wrongdoing as discovered in play.
+
+## Nymbrin assassination placeholder and Neri crossover planning (November 9, 2026)
+
+**DM-approved direction, not yet played:**
+- Defer detailed development of Varrin Hollowpage's assassination target and their allies. For now the intended victim is an **exceptionally influential male Nymbrin alchemist**, whose specialized support is crucial to several Scarlands elites. His removal could prompt Nymbrin guilds to renegotiate Golden Leases and destabilize those elites' private and political holdings. This is a potential consequence, not a predetermined outcome.
+- The alchemist is personally despicable, particularly due to his **shameless abuse of helpless Starspawn to harvest valuable vital essences**. His name, precise status, methods, associates and ultimate fate remain deliberately undecided. Preserve Nymbrin guild autonomy and the existing Wetcraft/Golden Lease canon; do not automatically make the entire race complicit.
+- Next design priority: connect Neri's motivations with all three creative outlaws, including how their recruitment and founding principles might affect either Dusk's or Neri's future. Do not lock in loyalties or outcomes before Lillia's decisions.
+
+**New proposed possibilities, NOT approved canon:** Neri may seek a network of independent passages, refuges, and free harbors enabling people to escape dependency on a single aristocratic authority. Mara could build independent civic infrastructure, Varrin could provide intelligence via touring artists, and Tikka could provide documentary protections and public accountability. Neri's objectives and the nature of their cooperation/competition with Dusk need DM review.
