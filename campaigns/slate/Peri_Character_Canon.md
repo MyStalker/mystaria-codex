@@ -54,3 +54,7 @@ Keep the initial NPC compact, scene-focused, and capable of growing if Slate tak
 - He is warmed by Lillia's complete Emberwrap, which she gave him while exposing herself to the frigid workshop air.
 - Lillia suggested she *might* be able to locate a Hero for him to study, without offering a binding promise, naming a Hero, or revealing her own identity. His future progress, and whether a real Shimmer Guard is demonstrated, remain unresolved.
 - His underlying fear of being worthless without a breakthrough has **not** been cured just because he agreed to leave.
+
+## DM-confirmed correction — Workshop departure (November 8, 2026)
+
+- **Peri has physically departed the workshop/vault with Lillia**, not merely agreed to leave. This overrides prior uncertainty about whether the departure occurred. No specific onward location, reunion with Neri, or new technical breakthrough has been confirmed.
