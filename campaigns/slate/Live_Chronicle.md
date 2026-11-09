@@ -117,3 +117,15 @@ At each meaningful RP exchange, append the actual player action, NPC response, a
 - **Quest:** Lillia shared potentially life-preserving warmth with Peri, but **Surrender has not been confirmed to declare Warmth for Two complete or grant a quest reward**.
 - **Completed puzzle versus future intent:** The Scales of Surrender vault-opening puzzle was already solved after four failed sanitation attempts. The DM also indicates an intention to do a puzzle and roleplay its vault aftermath in future play; the identity and timing of that further puzzle are not established, so do not undo the completed Scales event or mark an additional puzzle solved.
 - **Transcript boundary:** This scene-wrap summary is DM-confirmed canon despite the absence of a full verbatim final exchange. Previous unapproved Pipkin and SillyTavern drafts remain noncanonical.
+
+## Surrender's Lillia-specific quests and adult tone (DM-established, November 8, 2026)
+
+The DM identifies the following as **Lillia's current quests** from patron Surrender. This records their names and objectives only; **do not mark them completed or grant rewards without confirmation**:
+
+1. **“Tits Out for Surrender.”** Objective: Expose herself to four people at once.
+2. **“Seduce Your Master.”** Objective: Seduce Master Dusk.
+3. **“Confessions of a Little Warlock.”** Objective: Share three embarrassing, preferably shocking, confessions about herself with someone she trusts. The quest's intentionally provocative wording says, “If you're comfortable. You're doing it wrong.” This is characterization of the quest's teasing tone, not permission to remove Slate's agency or consent.
+
+**Campaign-specific patron portrayal:** Surrender's quests for Lillia are more craven, indecent, voyeuristic, provocative and humiliating than her ordinary quest-giving, reflecting her enjoyment of experiencing Lillia's masochistic/submissive fantasies vicariously. Adult-oriented suggestive tone may be stronger throughout this campaign, with scene choices and consequences remaining under DM/Slate control. This is not a universal Mystaria lore change. See Roleplay_Protocol.md for roleplay boundaries.
+
+**Quest continuity caution:** An earlier chronicle entry identifies *Warmth for Two* as active, but the DM's new three-quest list does not include it. Its completion, removal, replacement, or continuing status is **unresolved** until the DM explicitly clarifies; do not silently infer any of these outcomes.
