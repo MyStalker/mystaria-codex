@@ -11,6 +11,7 @@ This directory records **campaign continuity**, not universal Mystaria canon. Co
 - [Open threads](open-threads.md)
 - [Blackweir city canon and working Grand Arch districts](Blackweir_City_Canon.md)
 - [Legendary relics and Second Ascendancy planning](Legendary_Relics_and_Second_Ascendancy_Planning.md)
+- **[Meridian loot and investigation clues (consult before designing treasure)](Meridian_Loot_Clue_Register.md)**
 - [DM notes](dm-notes.md)
 
 ## Updating
