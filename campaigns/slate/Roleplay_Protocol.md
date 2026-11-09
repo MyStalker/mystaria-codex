@@ -33,6 +33,22 @@
 
 8. **SillyTavern is optional, never a prerequisite.** If the DM does not supply a `Silly:` post, do not wait, request one, or leave a prior fusion pending. Accept the next `DM:` post as the authoritative final post actually sent to Slate, together with `Lillia:` as Slate's actual reply, and continue the RP normally with a fresh noncanonical draft. This applies whether the DM used Pipkin's draft, edited it, authored something new, or chose not to consult SillyTavern.
 
+## One-step live Rocinante fusion (DM-approved workflow, November 8, 2026)
+
+This is the default workflow for Slate's solo Mystaria campaign **when the Mystaria Local Test gateway and GitHub connector are available**. It replaces the need for routine manual `Silly:` copy/paste, without removing the optional legacy fusion method above.
+
+1. Upon receiving a genuinely completed `DM:` and `Lillia:` exchange in RP mode, treat **only** those actually sent posts and DM-explicit confirmations as canonical. Update the campaign chronicle as appropriate; do not record AI output as events.
+2. Read the **latest relevant GitHub canon** before requesting the next character performance, especially `Live_Chronicle.md`, the participating NPC's canonical dossier, and this protocol. Resolve stale entries against newer explicit corrections, and distinguish DM-only secrets from things Lillia has learned on-screen.
+3. If the local gateway is connected, call `generate_npc_draft` for the relevant NPC, supplying `canon_context` as a concise, grounded, current excerpt, `canon_sources` with verified GitHub paths/revisions, the latest confirmed `scene`, and `last_player_message` from Slate. Include relevant confirmed recent dialogue when available. **Do not mark hypotheticals, discarded drafts, or older scene summaries as played canon.** Pass only necessary context and avoid secrets that the NPC should not know.
+4. Pipkin combines Rocinante's NPC voice/dialogue with continuity-aware narration and environmental context into **one** polished, compact **noncanonical** NPC post for the DM's review. Favor Rocinante's characterization where consistent with established facts; remove unsupported named mechanics, invented history, geography, equipment, and player actions. Never dictate Lillia's speech, intentions, or choices. Preserve meaningful player decisions.
+5. The DM edits/sends the selected post to Slate outside ChatGPT; its contents become canonical **only** when returned as the DM's final `DM:` post, together with Slate's actual `Lillia:` reply. Repeat from step 1.
+6. If Rocinante/the tunnel/GitHub is unavailable, explain the unavailable component briefly and continue with a standalone Pipkin draft using verified context rather than pretending fusion happened. `[OOC]` pauses generation; `[CANON]` updates only established facts; `[RP]` requests continuation. Do not automatically enter roleplay merely because the DM discusses a scene.
+7. Preserve the option to submit `Silly:` manually for a specific alternate draft. In that case follow the two-draft fusion rules above and don't treat `Silly:` as a second canonical turn. The gateway must not write to GitHub itself.
+
+**Context-refresh boundary:** This is on-demand live retrieval each time the assistant handles an RP exchange, not an autonomous background synchronization service. Existing SillyTavern World Info files are **not** updated by this workflow.
+
+**Test boundary:** A test call with hypothetical `last_player_message` is never a real handoff, and cannot update the canon chronicle.
+
 ## What to record in GitHub
 - At every meaningful handoff, record the **confirmed exchanges and their consequences**, preferably in the live chronicle. Do not turn Pipkin's unapproved replies, proposed NPC secrets, possible treasure, offers, or unresolved choices into actual events.
 - The current canonical transcript may be preserved verbatim where helpful, with concise event summaries separately.
