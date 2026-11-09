@@ -47,3 +47,11 @@
 - Do not control Lillia's thoughts, speech or actions.
 - Keep the active quest **Warmth for Two** present as an opportunity, not a forced success condition.
 - Ask the DM scene-goal questions when designing a new scene, not when merely continuing an established one.
+
+## Lillia-specific adult campaign tone and Surrender's patronage (DM-approved, November 8, 2026)
+
+- The DM wants Slate's Lillia campaign to lean more strongly into **adult-oriented, suggestive, shameless, and humiliating themes**, especially in Surrender's quests. This is a **campaign-specific tonal direction**, not a universal retcon to Mystaria or all worshippers of Surrender.
+- For Lillia specifically, Surrender's quest-giving is **more craven, voyeuristic, provocative, and self-indulgent**: she experiences Lillia's masochistic/submissive fantasies vicariously and enjoys challenging her with embarrassing, indecent, socially risky dares.
+- Preserve Surrender's affectionate investment in Lillia; her teasing can be bold and demanding without making actual coercion a requirement. Lillia's voluntary decisions and Slate's agency remain paramount; humiliation, pressure, and submission can be subjects of narrative play without eliminating a genuine option to decline or renegotiate.
+- More mature atmosphere may appear through charged dialogue, suggestive customs, romance, provocative quests, playful social embarrassment, and character consequences. For explicitly sexual action, use non-graphic transitions/aftermath in ChatGPT rather than detailed depiction. Do not assume explicit material generated outside ChatGPT is automatically canonical; only DM-approved/sent exchanges count.
+- Avoid treating Dusk's enslavement ambitions as inherently equivalent to consensual submission. Distinguish peril, fantasy, and actual autonomy in encounter design.
