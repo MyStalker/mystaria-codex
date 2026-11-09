@@ -1,5 +1,9 @@
 # Mystaria — Races and Firstshaped Peoples
 
+## November 9, 2026 — True Serpentari aquatic nature (CANON)
+
+**Ancient true Serpentari** were naturally aquatic, enormous intelligent serpents, well-adapted for swimming and living underwater. Their humanoid transformation remains compatible with this heritage. Their ancient exclusive underwater passage network spans Mystaria, with a hypothesized deepest reach and the rumored **Scaled City**; the hidden city is *not confirmed*. Do not assume ordinary humanoid **Untouched Serpentari** share the true form's full size and aquatic capabilities. See [`34_Ancient_Serpentari_Aquatic_Waterways_Canon.md`](34_Ancient_Serpentari_Aquatic_Waterways_Canon.md).
+
 ## November 8, 2026 — Kharak racial starting statistics and natural bite (CANON)
 
 **Kharak level 1:** Base **STR 22, DEX 15, END 20, INT 17, SPD 14** (**total 88**); permanent racial **STR +25%, INT +25%**, with **no SPD modifier**. Effective **STR 27.5, DEX 15, END 20, INT 21.25, SPD 14** (**total 97.75**). Kharak are strong and intellectually capable, with solid Endurance and comparatively low base Speed rather than a lifelong Speed penalty. Universal Hero stat progression and racial multiplier rules apply unchanged.
