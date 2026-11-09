@@ -64,3 +64,40 @@
 - Preserve separation of **actual artifact rules**, **NPC knowledge**, **player-visible evidence**, and **future revelations**. Avoid out-of-character explanations of the secret needles during live play unless the DM requests them, and do not retcon the needles merely to steer the plot.
 
 **Design note:** A small-water activation may produce seemingly contradictory or incomplete indications while deeper immersion reveals further structure. This can make natural experiments meaningful without requiring a specific scripted reveal.
+
+## Proposed Meridian bearer: Tala Sixwake — the Navigator Who Returned (pending DM approval)
+
+**STATUS: NEW ASSISTANT PROPOSAL, not yet DM-approved campaign canon or played events.** Preserve a separately discoverable public legend and DM historical truth with half-truths and deliberate fabrications. The user's firmly approved constraints: bearer is Tidekin, a master of all six approved Wakecraft disciplines, and still remembered to some degree in modern Mystaria; former bearer biography brief; records should offer meaningful investigative opportunities; the Meridian must plausibly end up in the Serpentari-era vault where Lillia's treasure is intended to be found. The most recent confirmed live chronicle establishes that Lillia opened a vault and met Peri, **but does not establish an on-screen acquisition of the Meridian**. Do not append the item to inventory or log it as recovered before an actual DM-confirmed handoff.
+
+### Candidate NPC: Tala Sixwake, 'the Navigator Who Returned'
+
+A Tidekin Wakewright of the **late God War**, master of **Wakeforce, Longwake, Deepdraw, Mirrorwake, Reefcalling and Saltwake**. Revered in sailors' songs and fragmentary Tidekin and Imperial documents for bringing large groups of enslaved fugitives out of Serpentari territory through a hidden network of ancient waterworks. A master explorer and collaborator rather than a solitary world-shaping water conjurer. The epithet Sixwake is a story-name, consistent with approved Tidekin naming custom. Her birth/family surname, exact years, loved person's identity, and ultimate fate deliberately undecided.
+
+### Public legend candidates (DM may use as in-world testimony, NOT narrator fact)
+
+- 'Tala sailed refugees through a dry valley because mountains wept rivers at her command.' **HALF-TRUTH:** she exploited abandoned, buried aqueducts and released genuine reservoir water, not created water from nothing. The feat required helpers, maps, controls and the Meridian.
+- 'Her compass warned her of a storm before clouds gathered.' **TRUE core with embellishment:** its danger response detected oncoming physical danger; it cannot guarantee future prediction or mind-read.
+- 'Forced to choose hundreds of strangers over her beloved, Tala abandoned the latter to the Serpentari.' **FABRICATION:** Tala entrusted the larger group to trusted companions and **returned herself** to find the missing person. The story's famous supposed moral tragedy is a later hostile distortion.
+- 'She always knew where every treasure lay.' **HALF-TRUTH:** a treasure needle can indicate worthy lost/hidden valuables under water-limited and perspective-dependent conditions; she did not possess omniscience.
+- 'Tala deliberately sank the Meridian in the deepest sea before disappearing.' **FABRICATION:** it was seized by the Serpentari during the return expedition and entered imperial research custody.
+- 'She never returned to the coast after her final voyage.' **UNCERTAIN:** credible traces are contradictory; whether she survived many later years, died in a raid, or secretly lived elsewhere remains a hook, not a locked answer.
+
+### DM-only proposed historical chain: why a Serpentari vault holds the Meridian
+
+1. Tala's exploits occur **late enough in the God War** for Wakecraft to exist following Arrest's blessing and for a decorated navigator to rise to legendary renown.
+2. Her covert evacuation used old Serpentari works / kobold-built service infrastructure, explaining both the compass's signature hidden-course function and its value to hostile officials.
+3. When Tala **returned for the person she loved**, Serpentari agents captured or confiscated **the Meridian**. Whether Tala and the beloved escaped is a mystery separate from the relic's physical fate.
+4. Captors sent the unusual navigational artifact to a secure **Serpentari-era kobold workshop research vault beneath what later became Blackweir**, with the original catalog identifying it as a Wakecraft navigation anomaly. It remained there through collapse because the site was sealed, abandoned, or its records lost. Do not imply every Serpentari ruin was continuously operated after the empire's fall.
+5. Lillia's ongoing adventure may lead to discovery of the compass in the vault; **no DM-confirmed Meridian recovery is recorded yet**, so do not declare this played. The specific secured chamber and access sequence remain for future DM design.
+
+### Discoverable clues (different routes, none requiring a forced sequence)
+
+| Story fragment | Player-facing source | Underlying answer | Why investigate |
+| --- | --- | --- | --- |
+| 'The mountains wept rivers' | Modern Tidekin song | Underflow aqueducts/reservoirs, not creation of water | Leads to maps, hidden routes and the Meridian's connected-water scaling |
+| 'She knew the storm before its clouds' | Sailor's warning verse and surviving log | Danger needle reacted, but not infallibly | Allows fair experiments with the dangerous-weather / approach-warning needle |
+| 'She abandoned the one she loved' | Popular tragedy, altered imperial archive | She went back for them; publicly useful inversion of her actual conduct | Makes a meaningful emotional reveal and foreshadows the love needle without announcing it |
+| 'She cast her compass into the sea' | Later elegy | Imperial confiscation; seized item sent to research vault | Physical records and catalog marks give a traceable reason the treasure is under Blackweir |
+| 'A compass cannot point six directions' | Kobold test notebook / maintenance shorthand | Multiple needles sense different categories; tests were water-dependent | Enables player-driven experimentation and reveals hidden activation conditions |
+
+**Recommended restraint:** avoid making every rumor a clue to an item ability; some reflect political propaganda or ordinary historical storytelling. Keep the former partner's location/fate and exact first use of Legendary Resonance deliberately open pending DM review. A successful investigation can reveal the truth early; do not delay a correct discovery merely to time it after Sella's reunion.
