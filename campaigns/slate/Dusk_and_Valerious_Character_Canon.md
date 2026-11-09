@@ -33,3 +33,15 @@
 - Dusk's future awakening to his genuine tenderness, Valerious's discovery that Lillia is mortal, and any relationship milestones are **not** already played events.
 - The DM reviews RP before canonization. Assistant or SillyTavern drafts are proposals; only confirmed handoffs become campaign events. Preserve Lillia's player agency.
 - Distinguish individual traits above from race-wide truths where the DM described one individual rather than every member of the species.
+
+## Dusk's theatre and Bloodlord direction — DM planning (November 9, 2026)
+
+**Approved/established design direction, not yet events played with Lillia:**
+- Dusk has a deeply personal motive to **save his theatre** from an aristocrat intent on shutting it down.
+- That aristocrat has a **personal connection** to Dusk and was an arts patron and critic. Dusk did something too consequential to sweep under the rug, prompting the threat against the theatre.
+- The **exact transgression is undecided**. DM candidates include (a) a scathing indictment of the Scarlands' highest powers in his art, or (b) secretly sheltering an enslaved person of such importance that their disappearance could not be ignored. Neither is settled canon.
+- Dusk's larger ambition as a prospective Bloodlord is guided by **Patron of the Unwanted** (sponsoring artists, outcasts, and the overlooked) and **Benevolent Tyrant** (establishing order, security, and protections through centralized personal authority). The DM likes the former and views the latter as correct for Dusk. Their precise institutions, policy, and practical aims remain to be designed.
+- **Sovereign of Spectacle** alone was judged insufficiently concrete to serve as a readily understood, actionable regional objective. Spectacle may remain Dusk's personal theatrical style, not a substitute for a governing program.
+- This direction deliberately contrasts a Vren cultural norm that prizes war, great works, and imperial glory over arts, music, or performance. See `14_Vren_Sanguine_Arts_Canon.md`.
+- Preserve his genuine ambition and enslavement-related moral hazards; personal sympathy or patronage must not silently erase them.
+- Rivalry with Neri and an eventual difficult choice for Lillia are **DM planning goals**, not yet a played faction conflict. No specific connection between the aristocrat and Neri's captive friend has been approved.
