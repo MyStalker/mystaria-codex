@@ -121,3 +121,10 @@
 - Varrin's influential, shameless, cruel-to-Starspawn **Nymbrin alchemist** target remains deliberately a placeholder pending development; the DM requests a lore-fitting name for foreshadowing, but has **not chosen one yet**.
 
 **Unapproved brainstorms, NOT canon:** Suggested target names include Vezzi Gildedrop, Pazrik Goldroot, Mivro Honeyglass, Zivren Amberthorn, Velzo Rosegold, Pivrik Silverdew and Tazzi Goldpetal (using the established Nymbrin alchemical family/trade naming patterns). 'Vezzi Gildedrop, the Golden Distiller' is the assistant's current favorite, not a DM-approved identity. Suggested Free City compromise categories are illustrative structures rather than fixed events or endings.
+
+## Sella Brightwake and city selection (November 9, 2026)
+
+**DM-approved planning direction, not played canon:**
+- The shared Tidekin star at the heart of Neri and Dusk's lives uses **Option B: Sella Brightwake, the Defiant Diva** as her character foundation. She is witty, audacious, theatrical, provocative and independent. Her close bond with Neri has a teasing, intimate quality; she is also Dusk's esteemed creative collaborator and rival. She once was enslaved, Dusk sheltered her, and she became a star performer in his theatre.
+- Sella's disappearance should plausibly follow a **harebrained, self-directed political scheme** affecting the city's balance of power, not merely passive victimhood. Its details, whether she is presently recaptured, the stage of her scheme, and her present location are NOT established. Her own ambitions and agency remain essential. Previous alternative concepts Marina Reedveil and Thessa Bluecurrent are not adopted.
+- The DM wants to choose a **substantial, non-capital Scarlands city** as the primary first-arc setting, with plausible economic and defensive grounds for a proposed independent city-state. No contemporary city name has been approved. The assistant's three proposed new candidates Blackweir (canal and trade hub), Cindervale (industrial alchemical city), and Vespergate (fortified crossroads and theatre hub) are **unapproved options**, not existing established locations.
