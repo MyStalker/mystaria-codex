@@ -39,3 +39,11 @@
 **Ready-to-run proposals:** [Next Three Scenes DM Packet](Next_Three_Scenes_DM_Packet.md): vault aftermath and choosing two extra kobold/Serpentari curiosities, reintroduction to Dusk's separate hideout (where Lillia was previously caged and from which she escaped into the caves), and first Mara Vetch recruitment adventure. Loot names and abilities are proposals until approved. The **damaged kobold notebook and sealed Mirrorwake water vial** are investigation clues, not required to count against the two reward selections.
 
 **Long-arc canon:** Planetary waterways are definitively the **Worldcoil**; deep perilous layer **Undercoil**. An enduring company of Elder Starspawn at the deepest final approach still wages the God War through repeated Celestial Recalls. Exact commanders, route and Scaled City existence unresolved. The Drowned Meridian's remaining needle functions, ranges and Neri's secret destination are **deliberately unresolved**; no need to finalize before RP.
+
+
+## Treasure scene immediate continuity — DM-approved setup
+
+- In the **next treasure vault**, when the door opens, a plain-looking flask of ancient Mirrorwake evidence water **rolls out and only Lillia notices**. It may appear drinkable, but her choice whether to handle/drink it is wholly Slate's. A possible humorous later bucket-of-urine investigation **cannot be assumed to preserve the ancient Mirrorwake memory**.
+- **Peri already possesses and is examining the old damaged kobold research notebook** at that moment, and can suggest fallible new names/basic effects for the vault items. Important parts still need translation and restoration; he does not know the hidden Meridian rules.
+- **Sprigglass kit's three utility supplies, now DM-directed:** Flask of Everslip (persistent nonflammable slippery oil, one large or several minor uses), Slaver's Pin (hypodermic with rapid powerful tranquilizer, constrained single dose), and three doses of perception-enhancing eye drops lasting one hour each. No healing potions included.
+- After the Meridian, choose **two from six additional treasures**, no forced selection. See [Next Three Scenes](Next_Three_Scenes_DM_Packet.md) and [Loot Clue Register](Meridian_Loot_Clue_Register.md).
