@@ -129,3 +129,8 @@ The DM identifies the following as **Lillia's current quests** from patron Surre
 **Campaign-specific patron portrayal:** Surrender's quests for Lillia are more craven, indecent, voyeuristic, provocative and humiliating than her ordinary quest-giving, reflecting her enjoyment of experiencing Lillia's masochistic/submissive fantasies vicariously. Adult-oriented suggestive tone may be stronger throughout this campaign, with scene choices and consequences remaining under DM/Slate control. This is not a universal Mystaria lore change. See Roleplay_Protocol.md for roleplay boundaries.
 
 **Quest continuity caution:** An earlier chronicle entry identifies *Warmth for Two* as active, but the DM's new three-quest list does not include it. Its completion, removal, replacement, or continuing status is **unresolved** until the DM explicitly clarifies; do not silently infer any of these outcomes.
+
+## DM canon clarification — Peri physically leaves the workshop (November 8, 2026)
+
+- **DM-confirmed correction:** Peri did not merely agree to leave; he **actually left the workshop/vault with Lillia**. This supersedes earlier uncertainty about whether the physical departure occurred. The precise departure dialogue and route were not supplied; do not invent them.
+- The location reached after exiting, whether they have reunited with Neri, and subsequent actions remain unconfirmed. Peri still wears Lillia's complete Emberwrap, and the Artificial Legend Matrix has not been proven to function. Do not automatically mark *Warmth for Two* complete or award a reward.
