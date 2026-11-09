@@ -7,6 +7,7 @@ This directory records **campaign continuity**, not universal Mystaria canon. Co
 ## Records
 - [Characters](party-and-characters.md)
 - [Session log](session-log.md)
+- **[Original first post (verbatim): Surrender and Dusk's cage, October 29, 2026](Opening_Post_2026-10-29_Verbatim.md)**
 - [Current adventure](current-adventure.md)
 - **[Next three scenes: DM packet and selectable vault loot](Next_Three_Scenes_DM_Packet.md)**
 - [Open threads](open-threads.md)
