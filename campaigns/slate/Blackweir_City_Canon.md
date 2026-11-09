@@ -101,3 +101,10 @@ The DM explicitly approved **all eight** of these rulings as established Bloodbo
 **Sella-specific application (working story premise, NOT played canon):** A potential mass release requires proof that multiple covenants share a genuine original legal dependency; an isolated loophole does not destroy unrelated bonds. The Crimson Drayke can interpret real loopholes, not manufacture them. Sella's precise scheme and outcome remain undecided.
 
 **Remaining open work:** precise numerical Bloodbond enforcement/ranks and global skill revision, not the eight approved principles above.
+
+
+## The Velvet Annex — approved Dusk hideout location (November 9, 2026)
+
+The **Velvet Annex** is Dusk's **small secret waystation/hideout beneath the Hollow Wards**, connected through ancient service infrastructure to the underground caverns into which Lillia escaped. It has practical access toward the Understage and Dusk's separate theatre in the **Velvet Ring of the Grand Arch**; the exact entrances and routes remain uncharted. It is a refuge for fugitives and creatives, an office for fledgling political schemes, **and a site where Dusk held captives**, reflecting his ideological contradictions. Its opening cage had velvet panels, stone walls, a hamster wheel, water cylinder and metal rod, poetry books, a stone-barred window, sliding door and crude **statue of Dusk**. Lillia escaped under a tile loosened during the statue's installation; Dusk had seen her sleeping but never spoken with her. The room and opening event are documented in [campaign opening transcript](Opening_Post_2026-10-29_Verbatim.md).
+
+**DM-supported divine link:** Sella Brightwake earlier prayed at length to Surrender in this cell, giving the goddess grounds to learn of the location with her limited divine observations. Prayer wording/date remain unknown. Do not assume Sella's current whereabouts can be inferred from that historical prayer.
