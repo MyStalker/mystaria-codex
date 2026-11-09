@@ -1,5 +1,8 @@
 # The Sanguine Arts — The Six Disciplines of the Vren
 
+> **CANON STATUS OVERRIDE (DM direction, November 9, 2026):** The previously published **Bloodbond discipline mechanics, rank-by-rank abilities, formation requirements, enforcement rules and related numerical/operational examples are RETIRED FROM CANON pending comprehensive revision.** Do **not** use the old Blood Compact/Shared Pulse/Vowscar/Red Leash/Crimson Covenant ability progression as settled mechanics. The basic cultural existence of Vren blood magic, binding obligations, and Blood Courts remains established. The following new design premises are approved for development: all Bloodbonds require authentic blood from both parties; short hierarchical operative oaths; magically immutable contract text and creation-time legal references; mental compulsion plus escalating pain/bleeding from the original extraction incision, usually nonlethal and noncrippling; no thought reading or nuanced semantic interpretation. Precise mechanical thresholds, rank progression and limits are still **unresolved**. See `campaigns/slate/Blackweir_City_Canon.md` for campaign planning notes.
+
+
 **CANON — explicitly approved November 4, 2026.** Consolidates the original six-discipline manuscript and later Vren revisions. Later revised abilities control over older versions.
 
 **Race:** Vren · **Tradition:** Sanguine Arts · **Branches:** Six Disciplines of the Night · **Affinity:** Black · **Innate gift:** Blood Boon · **Starting Hero SP:** 0
