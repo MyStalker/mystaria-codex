@@ -9,6 +9,7 @@ This directory records **campaign continuity**, not universal Mystaria canon. Co
 - [Session log](session-log.md)
 - [Current adventure](current-adventure.md)
 - [Open threads](open-threads.md)
+- [Blackweir city canon and working Grand Arch districts](Blackweir_City_Canon.md)
 - [DM notes](dm-notes.md)
 
 ## Updating
