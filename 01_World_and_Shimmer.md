@@ -89,6 +89,10 @@ Thornguard religion emphasizes protective responsibility, obedience, and knightl
 
 ---
 
+## November 9, 2026 — Limits of divine observation (AUTHOR-APPROVED)
+
+**Mystaria's gods and goddesses are far from omnipotent or omniscient.** They can **observe their own Heroes** and **hear prayers** addressed to them; on that basis they can make **limited further observations** of the world. Their ability to follow up on what they learn is limited, not perfect awareness of all people, places or events. Do not infer that selecting a Hero's starting location proves Surrender foresaw every consequence. This clarification operates alongside the established Divine Channel, resource limitations and Quiet Accord constraints.
+
 # PART II — THE THREE GODDESSES
 
 ---
