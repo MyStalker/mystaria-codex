@@ -52,3 +52,15 @@
 - The compass's mystery should arise through player experiments (immersion, water quantity/flow, swapping holders, separating needles) rather than mandatory puzzle answers or total information denial.
 
 **Canon precautions:** Cross-check `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`: water cannot be created from nothing; Mirrorwake reads water traces, not universal history; Longwake and Deepdraw have their own limits. An artifact granting accessible ordinary navigation does not automatically grant full Wakecraft to the wielder. Avoid treating treasure/love/danger needles as absolute omniscience or granting the DM unrestricted plot steering without discoverable consistency.
+
+## Meridian reveal schedule — approved DM intent (November 9, 2026)
+
+**DM-approved dramatic presentation / player knowledge, not yet played:**
+- Upon acquisition, **Neri recognizes that the Drowned Meridian's largest, most prominent needle indicates the special route she has been searching for** (the proposed waterway/pathfinder purpose within Blackweir). She does **not** know the functions of its other needles. Exact course and destination remain to be specified without presuming Sella's location.
+- Neri and Lillia can learn that **the compass must be wet to function**. They do **not** initially know the critical secret that **its range, detail and/or accuracy improve with the amount and connectivity of accessible water**. This is a DM-side hidden rule to be discovered through experiments and circumstance, not upfront player exposition.
+- The other needles, including the treasure-seeking, love/attachment and danger-warning ideas, are **intended to be initially mysterious**. Their names and precise operations from earlier assistant proposals are working DM-facing concepts rather than knowledge possessed by Neri or Lillia. The optional historical/water-impression needle remains undecided.
+- The DM particularly likes the **dramatic irony of discovering what the love needle does only after finding Sella**. This is a favored potential reveal, **not an unavoidable plot event**: the needle still behaves consistently in advance, and perceptive player experimentation may reveal its purpose earlier. Do not arbitrarily suppress a correct deduction.
+- Uncovering the story of **the Meridian's former Tidekin Hero or Legend** should provide discoverable clues about the compass's true abilities, potentially including its water scaling and individual needle meanings. The legendary owner's name, history and exact clues are to be designed; do not fabricate them as settled canon.
+- Preserve separation of **actual artifact rules**, **NPC knowledge**, **player-visible evidence**, and **future revelations**. Avoid out-of-character explanations of the secret needles during live play unless the DM requests them, and do not retcon the needles merely to steer the plot.
+
+**Design note:** A small-water activation may produce seemingly contradictory or incomplete indications while deeper immersion reveals further structure. This can make natural experiments meaningful without requiring a specific scripted reveal.
