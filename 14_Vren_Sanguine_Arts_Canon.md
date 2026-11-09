@@ -755,3 +755,10 @@ See [20_Nymbrin_Wetcraft_and_Hexen_Canon.md](20_Nymbrin_Wetcraft_and_Hexen_Canon
 ## November 5, 2026 — Attribute/Channel migration (CANON override)
 
 Increase all starting racial **base** attributes by 10 **before** percentage modifiers; each effective attribute has minimum 1. Existing Beastheart/Celerity **+5/+15/+25 effective stat** benefits are granted after racial percentages exactly as before. The historical level-100 point-budget example in Part IV uses **pre-rebasing baseline stats** and is **superseded as a numerical example**; do not use its 207-AP comparison under the revised baseline without recalculation. Existing Vren Channel Limit uses `ceil(max(1, new effective INT − 10) / 5)` to avoid accidental per-action amplification; natural MP for mana-generating Vren increases with revised END. All abilities/MP costs remain unchanged pending future universal review.
+
+## Cultural canon addendum — Vren attitudes toward the arts (DM-approved, November 9, 2026)
+
+- Mainstream Vren culture typically regards theatre, music, artistic performance, and similar pursuits as clever or pleasant **distractions**, but not serious achievements in their own right. The DM explicitly compares this cultural outlook to that of the Romans.
+- Military conquest, the construction of monumental works, and achievements that bring glory to the empire are accorded far greater prestige than being a gifted artist or musician.
+- A Vren ruler was once relentlessly mocked for being notably skilled at playing an instrument; the ruler's name, instrument, and circumstances have **not** been established. Do not invent them as canon.
+- This is a prevalent cultural attitude, not proof that every Vren individual disdains art or that patronage and criticism never occur. Dusk's theatrical vocation stands in tension with these prevailing standards.
