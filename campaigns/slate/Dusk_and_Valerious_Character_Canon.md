@@ -45,3 +45,16 @@
 - This direction deliberately contrasts a Vren cultural norm that prizes war, great works, and imperial glory over arts, music, or performance. See `14_Vren_Sanguine_Arts_Canon.md`.
 - Preserve his genuine ambition and enslavement-related moral hazards; personal sympathy or patronage must not silently erase them.
 - Rivalry with Neri and an eventual difficult choice for Lillia are **DM planning goals**, not yet a played faction conflict. No specific connection between the aristocrat and Neri's captive friend has been approved.
+
+## Dusk's recruitment arc and shared relationship with Neri — DM decisions (November 9, 2026)
+
+**DM-established direction (not yet played on-screen):**
+- Dusk ultimately wants an **independent city-state** that does not answer to the larger political institutions of the Scarlands. He remains a creative, capable leader whose vision combines patronage for the unwanted with strong centralized governance. His ultimate political institutions and how he would win autonomy are still in development.
+- **Revised first-arc objective:** Rather than hunting rival aspirant Bloodlords and delivering their heads for advancement, Dusk aims to recruit **three specific outlawed creatives** to prove himself worthy of noble patronage. Their identities, offenses, whereabouts and recruitment details remain undecided. The recruits should materially illustrate why Dusk thinks the prevailing social order is wrong.
+- Dusk has a connection to a **more militarily inclined would-be revolutionary**, who seeks to overthrow the establishment and is using Dusk to build support among key figures in a way the authorities cannot readily suppress. Their identity, exact agenda and the nature of their agreement are not yet fixed. Dusk is still a capable leader in his own right, not a mere puppet.
+- **Definitive cause of theatre closure:** Dusk secretly sheltered an enslaved person whose owner was far too powerful for Dusk to challenge openly. This act brought the threat of closing his theatre. The aristocratic patron/critic's precise relationship to the owner, and the political/legal mechanics of the closure, remain unresolved; previous proposals of an inflammatory play as the central cause are superseded.
+- **Shared emotional center:** The sheltered person is the one Neri cares about most, and should have one of the deepest personal relationships with **both Neri and Dusk**. Neri is sympathetic to Dusk but fundamentally rejects his belief that the existing hierarchy works if better people occupy its highest positions.
+- It is **not yet established** whether this individual is currently captive, free but hunted, in hiding, or in some other peril. Their name, identity, motives, personal agency, relationships and ultimate wishes are to be developed, not inferred.
+- Dusk and Neri's incompatible political futures should create recurring meaningful choices for Lillia without prescribing her allegiance or the arc's outcome.
+
+**Unapproved brainstorms, not canon:** A monumental sculptor, forbidden composer and underground printer have been floated as candidates for the three creative outlaws. A military co-conspirator using Dusk's popularity as a recruiting platform is a possible interpretation of the confirmed premise, but motives and betrayal are not settled.
