@@ -89,3 +89,7 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 ## Numbered door directions — 2026-11-10
 - Violet Lotus completed all three beats in swipes 1 and 2. Swipe 3 opened the door and stepped back but omitted unlocking. All three left Lillia's next move to Slate. Full action score: 2/3 versus 1/3 on the original prompt (2/3 if accepting implied movement).
 - The second export ends at the numbered prompt with no generated reply. Magnum results are pending. Small sample and revised ending instructions limit attribution to numbering alone. Noncanonical.
+
+## Numbered door directions, Magnum — 2026-11-10
+- Three Magnum v4 12B Q4_K_M swipes matched the visible numbered prompt. Swipes 2 and 3 completed all three actions explicitly. Swipe 1 opened the door and stepped back, with unlocking implied by the key rattling in the lock before the door opened. All three left Lillia's choice to Slate.
+- Magnum: 2/3 clear passes, or 3/3 counting implied unlocking. Violet Lotus: 2/3 clear passes, with the third omitting unlocking. Magnum also scored 2/3 on the original door prompt. The sample is small and the ending instructions changed alongside numbering. Noncanonical.
