@@ -58,3 +58,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Violet Lotus 1: approached and took her hand, then kissed her fingers. Partial compliance. The declaration that Lillia is his home reads as premature at this checkpoint.
 - Violet Lotus 2: approached, took her hand, and kissed her on the lips. Full compliance. The room's unexplained glow is a continuity concern.
 - Both stayed in character and left Lillia's reaction unwritten. Full action compliance so far: 1/2 Violet Lotus swipes. Pending one more fresh Violet Lotus swipe on the same turn. These are noncanonical tests.
+
+## Violet Lotus baseline complete — 2026-11-10
+- Third Violet Lotus swipe completed all three actions. It attributed an expectation to Lillia (“a moment later than she expects”), a small player-agency miss. No assistant acknowledgment.
+- Baseline action score: 2/3. The unchanged prompt already specified “kisses her gently on the lips”; the first swipe substituted a kiss to her fingers despite that wording.
+- Proposed follow-up: isolate the target in its own sentence and run three fresh swipes from the same checkpoint with the same card, lore, and settings. Score action compliance and player agency separately. Noncanonical.
