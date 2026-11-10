@@ -23,3 +23,9 @@
 
 ## Open design details
 Exact cave map, ravine dimensions, some grappling-hook placements, encounter statistics, loot, temperature/exposure mechanics and outcomes are not fully recorded. Do not infer completion of unplayed encounters.
+
+## Latest confirmed update: Drowned Meridian and Dusk's cage (November 9, 2026)
+
+Lillia helped find the hidden Drowned Meridian, which Neri cut out of a concealed globe. Lillia's optional vault treasure is the Far-Screen; Peri selected the Pocket Surveyor Mark III, thanking her. Neri kept the separate Meridian. A roughly ten-minute experimental session ended when Peri used drops from his personal Wakecraft water flask and briefly activated the Meridian; the companions prepared a pot of water for possible immersion but did not actually immerse it on-screen. Neri knows through Sella Brightwake of Dusk, and resolved to go to him.
+
+**Immediate next RP scene:** Lillia returns to Dusk's cage in the Velvet Annex; allies are nearby by the underground tunnel for support. No new meeting with Dusk has yet occurred. This current checkpoint supersedes the outdated first-Peri-meeting and future-vault-planning sections above. Current quest status is managed in Surrender_Quest_Log.md and must not be overwritten from this file.
