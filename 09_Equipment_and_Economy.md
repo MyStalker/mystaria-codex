@@ -1,3 +1,18 @@
+## November 10, 2026 — Approved Full Heavy composite quality ladders (LATEST AUTHOR APPROVAL)
+
+The author approves these Full Heavy working composite profiles. Values run Quality I through V. Required STR includes workmanship. Inherent SPD is stable across qualities. Ratings describe the integrated main protective assembly. Ceramic suits use one suit-wide Intact → Cracked → Shattered track, retain full defense while Cracked, and use the listed backing AR with MR0 throughout the suit when Shattered. Burden remains until repair or rebuilding.
+
+| Construction | AR I–V | Innate MR I–V | STR I–V | Inherent SPD | Shattered backing AR I–V |
+|---|---|---|---|---:|---|
+| Trufula frame / Boughsteel strike panels | 70/80/90/100/110 | 0 throughout | 35/34/32/30/28 | −16% | Not ceramic |
+| Trufula supports / Adamantite protective components | 75/90/105/120/135 | 0 throughout | 69/66/63/59/55 | −21% | Not ceramic |
+| Glassweave shell / Trufula frame | 65/75/85/95/105 | 50/60/70/80/90 | 34/33/31/29/27 | −15% | 35/40/45/52/60 |
+| Nullporcelain panels / Boughsteel backing | 55/62/70/77/85 | 65/80/95/115/135 | 48/46/44/41/38 | −21% | 45/52/60/67/75 |
+
+All Trufula composites retain the approved ×2 Fire weakness for protected composite construction. The ×3 Lightning weakness applies when the construction supplies a valid conductive path to Trufula. The Glassweave/Trufula reference uses isolated fittings. Existing ignition and extinguishing rules apply. Lower protective classes and additional combinations require separate numerical approval. These are reference constructions, not universal material-averaging formulas.
+
+---
+
 ## November 10, 2026 — Suit-wide ceramic armor durability (LATEST AUTHOR APPROVAL)
 
 All ceramic armor, including composites, uses one suit-wide Intact → Cracked → Shattered track. Cracked retains full defense. Shattering affects the ceramic protection of the entire suit at once, without separate location or panel condition. Use the existing physical-hit severity triggers. Any surviving nonceramic backing protection is defined by the approved construction. No new composite ratings are approved by this ruling.

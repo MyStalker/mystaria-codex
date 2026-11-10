@@ -1,3 +1,9 @@
+## November 10, 2026 — Approved Full Heavy composite quality ladders (LATEST AUTHOR APPROVAL)
+
+Full Heavy composite quality ladders, handling, and suit-wide ceramic backing profiles are approved. Operative complete tables are in the opening entry of `09_Equipment_and_Economy.md`. Light/Medium composite values remain proposals until separately approved. Ceramic composites retain full defense while Cracked and use one condition track for the complete suit. This entry supersedes older composite-deferral instructions for this approved phase.
+
+---
+
 ## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
 
 Armor materials whose special abilities depend on dedicated suit construction are ineligible for composite armor. This excludes Skyvein, Reprise Bronze, Bellcopper, Hearthiron, and Thornspring. Celestite and Oathsilver are also ineligible. Do not create weaker composite versions of dedicated suit abilities. Ceramic armors, including Nullporcelain and Glassweave, remain eligible. Eligibility does not define new recipes, ratings, or ceramic breakage interactions for mixed assemblies.

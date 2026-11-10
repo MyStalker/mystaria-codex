@@ -1,3 +1,9 @@
+## November 10, 2026 — Approved Full Heavy composite quality ladders (LATEST AUTHOR APPROVAL)
+
+Full Heavy composite quality ladders, handling, and suit-wide ceramic backing profiles are approved. Operative complete tables are in the opening entry of `09_Equipment_and_Economy.md`. Light/Medium composite values remain proposals until separately approved. Ceramic composites retain full defense while Cracked and use one condition track for the complete suit. This entry supersedes older composite-deferral instructions for this approved phase.
+
+---
+
 ## November 10, 2026 — Suit-wide ceramic armor durability (LATEST AUTHOR APPROVAL)
 
 All ceramic armor, including composites, uses one suit-wide Intact → Cracked → Shattered track. Cracked retains full defense. Shattering affects the ceramic protection of the entire suit at once, without separate location or panel condition. Use the existing physical-hit severity triggers. Any surviving nonceramic backing protection is defined by the approved construction. No new composite ratings are approved by this ruling.
