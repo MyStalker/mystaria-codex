@@ -1,3 +1,9 @@
+## November 10, 2026 — Two additional composite roles approved; numerical profiles pending
+
+The existing four approved numerically complete reference composites remain unchanged after early/mid/late physical loadout review. The author now **approves two additional composite design identities for development**: **Boughsteel/Glassweave** (robust metal backing plus moderate Glassweave MR) and **Adamantite/Nullporcelain** (high-strength, high-burden physical/magical fortress armor). These are **concept-approved only**, not approved numeric AR/MR/STR/SPD/shatter profiles; only four of the six constructions yet have full numerical canon. The composite owning reference is `09_Equipment_and_Economy.md`, and changes are recorded in `10_Canon_Changelog.md`. Single suitwide ceramic durability continues to govern the two new designs; do not invent extra candidate pairings.
+
+---
+
 ## November 10, 2026 — Approved Light and Medium composite quality ladders (LATEST AUTHOR APPROVAL)
 
 The author approved the full Light/Medium Quality I–V AR, innate MR, STR and inherent SPD tables for Trufula/Boughsteel, Trufula/Adamantite, Glassweave/Trufula and Nullporcelain/Boughsteel, including all four Light/Medium shattered ceramic backing ladders. Full operative tables appear in the opening entry of `09_Equipment_and_Economy.md`. Together with the approved Heavy tables, these four reference constructions now span all three protective classes and five qualities. This supersedes previous Light/Medium proposal-status notes. Ceramic suits retain full defense while Cracked and use one complete-suit condition track. Updated owning equipment reference, Smithcraft cross-reference, index and changelog. Remaining work includes composite balance and loadout tests, review of any omitted eligible pairings, and the outstanding equipment roadmap. Additional numerical mechanics remain subject to approval.
