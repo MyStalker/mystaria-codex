@@ -104,3 +104,7 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 
 ## Direct gateway dialogue test
 - After the DM renamed the card to `Dusk.json` and restarted the gateway, v0.5.0 listed Dusk and generated a reply through Oobabooga. The output included narrated framing before the spoken line, so it failed dialogue-only format. The gateway labels the output ROCINANTE, but status does not identify the active backend model. Treat this as a noncanonical gateway test with model attribution unverified.
+
+## Magnum through the gateway
+- DM confirmed Magnum loaded in Oobabooga. Gateway v0.5.0 continued labeling each response ROCINANTE, so attribution rests on DM confirmation rather than gateway metadata.
+- Three identical dialogue-only trials with Dusk's card all added narration (0/3), matching the SillyTavern batch. Both paths include roleplay framing, so this does not isolate the model from the prompt wrapper. Noncanonical.
