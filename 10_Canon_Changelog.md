@@ -1,3 +1,17 @@
+## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
+
+**APPROVED:** The author's explicit approval covers the last pure-material armor closeout proposals, with corrections to Skyvein and Oathsilver. Full authoritative closeout mechanics and all numerical anchors now appear at the top of `09_Equipment_and_Economy.md`. Approved QV Heavy AR/MR anchors: Glassweave 115/115, Celestite 180/185; associated QV Celestite Light/Medium/Heavy profiles 65/100/18/15/−4%, 115/145/35/18/−12%, 180/185/65/20/−24% in AR/MR/STR/DEX/SPD order. QV full Heavy handling now anchored for Boughsteel 36/−20%, Trufula 19/−12%, Adamantite 91/−30%, Bellcopper 48/−25%, Hearthiron 48/−25%, Glassweave 35/−19%. These STR gates are post-QV workmanship.
+
+**HEARTHIRON/THORNSPRING:** Hearthiron Furnace Burst uses reference 25%-STR-investment Hero melee-F1.10 Power, reference levels 10/25/50/75/100 and STR22/32/50/67/85, 3m radius, one attack action, Medium one charge/Heavy two, physical-resistance distinct from fire. Recharge from actual external fire at 70% of corresponding fire attack Power, one charge per qualifying event; ordinary campfire over a fueled long rest. Thornspring uses **the same quality-matched 70% reference-Power benchmark** for genuine non-energy physical contact, regardless of actual wound, one stored charge maximum and already approved full-turn situational SPD burst.
+
+**CELESTITE:** QV armor stats newly approved. Original first-donning XP snapshot persists across redonning per wearer, 5% original XP/qualifying voluntarily chosen combat turn rounded up capped to available XP, meaningful engagement/withdrawal distinction, no special invented XP-zero death; end-of-turn MP debit 5/10/15 to floor zero, overlapping Leydrain thresholds additive (not radii), already-channeled spells suppressed if entering qualifying field. Existing 5/10/15m radii and strict <5/<10/<15 MP field cutoffs preserved.
+
+**SKYVEIN LATEST REVISION:** Heavy wing flight 6 MP/turn from any valid-capacity onboard Leywell, **three consecutive flying turns then one grounded/nonflying recovery turn**. No fixed 18MP Leywell and no hard three-turn lifetime limit. Flight speed follows effective wearer SPD through soul-responsive armor scaling; no newly charged wearer MP, no extra Soul Strain beyond established innate +1. **OATHSILVER LATEST REVISION:** attunement requires donning + a difficult kept promise/trial of **at least 3 days**; three lies/dishonorable acts during trial void attempt; *after completion no ongoing behavioral restriction*. Supersedes prior assistant's long-rest/one-hour oath proposal.
+
+**OTHER APPROVED CLOSEOUT:** Nullporcelain smooth unfilled quality/class interpolation direction; Reprise Bronze same three prepared forms throughout qualities without extra cost/cooldown; Bellcopper sound does not automatically injure/stun and retains 3-turn quiet reset; Glassweave Full Heavy MR75/85/95/105/115 and QV Heavy STR35/−19% SPD. Workmanship, class coverage, old correct elemental identities and ceramic rules unchanged. Do not treat general full Light/Medium lower-quality exact numbers as supplied where they were not. **Composites intentionally not touched.** Remaining cross-system gaps and exact unprovided matrices remain as listed in the top closeout entry of `09_Equipment_and_Economy.md`.
+
+---
+
 
 
 ## November 10, 2026 — Celestite Leydrain tiers, additive overlaps, voluntary-combat Soul Shred and no zero-MP extra punishment (LATEST AUTHOR APPROVAL)
