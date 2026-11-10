@@ -6,6 +6,7 @@ This directory records **campaign continuity**, not universal Mystaria canon. Co
 
 ## Records
 - [Characters](party-and-characters.md)
+- **[Romance-first campaign philosophy and courtship canon](Romance_Philosophy_and_Courtship_Canon.md)**
 - **[Latest Lillia character-sheet save: JSON export, Nov 10, 2026 UTC](Lillia_Mystaria_Save_2026-11-10.json)**
 - [Session log](session-log.md)
 - **[Original first post (verbatim): Surrender and Dusk's cage, October 29, 2026](Opening_Post_2026-10-29_Verbatim.md)**
