@@ -68,3 +68,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Three Violet Lotus-tagged swipes used the revised director prompt with the kiss in its own sentence and the same opener and Lillia dialogue.
 - Swipe 1 approached and described a kiss without specifying where it landed. It cupped her face and omitted taking her hand. Swipe 2 approached, took her hand, and narrated a gentle kiss by bringing her to his lips, without explicitly naming hers. Swipe 3 completed all three actions with explicit lip contact and gave the cleanest handoff to Slate.
 - Score: 2/3 on a contextual reading, with swipe 2 inferred, or 1/3 requiring explicit lip contact. The baseline was 2/3 with explicit lip contact. No demonstrated improvement from the wording change in these samples. Noncanonical.
+
+## Magnum matched-prompt comparison — 2026-11-10
+- Three `magnum-v4-12b-Q4_K_M.gguf` swipes used the same visible opener and split-sentence director turn as Violet Lotus. The export identifies the model and visible turns; it does not verify identical sampler settings or full assembled prompts.
+- Swipe 1 approached and reached for her hand without taking it, then omitted the kiss. Swipe 2 clearly completed all three actions. Swipe 3 completed the approach and hand-taking, then described a knuckle kiss followed by a second kiss strongly implying lip contact. Swipe 3 also implied Lillia welcomed the touch.
+- Matched batch: both models scored 1/3 with explicit lip contact required, or 2/3 counting implied contact. Magnum can execute the direction. This batch establishes no winner on action compliance. Technical tests only.
