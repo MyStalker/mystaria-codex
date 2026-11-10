@@ -200,3 +200,11 @@ The detailed current quest tracker is [Surrender's Quest Log](Surrender_Quest_Lo
 - The DM expressly confirms **“Warmth for 2 is resolved. You can remove it.”** Treat **Warmth for Two** as **resolved and removed from Lillia's active Surrender quest log**. This **supersedes all earlier chronicle entries describing it as active, unresolved, pending acknowledgment or still needing completion**; those passages are retained only as historical snapshots of earlier understanding.
 - The established act of giving Peri her complete Emberwrap remains canonical. The correction does **not** specify an additional skill point, gem payment, or new divine quest-completion notification; do not invent a payout.
 - Active Surrender quests remain **Seduce Your Master**, **The Princess and Her Leash**, and **Everyone's Watching, Bunny**. See [current Surrender quest log](Surrender_Quest_Log.md).
+
+
+## Player character-sheet snapshot received (exported November 10, 2026 UTC)
+
+- The DM uploaded Slate's **actual character-sheet JSON export**, saved in GitHub as [Lillia's Mystaria Save](Lillia_Mystaria_Save_2026-11-10.json). This is a **sheet snapshot**, not a newly narrated roleplay event.
+- Latest sheet statistics: **Lillia level 5, XP 4; STR 12, DEX 18, END 21, INT 16, SPD 21**; no unspent attribute points, **4 unspent Skill Points**, **Mana Harvest rank 2**, hand MP 0, vessel MP 0, mechanically *Uninjured*.
+- **Valerious** is recorded at level 2 with STR 14 / DEX 15 / END 14 / INT 15 / SPD 12 and *Uninjured* on the new sheet. This supersedes the earlier mechanical injury indicator as a snapshot, but does not erase scenes in which he was injured or wrapped in Neri's blanket.
+- **Reconciliation rule:** The exported JSON has an empty quest array and lists only the frayed treasure map in inventory. This does **not** revoke already-established Surrender quests, the Far-Screen scene, the Emberwrap transfer to Peri, or other chronicle events. Use the character-sheet export as the authority for **current level, XP, stats and sheet resources** and the Live Chronicle / Quest Log as authority for campaign events and quest status. Do not infer unlisted item removal, new reward payments, or timeline changes from omitted JSON fields.
