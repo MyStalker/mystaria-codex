@@ -1,3 +1,33 @@
+## November 10, 2026 — Approved Light and Medium composite quality ladders (LATEST AUTHOR APPROVAL)
+
+The author approves all following Full coverage Light/Medium composite profiles as working calibration. Values run Quality I through V. STR includes workmanship. Inherent SPD stays fixed across qualities. This supersedes earlier proposal-status labels for these specific tables.
+
+| Construction | Class | AR I–V | Innate MR I–V | Required STR I–V | Inherent SPD |
+|---|---|---|---|---|---:|
+| Trufula / Boughsteel | Light | 22/25/27/30/32 | 0 throughout | 9/9/9/8/7 | −3% |
+| Trufula / Boughsteel | Medium | 40/47/55/62/70 | 0 throughout | 19/19/18/17/15 | −9% |
+| Trufula / Adamantite | Light | 25/29/33/37/42 | 0 throughout | 17/17/16/15/13 | −5% |
+| Trufula / Adamantite | Medium | 45/55/65/75/85 | 0 throughout | 38/37/35/33/30 | −12% |
+| Glassweave / Trufula | Light | 20/23/25/28/30 | 18/22/26/30/35 | 9/9/9/8/7 | −3% |
+| Glassweave / Trufula | Medium | 35/42/50/57/65 | 35/42/50/60/70 | 19/19/18/17/15 | −8% |
+| Nullporcelain / Boughsteel | Light | 15/18/20/22/25 | 35/42/50/60/70 | 13/13/12/12/10 | −5% |
+| Nullporcelain / Boughsteel | Medium | 30/35/40/45/50 | 50/60/70/85/100 | 28/27/26/24/22 | −12% |
+
+### Ceramic composite backing after Shattered
+
+One complete-suit Intact → Cracked → Shattered track applies. Intact and Cracked retain the full ratings above. Shattered uses the following backing AR throughout the suit, with MR0. Existing STR/SPD burden persists until repair or rebuilding. Nullporcelain/Boughsteel Light and Medium have continuous physical backing that retains the listed AR when the ceramic shatters. Glassweave/Trufula loses both ceramic physical and magical protection.
+
+| Construction | Class | Shattered backing AR I–V |
+|---|---|---|
+| Glassweave / Trufula | Light | 12/15/17/19/20 |
+| Glassweave / Trufula | Medium | 20/25/30/35/40 |
+| Nullporcelain / Boughsteel | Light | 15/18/20/22/25 |
+| Nullporcelain / Boughsteel | Medium | 30/35/40/45/50 |
+
+Existing composite construction identities, eligibility restrictions, coverage rules, elemental hazards, and ceramic severity triggers apply. The approved four reference constructions now have complete Light/Medium/Heavy Quality I–V profiles. Further combinations and additional numeric mechanics require author approval.
+
+---
+
 ## November 10, 2026 — Approved Full Heavy composite quality ladders (LATEST AUTHOR APPROVAL)
 
 The author approves these Full Heavy working composite profiles. Values run Quality I through V. Required STR includes workmanship. Inherent SPD is stable across qualities. Ratings describe the integrated main protective assembly. Ceramic suits use one suit-wide Intact → Cracked → Shattered track, retain full defense while Cracked, and use the listed backing AR with MR0 throughout the suit when Shattered. Burden remains until repair or rebuilding.
