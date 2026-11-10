@@ -1,3 +1,59 @@
+## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
+
+**AUTHOR APPROVAL:** All numerical Light/Medium AR, MR, QV handling and interpolation recommendations in the immediately preceding assistant proposal are approved. These are **Full coverage** protected-surface reference values, not composites. Existing QV class benchmarks, material-specific powers, armor shatter, coverage, and Celestite exception remain intact.
+
+### Physical Armor Rating by Quality I / II / III / IV / V
+| Material | Full Light AR I–V | Full Medium AR I–V |
+|---|---|---|
+| Boughsteel | 25 / 28 / 30 / 32 / 35 | 45 / 52 / 60 / 67 / 75 |
+| Trufula | 20 / 22 / 25 / 27 / 30 | 35 / 42 / 50 / 57 / 65 |
+| Adamantite | 30 / 35 / 40 / 45 / 50 | 60 / 70 / 80 / 95 / 110 |
+| Nullporcelain | 0 / 0 / 0 / 0 / 0 | 0 / 0 / 0 / 0 / 0 |
+| Skyvein | 5 / 8 / 10 / 12 / 15 | 10 / 14 / 18 / 21 / 25 |
+| Reprise Bronze | 20 / 22 / 25 / 27 / 30 | 35 / 40 / 45 / 52 / 60 |
+| Oathsilver | 15 / 18 / 20 / 22 / 25 | 25 / 30 / 35 / 40 / 45 |
+| Bellcopper | 25 / 28 / 30 / 32 / 35 | 45 / 52 / 60 / 67 / 75 |
+| Hearthiron | 20 / 22 / 25 / 27 / 30 | 35 / 40 / 45 / 52 / 60 |
+| Thornspring | 12 / 15 / 18 / 22 / 25 | 30 / 35 / 42 / 48 / 55 |
+| Glassweave | 25 / 28 / 30 / 32 / 35 | 45 / 52 / 60 / 67 / 75 |
+| Celestite | Quality V ONLY: 65 | Quality V ONLY: 115 |
+
+### Innate Magic Resistance by Quality I / II / III / IV / V
+| Material | Full Light MR I–V | Full Medium MR I–V |
+|---|---|---|
+| Nullporcelain | 45 / 55 / 65 / 75 / 85 | 65 / 75 / 90 / 105 / 120 |
+| Skyvein | 4 / 5 / 7 / 8 / 10 | 8 / 11 / 14 / 17 / 20 |
+| Oathsilver | 15 / 18 / 22 / 26 / 30 | 25 / 32 / 40 / 47 / 55 |
+| Glassweave | 25 / 28 / 30 / 32 / 35 | 45 / 52 / 60 / 67 / 75 |
+| Celestite | Quality V ONLY: 100 | Quality V ONLY: 145 |
+
+All omitted pure materials have general **innate MR 0** (not immunity or loss of any special elemental resistance or installed magical ability). Skyvein, Reprise Bronze, Thornspring and Celestite existing QV endpoints are deliberately retained; Quality V Nullporcelain values remain unchanged. Glassweave mirrors Boughsteel's matching AR across Light/Medium and uses those numbers for its innate MR as approved in this calibration.
+
+### Quality V Full coverage support and mobility
+STR are **post-QV ×0.80 workmanship**. SPD percentages are **inherent** material/class movement effects, not workmanship discounts.
+
+| Material | Light STR | Light SPD | Medium STR | Medium SPD |
+|---|---:|---:|---:|---:|
+| Boughsteel | 8 | −4% | 20 | −11% |
+| Trufula | 5 | −2% | 11 | −7% |
+| Adamantite | 20 | −8% | 50 | −18% |
+| Nullporcelain | 6 | −3% | 14 | −9% |
+| Skyvein | 4 | +12% | 8 | +8% |
+| Reprise Bronze | 12 | −5% | 22 | −11% |
+| Oathsilver | 8 | −4% | 15 | −10% |
+| Bellcopper | 12 | −7% | 28 | −15% |
+| Hearthiron | 12 | −7% | 28 | −15% |
+| Thornspring | 8 | −3% | 12 | −8% |
+| Glassweave | 8 | −4% | 19 | −10% |
+| Celestite | 18 | −4% | 35 | −12% |
+
+**Already approved exceptional DEX handling:** Thornspring QV Full Light DEX16 / Full Medium DEX26; Celestite QV Full Light DEX15 / Full Medium DEX18. Other classes/materials follow ordinary armor DEX baseline (numeric default not invented). Existing QV Full Heavy values unchanged.
+
+**Quality I–IV STR method (newly approved direction):** Recover an integer pre-quality material/class STR gate as `ceil(QV_post_quality_STR / 0.80)`, then apply existing I–V craftsmanship requirement factors 1.00/0.95/0.90/0.85/0.80 and ceil the resulting stat gate at the final required-attribute check. This is a convention for **the newly approved tables**, not an added independent multiplier; preserve legitimate equipment-synergy timing. Example QV STR20 → pre-quality25 → I–V 25/24/23/22/20. Inherent SPD stays the same from Quality I through V for a fixed material/protective class/coverage; workmanship does not arbitrarily alter inertia. General Partial/Standard/Full coverage burdens remain the already approved 60%/80%/100% of full (rounding as canon), **without changing ratings on actually covered surfaces**.
+
+**Important:** These numbers and the Quality STR method are now approved canon; old proposal-only declarations for these same data are superseded. Complete missing full Heavy-quality tables or future defense balance tests remain separate proposals until author approval. **Do not design/change composites in this pass.**
+
+
 ## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
 
 **Status:** APPROVED by author in the current conversation, including the immediately preceding proposed closeout package **except where explicitly replaced below**. This is a pure-material armor closeout. **Do not edit or generate composites:** all reasonable composite combinations will be developed in a separate later pass. Older passages labeled proposal for the *specific approved values listed below* are superseded by this entry; earlier approved material identities, protective mechanisms, material exceptions and workmanship rules remain intact.
