@@ -1,3 +1,9 @@
+## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
+
+**Six composite armor constructions now have approved numerical calibration at Quality I–V across Light, Medium and Heavy:** Trufula/Boughsteel, Trufula/Adamantite, Glassweave/Trufula, Nullporcelain/Boughsteel, **Boughsteel/Glassweave**, and **Adamantite/Nullporcelain**. This supersedes the prior concept-only status of the last two. Refer to the opening tables of `09_Equipment_and_Economy.md` for full class/quality AR/MR/STR/inherent SPD and ceramic Shattered backing profiles. `10_Canon_Changelog.md` records the approval. Single suit-wide ceramic durability and Trufula hazards remain intact. **Next: six-composite final combat and loadout check; any new adjustments must be separately approved.**
+
+---
+
 ## November 10, 2026 — Two additional composite roles approved; numerical profiles pending
 
 The existing four approved numerically complete reference composites remain unchanged after early/mid/late physical loadout review. The author now **approves two additional composite design identities for development**: **Boughsteel/Glassweave** (robust metal backing plus moderate Glassweave MR) and **Adamantite/Nullporcelain** (high-strength, high-burden physical/magical fortress armor). These are **concept-approved only**, not approved numeric AR/MR/STR/SPD/shatter profiles; only four of the six constructions yet have full numerical canon. The composite owning reference is `09_Equipment_and_Economy.md`, and changes are recorded in `10_Canon_Changelog.md`. Single suitwide ceramic durability continues to govern the two new designs; do not invent extra candidate pairings.
