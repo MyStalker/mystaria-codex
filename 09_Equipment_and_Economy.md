@@ -1,3 +1,28 @@
+## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
+
+**LATEST AUTHOR APPROVAL:** Author approved **without changes** the immediately preceding proposed Quality I–V **Full-coverage Light/Medium/Heavy** AR, innate MR, support STR, inherent SPD, and post-Shattered backing AR profiles for **Boughsteel/Glassweave** and **Adamantite/Nullporcelain**. These two designs are no longer concept-only. Six composite constructions now have approved numerical reference profiles. Preserve the four earlier approved construction tables unchanged. This entry **supersedes** the earlier November 10 “two additional composite roles approved; numerical profiles pending” status for these two pairings only.
+
+### Newly approved composite Quality I–V profiles (Full coverage)
+
+Sequences are Quality I / II / III / IV / V. Required STR **already includes Quality workmanship**; the inherent SPD percentage stays constant by quality. AR and MR are for intact or cracked ceramic armor across covered main surfaces.
+
+| Construction | Class | AR I–V | Innate MR I–V | Required STR I–V | Inherent SPD | Shattered backing AR I–V |
+|---|---|---|---|---|---|---|
+| **Boughsteel/Glassweave** | Light | 22/25/27/30/32 | 15/18/22/26/30 | 13/13/12/12/11 | −5% | 15/18/20/22/25 |
+| Boughsteel/Glassweave | Medium | 42/48/55/62/68 | 30/38/45/52/60 | 30/29/27/26/24 | −12% | 35/40/45/50/55 |
+| Boughsteel/Glassweave | Heavy | 65/75/85/95/105 | 45/55/62/70/80 | 50/48/45/43/40 | −20% | 65/72/78/84/90 |
+| **Adamantite/Nullporcelain** | Light | 28/32/36/40/43 | 35/42/50/58/65 | 22/21/20/19/18 | −7% | 25/28/31/35/38 |
+| Adamantite/Nullporcelain | Medium | 55/65/75/87/100 | 60/70/85/95/110 | 53/51/48/46/43 | −19% | 55/64/72/80/90 |
+| Adamantite/Nullporcelain | Heavy | 95/105/115/130/145 | 75/90/105/125/145 | 97/93/88/83/78 | −28% | 85/95/105/120/135 |
+
+**Ceramic rules preserved:** One **whole-suit** Intact → Cracked → Shattered track, not per-hit-location or component tracks. Intact and Cracked have the same AR/MR. After Shattered, the suit has the specified physical backing AR on covered surfaces, **MR0**, and **unchanged support STR and SPD burden** until genuine repair/rebuilding. Use the already approved real physical contact/impact-severity triggers; do not crack or shatter from incidental energy-only exposure, or alter existing underarmor/coverage rules. These numeric profiles are construction-specific and not a generalized arbitrary mixing formula. No ineligible special-ability materials, Celestite or Oathsilver become composite-eligible.
+
+**Quality V Full Heavy checkpoints:** Boughsteel/Glassweave intact **AR105/MR80/STR40/−20% SPD**, shattered **AR90/MR0**; Adamantite/Nullporcelain intact **AR145/MR145/STR78/−28% SPD**, shattered **AR135/MR0**. Boughsteel/Glassweave has no Trufula fire hazard. Trufula-bearing composites continue to retain approved Fire ×2 and qualifying conductive Lightning ×3 vulnerabilities.
+
+**Next stage:** Run a six-construction early/middle/late physical, mobility, loadout, armor-penetration and ceramic-breakage comparison against pure counterparts, using actual approved values, while treating the general MR/Elemental Magnitude formula as **UNRESOLVED**. Do not label any subsequent balance *recommendation* canon without separate author approval.
+
+---
+
 ## November 10, 2026 — Two additional composite roles approved; numerical profiles pending
 
 **LATEST EXPLICIT AUTHOR APPROVAL:** Following the completed early/middle/late composite armor balance review, retain all four existing approved composite reference constructions with **no numerical balance changes**: Trufula/Boughsteel, Trufula/Adamantite, Glassweave/Trufula and Nullporcelain/Boughsteel. The author approves two **additional design identities/eligible pairings** for future numerical calibration:
