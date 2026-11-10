@@ -1,3 +1,8 @@
+## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
+
+**Light/Medium pure armor tables now CANON:** Full Light/Medium Quality I–V AR/MR, QV STR/SPD, and the QV STR-to-pre-quality workmanship progression are approved; the complete tables appear at the beginning of `09_Equipment_and_Economy.md`. Celestite is Quality V only. Preserve existing Heavy material QV anchors and older approved Heavy quality ladders. Exact remaining Heavy pure-material quality cells are still pending approval. **Composite development remains deferred.**
+
+
 ## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
 
 **LATEST APPROVED PURE-MATERIAL ARMOR CLOSEOUT:** See `09_Equipment_and_Economy.md` opening section for final author-approved armor QV anchors, handling and special-move procedures. Particularly: Hearthiron Furnace Burst (Quality-reference STR × F1.10, 3m, 70% fire recharge), Thornspring same 70% benchmark from real non-energy physical hits, Celestite QV Light/Medium/Heavy AR/MR/requirements and fixed-snapshot Soul Shred, Skyvein 6 Leywell MP/flight turn with three consecutive turns then one grounded turn and wearer-SPD-linked soul-powered flight Speed, Oathsilver difficult kept promise lasting at least three days and three-violation limit *during* attunement only. **All composites are explicitly postponed for their own subsequent author-directed pass.** Exact complete lower-class/quality numerical grids still need deterministic tabulation; proposals do not become approved unseen values. Relevant owner: `09_Equipment_and_Economy.md`; supporting material: `07_Centaurs_and_Smithcraft.md`; ledger: `10_Canon_Changelog.md`.
