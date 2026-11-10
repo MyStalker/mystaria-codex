@@ -1,3 +1,9 @@
+## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
+
+All six named composite armor designs are now **numerically approved** at Light/Medium/Heavy Qualities I–V, including the two newest **Boughsteel/Glassweave** (QV Full Heavy intact AR105/MR80/STR40/−20% SPD, after shattered AR90/MR0) and **Adamantite/Nullporcelain** (QV Full Heavy intact AR145/MR145/STR78/−28% SPD, after shattered AR135/MR0). Full authoritative profiles and the quality-adjusted requirements are in the opening section of `09_Equipment_and_Economy.md`. The two newly approved numerical profiles supersede their previous concept-only status, do not revise the other four, and retain the ceramic one-suit condition and existing material restrictions. Physical/magical balance and downstream proposals remain separate and unapproved.
+
+---
+
 ## November 10, 2026 — Two additional composite roles approved; numerical profiles pending
 
 Two further **concept-approved, numbers-pending** composite suit constructions: **Boughsteel/Glassweave** with continuous physical Boughsteel backing and moderate MR from Glassweave, and **Adamantite/Nullporcelain** with heavy Adamantite protective backing and substantial ceramic anti-magic protection. Both obey the approved single complete-suit ceramic condition track (Intact→Cracked→Shattered); Cracked does not reduce defense and Shattered uses the eventual approved physical backing AR, MR0, with full handling burden. Prior four numerically approved reference composites remain unchanged. See `09_Equipment_and_Economy.md` for owner and `10_Canon_Changelog.md` for approval scope. **No numeric proposal is canon yet** for the two additions.
