@@ -85,3 +85,7 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 ## Non-romantic door test, Violet Lotus rerun — 2026-11-10
 - Three `MN-Violet-Lotus-12B.Q4_K_M.gguf` swipes used the same visible door-test turn as Magnum. Swipe 1 completed all three beats. Swipe 2 showed the door opening but omitted unlocking and stepping aside. Swipe 3 showed the lock clicking and door opening, then placed Dusk to the side without narrating his movement there. All three left Lillia's exit to Slate.
 - Violet Lotus: 1/3 full action passes, or 2/3 accepting the final position in swipe 3 as an implied step. Magnum: 2/3 full action passes. Both scored 3/3 on player agency. These small batches show action omissions outside romance and do not establish an overall winner. Noncanonical.
+
+## Numbered door directions — 2026-11-10
+- Violet Lotus completed all three beats in swipes 1 and 2. Swipe 3 opened the door and stepped back but omitted unlocking. All three left Lillia's next move to Slate. Full action score: 2/3 versus 1/3 on the original prompt (2/3 if accepting implied movement).
+- The second export ends at the numbered prompt with no generated reply. Magnum results are pending. Small sample and revised ending instructions limit attribution to numbering alone. Noncanonical.
