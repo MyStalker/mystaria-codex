@@ -1,3 +1,16 @@
+## November 10, 2026 — Two additional composite roles approved; numerical profiles pending
+
+**LATEST EXPLICIT AUTHOR APPROVAL:** Following the completed early/middle/late composite armor balance review, retain all four existing approved composite reference constructions with **no numerical balance changes**: Trufula/Boughsteel, Trufula/Adamantite, Glassweave/Trufula and Nullporcelain/Boughsteel. The author approves two **additional design identities/eligible pairings** for future numerical calibration:
+
+1. **Boughsteel/Glassweave:** resilient conventional Boughsteel backing with Glassweave providing moderate magical protection; heavier than the Trufula-supported alternative, without Trufula ignition hazards. Its glass-ceramic protection follows the existing **one whole-suit Intact→Cracked→Shattered** track; at Shattered it retains only the specified physically continuous Boughsteel backing AR, MR0, and all current STR/SPD burden.
+2. **Adamantite/Nullporcelain:** deliberately expensive, heavy fortress combination, pairing strong physical protection from Adamantite components with potent Nullporcelain MR. Armor mobility and STR requirement must reflect genuine weight, not free best-of-both. Its ceramic coverage uses the same **one whole-suit** condition track; at Shattered it retains only the designated continuous Adamantite backing AR, MR0, and unchanged handling burden.
+
+**APPROVAL SCOPE:** These two construction *identities and inclusion in the development catalog* are now canonically approved. Their numerical AR/MR, Light/Medium/Heavy Quality I–V handling, shatter backing ladders and any nonstandard elemental interactions are **NOT APPROVED** by this authorization. Prepare proposed profiles separately for author review before labeling numeric rows as approved. Neither construction receives special abilities of ineligible materials. The other eligible pairings are not automatically approved or catalogued by this decision. The six-construction development catalog is distinct from the **four currently numerically finalized playable reference constructions**.
+
+**BALANCE REVIEW OUTCOME:** The four existing reference composites remain approved unchanged. Physical landed-hit testing used a draft F1.05 Boughsteel hand axe at reference progression levels 25/50/100 and the approved Slashing 0% / ordinary Piercing 50% / dedicated Piercing 65% bypass, legitimate secondary F×0.90 (Power×0.81). No global MR/Elemental Magnitude injury formula was supplied, so magical defense was compared **only as inherent MR ratings and ceramic durability**, without invented injury outcomes. Existing Trufula Fire×2 and conditional conductive Lightning×3 hazards, and repair/extinguishing rules, persist. Test assumptions are not new item canon.
+
+---
+
 ## November 10, 2026 — Approved Light and Medium composite quality ladders (LATEST AUTHOR APPROVAL)
 
 The author approves all following Full coverage Light/Medium composite profiles as working calibration. Values run Quality I through V. STR includes workmanship. Inherent SPD stays fixed across qualities. This supersedes earlier proposal-status labels for these specific tables.
