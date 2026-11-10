@@ -93,3 +93,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 ## Numbered door directions, Magnum — 2026-11-10
 - Three Magnum v4 12B Q4_K_M swipes matched the visible numbered prompt. Swipes 2 and 3 completed all three actions explicitly. Swipe 1 opened the door and stepped back, with unlocking implied by the key rattling in the lock before the door opened. All three left Lillia's choice to Slate.
 - Magnum: 2/3 clear passes, or 3/3 counting implied unlocking. Violet Lotus: 2/3 clear passes, with the third omitting unlocking. Magnum also scored 2/3 on the original door prompt. The sample is small and the ending instructions changed alongside numbering. Noncanonical.
+
+## Magnum two-turn quiet intimacy test — 2026-11-10
+- Both replies tagged Magnum v4 12B Q4_K_M. Turn 1 replayed crossing to the chair and sitting despite the fixed opening, but conveyed care as duty, stayed within two spoken lines, and offered a hand without making contact.
+- Turn 2 honored the quieter pace, stayed seated, and ended with one short line (“I am here”). “Eyes meet hers” lightly implies a reciprocal look. One run only, noncanonical.
+- For fixed blocking, keep DM-authored action in the final draft and request dialogue only, or cue the first new beat from the established seated position.
