@@ -1,3 +1,7 @@
+## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
+
+**Author approval and current ownership:** The full approved pure-material armor closeout appears at the top of `09_Equipment_and_Economy.md` and is operative for smithcraft as well. In particular, Hearthiron's F1.10 reference-STR fire Power/recharge and Thornspring's same 70%-reference physical-contact threshold, Celestite approved QV defensive/handling tables, Skyvein's wearer-SPD-based soul-responsive wing flight (6 Leywell MP/turn, three flying turns then one grounded recovery turn; reservoir not fixed), and Oathsilver's ≥3-day difficult promise and pre-attunement three dishonorable-act/lie cap supersede older incomplete suggestions. The Oathsilver oath does **not** restrict behavior after successful attunement. Preserve all material identities and forging exceptions. **Do not create/change composites in this pass.** Exact missing numerical subclass quality matrices are not retroactively invented.
+
 
 
 ## November 10, 2026 — Celestite Leydrain tiers, additive overlaps, voluntary-combat Soul Shred and no zero-MP extra punishment (LATEST AUTHOR APPROVAL)
