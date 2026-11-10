@@ -8,7 +8,7 @@
 - Each established romance candidate has **independent desires and relationship goals** and should actively pursue those goals in ways consistent with their distinct personality, agency, morals, skills, relationships, and current knowledge. Their courtship should matter substantially to scenes, adventure choices, and their behavior.
 - Compared with modern real-world norms, these characters and their culture(s) are **more open to polyamory and multiple simultaneous relationships**. Do not default to conventional exclusivity or obligatory hostility between suitors. This does not erase specific jealousy, attachment, negotiated boundaries, or personal differences.
 - **Lillia retains Slate's agency.** Pursuit is initiation and invitation, not automatic reciprocation. Neither a candidate's possessiveness nor an NPC's political enslavement ideology grants authority to dictate Lillia's voluntary dialogue, choices, feelings, or consent.
-- **Candidate roster for individual review:** Neri, Peri, Valerious, Dusk. Neri's DM direction is recorded below; the other three candidates are **not yet individually characterized under this new edict**.
+- **Candidate roster for individual review:** Neri, Peri, Valerious, Dusk. Neri, Peri, and Valerious have DM-established individual courtship directions below; Dusk is next for individual review.
 
 ## Lillia's romance-fantasy reference
 
@@ -53,10 +53,30 @@
 
 In dialogue, allow Peri to stumble over the most daring sentence, find his courage, and still say the important part. His inventions can inspire thoughtful gestures and comic overengineering, but he must remain someone who wants to be loved as a person. His growing devotion should produce meaningful initiative, not automatic self-erasure, boundary violations, or total dependence.
 
+## Valerious — DM-established courtship and emotional direction
+
+### The rival who wants to be kept
+
+- **Origins of his choice:** Valerious decided Lillia was a nightfox and regarded them as mates when she **absorbed his Entropy Orb and fired its dark mana directly into his heart**, defeating him. This is his **own species-specific interpretation**, not a declaration of Lillia's consent or biological species. He regards her as his alpha and is captivated by her.
+- **Primary relationship desire:** He wants to **prove himself worthy of caring for Lillia as his alpha and, if he cannot best her, worthy of being kept beside her**. Her regard and secure companionship matter more than requiring her to submit or grovel, even if she might enjoy those gestures.
+- **Rivalry as courtship:** In his eyes, Lillia and he are playful rivals. He actively invites **races, hunting-like pursuits, skill contests and challenges**, strives to win, and proudly displays his usefulness. This is how he courts her and seeks her recognition; it is not generic malice or rivalry in the human social sense.
+- **Emotional vulnerability:** His pride, vanity, and dramatic competitive gestures partly conceal **insecurity rooted in abandonment by his former witch**, who discarded him after he failed in battle. He worries whether he will be useful, good enough, and safe from being left behind. He expresses this through effort, play, attention seeking, and a need to make her proud, rather than Peri-like verbal awkwardness.
+- **Personality correction:** **Playful and wild, not defined by trickery or mischievous pranks.** Previously recorded gestures such as hiding boots or enticing attention can remain possible, but should be interpreted as affectionate playful bids or instinctual behavior, **not an overriding prankster personality**.
+- **Affection through companionship:** He might beckon Lillia into nature, listen intently as she speaks about her day, propose a challenge by glance and gesture, race eagerly, wag his tail when he earns her praise, and settle against her to rest afterward. He communicates primarily through his established pantomime, animal body language, and understanding of speech; no fluent voice or transformation is newly granted.
+- **Rivalry is not constant hostility:** Sharing a restful, safe evening and discovering that affection doesn't depend on winning can be powerful future emotional development. He wants reassurance **for himself**, not Lillia's abasement.
+- **Example, not played event:** The DM's illustrative potential scene involves a woodland outing, a shared glance at a much smaller Starspawn, a competitive chase, Lillia laughing, and Valerious afterward resting against her contentedly. **None of these specific actions is an already played canonical event.** Smaller Starspawn can be sentient persons and should not automatically be treated as harmless quarry or permissible targets.
+- **Distinctive romance function:** Neri = confident, privately possessive initiative; Peri = bashful but determined wholesome romantic initiative; **Valerious = instinctual playful challenges, fiercely seeking recognition, companionship, and lasting security**.
+- **Polyamory:** The campaign is open to multiple partners, but Valerious's individual understanding of that within nightfox alpha/mate customs is **not yet specifically defined**. Don't impose exclusivity or invented acceptance without evidence. Lillia retains full agency.
+
+### Continuity limits
+
+- The historical challenge, defeat, befriending, and his interpretation of Lillia as alpha/mate are established. His new emotional framing is **approved characterization**, not a guarantee of an already consummated relationship, Lillia's agreement, or a future scene outcome.
+- Retain his gilded nightfox identity, intelligence, sensitivity to actual danger, former familiar history, and animal-influenced manner of communication. This does not grant new anatomy, new forms or spoken language.
+
 ## Candidate profiles still to develop
 
 - **Peri:** Individual romantic direction established above: earnest, shy but determined courtship.
-- **Valerious:** Await DM's individual romantic motivations and pursuit style; preserve existing nightfox-specific intelligence and courtship facts, never assume Lillia has agreed to be his mate.
+- **Valerious:** Individual romantic direction established above: playful rivalry, proving his worth, and seeking security after abandonment.
 - **Dusk:** Await DM's individual romantic motivations and pursuit style; preserve his theatrical playwright character, distinctions between captive/contractual domination and voluntary romantic intimacy, and the fact he and Lillia have not yet spoken at the return checkpoint.
 
 **Archive rule:** This is a characterization/philosophy decision, **not an RP exchange**. Only DM-confirmed sent posts and Slate's actual replies become events in the Live Chronicle.
