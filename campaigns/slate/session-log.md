@@ -18,3 +18,7 @@
 - Lillia suggested a genuine Hero/Legend could be useful to study; later she hinted she might be able to find Peri a Hero, without committing or revealing her identity.
 - **Peri agreed to come with Lillia.** An actual return to Neri, further matrix progress, and Surrender's quest completion or payout are not yet confirmed.
 - The DM plans a future puzzle and subsequent vault RP; this is not a second confirmation of the completed Scales puzzle.
+
+## November 9, 2026 — Meridian vault conclusion (confirmed)
+
+Neri recovered the Drowned Meridian, having cut it from a globe after Lillia located its blue magical signature. Peri chose the Pocket Surveyor Mark III from the two available bonus picks, while Lillia's choice was the Far-Screen. After approximately ten minutes of failed tests, Peri's personal Wakecraft water flask provided a few drops that briefly activated the compass. They prepared a larger pot of water but did not immerse it on-screen. Neri revealed she knew of Dusk through Sella Brightwake and declared their course toward Dusk. Next scene starts at Dusk's cage with companions nearby at the underground tunnel; his reunion with Lillia remains unplayed. Quests not modified.
