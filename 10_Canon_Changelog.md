@@ -1,3 +1,10 @@
+## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
+
+**APPROVED without changes:** The user's immediately preceding approval ratifies the full Light/Medium Quality I–V AR and innate MR grids, QV Full Light/Medium post-quality STR and inherent SPD grid, the proposed smooth workmanship STR reverse-derivation method for lower qualities, stable per-material/class inherent SPD across qualities, and retention of Thornspring/Celestite special DEX gates. Exact tables are in the opening `09_Equipment_and_Economy.md` entry. Existing approved class endpoints, armor coverage rules, shattering, skill powers, Celestite's QV-only restriction and all historical approved Heavy ladders are unchanged. Ordinary MR0 materials do not lose special resistance or enchantments. Next proposed table set is the **remaining Full Heavy quality values and Full Heavy mobility/requirements** and is **not yet approved**. Composites remain deferred and untouched.
+
+---
+
+
 ## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
 
 **APPROVED:** The author's explicit approval covers the last pure-material armor closeout proposals, with corrections to Skyvein and Oathsilver. Full authoritative closeout mechanics and all numerical anchors now appear at the top of `09_Equipment_and_Economy.md`. Approved QV Heavy AR/MR anchors: Glassweave 115/115, Celestite 180/185; associated QV Celestite Light/Medium/Heavy profiles 65/100/18/15/−4%, 115/145/35/18/−12%, 180/185/65/20/−24% in AR/MR/STR/DEX/SPD order. QV full Heavy handling now anchored for Boughsteel 36/−20%, Trufula 19/−12%, Adamantite 91/−30%, Bellcopper 48/−25%, Hearthiron 48/−25%, Glassweave 35/−19%. These STR gates are post-QV workmanship.
