@@ -47,3 +47,11 @@
 - **Peri already possesses and is examining the old damaged kobold research notebook** at that moment, and can suggest fallible new names/basic effects for the vault items. Important parts still need translation and restoration; he does not know the hidden Meridian rules.
 - **Sprigglass kit's three utility supplies, now DM-directed:** Flask of Everslip (persistent nonflammable slippery oil, one large or several minor uses), Slaver's Pin (hypodermic with rapid powerful tranquilizer, constrained single dose), and three doses of perception-enhancing eye drops lasting one hour each. No healing potions included.
 - After the Meridian, choose **two from six additional treasures**, no forced selection. See [Next Three Scenes](Next_Three_Scenes_DM_Packet.md) and [Loot Clue Register](Meridian_Loot_Clue_Register.md).
+
+## Meridian outcome and next scene (confirmed November 9, 2026)
+
+- Drowned Meridian acquired by Neri; Peri briefly activated it using water from his personal Wakecraft flask. Full immersion and other needle functions remain unexplored.
+- Treasure choices are Far-Screen (Lillia) and Pocket Surveyor Mark III (Peri), besides the Meridian. Other options were not claimed.
+- Neri intends to find Dusk and knows of him through Sella Brightwake, exact prior connection unestablished.
+- Next RP begins in Dusk's cage within the Velvet Annex. Companions stay nearby at the underground tunnel to provide support if needed. No new Dusk interaction has happened yet.
+- Keep active Surrender quests unchanged; separate quest tracker was updated elsewhere.
