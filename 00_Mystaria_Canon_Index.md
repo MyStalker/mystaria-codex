@@ -1,3 +1,12 @@
+## Hearthiron ordinary warmth does not spend burst charges — November 9, 2026 (LATEST)
+
+**APPROVED:** Medium and Heavy Hearthiron provide ordinary ambient/shared warmth without expending Furnace Burst charges (Medium 1, Heavy 2). This is negligible low-output draw, not infinite heat. Active burst uses charges. Exact burst radius/Power/recharge math still proposed. Next material: Thornspring.
+
+
+
+## November 9, 2026 — Hearthiron low-output warmth preserves combat charges (LATEST EXPLICIT AUTHOR APPROVAL)
+
+**AUTHOR APPROVES QUILL'S MOST RECENT RECOMMENDATION:** Hearthiron armor, including **Medium and Heavy**, can provide sustained **ordinary low-output radiant warmth without consuming a discrete Furnace Burst combat charge** while the armor has usable background retained heat. This is an intentionally negligible long-duration draw relative to a battle-scale offensive thermal discharge, NOT an exemption from finite heat storage forever and NOT permission to provide unlimited large-area extreme heating. **Medium Furnace Burst remains one charge; Heavy remains two**, each at equal Quality-based damage. Offensive burst costs a charge, high-output active effects meaningfully spend heat, extreme heat/pyromancy can replenish in combat, campfire replenishment is slower and unspecified, and high-output thermal leakage remains dangerous. Light remains the personal warmth/survival specialist. Exact AoE radius, elemental attack Power and Quality damage benchmarks, 70%-of-generalist threshold recharge test, action cost, and full resource conversion are **not newly canonized by this approval**; the previous assistant explicitly called them proposals and the author has not selected their final values. Next discussion target: **Thornspring**, canonically highly elastic and recoil managing, but proposed armor specialties still require design approval.
 ## Hearthiron Medium Furnace Burst confirmed — November 9, 2026 (LATEST)
 
 **APPROVED:** Medium and Heavy Hearthiron emit **equal-power Quality-based thermal AoE Furnace Bursts**; Medium reservoir **1 charge**, Heavy **2 charges**. Medium still provides shared warmth; Heavy has more fuel and high-output contact heat. Light specializes in cold-weather survival. Earlier Quill proposal of 3m radius, draft weapon factor, exact Quality Power ladder, and 70%-of-generalist-wound recharge criterion remain **UNAPPROVED PLACEHOLDERS**. Heat-fuel/recharge philosophy and x3 Fire resistance preserved; no blanket ice vulnerability. See Equipment, Smithcraft, Combat and Changelog.
