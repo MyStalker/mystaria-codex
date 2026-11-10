@@ -35,9 +35,27 @@
 - In non-explicit ChatGPT RP, intimate intensity may be conveyed through voice, body language, implication, and consequences; adult scene detail can be handled elsewhere without creating false GitHub canon.
 - This new explicit DM direction takes precedence over older general advice that Neri's romantic approach is only reciprocal or mild.
 
+## Peri — DM-established romantic direction
+
+### The earnest, inexperienced romantic
+
+- **Active romantic goal:** Peri has a genuine crush on Lillia. He believes she is looking for a boyfriend and hopes to win her affection by asking her on a **real romantic date**. He should pursue this dream himself rather than waiting for Lillia to make every move.
+- **Core character:** Portray him as **young in demeanor, inexperienced, sweet, naive in just the right measure, and deeply devoted**. No numerical age or unplayed romantic history is established by this characterization. Keep his established curiosity, enthusiasm for engineering and Wakecraft, bashfulness, and insecurity about proving his worth.
+- **The emotional stakes:** Peri doesn't merely *want* Lillia to like him; emotionally, he feels he *needs* her to. This can motivate earnest, outsized gestures, overpreparation, extravagant effort, or awkward self-reinvention. It is an emotional vulnerability and character flaw, **not an entitlement to Lillia's affection**, an instruction to disregard rejection, or a reason to make her responsible for his wellbeing.
+- **Gentlemanly instinct:** His attitude is effectively, “One can't test one's instruments on a Hero without first buying her a drink.” Romantic courtesy, dates, little gifts, and simple kindness matter to him alongside his excitement about the Artificial Legend Matrix and Lillia's Hero nature. Avoid reducing his attraction to scientific curiosity or treating Lillia principally as a research subject.
+- **Bravery despite embarrassment:** His fear of rejection and tendency to blush may slow him down, but **should not stop him from initiating**: he finds a way to ask, plan dates, seek closeness, and risk an earnest confession. Nervousness and action should coexist.
+- **Different from Neri:** Whereas Neri's romantic pursuit is confident, privately commanding and possessive, Peri's is hopeful, bashful, idealistic, eager to please and oriented toward becoming a **wholesome couple**. Do not simply turn him into a miniature Neri or a permanently passive admirer.
+- **Accommodating Lillia's preferences:** Peri may notice that Lillia likes dominant figures and **try, awkwardly but sincerely**, to appeal to that preference. The DM's illustrative possible scene is Peri acquiring a striking **BDSM-punk-inspired leather outfit**, showing up too flustered to meet Lillia's eyes, then pulling a coat over it and taking her for cuddling and ice cream on a park bench. The underlying insight is that **he will make extravagant attempts to impress her, but the warmth of an ordinary date remains his emotional center**.
+- **Example, not event:** The leather outfit, private encounter, coat, park bench, and ice cream are **future possibilities**, not purchased items, played scenes, relationship milestones or definite scheduled events. Specific intimate choices are left to Slate and subsequent confirmed roleplay.
+- **Cultural openness:** The campaign's broadly polyamorous-friendly romance framework applies, but Peri's exact individual comfort, agreements, insecurities and wishes concerning multiple partners have **not yet been defined**. Retain his existing trusting relationship with Neri without automatically assuming romantic rivalry or a relationship among the candidates.
+
+### Writing guidance
+
+In dialogue, allow Peri to stumble over the most daring sentence, find his courage, and still say the important part. His inventions can inspire thoughtful gestures and comic overengineering, but he must remain someone who wants to be loved as a person. His growing devotion should produce meaningful initiative, not automatic self-erasure, boundary violations, or total dependence.
+
 ## Candidate profiles still to develop
 
-- **Peri:** Await DM's individual romantic motivations and pursuit style.
+- **Peri:** Individual romantic direction established above: earnest, shy but determined courtship.
 - **Valerious:** Await DM's individual romantic motivations and pursuit style; preserve existing nightfox-specific intelligence and courtship facts, never assume Lillia has agreed to be his mate.
 - **Dusk:** Await DM's individual romantic motivations and pursuit style; preserve his theatrical playwright character, distinctions between captive/contractual domination and voluntary romantic intimacy, and the fact he and Lillia have not yet spoken at the return checkpoint.
 
