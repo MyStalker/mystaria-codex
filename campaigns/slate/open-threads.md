@@ -3,7 +3,7 @@
 - **Treasure map:** What is the treasure, and how will Lillia reach it?
 - **Ravine:** Will Lillia explore either side passage for a grappling hook, or improvise another crossing?
 - **Neri's crew / Peri:** Lillia met Peri and he agreed to go with her. Has he physically returned to Neri? How will Neri respond?
-- **Exposure / Warmth for Two:** Peri has Lillia's entire Emberwrap. Lillia is exposed to near-freezing conditions; does she obtain warmth or clothing again? Has Surrender acknowledged quest completion?
+- **Exposure / clothing:** Peri has Lillia's entire Emberwrap. Is Lillia adequately warm or clothed? **Warmth for Two has been resolved and retired by the DM; do not treat it as an active quest or seek new quest completion.**
 - **Dusk:** What are his next moves in the contest among bloodlord aspirants?
 - **Valerious and mistfoxes:** What, if any, lasting relationships or consequences follow their encounters?
 - **Surrender:** Further role and motives are unknown.
