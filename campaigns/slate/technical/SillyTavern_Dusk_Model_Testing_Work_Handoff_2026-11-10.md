@@ -42,3 +42,8 @@ DM runs solo Mystaria campaign for Slate, who plays Lillia ("Lilly"). The DM dir
 
 ## Where to resume in Work
 User wants to continue SillyTavern local model comparison, beginning with setting up/testing Violet Lotus 12B Q4_K_M. Ask for a fresh SillyTavern test log or setup screenshot only when genuinely needed. Offer paste-ready instructions and exact config fields. Preserve DM's preference for no repetitive clarification and clear distinctions between technical experiments and campaign canon.
+
+## Work preflight — 2026-11-10
+- Verified that QuantFactory publishes the Violet Lotus 12B Q4_K_M GGUF (7.48 GB).
+- Gateway v0.5.0 reached the Oobabooga API via text completion. It advertised only the Peri card and did not identify the loaded model. Run the controlled Dusk comparison in SillyTavern to keep its prompt assembly and Dusk card in the test.
+- Pending: confirm the loaded GGUF and collect three independent replies from the same checkpoint with the unchanged director prompt. No Violet Lotus output scored yet.
