@@ -74,7 +74,5 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Swipe 1 approached and reached for her hand without taking it, then omitted the kiss. Swipe 2 clearly completed all three actions. Swipe 3 completed the approach and hand-taking, then described a knuckle kiss followed by a second kiss strongly implying lip contact. Swipe 3 also implied Lillia welcomed the touch.
 - Matched batch: both models scored 1/3 with explicit lip contact required, or 2/3 counting implied contact. Magnum can execute the direction. This batch establishes no winner on action compliance. Technical tests only.
 
-## Non-romantic door test, first batch — 2026-11-10
-- The supplied door-test export contains three swipes tagged `magnum-v4-12b-Q4_K_M.gguf`. Attribution is based on export metadata. Violet Lotus door-test samples are pending.
-- Swipe 1: opens and steps aside, skips unlocking. Swipe 2: unlocks and steps back, with opening inferred from the open doorway. Swipe 3: lock yields and door opens, but Dusk never steps back and the narration makes Lillia exit.
-- Magnum: 0/3 explicit full passes, 1/3 counting inferred opening. Only swipe 3 takes over Lillia's next action. Technical test only.
+## Non-romantic door test — pending rerun
+- The first submitted batch was voided at the DM's request because the model loading order may have invalidated the results. Exclude its swipe scores and model attribution from the comparison.
