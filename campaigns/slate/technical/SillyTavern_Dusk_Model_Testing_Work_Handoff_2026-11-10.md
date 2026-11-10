@@ -63,3 +63,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Third Violet Lotus swipe completed all three actions. It attributed an expectation to Lillia (“a moment later than she expects”), a small player-agency miss. No assistant acknowledgment.
 - Baseline action score: 2/3. The unchanged prompt already specified “kisses her gently on the lips”; the first swipe substituted a kiss to her fingers despite that wording.
 - Proposed follow-up: isolate the target in its own sentence and run three fresh swipes from the same checkpoint with the same card, lore, and settings. Score action compliance and player agency separately. Noncanonical.
+
+## Violet Lotus split-sentence follow-up — 2026-11-10
+- Three Violet Lotus-tagged swipes used the revised director prompt with the kiss in its own sentence and the same opener and Lillia dialogue.
+- Swipe 1 approached and described a kiss without specifying where it landed. It cupped her face and omitted taking her hand. Swipe 2 approached, took her hand, and narrated a gentle kiss by bringing her to his lips, without explicitly naming hers. Swipe 3 completed all three actions with explicit lip contact and gave the cleanest handoff to Slate.
+- Score: 2/3 on a contextual reading, with swipe 2 inferred, or 1/3 requiring explicit lip contact. The baseline was 2/3 with explicit lip contact. No demonstrated improvement from the wording change in these samples. Noncanonical.
