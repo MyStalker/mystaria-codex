@@ -1,3 +1,9 @@
+## November 10, 2026 — Suit-wide ceramic armor durability (LATEST AUTHOR APPROVAL)
+
+All ceramic armor, including composites, uses one suit-wide Intact → Cracked → Shattered track. Cracked retains full defense. Shattering affects the ceramic protection of the entire suit at once, without separate location or panel condition. Use the existing physical-hit severity triggers. Any surviving nonceramic backing protection is defined by the approved construction. No new composite ratings are approved by this ruling.
+
+---
+
 ## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
 
 The author approved the complete Full Heavy pure-material AR, innate MR, STR, and inherent SPD tables, including Thornspring's DEX ladder, as working calibration. See `09_Equipment_and_Economy.md` for the approved values and Heavy workmanship convention.

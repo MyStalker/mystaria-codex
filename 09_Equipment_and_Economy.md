@@ -1,3 +1,9 @@
+## November 10, 2026 — Suit-wide ceramic armor durability (LATEST AUTHOR APPROVAL)
+
+All ceramic armor, including composites, uses one suit-wide Intact → Cracked → Shattered track. Cracked retains full defense. Shattering affects the ceramic protection of the entire suit at once, without separate location or panel condition. Use the existing physical-hit severity triggers. Any surviving nonceramic backing protection is defined by the approved construction. No new composite ratings are approved by this ruling.
+
+---
+
 ## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
 
 **Approved working calibration.** Ratings below apply to the covered surface actually struck. Single zeros apply throughout the material's available qualities. Innate MR is separate from specific resistances and active abilities. Celestite exists only at Quality V.
