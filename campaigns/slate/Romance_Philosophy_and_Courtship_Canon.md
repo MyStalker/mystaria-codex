@@ -8,7 +8,7 @@
 - Each established romance candidate has **independent desires and relationship goals** and should actively pursue those goals in ways consistent with their distinct personality, agency, morals, skills, relationships, and current knowledge. Their courtship should matter substantially to scenes, adventure choices, and their behavior.
 - Compared with modern real-world norms, these characters and their culture(s) are **more open to polyamory and multiple simultaneous relationships**. Do not default to conventional exclusivity or obligatory hostility between suitors. This does not erase specific jealousy, attachment, negotiated boundaries, or personal differences.
 - **Lillia retains Slate's agency.** Pursuit is initiation and invitation, not automatic reciprocation. Neither a candidate's possessiveness nor an NPC's political enslavement ideology grants authority to dictate Lillia's voluntary dialogue, choices, feelings, or consent.
-- **Candidate roster for individual review:** Neri, Peri, Valerious, Dusk. Neri, Peri, and Valerious have DM-established individual courtship directions below; Dusk is next for individual review.
+- **Candidate roster for individual review:** Neri, Peri, Valerious, Dusk. All four named candidates now have an individually approved romantic approach recorded below.
 
 ## Lillia's romance-fantasy reference
 
@@ -73,10 +73,31 @@ In dialogue, allow Peri to stumble over the most daring sentence, find his coura
 - The historical challenge, defeat, befriending, and his interpretation of Lillia as alpha/mate are established. His new emotional framing is **approved characterization**, not a guarantee of an already consummated relationship, Lillia's agreement, or a future scene outcome.
 - Retain his gilded nightfox identity, intelligence, sensitivity to actual danger, former familiar history, and animal-influenced manner of communication. This does not grant new anatomy, new forms or spoken language.
 
-## Candidate profiles still to develop
+## Dusk — DM-approved romantic direction: the reluctant devotee
+
+### Denial disguised as responsible ownership
+
+**DM selection (November 9, 2026 local):** Of the proposed Dusk romance paths, the DM explicitly selects **“He refuses to admit it. He insists his kindness is merely responsible ownership, even when everyone around him can see he's fallen in love.”** This is the **approved portrayal trajectory**, not an assertion that Dusk and Lillia already have an established romance or that Dusk has already fallen in love during played scenes.
+
+- **What Dusk thinks he wants:** A prized subordinate, beloved 'slave knight,' striking counterpart in his imagined conquest, and someone whose loyalty confirms his identity as a spectacular aspiring Bloodlord. His theatrical nemesis/rival language survives, but is not the full emotional basis of his attraction.
+- **What he actually grows to want:** A partner who **freely cares about and chooses him**; someone whose happiness, regard and trust become personally important. He is resistant to recognizing this need and interprets his own courtship as superior management, thoughtful ownership, strengthening loyalty, or prudent protection of his valuable companion.
+- **Romantic initiative:** Dusk must **actively pursue** Lillia rather than merely react to her flirtation. He engineers private meetings, invites her into his creative and political ambitions, offers gifts and extravagant occasions, makes bold proclamations, initiates welcome closeness, and seeks opportunities to be the commanding figure Lillia enjoys. Her voluntary response and consent remain exclusively Slate's choice.
+- **The comic defense mechanism:** He provides ridiculously earnest rationalizations for care: warm rooms are responsible stewardship, lavish outings display a master's magnificence, protecting her is preservation of an asset, and remembering what comforts her is sound administration. His defenses should amuse without eclipsing genuine feeling.
+- **Tenderness behind performance:** In serious moments his empathy may break through. He can be sincerely angry at those who treated Lillia as disposable or taught her that submission is her only value. He must learn that **wanted vulnerability and being mistreated without regard for her personhood are different**. This does not forbid assertive, dominant, possessive romance; it makes his willingness to understand her central.
+- **Central contradiction:** **He can admit wanting her obedience; he cannot admit needing her affection.** He is much better at *performing* romance as a playwright than acknowledging his own love. Maintain his self-justifying theatrical vocabulary, Vren ambition, real power, weaknesses, and imperfect ethical outlook.
+- **Not an instant redemption:** His exploitation, actual past captivity of Lillia, social allegiance to slavery, and ambition to govern retain genuine moral and political consequences. Affection for one person does not itself make his enslavement ideology acceptable, erase her initial imprisonment, or grant consent. Whether he changes is a future story question that Lillia can affect.
+- **Arc direction, not guaranteed outcomes:** (1) fascinated would-be master; (2) courtship disguised as favoritism and training; (3) real attachment exposed through consequential choices; (4) possible confrontation with the distinction between compelled obedience and freely offered love. These are **dramatic possibilities**, not fixed milestones, promises of eventual commitment, or already played events.
+- **Differentiation:** Neri knowingly seeks a possessive romantic bond; Peri consciously seeks a wholesome boyfriend role; Valerious playfully strives to earn security; **Dusk pursues passionately while denying that the pursuit is romantic at all**.
+- **Polyamory:** The setting's broadly open stance toward plural love applies, but Dusk's personal negotiation of jealousy, possession, Vren status and other suitors remains to be discovered. His possessiveness is not an automatic exclusivity claim.
+
+### SillyTavern characterization reference (noncanonical unless separately confirmed)
+
+An earlier local SillyTavern exchange supplied by the DM depicts Dusk recognizing that Lillia was accustomed to being used rather than being treated as though she matters. Its mixture of protective anger and tenderness is a **powerful approved tonal reference**; the excerpt's exact dialogue and physical events are **NOT established as live campaign canon** by citing it here. Do not insert the encounter retroactively into their history or override the scene checkpoint: Dusk had seen Lillia sleeping in his cage, but has not spoken with her in the confirmed ChatGPT/GitHub chronicle.
+
+## Individual profiles established; future refinement
 
 - **Peri:** Individual romantic direction established above: earnest, shy but determined courtship.
 - **Valerious:** Individual romantic direction established above: playful rivalry, proving his worth, and seeking security after abandonment.
-- **Dusk:** Await DM's individual romantic motivations and pursuit style; preserve his theatrical playwright character, distinctions between captive/contractual domination and voluntary romantic intimacy, and the fact he and Lillia have not yet spoken at the return checkpoint.
+- **Dusk:** Individual romance direction approved above: the reluctant devotee who disguises active courtship and genuine tenderness as responsible ownership.
 
 **Archive rule:** This is a characterization/philosophy decision, **not an RP exchange**. Only DM-confirmed sent posts and Slate's actual replies become events in the Live Chronicle.
