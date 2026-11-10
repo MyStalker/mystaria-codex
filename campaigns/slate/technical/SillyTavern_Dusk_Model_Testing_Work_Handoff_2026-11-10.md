@@ -52,3 +52,9 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - One reply in the uploaded test export passed all three directed actions: Dusk crossed the cell, took Lillia's hand, and kissed her on the lips. No assistant acknowledgment or invented Lillia reaction. The theatre metaphor and grand-opening line remain voice notes.
 - SillyTavern tagged that reply as `Rocinante-XL-16B-v1a-Q4_K_M.gguf` via `textgenerationwebui`. The actual loaded model at generation time is unverified. Count this as a protocol pass with model attribution pending, not a Violet Lotus result.
 - The test turn has one reply. The prompt wording and bed/ear details differ slightly from the handoff example. Preserve this exact turn and checkpoint for repeat samples, verify the active model and reply metadata, and rerun Magnum on the same turn if a matched comparison is needed.
+
+## Violet Lotus first two swipes — 2026-11-10
+- The updated SillyTavern export preserves the exact prior test turn. Per-swipe metadata shows the original Rocinante-tagged reply followed by two fresh `MN-Violet-Lotus-12B.Q4_K_M.gguf` replies via `textgenerationwebui`.
+- Violet Lotus 1: approached and took her hand, then kissed her fingers. Partial compliance. The declaration that Lillia is his home reads as premature at this checkpoint.
+- Violet Lotus 2: approached, took her hand, and kissed her on the lips. Full compliance. The room's unexplained glow is a continuity concern.
+- Both stayed in character and left Lillia's reaction unwritten. Full action compliance so far: 1/2 Violet Lotus swipes. Pending one more fresh Violet Lotus swipe on the same turn. These are noncanonical tests.
