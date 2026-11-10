@@ -98,3 +98,6 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Both replies tagged Magnum v4 12B Q4_K_M. Turn 1 replayed crossing to the chair and sitting despite the fixed opening, but conveyed care as duty, stayed within two spoken lines, and offered a hand without making contact.
 - Turn 2 honored the quieter pace, stayed seated, and ended with one short line (“I am here”). “Eyes meet hers” lightly implies a reciprocal look. One run only, noncanonical.
 - For fixed blocking, keep DM-authored action in the final draft and request dialogue only, or cue the first new beat from the established seated position.
+
+## Magnum dialogue-only follow-up
+- All three exported swipes include narration despite the instruction to write only Dusk's next spoken line (0/3 format passes). The selected swipe explicitly replays pulling up the chair and sitting. Inspect the assembled prompt or move the task to a separate dialogue drafting chat with the seated position stated as context. Noncanonical.
