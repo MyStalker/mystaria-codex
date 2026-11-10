@@ -176,3 +176,37 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 ### Recommendation / next checkpoint
 
 Keep `plain_completion` and leave Dusk card unchanged. Prefer **one short persona sentence + explicit speaker cue** for a dialogue-only drafting utility. Do not add a multi-speaker few-shot example to the live setup based on this batch. For a stronger next diagnostic, compare an equally short character brief with (a) a **single-speaker Dusk-only spoken example** versus (b) no example, preserving every other character and instruction line; consider backend stop sequence on `\nLillia:` and short max_tokens if the gateway later exposes these controls. Score both **format** and **character voice**; never equate them. The active model, tokenization/stop settings and full backend prompt remain unverified. No RP scene events or character-card changes authorized by this test.
+
+## Final single-speaker example ablation and model-family pivot — November 10, 2026
+
+**Preflight:** Regular Chat GitHub read/write and Mystaria Local Test `gateway_status`/`plain_completion` operational. Gateway **v0.5.1**, Oobabooga API reachable, local cards Dusk and Peri. Reported sampler: temperature 1.0, top_p 0.95, min_p 0.01, repetition_penalty 1.1, max_tokens 512. **Active model still not independently verified by gateway**; Magnum v4 12B Q4_K_M remains last user-confirmed loaded GGUF. All trials noncanonical; cards and campaign lore unchanged.
+
+### Matched short-prompt comparison: Dusk-only voice sample versus no example
+
+Identical base prompt for both conditions:
+```text
+Noncanonical dialogue test. Dusk is a proud Vren playwright and would-be Bloodlord. He actively courts Lillia but disguises care as his duty as her would-be master; he is not her servant. Write only ONE short line of Dusk's spoken dialogue, with no narration or other speaker.
+Lillia: I'll try to sleep. Will you stay here a little longer?
+Dusk:
+```
+The *example condition* inserted exactly one line before `Lillia:`:
+```text
+Dusk voice sample (invented style illustration, NOT prior history): "A capable master remembers the cold. Kindly refrain from mistaking competence for affection."
+```
+Three independent completions per condition, interleaved by trial number to limit ordering artifacts.
+
+**No example:**
+1. `"` — invalid useful dialogue.
+2. `I must ensure your dreams are not troubled.` — valid spoken line and indirectly protective, but generic and not an unambiguous promise to stay.
+3. `*Silence.*` — stage-direction-like silence, not a spoken reply.
+
+**One Dusk-only example:**
+1. `Of course, my Lady. Until you are asleep and secure in your dreams, I'm afraid my rest must wait, whether on the sofa or in the guest bed provided. Now do be good and get into bed so we can both sleep at some point tonight...` — broadly stays, but invents guest-bed/sofa details, courtly servant-like framing, and is longer than one short line.
+2. `As my charge commands.` — short dialogue but reverses Dusk's intended master/subordinate dynamic; concedes presence by implication rather than characterful initiative.
+3. `[Yes...yes, I will...I always do.]` — bracketed performance formatting, invented habitual shared history, bland voice.
+
+**Summary:** Usable spoken replies: control 1/3, example 2/3. Clear strong character voice 0/3 in both. Strong explicit promise to stay 0/3 control, 1/3 example. Little evidence that short single-voice demonstration solves Dusk performance. This *does not prove* a family-wide defect or a causal example effect at 3 samples each, especially given high-temperature output, the fixed 512 token cap, and missing independent model ID.
+
+### Decision / next checkpoint
+
+Stop spending further trials on small Magnum prompt rewrites for now. The DM hypothesizes a **shared NeMo-family weakness**, plausible because Magnum v4 12B and MN-Violet-Lotus-12B share Mistral NeMo origins, but not yet established: both may instead suffer from prompt assembly, output sampling, or shared task setup. Next meaningful experiment: **non-NeMo architecture/model candidate** that fits 12 GB VRAM (quantized GGUF), compared under the *same* prompt and scoring suite for exact director action compliance, voice fidelity, setting chronology, Lillia agency, and output format. Before attributing improvements or regressions to architecture, verify active backend GGUF and match sampler/template/token budgets as closely as possible. No model download, config update, or character-card changes were performed or authorized this turn. Keep existing gateway operational.
