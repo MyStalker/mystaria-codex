@@ -101,3 +101,6 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 
 ## Magnum dialogue-only follow-up
 - All three exported swipes include narration despite the instruction to write only Dusk's next spoken line (0/3 format passes). The selected swipe explicitly replays pulling up the chair and sitting. Inspect the assembled prompt or move the task to a separate dialogue drafting chat with the seated position stated as context. Noncanonical.
+
+## Direct gateway dialogue test
+- After the DM renamed the card to `Dusk.json` and restarted the gateway, v0.5.0 listed Dusk and generated a reply through Oobabooga. The output included narrated framing before the spoken line, so it failed dialogue-only format. The gateway labels the output ROCINANTE, but status does not identify the active backend model. Treat this as a noncanonical gateway test with model attribution unverified.
