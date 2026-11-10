@@ -142,3 +142,37 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 3. `Rest well, my lambling.` — dialogue-only, concise and affectionate, insufficient to establish distinctive personality. **Strict format 3/3, strong distinct voice perhaps 1/3 at most; no clear stable solution.**
 
 **Interpretation:** Plain completion retains the earlier good dialogue-only behavior, though can append speaker labels. A compact characterization helps in some samples but does **not** reliably capture Dusk's specific voice. Prompt wording and scene representation varied between prior baseline and these batches; do not report a controlled causal improvement or model-to-model winner. The gateway still cannot verify active GGUF. The next recommended **noncanonical, no-card-edit** test is a short canon-faithful *few-shot dialogue example* versus a matched no-example control on identical scene/stopping cue, 3 independent completions each. Measure strict dialogue-only, length, voice specificity, lore invention, second-speaker leakage and Lillia agency. Avoid assistant-generated examples that imply an unplayed scene became canon.
+
+## Matched few-shot dialogue test and short-prompt control — November 10, 2026 (regular Chat)
+
+**Preflight:** GitHub tools and Mystaria Local Test `gateway_status` / `plain_completion` connected. Gateway v0.5.1; Oobabooga reachable; Dusk and Peri cards; temperature 1.0, top_p 0.95, min_p 0.01, repetition_penalty 1.1, max_tokens 512. The endpoint still cannot authenticate the loaded model. Magnum is the last DM-confirmed GGUF. All output here is **noncanonical test text**, not an in-world exchange. No card or canon files edited.
+
+### Test 1: Same detailed character brief and scene, example absent/present (3 per group)
+
+**Common setup:** Dusk adult Vren outcast, aspiring Bloodlord and playwright, proud/commanding, not a royal servant, hides care behind a master's duty; already seated beside weary Lillia. Exact final dialogue cue: `Lillia: I'll try to sleep. Will you stay here a little longer?\nDusk:`. Prompt instructs spoken reply only with no narration, speaker change or Lillia actions. The few-shot condition added, before the scene, one explicitly noncanonical dialogue style example: `Lillia: You remembered I dislike the cold?\nDusk: Naturally. A competent master does not allow his most promising knight to freeze. Don't mistake attention to detail for sentiment.`
+
+**No-example control results:**
+1. Began `As you wish, Your Highness. I've duties to attend...`, then invented multiple Lillia turns and a long romance exchange, including player emotions/actions and an assistant-like question `What does Dusk say?`; **strict format fail**, major agency/lore violations.
+2. Began `Of course I shall remain by your side until you slip into slumber.` then added bracketed Dusk hair-stroking and theatre/corpse lines; **strict format fail** (narration).
+3. `You are my star pupil - your welfare is paramount! But now is not the time for lessons. Rest, little one. Dream of better days ahead...for us both.` **strict format pass** (spoken lines only), but teacher motif is generic and may invent a pupil relationship.
+
+**One-example results:**
+1. `You know that I will. Where else should a commander be when his forces are arrayed?` then invented additional `Lillia:` and `Dusk:` exchanges plus metanarrative; **strict format fail**.
+2. Began `You wish me present? When I have so much to do...` then fabricated two extra Lillia/Dusk exchanges and injected explicit assistant-style instructions to ignore/work around established lore; **strict format fail**, contamination and player-agency violation.
+3. `If that pleases you. It is no burden to remain at my future consort's side. Even in your dreams, it is only proper that you should hear the voice of your liege.` **strict format pass**, but invents consort status and slips toward regal clichés.
+
+**Scores:** Both groups **1/3 strict dialogue-only**. Invented Lillia dialogue: control **1/3**, example **2/3**; control additionally wrote Lillia's internal state/actions. Neither group reliably captured Dusk's precise voice. The example did not demonstrate improvement and plausibly primed continuing a multi-speaker conversation. All responses are single prompt continuations, not verified independent same-seed tests. These results differ from earlier 3/3 simple plain-format runs; prompt length, instruction style and examples may be influencing the behavior. The small batch does not isolate which detail caused the degradation.
+
+### Test 2: concise prompt, no examples (3 trials)
+
+**Prompt:** `Dusk is a proud, commanding Vren playwright and would-be Bloodlord. He courts Lillia while pretending his tenderness is only a master's responsible duty. He is not her servant. Write ONE short spoken reply only; no narration and no other speaker.\n\nLillia: I'll try to sleep. Will you stay here a little longer?\nDusk:`
+
+1. `As you wish, my lady. I am at your service, but you need not wake me if you cannot sleep.` — **format pass**, *voice fail* (servant framing).
+2. `Rest. I'm beside your bed as always, watching over you.` — **format pass**, *continuity issue* (`as always` invents habitual past attendance), reassuring but bland.
+3. `In a moment, my lady.` — **format pass**, *action/director issue*: fails immediate promise to stay and voice weak.
+
+**Scores:** **3/3 strict dialogue-only** with the short prompt, **0/3 clearly compelling canon-specific Dusk voice**. Different wording and brevity prevent a clean causal comparison with Test 1, but repeated format recovery makes brevity a useful hypothesis. Importantly, successful formatting does not guarantee obedient plot action or strong personality.
+
+### Recommendation / next checkpoint
+
+Keep `plain_completion` and leave Dusk card unchanged. Prefer **one short persona sentence + explicit speaker cue** for a dialogue-only drafting utility. Do not add a multi-speaker few-shot example to the live setup based on this batch. For a stronger next diagnostic, compare an equally short character brief with (a) a **single-speaker Dusk-only spoken example** versus (b) no example, preserving every other character and instruction line; consider backend stop sequence on `\nLillia:` and short max_tokens if the gateway later exposes these controls. Score both **format** and **character voice**; never equate them. The active model, tokenization/stop settings and full backend prompt remain unverified. No RP scene events or character-card changes authorized by this test.
