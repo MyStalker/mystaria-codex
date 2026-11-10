@@ -108,3 +108,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 ## Magnum through the gateway
 - DM confirmed Magnum loaded in Oobabooga. Gateway v0.5.0 continued labeling each response ROCINANTE, so attribution rests on DM confirmation rather than gateway metadata.
 - Three identical dialogue-only trials with Dusk's card all added narration (0/3), matching the SillyTavern batch. Both paths include roleplay framing, so this does not isolate the model from the prompt wrapper. Noncanonical.
+
+## Magnum plain Notebook control
+- Three user-reported completions after the `Dusk:` cue contained spoken dialogue only, without stage directions or replaying the chair action (3/3 dialogue-only versus 0/3 in each roleplay route). The third completion was several sentences in one spoken turn.
+- Voice varied: invented soldier-parent backstory, plain reassurance, and a gentle invitation to rest. None strongly combined reassurance with Dusk's pride and sense of duty.
+- Notebook removed roleplay framing and added a speaker cue. The test does not isolate those changes. A useful next gateway control is a plain text-completion mode with a speaker cue and no card or roleplay wrapper. Noncanonical.
