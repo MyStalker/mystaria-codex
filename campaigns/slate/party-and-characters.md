@@ -11,7 +11,7 @@
 ## Valerious
 - **Identity:** Level-2 gilded nightfox Starspawn, at least approximately 300 years old, intelligent and strongly animal-influenced.
 - **Relationship:** Lillia defeated and befriended him. He privately regards her as his alpha and prospective mate under nightfox courtship custom; **Lillia has not agreed to a relationship**.
-- **History and personality:** Former familiar abandoned by a witch; vain, loyal, expressive and wary of mortals. He communicates through pantomime and gestures, not confirmed speech. Some earlier cave encounters involved seducing other foxes.
+- **History and personality:** Former familiar abandoned by a witch; proud, loyal, expressive, **wildly playful rather than a prankster**, and wary of mortals. He actively challenges Lillia, seeking both to prove his worth and to feel secure against abandonment. He communicates through pantomime and gestures, not confirmed speech. Some earlier cave encounters involved seducing other foxes. See [romance and courtship canon](Romance_Philosophy_and_Courtship_Canon.md).
 - **Player save status:** The November 10 character save marks Valerious **Uninjured** at level **2** with **STR 14 / DEX 15 / END 14 / INT 15 / SPD 12**; earlier chronicle described him as injured and blanket-wrapped. Treat the sheet as the newest recorded mechanical condition while preserving earlier scene history.
 - **Extended canon:** [Dusk_and_Valerious_Character_Canon.md](Dusk_and_Valerious_Character_Canon.md).
 
