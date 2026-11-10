@@ -1,0 +1,108 @@
+{
+  "format": "Mystaria Lillia Ledger",
+  "version": 2,
+  "exportedAt": "2026-11-10T00:50:20.297Z",
+  "character": {
+    "level": 5,
+    "xp": 4,
+    "unspentAttr": 0,
+    "stats": {
+      "STR": 12,
+      "DEX": 18,
+      "END": 21,
+      "INT": 16,
+      "SPD": 21
+    },
+    "injury": "Uninjured",
+    "injuryNotes": "",
+    "handMP": 0,
+    "vesselMP": 0,
+    "sp": 4,
+    "skillRanks": {
+      "Mana Harvest": 2
+    },
+    "foxName": "Valerious",
+    "foxLevel": 2,
+    "foxStats": {
+      "STR": 14,
+      "DEX": 15,
+      "END": 14,
+      "INT": 15,
+      "SPD": 12
+    },
+    "foxInjury": "Uninjured",
+    "foxMP": "",
+    "foxNotes": "Gilded nightfox, befriended by Lillia.",
+    "foxStatuses": "",
+    "foxAbilities": [
+      {
+        "id": "r4tmyu1h",
+        "name": "Nip",
+        "cost": "",
+        "description": "Effective Melee bite"
+      },
+      {
+        "id": "fsswltxb",
+        "name": "Entropy orb",
+        "cost": "1",
+        "description": "Orb or damaging black mana"
+      }
+    ],
+    "items": [
+      {
+        "id": "map",
+        "name": "Frayed treasure map",
+        "quantity": 1,
+        "type": "Quest item",
+        "notes": "Faded map of an underground cave network. Purchased for 3 Gems from Surrender."
+      }
+    ],
+    "rewards": [
+      {
+        "id": "r1",
+        "name": "Level-2 nightfox defeated",
+        "gems": 1,
+        "xp": 0
+      },
+      {
+        "id": "r2",
+        "name": "Level-2 wispfox #1 defeated",
+        "gems": 1,
+        "xp": 0
+      },
+      {
+        "id": "r3",
+        "name": "Level-2 wispfox #2 defeated",
+        "gems": 1,
+        "xp": 0
+      },
+      {
+        "id": "r4",
+        "name": "Level-2 wispfox #3 defeated",
+        "gems": 1,
+        "xp": 0
+      },
+      {
+        "id": "r5",
+        "name": "Frayed treasure map purchased",
+        "gems": -3,
+        "xp": 0
+      }
+    ],
+    "quests": [],
+    "relationshipFox": "A nightfox whom Lillia befriended during the cave expedition.",
+    "relationshipSurrender": "Lillia is a chosen Moontouched Warlock of Surrender.",
+    "otherRelationships": "",
+    "relationships": [],
+    "paidSkillRanks": {
+      "Mana Reach": [],
+      "Mana Power": [],
+      "Mana Harvest": [
+        1
+      ],
+      "Mana Imbuement": [],
+      "Mana Dominion": []
+    },
+    "adventureNotes": "Exploring a Starspawn-filled cave network over an ancient kobold workshop in the Scarlands."
+  }
+}
