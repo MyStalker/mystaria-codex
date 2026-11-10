@@ -76,3 +76,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 
 ## Non-romantic door test — pending rerun
 - The first submitted batch was voided at the DM's request because the model loading order may have invalidated the results. Exclude its swipe scores and model attribution from the comparison.
+
+## Non-romantic door test, Magnum rerun — 2026-11-10
+- Fresh export contains three swipes tagged `magnum-v4-12b-Q4_K_M.gguf` on the requested door-test prompt. Scored unlocking, opening, and stepping back as the three requested beats.
+- Swipes 1 and 2 completed all three. Swipe 2 clearly conveys unlocking through the lock clicking before the door swings wide. Swipe 3 unlocked and opened the door, then gestured without stepping back. All three leave Lillia's exit and reaction to Slate.
+- Magnum scored 2/3 full passes on the rerun. Violet Lotus rerun pending. The voided first batch is excluded. Technical test only.
