@@ -113,3 +113,8 @@ User wants to continue SillyTavern local model comparison, beginning with settin
 - Three user-reported completions after the `Dusk:` cue contained spoken dialogue only, without stage directions or replaying the chair action (3/3 dialogue-only versus 0/3 in each roleplay route). The third completion was several sentences in one spoken turn.
 - Voice varied: invented soldier-parent backstory, plain reassurance, and a gentle invitation to rest. None strongly combined reassurance with Dusk's pride and sense of duty.
 - Notebook removed roleplay framing and added a speaker cue. The test does not isolate those changes. A useful next gateway control is a plain text-completion mode with a speaker cue and no card or roleplay wrapper. Noncanonical.
+
+## Gateway v0.5.1 live plain completion test
+- Gateway v0.5.1 and the new plain_completion tool verified reachable. Ran the exact Notebook prompt three times, ending at Dusk:. All three returned dialogue only (3/3), with no chair action replay.
+- Outputs: “Rest well, Your Grace. I shall remain.” / “As my queen commands.” / “Of course. I remain, on duty.” First two invented royal address and leaned toward serving Lillia. Third met format but was stiff. Compact prompt preserves format while underspecifying character voice.
+- Backend model presumed Magnum from latest DM confirmation; gateway does not verify active model. Sampler follows gateway settings, not independently verified against Notebook settings. Next experiment: retain plain completion path and add a compact approved Dusk personality brief, before considering a full-card ablation. Noncanonical.
