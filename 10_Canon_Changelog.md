@@ -1,3 +1,11 @@
+## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
+
+The author approved the complete Full Heavy pure-material AR, innate MR, STR, and inherent SPD tables, including Thornspring's DEX ladder, as working calibration. See `09_Equipment_and_Economy.md` for the approved values and Heavy workmanship convention.
+
+Armor materials whose special abilities depend on dedicated suit construction are ineligible for composite armor. This excludes Skyvein, Reprise Bronze, Bellcopper, Hearthiron, and Thornspring. Celestite and Oathsilver are also ineligible. Do not create weaker composite versions of dedicated suit abilities. Ceramic armors, including Nullporcelain and Glassweave, remain eligible. Eligibility does not define new recipes, ratings, or ceramic breakage interactions for mixed assemblies.
+
+---
+
 ## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
 
 **APPROVED without changes:** The user's immediately preceding approval ratifies the full Light/Medium Quality I–V AR and innate MR grids, QV Full Light/Medium post-quality STR and inherent SPD grid, the proposed smooth workmanship STR reverse-derivation method for lower qualities, stable per-material/class inherent SPD across qualities, and retention of Thornspring/Celestite special DEX gates. Exact tables are in the opening `09_Equipment_and_Economy.md` entry. Existing approved class endpoints, armor coverage rules, shattering, skill powers, Celestite's QV-only restriction and all historical approved Heavy ladders are unchanged. Ordinary MR0 materials do not lose special resistance or enchantments. Next proposed table set is the **remaining Full Heavy quality values and Full Heavy mobility/requirements** and is **not yet approved**. Composites remain deferred and untouched.

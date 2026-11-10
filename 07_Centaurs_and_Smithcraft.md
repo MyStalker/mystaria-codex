@@ -1,3 +1,11 @@
+## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
+
+Armor materials whose special abilities depend on dedicated suit construction are ineligible for composite armor. This excludes Skyvein, Reprise Bronze, Bellcopper, Hearthiron, and Thornspring. Celestite and Oathsilver are also ineligible. Do not create weaker composite versions of dedicated suit abilities. Ceramic armors, including Nullporcelain and Glassweave, remain eligible. Eligibility does not define new recipes, ratings, or ceramic breakage interactions for mixed assemblies.
+
+See `09_Equipment_and_Economy.md` for the approved Full Heavy pure-material tables and the operative armor eligibility rule. Oathsteel remains the name of the Anvilcant discipline.
+
+---
+
 ## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
 
 The author approved the complete Full Light and Full Medium Quality I–V pure armor AR/MR and QV stat/mobility tables, as well as the approved workmanship extrapolation convention. **Authoritative full numeric tables and caveats:** `09_Equipment_and_Economy.md` first section. Preserve Celestite Quality-V-only, all distinctive powers, ceramic breakage, and approved composites without altering or recalculating them. The yet-unapproved remaining Heavy matrix is separate.

@@ -1,3 +1,31 @@
+## November 10, 2026 — Full Heavy pure armor tables and composite eligibility (LATEST AUTHOR APPROVAL)
+
+**Approved working calibration.** Ratings below apply to the covered surface actually struck. Single zeros apply throughout the material's available qualities. Innate MR is separate from specific resistances and active abilities. Celestite exists only at Quality V.
+
+| Material | AR I–V | Innate MR I–V | STR I–V | Inherent SPD |
+|---|---|---|---|---:|
+| Boughsteel | 75/85/95/105/115 | 0 | 45/43/41/39/36 | −20% |
+| Trufula | 60/70/80/90/100 | 0 | 24/23/22/21/19 | −12% |
+| Adamantite | 90/105/120/140/170 | 0 | 114/109/103/97/91 | −30% |
+| Nullporcelain | 0 | 90/105/120/140/170 | 33/32/30/29/26 | −15% |
+| Skyvein | 20/25/30/35/40 | 10/15/20/25/30 | 15/15/14/13/12 | +4% |
+| Reprise Bronze | 60/70/80/90/100 | 0 | 44/42/40/38/35 | −19% |
+| Oathsilver | 40/48/55/65/75 | 30/38/45/52/60 | 35/34/32/30/28 | −17% |
+| Bellcopper | 75/85/95/105/115 | 0 | 60/57/54/51/48 | −25% |
+| Hearthiron | 60/70/80/90/100 | 0 | 60/57/54/51/48 | −25% |
+| Thornspring | 50/60/70/80/90 | 0 | 19/19/18/17/15 | −10% |
+| Glassweave | 75/85/95/105/115 | 75/85/95/105/115 | 44/42/40/38/35 | −19% |
+| Celestite | —/—/—/—/180 | —/—/—/—/185 | —/—/—/—/65 | −24% |
+
+**Heavy workmanship:** For QI–IV STR, recover the pre-quality gate with `ceil(QV STR / 0.80)` and round up after applying the relevant quality factor. At QV use the listed anchor directly. Inherent SPD is stable across qualities. Thornspring DEX I–V is **45/43/41/39/36**. Celestite QV DEX is **20**. Existing coverage, special effects, and ceramic shatter rules still apply. Physical calibration was accepted after early, middle, and late landed-hit comparisons. Magical injury and elemental mitigation remain subject to their global resolution rules.
+
+### Composite eligibility
+
+Armor materials whose special abilities depend on dedicated suit construction are ineligible for composite armor. This excludes Skyvein, Reprise Bronze, Bellcopper, Hearthiron, and Thornspring. Celestite and Oathsilver are also ineligible. Do not create weaker composite versions of dedicated suit abilities. Ceramic armors, including Nullporcelain and Glassweave, remain eligible. Eligibility does not define new recipes, ratings, or ceramic breakage interactions for mixed assemblies.
+
+
+---
+
 ## November 10, 2026 — Approved pure armor Light/Medium quality tables and handling (LATEST AUTHOR APPROVAL)
 
 **AUTHOR APPROVAL:** All numerical Light/Medium AR, MR, QV handling and interpolation recommendations in the immediately preceding assistant proposal are approved. These are **Full coverage** protected-surface reference values, not composites. Existing QV class benchmarks, material-specific powers, armor shatter, coverage, and Celestite exception remain intact.
