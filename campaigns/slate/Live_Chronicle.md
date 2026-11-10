@@ -193,3 +193,10 @@ After Surrender canonically awarded **2 skill points total** for completing **Ti
 - **Everyone's Watching, Bunny:** "Perform an intimate act somwhere where you risk getting cought. Weather you do or not, the skill point is yours." **ACTIVE**. Reward **1 skill point upon completion** whether she is caught or not; no reward yet paid.
 
 The detailed current quest tracker is [Surrender's Quest Log](Surrender_Quest_Log.md). This updates the formerly listed three active quests; the two previously completed quests are now historical completed entries. **Warmth for Two** remains separately unresolved with no new completion or payout claimed.
+
+
+## Latest DM correction — Warmth for Two resolved and retired (November 9, 2026)
+
+- The DM expressly confirms **“Warmth for 2 is resolved. You can remove it.”** Treat **Warmth for Two** as **resolved and removed from Lillia's active Surrender quest log**. This **supersedes all earlier chronicle entries describing it as active, unresolved, pending acknowledgment or still needing completion**; those passages are retained only as historical snapshots of earlier understanding.
+- The established act of giving Peri her complete Emberwrap remains canonical. The correction does **not** specify an additional skill point, gem payment, or new divine quest-completion notification; do not invent a payout.
+- Active Surrender quests remain **Seduce Your Master**, **The Princess and Her Leash**, and **Everyone's Watching, Bunny**. See [current Surrender quest log](Surrender_Quest_Log.md).
