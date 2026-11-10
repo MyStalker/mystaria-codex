@@ -7,7 +7,7 @@
 - **Quest:** Lillia bought a frayed treasure map from Surrender. A ravine blocks part of her route; side passages and improvised solutions have been explored as design options, not all confirmed as completed.
 - **Companion:** Valerious, a level-2 gilded nightfox, now injured and wrapped in Neri's blanket.
 - **Current scene:** Lillia solved the Scales of Surrender after four sanitation failures, unlocked the vault, met Peri, learned about his unfinished Leywell-powered Artificial Legend Matrix, and shared her entire Emberwrap to warm him. Peri has **agreed to accompany her** back toward Neri, though no actual return arrival is recorded. Lillia hinted she might be able to find him a Hero for research, without committing to do so or revealing her identity.
-- **Quest status:** Lillia shared life-preserving warmth with Peri. **Warmth for Two** has no confirmed divine completion or payout yet.
+- **Quest status:** Lillia shared life-preserving warmth with Peri. **Warmth for Two** has been declared resolved and removed from the active quest log by the DM (November 9, 2026). No additional reward is established by that correction.
 
 ## Peri encounter beyond the opened vault (design background; first meeting now played)
 - **Peri:** Male Tidekin Wakecraft salvage mechanic belonging to Neri's crew, with a personal need to prove himself after escaping slavery. A kobold mentor aided his escape but was left behind.
