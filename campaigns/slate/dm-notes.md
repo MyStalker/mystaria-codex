@@ -19,5 +19,5 @@ Private-to-the-DM planning notes in the narrative sense; repository access permi
 - Illustrative results: **90+** may yield a treasure hoard; **80** may yield a merchant. These are examples rather than fixed universal outcomes.
 - More dangerous locations require higher rolls for favorable outcomes.
 - In the currently enemy-filled Scarlands caves, **70 is neutral but interesting**, not boring.
-- **Slate's latest roll was 70.** The next encounter should create hurdles and opportunities involving Surrender's quest **Warmth for Two**, not automatically complete it.
+- **Historical DM note (superseded):** Slate rolled 70 and an earlier encounter was designed around **Warmth for Two**. **November 9 correction: the quest is resolved and retired**, so do not reuse this as an active objective.
 - Encounter design and outcomes are pending DM approval and play, not canonical scene events.
