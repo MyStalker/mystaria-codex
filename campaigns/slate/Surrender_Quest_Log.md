@@ -31,11 +31,13 @@
 
 **Combined confirmed reward:** Surrender awarded Lillia **2 skill points total** for the two completed quests (do not award them again).
 
-## Separate quest with unresolved status
+## Resolved and retired quest (historical record)
 
 ### Warmth for Two
 - **Objective:** Find warmth and shelter and share that safety with someone in need.
-- **Status:** **UNRESOLVED**. Lillia gave Peri her Emberwrap, but no formal patron completion or payout is confirmed. This older quest's continuing availability versus retirement was not clarified by the DM. Do not automatically mark complete, remove or reward.
+- **Status:** **RESOLVED; REMOVED from the active quest log** by direct DM correction on November 9, 2026. Its exact divine reward and whether a formal completed notification occurred are not specified by this correction; **do not award additional points** without confirmation.
+- **Relevant historical action:** Lillia gave Peri her complete Emberwrap to warm him.
+
 
 ## Continuity
 
