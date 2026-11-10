@@ -1,3 +1,76 @@
+## November 10, 2026 — Pure armor closeout approved; Skyvein and Oathsilver revised (LATEST AUTHOR APPROVAL)
+
+**Status:** APPROVED by author in the current conversation, including the immediately preceding proposed closeout package **except where explicitly replaced below**. This is a pure-material armor closeout. **Do not edit or generate composites:** all reasonable composite combinations will be developed in a separate later pass. Older passages labeled proposal for the *specific approved values listed below* are superseded by this entry; earlier approved material identities, protective mechanisms, material exceptions and workmanship rules remain intact.
+
+### Quality V full-coverage defensive anchors
+AR/MR below are inherent covered-surface ratings, before enchantments and other mechanisms. “0 MR” means no general *innate* MR; it does not negate a material's particular elemental resistance, enhancement, field or special ability. These figures are accepted as the working pure-material Quality V anchors (the already approved anchors remain unchanged):
+
+| Pure material | QV Full Heavy AR | MR | Status/notes |
+|---|---:|---:|---|
+| Boughsteel | 115 | 0 | Previously approved working AR |
+| Trufula | 100 | 0 | Previously approved working AR; separate elemental weaknesses preserved |
+| Adamantite | 170 | 0 | Previously approved working AR |
+| Nullporcelain | 0 | 170 | Previously approved; AR0 in all classes/qualities |
+| Skyvein | 40 | 30 | Previously approved QV Heavy |
+| Reprise Bronze | 100 | 0 | Previously approved QV Heavy |
+| Oathsilver | 75 | 60 | Previously approved QV Heavy |
+| Bellcopper | 115 | 0 | Previously approved Boughsteel-equivalent AR |
+| Hearthiron | 100 | 0 | Previously approved Reprise-Bronze-equivalent AR |
+| Thornspring | 90 | 0 | Previously approved QV Heavy |
+| Glassweave | 115 | 115 | AR equal to Boughsteel was canon; **QV Heavy MR115 now approved** |
+| Celestite | 180 | 185 | **Newly approved QV Heavy** |
+
+**QV Full Heavy material handling closeout:** Boughsteel required STR36 / inherent SPD −20%; Trufula STR19/−12%; Adamantite STR91/−30%; Bellcopper STR48/−25%; Hearthiron STR48/−25%; Glassweave STR35/−19%. The material support requirements here are **after the already approved QV 0.80 craftsmanship factor**; do not apply it twice. More precise full-quality lower-class complete matrices remain to be tabulated from approved anchors, not silently fabricated. Ordinary coverage burden remains Partial 60%, Standard 80%, Full 100% of the full outfit, with the approved rounding rules and no coverage-based change to AR on covered surfaces. Preserve existing pure-material specialties, built-in joint AR25 where valid, and actual exposed AR0. **Approved calibration direction:** interpolate missing lower-quality and Light/Medium values smoothly, respecting existing approved QI–V full Heavy ladders, class-specific QV figures and all approved exception materials; this author approval of direction is not a license to assert an unstated uniquely determined numerical ladder.
+
+### Hearthiron Furnace Burst: damage and recharge (newly approved)
+**Author's damage rule:** Fire attack Power equals a melee strike with **F=1.10** scaled on the STR of a neutral representative Hero who dedicates **25% of earned allocatable attribute points** to STR at that Quality's representative level, not the current wearer's STR. Use neutral starting STR15; canon Hero advancement +2 allocatable points each gained level and +1 to all five stats every fifth level; round the 25% STR allocation to the nearest integer, half-up. Proposed benchmark levels 10/25/50/75/100 are now accepted for this Furnace Burst reference calculation.
+
+| Quality | Reference level | Reference STR | Fire attack Power = (STR × 1.10)^2 |
+|---|---:|---:|---:|
+| I | 10 | 22 | 585.64 |
+| II | 25 | 32 | 1239.04 |
+| III | 50 | 50 | 3025 |
+| IV | 75 | 67 | 5431.69 |
+| V | 100 | 85 | 8742.25 |
+
+**Burst procedure approved in closeout:** Furnace Burst originates from wearer, **3-meter radius**, uses **one attack action**, and makes one quality-based Fire Power attack against each exposed creature in its area, subject to the eventual elemental resistance/Magnitude resolution and normal attack validity; not an automatic hit/wound/ignition or universal AR bypass. Medium and Heavy have the **same** base Power at matching Quality. Medium holds **one** charge; Heavy holds **two**; Light has no Furnace Burst. Heat storage is finite; ordinary passive low heat does not consume combat charges; high-output functions may deplete reserves and threaten others. One qualifying actual external fire effect that deposits heat into the armor restores **one** charge if its relevant incoming Fire Power is **at least 70%** of the armor's quality-matched Furnace Burst reference Power. No overcapacity, no charge on a miss or irrelevant heat-free spell. A genuinely maintained campfire and enough fuel can restore Hearthiron over a **long rest** (this supersedes the earlier open ordinary-campfire interval). Exactly how an elemental Power rating converts to resisted injury awaits the global Elemental Magnitude formula; do not substitute physical armor AR for MR by fiat. Preserve canon inherent Fire ×3 resistance, and the later correction **removing** the formerly proposed generic ×1.5 Ice vulnerability.
+
+### Thornspring impact recharge (newly approved)
+Thornspring uses **the very same Quality-matched 70%-of-reference-Power numeric benchmark** as Hearthiron, but on **genuine contacting physical, non-energy damage**, not fire/energy exposure. A meaningful physical hit that reaches this threshold refills **one Springload charge** even when the suit prevents the resulting injury. Misses, trivial taps, pure energy effects and already-full reservoirs do not generate more charges. One charge maximum; either wearer or ally may also spend a full turn winding it to full. Stored charge persists indefinitely until manually spent. Spending one charge grants a full-current-turn situational SPD increase: Light +50%, Medium +75%, Heavy +35%, on applicable offensive positional/evasive comparisons, without extra actions, passive SPD or illegal dodges. Existing QV full-profile Light AR25/STR8/DEX16/MR0, Medium AR55/STR12/DEX26/MR0, Heavy AR90/STR15/DEX36/MR0 remain canon. The contact Power threshold is a recharge rule only and not a new physical injury formula.
+
+### Celestite Quality V only: numerics and rule closure (newly approved)
+| QV Full coverage | Light | Medium | Heavy |
+|---|---:|---:|---:|
+| AR | 65 | 115 | 180 |
+| MR | 100 | 145 | 185 |
+| Required STR | 18 | 35 | 65 |
+| Required DEX | 15 | 18 | 20 |
+| Inherent SPD | −4% | −12% | −24% |
+| Passive wearer MP debit each turn | 5 | 10 | 15 |
+| Leydrain radius | 5 m | 10 m | 15 m |
+| Cancels channeled spells costing strictly less than | 5 MP | 10 MP | 15 MP |
+
+First five rows are **newly approved numerical working profiles**; last three rows were already approved. Celestite remains Quality V only, nonpurchaseable (display valuation five times equivalent Adamantite marked with the crafting caveat), requiring triune divine involvement and extraordinary Centaur forging.
+
+**Soul Shred:** On the first donning **by a particular wearer**, record that wearer's accumulated total XP as a fixed baseline associated with that suit/wearer. Removing/redonning the same suit does not refresh that wearer's baseline; a different wearer receives their own first-donning snapshot. When wearer **voluntarily participates** in a fight, including deliberately active combative defense, take **5% of the stored original snapshot** for each qualifying combat turn, round the XP debit up to a whole number, and cap it at remaining XP. Incidental attacks on an unresisting/non-engaging traveler do not start Soul Shred; ordinary noncombat evasion to escape harassment should not by itself be equated with opting into combat. Once voluntarily engaged, shifting to a defensive posture does not suspend per-turn loss; genuine disengagement ends that combat's per-turn trigger. At zero XP apply the already established progression/soul rules, **do not invent a new automatic death mechanic** solely from depleted XP. Loss of levels from this particular armor's XP erosion does not newly penalize ongoing wear due to STR/DEX qualification shortfall. Wearer's intrinsic MP drain is paid **at the end of their turn**, down to zero; reaching zero has no additional special punishment. At any location inside overlapping Celestite fields, **add the applicable strictly-below spell-cost thresholds** for suppression; radii do not add. Already-channeled spells are suppressed on entering a field if they qualify; friendly/self spells are not exempt. Celestite weapons' distinct stroke-triggered soul erosion and any separately established weapon effects still stack, but their **unspecified numeric weapon Leydrain values are NOT invented here**.
+
+### Skyvein winged flight (latest author correction supersedes three-turn total-flight or fixed Leywell-capacity interpretation)
+Heavy Skyvein flight comes from **integrated rapid-beating mechanical wings** with an onboard **Leywell**, not from autonomous Windling helpers. **Consumes exactly 6 MP per powered flight turn from the equipped Leywell**, with **no fixed 18-MP total reservoir or mandatory Leywell size**: its reservoir can be any otherwise valid capacity allowed for active enchantment Leywells. **Fly for at most three consecutive turns, then remain grounded/not flying for one complete turn before another powered sortie.** This is a wing/recovery flight-continuity constraint, not mana depletion; provided enough Leywell MP, sorties may repeat. **Actual flight Speed is dictated by the wearer's effective SPD** rather than a fixed flight Speed. The armor draws upon the wearer's **soul-linked capability for that scaling**, consistent with ordinary soul-responsive powers; do not interpret that as a second invented recurring MP debit or bonus Soul Strain. Existing **+1 innate Skyvein equipment Soul Strain** remains; wing Leywell pays flight MP, not wearer natural MP by default. Inertia is still real, and no extra free attack, hovering without powered wings, unrestricted direction changes or free flight at 0 Leywell MP is gained. Approved QV Light AR15/MR10/+12% SPD, Medium AR25/MR20/+8% SPD, Heavy AR40/MR30/+4% SPD, and passive feather-fall remain unchanged. Exact movement-distance conversion from SPD remains governed by regular movement rules, not invented here.
+
+### Oathsilver oath-proven attunement (latest author correction replaces rest-time/one-hour shortcut)
+**To attune, newly don the Oathsilver armor, make a sincerely difficult promise, and actually KEEP that promise through a qualifying trial lasting AT LEAST THREE DAYS.** This is meant to prompt a character quest proving reliability, not a bedtime rest or fixed one-hour rite. During the in-progress attunement trial, **three accumulated lies or dishonorable acts void that attempt**; an incomplete/failed promise likewise cannot complete it. Once the character has successfully fulfilled the promise and become attuned, **they may behave as they please**: there is **no permanent honor oath, lie counter, alignment restriction or automatic loss of established attunement** for later conduct. A changed wearer still needs their own attunement. Existing Quality I–V +3/+6/+9/+12/+15% amplification applies once to qualifying *installed enchantment numerical effects* only, with established slots and Soul Strain, not blanket stat boosts. QV Heavy Oathsilver AR75/MR60 remains canon. Exact quest and honor adjudication is narrative/GM interpretation, not a new SP/MP price.
+
+### Other pure-material closeout details accepted
+- **Nullporcelain:** retain AR0 and existing ceramic shattering; complete lower-quality Light/Medium MR by smooth interpolation anchored to already approved QV Light85/Medium120/Heavy170 and Full Heavy QI–V MR90/105/120/140/170, without asserting unstated exact intermediate figures.
+- **Reprise Bronze:** every quality permits the *same three prepared/engraved* Light/Medium/Heavy forms; no special MP fee, additional cooldown or newly invented SP cost; switch at the start of the wearer's turn (no action), preserving coverage and installed enchantments. QV full Light AR30/MR0/STR12/−5% SPD; Medium AR60/MR0/STR22/−11%; Heavy AR100/MR0/STR35/−19% remain unchanged.
+- **Bellcopper:** the three-quiet-turn reset for Medium/Heavy reservoir remains; sound is perceptible but not an automatic extra damaging attack/stun. Medium ready ×1.50 and Heavy ready ×2.00 **final physical Defense Power** against legitimate covered physical contact remain approved, and only a real post-bonus wound starts the charging state. QV Heavy ordinary AR115.
+- **Glassweave:** intrinsic Full Heavy MR QI–V **75/85/95/105/115** is approved, matching existing Boughsteel physical-AR ladder. AR equals corresponding Boughsteel armor AR, with its previously approved ceramic Intact→Cracked→Shattered procedure, not a free invisibility feature. QV Heavy STR35/−19% SPD now accepted.
+
+### Remaining scope, deliberately not invented
+Numerical complete I–V × Light/Medium class matrices still requiring explicit source anchors or exact interpolation conventions; general Elemental Magnitude and psychic/MR resolution; global item pricing and nonarmor enchantments; weapon-specific Celestite field values, weapon material form/handling and shield catalog; unusual edge-case contact/area geometry. **All advanced composites are reserved for a separately author-directed pass after pure armor is closed.**
+
+---
+
 
 
 ## November 10, 2026 — Celestite Leydrain tiers, additive overlaps, voluntary-combat Soul Shred and no zero-MP extra punishment (LATEST AUTHOR APPROVAL)
