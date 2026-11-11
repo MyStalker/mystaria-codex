@@ -270,3 +270,7 @@ The DM confirmed SillyTavern seed set to `-1` (random) and supplied a **fresh ch
 ## Automated kiss initiative follow-up
 - Three gateway plain_completion trials reused the earlier brief and Gemma turn formatting. Added a glance at Dusk’s lips and “I think I like you more than I meant to” to the prior warm cue. No OOC direction or explicit invitation.
 - Dusk initiated contact in 3/3 (cheek, hand, chin). He offered or asked for a kiss in 0/3 and kissed in 0/3. The chin touch also moved Lillia’s face and narrated a held gaze, an agency concern. All three exposed empty thought markers. Backend model remains unverified through the gateway. Noncanonical.
+
+## SillyTavern Gemma reasoning preset retest
+- DM reports that after selecting the Gemma 4 reasoning preset, additional swipes on the existing affected Dusk reply still showed thought delimiters. After deleting that reply and regenerating from the same player turn, four fresh swipes showed no visible delimiters.
+- Verified by DM observation only. The test supports regenerating the affected reply as a workaround. It does not isolate retained swipe state, prompt differences, or intermittent marker emission. Keep this as a display observation pending normal play. Noncanonical.
