@@ -1,3 +1,9 @@
+## November 11, 2026 — Adamantite material advantage and Medium bludgeoning benchmark
+
+The author confirmed that Adamantite weapons should deal substantially more damage against weaker armor materials. Equipment records the Medium bludgeoning baseline, the matchup results, and the withdrawal of the proposed Heavy Adamantite reduction motivated solely by weaker-plate outcomes. The Heavy ×1.25 value remains a test candidate. Next evaluate specialized pike injury outcomes against matching armor. Numerical class and material factors remain provisional.
+
+---
+
 ## November 11, 2026 — Specialized pike shape adjustment approved
 
 The author approved the pike-specific ×0.875 shape adjustment for its qualifying specialized primary Piercing attack. Apply it once to calibrated F alongside the approved specialized primary profile (relative F0.85 and 65% AR bypass). Use Both-stat scaling at 0.65 × (effective STR + effective DEX) with both requirements met. The reference pike uses Long reach and Line geometry. The specialized bypass requires a qualifying head and attack. Line alone does not grant extra targets, retained Power through a first target, or additional bypass. Keep the existing STR14 and DEX11 test minima for reference construction. Absolute class and material Fs, final minimums, and multi-target penetrating Proficiency details remain open. See Equipment and Combat for application.

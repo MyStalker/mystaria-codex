@@ -1,3 +1,13 @@
+## November 11, 2026 — Adamantite material advantage and Medium bludgeoning benchmark
+
+**Author-approved design direction:** Adamantite weapons should deal substantially more damage against weaker armor materials. A matched-material and matched-quality Medium bludgeoning weapon should approximately offset the material advantage of Medium armor and deal one injury against most representative Medium-armored targets on a landed hit. Light armor and unarmored targets can take more injuries. High injury tiers from Adamantite weapons striking weaker materials are consistent with this design direction.
+
+**Working calibration:** Medium reference F1.15 and Medium weapon material F factors Boughsteel ×1.00, Trufula ×0.95, Adamantite ×1.20 remain test inputs. A landed-hit Thornguard generalist test at levels 10/25/50/75/100 and matching Qualities I–V produced 13 Solid and two Superficial results across 15 matching Medium pairings. Across 45 Medium pairings including mismatches, 32 were Solid, eight Superficial, and five Devastating. All five Devastating results were Adamantite weapons against Boughsteel or Trufula. These are calibration results, not new weapon stats.
+
+**Heavy follow-up:** Retain Adamantite Heavy ×1.25 as the current test candidate. The proposed reduction to ×1.20 solely to suppress Overwhelming hits against weaker plate is withdrawn. At Quality V with the generalist benchmark and provisional Heavy F1.45, the qualifying specialized Adamantite pike produced 3.045 against Boughsteel, 3.203 against Trufula, and 2.457 against Adamantite Full Heavy armor. The first two were Overwhelming and the matching case Devastating. Next evaluate specialized piercing against matching plate across progression and representative builds. Absolute class and material factors remain provisional. Existing approved armor ratings and weapon-form rules apply.
+
+---
+
 ## November 11, 2026 — Specialized pike shape adjustment approved
 
 The author approved the pike-specific ×0.875 shape adjustment for its qualifying specialized primary Piercing attack. Apply it once to calibrated F alongside the approved specialized primary profile (relative F0.85 and 65% AR bypass). Use Both-stat scaling at 0.65 × (effective STR + effective DEX) with both requirements met. The reference pike uses Long reach and Line geometry. The specialized bypass requires a qualifying head and attack. Line alone does not grant extra targets, retained Power through a first target, or additional bypass. Keep the existing STR14 and DEX11 test minima for reference construction. Absolute class and material Fs, final minimums, and multi-target penetrating Proficiency details remain open. See Equipment and Combat for application.
