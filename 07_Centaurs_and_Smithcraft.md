@@ -1,3 +1,13 @@
+## November 10, 2026 — Breath-played Cogloom / Command Loom (LATEST AUTHOR APPROVAL)
+
+**OPERATIVE DEVICE FORM:** The Centaur **Cogsong Command Loom** is an **ocarina-like wind instrument**, not a hand-operated remote-control-style sound emitter. To transmit Cogsong orders, the commander **must blow into and play the instrument**. Its crafted mechanism produces the mechanically encoded acoustic Cogsong signal from that performance; a living creature's unaided whistle, song, or ordinary speech still cannot substitute for a compatible Loom.
+
+**ORDINARY MUSIC:** The same instrument can also play **conventional music** for enjoyment or performance. Ordinary musical performance does not itself issue an authorized construct command; a Cogsong order remains a deliberate, valid command transmitted through the Loom.
+
+**PRESERVED FUNCTIONS:** This is a **form-factor and playing-method revision only**. The Loom remains mandatory for Cogmarshal control, and all established Cogmarshal ranks, CP capacities, squad/order action economy, prices (12/28/55/90/140 Gems for ranks I–V), Cogsong identity, acoustic limitations, and unresolved range/upkeep rules remain unchanged. The historical November 5 “remote-control-style” description below is **SUPERSEDED only in its physical description**, not in its pricing or role.
+
+---
+
 ## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
 
 All six named composite armor designs are now **numerically approved** at Light/Medium/Heavy Qualities I–V, including the two newest **Boughsteel/Glassweave** (QV Full Heavy intact AR105/MR80/STR40/−20% SPD, after shattered AR90/MR0) and **Adamantite/Nullporcelain** (QV Full Heavy intact AR145/MR145/STR78/−28% SPD, after shattered AR135/MR0). Full authoritative profiles and the quality-adjusted requirements are in the opening section of `09_Equipment_and_Economy.md`. The two newly approved numerical profiles supersede their previous concept-only status, do not revise the other four, and retain the ceramic one-suit condition and existing material restrictions. Physical/magical balance and downstream proposals remain separate and unapproved.
@@ -610,6 +620,8 @@ See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve
 ## November 6, 2026 — Cogsong, mandatory Command Looms and approved squad size (LATEST)
 
 **APPROVED NAME: Cogsong.** The unique Centaur clockwork command language is **Cogsong**, a mechanically encoded acoustic form of Starsong sounding like an elaborate music box. Cogsong is produced by a **Command Loom**; living beings including Starspawn cannot issue valid Cogsong commands unaided. It is distinct from Kobold Cipherlight. Earlier candidate names (Cogchant, Clockcant, Brassong, Anvilverse) are NOT canon.
+
+**LATEST DEVICE REVISION (Nov 10):** This mandatory Command Loom is played as an **ocarina-like wind instrument**: the commander must blow into it to send the acoustically encoded orders. It can also produce conventional music. This replaces the older remote-control-like presentation without changing its control function, prerequisite, pricing, or command action economy.
 
 **MANDATORY LOOM:** A working, carried, compatible **Command Loom is required for Cogmarshal control**; it is no longer an optional capacity booster. Cogmarshal rank alone does not permit command transmission. A Loom remains a purchasable/craftable item with the approved rank I–V prices **12/28/55/90/140 Gems**. Owning one never grants the Cogmarshal ranks. Prior proposed native CP 1/2/3/4/6 versus doubled Loom CP 2/4/6/8/12 are **superseded as a model**: there is no native no-Loom command pool. Exact mandatory-Loom CP capacity by rank remains UNAPPROVED.
 
