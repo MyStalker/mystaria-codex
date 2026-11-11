@@ -1,3 +1,9 @@
+## November 10, 2026 — Cogloom / Command Loom instrument form approved (LATEST AUTHOR REVISION)
+
+**CENTAUR COGSONG COMMAND DEVICE:** The mandatory **Cogsong Command Loom** is now an **ocarina-like wind instrument** that must be played by blowing into it to issue mechanical Cogsong commands; it can also play **conventional music**. Ordinary music does not automatically transmit valid orders. **This replaces the prior remote-control-like sound-emitter presentation only.** Cogsong itself, Cogmarshal skills and CP, the mandatory Loom requirement, prices, ordered attacks and standing instructions remain unchanged. See `07_Centaurs_and_Smithcraft.md` for operative device lore, `12_Languages_and_Linguistic_Customs.md` for acoustic signaling, and `10_Canon_Changelog.md` for supersession.
+
+---
+
 ## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
 
 **Six composite armor constructions now have approved numerical calibration at Quality I–V across Light, Medium and Heavy:** Trufula/Boughsteel, Trufula/Adamantite, Glassweave/Trufula, Nullporcelain/Boughsteel, **Boughsteel/Glassweave**, and **Adamantite/Nullporcelain**. This supersedes the prior concept-only status of the last two. Refer to the opening tables of `09_Equipment_and_Economy.md` for full class/quality AR/MR/STR/inherent SPD and ceramic Shattered backing profiles. `10_Canon_Changelog.md` records the approval. Single suit-wide ceramic durability and Trufula hazards remain intact. **Next: six-composite final combat and loadout check; any new adjustments must be separately approved.**
