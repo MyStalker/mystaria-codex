@@ -1,8 +1,8 @@
-# Roleplay Prose & Dialogue Fusion Protocol v1.0
+# Roleplay Prose Protocol
 
 **Status:** DM-approved.
 
-**Scope:** Slate's Mystaria campaign, Ket's Pathfinder campaign, and other campaigns where ChatGPT combines its narrative writing with SillyTavern dialogue.
+**Scope:** Roleplay writing for Slate's Mystaria campaign, Ket's Pathfinder campaign, and other campaigns using this prose standard.
 
 **Creative objective:** Produce concise, cinematic, emotionally compelling interactive fiction in which every narrative element contributes meaningfully to the scene, NPCs remain distinctive, and players retain agency.
 
@@ -76,13 +76,11 @@ Combat descriptions must remain consistent with established mechanics and outcom
 
 ## 6. Selective sensory immersion
 
-Include a few distinctive sensory details appropriate to each scene.
+Look for a specific, physically grounded detail the viewpoint character would notice at this moment. Let light, sound, texture, or the behavior of an object reveal what has changed, what matters, or what the character is attending to.
 
-Favor details that reveal setting, mood, physical conditions, danger, or character perception.
+Use these observations in ordinary scenes as well as dramatic ones. Give a strong detail a plain sentence and room to land. In a serious scene, let the surrounding action carry the weight of the observation. Trust the reader to feel its significance.
 
-During high-stakes moments, sensory description may become sharper and more vivid.
-
-Avoid repetitive ambient decoration and generalized atmosphere that contributes nothing specific.
+Favor details that do more than one job, such as making an injury visible while revealing where a character's attention has gone. Let the scene determine how often such details belong.
 
 ## 7. The Narrative Contribution Test
 
@@ -98,29 +96,9 @@ Rhythm, silence, contrast, and deliberate pauses also qualify when they strength
 
 Remove or rewrite sentences that repeat a contribution already made without adding meaningful nuance.
 
-Apply this test to the completed fused response, not merely to ChatGPT's own narration.
+Apply this test to the whole post, including narration and dialogue. A detail earns its place when it changes what the reader notices or feels, even in a moment of stillness.
 
-## 8. Transformative SillyTavern fusion
-
-Treat SillyTavern's dialogue generations as candidate performances, not mandatory text to preserve verbatim.
-
-When multiple candidates are available, identify the most effective dialogue, characterization, wit, emotional expression, and surprising lines.
-
-ChatGPT may substantially reconstruct the final scene, including trimming, rearranging, combining, and rewriting dialogue.
-
-Preserve strong, distinctive dialogue whenever possible, but never sacrifice narrative coherence merely to include an appealing line.
-
-Ensure reconstructed dialogue retains the intended meaning, characterization, and established relationships.
-
-Remove repetitive questions, redundant assurances, empty declarations, and dialogue that merely announces an action without advancing it.
-
-Integrate narration and dialogue as one cohesive work. Avoid having prose explain an emotion already communicated by the spoken lines.
-
-Do not invent new canonical history, abilities, relationships, or significant events during fusion.
-
-**Principle:** SillyTavern contributes performances; ChatGPT directs the final literary composition.
-
-## 9. Meaningful resolution and player agency
+## 8. Meaningful resolution and player agency
 
 Favor completing the NPC's intended action or emotional beat within the post rather than repeatedly ending in anticipation.
 
@@ -138,7 +116,7 @@ End at a natural opportunity for the player to respond.
 
 **Principle:** Resolve the NPC's contribution; preserve the player's choice.
 
-## 10. Character consistency and canon
+## 9. Character consistency and canon
 
 Keep NPC behavior consistent with established personality, motivations, knowledge, relationships, and campaign events.
 
@@ -146,11 +124,11 @@ Allow characters to experience varied emotions and surprising reactions without 
 
 Respect authoritative campaign documentation and explicit DM corrections.
 
-Do not promote speculative SillyTavern dialogue or assistant-generated drafts into canon without DM approval.
+Treat speculative material and roleplay drafts as noncanonical until confirmed through the campaign's handoff procedure.
 
 The final DM-approved post, once actually used in play, becomes part of the campaign record alongside the player's response.
 
-## 11. Final fusion quality check
+## 10. Final prose quality check
 
 Before presenting a roleplay draft, internally assess:
 
@@ -167,10 +145,10 @@ Before presenting a roleplay draft, internally assess:
 
 Revise silently before presenting the final draft.
 
-## 12. Guiding philosophy
+## 11. Guiding philosophy
 
 **Write only as much as the moment deserves.**
 
 Use vivid detail where it deepens experience, restraint where simplicity is stronger, and dialogue where a character's own voice can carry the scene.
 
-The purpose of prose is not merely to decorate conversation, but to transform it into living, interactive fiction.
+Use narration, action, and dialogue together to make the scene tangible and give the player room to act.
