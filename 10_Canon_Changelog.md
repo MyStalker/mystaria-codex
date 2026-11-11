@@ -1,6 +1,12 @@
+## November 11, 2026 — Line individual-target resolution approved
+
+The author approved using Sweep's individual-target procedure for Line. Use Sweep's procedure to resolve each eligible individual target in the same attack action. Each successful pike hit uses its normal Power and 50% AR bypass against that target's own Defense. A front enemy or shield that physically blocks access makes a farther target ineligible. Missing the front enemy does not by itself end the attack. Alignment and physical access govern execution under existing combat rules. Apply no special Line difficulty modifier or reduction in Power for later targets. Line squad Power and penetration Proficiencies remain unresolved. This resolves the earlier open questions about individual difficulty and Power. Updated Combat, Equipment and Economy, the melee catalogue, and the Canon Index.
+
+---
+
 ## November 11, 2026 — Line coverage and pike Piercing revision (author approved)
 
-**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Line hit difficulty, per-target Power allocation or retention, group Power, and any penetration Proficiency remain unresolved.
+**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Individual difficulty and Power were resolved in the subsequent approval above. Line group Power and any penetration Proficiency remain unresolved.
 
 **Pike and primary Piercing.** Retire the separate specialized Piercing profile (F0.85 and 65% AR bypass). The Heavy, Long, Both-stat pike uses ordinary primary Piercing (relative F0.90 and 50% AR bypass) with a pike-specific ×0.90 shape factor applied once. Its combined relative F is 0.81 before class, material and quality. When qualified, use A = 0.65 × (effective STR + effective DEX). Reference test minima are STR14 and DEX11. Final requirements and absolute class, material and individual weapon Fs remain under calibration.
 
