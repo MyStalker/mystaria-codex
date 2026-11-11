@@ -249,3 +249,7 @@ The DM confirmed SillyTavern seed set to `-1` (random) and supplied a **fresh ch
 ## Gemma temperature retest
 - The DM supplied the export in response to the 0.9 temperature test. Three Gemma-tagged swipes have distinct generation start timestamps but byte-identical reply text (SHA-256 prefix 43744fc47b9f). Temperature and seed are not independently verified by this export.
 - Next capture one SillyTavern generation request and the corresponding effective Oobabooga sampler values if visible. Verify seed, temperature, and enabled sampler settings before changing presets again. Noncanonical.
+
+## Gemma sampler payload diagnosis
+- Browser request to SillyTavern shows api_type ooba, do_sample true, temperature 0.9, top_k 1, top_p 0.9, min_p 0.05. Seed is absent from the supplied capture. Backend values are unverified.
+- Top K of 1 is the leading explanation: when applied, it leaves one candidate at each step. Next test: change only Top K to 40 in SillyTavern, keep temperature 0.9 and UI seed -1, and generate three new swipes from the same turn. If still identical, check the new payload and backend forwarding. Noncanonical.
