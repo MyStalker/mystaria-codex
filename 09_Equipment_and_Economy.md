@@ -1,16 +1,24 @@
+## November 11, 2026 — Squad formation and coverage Power (author approved)
+
+For abstract squad resolution, count only the distinct members the attack can actually threaten from its current position. Apply the existing coverage multiplier to Line as well as Sweep and Wide Sweep. One, two, and three eligible members give ×1.00, ×1.50, and ×2.00 aggregate Power, respectively. Sweep caps at two and Wide Sweep and Line cap at three. Apply the relevant facing, clearance, reach, alignment, and obstruction rules before counting. If there are no eligible members, there is no legal attack. Individual hits use normal Power.
+
+Squad maneuvering changes the count. A spread-out squad may give a Sweep only one reachable member. A Sweep from the very end of a file can likewise catch only the end member if the rest lie beyond the usable arc or reach. Count the actual geometry for each attack.
+
+---
+
 ## November 11, 2026 — Sweep clearance in confined spaces (author approved)
 
 **Minimum maneuvering room.** A Sweep requires enough clear room for two people to stand shoulder to shoulder. A Wide Sweep requires enough for three. These are minimums for making the attack, even against one target. The actual weapon motion and its path must also be clear.
 
 **Weapon coverage.** A slashing attack uses its listed coverage. A player cannot downgrade a Sweep or Wide Sweep to a single-target slash to fit a confined space. A light slashing cleaver with a compact motion can work in cramped quarters. Light handling alone does not waive the clearance requirement of an attack listed as Sweep. A weapon can use a genuine alternate attack if its own motion fits. A greatsword whose Wide Sweep is blocked can use its single-target Point thrust if there is room to thrust.
 
-**Terrain.** Judge clearance after accounting for physical barriers such as an ice wall. A barrier can deny room to sweep without directly targeting a combatant. A pike's Line uses its approved straight-path and reach rules. In a tight corridor it can hit two aligned targets when both are reachable. The benchmark uses three greatsword hits in open ground, one greatsword thrust in a tight corridor, and two pike hits in the corridor as scenario assumptions. Individual hits use normal Power. Line squad Power remains unresolved.
+**Terrain.** Judge clearance after accounting for physical barriers such as an ice wall. A barrier can deny room to sweep without directly targeting a combatant. A pike's Line uses its approved straight-path and reach rules. In a tight corridor it can hit two aligned targets when both are reachable. The benchmark uses three greatsword hits in open ground, one greatsword thrust in a tight corridor, and two pike hits in the corridor as scenario assumptions. Individual hits use normal Power. The squad rule above now governs Line.
 
 ---
 
 ## November 11, 2026 — Line coverage and pike Piercing revision (author approved)
 
-**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Use Sweep's procedure to resolve each eligible individual target in the same attack action. Each successful pike hit uses its normal Power and 50% AR bypass against that target's own Defense. A front enemy or shield that physically blocks access makes a farther target ineligible. Missing the front enemy does not by itself end the attack. Alignment and physical access govern execution under existing combat rules. Apply no special Line difficulty modifier or reduction in Power for later targets. Line squad Power and penetration Proficiencies remain unresolved.
+**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Use Sweep's procedure to resolve each eligible individual target in the same attack action. Each successful pike hit uses its normal Power and 50% AR bypass against that target's own Defense. A front enemy or shield that physically blocks access makes a farther target ineligible. Missing the front enemy does not by itself end the attack. Alignment and physical access govern execution under existing combat rules. Apply no special Line difficulty modifier or reduction in Power for later targets. The squad rule above now governs Line. Penetration Proficiencies remain unresolved.
 
 **Pike and primary Piercing.** Retire the separate specialized Piercing profile (F0.85 and 65% AR bypass). The Heavy, Long, Both-stat pike uses ordinary primary Piercing (relative F0.90 and 50% AR bypass) with a pike-specific ×0.90 shape factor applied once. Its combined relative F is 0.81 before class, material and quality. When qualified, use A = 0.65 × (effective STR + effective DEX). Reference test minima are STR14 and DEX11. Final requirements and absolute class, material and individual weapon Fs remain under calibration.
 

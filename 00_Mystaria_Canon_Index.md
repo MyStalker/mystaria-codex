@@ -1,3 +1,9 @@
+## November 11, 2026 — Squad formation and coverage Power (author approved)
+
+Line now uses the shared squad Power multiplier. Count only members actually threatened given the squad's formation and the attack's position, clearance, and coverage. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and the [Cogmarshal follow-up](07_Centaurs_and_Smithcraft.md).
+
+---
+
 ## November 11, 2026 — Sweep clearance in confined spaces (author approved)
 
 Sweep requires clear maneuvering room for two people shoulder to shoulder. Wide Sweep requires room for three. Slashing uses its listed coverage, with genuine alternate attacks available where their own motion fits. Physical barriers can deny clearance. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Equipment](09_Equipment_and_Economy.md), and the [melee catalogue](25_Melee_Weapon_Catalogue_DRAFT.md).
@@ -6,7 +12,7 @@ Sweep requires clear maneuvering room for two people shoulder to shoulder. Wide 
 
 ## November 11, 2026 — Line coverage and pike Piercing revision (author approved)
 
-**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Use Sweep's individual-target resolution. Each eligible hit uses normal attack Power against that target's own Defense. See Combat for physical obstruction. Line squad Power and penetration Proficiencies remain unresolved.
+**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Use Sweep's individual-target resolution. Each eligible hit uses normal attack Power against that target's own Defense. See Combat for physical obstruction. The squad rule above now governs Line. Penetration Proficiencies remain unresolved.
 
 **Pike and primary Piercing.** Retire the separate specialized Piercing profile (F0.85 and 65% AR bypass). The Heavy, Long, Both-stat pike uses ordinary primary Piercing (relative F0.90 and 50% AR bypass) with a pike-specific ×0.90 shape factor applied once. Its combined relative F is 0.81 before class, material and quality. When qualified, use A = 0.65 × (effective STR + effective DEX). Reference test minima are STR14 and DEX11. Final requirements and absolute class, material and individual weapon Fs remain under calibration.
 

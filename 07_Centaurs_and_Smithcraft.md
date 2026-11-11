@@ -1,3 +1,13 @@
+## November 11, 2026 — Squad formation and coverage Power (author approved)
+
+For abstract squad resolution, count only the distinct members the attack can actually threaten from its current position. Apply the existing coverage multiplier to Line as well as Sweep and Wide Sweep. One, two, and three eligible members give ×1.00, ×1.50, and ×2.00 aggregate Power, respectively. Sweep caps at two and Wide Sweep and Line cap at three. Apply the relevant facing, clearance, reach, alignment, and obstruction rules before counting. If there are no eligible members, there is no legal attack. Individual hits use normal Power.
+
+Squad maneuvering changes the count. A spread-out squad may give a Sweep only one reachable member. A Sweep from the very end of a file can likewise catch only the end member if the rest lie beyond the usable arc or reach. Count the actual geometry for each attack.
+
+**Cogmarshal follow-up.** Revisit how squads arrange themselves and change formation during the Cogmarshal pass. Formation choices, orders, timing, and costs are open.
+
+---
+
 ## November 10, 2026 — Breath-played Cogloom / Command Loom (LATEST AUTHOR APPROVAL)
 
 **OPERATIVE DEVICE FORM:** The Centaur **Cogsong Command Loom** is an **ocarina-like wind instrument**, not a hand-operated remote-control-style sound emitter. To transmit Cogsong orders, the commander **must blow into and play the instrument**. Its crafted mechanism produces the mechanically encoded acoustic Cogsong signal from that performance; a living creature's unaided whistle, song, or ordinary speech still cannot substitute for a compatible Loom.
