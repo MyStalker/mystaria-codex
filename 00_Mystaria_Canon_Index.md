@@ -1,3 +1,9 @@
+## November 11, 2026 — Sweep clearance in confined spaces (author approved)
+
+Sweep requires clear maneuvering room for two people shoulder to shoulder. Wide Sweep requires room for three. Slashing uses its listed coverage, with genuine alternate attacks available where their own motion fits. Physical barriers can deny clearance. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Equipment](09_Equipment_and_Economy.md), and the [melee catalogue](25_Melee_Weapon_Catalogue_DRAFT.md).
+
+---
+
 ## November 11, 2026 — Line coverage and pike Piercing revision (author approved)
 
 **Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Use Sweep's individual-target resolution. Each eligible hit uses normal attack Power against that target's own Defense. See Combat for physical obstruction. Line squad Power and penetration Proficiencies remain unresolved.
