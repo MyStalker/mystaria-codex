@@ -1,3 +1,9 @@
+## November 10, 2026 — Greatsword shape adjustment approved
+
+**AUTHOR APPROVAL:** Apply the greatsword-specific ×0.875 shape adjustment to its calibrated attack F, for both its primary Slashing Wide Sweep and its genuine secondary Piercing Point thrust. Apply it once; the thrust remains ×0.90 of that same adjusted primary F and retains 25% AR bypass. Governing attack attribute remains 0.65 × (effective STR + effective DEX), subject to both requirements. The adjustment was approved against Thornguard generalist calibration; it is not a global Both-stat factor. Do not multiply obsolete draft item Fs by this factor as an additional calibration layer. Absolute item Fs, class/material proposals, other shapes and final requirements remain subject to approval. See Equipment and Combat for reference attack profiles.
+
+---
+
 ## November 10, 2026 — Approved primary damage-form references and secondary Piercing calibration
 
 Primary/secondary damage-form reference profiles are approved. Full operative table and scope are in the opening Equipment and Combat entries. Greatsword secondary Point thrust uses F0.90 of its primary and 25% AR bypass; maul primary Bludgeoning has Wide Sweep and 25% bypass. Dedicated primary Piercing reference F0.90 / bypass50%; specialized point F0.85 / bypass65%, relative to Bludgeoning F1.00. Slashing reference F1.10 / bypass0%. These supersede older conflicting draft form/coverage notes. Individual weapon Fs, class/material candidate values and prerequisites remain under calibration. Next test actual Both-stat greatsword versus STR-led maul and dedicated piercing shapes.
