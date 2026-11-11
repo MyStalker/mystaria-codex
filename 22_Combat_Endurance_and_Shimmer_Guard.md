@@ -1,3 +1,9 @@
+## November 11, 2026 — Earned rear-hit armor bypass increased (author approved)
+
+A qualifying rear hit adds **10 percentage points** to applicable armor bypass, capped at 100%. Apply the resulting bypass to covered AR before squaring its contribution to Defense Power. A base 50% attack therefore reaches 60%. Surprise or a tactically earned rear opening is still required, including appropriate meaningful Pressure when it actually exposes the rear. Merely standing behind an alert opponent does not qualify. This supersedes the former 5-point bonus. The separate specialized Piercing profile remains retired.
+
+---
+
 ## November 11, 2026 — Squad formation and coverage Power (author approved)
 
 For abstract squad resolution, count only the distinct members the attack can actually threaten from its current position. Apply the existing coverage multiplier to Line as well as Sweep and Wide Sweep. One, two, and three eligible members give ×1.00, ×1.50, and ×2.00 aggregate Power, respectively. Sweep caps at two and Wide Sweep and Line cap at three. Apply the relevant facing, clearance, reach, alignment, and obstruction rules before counting. If there are no eligible members, there is no legal attack. Individual hits use normal Power.
@@ -736,7 +742,7 @@ Track Recoil Strain on the shooter, not the target; 0/1/2/3+ accumulated strain 
 
 **JOINTS / GAPS / EXPOSED AREAS:** Medium and Heavy suits include built-in **Light-equivalent AR 25 underarmor** at protected joints and structural gaps, resolved instead of (never added to) AR 45/75; protected Light armor regions use their Light AR 25. Completely unprotected places such as exposed face/eyes/skin have **AR 0** if an attack successfully and legitimately targets them. Do not separately track paid light armor layers beneath Medium/Heavy. Different extents of armor coverage create tactical opportunities with different future SPD/STR burdens. A single outfit-level burden is required, with details pending.
 
-**REAR ARMOR BONUS, APPROVED:** The defender must be genuinely vulnerable to an exposed-rear hit via surprise or a tactically earned positional opening (including appropriate meaningful Pressure); a conventional shot does not get it merely because the attacker is behind an alert opponent. A qualifying rear attack adds **+0.05 absolute penetration fraction** (+5 percentage points) to existing applicable armor penetration, **capped at 1.00**, before squaring remaining covered AR. Example at 50% baseline penetration: `effective covered AR = AR × (1 − 0.55)`; this is **not** −15% AR. No automatic new PP, free hit or extra wound multiplier; it provides no additional benefit if target AR is already 0.
+**REAR ARMOR BONUS, APPROVED:** The defender must be genuinely vulnerable to an exposed-rear hit via surprise or a tactically earned positional opening (including appropriate meaningful Pressure); a conventional shot does not get it merely because the attacker is behind an alert opponent. A qualifying rear attack adds **+0.10 absolute penetration fraction** (+10 percentage points) to existing applicable armor penetration, **capped at 1.00**, before squaring remaining covered AR. Example at 50% baseline penetration: `effective covered AR = AR × (1 − 0.60)`; this is **not** −15% AR. No automatic new PP, free hit or extra wound multiplier; it provides no additional benefit if target AR is already 0.
 
 **FUTURE ACID ELEMENT/EFFECT:** Acid is to be available as an elemental *enchantment* offensive effect capable of **reducing Armor Rating no lower than 0**. It does not automatically reduce END², nor does it establish another mana color. Damage/reduction amount, duration, repair, material interactions, stacking and rule sequencing remain to be designed and approved later.
 
