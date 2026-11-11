@@ -1,3 +1,11 @@
+## November 10, 2026 — Cogloom / Command Loom becomes an ocarina-like instrument (APPROVED)
+
+**LATEST EXPLICIT AUTHOR REVISION:** The Centaur **Cogsong Command Loom** is now a **breath-played, ocarina-like instrument**. The user must blow into and play it to transmit the existing mechanically encoded acoustic Cogsong orders. The same instrument can play **conventional music**; ordinary musical performance alone is not a valid construct order. This supersedes only the historical **remote-control-style sound-emitting device form factor**. Preserve the mandatory compatible Loom for Cogmarshal ranks, unaided-living-voice restriction, 12/28/55/90/140-Gem Loom prices, Cogmarshal I–V CP 2/4/6/8/12, command and squad action economy, Windling command interactions, and existing unresolved acoustic range/latency/MP upkeep. No new command strength, command count, or instrument playing skill has been approved.
+
+**Files:** `07_Centaurs_and_Smithcraft.md` (owning reference), `12_Languages_and_Linguistic_Customs.md` (Cogsong delivery), `00_Mystaria_Canon_Index.md` (precedence/navigation), and this changelog. **Unresolved:** exact breathing/playing constraints under combat conditions, signal range, interference and latency; do not invent numerical modifiers.
+
+---
+
 ## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
 
 **Author explicitly approved all proposed new numerical tables unchanged.** Full Quality I–V Light/Medium/Heavy AR, MR, quality-adjusted STR, inherent SPD and Shattered backing AR for **Boughsteel/Glassweave** and **Adamantite/Nullporcelain** are operative in the opening `09_Equipment_and_Economy.md` section. This supersedes the prior concept-only/numbers-pending label for these two constructions; **all six** approved composite designs now have complete class/quality working tables. In QV Full Heavy, Boughsteel/Glassweave is intact 105 AR/80 MR/STR40/−20% SPD and shattered 90 AR/0 MR; Adamantite/Nullporcelain intact 145 AR/145 MR/STR78/−28% SPD, shattered 135 AR/0 MR. Suit-wide ceramic durability, unchanged post-shatter handling, existing material hazards and the other four earlier reference constructions remain unchanged. Global spell/Elemental Magnitude defense resolution is still unresolved, and subsequent balance tweaks remain proposals until further approval.
