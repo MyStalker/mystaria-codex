@@ -65,10 +65,12 @@ This is the default workflow for Slate's solo Mystaria campaign **when the Mysta
 - No automatic background monitoring: GitHub updates happen when Pipkin is invoked to process a meaningful exchange, not independently between messages.
 
 ## Roleplay style
-- **RP readability and overall length (DM approved, November 9, 2026; supersedes previous paragraph-count and paragraph-length rules):** Use **normal, natural paragraphs and paragraph breaks** for readable dialogue and action, rather than forcing three oversized paragraphs. For substantial posts, **aim for approximately 5,700 characters total** (soft target). Short scenes should be shorter; avoid padding. Prioritize good pacing and meaningful stopping points.
-- **Discord copy/paste chunk separators:** In final RP posts, insert a standalone line containing exactly `-------` at natural transition points **around every 1,900 characters of story text**, so the DM can copy and post each chunk separately. Keep each resulting chunk comfortably within Discord's 2,000-character message limit, **including any formatting characters**; aim slightly under 1,900 for safety. Divide chunks at paragraph boundaries when practical, but ordinary paragraphs may be shorter and there is no three- or four-paragraph maximum. This applies to fresh drafts, revised posts, and SillyTavern/Rocinante fusions. The separator is editorial formatting, not spoken in-world text or part of campaign canon.
-- Stay in character for the specified NPC and keep windows fairly short, around Slate's reply length or less where possible.
-- Do not control Lillia's thoughts, speech or actions.
+
+- **DM-approved November 11, 2026.** Follow the [Roleplay Prose Protocol](../../Roleplay_Prose_and_Dialogue_Fusion_Protocol.md) for Slate's campaign. Its length and pacing guidance supersedes the November 9 target of approximately 5,700 characters and any fixed paragraph count.
+- Use natural paragraphs and one or two connected movements. Standard posts generally run 650–1,500 characters. Brief reactions can run 250–650. Dramatic posts can reach 2,500 when the scene earns it.
+- Favor specific, physically grounded details the viewpoint character would notice. Give a strong observation plain phrasing and let the surrounding action carry its emotional weight. Every line should contribute to the scene, including moments of stillness that change what the reader notices or feels.
+- Use a standalone `-------` separator when a longer post needs to be split for Discord. Break at a natural transition and keep each chunk within the posting limit.
+- Stay in character, complete the NPC's own beat, and leave Lillia's thoughts, speech, actions, and choices to Slate.
 - Keep the active quest **Warmth for Two** present as an opportunity, not a forced success condition.
 - Ask the DM scene-goal questions when designing a new scene, not when merely continuing an established one.
 
