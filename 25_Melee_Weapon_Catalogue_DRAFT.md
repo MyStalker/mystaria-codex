@@ -1,3 +1,9 @@
+## November 10, 2026 — Approved primary damage-form references and secondary Piercing calibration
+
+Primary/secondary damage-form reference profiles are approved. Full operative table and scope are in the opening Equipment and Combat entries. Greatsword secondary Point thrust uses F0.90 of its primary and 25% AR bypass; maul primary Bludgeoning has Wide Sweep and 25% bypass. Dedicated primary Piercing reference F0.90 / bypass50%; specialized point F0.85 / bypass65%, relative to Bludgeoning F1.00. Slashing reference F1.10 / bypass0%. These supersede older conflicting draft form/coverage notes. Individual weapon Fs, class/material candidate values and prerequisites remain under calibration. Next test actual Both-stat greatsword versus STR-led maul and dedicated piercing shapes.
+
+---
+
 # Mystaria Melee Weapon Catalogue — DESIGN DRAFT (not yet canon)
 
 **Status:** PROPOSAL FOR AUTHOR REVIEW, created November 6, 2026. **Every numeric weapon-specific `F` and stat minimum, every individual assignment of STR/DEX/Either/Both, reach and coverage below is UNAPPROVED.** The approved shared framework is referenced, never silently changed. This draft is for *weapon shapes* only, not armor, material composition, quality, enchantments or prices.
