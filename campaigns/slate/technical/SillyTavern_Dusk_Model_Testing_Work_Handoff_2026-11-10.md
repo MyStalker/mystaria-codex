@@ -274,3 +274,7 @@ The DM confirmed SillyTavern seed set to `-1` (random) and supplied a **fresh ch
 ## SillyTavern Gemma reasoning preset retest
 - DM reports that after selecting the Gemma 4 reasoning preset, additional swipes on the existing affected Dusk reply still showed thought delimiters. After deleting that reply and regenerating from the same player turn, four fresh swipes showed no visible delimiters.
 - Verified by DM observation only. The test supports regenerating the affected reply as a workaround. It does not isolate retained swipe state, prompt differences, or intermittent marker emission. Keep this as a display observation pending normal play. Noncanonical.
+
+## Gemma context test — November 11, 2026
+
+The DM reports that Gemma 4 12B Q4_K_M passed the 12,288-token context test in the SillyTavern/Oobabooga setup on the 12 GB VRAM GPU. The earlier 8,192-token setting also passed.
