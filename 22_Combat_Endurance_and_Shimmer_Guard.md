@@ -1,3 +1,9 @@
+## November 10, 2026 — Secondary Piercing versus dedicated weapon roles (AUTHOR DESIGN DIRECTION)
+
+The author directs that a greatsword's secondary Piercing thrust perform slightly worse against heavily armored targets than a comparable maul's primary Bludgeoning attack, and significantly worse than a dedicated Piercing weapon. The greatsword must use Slashing for its Wide Sweep; its Piercing thrust uses Point coverage. The maul's intended primary Bludgeoning coverage is Wide Sweep, superseding the older draft's Sweep assignment for this weapon. Preserve actual reach, valid target limits, attribute scaling and weapon-specific tuning. This approval establishes the tactical roles and desired relative effectiveness, not new numeric F, penetration or material multipliers. New numerical implementations remain proposals pending approval. Operative implementation belongs to Equipment and Combat; keep approved armor values intact.
+
+---
+
 
 
 ## November 10, 2026 — Celestite Leydrain tiers, additive overlaps, voluntary-combat Soul Shred and no zero-MP extra punishment (LATEST AUTHOR APPROVAL)

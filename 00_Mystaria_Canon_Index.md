@@ -1,3 +1,9 @@
+## November 10, 2026 — Secondary Piercing versus dedicated weapon roles (AUTHOR DESIGN DIRECTION)
+
+The author directs that a greatsword's secondary Piercing thrust perform slightly worse against heavily armored targets than a comparable maul's primary Bludgeoning attack, and significantly worse than a dedicated Piercing weapon. The greatsword must use Slashing for its Wide Sweep; its Piercing thrust uses Point coverage. The maul's intended primary Bludgeoning coverage is Wide Sweep, superseding the older draft's Sweep assignment for this weapon. Preserve actual reach, valid target limits, attribute scaling and weapon-specific tuning. This approval establishes the tactical roles and desired relative effectiveness, not new numeric F, penetration or material multipliers. New numerical implementations remain proposals pending approval. Operative implementation belongs to Equipment and Combat; keep approved armor values intact.
+
+---
+
 ## November 10, 2026 — Cogloom / Command Loom instrument form approved (LATEST AUTHOR REVISION)
 
 **CENTAUR COGSONG COMMAND DEVICE:** The mandatory **Cogsong Command Loom** is now an **ocarina-like wind instrument** that must be played by blowing into it to issue mechanical Cogsong commands; it can also play **conventional music**. Ordinary music does not automatically transmit valid orders. **This replaces the prior remote-control-like sound-emitter presentation only.** Cogsong itself, Cogmarshal skills and CP, the mandatory Loom requirement, prices, ordered attacks and standing instructions remain unchanged. See `07_Centaurs_and_Smithcraft.md` for operative device lore, `12_Languages_and_Linguistic_Customs.md` for acoustic signaling, and `10_Canon_Changelog.md` for supersession.

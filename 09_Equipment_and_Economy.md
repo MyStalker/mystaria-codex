@@ -1,3 +1,9 @@
+## November 10, 2026 — Secondary Piercing versus dedicated weapon roles (AUTHOR DESIGN DIRECTION)
+
+The author directs that a greatsword's secondary Piercing thrust perform slightly worse against heavily armored targets than a comparable maul's primary Bludgeoning attack, and significantly worse than a dedicated Piercing weapon. The greatsword must use Slashing for its Wide Sweep; its Piercing thrust uses Point coverage. The maul's intended primary Bludgeoning coverage is Wide Sweep, superseding the older draft's Sweep assignment for this weapon. Preserve actual reach, valid target limits, attribute scaling and weapon-specific tuning. This approval establishes the tactical roles and desired relative effectiveness, not new numeric F, penetration or material multipliers. New numerical implementations remain proposals pending approval. Operative implementation belongs to Equipment and Combat; keep approved armor values intact.
+
+---
+
 ## November 10, 2026 — APPROVED six-composite numerical catalogue complete (LATEST AUTHOR APPROVAL)
 
 **LATEST AUTHOR APPROVAL:** Author approved **without changes** the immediately preceding proposed Quality I–V **Full-coverage Light/Medium/Heavy** AR, innate MR, support STR, inherent SPD, and post-Shattered backing AR profiles for **Boughsteel/Glassweave** and **Adamantite/Nullporcelain**. These two designs are no longer concept-only. Six composite constructions now have approved numerical reference profiles. Preserve the four earlier approved construction tables unchanged. This entry **supersedes** the earlier November 10 “two additional composite roles approved; numerical profiles pending” status for these two pairings only.
