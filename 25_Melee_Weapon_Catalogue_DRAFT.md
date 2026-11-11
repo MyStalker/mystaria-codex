@@ -1,3 +1,13 @@
+## November 11, 2026 — Melee alternate attacks and catalogue alignment
+
+**Approved working calibration.** Start genuine secondary attacks at ×0.90 of primary F, with specific profiles taking precedence. Improvised pommel and butt strikes remain capped at comparable unarmed Power. The reference Boughsteel poleaxe's built-in axe face uses F1.089, Slashing Sweep, and 0% AR bypass. Its built-in hammer face uses F1.089, Bludgeoning Narrow, and 25% AR bypass. Apply quality and applicable material factors once. These faces require the actual head to be present. The former axe test candidate was F1.134.
+
+**Catalogue decisions.** The dagger supports a Point thrust and a Narrow slash. The stiletto is thrust-only. The standard mace uses Bludgeoning Narrow. A mace needs a purpose-built spike for a secondary Piercing attack; flanges alone do not qualify. A warhammer's Piercing alternate requires a beak. The war pick's point remains its primary. The halberd's secondary Point uses its top spike; a glaive can thrust with a suitable blade tip. The maul uses the previously approved Bludgeoning Wide Sweep and its clearance rule. Carry the other primary ratings forward at their existing test or draft status. Evaluate the lance's ordinary thrust with its supported charge when the charge procedure is ready.
+
+**Open.** Review secondary Piercing F and AR bypass together before changing those profiles. The currently approved greatsword thrust still uses ×0.90 of its adjusted primary F and 25% bypass.
+
+---
+
 ## November 11, 2026 — Poleaxe spike rating approved for testing
 
 The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.
@@ -120,9 +130,9 @@ The `Stat profile` column uses approved STR / DEX / Either / Both labels; **all 
 | H-01 | Greatsword | Heavy | Long | Both | 1.27 | Slashing | **Wide Sweep** | Piercing / Point (blade thrust) | 1.143 | STR 35 and DEX 24 | — | Large arcs require room; pommel/blunt strike is at most unarmed-equivalent and not a full weapon secondary; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (pommel) |
 | H-02 | Zweihander | Heavy | Long | Both | 1.29 | Slashing | **Wide Sweep** | Piercing / Point (blade thrust) | 1.161 | STR 40 and DEX 28 | — | Length and grip constrain cramped fights; pommel/blunt strike is at most unarmed-equivalent and not a full weapon secondary; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (guard) |
 | H-03 | Greataxe | Heavy | Medium | STR | 1.34 | Slashing | **Wide Sweep** | Blunt / Narrow (poll) | 1.206 | STR 39 | — | Reach Medium despite Heavy mass |
-| H-04 | Maul | Heavy | Medium | STR | 1.32 | Blunt | **Sweep** | None | — | STR 40 | — | Extreme blows can exceed ordinary injury states |
+| H-04 | Maul | Heavy | Medium | STR | 1.32 | Blunt | **Wide Sweep** | None | — | STR 40 | — | Extreme blows can exceed ordinary injury states |
 | H-05 | Great hammer | Heavy | Medium | STR | 1.35 | Blunt | **Sweep** | Piercing / Point (spiked side) | 1.215 | STR 42 | — | Crushing head; spike optional by build |
-| H-06 | Poleaxe | Heavy | Long | Both | 1.21 | Piercing | **Point (top spike)** | Slashing / Sweep (axe) | 1.134 (historical draft) | STR 35 and DEX 24 | — | Three faces only if built with them; other physically valid attack modes for later individual F calibration: Blunt / Narrow (hammer) |
+| H-06 | Poleaxe | Heavy | Long | Both | 1.21 | Piercing | **Point (top spike)** | Slashing / Sweep (axe) | 1.089 | STR 35 and DEX 24 | — | Three faces only if built with them; built-in hammer face: Blunt / Narrow, F1.089 |
 | H-07 | Halberd | Heavy | Long | Both | 1.25 | Slashing | **Sweep** | Piercing / Point (top spike) | 1.125 | STR 33 and DEX 25 | — | Reach control, multiple real heads; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (butt) |
 | H-08 | Glaive | Heavy | Long | Both | 1.24 | Slashing | **Sweep** | Piercing / Point (pointed tip) | 1.116 | STR 30 and DEX 24 | — | Draw cuts, exposed in grapples |
 | H-09 | Pike | Heavy | Long | Both | 1.20 | Piercing | **Line** | Blunt / Narrow (butt) | 1.080 | STR 28 and DEX 22 | — | See opening ruling for the approved Line cap, form and shape factor. The row's absolute F and original minima are historical draft figures. The emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |

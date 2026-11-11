@@ -1,3 +1,9 @@
+## November 11, 2026 — Melee alternate attacks and catalogue alignment
+
+Genuine secondaries start at ×0.90 of primary F in testing, subject to specific profiles. The poleaxe axe and hammer faces use reference F1.089. The catalogue now shows the maul's approved Wide Sweep. See [Equipment](09_Equipment_and_Economy.md) and the [melee catalogue](25_Melee_Weapon_Catalogue_DRAFT.md). Secondary Piercing recalibration remains open.
+
+---
+
 ## November 11, 2026 — Poleaxe spike rating approved for testing
 
 The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.

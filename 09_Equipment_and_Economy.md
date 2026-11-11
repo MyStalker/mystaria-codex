@@ -1,3 +1,13 @@
+## November 11, 2026 — Melee alternate attacks and catalogue alignment
+
+**Approved working calibration.** Start genuine secondary attacks at ×0.90 of primary F, with specific profiles taking precedence. Improvised pommel and butt strikes remain capped at comparable unarmed Power. The reference Boughsteel poleaxe's built-in axe face uses F1.089, Slashing Sweep, and 0% AR bypass. Its built-in hammer face uses F1.089, Bludgeoning Narrow, and 25% AR bypass. Apply quality and applicable material factors once. These faces require the actual head to be present. The former axe test candidate was F1.134.
+
+**Catalogue decisions.** The dagger supports a Point thrust and a Narrow slash. The stiletto is thrust-only. The standard mace uses Bludgeoning Narrow. A mace needs a purpose-built spike for a secondary Piercing attack; flanges alone do not qualify. A warhammer's Piercing alternate requires a beak. The war pick's point remains its primary. The halberd's secondary Point uses its top spike; a glaive can thrust with a suitable blade tip. The maul uses the previously approved Bludgeoning Wide Sweep and its clearance rule. Carry the other primary ratings forward at their existing test or draft status. Evaluate the lance's ordinary thrust with its supported charge when the charge procedure is ready.
+
+**Open.** Review secondary Piercing F and AR bypass together before changing those profiles. The currently approved greatsword thrust still uses ×0.90 of its adjusted primary F and 25% bypass.
+
+---
+
 ## November 11, 2026 — Poleaxe spike rating approved for testing
 
 The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.
