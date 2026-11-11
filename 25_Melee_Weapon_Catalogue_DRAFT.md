@@ -1,3 +1,9 @@
+## November 11, 2026 — Specialized pike shape adjustment approved
+
+The author approved the pike-specific ×0.875 shape adjustment for its qualifying specialized primary Piercing attack. Apply it once to calibrated F alongside the approved specialized primary profile (relative F0.85 and 65% AR bypass). Use Both-stat scaling at 0.65 × (effective STR + effective DEX) with both requirements met. The reference pike uses Long reach and Line geometry. The specialized bypass requires a qualifying head and attack. Line alone does not grant extra targets, retained Power through a first target, or additional bypass. Keep the existing STR14 and DEX11 test minima for reference construction. Absolute class and material Fs, final minimums, and multi-target penetrating Proficiency details remain open. See Equipment and Combat for application.
+
+---
+
 ## November 10, 2026 — Greatsword shape adjustment approved
 
 **AUTHOR APPROVAL:** Apply the greatsword-specific ×0.875 shape adjustment to its calibrated attack F, for both its primary Slashing Wide Sweep and its genuine secondary Piercing Point thrust. Apply it once; the thrust remains ×0.90 of that same adjusted primary F and retains 25% AR bypass. Governing attack attribute remains 0.65 × (effective STR + effective DEX), subject to both requirements. The adjustment was approved against Thornguard generalist calibration; it is not a global Both-stat factor. Do not multiply obsolete draft item Fs by this factor as an additional calibration layer. Absolute item Fs, class/material proposals, other shapes and final requirements remain subject to approval. See Equipment and Combat for reference attack profiles.
