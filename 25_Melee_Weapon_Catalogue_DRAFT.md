@@ -1,3 +1,9 @@
+## November 11, 2026 — Poleaxe spike rating approved for testing
+
+The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.
+
+---
+
 ## November 11, 2026 — Squad formation and coverage Power (author approved)
 
 For abstract squad resolution, count only the distinct members the attack can actually threaten from its current position. Apply the existing coverage multiplier to Line as well as Sweep and Wide Sweep. One, two, and three eligible members give ×1.00, ×1.50, and ×2.00 aggregate Power, respectively. Sweep caps at two and Wide Sweep and Line cap at three. Apply the relevant facing, clearance, reach, alignment, and obstruction rules before counting. If there are no eligible members, there is no legal attack. Individual hits use normal Power.
@@ -116,7 +122,7 @@ The `Stat profile` column uses approved STR / DEX / Either / Both labels; **all 
 | H-03 | Greataxe | Heavy | Medium | STR | 1.34 | Slashing | **Wide Sweep** | Blunt / Narrow (poll) | 1.206 | STR 39 | — | Reach Medium despite Heavy mass |
 | H-04 | Maul | Heavy | Medium | STR | 1.32 | Blunt | **Sweep** | None | — | STR 40 | — | Extreme blows can exceed ordinary injury states |
 | H-05 | Great hammer | Heavy | Medium | STR | 1.35 | Blunt | **Sweep** | Piercing / Point (spiked side) | 1.215 | STR 42 | — | Crushing head; spike optional by build |
-| H-06 | Poleaxe | Heavy | Long | Both | 1.26 | Piercing | **Point (top spike)** | Slashing / Sweep (axe) | 1.134 | STR 35 and DEX 24 | — | Three faces only if built with them; other physically valid attack modes for later individual F calibration: Blunt / Narrow (hammer) |
+| H-06 | Poleaxe | Heavy | Long | Both | 1.21 | Piercing | **Point (top spike)** | Slashing / Sweep (axe) | 1.134 (historical draft) | STR 35 and DEX 24 | — | Three faces only if built with them; other physically valid attack modes for later individual F calibration: Blunt / Narrow (hammer) |
 | H-07 | Halberd | Heavy | Long | Both | 1.25 | Slashing | **Sweep** | Piercing / Point (top spike) | 1.125 | STR 33 and DEX 25 | — | Reach control, multiple real heads; emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed; other physically valid attack modes for later individual F calibration: Blunt / Narrow (butt) |
 | H-08 | Glaive | Heavy | Long | Both | 1.24 | Slashing | **Sweep** | Piercing / Point (pointed tip) | 1.116 | STR 30 and DEX 24 | — | Draw cuts, exposed in grapples |
 | H-09 | Pike | Heavy | Long | Both | 1.20 | Piercing | **Line** | Blunt / Narrow (butt) | 1.080 | STR 28 and DEX 22 | — | See opening ruling for the approved Line cap, form and shape factor. The row's absolute F and original minima are historical draft figures. The emergency butt/hilt/pommel attack no stronger than comparable unarmed strike unless specially designed |

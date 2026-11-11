@@ -1,3 +1,11 @@
+## November 11, 2026 — Poleaxe spike rating approved for testing
+
+The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.
+
+The older candidate matrix below retains its original inputs and outputs for comparison. Use the approved rating above for subsequent tests.
+
+---
+
 ## November 10, 2026 — Greatsword shape adjustment approved
 
 **AUTHOR APPROVAL:** Apply the greatsword-specific ×0.875 shape adjustment to its calibrated attack F, for both its primary Slashing Wide Sweep and its genuine secondary Piercing Point thrust. Apply it once; the thrust remains ×0.90 of that same adjusted primary F and retains 25% AR bypass. Governing attack attribute remains 0.65 × (effective STR + effective DEX), subject to both requirements. The adjustment was approved against Thornguard generalist calibration; it is not a global Both-stat factor. Do not multiply obsolete draft item Fs by this factor as an additional calibration layer. Absolute item Fs, class/material proposals, other shapes and final requirements remain subject to approval. See Equipment and Combat for reference attack profiles.

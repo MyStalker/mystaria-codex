@@ -1,3 +1,9 @@
+## November 11, 2026 — Poleaxe spike rating approved for testing
+
+The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.
+
+---
+
 ## November 11, 2026 — Squad formation and coverage Power (author approved)
 
 Line now uses the shared squad Power multiplier. Count only members actually threatened given the squad's formation and the attack's position, clearance, and coverage. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and the [Cogmarshal follow-up](07_Centaurs_and_Smithcraft.md).
