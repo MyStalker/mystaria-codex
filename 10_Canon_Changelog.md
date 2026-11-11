@@ -1,12 +1,22 @@
+## November 11, 2026 — Line coverage and pike Piercing revision (author approved)
+
+**Line coverage.** One Line attack may damage up to three distinct, physically reachable targets positioned in a straight line outward from the wielder. Line should be harder to execute and somewhat weaker than Sweep. Sweep retains its two-target cap in the forward arc. Line hit difficulty, per-target Power allocation or retention, group Power, and any penetration Proficiency remain unresolved.
+
+**Pike and primary Piercing.** Retire the separate specialized Piercing profile (F0.85 and 65% AR bypass). The Heavy, Long, Both-stat pike uses ordinary primary Piercing (relative F0.90 and 50% AR bypass) with a pike-specific ×0.90 shape factor applied once. Its combined relative F is 0.81 before class, material and quality. When qualified, use A = 0.65 × (effective STR + effective DEX). Reference test minima are STR14 and DEX11. Final requirements and absolute class, material and individual weapon Fs remain under calibration.
+
+Owners: `09_Equipment_and_Economy.md` and `22_Combat_Endurance_and_Shimmer_Guard.md`. Updated the Canon Index and `25_Melee_Weapon_Catalogue_DRAFT.md`. The prior pike ×0.875 shape factor and specialized F0.85 / 65% profile are superseded.
+
+---
+
 ## November 11, 2026 — Adamantite material advantage and Medium bludgeoning benchmark
 
 The author confirmed that Adamantite weapons should deal substantially more damage against weaker armor materials. Equipment records the Medium bludgeoning baseline, the matchup results, and the withdrawal of the proposed Heavy Adamantite reduction motivated solely by weaker-plate outcomes. The Heavy ×1.25 value remains a test candidate. Next evaluate specialized pike injury outcomes against matching armor. Numerical class and material factors remain provisional.
 
 ---
 
-## November 11, 2026 — Specialized pike shape adjustment approved
+## November 11, 2026 — Specialized pike shape adjustment (superseded historical ruling)
 
-The author approved the pike-specific ×0.875 shape adjustment for its qualifying specialized primary Piercing attack. Apply it once to calibrated F alongside the approved specialized primary profile (relative F0.85 and 65% AR bypass). Use Both-stat scaling at 0.65 × (effective STR + effective DEX) with both requirements met. The reference pike uses Long reach and Line geometry. The specialized bypass requires a qualifying head and attack. Line alone does not grant extra targets, retained Power through a first target, or additional bypass. Keep the existing STR14 and DEX11 test minima for reference construction. Absolute class and material Fs, final minimums, and multi-target penetrating Proficiency details remain open. See Equipment and Combat for application.
+**Historical.** The author approved the pike-specific ×0.875 shape adjustment for its qualifying specialized primary Piercing attack. Apply it once to calibrated F alongside the approved specialized primary profile (relative F0.85 and 65% AR bypass). Use Both-stat scaling at 0.65 × (effective STR + effective DEX) with both requirements met. The reference pike uses Long reach and Line geometry. The specialized bypass requires a qualifying head and attack. Line alone does not grant extra targets, retained Power through a first target, or additional bypass. Keep the existing STR14 and DEX11 test minima for reference construction. Absolute class and material Fs, final minimums, and multi-target penetrating Proficiency details remain open. See Equipment and Combat for application.
 
 ---
 
@@ -18,7 +28,7 @@ The author approved the pike-specific ×0.875 shape adjustment for its qualifyin
 
 ## November 10, 2026 — Approved primary damage-form references and secondary Piercing calibration
 
-Primary/secondary damage-form reference profiles are approved. Full operative table and scope are in the opening Equipment and Combat entries. Greatsword secondary Point thrust uses F0.90 of its primary and 25% AR bypass; maul primary Bludgeoning has Wide Sweep and 25% bypass. Dedicated primary Piercing reference F0.90 / bypass50%; specialized point F0.85 / bypass65%, relative to Bludgeoning F1.00. Slashing reference F1.10 / bypass0%. These supersede older conflicting draft form/coverage notes. Individual weapon Fs, class/material candidate values and prerequisites remain under calibration. Next test actual Both-stat greatsword versus STR-led maul and dedicated piercing shapes.
+**Historical profile approval.** The specialized profile described here was subsequently retired. Primary/secondary damage-form reference profiles are approved. Full operative table and scope are in the opening Equipment and Combat entries. Greatsword secondary Point thrust uses F0.90 of its primary and 25% AR bypass; maul primary Bludgeoning has Wide Sweep and 25% bypass. Dedicated primary Piercing reference F0.90 / bypass50%; specialized point F0.85 / bypass65%, relative to Bludgeoning F1.00. Slashing reference F1.10 / bypass0%. These supersede older conflicting draft form/coverage notes. Individual weapon Fs, class/material candidate values and prerequisites remain under calibration. Next test actual Both-stat greatsword versus STR-led maul and dedicated piercing shapes.
 
 ---
 
