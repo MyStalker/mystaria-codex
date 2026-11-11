@@ -98,3 +98,16 @@ Surrender has two contrasting presentation registers: **ordinary patronage** is 
 - Dusk may notice Lillia's eagerness through posture, expression, proximity and (in fiction) scent *before she speaks*, and respond with unusual immediate confidence, aggressive affection, and fewer customary restraints. Make him feel recognizably Dusk, rather than a generic aggressive character.
 - Show mutual willingness clearly in the scene; Lillia retains full agency to welcome, redirect, stop or refuse touch. Do not narrate Lillia's voluntary consent or actions for Slate, or presume an unplayed physical action occurred. Any contact needs to remain consistent with what the player actually accepts during play.
 - Convey sensual/charged atmosphere non-graphically. The DM has not yet provided a completed `DM:/Lillia:` exchange for this planned scene; do not log any of this as historical events in `Live_Chronicle.md`.
+
+## SillyTavern to GPT Handoff Procedure
+
+**Invocation:** “Let's do the SillyTavern handoff procedure, here's the JSON file.” Accept spelling variations including “proceedure.” The DM supplies a SillyTavern JSONL chat export and any corrections made outside the app.
+
+1. Read the export as source material. For each NPC turn, use its selected swipe, checking the exported swipe index and available metadata. Preserve the user/player turns and distinguish director notes, setup, test material, and actual dialogue. Flag missing or ambiguous selection data rather than choosing silently.
+2. Confirm final/send status from the DM's accompanying statement. Invoking this procedure alone does not establish that every selected reply was sent to Slate. Ask only about unresolved status or corrections necessary to determine the played exchange. Exclude unselected swipes and abandoned drafts from events.
+3. Read the latest relevant GitHub canon and compare chronology, identities, character knowledge, inventory, quests, and unresolved choices. Flag discrepancies for DM resolution. Explicit DM corrections take precedence.
+4. Prepare a concise, non-graphic continuity summary covering confirmed events, discoveries, relationship changes, boundaries or agreements, promises, injuries, inventory changes, unresolved threads, and the exact next-scene checkpoint. Extract continuity consequences from explicit passages in neutral language. Preserve Slate's control of Lillia.
+5. Present the proposed GitHub changes and material uncertainties for DM approval. Save approved changes and verify successful repository writes before reporting completion. This procedure does not automatically advance RP.
+6. Exports labeled NONCANONICAL TEST remain technical test material. Test relationships, hypothetical years together, generated actions, and example scenes never enter campaign history through this workflow.
+
+**Reusable request:** “Prepare a campaign handoff from this SillyTavern export. Use the selected swipe for each NPC reply. These are the final exchanges sent to Slate. Flag uncertainty about speakers, swipe selection, chronology, or continuity. Summarize confirmed events and relationship developments in non-graphic language, preserve Slate's control of Lillia, and identify the exact continuation point. Show the proposed GitHub changes for approval.”
