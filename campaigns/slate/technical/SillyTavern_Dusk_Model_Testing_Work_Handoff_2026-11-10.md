@@ -257,3 +257,7 @@ The DM confirmed SillyTavern seed set to `-1` (random) and supplied a **fresh ch
 ## Gemma Top K retest — current checkpoint
 - Follow-up export after the requested Top K change (1 to 40, temperature 0.9, UI seed -1) contains three distinct Gemma-tagged replies from the statue turn. All preserve Lillia's agency and show no visible reasoning markers. Two end in statements and one in a question. All share similar surprise, praise, and approach beats.
 - Result supports Top K 1 as the cause of the identical swipes. Export lacks effective sampler values. Next test: retain the working settings and run the existing numbered non-romantic door direction in SillyTavern to assess action compliance and handoff. Noncanonical.
+
+## Gemma numbered door test
+- Three distinct Gemma-tagged swipes on the same visible numbered director prompt used for Magnum and Violet Lotus. Swipe 1 touches the latch, opens, and steps back without showing an unlock. Swipe 2 explicitly completes all three in order. Swipe 3 opens and steps back without unlocking. All three leave Lillia's move to Slate, end without questions, and show no visible reasoning markers.
+- Clear passes: Gemma 1/3, Magnum 2/3, Violet Lotus 2/3. Touching a latch alone does not count as implied unlocking. Three samples per setup and differing model-specific settings limit the comparison. Noncanonical.
