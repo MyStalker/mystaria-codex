@@ -253,3 +253,7 @@ The DM confirmed SillyTavern seed set to `-1` (random) and supplied a **fresh ch
 ## Gemma sampler payload diagnosis
 - Browser request to SillyTavern shows api_type ooba, do_sample true, temperature 0.9, top_k 1, top_p 0.9, min_p 0.05. Seed is absent from the supplied capture. Backend values are unverified.
 - Top K of 1 is the leading explanation: when applied, it leaves one candidate at each step. Next test: change only Top K to 40 in SillyTavern, keep temperature 0.9 and UI seed -1, and generate three new swipes from the same turn. If still identical, check the new payload and backend forwarding. Noncanonical.
+
+## Gemma Top K retest — current checkpoint
+- Follow-up export after the requested Top K change (1 to 40, temperature 0.9, UI seed -1) contains three distinct Gemma-tagged replies from the statue turn. All preserve Lillia's agency and show no visible reasoning markers. Two end in statements and one in a question. All share similar surprise, praise, and approach beats.
+- Result supports Top K 1 as the cause of the identical swipes. Export lacks effective sampler values. Next test: retain the working settings and run the existing numbered non-romantic door direction in SillyTavern to assess action compliance and handoff. Noncanonical.
