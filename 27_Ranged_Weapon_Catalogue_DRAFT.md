@@ -1,3 +1,33 @@
+## November 11, 2026 — Ordinary arrow supply, quiver and recovery (AUTHOR APPROVED; FURTHER AMMO ECONOMICS PAUSED)
+
+**Latest author approval:** The immediately proposed ordinary traditional-arrow construction, Gem Shop resupply bundle, quiver capacity and straightforward recovery rules are accepted as the **working ammunition package**. The author expressly directs **no further ammunition-economics progression until a proper armor pricing baseline is established**, specifically asking whether Adamantite armor is actually priced (it is not yet: existing Adamantite AR/STR/SPD and broad equipment Quality Gem benchmarks do not give finished-suit Gem prices). This pause does **not** cancel approval of this one ammunition package.
+
+### Standard ordinary arrows and heads
+
+- Both approved arrowhead types use the **same ordinary wooden shaft, suitable fletching and compatible nock**, with conventional manufactured metal arrowheads; **Boughsteel is a suitable everyday head material, not compulsory**. No new high-tier alloy, special Smithcraft rank, magic or damage bonus is mandatory for ordinary archery.
+- The two existing distinct head types remain **Piercing point** (narrow hardened concentration of impact, relative form F **0.90**, **50% covered AR bypass**) and **Slashing broadhead** (wide cutting head, relative form F **1.10**, **0% covered AR bypass**). The previously approved physical shot ratio remains **Piercing Power / matched Slashing Power = 81/121** at equal legal draw. Do not add a second penetration effect, material multiplier or new head type.
+- The prepared arrowhead form is determined by **the specific arrow selected and nocked before firing**. Switching form means selecting another prepared arrow, **not field-transforming an already nocked projectile**. Selecting either ordinary arrow does not itself add a separate reload action or change normal bow pace.
+- **No ordinary arrow size tiers, launch-force Strength ratings, upgraded arrow Quality ranks, specialist ammunition matching or automatic shot Power/range enhancements**. One prepared arrow is used per eligible bowshot regardless of approved bow draw cap (100/200/300/400). Preserve physical obstruction and ordinary injury rules.
+
+### Approved working resupply, storage and recovery
+
+| Feature | Author-approved working rule |
+|---|---|
+| **Standard quiver** | Holds **20 ordinary arrows** total, of either approved head form in any mix |
+| **Gem Shop replacement arrows** | **40 ordinary arrows for 1 Gem** as one bundle, without an additional quiver |
+| **Price difference between heads** | **None** for ordinary Slashing versus Piercing; a 40-arrow purchase may mix types in any quantities totaling 40 |
+| **Shot accounting** | **Remove 1 arrow from carried ready ammunition for each shot**; do not assume arrow is destroyed merely because fired |
+| **Post-combat recovery** | Retrieve physically **accessible, intact arrows** after combat where actual circumstances allow. The GM judges accessibility and breakage by actual impact/terrain; **no compulsory percentage roll or individual durability counter** |
+| **Quiver sale/market price** | **UNRESOLVED**: ordinary quiver is mundane equipment, separate from the 40-arrow Gem Shop bundle, with local mundane-market price handled by later economy design |
+
+A missed arrow embedded in soft ground could be recoverable; one broken against exceptional armor may not. **There is no universal guaranteed recovery fraction** or free replenishment. The established early Moonlit Garden **Willow Shortbow (2 Gems including 12 arrows)** remains unchanged; twelve fit in a standard 20-arrow quiver, but no extra quiver is invented into its historical stock description.
+
+**Scope:** Only ordinary traditional bows' Piercing/Slashing arrows receive this universal bundle and quiver treatment. Crossbow bolts, heavy bolts, firearm cartridges and extraordinary ammunition require independent equipment compatibility and pricing design; they do not automatically cost 1 Gem/40 or share an arrow quiver. Ordinary arrows can also circulate as mundane goods; **no Gem-to-mundane-currency exchange rate or local silver/coin tariff is approved** by this divine Gem Shop price. No arrow mass/encumbrance figure, quiver sales price, additional quiver capacity upgrade, fletcher crafting test, special ammunition, magic effect, or universal salvage rule is introduced.
+
+**Author-directed NEXT PRIORITY:** Freeze **additional ammo economics** until finished armor pricing is anchored, beginning with prices for Adamantite Light/Medium/Heavy across Qualities I–V and their distinction from the **14/30/50/70/90 Gem general Quality reference benchmarks**. Re-evaluate provisional weapon and ammo prices as the material/equipment/enchantment portfolio becomes consistent. The approved new **40 arrows / 1 Gem** rule remains on record as a working price, not an invitation to extrapolate prices for other ammo.
+
+---
+
 ## November 11, 2026 — Legendary bow construction, Quality control thresholds and provisional QV prices (AUTHOR APPROVED)
 
 **Latest author ruling:** All immediately preceding bow construction, Quality, pricing and comparative-design suggestions are accepted **as working canon for now**, with the author's **explicit future pricing-revision checkpoint** when enchantments and typical final equipment loadouts are known. These decisions add details to the existing approved four-bow cap/Power/handling/range ladder without replacing its force law, the ordinary two arrowhead forms, or prior high-draw/rifle values.
