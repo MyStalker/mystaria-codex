@@ -1,3 +1,11 @@
+## November 11, 2026 — Legendary bow range profiles and construction boundaries (AUTHOR APPROVED)
+
+**Approved working bow-specific Close / Effective / Far / Extreme distance upper boundaries (feet):** advanced high-draw **15/130/210/300** (previously approved), Titan **20/170/275/390**, Colossal composite **20/205/335/475**, Legendary greatbow **25/245/400/575**. Existing range hit-difficulty and beyond-Extreme ineligibility apply; Power remains unchanged by range. These distinguish the 575-ft greatbow from the 900-ft advanced precision rifle. Full operating and head-form definitions are in `27_Ranged_Weapon_Catalogue_DRAFT.md`.
+
+**Construction principles approved, not numerical crafting rules:** High-cap bows are genuinely separate engineered designs. No single material is universally required for all legendary bows. Ordinary traditional arrows stay mechanically standardized without size/force ratings or extra matching inventory; their Slashing/Piercing head distinction is unchanged. Existing physical Quality requirement benefits remain subject to item appropriateness, but **there is no approved blanket Quality-based bow Power/draw-cap/range increase**. Engineering materials, specific Quality/crafting effects, final mass, Gem prices and market access remain undetermined. This range approval changes no armor, generic material formula, shop benchmark, reload rule or enchanted equipment economics.
+
+---
+
 ## November 11, 2026 — Traditional arrow tiers removed; legendary bow working Powers and handling approved (LATEST AUTHOR CORRECTION)
 
 **LATEST, HIGHEST-PRECEDENCE AUTHOR DECISION:** The author **rejects multiple sizes or numerical draw-force tiers of traditional arrows** as unnecessary rule/inventory complexity, while expressly approving the remaining immediately proposed legendary-bow handling and Power recommendations. **Supersedes** the previous working 100/200/300/400 arrow safe-launch rating categories, the ammunition-derived maximum draw `R`, the rated-arrow fallback for intentional underdraw, and any supposed need to buy, carry, sort, or match an arrow to the bow's cap by a separate ammunition tier. All previous four-tier arrow-ratings/784-case ammo availability results are **historical tests, not operative ammunition mechanics**; do not run them as though they were approved after this correction.
