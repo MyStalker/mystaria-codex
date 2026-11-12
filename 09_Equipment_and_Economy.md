@@ -1252,11 +1252,11 @@ The proposed reservoir consumes a rune slot, stores one color and costs about **
 
 ## Earlier Moonlit Garden shop catalogue and forge
 
-The following is source-derived shop and low-level equipment content from the November 1 compendium. Its separate **Moonlit Forge reinforcement +1…+5 steps** are not automatically equivalent to Centaur Smithcraft quality I–V or the proposed modular rune slots.
+The following is source-derived shop and low-level equipment content from the November 1 compendium. **The offered Gem price tables below are converted ×10 into the current denomination**, without changing their physical or magical item effects. The separate **Moonlit Forge reinforcement +1…+5 steps** were explicitly **RETIRED** by later canon and are retained for historical reference only; those legacy step prices below are not currently available and therefore are intentionally not converted as active items.
 
 ## 31. Surrender's Gem Shop — The Moonlit Garden
 
-**Patron:** Surrender. **Currency:** Gems. **Early-level focus:** Levels 1–10, with extensive items costing three Gems or fewer and selected upgrades at a maximum of twenty-five Gems. **Theme:** Protection, healing, companionship, everyday usefulness, and conventional equipment trusted to responsible Heroes.
+**Patron:** Surrender. **Currency:** Gems. **Early-level focus (new Gem denomination):** Levels 1–10, with extensive starter items priced 10–30 Gems and selected upgrades at a maximum of 250 Gems; prices here are the historical offers' nominal ×10 conversion, not a new mechanically stronger tier. **Theme:** Protection, healing, companionship, everyday usefulness, and conventional equipment trusted to responsible Heroes.
 
 Surrender originally preferred to sell only healing charms, friendship accessories, robes, and defensive blessings. After Heroes complained about facing enormous hostile Starspawn unarmed, and Arrest pointed out that protective authority includes equipping others to defend themselves, Surrender added ordinary weapons, armor, and even lethal equipment. She prefers diplomacy and compassion but does not prohibit her Heroes from defending themselves. The list below preserves applicable stock while applying the later Shimmer rules: free map, clock, compass, and shrine fast travel are not sold as baseline unlocks.
 
@@ -1264,94 +1264,94 @@ Surrender originally preferred to sell only healing charms, friendship accessori
 
 | Weapon | Gems | Description |
 |---|---:|---|
-| Traveler's Cudgel | 1 | Light wooden club for defensive or nonlethal strikes |
-| Little Thorn Dagger | 1 | Compact steel knife for close combat |
-| Wanderer's Sling | 1 | Simple ranged weapon using ordinary stones |
-| Knotted Walking Staff | 1 | Balanced defensive and walking staff |
-| Hearthguard Spear | 2 | Dependable spear with good reach |
-| Gardener's Handaxe | 2 | Light axe useful in combat and woodcutting |
-| Traveler's Shortsword | 2 | Balanced steel blade with fitted scabbard |
-| Willow Shortbow | 2 | Light bow with twelve arrows |
-| Hand Crossbow | 3 | Compact crossbow with twelve bolts |
-| Guardian's Longsword | 3 | Durable, balanced longsword |
-| Pilgrim's Warhammer | 3 | Heavy strike weapon useful against armor |
-| Mercybrand | 3 | Enchanted dagger with switchable blunt-force setting |
+| Traveler's Cudgel | 10 | Light wooden club for defensive or nonlethal strikes |
+| Little Thorn Dagger | 10 | Compact steel knife for close combat |
+| Wanderer's Sling | 10 | Simple ranged weapon using ordinary stones |
+| Knotted Walking Staff | 10 | Balanced defensive and walking staff |
+| Hearthguard Spear | 20 | Dependable spear with good reach |
+| Gardener's Handaxe | 20 | Light axe useful in combat and woodcutting |
+| Traveler's Shortsword | 20 | Balanced steel blade with fitted scabbard |
+| Willow Shortbow | 20 | Light bow with twelve arrows |
+| Hand Crossbow | 30 | Compact crossbow with twelve bolts |
+| Guardian's Longsword | 30 | Durable, balanced longsword |
+| Pilgrim's Warhammer | 30 | Heavy strike weapon useful against armor |
+| Mercybrand | 30 | Enchanted dagger with switchable blunt-force setting |
 
 ### Armor — Early Stock
 
 | Armor | Gems | Description |
 |---|---:|---|
-| Padded Tunic | 1 | Basic protection from scratches and light strikes |
-| Traveler's Cloak | 1 | Rain-resistant with concealed pocket |
-| Softstep Boots | 1 | Quiet footwear with good traction |
-| Leather Bracers | 1 | Forearm protection |
-| Leather Vest | 2 | Light armor preserving mobility |
-| Willow Buckler | 2 | Small defensive shield |
-| Hearthguard Helm | 2 | Head protection with good visibility |
-| Wayfarer's Chain Shirt | 3 | Medium armor at some weight cost |
-| Guardian's Shield | 3 | Robust full-size shield |
-| Briarplate Harness | 3 | Light armor that resizes to fit |
-| Moonweave Robe | 3 | Cloth armor with minor magic resistance |
+| Padded Tunic | 10 | Basic protection from scratches and light strikes |
+| Traveler's Cloak | 10 | Rain-resistant with concealed pocket |
+| Softstep Boots | 10 | Quiet footwear with good traction |
+| Leather Bracers | 10 | Forearm protection |
+| Leather Vest | 20 | Light armor preserving mobility |
+| Willow Buckler | 20 | Small defensive shield |
+| Hearthguard Helm | 20 | Head protection with good visibility |
+| Wayfarer's Chain Shirt | 30 | Medium armor at some weight cost |
+| Guardian's Shield | 30 | Robust full-size shield |
+| Briarplate Harness | 30 | Light armor that resizes to fit |
+| Moonweave Robe | 30 | Cloth armor with minor magic resistance |
 
 ### Consumables — Early Stock
 
 | Consumable | Gems | Description |
 |---|---:|---|
-| Honeyberry Ration ×3 | 1 | Travel food supporting recovery after rest |
-| Softleaf Bandage ×3 | 1 | Treats minor bleeding and covers wounds |
-| Warmth Drop ×2 | 1 | One hour of warmth per dose |
-| Kindling Seed ×3 | 1 | Starts a controlled campfire when watered |
-| Antitoxin Sweet | 1 | Reduces mild natural poisons |
-| Little Healing Vial | 2 | Heals minor injuries |
-| Mana Dew | 2 | Restores some usable mana or external vessel charge |
-| Featherfall Candy | 2 | Slows one fall if eaten beforehand |
-| Cleansing Soap ×3 | 2 | Cleans dirt and weak magical contamination |
-| Moonlight Remedy | 3 | Treats moderate wounds; stabilizes severe injury |
-| Calming Blossom ×2 | 3 | Soothing scent, not mind control |
-| Sanctuary Seed | 3 | Brief stationary defensive dome |
+| Honeyberry Ration ×3 | 10 | Travel food supporting recovery after rest |
+| Softleaf Bandage ×3 | 10 | Treats minor bleeding and covers wounds |
+| Warmth Drop ×2 | 10 | One hour of warmth per dose |
+| Kindling Seed ×3 | 10 | Starts a controlled campfire when watered |
+| Antitoxin Sweet | 10 | Reduces mild natural poisons |
+| Little Healing Vial | 20 | Heals minor injuries |
+| Mana Dew | 20 | Restores some usable mana or external vessel charge |
+| Featherfall Candy | 20 | Slows one fall if eaten beforehand |
+| Cleansing Soap ×3 | 20 | Cleans dirt and weak magical contamination |
+| Moonlight Remedy | 30 | Treats moderate wounds; stabilizes severe injury |
+| Calming Blossom ×2 | 30 | Soothing scent, not mind control |
+| Sanctuary Seed | 30 | Brief stationary defensive dome |
 
 ### Utility Items — Early Stock
 
 | Item | Gems | Description |
 |---|---:|---|
-| Everdry Matches | 1 | Reusable weatherproof firestarter |
-| Little Compass | 1 | Physical gift compass, redundant with free Shimmer compass |
-| Traveler's Journal | 1 | Automatically dates notes and preserves sketches |
-| Dewdrop Canteen | 1 | Purifies ordinary freshwater placed inside |
-| Mosslight Pebble | 1 | Eight hours of dim light |
-| Pocket Repair Kit | 1 | Mundane repair supplies |
-| Whisperleaf Token ×2 | 2 | Paired leaves send brief speech across one mile |
-| Gentle Translator | 2 | Communicates simple intent to nonspeaking Starspawn; not full Starsong translation |
-| Starlit Lantern | 2 | Refill-free adjustable magic lantern |
-| Starspawn Treat Pouch | 2 | Treats for earning trust, without compulsion |
-| Homeward Compass | 3 | Points to designated familiar safe location |
-| Friendship Ribbon | 3 | Warns of distress in willing nearby companion |
-| Waymark Chalk ×3 | 3 | Leaves temporary navigational waymarks; not teleportation points |
-| Pocket Campsite | 3 | Folding dry two-person shelter |
+| Everdry Matches | 10 | Reusable weatherproof firestarter |
+| Little Compass | 10 | Physical gift compass, redundant with free Shimmer compass |
+| Traveler's Journal | 10 | Automatically dates notes and preserves sketches |
+| Dewdrop Canteen | 10 | Purifies ordinary freshwater placed inside |
+| Mosslight Pebble | 10 | Eight hours of dim light |
+| Pocket Repair Kit | 10 | Mundane repair supplies |
+| Whisperleaf Token ×2 | 20 | Paired leaves send brief speech across one mile |
+| Gentle Translator | 20 | Communicates simple intent to nonspeaking Starspawn; not full Starsong translation |
+| Starlit Lantern | 20 | Refill-free adjustable magic lantern |
+| Starspawn Treat Pouch | 20 | Treats for earning trust, without compulsion |
+| Homeward Compass | 30 | Points to designated familiar safe location |
+| Friendship Ribbon | 30 | Warns of distress in willing nearby companion |
+| Waymark Chalk ×3 | 30 | Leaves temporary navigational waymarks; not teleportation points |
+| Pocket Campsite | 30 | Folding dry two-person shelter |
 
 ### Shimmer Convenience Upgrades
 
 | Upgrade | Gems | Effect |
 |---|---:|---|
-| Pocket Inventory I | 2 | +4 slots |
+| Pocket Inventory I | 20 | +4 slots |
 | Item Appraisal I | 2 | More detail about commonly encountered objects; basic tooltips remain free |
-| Quick Equip I | 2 | Two equipment-swap presets outside combat |
-| Party Display I | 2 | Tracks conditions of willing party members |
-| Cartographer's Eye | 3 | Enhanced terrain detail |
-| Trailkeeper | 3 | Tracks previously traveled safe routes |
-| Quest Reminder I | 1 | Enhanced alerts and objective notifications; basic journal remains free |
-| Dialogue Notes I | 2 | Tracks names and important consensual conversation details |
+| Quick Equip I | 20 | Two equipment-swap presets outside combat |
+| Party Display I | 20 | Tracks conditions of willing party members |
+| Cartographer's Eye | 30 | Enhanced terrain detail |
+| Trailkeeper | 30 | Tracks previously traveled safe routes |
+| Quest Reminder I | 10 | Enhanced alerts and objective notifications; basic journal remains free |
+| Dialogue Notes I | 20 | Tracks names and important consensual conversation details |
 | Item Sorting I | 1 | Inventory categorization |
-| Pocket Inventory II | 6 | +8 additional slots |
-| Route Planner | 5 | Estimates paths through explored territory |
-| Shared Cartography | 8 | Voluntary map sharing |
-| Traveling Armory | 8 | Three dedicated quick-access weapon slots |
-| Party Link | 9 | Share map and condition information with up to four willing allies |
-| Traveler's Inventory | 10 | +12 slots |
-| Shrinebound Company | 12 | Group shrine travel for consenting companions using patron network |
-| Guardian's Embrace | 16 | Once daily, limited survivability blessing against an incapacitating strike |
-| Evergreen Satchel | 18 | +20 slots and enlarged permitted item size |
-| Hearthstone Recall | 25 | Once daily return to registered patron shrine after uninterrupted five-second channel; blocked by certain restraints or seals |
+| Pocket Inventory II | 60 | +8 additional slots |
+| Route Planner | 50 | Estimates paths through explored territory |
+| Shared Cartography | 80 | Voluntary map sharing |
+| Traveling Armory | 80 | Three dedicated quick-access weapon slots |
+| Party Link | 90 | Share map and condition information with up to four willing allies |
+| Traveler's Inventory | 100 | +12 slots |
+| Shrinebound Company | 120 | Group shrine travel for consenting companions using patron network |
+| Guardian's Embrace | 160 | Once daily, limited survivability blessing against an incapacitating strike |
+| Evergreen Satchel | 180 | +20 slots and enlarged permitted item size |
+| Hearthstone Recall | 250 | Once daily return to registered patron shrine after uninterrupted five-second channel; blocked by certain restraints or seals |
 
 Hearthstone Recall remains an exceptional paid upgrade because it permits travel **to a registered shrine from elsewhere**, subject to restrictions; it is not unrestricted teleportation among arbitrary waymarks.
 
@@ -1371,23 +1371,23 @@ The forge can bless ordinary acquired equipment as well as Gem Shop purchases. E
 
 | Modification | Gems | Effect |
 |---|---:|---|
-| Blunted Mercy | 1 | Ordinary or nonlethal attack setting for suitable weapon |
-| Sure Grip | 1 | More resistant to disarming |
-| Lightweight Balance | 2 | Less fatigue wielding a weapon |
-| Returning Bond | 3 | Once per encounter, recalls a thrown weapon |
-| Briarthorn Edge | 3 | Minor extra piercing effect |
-| Moonlit Strike | 5 | Once per rest, a brief white-mana empowered strike |
+| Blunted Mercy | 10 | Ordinary or nonlethal attack setting for suitable weapon |
+| Sure Grip | 10 | More resistant to disarming |
+| Lightweight Balance | 20 | Less fatigue wielding a weapon |
+| Returning Bond | 30 | Once per encounter, recalls a thrown weapon |
+| Briarthorn Edge | 30 | Minor extra piercing effect |
+| Moonlit Strike | 50 | Once per rest, a brief white-mana empowered strike |
 
 ### Armor Modifications
 
 | Modification | Gems | Effect |
 |---|---:|---|
-| Comfortable Fit | 1 | Tailors fit, reduces chafing |
-| Quiet Threading | 1 | Reduces noise in motion |
-| Warm Embrace | 2 | Protection from mild cold |
-| Guardian Stitch | 3 | Lessens the first incoming strike of each encounter |
-| Featherweight | 3 | Reduces armor movement penalty |
-| Bloomward Protection | 5 | Short-lived protective white-mana shield once per rest |
+| Comfortable Fit | 10 | Tailors fit, reduces chafing |
+| Quiet Threading | 10 | Reduces noise in motion |
+| Warm Embrace | 20 | Protection from mild cold |
+| Guardian Stitch | 30 | Lessens the first incoming strike of each encounter |
+| Featherweight | 30 | Reduces armor movement penalty |
+| Bloomward Protection | 50 | Short-lived protective white-mana shield once per rest |
 
 Unreinforced equipment supports one modification slot, +3 gear two, and +5 gear three. Modifications do not create indestructible equipment. Altered anatomy may require special fitted gear. Unique divine relics or cursed Regalia may not be compatible with these ordinary upgrades.
 
@@ -1456,7 +1456,7 @@ Candidate names for reservoirs, proposed passive and active rune effects, Longso
 
 **Name and common speech:** Official item name **Leywell**, shortened to **well** in ordinary practical speech; **faithwell** is a widespread *religious* alternative. These are names for the same prayer-charged divine reservoir, not separate models or technologies. Prayers sincerely addressed to anyone can charge a compatible Leywell as established; religious institutions may wrongly insist on only their gods.
 
-**Cogmarshal Command Loom cost (APPROVED):** portable, carried remote controllers with rank-and-quality I–V sale prices **12 / 28 / 55 / 90 / 140 Gems** respectively. Producing one requires the corresponding Cogmarshal rank. No additional SP tree is established; command capacity/range/MP consumption remain unresolved.
+**Cogmarshal Command Loom cost (NEW DENOMINATION):** portable, carried Cogsong wind-instrument controllers with rank-and-quality I–V sale prices **120 / 280 / 550 / 900 / 1,400 Gems** respectively (historical 12 / 28 / 55 / 90 / 140 ×10). Producing one requires the corresponding Cogmarshal rank. No additional SP tree is established; command capacity/range/MP consumption remain unresolved.
 
 **Passive-elemental system vocabulary (APPROVED DIRECTION):** Rename previously proposed **Contact Pressure** to **Elemental Magnitude**, representing the intensity of elemental/energy effects after applicable resistances and situational pathways. The selected *Conditional Contact* approach remains standard for passive elemental weapons. **Elemental Magnitude/element-specific Resistance/status identity is the baseline shared framework for energy-driven magic, particularly Sorcery**, with energy-producing spells providing their **own actual Power and magnitude source** through their established Incantation, INT, MP and alteration rules. Do **not** assign STR-derived weapon contact magnitude to spells, invent missing spell Power or MP prices, or force non-energy magic (healing, memory, non-energy effects) into an elemental-damage equation. Spell entries should eventually show Elemental Magnitude and elemental status interactions as **important mechanical data**, once exact per-spell values are approved. No prior Sorcery rank or named alteration changed here.
 
