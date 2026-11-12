@@ -1,3 +1,22 @@
+## November 11, 2026 — Range-band hit-difficulty calibration approved (LATEST AUTHOR APPROVAL)
+
+**Approved, Option A: accuracy-only range effects.** Resolve range **relative to the firing weapon's own valid Close / Effective / Far / Extreme distance bands**, applying a direct change to the existing **six-tier hit-difficulty ladder**:
+
+| Weapon's range band | Additional difficulty to land a valid shot |
+|---|---|
+| Close | 0 categories |
+| Effective | 0 categories |
+| Far | **1 category harder** |
+| Extreme | **2 categories harder** |
+
+**No range-based reduction to physical shot Power, armor penetration, or injury severity occurs from these bands.** If an otherwise legal shot connects, determine its Power and applicable Defense through the existing ranged family, ammunition, armor, and injury rules; bow partial-draw reduction remains a distinct approved source of lower shot Power. Neither Close nor Effective grants an automatic bonus or hit. The rule supplies **no accuracy bonuses to invalid shots**, and does not declare that a projectile necessarily stops travelling beyond Extreme: out-of-profile distances and their shot eligibility remain for later author review.
+
+**Combine ordinary tactical circumstances without inventing extra rules:** A real exposed target behind approved **Normal / Full / Amazing Cover** adds **1 / 2 / 3 harder categories**, respectively, not Pressure Points; use the actual applicable cover rather than stacking overlapping cover objects for the same exposed line. A separately spent valid **Aim action** makes its next eligible shot **one category easier** and grants **no PP from that same Aim**. Existing Pressure, cover, six-tier end-category caps, line of sight, physical barriers, evasion, handling, recoil, and aiming restrictions still apply. A fully blocking wall makes an ordinary direct shot **ineligible**, regardless of Aim or otherwise favorable difficulty. Aim, Pressure and range do not multiply the intrinsic shot Power.
+
+**Range scope:** This category rule applies to lawful ranged attacks once their **weapon-specific range bands are established**. The five approved advanced test designs currently have explicit **feet** endpoints in the ranged catalogue. Other item-specific numerical bands remain unresolved. The previously approved **10-meter Point Blank Concentrated Burst requirement** is a *separate tactical condition* and is **not** converted, changed, or replaced by the new Close band. Existing arbalest Support STR70 / Handling DEX40 / hand-cocking STR170 or winch STR70 / one setup turn / two reload turns and all five approved shot Power benchmarks are unchanged. Scope and range-band interaction with unusual projectiles, indirect firing, visibility, firing beyond Extreme, or magical effects beyond ordinary physical shots require later specific decisions.
+
+---
+
 ## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
 
 **Bow draw.** For a shot the archer can legally make, usable draw is the lower of effective STR and the engineered draw cap. Shot Power is the bow-and-arrow full-draw Power multiplied by `(usable draw / draw cap)^2`. DEX governs aim and handling. Individual full-draw Power, draw caps, and minimum controllable partial draw remain open for item calibration.
