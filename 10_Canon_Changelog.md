@@ -1,3 +1,13 @@
+## November 11, 2026 — Effective-range accuracy penalties approved (Option A)
+
+**Explicit author approval:** Adopt **accuracy-only** ranged bands: **Close 0**, **Effective 0**, **Far +1 harder hit-difficulty category**, **Extreme +2 harder categories**, measured against the attacking weapon's own bands. The approved five advanced weapons have weapon-specific Close/Effective/Far/Extreme endpoints in **feet**; do not convert numbers or create missing bands for entry designs. **No range-only shot Power, penetration, or injury reduction**, no automatic bonus at Close, and no new global ranged Quality multiplier.
+
+**Cross-system integration:** Ranged Cover retains approved Normal/Full/Amazing **+1/+2/+3 harder** (not PP), and legitimate Aim still costs an attack opportunity to make the next eligible shot **one category easier** (without generating another PP). Apply valid contextual changes on the existing capped six-tier difficulty ladder; physical obstruction makes a direct shot ineligible even after Aim, and multiple overlapping pieces of cover do not automatically stack. Existing Pressure, evasion, recoil, wielding requirements, and partial-bow-draw law are untouched. **Beyond Extreme**, indirect trajectories and special attacks remain unresolved, not newly declared physically impossible. The separately approved **10 m Point Blank Concentrated Burst** condition remains unchanged.
+
+**Files:** `22_Combat_Endurance_and_Shimmer_Guard.md` (owning resolution), `27_Ranged_Weapon_Catalogue_DRAFT.md` (ranged cross-reference and advanced endpoints), `09_Equipment_and_Economy.md` (equipment reference), `10_Canon_Changelog.md` (this approval), and `00_Mystaria_Canon_Index.md` (navigation). Supersedes the earlier *pending* range-difficulty status without altering older approved weapon shot Powers, operating requirements, ranges, or legacy history. Future tuning of range/cover/Aim edge cases requires additional approval.
+
+---
+
 ## November 11, 2026 — Advanced arbalest Option A and ranged range-band units approved
 
 **Explicit author approval:** The advanced 26,000-Power arbalest takes **controlled early availability (Option A)**, with **Support STR70, Handling DEX40, hand cock STR170 or suitable winch STR70, one setup turn, and two reload turns**. These are **working item benchmarks**, not an invented level gate or a replacement of the old entry arbalest X-04 draft. Existing shot Power, 50% Piercing AR bypass, and firing cycle are unchanged. Confirm real rated supports and legal workmanship separately; exact setup reset and whether mechanical cocking gates receive item-Quality relief remain open.
