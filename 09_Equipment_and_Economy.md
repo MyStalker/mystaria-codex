@@ -1,3 +1,21 @@
+## November 11, 2026 — Advanced arbalest controlled access and five effective-range profiles (AUTHOR-APPROVED WORKING CALIBRATION)
+
+**New author decision:** Choose the prior **Option A, controlled early availability** for the **advanced 26,000-Power arbalest**. Its working operating thresholds are **Support STR 70**, **Handling DEX 40**, **hand-cocking STR 170**, or **cocking with a suitable winch at STR 70**. It requires **one setup turn** and **two reload turns** after firing; the shot uses the normal attack action. This is the *advanced model*, not an overwrite of the original catalogue's entry arbalest (X-04) test requirements or Power. A winch does not eliminate the separate Support STR and Handling DEX gates, and no equipment is unlocked by character level. Existing approved workmanship and genuine rated-support rules apply where legitimately eligible; whether workmanship modifies the winch/hand-cocking **mechanism** gate, and when setup must be repeated, remain unresolved rather than invented. The 26,000 shot Power, ordinary Piercing 50% covered-AR bypass, and two-turn reload benchmark are preserved.
+
+**Range approval:** Retain the exact previously offered numeric **Close / Effective / Far / Extreme upper boundaries**, but express every value **in FEET rather than meters, without numerical conversion**. Thus 15 m from the earlier proposal becomes **15 ft**, not an equivalent number of feet. These are approved **working weapon-specific range bands**, not final accuracy modifiers, guaranteed maximum projectile travel distances, ballistic Power falloff, line-of-sight overrides, or new spell/ranged global mechanics. All five profiles are additional advanced designs; entry models keep their preexisting, separately provisional range labels and handling values.
+
+| Advanced design | Close through | Effective through | Far through | Extreme through |
+|---|---:|---:|---:|---:|
+| High-draw bow | 15 ft | 130 ft | 210 ft | 300 ft |
+| Advanced crossbow | 15 ft | 150 ft | 250 ft | 350 ft |
+| Advanced arbalest | 15 ft | 180 ft | 300 ft | 450 ft |
+| Advanced precision rifle | 25 ft | 400 ft | 650 ft | 900 ft |
+| Light precision firearm | 15 ft | 180 ft | 300 ft | 450 ft |
+
+**Approval scope:** Only the **advanced arbalest's Option A handling and setup** and the **five proposed range breakpoints relabeled into feet** were accepted here. The suggested advanced high-draw bow draw STR35 / DEX30 / cap100, crossbow Support28 / DEX30 / cocking STR90 or lever40, rifle Support40 / Recoil70 / DEX50, and light precision firearm Support22 / Recoil38 / DEX40 are **still exploratory test proposals, not approved item requirements**. Approved ranged shot Powers remain 14,500 / 17,000 / 26,000 / 15,000 / 11,800; no blanket ranged Quality-to-Power multiplier is created. Previously approved *other* distances stated in meters, including the firearm Concentrated Burst's existing 10 m Point Blank condition, are not automatically altered by this weapon-range decision. The chosen feet ranges should be tested against existing accuracy, sight, cover, equipment handling, firing cycles, and battlefield geometry before adopting further modifiers.
+
+---
+
 ## November 11, 2026 — Five advanced ranged Power benchmarks approved
 
 Use the following **approved test ratings** for the first five advanced ranged profiles. The bow value is full-draw Power and follows the approved quadratic partial-draw rule. The other values are ordinary landed-shot Power for the test weapon and load. The plate comparisons used genuine Piercing with 50% base AR bypass.
