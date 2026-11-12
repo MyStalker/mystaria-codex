@@ -1,3 +1,52 @@
+## November 11, 2026 — Legendary bow construction, Quality control thresholds and provisional QV prices (AUTHOR APPROVED)
+
+**Latest author ruling:** All immediately preceding bow construction, Quality, pricing and comparative-design suggestions are accepted **as working canon for now**, with the author's **explicit future pricing-revision checkpoint** when enchantments and typical final equipment loadouts are known. These decisions add details to the existing approved four-bow cap/Power/handling/range ladder without replacing its force law, the ordinary two arrowhead forms, or prior high-draw/rifle values.
+
+### Approved working construction identities (illustrative engineering, not exclusive recipes)
+
+| Design | Working physical assembly and role |
+|---|---|
+| **Advanced high-draw bow (cap STR100)** | Reinforced traditional laminates, conventional wood and Boughsteel fittings: the most accessible specialist heavy-draw design. |
+| **Titan bow (cap STR200)** | Thornspring elastic limbs with a Boughsteel spine/fittings; the engineered limb structure distributes heavy draw tension. |
+| **Colossal composite bow (cap STR300)** | Multiple coupled Thornspring limb assemblies distributing very large loads through a specialist frame; lightweight Trufula structural components are a viable *option*, not mandatory, and retain their established fire hazard. |
+| **Legendary greatbow (cap STR400)** | Large, exceptionally efficient coupled elastic limbs, plausibly using Thornspring energy storage, selective Adamantite high-stress joints, and compatible lightweight structural elements. Neither Adamantite nor any one material is universally mandatory. |
+
+**Construction interpretation:** These are the approved current *design directions* and plausible material combinations, **not** rigid blueprints, new material-specific raw Power multipliers, fixed crafting recipes, or new Smithcraft skill/rank/level gates. Thornspring's pre-existing extraordinary elastic-energy storage supports this engineering. Adamantite is useful for small stress-bearing parts, but its density is a major reason not to presume an entire Adamantite bow. Material choices must remain compatible with existing durability, burden and fire properties. Alternate credible assemblies are permitted to be developed later; a bow's already approved intrinsic full-draw Power includes engineering effects and is not recalculated because its recipe contains several materials. Ordinary arrows of either approved head form work with all four designs; never resurrect size/strength-rated arrow tiers.
+
+### Quality I–V handling improvement, author approved
+
+Apply the **already approved physical Quality workmanship requirement factors** (QI **1.00**, QII **0.95**, QIII **0.90**, QIV **0.85**, QV **0.80**) **once** to this bow's *minimum controlled effective draw STR* and separately to its *minimum Handling DEX*. **Round each adjusted minimum up to a whole attribute point**. This newly specifies that appropriate bow Quality can improve the user's control of its minimum partial draw; it does not change the actual archer STR, mechanical full-draw cap, full-draw Piercing/Slashing Power, available arrow types, range boundaries or ordinary firing action.
+
+| Design | QI min STR / DEX | QII | QIII | QIV | QV |
+|---|---|---|---|---|---|
+| High-draw | **35 / 30** | **34 / 29** | **32 / 27** | **30 / 26** | **28 / 24** |
+| Titan | **80 / 35** | **76 / 34** | **72 / 32** | **68 / 30** | **64 / 28** |
+| Colossal | **125 / 40** | **119 / 38** | **113 / 36** | **107 / 34** | **100 / 32** |
+| Greatbow | **180 / 45** | **171 / 43** | **162 / 41** | **153 / 39** | **144 / 36** |
+
+**At adjusted QV Greatbow minimum STR144**, the shooter meeting DEX36 can control an ordinary legal draw of 144. Its full-draw Piercing anchor is still **150,000**, so actual Piercing Power is **150,000 × (144/400)² = 19,440**, prior to normal defender armor. The higher listed cap is not an obligatory minimum STR to operate the bow, but full 150,000 Piercing Power still requires actual STR400 draw and legal DEX. Quality does **not** grant a universal ranged F increase: the existing ordinary melee-specific single-F Quality multiplier is not imported into bowshot Power. No Quality arrow matching, additional reload, free stat point, passive Aim bonus or new advanced-scope exception.
+
+### Provisional Quality V completed weapon pricing (author approved WORKING economic targets)
+
+| Working bow | Quality V finished weapon price target |
+|---|---:|
+| High-draw | **150 Gems** |
+| Titan | **450 Gems** |
+| Colossal composite | **950 Gems** |
+| Legendary greatbow | **1,750 Gems** |
+
+These are **approved provisional planning targets for comparable typical finished Quality V examples**, not universal prices for all custom recipes, enchantment configurations, regional shops or availability situations. The older 90-Gem Quality V base benchmark remains intact as a baseline Quality value, **not a finished weapon price cap**. At the established level-100 typical 4,000-Gem full equipment portfolio, a 1,750-Gem Greatbow is **43.75%** of the planning budget: a meaningful specialization tradeoff, not an equipment-use level gate. Market access direction: High-draw is a relatively obtainable specialist product; Titan needs advanced engineering; Colossal and especially Greatbow commonly require rarer expert commissions. No hard rarity roll, universal seller, level requirement, production time, exact component/material cost, repair fee, or automatic enchantment inclusion is approved.
+
+**Mandatory future price checkpoint (explicit author instruction):** **Revisit the entire legendary bow price ladder after enchantment economics, complete equipment loadouts and representative Hero spending portfolios are better understood**. Include the opportunity cost of armor, runes, other weapons, sight attachments, consumables and any material rarity. Treat 150/450/950/1,750 as **current working canon** until explicit revision, not permanent market law or permission to price full enchantments for free.
+
+### Comparative checks and remaining work
+
+Using the approved quadratic draw law without a new damage modifier, approximate strongest-bow Power changes at effective STR **100: High-draw 14,500; 180: Titan 36,450; 200: Titan 45,000; 225: Colossal 50,625; 300: Colossal 90,000; 310: Greatbow 90,094; 400: Greatbow 150,000**. Transition values are **analysis, not new prerequisites**; actual target range can favor a lower-Power bow with easier range penalty (at STR225/350 ft: Colossal about 50,625 at Extreme +2 vs Greatbow about 47,461 at Far +1). Precision rifle Extreme remains 900 ft and magical sight restrictions remain distinct. Tests do not imply guaranteed hits, character allocation, or per-attack extra wounds.
+
+**Still open:** final marketed names, exact physical components and fabrication steps, specific Smithcraft crafting/repair prerequisites, manufacturing logistics and mass/bulk, individual store inventory and exceptional pricing, arrowhead/ammo production and costs, ordinary quiver capacities, special nontraditional projectile rules, and future post-enchantment price/gear balance tests. Extraordinary partial-draw range adjustments and legendary armor/END retuning are **not introduced**.
+
+---
+
 ## November 11, 2026 — Legendary bow range ladder and construction principles (AUTHOR APPROVED)
 
 **Latest explicit approval:** The author approves the proposed working **Close / Effective / Far / Extreme upper distance boundaries in feet** for the entire four-design advanced traditional-bow family. These are boundaries of weapon-specific hit-difficulty bands, not a change to physical shot Power or bow draw limits.
