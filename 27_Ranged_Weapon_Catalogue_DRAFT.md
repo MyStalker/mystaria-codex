@@ -1,3 +1,13 @@
+## November 12, 2026 — Tenfold Gem denomination for arrows; new bow price candidates pending approval (LATEST ECONOMIC SCALE)
+
+**Currency-only change from the author's approved denomination:** One ordinary **40-arrow** Piercing/Slashing-mix Gem Shop bundle is now **10 whole Gems**, rather than the historical 1-Gem figure. Same 40 arrows, same 20-arrow quiver carrying capacity, no included quiver, physical recovery, unchanged heads and no new arrow sizes/force tiers. The early **Willow Shortbow with 12 arrows** is now **20 Gems** in the converted starter shop, not 2 historical Gems. Every already-approved projectile mechanism or magical cost is unchanged in function by the nominal repricing.
+
+**New economic model:** The author chose a ×10 scaling of the 320-Gem proposed level-100 budget to **W100=3,200 Gems**, ordinary 30%-primary item investment **960 Gems**, preserving about 30% lifetime Gem earnings for consumables and nominal 50% qualifying shop buyback. See `09_Equipment_and_Economy.md`. Original 4,000-Gem wealth and QV bow 150/450/950/1750 price model are **UNDER REVISION**, not valid new-currency finished-bow sale targets.
+
+**Unapproved revised QV physical bow price calibration, not an operative vendor list:** High-draw **320**, Titan **480**, Colossal **640**, Legendary greatbow **800 Gems**. At an illustrative ordinary Quality V Heavy Boughsteel physical melee price of **640 Gems**, the 800-Gem Greatbow is **25% higher**, within the author's suggested **20–25%** engineering premium. These numbers are intentionally **price PROPOSALS**, not newly approved Gem costs. Quality-independent high-force engineering cost floor must be included for lower-Quality advanced bows: **do not make a Quality I STR400-engineered Greatbow cost 1/16 of the Quality V Greatbow merely by dividing by Quality tier**. Keep approved caps, draw-dependent physical Power, minimum handling, Far/Extreme boundaries, and ordinary Piercing/Slashing heads unchanged. All special bolts, cartridges, quivers as separately sold equipment and expanded ammunition economics remain frozen pending firm armor/enchantment budgets.
+
+---
+
 ## November 12, 2026 — Heavy-bow price review requested; profiles remain approved (PRICES NOT YET REBALANCED)
 
 **Author's newest economic feedback:** Current provisional QV finished-bow prices **High-draw 150, Titan 450, Colossal 950 and Greatbow 1,750 Gems** need scrutiny because ordinary two-handed STR-led melee Power scales with the user directly, while bows require engineered cap progression. The author is skeptical of paying an escalating huge premium for the right to exploit legendary STR. **Investigate a highest-cap bow engineering premium around 20%–25% over a properly comparable *normal Heavy two-handed melee finished-weapon price***, but **do not automatically set revised bow prices before reporting any conflicts and gaining explicit price approval**. A normal heavy-weapon price by material, Quality and construction is not yet established; general Quality V **90 Gems** is not such a finished-weapon price.
@@ -24,17 +34,17 @@
 | Feature | Author-approved working rule |
 |---|---|
 | **Standard quiver** | Holds **20 ordinary arrows** total, of either approved head form in any mix |
-| **Gem Shop replacement arrows** | **40 ordinary arrows for 1 Gem** as one bundle, without an additional quiver |
+| **Gem Shop replacement arrows** | **40 ordinary arrows for 10 Gems** as one bundle, without an additional quiver (nominal ×10 new currency) |
 | **Price difference between heads** | **None** for ordinary Slashing versus Piercing; a 40-arrow purchase may mix types in any quantities totaling 40 |
 | **Shot accounting** | **Remove 1 arrow from carried ready ammunition for each shot**; do not assume arrow is destroyed merely because fired |
 | **Post-combat recovery** | Retrieve physically **accessible, intact arrows** after combat where actual circumstances allow. The GM judges accessibility and breakage by actual impact/terrain; **no compulsory percentage roll or individual durability counter** |
 | **Quiver sale/market price** | **UNRESOLVED**: ordinary quiver is mundane equipment, separate from the 40-arrow Gem Shop bundle, with local mundane-market price handled by later economy design |
 
-A missed arrow embedded in soft ground could be recoverable; one broken against exceptional armor may not. **There is no universal guaranteed recovery fraction** or free replenishment. The established early Moonlit Garden **Willow Shortbow (2 Gems including 12 arrows)** remains unchanged; twelve fit in a standard 20-arrow quiver, but no extra quiver is invented into its historical stock description.
+A missed arrow embedded in soft ground could be recoverable; one broken against exceptional armor may not. **There is no universal guaranteed recovery fraction** or free replenishment. The established early Moonlit Garden **Willow Shortbow (20 Gems including 12 arrows, new denomination)** remains unchanged; twelve fit in a standard 20-arrow quiver, but no extra quiver is invented into its historical stock description.
 
 **Scope:** Only ordinary traditional bows' Piercing/Slashing arrows receive this universal bundle and quiver treatment. Crossbow bolts, heavy bolts, firearm cartridges and extraordinary ammunition require independent equipment compatibility and pricing design; they do not automatically cost 1 Gem/40 or share an arrow quiver. Ordinary arrows can also circulate as mundane goods; **no Gem-to-mundane-currency exchange rate or local silver/coin tariff is approved** by this divine Gem Shop price. No arrow mass/encumbrance figure, quiver sales price, additional quiver capacity upgrade, fletcher crafting test, special ammunition, magic effect, or universal salvage rule is introduced.
 
-**Author-directed NEXT PRIORITY:** Freeze **additional ammo economics** until finished armor pricing is anchored, beginning with prices for Adamantite Light/Medium/Heavy across Qualities I–V and their distinction from the **14/30/50/70/90 Gem general Quality reference benchmarks**. Re-evaluate provisional weapon and ammo prices as the material/equipment/enchantment portfolio becomes consistent. The approved new **40 arrows / 1 Gem** rule remains on record as a working price, not an invitation to extrapolate prices for other ammo.
+**Author-directed NEXT PRIORITY:** Freeze **additional ammo economics** until finished armor pricing is anchored, beginning with prices for Adamantite Light/Medium/Heavy across Qualities I–V and their distinction from the **14/30/50/70/90 Gem general Quality reference benchmarks**. Re-evaluate provisional weapon and ammo prices as the material/equipment/enchantment portfolio becomes consistent. The approved new **40 arrows / 10 Gems** rule remains on record as a working price, not an invitation to extrapolate prices for other ammo.
 
 ---
 
