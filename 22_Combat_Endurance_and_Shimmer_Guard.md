@@ -1,3 +1,11 @@
+## November 11, 2026 — Legendary traditional bow ranges and ordinary ranged applicability (AUTHOR APPROVED)
+
+**Approved weapon-specific Close / Effective / Far / Extreme upper endpoints (feet):** advanced high-draw bow **15/130/210/300**, Titan bow **20/170/275/390**, Colossal composite bow **20/205/335/475**, Legendary greatbow **25/245/400/575**. The high-draw band was already approved and is reconfirmed; the three stronger bows now have their own working bands. Ordinary valid attacks in Close/Effective suffer **no extra range category**, Far **+1 harder**, Extreme **+2 harder**. Physical shot Power does **not** fall with band. **Beyond weapon-specific Extreme, ordinary ranged attacks cannot be attempted**, including with high DEX, Aim or advanced optics. Preserve existing projectile head choice, quadratic bow draw, legal control/handling gates and one-arrow ordinary shot tempo. See owning `27_Ranged_Weapon_Catalogue_DRAFT.md`.
+
+The approved engineering principles do not yet introduce mandatory frame material, Quality-based damage/cap bonuses, weak-draw range penalty or extra reload/setup. Existing advanced precision rifle **Extreme900 ft** and its qualified scope modifiers remain unchanged.
+
+---
+
 ## November 11, 2026 — Traditional arrow tiers removed; legendary bow working Powers and handling approved (LATEST AUTHOR CORRECTION)
 
 **LATEST, HIGHEST-PRECEDENCE AUTHOR DECISION:** The author **rejects multiple sizes or numerical draw-force tiers of traditional arrows** as unnecessary rule/inventory complexity, while expressly approving the remaining immediately proposed legendary-bow handling and Power recommendations. **Supersedes** the previous working 100/200/300/400 arrow safe-launch rating categories, the ammunition-derived maximum draw `R`, the rated-arrow fallback for intentional underdraw, and any supposed need to buy, carry, sort, or match an arrow to the bow's cap by a separate ammunition tier. All previous four-tier arrow-ratings/784-case ammo availability results are **historical tests, not operative ammunition mechanics**; do not run them as though they were approved after this correction.
