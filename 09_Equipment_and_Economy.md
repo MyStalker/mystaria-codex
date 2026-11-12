@@ -1,3 +1,15 @@
+## November 11, 2026 — Approved revised four-tier bow handling and arrow safety (WORKING CALIBRATION)
+
+**Author acceptance, November 11:** Continue using the four engineered test bow tiers with **draw caps 100/200/300/400**, independently checked **minimum controlled partial-draw effective STR35/80/125/180** and **Handling DEX30/35/40/45**. These are approved *working handling benchmarks* for the advanced high-draw, Titan, Colossal composite and legendary greatbow slots, not automatic minima for every bow or an approval of final construction recipes. The advance high-draw bow's 14,500 full-draw Power remains already approved. The new Titan/Colossal/Greatbow **45,000/90,000/150,000 full-draw Power are still unapproved trial ratings**. Item names remain working labels pending final catalogue.
+
+**Author-approved rated-arrow principle:** A physically compatible arrow has a maximum safe launch-force rating on the bow draw scale. Initial comparison ratings 100/200/300/400 are approved as working tier references, **not material/Quality recipes or prices**. The archer may deliberately lower draw on a stronger bow to respect a weaker compatible arrow. A legal normal shot requires actual draw at least the bow's safe controlled minimum and at most the minimum of shooter STR, bow draw cap and that arrow's safe rating; apply already approved quadratic draw Power to that actual draw. Fitting/matching shaft, head, fletching and string nock still matters; the numeric rating alone does not guarantee physical compatibility. No extra ammo damage or armor bypass is granted from a higher number.
+
+**Action and loadout:** One normal bowshot consumes one arrow and retains ordinary bow nock/draw action economy. Advanced construction does not inherently add a free attack, free Aim, scope, mandatory reload turn or firearm recoil-strain track. Existing actual room/stance/handling restrictions continue. Do not add a universal ranged Quality Power/cap multiplier or new item prices from this approval. See `27_Ranged_Weapon_Catalogue_DRAFT.md` for owning complete mechanics, the previous 784-case test and the outstanding new Power calibration.
+
+**Deferred:** Legendary END-versus-armor proportional relevance stays on the later legendary-hero testing list and is **not** part of this bow handling approval.
+
+---
+
 ## November 11, 2026 — Deferred legendary endurance-versus-armor playtesting note (AUTHOR-DIRECTED DEFERMENT)
 
 **User decision:** Record the observation for later **legendary-hero playtesting** but **do not rebalance ultra-late-game armor or END now**. Under the approved rebase, a physical covered hit uses `Defense Power = effective END² + (covered AR after applicable penetration)²`. At effective END400, QV Full Heavy Adamantite AR170, and normal 50% ordinary Piercing bypass, covered Defense = `160,000 + 85² = 167,225` versus unarmored `160,000`, a ~4.5% differential. This illustrates diminishing *relative* armor contribution when endurance is enormously high; it does **not** mean Adamantite's innate AR was reduced or that quality is irrelevant to ordinary characters.
