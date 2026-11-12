@@ -1,3 +1,22 @@
+## November 11, 2026 — Advanced precision sights: Option A (AUTHOR-APPROVED WORKING CALIBRATION)
+
+**Approved enhanced-sight procedure.** An advanced precision sight operated by a shooter with **effective DEX at least 100**, from a **stable, braced shooting position**, and with **a genuine Aim action spent to prepare the subsequent eligible shot**, reduces the weapon's ordinary **Far or Extreme range hit-difficulty penalty by one category**, to a minimum range penalty of zero. This is **in addition to** the normal Aim improvement of **one easier difficulty category** for the following valid shot, and **does not generate Pressure Points**.
+
+| Original range band | Baseline penalty | Qualified aimed precision-sight penalty |
+|---|---:|---:|
+| Close | 0 harder | 0 harder |
+| Effective | 0 harder | 0 harder |
+| Far | +1 harder | 0 harder |
+| Extreme | +2 harder | +1 harder |
+
+**Boundaries:** Apply scope relief only to the **range component**, once per qualifying aimed shot; it is not a universal +1 for shots already at Close/Effective, a free Aim action, an additional attack, another PP, or an automatic extra precision bonus based on DEX beyond the qualifying threshold. It does not extend the weapon's established Far/Extreme distance boundaries or authorize shots beyond Extreme. Underlying firearm, bow and crossbow Power; ammo; cover; independent Support STR/Recoil STR/Handling DEX; recoil strain; evasion; Pressure; physical barriers; and sight lines remain unchanged. A target totally hidden behind a solid surface remains ineligible for ordinary direct fire regardless of Aim or optics. The equipped weapon must plausibly accept the sight; no blanket entitlement for arbitrary projectiles, siege mounts or unusual firing methods is created.
+
+**Qualified vs ordinary use:** DEX100 and stable bracing are the working gates for exploiting the *enhanced range relief*, not general minimums for operating an otherwise lawful weapon or taking a normal Aim action. A shooter who does not meet the enhanced sight's conditions retains ordinary Aim and range rules. No universal attachment cost, Quality/STR reduction, optic mass, setup action, magnification, sighting-through-obscurement, or special scope durability is established by this approval. Losing the qualifying stable shooting posture or valid Aim means no enhanced benefit on that shot; whether such changes separately cancel normal held Aim continues under existing target-tracking/interruption rules.
+
+**Supersession:** This adopts **Proposal A (range-penalty relief)** from the previous noncanon precision-sight tests as approved working calibration, including its stated effective DEX100, stable/braced posture, and paid Aim conditions. The competing **Proposal B (25% Effective/Far band extension)** remains **not approved**, not additive. Other older blanket statements that *all* scope numeric requirements and benefit ratings are unsettled are superseded **for this advanced sight only**. The separate DEX100 unseen-location, DEX150 ricochet, and DEX300 extreme precision *feat* illustrations are **not** approved or unlocked by this optic DEX gate.
+
+---
+
 ## November 11, 2026 — Ranged accuracy and advanced sights: sensitivity tests (NONCANON WORKING NOTES)
 
 **Status: TEST ONLY, NOT AUTHOR-APPROVED NEW MECHANICS.** Existing approved rules were tested: Close/Effective/Far/Extreme penalties 0/0/+1/+2 harder; Normal/Full/Amazing cover +1/+2/+3 harder; Aim -1 category to a subsequent valid shot but no PP; separately earned net 1-2 PP gives -1 category and 3+ PP gives -2. Cap at the six-tier difficulty ladder. Full obstruction invalidates an ordinary direct shot regardless of modifiers.
