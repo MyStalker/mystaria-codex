@@ -1,3 +1,13 @@
+## November 12, 2026 — Material-neutral Hero Gem accounting, Celestite no premium, mundane forging independent (LATEST AUTHOR APPROVAL)
+
+**Newest explicit author approval supersedes the earlier Celestite +20% Gem valuation rule:** For otherwise identical finished equipment form/armor class, coverage and workmanship Quality, ordinary Hero **Gem-equivalent value is independent of the material chosen**. **Celestite QV armor's reference Gem valuation is ×1.00 the same-class/same-coverage QV Adamantite equivalent**, NOT 1.20×. This does NOT make Celestite a normal sold item or waive any material, Smithcraft rank/skill, divine participation or risk: only QV Celestite exists and actual forging still requires real Celestite, an extraordinarily qualified Centaur smith and **simultaneous personal aid of Arrest, Surrender and Baphomet**. Its Leydrain, passive MP debit, Soul Shred, XP loss and other consequences remain unchanged. The 1.20× passage further below is retained as **HISTORICAL AND SUPERSEDED**, not an operative cost or special forge surcharge.
+
+**World economy distinction approved:** Centaurs can *craft and enchant physical equipment with real materials, ordinary resources, workmanship and Smithcraft without ever spending or using divine Gems*. A later **parallel mundane-currency economy** will account for bar/ore material mass, purity, actual alloy content, source scarcity, trade and labor. The author's illustrative possibility that one pure Adamantite bar can be alloyed through many sword blades while a large solid greatsword may require multiple bars is **in-world fiction and a future market/accounting direction, not an approved quantity/recipe rule**. **NO new mechanical metal purity grades**; no hidden F/AR/MR/STR/DEX/SPD, Strength requirement, durability, Craft Quality, Soul Strain or numerical Gem effect from narrative impurities. Approved Quality I–V material mechanics remain intact. A nominal Hero Gem appraisal does not dictate actual bar costs, require the Centaur to pay Gems, or automatically create shop stock/buyback rights.
+
+**Related gear rules remain:** Junk gear is material-restricted to Boughsteel at Quality I and half the normal QI same-form/category Gem value due to inferior *condition*; numerical Junk physical drawbacks are unresolved. Separately installed substantial enchantments may approximately double finished standard Gem price and must keep real Soul Strain. The new material-neutral rule does not waive requirements for specialized construction (e.g. legendary bow engineering) or authorize universal material-agnostic fabrication that violates proven forging lore. See owning `09_Equipment_and_Economy.md` for the author-approved rule and focused evaluation.
+
+---
+
 ## November 12, 2026 — Smithcraft Gem price conversion and new per-tier purchase targets (LATEST ECONOMY)
 
 **Latest author-directed tenfold denomination:** Convert formerly approved mandatory portable **Cogsong Command Loom** rank/Quality I–V costs `12 / 28 / 55 / 90 / 140 historical Gems` to **120 / 280 / 550 / 900 / 1,400 current Gems**, without altering Cogmarshal ranks, Cogsong music, squad control, CP capacities, crafting requirements, power, command actions, physical device, MP or SP. This **purely numerical ×10 re-denomination** retains the original purchasing-power ratios for the existing catalog and is presently the canonical nominal conversion of those offers. No additional compulsory command item is added. The former "remote control" description in the historical passage remains superseded by the author's approved ocarina-like played instrument.
@@ -8,7 +18,7 @@
 
 ---
 
-## November 12, 2026 — Celestite forging valuation corrected to Adamantite ×1.20 (LATEST AUTHOR APPROVAL)
+## Historical November 12, 2026 — Celestite +20% forging valuation (SUPERSEDED by later equal-material Gem rule)
 
 **Author's latest explicit correction:** Replace older nominal **5× Adamantite** Celestite armor price with **1.20× the comparable Quality V Adamantite armor price**, i.e., **20% more expensive** at the same protective Light/Medium/Heavy class and Partial/Standard/Full coverage. **This is the approved special crafting-purpose value for Celestite armor**, not a conventional purchasable merchant tariff. Preserve Celestite's exceptional highest-end valuation status and **Quality V-only** production.
 
