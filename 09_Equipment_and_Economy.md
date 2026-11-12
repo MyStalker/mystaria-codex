@@ -39,6 +39,20 @@
 
 **Evasion check:** If the ordinary matchup is **Average**, Junk weapon only makes it **Hard**; Junk armor worn by target only makes it **Easy**; Junk weapon attacking Junk-armored target returns to **Average**, counting opposing shifts once each. At **Very Hard**, Junk weapon alone reaches **Impossible**, but when the defender has Junk armor too, the shifts cancel back to **Very Hard**. An enemy attacking a Junk-armored starting Hero gains a category of relative accuracy until the Hero upgrades the armor. These are categorical comparisons and **cannot be converted to fixed hit percentages without introducing new unauthorized dice or evasion probability rules**.
 
+### Focused one-on-one interaction matrix (FOLLOW-UP TEST, no extra rules)
+
+Assume **Average** base hit difficulty in both directions before applying Junk. The actor may face two targets: **matched Junk-equipped foe** (its weapon and armor are Junk) or **standard-QI-equipped foe** (neither is Junk). Each value is the actor's **outgoing hit difficulty / incoming enemy hit difficulty**, not a hit percentage or guaranteed combat result. An easier outgoing difficulty is better for the Hero; a harder incoming difficulty is better for the Hero.
+
+| Hero weapon / armor | Fighting a Junk / Junk foe | Fighting a standard QI / QI foe | What this checks |
+|---|---|---|---|
+| **Junk / Junk starting Hero** | Average / Average | **Hard / Easy** | Even matched Junk gear cancels; standard-gear opponents are much more threatening |
+| **Standard QI weapon / Junk armor** | **Easy / Average** | Average / Easy | Offensive-only upgrade makes attacks easier without removing defense vulnerability |
+| **Junk weapon / Standard QI armor** | Average / **Hard** | Hard / Average | Defense-only upgrade makes incoming attacks harder to land |
+| **Standard QI weapon / Standard QI armor** | **Easy / Hard** | Average / Average | Full upgrade restores both sides of standard QI handling |
+| **Standard QII weapon / Junk armor** | **Easy / Average** | Average / Easy | Buying another physical Quality rank does NOT add an extra hit-category bonus beyond removal of Junk penalty; its usual Quality physical/handling benefits must stand on their own |
+
+**Potential level-1 encounter hazard:** Starting Junk weapon plus Junk armor are **two opposing accuracy disadvantages when fighting otherwise normal-equipped foes**: their own attacks start +1 harder, while the normal foe's attacks become −1 easier. This is intended to make upgrades meaningful, but could prove punishing against competent foes; test encounter composition, cover, allied support and escape routes before adjusting any approved modifier. Junk-versus-Junk opponents are a natural early comparative baseline, **not an instruction that all level-1 enemies must carry Junk**.
+
 **Focused outcome:** Both early purchase strategies create visibly different tactical advantages for modest extra Gems. The QII/enchanted QI primary ~60%-wealth expenditure **does constrain support slots** at level10, while level25 can accommodate a QIII/enchanted QII primary only by continuing to rely on cheaper or incomplete supporting equipment. **Potential gameplay concern**: moving Very Hard → Impossible makes poor weapon handling a severe penalty against unusually fast targets; this is the intended junk identity but needs real combat feedback. Actual Junk accessory bonus/slot rounding, starter form selection, shield classification and magical implement specifics remain OPEN. No change to underlying hit ratios, item durability or Quality I–V physical material stats was authorized.
 
 ---
