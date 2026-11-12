@@ -1,3 +1,23 @@
+## November 11, 2026 — Bow construction and Quality V economics accepted as working canon; repricing required
+
+**Author explicitly approves the previously proposed construction identities, physical Quality applications, provisional Quality V prices and comparative direction as canon for now**, adding a mandatory future **price reassessment when enchantments and typical complete character equipment are understood**. The four approved cap, controlled-draw, DEX, full-draw Piercing Power and Close/Effective/Far/Extreme range profiles from prior November 11 rulings are unchanged.
+
+**Construction identities:** High-draw reinforced conventional laminates/wood with Boughsteel fittings; Titan Thornspring elastic limbs and Boughsteel spine; Colossal coupled Thornspring limbs with optional lightweight Trufula construction retaining flammability; Greatbow high-efficiency coupled limbs plausibly using Thornspring, selective Adamantite stress points and lightweight structural pieces. These are current working engineering approaches, not compulsory exclusive recipes, automatic material Power multipliers, invented Smithcraft rank locks or magical effects. Thornspring's existing elasticity is respected; ordinary arrows have no size/force tier.
+
+**Quality refinement, now approved:** Apply existing QI–V requirement factors **1/.95/.90/.85/.80** to *minimum controlled bow draw STR* and *Handling DEX* separately and once, with upward rounding. QV High-draw **28/24**, Titan **64/28**, Colossal **100/32**, Greatbow **144/36**. Quality never alters cap, F/shot Power, range, ammunition counts, intrinsic Pierce ratio, or ordinary shot timing; e.g. QV Greatbow at STR144 yields only **19,440 Piercing Power**. The full QI–V minimum table is in the Ranged Catalogue.
+
+**Working Quality V finished-bow Gem price targets, now approved provisionally:** High-draw **150**, Titan **450**, Colossal **950**, Greatbow **1,750**. These represent comparable typical completed Quality V weapons, not prices for arbitrary enchantment configurations or fixed vendor stock. They do not override the base Quality V **90-Gem** equipment benchmark or level-100 **4,000-Gem** typical equipment portfolio. Graduated specialist/commission availability accepted as direction, without new level gates or universal crafting rarity rolls.
+
+**Author's explicit rebalance note:** Before final pricing, revisit all four price targets after **enchantment pricing and representative equipment loadouts** are designed; account for armor, other weapons, enhancements, consumables and overall wealth allocations. Until then, prices are working canon, not final eternal prices.
+
+**Already settled Piercing arrow mechanics (not newly amended):** Normal Pierce-point **F0.90, 50% covered AR bypass** vs Slashing broadhead **F1.10, 0% bypass**, relative Piercing Power **81/121**, one ordinary arrow per bowshot, no different arrow sizes or Strength tiers. The still-unset arrowhead production, price, quiver capacity and material choices do not authorize another Piercing damage tier or enhanced piercing without further explicit approval.
+
+**Updated owning files:** `27_Ranged_Weapon_Catalogue_DRAFT.md`, `09_Equipment_and_Economy.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+**Still open:** final construction blueprints and Smithcraft creation tests, mass, ammo prices/quiver capacity, exact shop availability, interaction with future enchantments, finished weapon comparative battle tests, extreme partial-draw/range effects and later legendary armor-vs-END balancing.
+
+---
+
 ## November 11, 2026 — Four legendary bow range profiles and nonexclusive construction philosophy approved
 
 **New explicit author approval:** The advanced high-draw bow and the STR200/300/400 Titan, Colossal composite and Legendary greatbow now have author-approved working **Close / Effective / Far / Extreme** upper boundaries, respectively, in feet: **15/130/210/300**, **20/170/275/390**, **20/205/335/475**, **25/245/400/575**. The high-draw numbers were already approved and are confirmed unchanged; the latter three are newly approved. No universal distance ladder is created for other weapons, and the approved 900-ft precision rifle remains distinct. Existing Close/Effective +0, Far +1, Extreme +2 hit-difficulty categories, no range-based Power falloff and prohibition of ordinary attacks beyond weapon Extreme apply.
