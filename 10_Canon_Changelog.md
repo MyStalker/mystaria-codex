@@ -1,3 +1,21 @@
+## November 11, 2026 — Five advanced ranged Power benchmarks approved
+
+Use the following **approved test ratings** for the first five advanced ranged profiles. The bow value is full-draw Power and follows the approved quadratic partial-draw rule. The other values are ordinary landed-shot Power for the test weapon and load. The plate comparisons used genuine Piercing with 50% base AR bypass.
+
+| Advanced test profile | Shot Power |
+|---|---:|
+| High-draw bow | 14,500 at full draw |
+| Advanced crossbow | 17,000 |
+| Advanced arbalest | 26,000 |
+| Advanced precision rifle | 15,000 |
+| Light precision firearm | 11,800 |
+
+At level 100 against Quality V Full Heavy Boughsteel, the advanced arbalest delivered two injury stages while the other four delivered one. Against matching Adamantite, the light precision firearm was Superficial and the others delivered one. At the level-50 benchmark, the advanced arbalest delivered three stages. Next test draw caps, cocking and setup, firearm Support STR, Recoil STR and Handling DEX, and item availability before finalizing individual profiles. These ratings do not finalize the handling, ammunition, availability, or range values.
+
+Updated Equipment and Economy, the ranged catalogue, and the Canon Index.
+
+---
+
 ## November 11, 2026 — Ranged Power progression by weapon design (author approved)
 
 Build late-game ranged Power around distinct, higher-rated weapon designs. Give advanced bows, crossbows, and firearms their own Power ratings, handling requirements, and firing or reload tradeoffs. Do not introduce a shared ranged Quality multiplier as the mechanism for this progression. Entry models keep their own ratings when an advanced model is introduced. Bow Power remains subject to the approved quadratic partial-draw rule. Crossbow and firearm shot Power still derives from the weapon and its projectile or load. Keep the approved opening-hit emphasis for slower weapons. Exact advanced ratings, requirements, reloads, availability, materials, and ammunition remain under calibration.
