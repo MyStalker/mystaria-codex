@@ -1,3 +1,9 @@
+## November 12, 2026 — Arrow ammunition Gem price re-denominated ×10 (ECONOMIC ONLY)
+
+The author's tenfold new Gem denomination changes the ordinary Gem Shop **40-arrow mixed-type refill bundle** from **1 historic Gem to 10 current Gems**. The quiver still holds **20** arrows and the refill still contains **40**; physical recovered-arrow adjudication, no extra reload action, injury rules and all ranged mechanics are unchanged. This is monetary redenomination only, not a new projectile effect or special-ammunition tier. Other ammunition economics remain deferred. Latest owning economy `09_Equipment_and_Economy.md`; ranged owning design `27_Ranged_Weapon_Catalogue_DRAFT.md`. Historical old-price excerpts later in this file are superseded.
+
+---
+
 ## November 12, 2026 — Celestite armor valuation supersession is economic only
 
 The latest author-approved **Celestite armor exceptional crafting valuation is 1.20× (20% more than)** comparable Quality V Adamantite armor of the same protection class/coverage, **not the historical 5× valuation**. Celestite remains Quality V only, divine cooperation/qualified Smithcraft is still required, and there is no automatic ordinary Gem Shop stock. Armor's physical AR/MR, Soul Shred, Leydrain, MP depletion, hazards and combat rules **DO NOT CHANGE** because of this economic correction. The older quoted 5× valuation embedded in retained historical passages is **SUPERSEDED**.
@@ -8,7 +14,7 @@ The latest author-approved **Celestite armor exceptional crafting valuation is 1
 
 For any legal ordinary bow attack, **one prepared arrow is consumed from the archer's carried ready ammunition count at the moment of firing**. Both previously approved Piercing and Slashing ordinary arrowheads use the same ordinary projectile category, and choosing a different prepared arrow does not create an extra reload turn or a free attack. An arrow that has left the quiver is **not automatically destroyed**: after combat, intact physically accessible arrows can be retrieved if circumstances permit, subject to GM adjudication of actual collision, damage and terrain. **No mandatory recovery percentage, independent arrow durability track, or guaranteed automatic recovery.**
 
-Ordinary standard quiver capacity is **20** arrows (Piercing and Slashing any mixture); a Gem Shop's **40-arrow resupply bundle costs 1 Gem** and has no quiver. These are logistics and price rules, not adjustments to shot Power, quadratic draw, range boundaries, Armor Rating bypass, Aim, or action economy. See `27_Ranged_Weapon_Catalogue_DRAFT.md` and `09_Equipment_and_Economy.md`. Bolt/cartridge economics and special ammunition remain separate and unpriced.
+Ordinary standard quiver capacity is **20** arrows (Piercing and Slashing any mixture); a Gem Shop's **40-arrow resupply bundle costs 10 Gems** and has no quiver. These are logistics and price rules, not adjustments to shot Power, quadratic draw, range boundaries, Armor Rating bypass, Aim, or action economy. See `27_Ranged_Weapon_Catalogue_DRAFT.md` and `09_Equipment_and_Economy.md`. Bolt/cartridge economics and special ammunition remain separate and unpriced.
 
 ---
 
