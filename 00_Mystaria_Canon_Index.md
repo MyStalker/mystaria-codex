@@ -1,3 +1,9 @@
+## November 11, 2026 — Extreme is the outer ordinary ranged limit (LATEST AUTHOR APPROVAL)
+
+**No ordinary ranged attack is eligible beyond the upper Extreme boundary of its own weapon-specific range profile.** No fifth range band, extra beyond-Extreme penalty, higher-DEX trick, Aim, or scope extension. Previously unresolved beyond-Extreme ordinary attack status is **superseded**. The projectile's physical flight past that distance is not redefined; weapon profiles with no numeric bands still need their own distances, and exceptional separate magic/attack rules are not invented. Existing Far/Extreme accuracy modifiers, advanced precision sight and approved feet-based ranges remain unchanged. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), [Changelog](10_Canon_Changelog.md). Movement/stability and attachment tradeoffs are still proposals.
+
+---
+
 ## November 11, 2026 — Advanced precision sight Option A approved (LATEST AUTHOR APPROVAL)
 
 A **weapon-compatible advanced precision sight** with a **DEX ≥100 qualified shooter**, **stable/braced shooting**, and a **genuinely paid Aim action** reduces the **Far or Extreme range difficulty penalty by one category**, in addition to normal Aim's one-category improvement. Apply relief only to the range component once, never below zero; Close/Effective gain nothing additional. No free PP, range boundary extension, beyond-Extreme authorization, damage increase, cover bypass, or extra attack. **Proposal B (25% range extension) remains rejected as an implementation choice/not approved.** See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md). All other scope costs/compatibility and unusual edge cases remain unresolved.
