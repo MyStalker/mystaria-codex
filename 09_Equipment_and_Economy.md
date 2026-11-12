@@ -1,3 +1,59 @@
+## November 12, 2026 — Three-path weapon, armor and attribute balance stress tests (EXPLORATORY; NO NEW COMBAT CANON)
+
+**Scope and authority.** The author approved proceeding with all three balancing paths following the earlier level-1–20 Junk tests. The following are **deterministic conditional landed-hit comparisons, NOT stochastic encounter simulations, win rates, new player progression requirements, or approval of revised weapon numbers**. All combat rules and previously approved armor figures remain intact. Compare approved mechanics using working attack-shape F references, and explicitly distinguish exact current Piercing supersession from older historical tables.
+
+**Current Piercing precedence for these tests:** Ordinary genuine Piercing (primary OR secondary) bypasses **50% covered AR**. A blade-tip secondary takes **0.82 × its already adjusted primary F**; a purpose-built spike/beak secondary uses **0.90 × primary F**. Greatsword primary Slashing uses its approved **×0.875 shape adjustment** and the secondary takes another ×0.82 from that already-adjusted primary; the genuine Heavy pike primary Piercing uses its approved ×0.90 pike shape factor once. The old blade-thrust **25% bypass/×0.90** profile, specialized point 65% bypass, and the historical requirement that greatsword thrust always trail maul against armor are **superseded**, not reactivated. Relative same-class reference damage forms are Bludgeoning **F×1.00 / 25% bypass**, Slashing **F×1.10 / 0%**, primary Piercing **F×0.90 / 50%**. The generic class reference F is **Medium 1.15**, **Heavy 1.45**, never stacked atop a complete item F; full individual shape Fs remain working/incomplete.
+
+**Reference characters and equations:** Canon Thornguard starting bases STR18/DEX14/END20/SPD15, racial effective STR×1.25; every level adds **two allocated base-stat points**, plus +1 to every base stat at levels 5, 10, 15 and 20. Three equal-budget allocation policies: **S = +1 STR/+1 SPD**, **E = +1 STR/+1 END**, **B = +1 STR/+1 DEX** per level gained. Other base stats advance only via fifth-level universal awards. Maintain race-effective fractional STR; the new Junk-accessory final-floor decision does NOT globally floor racial values. No accessory, enchant, magic, rear attack, surprise, shield, cover gap, other race or non-Boughsteel material is assumed. Working physical **Power = (governing A × total F)^2**, **Defense = END² + (covered AR × (1−bypass))²**; injury steps 0/1/2/3 for Impact ≤0.75/(0.75,1.75]/(1.75,3]/above 3. Hit-difficulty categories depend on the ratio of defender versus attacker effective SPD **after inherent armor SPD**; no fixed hit probabilities.
+
+### Path 1 — attack form and greatsword flexibility
+
+**Controlled Medium reference:** For a Boughsteel Medium class attack at common STR-led governing A, F values are Bludgeoning **1.150**, Slashing **1.265**, primary Piercing **1.035**, and blade secondary from the slash **1.0373**. Both Piercing variants bypass 50% AR. The generic secondary is therefore **about +0.44% landed raw Power compared with the generic dedicated Piercing reference** (1.0373²/1.035²−1), not substantially weaker: these are form-only references, not an instruction that every blade can Pierce or a ratified universal secondary item. Against same-S-build **Quality II Full Medium Boughsteel** target at levels 8/16/20, conditional injury stages are **Bludgeoning 0/1/1; Slashing 0/1/1; primary Piercing 1/2/2; generic blade-tip secondary 1/2/2**. Against unarmored targets, Slashing's relative F1.10 generates **21% more Power than equal-A Bludgeoning** before injury-category caps; broad attack geometry is additional utility. Covered heavy armor substantially favors genuine Piercing. A weapon must possess a legal tip/beak and available geometry to choose a secondary.
+
+**Shape-aware Heavy, level20:** The B build has effective STR51.25/DEX37, **Both A=0.65×(51.25+37)=57.3625**; its greatsword working primary F is **1.45×1.10×0.875 = 1.395625** (Wide Sweep), blade-tip secondary F **1.1444125** (Point), and pike primary F **1.45×0.90×0.90 = 1.1745** (Line). Comparator maul is STR-led F1.45 (Wide Sweep). Versus E defender END43 in **Quality II Full Medium Boughsteel AR52**, ratios/stages: **greatsword slash 1.41/1**, **greatsword thrust 1.71/1**, **pike primary 1.80/2**, **maul primary 1.64/1**. The pike's F produces only **~5.3% more Power** than greatsword secondary *at the same Both A*; in this example it crosses the 1.75 boundary. Genuine dedicated Piercing with no pike shape penalty would have a larger margin. **WATCH:** strong versatility for greatsword with secondary Piercing, but pike geometry, three-target eligible Line, reach, constrained movement, and stat minima are separately relevant. Do not prematurely nerf the approved Piercing bypass or invent a new damage multiplier.
+
+### Path 2 — armor Quality versus protection class, all levels 1–20
+
+**Method:** For all twenty levels, test four legal S/E attacker-and-defender allocation pairings. Both parties use ordinary Boughsteel gear; STR-led Medium F1.15 Bludgeoning, 25% AR bypass, same nonmagical hit, defender receives the armor being compared; eligibility checks use actual **post-Quality armor support STR**. Counts report **states**, not hit probabilities. Inherent Boughsteel SPD burdens are **Full Light −4%, Full Medium −11%, Full Heavy −20%**, independent of Quality. Source AR sequences QI→QV: Light **25/28/30/32/35**, Medium **45/52/60/67/75**, Heavy **75/85/95/105/115**; source Full Heavy STR QI–QV **45/43/41/39/36**.
+
+| Upgrade | Eligible matchup states | States with ≥1 fewer injury stages | States with easier incoming hit category (attacker remains Light QI) |
+|---|---:|---:|---:|
+| Light QI → QII | 80 | 8 | 0 |
+| Medium QI → QII | 72 | 18 | 0 |
+| Heavy QI → QII | 20 | 8 | 0 |
+| Light QI → Medium QI | 72 | 44 (4 by two stages) | 11 |
+| Medium QI → Heavy QI | 20 | 18 | 1 |
+
+The smaller legal sample for Heavy reflects the **STR45 Full Heavy QI requirement**, reached by this S/E Thornguard at level16 (not assumed universally available from level1). Full Medium QI starts being legal at level3; no Quality item acquisition or wallet is guaranteed by a stat check.
+
+**Example S-versus-S landed Medium blunt hit at level16**, target same S END23: QI Light AR25 **Impact3.04/stage3**; QII Light AR28 **2.76/stage2**; QI Medium AR45 **1.61/stage1**; QII Medium AR52 **1.31/stage1**; QI Heavy AR75 **0.73/stage0**, legally worn at STR45. At level20 QI Heavy yields **0.93/stage1** and QII Heavy **0.75/stage0** (subject to raw precision at threshold); compare actual SPD burden separately. **Interpretation:** raising armor class often crosses more injury thresholds than one-step Quality, but Quality steadily reduces raw Impact, eases STR requirements and does not add inherent SPD penalty. Different armor classes incur genuine evasion tradeoffs, not just defensive gains. Preserves Light mobility/Medium compromise/Heavy mitigation identities. This is not a reason to globally rebalance AR or material mechanics.
+
+### Path 3 — attribute-investment identity, all levels 1–20
+
+**Legally earned build snapshots (effective stats):**
+
+| Level/build | STR | DEX | END | SPD |
+|---|---:|---:|---:|---:|
+| L16 S (STR/SPD) | 45 | 17 | 23 | 33 |
+| L16 E (STR/END) | 45 | 17 | 38 | 18 |
+| L16 B (STR/DEX) | 45 | 32 | 23 | 18 |
+| L20 S | 51.25 | 18 | 24 | 38 |
+| L20 E | 51.25 | 18 | 43 | 19 |
+| L20 B | 51.25 | 37 | 24 | 19 |
+
+All three choices spend the same +2 allocated base-stat points per level. In a straightforward level16 contest where **S and E both wear QII Medium** and wield the same reference STR-led Medium Bludgeoning attack, **S→E is Easy, Impact0.90/Solid 1**, while **E→S is Very Hard, Impact1.31/Solid 1**. With matching QI Light instead, **S→E Easy/Solid1**, while **E→S Very Hard/Overwhelming3**. At level20 both in QII Medium, **S→E Easy/Solid1** and **E→S Very Hard/Solid1**. Hence END mitigates impacts, SPD changes direct-attack hit difficulty, and neither mechanically grants a guaranteed duel win. With a faster S attacker remaining Light against Heavy-wearing E, the stronger protection can move the already-easier outgoing hit category from **Easy to Certain** because E loses additional SPD; only the landed-impact severity reveals whether that hit matters.
+
+**Both-stat weapon budget:** At level20 B's governing Both A is **57.3625**, above the S/E's STR **51.25**, but B has only SPD19 versus S's SPD38. Wearing equal Medium armor, B's ordinary direct attack against S is **Very Hard** and S's against B **Easy**. This supports a distinct high-output/precision style rather than automatic dominance. Greatsword's proposed individual prerequisites must be met, and class/form Fs remain working calibration, so actual weapon superiority cannot be finalized here.
+
+### Test interpretation, decisions and unresolved validation
+
+- **PASS / KEEP** the approved Junk category shifts and fractional-accessory rule unchanged; neither was applied or modified here.
+- **PASS with caveat** armor quality/class and STR/SPD versus STR/END tradeoffs; the example's injury stages are conditional on contact, never estimated victory odds.
+- **WATCH** blade-tip secondary Piercing's near parity with a shape-neutral dedicated Piercing comparator, and greatsword thrust's relatively narrow gap against the pike's own shape-penalized primary. Verify *per-weapon* access, reach, coverage, maneuvering clearance, actual item-specific F and minimums, and tactical situations before revising any approved numerical F or bypass.
+- **OPEN** true hit-probability procedure, combat duration/win-rate testing, broader species/material/enchantment/equipment loadouts, shields, coverage locations and special movement. No new item-specific F, stat gate, money price, armor rating, accuracy dice, mandatory upgrade schedule, race bonus or rule change is approved by these exploratory stress tests.
+
+---
+
 ## November 12, 2026 — Junk equipment mechanical drawbacks and starting loadout (LATEST AUTHOR APPROVAL)
 
 **AUTHOR APPROVED, superseding the older "Junk mechanical drawbacks open" note below:** Junk equipment remains **Boughsteel-based, Quality I, and priced at 50% of the identical ordinary QI item's Gem-equivalent finished price**. It is not another workmanship Quality, does not add a new physical metal impurity tier, does not alter already-approved QI item material Power, AR, MR, physical requirements, wear speed, or raw hit Power. **Junk's approved deficits are poor balance/handling for weapons and armor, and reduced effective enhancement output/capacity for accessories.** Junk nonmetal adornments and the precise scope of special-purpose shields or ranged weapon construction still need their own form-specific resolution; do not bypass these deficits simply by reclassifying armor as a slotted accessory.
