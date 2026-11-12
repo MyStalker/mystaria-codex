@@ -1,3 +1,15 @@
+## November 11, 2026 — Author requires bow designs scaling through STR400
+
+**New explicit broad equipment-design directive:** Include **distinct bow designs** engineered with draw capacities able to exploit at least **effective STR400**. Preserve different construction ceilings for ordinary and advanced bows: this **does not increase the previous advanced high-draw bow's proposed STR100 cap to 400** and does not give existing bows uncapped STR-to-Power. A legendary-hero-capable bow at STR400 is now a **required progression goal**, not a fully specified weapon. No universal character level gate or global 400 maximum is introduced.
+
+**Mechanics preserved:** Each particular bow/arrow design has its own engineered full-draw Power and draw cap, with the approved quadratic partial-draw law. The approved high-draw benchmark of **14,500** refers to its own model only. Do not extrapolate the 14,500 rating to legendary bow Powers by mechanically squaring 400/100; that would invent an untested 232,000 Power row. DEX remains an aim/handling requirement. Material/construction and projectile engineering can support higher-cap designs; **Quality does not gain a blanket cap bonus or ranged Power multiplier** absent an explicit later approval.
+
+**Proposal only, not adopted:** Working concept ladder at STR100/200/300/400 (advanced high-draw, titan bow, colossal composite, legendary greatbow). Aside from the explicit bow-design reach-through-400 target, new names, caps at intermediate levels, item Power ratings, materials, Quality effects, requirements, ammunition, ranges and Gem prices remain unresolved. The high-draw bow's STR100 cap also remains a proposed item specification pending approval. Historical earlier records regarding individual item values remain valid as proposals.
+
+**Files:** `27_Ranged_Weapon_Catalogue_DRAFT.md` (design owner), `09_Equipment_and_Economy.md` (equipment philosophy), `10_Canon_Changelog.md` (approval), `00_Mystaria_Canon_Index.md` (navigation). Next: scale-specific weapon-and-ammunition Power calibration and representative Strength/armor tests.
+
+---
+
 ## November 11, 2026 — Advanced sight stability, installation philosophy, and target-only magical glint approved
 
 **Explicit author approval:** Adopt the immediately preceding Quill proposals for **stable/controlled-repositioning/major-disruption** handling, physically compatible and calibrated advanced sights, specialist acquisition and repair expense without invented Gem prices, realistic direct-impact vulnerability, and **no universal added Support STR, recoil penalty or extra setup action** for ordinary advanced sights. Minor controlled aiming and stable support preserve optic advantage; breaking the brace loses its extra Far/Extreme relief while a paid normal Aim can persist if real tracking survives; major disruption breaking aim/tracking cancels both. Stationary actually stable mounts can qualify; ordinary moving saddles do not automatically count. Exact exotic stabilizer models remain open.
