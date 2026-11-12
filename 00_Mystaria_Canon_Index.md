@@ -1,3 +1,9 @@
+## November 11, 2026 — Advanced precision sight Option A approved (LATEST AUTHOR APPROVAL)
+
+A **weapon-compatible advanced precision sight** with a **DEX ≥100 qualified shooter**, **stable/braced shooting**, and a **genuinely paid Aim action** reduces the **Far or Extreme range difficulty penalty by one category**, in addition to normal Aim's one-category improvement. Apply relief only to the range component once, never below zero; Close/Effective gain nothing additional. No free PP, range boundary extension, beyond-Extreme authorization, damage increase, cover bypass, or extra attack. **Proposal B (25% range extension) remains rejected as an implementation choice/not approved.** See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md). All other scope costs/compatibility and unusual edge cases remain unresolved.
+
+---
+
 ## November 11, 2026 — Ranged accuracy-only band effects approved
 
 **LATEST APPROVAL:** Use **Close/Effective no extra hit difficulty**, **Far +1 harder category**, **Extreme +2 harder categories**, with **no range-based reduction in shot Power**. These work with established Cover (+1/+2/+3 harder) and a separately spent valid Aim (-1 easier), using the existing six-tier evasion/hit ladder and actual shot eligibility. Five advanced ranged weapon distance bands remain measured in **feet** with their previously approved numeric endpoints. This resolves the preceding *pending range accuracy modifiers* status; numerical ranges for other equipment and beyond-Extreme eligibility remain open. The separate Concentrated Burst **10 m Point Blank** condition is unchanged. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md).
