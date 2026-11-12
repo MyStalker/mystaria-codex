@@ -1,3 +1,11 @@
+## November 12, 2026 — Equipment slot proposal promoted to WORKING ECONOMIC CANON
+
+**Latest author instruction:** Proceed with the earlier proposed equipped-slot arrangement **as though canon for complete-loadout reverse-engineering**. The operative working 11-slot table now lives in `09_Equipment_and_Economy.md`: one protective outfit/chassis, head, neck, arms/bracers, hands/gloves, feet/boots, waist, two actively enchanted rings, primary weapon, and offhand weapon/shield/second implement. **Counts 11; six Quality V + five Quality III is the level-100 representative planning mix.** A separately wearable Light underlayer for Medium/Heavy **does not return**: existing approved integral underarmor and joint rules take precedence. Head/hand/foot accessory slots may carry distinct items/enchants but do not double covered physical armor AR. A two-handed weapon cannot employ an actively wielded offhand shield at the same time absent distinct actual authorized mechanics. Shimmer pocket inventory slots are separate.
+
+**Approval limit:** This promotes the *slot structure* to working economic canon, but the extensive rune/activated gem/price/MP/slot-stack proposals elsewhere in this draft remain **UNAPPROVED**. `09_Equipment_and_Economy.md` contains three clearly labeled NONCANON pricing budgets; none of their hypothetical numbers or specific installed enchantments becomes approved by this decision.
+
+---
+
 # Mystaria — Modular Equipment Design Options
 
 **STATUS: PROPOSAL / UNAPPROVED DETAILS ONLY.** This file is not an operative rulebook. Approved directions are in `07_Centaurs_and_Smithcraft.md` and `09_Equipment_and_Economy.md`. Keep all historical material identities, weapon baselines, five quality tiers, equipment affinity, and existing skill purchase gates unless expressly superseded.
