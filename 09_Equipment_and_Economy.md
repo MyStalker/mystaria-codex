@@ -1,3 +1,11 @@
+## November 11, 2026 — Deferred legendary endurance-versus-armor playtesting note (AUTHOR-DIRECTED DEFERMENT)
+
+**User decision:** Record the observation for later **legendary-hero playtesting** but **do not rebalance ultra-late-game armor or END now**. Under the approved rebase, a physical covered hit uses `Defense Power = effective END² + (covered AR after applicable penetration)²`. At effective END400, QV Full Heavy Adamantite AR170, and normal 50% ordinary Piercing bypass, covered Defense = `160,000 + 85² = 167,225` versus unarmored `160,000`, a ~4.5% differential. This illustrates diminishing *relative* armor contribution when endurance is enormously high; it does **not** mean Adamantite's innate AR was reduced or that quality is irrelevant to ordinary characters.
+
+**Deferred test docket:** During later legendary-tier combat testing, inspect END/armor contributions across damage forms, differing endurance, equipment Quality, magical defense and positional hit eligibility; validate whether armor feels worthwhile without automatically adding a high-end bonus, reworking END², or changing bypass. The author explicitly requests postponement. **No new numbers, injury modifiers, armor statistics, or balancing rules are approved.** Current work remains bow handling and arrow engineering. Full test details and ammo/handling proposals are in `27_Ranged_Weapon_Catalogue_DRAFT.md`.
+
+---
+
 ## November 11, 2026 — Legendary bows must exploit Strength through 400 (AUTHOR-APPROVED DESIGN GOAL)
 
 **Explicit author direction:** Mystaria must offer **distinct engineered bow designs** whose full-draw capacity reaches **effective STR 400**. This is a **broad archery progression requirement**, not an instruction to raise the previously proposed advanced high-draw bow's STR100 cap to 400, not a grant of unlimited STR-to-Power on existing bows, and not a newly established universal STR400 maximum for all future equipment. At least one genuinely attainable-for-legendary-heroes bow construction must have a draw cap of 400 so that heroic Strength up to that value can contribute meaningfully to that bow's shot Power.
