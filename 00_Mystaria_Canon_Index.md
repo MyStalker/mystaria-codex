@@ -1,3 +1,11 @@
+## November 11, 2026 — Ranged Power progression by weapon design (author approved)
+
+Build late-game ranged Power around distinct, higher-rated weapon designs. Give advanced bows, crossbows, and firearms their own Power ratings, handling requirements, and firing or reload tradeoffs. Do not introduce a shared ranged Quality multiplier as the mechanism for this progression. Entry models keep their own ratings when an advanced model is introduced. Bow Power remains subject to the approved quadratic partial-draw rule. Crossbow and firearm shot Power still derives from the weapon and its projectile or load. Keep the approved opening-hit emphasis for slower weapons. Exact advanced ratings, requirements, reloads, availability, materials, and ammunition remain under calibration.
+
+See [Equipment](09_Equipment_and_Economy.md) and the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
+---
+
 ## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
 
 Use quadratic partial bow draw, one reload turn for most handheld test profiles and two for the arbalest, and stronger opening hits for slower weapons. See [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), and the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md). Individual shot Power and range are still under calibration.

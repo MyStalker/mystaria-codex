@@ -1,3 +1,9 @@
+## November 11, 2026 — Ranged Power progression by weapon design (author approved)
+
+Build late-game ranged Power around distinct, higher-rated weapon designs. Give advanced bows, crossbows, and firearms their own Power ratings, handling requirements, and firing or reload tradeoffs. Do not introduce a shared ranged Quality multiplier as the mechanism for this progression. Entry models keep their own ratings when an advanced model is introduced. Bow Power remains subject to the approved quadratic partial-draw rule. Crossbow and firearm shot Power still derives from the weapon and its projectile or load. Keep the approved opening-hit emphasis for slower weapons. Exact advanced ratings, requirements, reloads, availability, materials, and ammunition remain under calibration.
+
+---
+
 ## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
 
 **Bow draw.** For a shot the archer can legally make, usable draw is the lower of effective STR and the engineered draw cap. Shot Power is the bow-and-arrow full-draw Power multiplied by `(usable draw / draw cap)^2`. DEX governs aim and handling. Individual full-draw Power, draw caps, and minimum controllable partial draw remain open for item calibration.
