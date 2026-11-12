@@ -1,3 +1,55 @@
+## November 11, 2026 — Legendary bow handling and ammunition calibration: 784-case test (NONCANON)
+
+**Status: PROPOSAL / QUANTITATIVE TEST, NOT A NEW NUMERIC CANON APPROVAL.** The author requested continuation of calibrated STR100–400 bow handling and projectile construction using the prior **balanced candidate full-draw Powers 14,500 (already approved for the advanced high-draw bow) / 45,000 / 90,000 / 150,000 (new three values not approved)**. The user's approved archery direction requires distinct weapon designs that can exploit STR400; exact names, caps of individual entries, minima, ammo engineering and late-game ratings remain pending review. No original 34-shape catalogue item is silently replaced.
+
+### Recommended candidate handling ladder
+
+| New bow design | Proposed full-draw cap | Proposed minimum controlled STR draw | Proposed minimum Handling DEX | Full-draw Power under test |
+|---|---:|---:|---:|---:|
+| High-draw | 100 | 35 | 30 | 14,500 (approved Power; other fields pending) |
+| Titan | 200 | 80 | 35 | 45,000 (candidate) |
+| Colossal composite | 300 | 125 | 40 | 90,000 (candidate) |
+| Legendary greatbow | 400 | 180 | 45 | 150,000 (candidate) |
+
+The **minimum controlled draw** is a proposed test-only legality gate for a safe partial shot, **not** a demand for full cap STR. After separately satisfying actual weapon handling DEX and minimum controlled draw, use approved quadratic partial draw. **The earlier experimental DEX45/60/80 ladder for Titan/Colossal/Greatbow was tested and rejected as a recommendation** for being too restrictive to STR-focused heroes. Keep the final candidate DEX30/35/40/45, a modest cross-stat gate aligned to established STR-led ranged philosophy, without invented DEX-to-Power bonus. In particular a legendary STR400 specialist with DEX54 could operate the proposed STR400 greatbow; under the overly steep DEX80 proposal they could not.
+
+### Projectile engineering proposal
+
+For test ONLY, describe compatible arrows with a **safe launch draw-force rating** of 100, 200, 300 or 400, conceptually ordinary advanced arrows, titan shafts, reinforced colossal shafts, and greatbow shafts. This is **not** an approved new ammo-rating rule, inventory price, unique material recipe or unconditional physical interchangeability of all arrows. It tests that actual **shaft, head, fletching, nock and string fit** can withstand the release; a mismatched or incorrectly sized projectile may simply be unusable, regardless of a nominal rating. Stronger shafts and proper fit are required for the full rated ballistic Power of stronger bow models.
+
+**Proposed controlled fallback for a physically compatible but under-rated arrow:** A shooter may deliberately draw only to the lower of shooter STR, bow cap and that arrow's tested safe draw limit, **provided** that draw still meets the bow's minimum controllable level. The existing approved quadratic formula then sets Power based on **the bow's own full-draw rating and cap**. Under-rated arrows cannot be launched at full draw and receive **no made-up bonus Penetration, full-Power transfer or fixed extra attack**. There is no automatic refund or new ammo Power multiplier. Alternatively, a later author choice may prohibit all under-rated ammunition rather than allow a reduced draw; this fallback is an **unapproved convenience proposal**, not operative canon.
+
+**Illustrative test grid:** 4 bows × 7 effective STR values [100,150,200,250,300,350,400] × 7 Handling DEX values [30,35,40,45,54,80,100] × 4 arrow safe-launch ratings [100,200,300,400] = **784 evaluated combinations**, under the proposed handling and arrow model, assuming compatible arrow dimensions and one actual arrow per shot. Computed eligible cases (not a probability of real combat) were High-draw 196/196, Titan 168/196, Colossal 90/196, Greatbow 60/196. The other combinations fail either a *draft* handling minimum or a *draft* ammunition controlled-release requirement. The distribution is deliberately artificial and does not represent character build rarity.
+
+**At STR400 and DEX45, best legal bow by strongest physically compatible available arrows:**
+
+| Highest available arrow safe-launch rating | Best Power bow in test | Power |
+|---|---|---:|
+| 100 | High-draw | 14,500 |
+| 200 | Titan | 45,000 |
+| 300 | Colossal | 90,000 |
+| 400 | Legendary greatbow | 150,000 |
+
+The Greatbow specifically, if geometry permits reduced draw, gives 37,500 with rated-200 arrows and 84,375 with rated-300 arrows at STR400, both inferior to the purpose-built fully drawn bow in that projectile tier. Rated-100 arrows are below the greatbow's proposed 180 minimum controlled draw and cannot be safely used even at reduced draw. This makes superior ammunition consequential *without changing intrinsic projectile penetration or inventing a universal additive arrow damage factor*.
+
+**At unlimited fitted rating-400 ammunition and adequate DEX45+:** highest-power bow by archer STR is High-draw at STR100 (14,500); Titan at STR150 (25,313) and STR200 (45,000); Colossal at STR250 (62,500) and STR300 (90,000); Greatbow at STR350 (114,844) and STR400 (150,000). Each new weapon has a distinct real window; full caps do not represent mandatory starting STR to operate the design at all.
+
+### Firing tempo and actual interface constraints
+
+- Test **one arrow consumed per bowshot, normal one-shot-per-attack-action bow pacing**, with ordinary nock-and-draw procedure retained. No extra *unapproved* reload turn, extra attack, free Aim or mandatory bracing added solely because a bow is legendary. **Actual size, draw-space, stance and physical obstruction** can still render a shot illegal. Future truly exceptional designs with windlasses or fixed mounts would need their own approved category and explicit action cost.
+- A genuinely qualified Aim action still trades one shot opportunity for improved subsequent accuracy. No advanced magical sight/glint or scope range relief is automatically attached to any of these bow designs. Each bow's range bands remain individually unresolved; do not extend shots beyond its eventual Extreme range.
+- Stronger bow, string and matched arrow must actually survive intended force; require credible component construction without assigning magic MP, enchanted sockets, special material availability or quality tier based solely on the legendary descriptor.
+- Ammo counts (quiver capacity), arrows' carry burden and prices, distinctive projectile head effects, how equipment Quality interacts with the minimum controlled draw, structural breakage, crossbow/arbalest comparison with qualified arrows, and exact new bows' range endpoints are **UNRESOLVED**.
+- **Existing stat-support/crafting discipline:** Ordinary Quality workmanship does not universally multiply rated bow Power or cap; material/Quality differences require specific engineered profiles and later author approval. Bow draw force is not firearm recoil strain, so do not import firearm recoil accumulation to bows without separate decision.
+
+### Follow-up tests (deferred / prioritized)
+
+**Near-term:** Author review of the proposed 35/80/125/180 minimum controlled draw STR, 30/35/40/45 DEX, and rated-arrow safe-launch fallback. Then test physical legibility/size, arrow supply, coverage/close-quarters difficulty, and realistic ranged encounter rate versus existing advanced arbalest and precision rifle. No new weapon pricing, numeric travel ranges or ammunition mass is approved yet.
+
+**Separate late-game playtesting ticket, explicitly DEFERRED by author:** At legendary effective END, baseline `END²` can dwarf the defense contribution of fixed Quality V Armor Rating against ordinary 50%-AR-bypass Piercing. Example: END400 vs QV Full Heavy Adamantite AR170 has unarmored Defense160,000 and covered Defense167,225; armor adds 7,225, or **about 4.5% relative to unarmored**, when hit by this attack type. This is a **test observation, not a balance fix or new reduction in armor efficacy**. At a later legendary-heroes game-testing stage, review physical END scaling, other attack forms, shields, enchantments, actual hit probabilities, injury breakpoints and gear progression. **Do not change approved END, AR, Piercing bypass, or armor math now.**
+
+---
+
 ## November 11, 2026 — STR100–400 legendary bow ladder: 320-scenario quantitative test (NONCANON)
 
 **STATUS: TEST RESULTS AND NEW NUMERIC PROPOSALS ONLY.** The author's explicit approval covers **testing** the previously approved high-strength archery progression and the **design requirement that some bow can exploit effective STR400**, not blanket approval of the new bow names, caps, draw minima, full-draw Powers, new arrow construction, handling, costs or ranges. This reproducible note is for future review; it does **not** supersede the approved high-draw bow's **14,500 full-draw Power** or existing mechanical rules.
