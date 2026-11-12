@@ -1,3 +1,15 @@
+## November 11, 2026 — Melee class, material, and handling benchmarks approved
+
+**Approved working melee calibration.** Reference F for Light / Medium / Heavy is **1.00 / 1.15 / 1.45**. Use the calibrated individual profile where one exists. These class references are not extra multipliers on a whole-profile F. Apply material and workmanship to the applicable attack F once.
+
+Weapon material F factors are Boughsteel **×1.00** across classes, Trufula **×0.95** across classes, and Adamantite **×1.15 / ×1.20 / ×1.25** for Light / Medium / Heavy. Light Adamantite and cross-class Trufula remain working values for later item-specific tuning. Heavy Adamantite stays at ×1.25 for this calibration. Weapon material factors do not modify armor AR.
+
+Keep the catalogue's replacement test minima and material STR/support factors **×1.00 / ×0.50 / ×2.50** for Boughsteel / Trufula / Adamantite. Apply workmanship and round the resulting requirement up once. Do not apply the material STR factor to DEX. These are working benchmarks, with individual profiles and requirements still subject to later item calibration. Carry the lance's supported charge into mounted combat. Continue with the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
+Updated Equipment and Economy, both melee drafts, and the Canon Index.
+
+---
+
 ## November 11, 2026 — Unified Piercing bypass and secondary thrust ratings (author approved)
 
 All genuine Piercing attacks use **50% base AR bypass**, including eligible secondary thrusts. A secondary blade-tip thrust uses **×0.82 of the weapon's adjusted primary F**. A purpose-built secondary spike or beak uses **×0.90 of primary F**. Apply the factor once, with the attack's applicable quality and material factors. The actual blade tip, spike, or beak must support the attack. An earned rear hit can raise Piercing bypass to 60% under the existing rear rule.

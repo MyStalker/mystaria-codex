@@ -1,3 +1,15 @@
+## November 11, 2026 — Melee class, material, and handling benchmarks approved
+
+**Approved working melee calibration.** Reference F for Light / Medium / Heavy is **1.00 / 1.15 / 1.45**. Use the calibrated individual profile where one exists. These class references are not extra multipliers on a whole-profile F. Apply material and workmanship to the applicable attack F once.
+
+Weapon material F factors are Boughsteel **×1.00** across classes, Trufula **×0.95** across classes, and Adamantite **×1.15 / ×1.20 / ×1.25** for Light / Medium / Heavy. Light Adamantite and cross-class Trufula remain working values for later item-specific tuning. Heavy Adamantite stays at ×1.25 for this calibration. Weapon material factors do not modify armor AR.
+
+Keep the catalogue's replacement test minima and material STR/support factors **×1.00 / ×0.50 / ×2.50** for Boughsteel / Trufula / Adamantite. Apply workmanship and round the resulting requirement up once. Do not apply the material STR factor to DEX. These are working benchmarks, with individual profiles and requirements still subject to later item calibration. Carry the lance's supported charge into mounted combat. Continue with the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
+The older tables below preserve their original test inputs.
+
+---
+
 ## November 11, 2026 — Poleaxe spike rating approved for testing
 
 The reference Boughsteel poleaxe's primary Piercing Point attack (top spike) uses total F1.21 before quality and any applicable material adjustment. This supersedes the draft F1.26 for the primary spike. Use Both-stat scaling and ordinary primary Piercing's 50% AR bypass. Keep the STR18 and DEX12 reference test minima. Axe and hammer face ratings remain under separate calibration.

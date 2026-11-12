@@ -1,3 +1,9 @@
+## November 11, 2026 — Melee class, material, and handling benchmarks approved
+
+Melee now has approved working class references, material F factors, and handling benchmarks. See [Equipment and Economy](09_Equipment_and_Economy.md) and the [melee catalogue](25_Melee_Weapon_Catalogue_DRAFT.md). Next is the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), with supported lance charge deferred to mounted combat.
+
+---
+
 ## November 11, 2026 — Unified Piercing bypass and secondary thrust ratings (author approved)
 
 All genuine Piercing attacks use **50% base AR bypass**, including eligible secondary thrusts. A secondary blade-tip thrust uses **×0.82 of the weapon's adjusted primary F**. A purpose-built secondary spike or beak uses **×0.90 of primary F**. Apply the factor once, with the attack's applicable quality and material factors. The actual blade tip, spike, or beak must support the attack. An earned rear hit can raise Piercing bypass to 60% under the existing rear rule.
