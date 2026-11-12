@@ -1,3 +1,136 @@
+## November 12, 2026 — Tenfold Gem denomination, replacement wealth curve and 11-slot repricing (LATEST AUTHOR DIRECTION)
+
+**Authority boundary:** The author explicitly selects the immediately prior **320-Gem endgame wealth/30%-primary-item/11-slot test as the NEW ECONOMIC BASE**, raises **every Gem amount in that selected proposed table by ×10**, and directs a broad repricing pass to align older equipment and offers. This **supersedes** the older level-100 **4,000-Gem** equipment wealth plan and prior **400-Gem QV maul / 480–500-Gem greatbow** exploratory plan. **W(100)=3,200 Gems** is the new user-directed *working economic calibration target*, **NOT** 40,000 Gems (do not multiply the discarded 4,000 model by ten). The 30% *lifetime earnings* spent on consumables, provenance-limited Gem Shop 50% buyback, Shimmer XP, SP, MP, Soul Strain, and existing item physical mechanics remain separate and unchanged. Preserve historical old economic tables below as explicitly superseded records; they are not operative offers.
+
+### Currency granularity: Gems and Glints
+
+**User-directed need:** Divinely awarded **Gems are indivisible whole units**; sub-Gem amounts must be payable without a fractional physical Gem. Adopt a **working small denomination: 100 Glints = 1 Gem** (1 Glint = 0.01 Gem; 1 Gem = 100 Glints) as the Shimmer's small divine currency denomination, not a new mana substance, Skill Point, ordinary mortal coin exchange or free currency source. A cost shown with a fractional Gem amount is *accounted and settled* in whole Gems and integer Glints; e.g. 17.5 Gems means **17 Gems + 50 Glints**. The Shimmer wallet may display exact equivalents and combine whole Glints into Gems with **no spread/fee**. Reward budgets are estimates, not a license to mint fractional Glints: calculate fractional theoretical rewards precisely in the planning ledger, and issue them in whole Glints with pending fractional-Glint remainder carried to the next qualifying payout, or bundle small monster rewards into a quest/milestone payment. A patron still judges which deeds actually grant divine rewards. **No extra MP/SP/stat price is multiplied by ten.**
+
+**Renomination/continuity:** The selected *new model's* quantities are 10× the previous proposed 320-Gem model. Previously approved named Gem Shop/utility/ammunition catalogue offers can be mechanically re-denominated by **10 old Gems = 100 new Gems** as an initial same-purchasing-power conversion; this rule does not mean all historically approved older 4,000-Gem wealth or high-cost weapon proposals stay economically viable. Historical campaign logs are **archival original-nominal records**: don't rewrite actual past dialogue, purchases or reward decisions. On importing a pre-redomination saved wallet/receipt, show the explicit ×10 display conversion and reconcile current balance without granting tenfold *purchasing power*. Real, separate mundane-world monetary exchange rates remain unresolved.
+
+### Reference wealth levels, primary-item economy and a level-by-level interpolation
+
+| Equipment Quality reference | Level milestone | **Current owned equipment wealth** (Gems) | **One prioritized Primary Item** (Gems, 30%) | A primary one Quality tier ahead |
+|---|---:|---:|---:|---:|
+| I | 10 | 200 | **60** | 120 Gems (60% of current wealth) |
+| II | 25 | 400 | **120** | 240 Gems (60% of current wealth) |
+| III | 50 | 800 | **240** | 480 Gems (60% of current wealth) |
+| IV | 75 | 1,600 | **480** | 960 Gems (60% of current wealth) |
+| V | 100 | 3,200 | **960** | Beyond tier V: not priced |
+
+**Level-1 baseline = 30 Gems of current starter equipment**, up from the formerly approved 3-Gem legacy baseline under this denomination change. All five tier milestones now have item double progression **60/120/240/480/960 Gems** and wealth double progression **200/400/800/1600/3200 Gems**. A primary item is the **one piece receiving the Hero's greatest overall spending/functional investment**: usually a weapon, but legitimately an armor ensemble or shield. No item automatically costs more merely because its owner *declares* it primary. Use actual purchased finished form/material/enchantments as the item's value, and allow the allocation/major-slot budgets to follow the item prioritized. An item one rank up typically requires **60%** of the current-tier reference portfolio, leaving 40% for everything else; two ranks up costs **120%** and normally exceeds the tier's whole reference wealth. These are **spending incentives, NOT stat/level wielding gates**.
+
+**Working continuous planning function (new, supersedes previous 3+3997 power curve):** Let the approved working knot pairs be `(level, W) = (1,30), (10,200), (25,400), (50,800), (75,1600), (100,3200)`. For each integer level `L` between two neighboring knots `(a,Wa)` and `(b,Wb)`, set
+```text
+W_new(L) = Wa + (Wb − Wa) × (L − a) / (b − a)
+```
+for `1 ≤ L ≤ 100`, rounding **display/planning values to two Gem decimals / nearest whole Glint**, and keeping unrounded intermediate values for gross reward/buyback calculations. This interpolation is an **implementation planning convention** for the user-directed milestones, not a mechanical rework of XP, quests, or stat progression. It keeps monotonic per-level equipment wealth and exact knot values; there is no automatic payout on level-up. Further post-100 wealth remains unresolved.
+
+### Lifetime earned Gems, gear replacements, consumables
+
+| Reference milestone | Portfolio W (Gems) | Cumulative reference buyback loss R (Gems) | Lifetime earned E (Gems, approx.) | Consumables 30% of E (Gems, approx.) |
+|---|---:|---:|---:|---:|
+| I / level 10 | 200 | 0 | 285.71 | 85.71 |
+| II / level 25 | 400 | 100 | 714.29 | 214.29 |
+| III / level 50 | 800 | 300 | 1,571.43 | 471.43 |
+| IV / level 75 | 1,600 | 700 | 3,285.71 | 985.71 |
+| V / level 100 | 3,200 | 1,500 | 6,714.29 | 2,014.29 |
+
+**Exact reference lifetime formulas unchanged in structure:** `R(L) = 0.5 × sum_of_reference_portfolios_sold_at_milestones_reached_by_L`, with sale of level10 gear at25, level25 at50, level50 at75, level75 at100; **no guaranteed shop buyback for bespoke/found equipment**. `E(L) = [W_new(L) + R(L)] / 0.70`; the denominator reserves **30% of lifetime gross Gem earnings for consumables**. At level100, `R=0.5×(200+400+800+1600)=1500`, `E=(3200+1500)/.7=6714.285714...`, planned consumables `2014.285714...`, final equipment `3200`. With **zero eligible resale value**, replacement loss is **3000 Gems** and lifetime earning target needed for the same end portfolio/consumable share becomes **(3200+3000)/.7≈8857.14 Gems**. This is an **earned-Gem budget for that resale scenario**, not an automatic reward increase. At level1, before replacement, `E(1)=30/.7≈42.86 Gems` gross lifetime planning; there is no mandatory free starting 42.86-Gem purse. Ordinary boss/encounter threat multipliers remain identical to approved XP design, and actual small distributions use Glints. Do not assume receiving Gems from normal mundane quests automatically.
+
+### One complete 11-slot level-100 loadout, previous proposed chart ×10 (author requested)
+
+**The following specific individual prices are WORKING BUDGET ALLOCATIONS AND CALIBRATION TARGETS, not independently confirmed magical catalogue tariffs.** The author specifically requests that the last example chart's Gem numbers be scaled ×10. All physical/rune costs must be **inclusive in each total** rather than charging a second generic Quality fee. Mana-based example uses effective END100 → natural MP100 → **50 equipment Soul Strain** for an otherwise ordinarily mana-generating race; other race exceptions persist. A Quality V unenchanted item can legally have zero magic Soul Strain.
+
+| Occupied equipment slot | Quality | Complete item budget, Gems | Illustrative installed Soul Strain |
+|---|:---:|---:|---:|
+| Primary item | V | 960 | 8 |
+| Armor ensemble | V | 640 | 8 |
+| Offhand weapon / shield | V | 320 | 8 |
+| Head | III | 60 | 2 |
+| Neck | V | 240 | 7 |
+| Arms / bracers | III | 60 | 1 |
+| Hands / gloves | III | 60 | 1 |
+| Feet / boots | III | 70 | 2 |
+| Waist | V | 240 | 6 |
+| Enchanted ring A | V | 320 | 5 |
+| Enchanted ring B | III | 70 | 2 |
+| **11-slot total** | **6 × V; 5 × III** | **3,040** | **50** |
+
+**Remaining from W100: 3,200 − 3,040 = 160 Gems**. The head/hand/foot accessories may hold separate magical or utility fittings but **never add an extra duplicate set of physical coverage AR** on top of the outer armor ensemble. A two-handed bow or maul cannot simultaneously wield a physical offhand shield; the budget's third major equipment position can be a correctly carried reserve item in that case. The example has only **5% slack**, so actual material/special-effects cost and build-specific fit must still be validated.
+
+### Eleven-slot whole-tier pricing bands, useful for shopping/crafting comparisons
+
+**Not universal vendor tariffs.** These are representative allocations for *finished pieces* of the same general functional category when progressing the cost of that category by two per Quality, with premium engineered exceptions and enchantment choices analyzed separately. Swap the 960/640/320 main-slot priorities when armor/shield is the actual primary item; do NOT increase any object merely by declaring it primary. Quality changes remain their existing approved physical effectiveness/handling, **not free automatic enchantment bonuses**.
+
+| Item/category allocation | Quality I | II | III | IV | V |
+|---|---:|---:|---:|---:|---:|
+| Primary investment | 60 | 120 | 240 | 480 | 960 |
+| Armor ensemble if secondary | 40 | 80 | 160 | 320 | 640 |
+| Offhand / shield if tertiary | 20 | 40 | 80 | 160 | 320 |
+| Head | 15 | 30 | 60 | 120 | 240 |
+| Neck | 15 | 30 | 60 | 120 | 240 |
+| Arms / bracers | 15 | 30 | 60 | 120 | 240 |
+| Hands / gloves | 15 | 30 | 60 | 120 | 240 |
+| Feet / boots | 17.5 | 35 | 70 | 140 | 280 |
+| Waist | 15 | 30 | 60 | 120 | 240 |
+| Enchanted ring A | 20 | 40 | 80 | 160 | 320 |
+| Enchanted ring B | 17.5 | 35 | 70 | 140 | 280 |
+
+**Quality III → Quality V of all five midgame accessories:** example full-slot spend would increase by **960 Gems**, taking the 3,040-Gem ensemble to **4,000 Gems**, exceeding W100 3,200, which is exactly the desired support-item tradeoff. Earlier independent **14/30/50/70/90 Gem** tier "standard prices" were a different previous price philosophy and are **not current universal prices for every Quality item** under this approved new economic direction. They remain historically documented with unchanged original Quality-related mechanical bonuses and strain references; old tiers are NOT multiplied mechanically to 140/300/500/700/900 Gem mandatory item fees. Otherwise two equipment models would stack against one object. The old standalone `+1…+5` Moonlit Forge upgrade ladder remains **RETIRED**, not reinstated or charged at ×10.
+
+### Finished physical weapon and bow manufacturing comparisons (NEW PRICE PROPOSALS, not yet separately approved)
+
+To align with a 960-Gem typical full primary investment, test a **nonmagical** Quality V Heavy Boughsteel maul/ordinary two-handed melee core at **640 Gems**, with up to **320 Gems** of actually permitted improvements/enchantments as a *possible* 960-Gem finished primary budget. No physical Quality, F, item mass or Smithcraft prerequisite changes follow. Other items may use more material expense and less enchantment expenditure for the same total. The very old unapproved 400-Gem/QV maul experiment assumed W100=4000 and **is superseded** as an active economic recommendation by the present model.
+
+**Engineering premium test:** the user's preferred **20–25%** extra over comparable ordinary Heavy physical baseline would make a QV STR400 Greatbow **768–800 Gems** if the comparable heavy physical weapon costs 640 Gems. Recommend trial **800 Gems** for finished standard unenchanted Greatbow (25% once), with **160 Gems** of separately priced applicable improvements only if the player wants the full 960-Gem typical primary budget. Distinct bow designs' working QV finished **physical** trial prices could be High-draw **320 Gems**, Titan **480 Gems**, Colossal **640 Gems**, Greatbow **800 Gems**; all four are NEW **NONCANON price candidates**, replacing the *design proposal*, not automatically overwriting existing previously approved provisional vendor prices before final author review. Their approved draw cap100/200/300/400, Power, ranges, requirements, ammo and bow tempo do not change.
+
+**Engine-cost floor safeguard (CRITICAL before Quality I–IV item tariffs):** Greatbow's STR400 **engineering cap** and intrinsic full-draw Power survive at Quality I: Quality reduces handling minima and modestly refines output as applicable but does not grant the cap. If someone priced a Quality I Greatbow at 800/16=50 Gems, a STR400 Hero could get virtually the same full-draw shot for 50 Gems. Accordingly, **do not apply the generic per-Quality ½-step cost schedule directly to the engine-dominated advanced bows or other intrinsically extraordinary devices**. Their expensive engineered physical assembly must have an explicit Quality-independent cost floor, with workmanship priced separately in a later production pass. This is a *necessary repricing design guard*, **not a new combat drawback, STR gate, magical mandatory component, or finalized lower-Quality bow price table**. Similar risk applies to naturally strong advanced weapons and armor with innate powers.
+
+### Full-coverage pure armor, Quality V test prices by material and armor class (UNAPPROVED)
+
+**Provisional intended complete unenchanted equipment tariffs for economic testing only, before independent magical installations and special forge prerequisites.** The approved material-specific AR/MR/requirements/mobility/suit ability do not change. Do not claim these materials cost these amounts in canonical shop lists without approval. These values deliberately keep Celestite (QV ONLY) **1.20× Adamantite** for matched class and coverage. All these examples are **Full** armor; Partial/Standard coverage prices await proper material-mass/crafting calibration, rather than inventing percentage discounts from AR coverage.
+
+| Pure armor material | Full Light QV (Gems) | Full Medium QV | Full Heavy QV |
+|---|---:|---:|---:|
+| Trufula | 192 | 288 | 384 |
+| Boughsteel | 240 | 320 | 480 |
+| Bellcopper | 304 | 432 | 656 |
+| Hearthiron | 304 | 432 | 656 |
+| Glassweave | 272 | 384 | 544 |
+| Nullporcelain | 288 | 416 | 640 |
+| Oathsilver | 352 | 496 | 720 |
+| Reprise Bronze | 336 | 464 | 704 |
+| Thornspring | 336 | 464 | 704 |
+| Skyvein | 368 | 528 | 768 |
+| Adamantite | 400 | 560 | 800 |
+| Celestite (QV ONLY) | 480 | 672 | 960 |
+
+For *ordinary nonexceptional* pure armor where the same design remains legal and the intrinsic material effect does not require exotic construction, the **cost-halving-by-workmanship** trial gives `QI=QV/16, QII=QV/8, QIII=QV/4, QIV=QV/2, QV=QV`. Those are **proposed economic interpolations, not finalized numeric armor price canon**. The user-requested ~2× per tier is an investment model; major material architecture, magical intrinsic effects or other special prerequisites may establish a much higher unavoidable material cost floor. **Celestite never has I–IV armor at all**, and its QV nominal 480/672/960-Gem craft valuations always require the established actual deity/smith involvement; Gems alone are insufficient.
+
+**Six existing approved armor composite designs, trial Full coverage QV pricing only (UNAPPROVED):**
+
+| Composite design | Full Light QV | Full Medium QV | Full Heavy QV |
+|---|---:|---:|---:|
+| Trufula/Boughsteel | 256 | 368 | 544 |
+| Trufula/Adamantite | 384 | 576 | 848 |
+| Glassweave/Trufula | 304 | 432 | 608 |
+| Nullporcelain/Boughsteel | 320 | 480 | 704 |
+| Boughsteel/Glassweave | 336 | 496 | 720 |
+| Adamantite/Nullporcelain | 448 | 656 | 896 |
+
+Composite prices include additional fitted layers/engineering above simple raw components; preserve real vulnerabilities (especially Trufula Fire ×2 with qualifying conductive Lightning ×3), material exclusions, ceramic Shattered effects and armor legality. **This numerical comparative matrix is illustrative and not independent approval of costs, procurement routes, enchantments, recipes, resale values, or material multipliers.**
+
+### Repricing scope, current live offers and unresolved future checks
+
+- **Nominal ×10 re-denomination of existing named divine catalogues** is applied in their owning source rows as a *currency scale update*, not as buffs to the item: original early-shop 1/2/3-Gem goods become **10/20/30 Gems**, the ordinary 40-arrow resupply becomes **10 Gems per 40 arrows**, existing Shimmer upgrade tariffs and Cogsong Command Loom prices translate in the same way until any different custom functional repricing is separately approved. In particular, 12/28/55/90/140 old Gem Loom prices become **120/280/550/900/1400 Gems** before a distinct Cogmarshal affordability rework. Never alter original shop inventories, projectiles, spell effects, SP/MP mechanics or previously approved staff capabilities merely because listed numbers are re-denominated.
+- **Actual advanced bow prices, the generic 14/30/50/70/90 Gem equipment-quality sales benchmarks and full material/enchanted equipment prices cannot be treated as ×10 direct legacy conversions AND also claim to fit this new economy.** The old 150/450/950/1750 QV bow values (or ×10 of them) are **UNDER REPRICING**. The new 320/480/640/800-Gem QV bow list and every material-price figure in this entry is explicitly **NEW PROPOSAL** pending actual confirmation. The author-approved goal is to reprice them, but no new combat capability or enchanting fee is invented.
+- Final **active ingredient/rune/gem/socket/charging, material rarity, full shield rating/cost, sight/bolt/firearm/construct/manufacturing/repair costs, actual Quality I–IV specialized engineering price floors, ordinary-world Gem market conversion and account provenance buyback** remain unresolved. The 50-strain equipped loadout is an economic target, not an approved package of exactly purchasable rune effects. Preserve race-specific mana and equipment Soul Strain exceptions.
+- This does **not** establish a standard civilian Gem market or force patron quests to pay on every kill. The reworked Gem earnings need encounter/quest payout playtests across tiers with Glint denomination before any further drop tables or random pricing are canonized. Revisit the 30% consumables effect using genuine source-specific consumable values and Nymbrin alchemy.
+- **Time-series provenance:** Existing pre-migration campaign chronicles, dialogues, screenshots and ledger entries that explicitly say old Gem amounts are **historical records**. Translate their monetary quantities ×10 on import to the new edition, **without rewriting the past or granting value**. No automatic saved-game patch or new wallet balance is asserted here.
+
+---
+
 ## November 12, 2026 — First QV ordinary Heavy melee price anchor: 400-Gem trial (UNAPPROVED PROPOSAL)
 
 **Status: EXPLORATORY ECONOMY PROPOSAL ONLY. NOT APPROVED CANON; DO NOT REPRICE ITEMS FROM THIS ENTRY WITHOUT EXPLICIT AUTHOR APPROVAL.** Created after the author agreed to proceed with testing a conventional Heavy two-handed weapon as the first calibrated finished-item price. Relevant existing canon remains unchanged: Quality V general reference **90 Gems** (not universal finished price), level-100 current equipment portfolio **4,000 Gems**, 11 equipment slots, about six QV plus five QIII items, ~half applicable natural MP spent as equipment Soul Strain, consumables ~30% of lifetime Gem income, existing bow caps/ranges/Power, and provisional QV high-draw/Titan/Colossal/Greatbow prices **150/450/950/1750 Gems** flagged for separate review.
@@ -1065,7 +1198,7 @@ Numerical complete I–V × Light/Medium class matrices still requiring explicit
 
 **Authority:** Existing equipment baseline is CANON; the later modular-equipment expansion is **PROPOSAL, NOT CANON**. **Assembled:** 2026-11-03.
 
-## Current five-quality equipment baseline
+## Historical five-quality equipment Gem benchmarks (numerical Gem tariff SUPERSEDED; mechanical bonuses/strain retained)
 
 | Quality / tier | Standard value | Mixed stat bonus | Pure stat bonus | Ordinary Soul Strain | Legacy active use allotment |
 |---|---:|---:|---:|---:|---|
@@ -1338,7 +1471,7 @@ Candidate names for reservoirs, proposed passive and active rune effects, Longso
 Lightning severity I interrupts an action; II prevents acting without other penalties; III drops carried items and counts as Trapped for evasion. Additional shocks do not extend stun. Water severity II/III target 5/15 m movement, Air II/III 10/30 m. Hex is envisioned as especially useful against casters and magical machines by affecting available MP, Leywells and magical protection. Specific injury and numeric outcomes remain proposals. Squad-based clockwork equipment must fit material-derived construct stats, Leywells, and one coordinated commanded action, with multiple constructs granting greater tactical flexibility rather than multiple full turns. See the combat and Centaur references.
 
 
-## November 5, 2026 — Approved Hero Gem economy and wealth progression (LATEST)
+## November 5, 2026 — HISTORICAL Hero Gem economy (SUPERSEDED BY NOVEMBER 12, 2026 TENFOLD 3,200-GEM MODEL)
 
 **Status: CANON, November 5, 2026 author approval.** The following is a **typical-Hero economic balancing target**, not an entitlement, mandatory equipment loadout, compulsory spending pattern, or automatic reward for every kill. Gem earnings remain subject to the Hero's patron and the circumstances of the qualifying achievement; ordinary mundane quests do not automatically create divine Gems.
 
