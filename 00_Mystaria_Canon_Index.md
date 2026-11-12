@@ -1,3 +1,11 @@
+## November 11, 2026 — Legendary armor balance deferred; bow handling and arrow tests continue
+
+**Author-directed future test note, NOT a rule change:** At extremely high END (e.g. 400), the existing squared END defense can greatly diminish the **relative** advantage of static AR, even QV Heavy Adamantite after ordinary Piercing bypass. Revisit this **later** during legendary-hero combat/armor playtesting; **do not rebalance END, armor, Piercing or injury thresholds now**. See [Equipment](09_Equipment_and_Economy.md) and [Changelog](10_Canon_Changelog.md).
+
+**Bow work:** 784-case **NONCANON** handling-and-ammunition batch saved in [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), using proposed Strength-controlled draw 35/80/125/180, modest Handling DEX30/35/40/45, arrows with test launch ratings 100/200/300/400, and the previously tested balanced Power ladder. No new numeric bow handling, ammo rating, Power, range or crafting profile becomes approved merely by testing it. The required availability of bows capable of using STR400 remains canon.
+
+---
+
 ## November 11, 2026 — Bow progression must harness legendary STR400 (LATEST AUTHOR APPROVAL)
 
 **Approved design requirement:** Mystaria's archery equipment must include **distinct bows engineered to fully exploit effective STR up to 400**, rather than globally raising existing bow caps or leaving the bow family trapped at STR100. Preserve **each bow's own engineered draw cap and calibrated full-draw Power**, approved quadratic partial-draw formula and DEX-governed aim; the existing advanced high-draw bow's **proposed cap100** and approved **14,500 Power** are not silently replaced. Materials, actual construction and suitable arrows may support increasingly powerful bow designs; no universal Quality-to-Power multiplier or automatic Quality cap bonus is approved. Candidate 100/200/300/400 progression, example names, Power values, handling, ammo, cost and materials are still **unapproved calibration proposals**. See [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md) and [Changelog](10_Canon_Changelog.md).
