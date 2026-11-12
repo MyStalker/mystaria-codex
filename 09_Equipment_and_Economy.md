@@ -1404,6 +1404,8 @@ The forge can bless ordinary acquired equipment as well as Gem Shop purchases. E
 
 ### Weapon Modifications
 
+**HISTORICAL PRE-MODULAR CATALOGUE:** Nominal prices were scaled ×10 for archival comparability. Independent +1…+5 Forge-reinforcement-linked upgrade/slot assumptions are retired; whether and how these particular modifications fit the currently approved modular crafting/enchantment system is **UNRESOLVED**. Do not offer them as an extra free mechanical upgrade track.
+
 | Modification | Gems | Effect |
 |---|---:|---|
 | Blunted Mercy | 10 | Ordinary or nonlethal attack setting for suitable weapon |
@@ -1414,6 +1416,8 @@ The forge can bless ordinary acquired equipment as well as Gem Shop purchases. E
 | Moonlit Strike | 50 | Once per rest, a brief white-mana empowered strike |
 
 ### Armor Modifications
+
+**HISTORICAL PRE-MODULAR CATALOGUE:** Prices are shown in the new Gem denomination, but any old +1…+5 upgrade-slot interaction remains superseded. Current independent fitted armor and enchantment sourcing await a new rule.
 
 | Modification | Gems | Effect |
 |---|---:|---|
