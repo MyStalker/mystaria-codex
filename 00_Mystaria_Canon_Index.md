@@ -1,3 +1,9 @@
+## November 11, 2026 — Ranged accuracy-only band effects approved
+
+**LATEST APPROVAL:** Use **Close/Effective no extra hit difficulty**, **Far +1 harder category**, **Extreme +2 harder categories**, with **no range-based reduction in shot Power**. These work with established Cover (+1/+2/+3 harder) and a separately spent valid Aim (-1 easier), using the existing six-tier evasion/hit ladder and actual shot eligibility. Five advanced ranged weapon distance bands remain measured in **feet** with their previously approved numeric endpoints. This resolves the preceding *pending range accuracy modifiers* status; numerical ranges for other equipment and beyond-Extreme eligibility remain open. The separate Concentrated Burst **10 m Point Blank** condition is unchanged. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 11, 2026 — Advanced arbalest controlled availability and advanced ranged distances in feet (LATEST AUTHOR APPROVAL)
 
 The advanced arbalest retains 26,000 shot Power and its two-turn reload, with author-approved **Option A** Support STR70, Handling DEX40, hand cock STR170 or winch cock STR70, and one setup turn. Five advanced ranged designs now have **working Close/Effective/Far/Extreme thresholds explicitly in feet**, keeping the prior numerical values unchanged (not converted from meters). Entry ranged models, other four advanced models' handling, per-band accuracy effects, setup refresh, and cocking/quality interactions stay separate and/or unresolved. See the opening approval of [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md).
