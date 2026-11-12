@@ -1,3 +1,11 @@
+## November 11, 2026 — Four legendary bow range bands and construction principles approved (LATEST AUTHOR APPROVAL)
+
+**Author-approved working bow distance boundaries in feet:** advanced high-draw **Close15 / Effective130 / Far210 / Extreme300** (unchanged); Titan **20 / 170 / 275 / 390**; Colossal composite **20 / 205 / 335 / 475**; Legendary greatbow **25 / 245 / 400 / 575**. Apply existing Close/Effective +0, Far +1 and Extreme +2 hit-difficulty categories with **no ranged Power falloff** and **no ordinary shot beyond weapon-specific Extreme**. The precision rifle retains its separate 900-ft Extreme bound. Distinct bow engineering, **no universal single-material restriction** on high-cap bows and **ordinary arrows without force/size tiers** are author-approved design principles. These do **not** specify exact materials or grant a Quality-based draw-cap/Power increase.
+
+**Pending:** Material/structure recipes, Quality interactions, production/availability, item mass, Gem prices, final names, weak-partial-draw range implications and comparative range/combat tests. See [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), and [Changelog](10_Canon_Changelog.md). Older notes that legendary-bow ranges are unassigned are superseded by this approval; earlier traditional-arrow size/force rating rules remain rejected.
+
+---
+
 ## November 11, 2026 — Ordinary arrow-size/force tiers abolished; four legendary bow Powers approved (LATEST AUTHOR APPROVAL)
 
 **Most recent explicit author correction overrides older rated-arrow canon:** Do **not** require different sizes, 100/200/300/400 launch-force ratings, tier-matched quivers or any arrow-specific draw-force cap for **ordinary traditional arrows**. Keep only the already approved **Slashing broadhead vs Piercing point** ordinary arrowhead types, with their established Power/AR-bypass comparison. One ordinary arrow per shot. Ordinary bow draw depends solely on actual shooter STR, that bow's cap, legal controlled minimum and DEX handling, following the approved quadratic Power law. Earlier rated-arrow launch tiers, fallback rules and 784-case tier tests are **historical/superseded**, not current mechanics.
