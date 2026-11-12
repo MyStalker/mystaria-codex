@@ -1,3 +1,125 @@
+## November 12, 2026 — Eleven-slot equipped-item architecture (AUTHOR-APPROVED WORKING ECONOMIC CANON)
+
+**Latest explicit instruction:** **Use the existing proposed equipment-slot system as though it were canon** for the ongoing reverse-engineered economy. Adopt the following **working eleven independently budgeted occupied equipment positions** when constructing representative complete Hero loadouts:
+
+| Slot | Count | Physical and enchantment treatment |
+|---|---:|---|
+| Outer protective armor ensemble | 1 | Light / Medium / Heavy in Partial / Standard / Full coverage; this ONE outfit provides its own approved covered AR, mobility, material effects and integrated joint/helm/gauntlet protection |
+| Head | 1 | Separate functional accessory/enchanted attachment or replacement fitted into full armor, **no additive physical AR layer for already protected surfaces** |
+| Neck | 1 | Necklace/collar/amulet accessory with its actual equipped function and any applicable enchantment burden |
+| Arms / bracers | 1 | Fitted accessory, arm guard or enchantment-bearing interface; no second free armor AR |
+| Hands / gloves | 1 | Accessory/gauntlet modification fitted to the protected ensemble as appropriate, without double physical armor |
+| Feet / boots | 1 | Boots/enchantment interface with normal mobility and armor ensemble consistency; no doubled physical AR |
+| Waist | 1 | Belt/sash/utility or enchanted fitted item |
+| Ring 1 | 1 | May carry one active enchanted ring set |
+| Ring 2 | 1 | May carry a second actively enchanted ring; additional mundane jewelry is not a third active ring slot |
+| Primary weapon / held implement | 1 | Must meet genuine one- vs two-hand operation, handling, ready-state and stat eligibility |
+| Offhand weapon / shield / second implement | 1 | May be physically occupied or carried, but **cannot be simultaneously active when the primary weapon requires both hands** without a separately established lawful interface |
+
+**Total 11 slots.** This working equipment-economy architecture supersedes the prior *proposal-only slot inventory* for current design/testing, **not** earlier explicit rules about integrated underarmor (a separately stackable Light suit under Medium/Heavy is retired), existing race-specific body anatomy, weapon action economy, carrying limits or the Shimmer's separate **six starting pocket-inventory slots**. Slot treatment for unusual anatomies/mounts, what separates an independent enchanted attachment from the protective ensemble's armor chassis, magical stacking, accessory socket ceilings and named duplicated effects is not numerically solved by adopting the slots.
+
+**Author-approved level-100 affordability test goal (carried forward):** About **six Quality V top-end items and five Quality III midgame items** filling 11 slots, including armor, a weapon, and an offhand weapon/shield (or physically legal stowed backup), with equipment-enhancement Soul Strain totaling about **50% of available natural MP** on an applicable Hero build. This does not mean all physical Quality V items necessarily produce Soul Strain, nor do the example races with zero natural MP gain a new reserve. The approved level-100 current-portfolio target **4,000 Gems** and 30%-of-*lifetime-earnings* consumable allocation are kept initially while testing fit.
+
+---
+
+## November 12, 2026 — Full 11-slot level-100 three-build reverse-engineering trial (NONCANON PRICE TARGETS)
+
+**Status:** These are **explicitly HYPOTHETICAL complete finished-equipment pricing targets** and Soul Strain installation examples, **NOT** standalone approved Gem prices, final runic surcharge formula, granted item stats, or automatic new item identities. Only the eleven-slot *working architecture* above is newly author-authorized. Prices are chosen **backward** to test whether the existing 4,000 Gem portfolio can support the user's full loadout goal. Therefore fitting the target proves algebraic feasibility, **not** independent real-market synchronization of material supply, labor, magical power, or scarcity.
+
+**Quality layout in all three worked builds:** V = Armor, Primary, Offhand/backup, Neck, Waist, Ring 1 (**six**); III = Head, Arms, Hands, Feet, Ring 2 (**five**). Every line explicitly separates proposed **physical finished form** Gem component, **installed enchantment** Gem premium, and equipment Soul Strain. The baseline physical quality value is **not** charged again atop the sample component cost; physical Quality and enchantment are distinct. Item function/rune eligibility must be calibrated against actual enchanting canon before numeric prices are approved.
+
+**Current preexisting canon references:** W(100)=**4,000 Gem** currently held equipment original purchase value, level-100 lifetime earnings ~**7,872 Gem**, planned **30% ~2,362 Gem** spent on consumables and ~**1,510.5 Gem** in typical reference replacement losses. The generic Quality V/III values **90/50 Gem** are quality reference values, **not** added a second time to the full physical finished item price. General ordinary enchanted quality reference Strain QV **8**, QIII **4**; mundane craft may have zero, and reference strain is **not** automatically imposed on all equip items. For ordinary mana-generating races natural MP generally equals floor(effective END); confirmed exceptions (Thornguard doubled MP and 50% equipment cap; Centaur half equipment-derived strain, etc.) are treated separately. Approved QV Greatbow physical finished model's PROVISIONAL Gem price **1,750** is preserved in the marksman table, with its proposed installed magic surcharge shown **separately**, not free.
+
+
+### Heavy guardian (TEST ONLY)
+
+Full Heavy Quality V Adamantite armor (proposed 1,050 Gems mundane +220 Gems installed magic), Quality V main weapon and shield; one distinct high-quality occupant per equipped slot. An ordinary naturally mana-bearing effective-END100 Hero is assumed. Armor, helm, gloves and boots do not provide multiple stacked physical AR layers.
+
+| Occupied slot | Quality | Physical form (Gem) | Installed magic (Gem) | Total (Gem) | Soul Strain |
+|---|:---:|---:|---:|---:|---:|
+| Armor ensemble | V | 1050 | 220 | 1270 | 8 |
+| Primary weapon | V | 650 | 200 | 850 | 8 |
+| Offhand shield | V | 330 | 130 | 460 | 8 |
+| Head | III | 20 | 100 | 120 | 2 |
+| Neck | V | 50 | 200 | 250 | 7 |
+| Arms / bracers | III | 25 | 105 | 130 | 1 |
+| Hands / gloves | III | 25 | 95 | 120 | 1 |
+| Feet / boots | III | 35 | 115 | 150 | 2 |
+| Waist | V | 70 | 140 | 210 | 6 |
+| Ring 1 | V | 25 | 190 | 215 | 5 |
+| Ring 2 | III | 25 | 115 | 140 | 2 |
+| **Total** | **6 V / 5 III** | **2,305** | **1,610** | **3,915** | **50** |
+
+**Test target:** Natural MP **100**, half-capacity equipment Soul Strain **50**, trial sum **50**, so **50 MP** nominal capacity remains ahead of other strain sources. **Portfolio margin:** 4,000 − 3,915 = **85 Gem**. No racial-specific Strain mitigation or new magical cast effects presumed.
+
+
+### Greatbow marksman (TEST ONLY)
+
+Quality V legendary greatbow at its already author-approved PROVISIONAL unenchanted finished-item price **1,750 Gems** plus illustrative **120-Gem** enchantment installation. Medium Boughsteel-style armor at provisional price; offhand is a sheathed/stowed Quality V backup tool/weapon, NOT simultaneously wielded while two hands draw the greatbow. An otherwise normal mana-bearing effective-END80 Hero is modeled.
+
+| Occupied slot | Quality | Physical form (Gem) | Installed magic (Gem) | Total (Gem) | Soul Strain |
+|---|:---:|---:|---:|---:|---:|
+| Armor ensemble | V | 480 | 100 | 580 | 4 |
+| Primary greatbow | V | 1750 | 120 | 1870 | 8 |
+| Carried offhand backup | V | 100 | 0 | 100 | 0 |
+| Head | III | 45 | 55 | 100 | 1 |
+| Neck | V | 50 | 110 | 160 | 6 |
+| Arms / bracers | III | 45 | 65 | 110 | 2 |
+| Hands / gloves | III | 45 | 75 | 120 | 1 |
+| Feet / boots | III | 70 | 70 | 140 | 2 |
+| Waist | V | 60 | 120 | 180 | 6 |
+| Ring 1 | V | 30 | 160 | 190 | 8 |
+| Ring 2 | III | 30 | 100 | 130 | 2 |
+| **Total** | **6 V / 5 III** | **2,705** | **975** | **3,680** | **40** |
+
+**Test target:** Natural MP **80**, half-capacity equipment Soul Strain **40**, trial sum **40**, so **40 MP** nominal capacity remains ahead of other strain sources. **Portfolio margin:** 4,000 − 3,680 = **320 Gem**. No racial-specific Strain mitigation or new magical cast effects presumed.
+
+
+### Magic-focused caster (TEST ONLY)
+
+Light or specialist Quality V magical armor (no invented Celestite or fixed racial item affinity), Quality V primary casting implement, offhand weapon/shield, 6x QV/5x QIII pieces and expensive specialist rune/socket effects. A normally mana-generating effective-END120 Hero is modeled.
+
+| Occupied slot | Quality | Physical form (Gem) | Installed magic (Gem) | Total (Gem) | Soul Strain |
+|---|:---:|---:|---:|---:|---:|
+| Armor ensemble | V | 420 | 200 | 620 | 8 |
+| Primary casting implement | V | 490 | 290 | 780 | 8 |
+| Offhand weapon / shield | V | 220 | 170 | 390 | 8 |
+| Head | III | 30 | 100 | 130 | 3 |
+| Neck | V | 50 | 410 | 460 | 8 |
+| Arms / bracers | III | 35 | 105 | 140 | 2 |
+| Hands / gloves | III | 50 | 120 | 170 | 3 |
+| Feet / boots | III | 45 | 115 | 160 | 1 |
+| Waist | V | 90 | 330 | 420 | 8 |
+| Ring 1 | V | 30 | 460 | 490 | 8 |
+| Ring 2 | III | 35 | 115 | 150 | 3 |
+| **Total** | **6 V / 5 III** | **1,495** | **2,415** | **3,910** | **60** |
+
+**Test target:** Natural MP **120**, half-capacity equipment Soul Strain **60**, trial sum **60**, so **60 MP** nominal capacity remains ahead of other strain sources. **Portfolio margin:** 4,000 − 3,910 = **90 Gem**. No racial-specific Strain mitigation or new magical cast effects presumed.
+
+
+### Comparative sensitivity and what the trial actually establishes
+
+| Assumed build | Physical form (Gem) | Hypothetical enchantment premiums (Gem) | Total (Gem) | Spare out of W100 | Installed Soul Strain / assumed natural MP |
+|---|---:|---:|---:|---:|---|
+| Heavy guardian | 2,305 | 1,610 | 3,915 | 85 | 50/100 |
+| Greatbow marksman | 2,705 | 975 | 3,680 | 320 | 40/80 |
+| Magic-focused caster | 1,495 | 2,415 | 3,910 | 90 | 60/120 |
+
+**Strong points:** All three *backward-set pricing targets* can fit six QV and five QIII gear slots with an appropriate 50%-natural-MP Soul Strain allocation, leaving **85/320/90 Gems**, without modifying the W(100) formula, the 30% consumables fraction, equipment Quality tiers, actual Piercing Power, or armor AR. Price composition is strikingly different by archetype: the Greatbow takes a high **physical budget**, while caster accessories demand a higher **enchantment premium**. This is a reason to distinguish form/material expenses from runic costs rather than applying one uniform multiplier to all items.
+
+**Important limits and possible real mismatch:**
+- Two of three sample builds have less than **3% portfolio slack**. Only a small increase in real armor/enchantment price could break the budget.
+- Greatbow at **1,750 physical + 120 hypothetical enchantment = 1,870 Gem** takes **46.75%** of W100; the 120 surcharge is **NOT CANON**. Its already-approved 1,750 target cannot be treated as an arbitrary enhanced version at no additional charge.
+- QV Full Heavy Adamantite armor **1,050 Gem** before enchantments in the guardian model and **1,270 Gem** with its 220-Gem magic test is **NOT AN APPROVED ARMOR PRICE**. Its overall maximum with the guardian's other ten chosen item prices fixed is **1,355 Gem**, because those ten cost **2,645 Gem**, so a pricier suit forces adjustments or >4,000 wealth. A hypothetical, otherwise comparable QV Celestite suit under its existing *5× equivalent Adamantite unenchanted nominal* valuation would be **5,250 Gem crafting reference** before any independent enhancements, clearly **above the standard 4,000 Gem portfolio** and reliant on actual divine-forging prerequisites. This **does not set Celestite or Adamantite prices**, nor imply Celestite is shop purchasable.
+- If the marksman swapped the modeled 580-Gem medium armor for the guardian's **1,270-Gem** heavily enchanted Adamantite suit without reducing other items, cost rises to **4,370 Gem**, exceeding W100 by **370 Gem**. Combining multiple unusually premium choices may require compromise. No blanket promise that any arbitrarily expensive paired set fits every Hero is approved.
+- For an illustrative 11-item layout, naive baseline quality-value totals are **6×90 + 5×50 = 790 Gems**. That leaves **3,210 Gem** from W100 for all differences in materials, physical builds, engineered weapon scarcity and enchantment. The 1,750-Gem **unenchanted** Greatbow alone is **1,660 Gems above** a QV 90-Gem generic reference; its hypothesized +120-Gem enchant pushes that one item's premium to **1,780 Gems**, a large fraction of the remaining 3,210-Gem premium envelope.
+- The currently approved retirement of the independent Moonlit Forge +1 to +5 reinforcement system means its old upgrade prices should **not** also be charged as a second quality upgrade track. Armor-internal head/hand protection is likewise **not** priced as extra protective layers.
+- **Gem Shop 50% buyback is provenance-conditional**: the 1,510.5-Gem reference replacement loss model assumes the modeled items actually qualify. Custom commissioned/smith-forged items do NOT automatically share that 50% buyback. If endgame gear relies heavily on non-shop craft, the existing lifetime earnings formula may underbudget replacement even if W100 itself covers the final portfolio. This needs a separate later sensitivity test.
+
+**Next recommended pricing order (unapproved design work):** (1) author review of eleven-slot legal/enchantment fit and these scenario stress tests; (2) calibrate realistic **enchantment price vs Soul Strain and mechanical benefit** independent from workmanship, including duplicates/race exceptions and ring/accessory mount capacity; (3) solve **Adamantite Full Heavy QV** and other armor material/coverage/class/quality ranges *against complete loadouts* rather than in isolation; (4) test **weapon and shield** material/enchanted costs against all three builds; (5) re-evaluate W(L), the 30% lifetime consumable target, actual seller/buyback assumptions, midgame replacement pathway and endgame portfolio; (6) only then unfreeze further ammunition cost design. **No new economic number above is canon solely because it appears in the test.**
+
+---
+
 ## November 12, 2026 — Level-100 complete-loadout affordability target and Celestite crafting valuation clarified (AUTHOR DIRECTION)
 
 **Latest user-directed economy benchmark:** A representative **level-100 Hero should be able to afford a full intended equipment loadout**, including **armor, a primary weapon, a viable offhand weapon or shield, and approximately one fitted item in each ultimately approved equipment slot**. Approximately **half** the finished equipped pieces should be **top-of-the-line** for that build and the other half **midgame-tier** pieces. For a mana-using Hero with a genuinely available Soul Strain pool, the loadout should also have the practical capacity to invest **approximately half of the available natural MP capacity as equipment Soul Strain** while following the actual rules. This is an **economic design/calibration target**, not a new universally fixed slot list, equipment grant, compulsory attunement level, MP formula, weapon dual-wield permission, or exact number of quality-V items. Different legitimate race/build mana exceptions remain (Moontouched and Drakyn normally have zero natural MP, Thornguard reserve restrictions, Centaur half-strain equipment affinity). Full protective armor already incorporates its own head/limb/underarmor surface coverage; do not price duplicate physical AR layers as independent worn slots merely to fill the loadout.
