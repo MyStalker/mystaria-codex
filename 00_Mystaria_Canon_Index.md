@@ -1,3 +1,15 @@
+## November 11, 2026 — Bow construction, physical Quality and provisional Gem prices approved (LATEST AUTHOR APPROVAL)
+
+**Latest author decision:** The four advanced/legendary bow **working engineering identities** are accepted: High-draw reinforced laminates/Boughsteel fittings; Titan Thornspring limbs/Boughsteel spine; Colossal coupled Thornspring limbs with optional Trufula lightweight frame (real fire hazard); Greatbow high-efficiency coupled limbs with potential Thornspring storage and selective Adamantite joints. These are **not exclusive fixed recipes or new material damage multipliers**. Existing cap100/200/300/400, full-draw Piercing Power14,500/45,000/90,000/150,000, range bands and normal ordinary-arrow count/forms are unchanged.
+
+**Approved Quality control thresholds:** Apply existing QI–V physical requirement factors **1/.95/.90/.85/.80** once each to bow minimum *controlled draw STR* and *Handling DEX*, rounding up. QV minima High-draw **28/24**, Titan **64/28**, Colossal **100/32**, Greatbow **144/36**, with earlier QI original requirements maintained. No Quality-based cap, Power, range or extra action. Full table in [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
+**Provisional, author-approved Quality V complete bow price targets:** High-draw **150 Gems**, Titan **450 Gems**, Colossal **950 Gems**, Legendary greatbow **1,750 Gems**. Prices and rarity are working calibration, not universal shop guarantees. **Mandatory future checkpoint: REVISIT PRICING after enchantment costs, competing gear, and full Hero equipment portfolio distributions are developed.** Existing 90-Gem QV baseline and 4,000-Gem level-100 portfolio reference remain intact.
+
+**Piercing arrows already settled in ordinary form:** Piercing point F0.90/50% covered AR bypass, contrasted with Slashing broadhead F1.10/0%, Piercing-to-Slashing Power ratio 81/121. No traditional arrow size/draw-force tiers. Remaining ammo production, Gem prices and ordinary quiver bulk are unresolved; no new Piercing subclass is approved. See [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 11, 2026 — Four legendary bow range bands and construction principles approved (LATEST AUTHOR APPROVAL)
 
 **Author-approved working bow distance boundaries in feet:** advanced high-draw **Close15 / Effective130 / Far210 / Extreme300** (unchanged); Titan **20 / 170 / 275 / 390**; Colossal composite **20 / 205 / 335 / 475**; Legendary greatbow **25 / 245 / 400 / 575**. Apply existing Close/Effective +0, Far +1 and Extreme +2 hit-difficulty categories with **no ranged Power falloff** and **no ordinary shot beyond weapon-specific Extreme**. The precision rifle retains its separate 900-ft Extreme bound. Distinct bow engineering, **no universal single-material restriction** on high-cap bows and **ordinary arrows without force/size tiers** are author-approved design principles. These do **not** specify exact materials or grant a Quality-based draw-cap/Power increase.
