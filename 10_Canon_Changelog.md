@@ -1,3 +1,11 @@
+## November 11, 2026 — Extreme range cap confirmed for ordinary ranged attacks (author approved)
+
+**Explicit decision:** No ordinary ranged shot can be targeted past the upper limit of its weapon's established **Extreme** band. Beyond Extreme is **ineligible**, not an additional fifth band with ever-rising difficulty. The approved advanced precision sight remains accuracy-only and **cannot extend this distance**, nor may Aim, high DEX, ordinary Pressure, equipment Quality or a proposed attachment create an unsupported exception. No physical claim that projectiles stop in midair; no new numerical limits for weapons without defined bands. Preserve distinct magical effects and the existing 10-meter Point Blank burst rule.
+
+**Supersedes** earlier unresolved beyond-Extreme **ordinary-attack eligibility** notes in Combat, Equipment and the ranged catalogue; leave the historical passages for audit rather than silently deleting them. No change to other ranged Power, injury, cover, Aim, recoil, or range-band calibration. **Next:** user requested proposals only (not yet approved) for how movement/stability affects held Aim and advanced-sight qualification, and for realistic attachment burden/expense/durability. Owning updates: `22_Combat_Endurance_and_Shimmer_Guard.md`, `27_Ranged_Weapon_Catalogue_DRAFT.md`, `09_Equipment_and_Economy.md`, `10_Canon_Changelog.md`, and index.
+
+---
+
 ## November 11, 2026 — Advanced precision sight Option A approved
 
 **Author expressly approves Option A as working calibration:** A weapon-compatible **advanced precision sight** grants **one category of relief specifically from the Far or Extreme range penalty** on a **genuinely aimed, valid shot**, provided the shooter has **effective DEX ≥100** and a **stable/braced shooting position**. Normal Aim still costs an attack opportunity and grants its approved one-category improvement; the sight's relief is additional, reduces only the range penalty (minimum zero), and creates **no Pressure Points**. Effective/Close gain no extra optic modifier, range boundaries in feet are unchanged, and no beyond-Extreme eligibility is added. A qualified sight does not affect shot Power, armor bypass, cover, recoil, weapon-legal targeting, or the basic mechanical support requirements.
