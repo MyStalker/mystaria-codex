@@ -1,3 +1,13 @@
+## November 12, 2026 — Smithcraft Gem price conversion and new per-tier purchase targets (LATEST ECONOMY)
+
+**Latest author-directed tenfold denomination:** Convert formerly approved mandatory portable **Cogsong Command Loom** rank/Quality I–V costs `12 / 28 / 55 / 90 / 140 historical Gems` to **120 / 280 / 550 / 900 / 1,400 current Gems**, without altering Cogmarshal ranks, Cogsong music, squad control, CP capacities, crafting requirements, power, command actions, physical device, MP or SP. This **purely numerical ×10 re-denomination** retains the original purchasing-power ratios for the existing catalog and is presently the canonical nominal conversion of those offers. No additional compulsory command item is added. The former "remote control" description in the historical passage remains superseded by the author's approved ocarina-like played instrument.
+
+**Author-directed new wealth reference:** New tier I–V reference wealth **200/400/800/1600/3200 Gems**, primary item **60/120/240/480/960 Gems**. Thus original Loom ×10 costs are relatively expensive for a typical commander (120/200=60% at tier I, 1400/3200=43.75% at tier V). A **separate, explicitly UNAPPROVED Loom price rebalance candidate** would be **60/120/240/480/960 Gems** by rank I–V if a Command Loom is intended as the character's main investment. Whether to adopt that change needs the author's approval and real Cogmarshal/clockwork loadout tests; `120/280/550/900/1400` remain the nominal converted source offers until then.
+
+**Historical Smithcraft "14/30/50/70/90 standard Gem benchmark" numbers** are **superseded as universal present-day *prices*** by the author's new equipment economic framework. Preserve their historic crafting context, previously approved Oathsteel actual rank and natural INT/END prerequisites, craftsmanship physical quality progression, and ordinary Soul Strain references. New category-by-quality equipment prices are a working model, not a blanket item fee added to construction costs or a grant of free magic. See `09_Equipment_and_Economy.md`. **Celestite armor** stays craftable only at QV with genuine triune divine participation and has the previously author-approved **1.20× comparable Adamantite armor** crafting valuation, independent of this Gem redenomination; no Gem amount can buy divine help.
+
+---
+
 ## November 12, 2026 — Celestite forging valuation corrected to Adamantite ×1.20 (LATEST AUTHOR APPROVAL)
 
 **Author's latest explicit correction:** Replace older nominal **5× Adamantite** Celestite armor price with **1.20× the comparable Quality V Adamantite armor price**, i.e., **20% more expensive** at the same protective Light/Medium/Heavy class and Partial/Standard/Full coverage. **This is the approved special crafting-purpose value for Celestite armor**, not a conventional purchasable merchant tariff. Preserve Celestite's exceptional highest-end valuation status and **Quality V-only** production.
@@ -30,7 +40,7 @@ Squad maneuvering changes the count. A spread-out squad may give a Sweep only on
 
 **ORDINARY MUSIC:** The same instrument can also play **conventional music** for enjoyment or performance. Ordinary musical performance does not itself issue an authorized construct command; a Cogsong order remains a deliberate, valid command transmitted through the Loom.
 
-**PRESERVED FUNCTIONS:** This is a **form-factor and playing-method revision only**. The Loom remains mandatory for Cogmarshal control, and all established Cogmarshal ranks, CP capacities, squad/order action economy, prices (12/28/55/90/140 Gems for ranks I–V), Cogsong identity, acoustic limitations, and unresolved range/upkeep rules remain unchanged. The historical November 5 “remote-control-style” description below is **SUPERSEDED only in its physical description**, not in its pricing or role.
+**PRESERVED FUNCTIONS:** This is a **form-factor and playing-method revision only**. The Loom remains mandatory for Cogmarshal control, and all established Cogmarshal ranks, CP capacities, squad/order action economy, prices (120/280/550/900/1400 current Gems for ranks I–V), Cogsong identity, acoustic limitations, and unresolved range/upkeep rules remain unchanged. The historical November 5 “remote-control-style” description below is **SUPERSEDED only in its physical description**, not in its pricing or role.
 
 ---
 
@@ -423,7 +433,7 @@ Anvilcant is a **green-mana, materials-science magical Craft** devoted to forgin
 
 Original creation requirements (effective **natural** smith stats, not just equipped boosts):
 
-| Quality | Oathsteel | INT min | END min | Standard Gem benchmark |
+| Quality | Oathsteel | INT min | END min | Historical Gem benchmark (old denomination; superseded) |
 |---|---|---:|---:|---:|
 | I | I | 8 | 10 | 14 |
 | II | II | 16 | 20 | 30 |
@@ -607,7 +617,7 @@ Speed-led attacks may gain modest **Power** from **relative closing velocity** a
 
 Natural effective prerequisites for crafting tiers I–V increase **both INT and END by 10**, compared with the earlier historical thresholds. Temporary gear stat bonuses do not satisfy the NATURAL-attribute prerequisites.
 
-| Quality | Oathsteel rank | Natural INT | Natural END | Existing benchmark Gems |
+| Quality | Oathsteel rank | Natural INT | Natural END | Historical benchmark Gems (old denomination; superseded economic reference) |
 |---|---|---:|---:|---:|
 | I | I | 18 | 20 | 14 |
 | II | II | 26 | 30 | 30 |
@@ -630,7 +640,7 @@ See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve
 
 ## November 5, 2026 — Command Loom pricing and construct system direction (LATEST CANON)
 
-**APPROVED portable Command Loom Gem prices by Cogmarshal rank and Loom quality:** Rank I / Quality I **12 Gems**, II **28 Gems**, III **55 Gems**, IV **90 Gems**, V **140 Gems**. It is a carried remote-control-style item craftable at the corresponding Cogmarshal rank; a purchaser gains no Cogmarshal ranks merely by owning one. These amounts buy **the Loom**, not its constituent commanded constructs, maintenance or energy. Earlier proposed doubled Command Point capacity **2/4/6/8/12** remains unapproved; range, interference, MP upkeep and delivery mechanisms remain unresolved.
+**APPROVED portable Command Loom Gem prices by Cogmarshal rank and Loom quality:** Rank I / Quality I **120 Gems**, II **280 Gems**, III **550 Gems**, IV **900 Gems**, V **1,400 Gems**. It is a carried remote-control-style item craftable at the corresponding Cogmarshal rank; a purchaser gains no Cogmarshal ranks merely by owning one. These amounts buy **the Loom**, not its constituent commanded constructs, maintenance or energy. Earlier proposed doubled Command Point capacity **2/4/6/8/12** remains unapproved; range, interference, MP upkeep and delivery mechanisms remain unresolved.
 
 **Clockwork materials determine basic construct statistics** (STR, DEX, END/Resistance, SPD and appropriate machine INT/ability-to-process-instructions), unlike a normal magic sword whose material primarily defines weapon behavior and bonuses. Form, component materials, mass, gears, articulation, engineering quality and construction define the underlying machine; **Leywells** furnish compatible magical power, passive runes modify specified functions, active gems trigger programmed Sorcery Incantations, and Cogmarshal/Command Loom supply directed commands. Ordinary constructs **cannot think independently**. Preserve Cogmind Calamity lore. The six named **proposed** machine families are **Windlings, Quicksteps, Iron Servitors, Bulwarks, Gearsteeds and Siege Engines**; exact stat blocks, recipes, material-specific outcomes and upkeep are **UNAPPROVED** and will be revisited **after the remaining equipment/crafting rules are finalized**. See `24_Modular_Equipment_Design_Options_DRAFT.md` for a scoped design queue. These constructs are **not** automatically six new craft disciplines or purchased skills.
 
@@ -649,7 +659,7 @@ See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve
 
 **LATEST DEVICE REVISION (Nov 10):** This mandatory Command Loom is played as an **ocarina-like wind instrument**: the commander must blow into it to send the acoustically encoded orders. It can also produce conventional music. This replaces the older remote-control-like presentation without changing its control function, prerequisite, pricing, or command action economy.
 
-**MANDATORY LOOM:** A working, carried, compatible **Command Loom is required for Cogmarshal control**; it is no longer an optional capacity booster. Cogmarshal rank alone does not permit command transmission. A Loom remains a purchasable/craftable item with the approved rank I–V prices **12/28/55/90/140 Gems**. Owning one never grants the Cogmarshal ranks. Prior proposed native CP 1/2/3/4/6 versus doubled Loom CP 2/4/6/8/12 are **superseded as a model**: there is no native no-Loom command pool. Exact mandatory-Loom CP capacity by rank remains UNAPPROVED.
+**MANDATORY LOOM:** A working, carried, compatible **Command Loom is required for Cogmarshal control**; it is no longer an optional capacity booster. Cogmarshal rank alone does not permit command transmission. A Loom remains a purchasable/craftable item with the approved rank I–V prices **120/280/550/900/1400 current Gems**. Owning one never grants the Cogmarshal ranks. Prior proposed native CP 1/2/3/4/6 versus doubled Loom CP 2/4/6/8/12 are **superseded as a model**: there is no native no-Loom command pool. Exact mandatory-Loom CP capacity by rank remains UNAPPROVED.
 
 **APPROVED SQUAD SIZE:** A standard ordinary squad has **4 constructs** of the same type. Understrength squads are less effective, reinforced squads more effective, without independent per-machine full attack turns. **Approved reinforcement model B:** enlarging a standard squad from 4 to **5–8** constructs costs **+1 additional Command Point (CP)** beyond its normal squad CP cost. It still resolves **only one combined attack per offensive order**. More than eight ordinary constructs must be organized into multiple squads. The ordinary squad's baseline CP costs, bonuses and performance formulas remain UNAPPROVED.
 
@@ -675,7 +685,7 @@ See the status-separated discussion in `09_Equipment_and_Economy.md`. All twelve
 
 This **explicitly approves the formerly proposed 2/4/6/8/12 capacity progression**, superseding the earlier statement that these were unapproved. It **does not restore optional Looms or a native no-Loom CP pool**. CP is a capacity for controlled machines/formations, **not bonus actions, attacks or MP**. The approved Windling rate remains **4 Windlings per CP**, with no independent attack per Windling. An ordinary homogeneous squad is four machines; reinforcing it to five through eight commits **+1 CP**, and each new attack still requires a new meaningful command action. Other machine types' baseline CP costs, Cogsong range/latency, MP upkeep and detailed Windling combat effects remain **UNAPPROVED**.
 
-**Rank prerequisites and SP costs are unchanged:** Cogmarshal remains within the approved five-rank Anvilcant progression, **5 SP per rank**, with established level gates 1/10/25/50/80. A higher Loom grade never substitutes for missing Cogmarshal training. Existing Loom Gem prices remain **12/28/55/90/140**.
+**Rank prerequisites and SP costs are unchanged:** Cogmarshal remains within the approved five-rank Anvilcant progression, **5 SP per rank**, with established level gates 1/10/25/50/80. A higher Loom grade never substitutes for missing Cogmarshal training. Existing Loom Gem prices remain **120/280/550/900/1400 current Gem-denomination**.
 
 ## November 6, 2026 — Windling tactical saturation, squad scaling and sonic receivers (LATEST AUTHOR DIRECTION)
 
