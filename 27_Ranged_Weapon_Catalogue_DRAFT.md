@@ -1,3 +1,83 @@
+## November 11, 2026 — STR100–400 legendary bow ladder: 320-scenario quantitative test (NONCANON)
+
+**STATUS: TEST RESULTS AND NEW NUMERIC PROPOSALS ONLY.** The author's explicit approval covers **testing** the previously approved high-strength archery progression and the **design requirement that some bow can exploit effective STR400**, not blanket approval of the new bow names, caps, draw minima, full-draw Powers, new arrow construction, handling, costs or ranges. This reproducible note is for future review; it does **not** supersede the approved high-draw bow's **14,500 full-draw Power** or existing mechanical rules.
+
+### Test inputs
+
+Use the **approved** physical model for a legally drawn and successfully landed conventional Piercing arrow: each item has separate full-draw rated Power `Pfull` and engineered cap `C`, with `Pshot = Pfull × (min(effective STR,C)/C)^2`. Use 50% ordinary Piercing AR bypass and `Defense Power = effective END² + (covered AR × 0.5)²` under the *later approved global effective-stat rebase*, not superseded `(END+10)^2` examples. Impact ratio `Pshot/Defense` gives Superficial (≤0.75, 0 injury stages), Solid (>0.75 to 1.75, 1), Devastating (>1.75 to 3.0, 2), Overwhelming (>3.0, 3). Test **no extra magical force, bonus material multiplier, Power falloff, specialized arrow penetration, Aim/cover hit probability or quality increment**.
+
+**Recommended BALANCED numeric candidates (NOT CANON):**
+
+| Distinct engineered bow | Proposed STR draw cap | Rated full-draw shot Power |
+|---|---:|---:|
+| Existing advanced high-draw bow | 100 (**cap remains proposed**) | **14,500 (previously approved)** |
+| Titan bow | 200 | **45,000 proposed** |
+| Reinforced colossal composite bow | 300 | **90,000 proposed** |
+| Legendary greatbow | 400 | **150,000 proposed** |
+
+**Batch:** 4 tested bows × 4 archer effective STR `[100, 200, 300, 400]` × 4 defender effective END `[100, 200, 300, 400]` × 5 armor sets `[AR0, QV Full Medium Boughsteel AR75, QV Full Heavy Boughsteel AR115, QV Full Medium Adamantite AR110, QV Full Heavy Adamantite AR170]` = **320 independent landed-hit scenarios**. All wearers assumed to meet their armor operation prerequisites; shot eligibility, practical arrow manufacture, character level, and weapon minimums are held out rather than invented. To reproduce, apply the equations above for each combination.
+
+### Quadratic partial-draw Power grid
+
+| Bow / shooter effective STR | 100 | 200 | 300 | 400 |
+|---|---:|---:|---:|---:|
+| High-draw, cap100 | 14,500 | 14,500 | 14,500 | 14,500 |
+| Titan, cap200 | 11,250 | 45,000 | 45,000 | 45,000 |
+| Colossal, cap300 | 10,000 | 40,000 | 90,000 | 90,000 |
+| Greatbow, cap400 | 9,375 | 37,500 | 84,375 | 150,000 |
+
+**No premature upgrade effect:** Highest Power among the four candidates is high-draw near STR100, Titan after about STR114, Colossal after about STR213, and Greatbow after about STR310. At STR200 the Titan's 45,000 beats the Greatbow's partial 37,500; at STR300 Colossal 90,000 beats Greatbow partial 84,375. Thresholds use the stated quadratic model and assume every bow can be legally drawn at that strength; future minimum controllable draw/handling and arrows may restrict access further.
+
+### Injury comparison (QV Full Heavy Adamantite AR170, ordinary piercing)
+
+**At matched archer STR and defender END:**
+
+| Bow at own full cap | Archer STR = target END | Impact ratio | Injury stages |
+|---|---:|---:|---:|
+| High-draw | 100 | 0.842 | 1 (Solid) |
+| Titan | 200 | 0.953 | 1 (Solid) |
+| Colossal | 300 | 0.926 | 1 (Solid) |
+| Greatbow | 400 | 0.897 | 1 (Solid) |
+
+This **one injury against comparable-END exceptional plate** persists across all five tested QV/unarmored protection sets at each matching tier, with input ratios above 0.75 and at most 1.75. Individual Strength and END are reference values, **not level-locked character templates**.
+
+**At each bow's full rated Power versus END100 / END200 / END300 / END400 wearing QV Full Heavy Adamantite:**
+
+| Bow | END100 | END200 | END300 | END400 |
+|---|---|---|---|---|
+| High-draw STR100 | 1 | 0 | 0 | 0 |
+| Titan STR200 | 2 | 1 | 0 | 0 |
+| Colossal STR300 | 3 | 2 | 1 | 0 |
+| Greatbow STR400 | 3 | 3 | 1 | 1 |
+
+**Sensitivity trials, all UNAPPROVED:**
+
+| Candidate schedule | STR100 cap | STR200 cap | STR300 cap | STR400 cap | Matched-END QV Adamantite Heavy result |
+|---|---:|---:|---:|---:|---|
+| Conservative | 14,500 | 42,000 | 80,000 | 130,000 | Solid at all four |
+| **Balanced, recommended** | **14,500** | **45,000** | **90,000** | **150,000** | **Solid at all four** |
+| Aggressive | 14,500 | 55,000 | 115,000 | 210,000 | Solid at all four |
+
+Conservative Greatbow STR400 vs END200 QV Adamantite Heavy yields **Devastating** (130k / 47,225 = 2.753), whereas Balanced crosses into **Overwhelming** (150k / 47,225 = 3.176). Aggressive Greatbow vs END300 QV Adamantite Heavy reaches **Devastating** (210k / 97,225 = 2.160), versus Balanced **Solid** (150k / 97,225 = 1.543). Balanced thus rewards a legendary stat disparity without over-inflating damage against near-matched END300.
+
+**Scenario count outcomes across the 320 balanced cases** (80 per bow, including all target material/class combinations at STR100/200/300/400): high-draw Superficial60/Solid20/Devastating0/Overwhelming0; Titan 46/19/3/12; Colossal 36/19/11/14; Greatbow 33/22/8/17. This is a grid count **not a probability distribution**; no assumed opponent occurrence frequencies, hit chances, ammunition shortages, setup actions or survival rolls.
+
+### Comparison to older approved ranged designs
+
+The **previously approved** shot Power anchors are advanced crossbow **17,000**, advanced arbalest **26,000**, precision rifle **15,000**, light precision firearm **11,800**. On a landed conventional piercing hit against END100 QV Full Heavy Adamantite, crossbow/arbalest/rifle yield **Solid** (1 stage). Against END200 in the same armor, all three become **Superficial**; a fully drawn Titan is **Solid**, and a fully drawn Greatbow is **Overwhelming**. The latter requires the enormous proposed STR400 and compatible legendary bow/arrows, so it is not free baseline firearm obsolescence. The arbalest still offers its distinct accessible STR70 winch support, fixed 26,000 Power and two-turn reload; rifle offers approved range up to 900 ft and magazine/recoil identity. **Do not extrapolate unapproved legendary bow range/reload/DEX minimums from these damage numbers.**
+
+### Findings and design risks
+
+1. **The ladder meets the approved goal:** every new cap creates a relevant high-Strength window; high-cap bows are intentionally inefficient for lower-Strength users. A legendary hero who remains on the cap100 bow is decisively under-equipped.
+2. **Do not auto multiply by 16:** giving the STR400 bow an untested 232,000 shot Power derived from cap100's rated 14,500 would be a different, much more aggressive calibration, not a natural consequence of the accepted partial-draw formula. Each designed bow has its own calibrated full-draw rating.
+3. **Overmatch can be Overwhelming:** legendary bows against opponents with dramatically lower END frequently reach 3 injury stages, including some QV Heavy Adamantite. The author has approved significant disparity in injury output for greatly superior weapon/material power; this warrants qualitative confirmation rather than arbitrary damage caps.
+4. **System-wide END² dominates static armor at legendary END:** at END400, ordinary 50% Piercing through QV Heavy Adamantite gives Defense167,225 versus 160,000 unarmored, so armor changes physical Defense by only ~4.5%. This is a consequence of the **existing defense architecture**, not unique to bows. Reassess in later high-end armor/endurance balancing if necessary; do not silently alter AR or Piercing bypass here.
+5. **Ammunition and action tempo require their own decisions:** very high-draw constructions need credibly rated arrows, strings, structure, safe nocking and physical positioning. Tests assumed **one legal conventional bowshot per attack action** as the older ordinary-bow baseline, but did **not approve** equal nock/draw tempo or a new extra reload cost for legendary greatbows. High-end bow ranges, projectile load, quality effects, controllable minimum draw, DEX/STR gates and fabrication materials remain open.
+
+**Recommendation for next author review:** Preserve the existing cap100 high-draw proposal and test the **balanced new full-draw ratings 45k/90k/150k** with carefully differentiated minimum controllable draw, Handling DEX and custom arrow engineering. Compare early/mid/legendary equipment acquisition and vulnerability, rather than awarding free Power from a universal item-Quality factor. The legendary STR400 reach is approved; **numerical item values above are NOT canon until explicitly accepted**.
+
+---
+
 ## November 11, 2026 — Legendary bows must exploit Strength through 400 (AUTHOR-APPROVED DESIGN GOAL)
 
 **Explicit author direction:** Mystaria must offer **distinct engineered bow designs** whose full-draw capacity reaches **effective STR 400**. This is a **broad archery progression requirement**, not an instruction to raise the previously proposed advanced high-draw bow's STR100 cap to 400, not a grant of unlimited STR-to-Power on existing bows, and not a newly established universal STR400 maximum for all future equipment. At least one genuinely attainable-for-legendary-heroes bow construction must have a draw cap of 400 so that heroic Strength up to that value can contribute meaningfully to that bow's shot Power.
