@@ -1,3 +1,13 @@
+## November 11, 2026 — Legendary armor observation deferred; bow handling and arrow tests authorized
+
+**User-approved sequencing:** Note the previously observed END² versus static AR effect as a **future legendary-heroes game-testing concern**, and **do not work on ultra-late-game armor now**. At END400, ordinary Piercing 50% bypass versus QV Full Heavy Adamantite AR170 yields Defense167,225 rather than unarmored160,000, or ~4.5% more. This is an observation to revisit in legendary playtests, not a new AR, formula, penetration or injury rule. The user directs proceeding with **legendary bow handling and specialized-arrow calibration**.
+
+**Exploration completed, not blanket approval of numbers:** A 784-case test of four proposed bow designs with STR100/200/300/400 caps and existing balanced full-draw rating candidates evaluated minimum controlled draws, STR-led modest DEX, and projectile safe-launch ratings. **Recommended DEX requirements are 30/35/40/45**, not the experimental too-steep 30/45/60/80. Recommended minimum controlled draw STR35/80/125/180; arrow-ratings 100/200/300/400 and reduced safe draw for physically fitted under-rated arrows were evaluated. All these exact new figures remain **PROPOSALS**, as do the new Power45k/90k/150k, bow names, individual cap assignments, ammo manufacturing, carry weights and prices. The preexisting approved full-draw advanced bow Power14,500, STR400-capable-design goal and quadratic bow draw rule are unchanged. No universal ranged Quality damage multiplier or free higher-Quality draw-cap bonus is introduced.
+
+**Files:** `27_Ranged_Weapon_Catalogue_DRAFT.md` (784-case proposal and ammunition assumptions), `09_Equipment_and_Economy.md` (future balance docket), `10_Canon_Changelog.md` (this record), and `00_Mystaria_Canon_Index.md` (navigate to deferred concern). Open decisions on new bow minimums, projectile safe draw, mechanical compatibility, range and economic price remain unapproved.
+
+---
+
 ## November 11, 2026 — Author requires bow designs scaling through STR400
 
 **New explicit broad equipment-design directive:** Include **distinct bow designs** engineered with draw capacities able to exploit at least **effective STR400**. Preserve different construction ceilings for ordinary and advanced bows: this **does not increase the previous advanced high-draw bow's proposed STR100 cap to 400** and does not give existing bows uncapped STR-to-Power. A legendary-hero-capable bow at STR400 is now a **required progression goal**, not a fully specified weapon. No universal character level gate or global 400 maximum is introduced.
