@@ -1,3 +1,11 @@
+## November 11, 2026 — Four-tier bow handling and rated-arrow underdraw approved (LATEST AUTHOR APPROVAL)
+
+**Working bow profiles approved:** advanced high-draw / Titan / Colossal composite / legendary greatbow test slots use engineered draw caps **100/200/300/400**, legal minimum controlled draw **STR35/80/125/180**, and Handling DEX **30/35/40/45** respectively. This is the revised moderate-DEX calibration for legendary STR specialists, superseding the prior too-steep DEX proposal. Physically compatible arrows have safe launch-force ratings (working **100/200/300/400** tiers); they can be intentionally fired at **reduced actual draw** from stronger bows, but never above the arrow rating or below the bow's controlled draw minimum. Apply approved quadratic Power at actual draw; one arrow per ordinary bowshot and normal nock/draw pace, no universal Quality Power multiplier, and no new extra reload tax.
+
+**Scope guard:** Existing high-draw shot Power **14,500 approved**. New legendary bow **45,000 / 90,000 / 150,000 shot Powers remain trial proposals**; material recipe, price, arrow geometry, ranges and final names remain open. See [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), and [Changelog](10_Canon_Changelog.md). Deferred ultra-late-game armor/END rebalancing is still off the current docket.
+
+---
+
 ## November 11, 2026 — Legendary armor balance deferred; bow handling and arrow tests continue
 
 **Author-directed future test note, NOT a rule change:** At extremely high END (e.g. 400), the existing squared END defense can greatly diminish the **relative** advantage of static AR, even QV Heavy Adamantite after ordinary Piercing bypass. Revisit this **later** during legendary-hero combat/armor playtesting; **do not rebalance END, armor, Piercing or injury thresholds now**. See [Equipment](09_Equipment_and_Economy.md) and [Changelog](10_Canon_Changelog.md).
