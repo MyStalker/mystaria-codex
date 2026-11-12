@@ -1,10 +1,18 @@
+## November 12, 2026 — Equal-material Gem valuations, Celestite premium retired (NO COMBAT CHANGES)
+
+**Latest author-approved economic correction:** The old Celestite **+20%** comparative Gem crafting-value premium, as well as the older historical 5×, is now **SUPERSEDED**: same equipment design, armor class, coverage, workmanship Quality and enchantments cost the **same standard Hero Gem-equivalent amount regardless of material**, including **Quality V Celestite armor = ×1.00 nominal equivalent QV Adamantite valuation**. Celestite remains *not ordinarily purchasable* and requires the exceptional triune divine Smithcraft. **No AR, MR, STR, DEX, SPD, elemental resistance, breakage/shatter, Leydrain, wearer MP depletion, Soul Shred/XP erosion, or other attack/defense rule is revised.** Any lower historical +20% lines below are no longer price authority. Actual mundane-world ore/bar purity and conventional-currency costs will be designed separately, without mechanical purity stats.
+
+**Material-role trial pointer:** `09_Equipment_and_Economy.md` now has narrowly scoped same-price tests: QV Heavy Boughsteel vs Adamantite vs Nullporcelain vs Glassweave/Bellcopper/Celestite in END100 armor comparisons, and representative Heavy STR-led Boughsteel vs Adamantite attack Power. Tradeoffs and availability are real; no mass simulation or numeric rebalancing was approved through this economic rule.
+
+---
+
 ## November 12, 2026 — Arrow ammunition Gem price re-denominated ×10 (ECONOMIC ONLY)
 
 The author's tenfold new Gem denomination changes the ordinary Gem Shop **40-arrow mixed-type refill bundle** from **1 historic Gem to 10 current Gems**. The quiver still holds **20** arrows and the refill still contains **40**; physical recovered-arrow adjudication, no extra reload action, injury rules and all ranged mechanics are unchanged. This is monetary redenomination only, not a new projectile effect or special-ammunition tier. Other ammunition economics remain deferred. Latest owning economy `09_Equipment_and_Economy.md`; ranged owning design `27_Ranged_Weapon_Catalogue_DRAFT.md`. Historical old-price excerpts later in this file are superseded.
 
 ---
 
-## November 12, 2026 — Celestite armor valuation supersession is economic only
+## Historical November 12, 2026 — Celestite ×1.20 valuation (SUPERSEDED by material-neutral Gem ruling)
 
 The latest author-approved **Celestite armor exceptional crafting valuation is 1.20× (20% more than)** comparable Quality V Adamantite armor of the same protection class/coverage, **not the historical 5× valuation**. Celestite remains Quality V only, divine cooperation/qualified Smithcraft is still required, and there is no automatic ordinary Gem Shop stock. Armor's physical AR/MR, Soul Shred, Leydrain, MP depletion, hazards and combat rules **DO NOT CHANGE** because of this economic correction. The older quoted 5× valuation embedded in retained historical passages is **SUPERSEDED**.
 
