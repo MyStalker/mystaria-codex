@@ -1,3 +1,30 @@
+## November 11, 2026 — Traditional arrow tiers removed; legendary bow working Powers and handling approved (LATEST AUTHOR CORRECTION)
+
+**LATEST, HIGHEST-PRECEDENCE AUTHOR DECISION:** The author **rejects multiple sizes or numerical draw-force tiers of traditional arrows** as unnecessary rule/inventory complexity, while expressly approving the remaining immediately proposed legendary-bow handling and Power recommendations. **Supersedes** the previous working 100/200/300/400 arrow safe-launch rating categories, the ammunition-derived maximum draw `R`, the rated-arrow fallback for intentional underdraw, and any supposed need to buy, carry, sort, or match an arrow to the bow's cap by a separate ammunition tier. All previous four-tier arrow-ratings/784-case ammo availability results are **historical tests, not operative ammunition mechanics**; do not run them as though they were approved after this correction.
+
+### Approved bow working calibration
+
+| Distinct bow design (working name) | Engineered draw cap | Minimum controlled partial-draw effective STR | Minimum Handling DEX | Full-draw **Piercing** shot Power |
+|---|---:|---:|---:|---:|
+| Advanced high-draw bow | **100** | **35** | **30** | **14,500** (previously approved) |
+| Titan bow | **200** | **80** | **35** | **45,000** (now approved working rating) |
+| Colossal composite bow | **300** | **125** | **40** | **90,000** (now approved working rating) |
+| Legendary greatbow | **400** | **180** | **45** | **150,000** (now approved working rating) |
+
+**Eligibility:** For an ordinary traditional bowshot, meet the listed Handling DEX and the bow's minimum safe controlled draw STR. Choose any actual draw `D_actual` satisfying `minimum controlled draw ≤ D_actual ≤ min(effective shooter STR, this bow's engineered draw cap)`. Apply the **approved quadratic partial-draw equation** `P_shot = P_full_for_this_specific_bow_and_projectile_form × (D_actual / this bow's engineered cap)^2`. More STR than this *particular* bow cap does not add damage, but a stronger engineered bow can use more STR. A controlled partial draw uses less Power; it is **not** an automatic extra attack or a constant-Power minimum. Aim/hit accuracy continues to use DEX and standard range/cover rules, not DEX as an added Power factor.
+
+**Traditional ammunition deliberately simple:** A normal bowshot consumes **one ordinary arrow**, with **no tracking of arrow size classes or rated launch-force tiers**. For this game's ordinary traditional archery, assume routine arrows are usable with the above traditional bows without imposing a new per-bow ammunition-size prerequisite, separate ammo STR cap, or 'must buy greatbow arrows' inventory tax. The **only presently approved ordinary arrowhead damage-form distinction** remains **Slashing broadhead (F1.10, 0% covered AR bypass)** versus **dedicated Piercing point (F0.90, 50% covered AR bypass)** at the same legal draw. The listed full-draw Power values in this table describe the Piercing load; the previously approved squared relative-factor relationship `P_piercing / P_slashing = 81/121` remains, with no added quality/material damage multiplier. Broadhead/piercing form is a choice of **head/attack behavior, not an arrow size/tension tier**. Do not infer another ammunition count, cost, strength class, standardized projectile mass or special size requirement from a bow's descriptor.
+
+**Physical commonsense and limits:** A bow still needs actual space to draw/fire and cannot shoot without its ammunition or through a physical barrier. An unusual nontraditional projectile mechanism may require an expressly developed item-specific exception in a later pass, but **do not reintroduce traditional-arrow size ratings as a covert fit, craftsmanship, materials, stock or Quality gate**. Exact weapon material construction, Quality requirements, final item naming, mass, range bands, rarity, Gem cost and any extraordinary ammo remain separate/unresolved.
+
+**Tempo:** One arrow per ordinary bowshot and the existing bow nock/draw pace. There is **no additional mandatory reload turn, free Aim, automatic additional attack, firearm-style recoil Strain, mandatory bracing/scope or magical glint** solely for being a high-cap bow. Existing approved 10-meter firearm burst, advanced crossbow and arbalest bolt/cocking, precision firearm/cartridge and advanced-optic rules are unaffected. Bolt and firearm ammunition identities are not collapsed into arrows.
+
+**Future balance docket (previously approved deferment):** Keep the observed high-END/armor marginal contribution on a later **legendary-heroes game-testing checklist**; do not change armor, END² or the ordinary Piercing bypass now.
+
+**History:** Earlier November 11 passages in this and cross-referenced files that called the four safe-arrow launch-force tiers author-approved are **specifically superseded by this latest correction**. Historical 784-case experiments remain an archive of a discarded ammo-tier hypothesis; earlier **bow-only** quadratic, handling, draw-cap and Power calibration remains usable.
+
+---
+
 ## November 11, 2026 — Advanced crossbow/firearm profiles and Slashing-vs-Piercing ammunition (AUTHOR APPROVED)
 
 **Latest explicit author decision:** Approve all three immediately recommended remaining ranged-equipment passes: (1) advanced crossbow/arbalest handling and arbalest setup-reset logic, (2) precision rifle and light precision firearm handling/magazine/recoil procedures, (3) standard physical ammunition comparison. **Only the Slashing and Piercing ammunition forms are being developed now**. Defer explosion, cold/freeze, spell-infused and other specialty ammunition until the spell and magical damage systems are mature. No speculative spell Power, freezing threshold, blast radius, elemental effect, ammunition price or MP cost is approved.
@@ -34,7 +61,7 @@ Thus at equal firing force, actual safe draw, bow structure, arrow engineering a
 
 **Firearm cartridges:** The rifle and light precision firearm continue to use their approved **intrinsic shot Power 15,000 and 11,800** for the previously tested standard **Piercing** shots. Do not reclassify ordinary firearms as Slashing to manufacture a nominal 'special Piercing cartridge' bonus, stack an extra 50% AR bypass on an already genuine Piercing shot, or import the crossbow Slashing-versus-Piercing F comparison to unspecified bullet construction. Additional genuinely distinct armor-piercing cartridge designs, exotic propellants, effects, required tools and spell ammunition remain open until deliberately designed and author-approved. Nonautomatic cartridges consume one ammunition unit per lawful shot.
 
-**Arrow safe-launch compatibility:** New arrowhead form changes neither the approved `100/200/300/400` safe-draw rating interface nor the minimum controlled bow draw and DEX checks. A compatible under-rated arrow can still be safely underdrawn; a new arrowhead does not authorize over-drawing, add free accuracy, extend the Extreme range, bypass physical obstruction, ignore a mount requirement, or create a new ammo damage multiplier. For bolts, dedicated stored-energy and shape-dependent ammunition compatibility must be engineered in its own profile; do not blindly convert the arrow STR-equivalent draw-rating table into crossbow cocking mechanics.
+**Traditional-arrow simplicity (latest author correction):** Slashing broadhead and Piercing point are two **head/attack-form choices**, not separate size or launch-rating tiers. Earlier 100/200/300/400 arrow ratings and rated-arrow underdraw are superseded. Use the equipped bow's minimum controlled draw, Handling DEX, actual shooter STR and the bow's own engineered cap, without a separate arrow-based draw cap. No new accuracy, beyond-Extreme shot, mount exception or ammo multiplier. For bolts, dedicated stored-energy and shape-dependent ammunition compatibility must be engineered in its own profile; do not blindly convert the arrow STR-equivalent draw-rating table into crossbow cocking mechanics.
 
 ### Test checks (not new rules)
 
@@ -48,7 +75,9 @@ Thus at equal firing force, actual safe draw, bow structure, arrow engineering a
 
 ---
 
-## November 11, 2026 — Revised legendary bow handling and rated-arrow safe draw (AUTHOR-APPROVED WORKING CALIBRATION)
+## November 11, 2026 — Revised legendary bow handling and rated-arrow safe draw (HISTORICAL; ARROW-TIER RULE SUPERSEDED)
+
+**Historical record only:** The bow handling gates recorded here remain approved; the rated-arrow / 100-200-300-400 ammunition rules and any claim that Titan/Colossal/Greatbow Power remains unapproved are **superseded by the latest author approval at the top of this file**. Use the new ordinary-arrow no-tier procedure.
 
 **LATEST EXPLICIT APPROVAL:** The author approved Quill's revised *handling and rated-arrow* approach after the 784-scenario test. This authorizes the following **working calibration for the four tested engineered bow configurations**, including their test draw-cap tiers and minimum legal partial draw/Handling DEX requirements. It does **not** silently approve the separate new full-draw shot Power numbers, final item names/material recipes, arrow market prices, all Quality interactions, or new range bands. The existing **advanced high-draw full-draw Power 14,500 is already approved**; the other Power benchmarks remain test candidates.
 
@@ -82,7 +111,9 @@ Thus at equal firing force, actual safe draw, bow structure, arrow engineering a
 
 ---
 
-## November 11, 2026 — Legendary bow handling and ammunition calibration: 784-case test (NONCANON)
+## November 11, 2026 — Legendary bow handling and ammunition calibration: 784-case test (HISTORICAL, AMMO TIERS REJECTED; NONCANON)
+
+**Historical calibration:** These tests assumed abandoned rated-arrow tiers. The numerical bow draw and injury portions are background; ammo-rated feasibility cases are not operative rules.
 
 **Status: PROPOSAL / QUANTITATIVE TEST, NOT A NEW NUMERIC CANON APPROVAL.** The author requested continuation of calibrated STR100–400 bow handling and projectile construction using the prior **balanced candidate full-draw Powers 14,500 (already approved for the advanced high-draw bow) / 45,000 / 90,000 / 150,000 (new three values not approved)**. The user's approved archery direction requires distinct weapon designs that can exploit STR400; exact names, caps of individual entries, minima, ammo engineering and late-game ratings remain pending review. No original 34-shape catalogue item is silently replaced.
 
@@ -134,7 +165,9 @@ The Greatbow specifically, if geometry permits reduced draw, gives 37,500 with r
 
 ---
 
-## November 11, 2026 — STR100–400 legendary bow ladder: 320-scenario quantitative test (NONCANON)
+## November 11, 2026 — STR100–400 legendary bow ladder: 320-scenario quantitative test (HISTORICAL; CURRENT WORKING POWERS APPROVED)
+
+**Status update:** The formerly tentative balanced full-draw Powers 45,000 / 90,000 / 150,000 are now author-approved **working Piercing bow benchmarks**. This damage-only test remains useful. The separate later 784-case arrow-rating experiments are superseded; see latest bow and ammo ruling at top.
 
 **STATUS: TEST RESULTS AND NEW NUMERIC PROPOSALS ONLY.** The author's explicit approval covers **testing** the previously approved high-strength archery progression and the **design requirement that some bow can exploit effective STR400**, not blanket approval of the new bow names, caps, draw minima, full-draw Powers, new arrow construction, handling, costs or ranges. This reproducible note is for future review; it does **not** supersede the approved high-draw bow's **14,500 full-draw Power** or existing mechanical rules.
 
