@@ -1,3 +1,11 @@
+## November 11, 2026 — Legal partial bow draw with safe-rated arrows (AUTHOR-APPROVED WORKING CALIBRATION)
+
+**Latest specific ruling:** The four advanced/legendary bow calibration designs (cap STR100/200/300/400) use minimum safe controllable draw STR35/80/125/180 and Handling DEX30/35/40/45 respectively. Draw cap, minimum controlled draw, aiming DEX, arrow rating and legal line of fire serve **different** purposes. For a standard bowshot using a physically compatible arrow rated for maximum safe launch force `R`, choose actual draw `D_actual` such that `bow minimum controlled draw <= D_actual <= min(effective shooter STR, bow cap, R)`; if none exists, ordinary shot is not eligible. The user can intentionally underdraw when using a lower-rated but compatible arrow. Preserve `P_shot = P_full_for_this_bow_and_load × (D_actual / bow cap)^2`, not a fixed minimum Power or universal weapon-Quality modifier. Reference arrow safe-launch ratings 100/200/300/400 are **working ammo categories**, not automatic crafting material or Quality ratings.
+
+Ordinary one-arrow-per-shot and bow nock/draw pacing remain; no added unconditional reload action, new firearm recoil strain, automatic Aim/PP, generic extra handling penalties, new accuracy perks or shot beyond Extreme. The previously approved high-draw full-draw Power14,500 persists; Titan/Colossal/Greatbow test Powers45k/90k/150k remain **unapproved numeric suggestions**. Do not treat special projectile type, magical sight or unapproved arrow materials as silently authorized. Full item details and candidate tests in `27_Ranged_Weapon_Catalogue_DRAFT.md`.
+
+---
+
 ## November 11, 2026 — Advanced optic stability, attachment tradeoffs, and target-only magical glint (AUTHOR APPROVED)
 
 **Approval scope:** The author approves the proposed movement/stability and attachment philosophy for the existing advanced precision sight, and adds its specific **magical glint drawback**. These rules apply to a **compatible fitted advanced precision sight**, not every naked eye, mundane optic, scope-shaped item, mundane ranged weapon, or unspecified magical detection effect.
