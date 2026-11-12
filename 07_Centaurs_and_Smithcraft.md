@@ -1,3 +1,9 @@
+## November 12, 2026 — Celestite extraordinary crafting valuation clarified (LATEST AUTHOR CORRECTION)
+
+**The author clarifies Celestite armor's previously approved '5× comparable Adamantite price' is a meaningful exceptional **crafting-purpose valuation**.** A **properly qualified smith CAN craft Quality V Celestite armor** when the unusual **necessary help of the gods** is actually secured, under preexisting canon requiring extraordinary Centaur Smithcraft and the **personal, simultaneous cooperation of Arrest, Surrender and Baphomet** and suitable scarce Celestite material. It is **not ordinarily purchasable through Gem Shops or normal merchants**, and Gems alone do not waive the triune contribution, special material requirement or the armor's hazardous MP/XP effects. Existing 'nonpurchasable display price' is now explained as **the visible nominal value for exceptional crafting accounting, not a merchant sale price**. No specific Adamantite completed-armour price is yet approved; consequently no definitive numeric 5× Celestite Gem figure or new forge payment algorithm exists. The existing special Quality V-only status remains.
+
+---
+
 ## November 11, 2026 — Squad formation and coverage Power (author approved)
 
 For abstract squad resolution, count only the distinct members the attack can actually threaten from its current position. Apply the existing coverage multiplier to Line as well as Sweep and Wide Sweep. One, two, and three eligible members give ×1.00, ×1.50, and ×2.00 aggregate Power, respectively. Sweep caps at two and Wide Sweep and Line cap at three. Apply the relevant facing, clearance, reach, alignment, and obstruction rules before counting. If there are no eligible members, there is no legal attack. Individual hits use normal Power.
