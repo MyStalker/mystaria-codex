@@ -1,3 +1,11 @@
+## November 11, 2026 — Unified Piercing bypass and secondary thrust ratings (author approved)
+
+All genuine Piercing attacks use **50% base AR bypass**, including eligible secondary thrusts. A secondary blade-tip thrust uses **×0.82 of the weapon's adjusted primary F**. A purpose-built secondary spike or beak uses **×0.90 of primary F**. Apply the factor once, with the attack's applicable quality and material factors. The actual blade tip, spike, or beak must support the attack. An earned rear hit can raise Piercing bypass to 60% under the existing rear rule.
+
+The greatsword's Point thrust uses ×0.82 of its adjusted Slashing primary F, equivalent to relative form F0.902 before its shared ×0.875 shape factor. This supersedes the former ×0.90 / 25% thrust profile and the earlier calibration goal that the thrust always trail a comparable maul against plate. The maul's primary remains Bludgeoning Wide Sweep at 25% base bypass. Absolute class and material factors remain provisional.
+
+---
+
 ## November 11, 2026 — Earned rear-hit armor bypass increased (author approved)
 
 A qualifying rear hit adds **10 percentage points** to applicable armor bypass, capped at 100%. Apply the resulting bypass to covered AR before squaring its contribution to Defense Power. A base 50% attack therefore reaches 60%. Surprise or a tactically earned rear opening is still required, including appropriate meaningful Pressure when it actually exposes the rear. Merely standing behind an alert opponent does not qualify. This supersedes the former 5-point bonus. The separate specialized Piercing profile remains retired.
@@ -10,7 +18,7 @@ A qualifying rear hit adds **10 percentage points** to applicable armor bypass, 
 
 **Catalogue decisions.** The dagger supports a Point thrust and a Narrow slash. The stiletto is thrust-only. The standard mace uses Bludgeoning Narrow. A mace needs a purpose-built spike for a secondary Piercing attack; flanges alone do not qualify. A warhammer's Piercing alternate requires a beak. The war pick's point remains its primary. The halberd's secondary Point uses its top spike; a glaive can thrust with a suitable blade tip. The maul uses the previously approved Bludgeoning Wide Sweep and its clearance rule. Carry the other primary ratings forward at their existing test or draft status. Evaluate the lance's ordinary thrust with its supported charge when the charge procedure is ready.
 
-**Open.** Review secondary Piercing F and AR bypass together before changing those profiles. The currently approved greatsword thrust still uses ×0.90 of its adjusted primary F and 25% bypass.
+**Resolved by the subsequent Piercing ruling above.** Review secondary Piercing F and AR bypass together before changing those profiles. The currently approved greatsword thrust still uses ×0.90 of its adjusted primary F and 25% bypass.
 
 ---
 
@@ -64,33 +72,33 @@ Squad maneuvering changes the count. A spread-out squad may give a Sweep only on
 
 ## November 10, 2026 — Greatsword shape adjustment approved
 
-**AUTHOR APPROVAL:** Apply the greatsword-specific ×0.875 shape adjustment to its calibrated attack F, for both its primary Slashing Wide Sweep and its genuine secondary Piercing Point thrust. Apply it once; the thrust remains ×0.90 of that same adjusted primary F and retains 25% AR bypass. Governing attack attribute remains 0.65 × (effective STR + effective DEX), subject to both requirements. The adjustment was approved against Thornguard generalist calibration; it is not a global Both-stat factor. Do not multiply obsolete draft item Fs by this factor as an additional calibration layer. Absolute item Fs, class/material proposals, other shapes and final requirements remain subject to approval. See Equipment and Combat for reference attack profiles.
+**Historical thrust calibration.** The later Piercing ruling above supersedes the older thrust numbers in this paragraph. **AUTHOR APPROVAL:** Apply the greatsword-specific ×0.875 shape adjustment to its calibrated attack F, for both its primary Slashing Wide Sweep and its genuine secondary Piercing Point thrust. Apply it once; the thrust remains ×0.90 of that same adjusted primary F and retains 25% AR bypass. Governing attack attribute remains 0.65 × (effective STR + effective DEX), subject to both requirements. The adjustment was approved against Thornguard generalist calibration; it is not a global Both-stat factor. Do not multiply obsolete draft item Fs by this factor as an additional calibration layer. Absolute item Fs, class/material proposals, other shapes and final requirements remain subject to approval. See Equipment and Combat for reference attack profiles.
 
 ---
 
 ## November 10, 2026 — Approved primary damage-form references and secondary Piercing calibration
 
-**AUTHOR APPROVAL:** The latest proposed relative attack profiles are approved as working calibration. Relative F is measured against a comparable primary Bludgeoning attack at equal governing A, class, material, quality and shape leverage.
+**AUTHOR APPROVAL:** The latest proposed relative attack profiles are approved as working calibration. Relative F is measured against a comparable primary Bludgeoning attack at equal governing A, class, material, quality and shape leverage. The greatsword thrust row reflects the subsequent Piercing revision.
 
 | Attack | Relative F | AR bypass | Reference coverage |
 |---|---:|---:|---|
 | Maul primary Bludgeoning | 1.00 | 25% | Wide Sweep |
 | Greatsword primary Slashing | 1.10 | 0% | Wide Sweep |
-| Greatsword secondary Piercing thrust | 0.99 | 25% | Point |
+| Greatsword secondary Piercing thrust | 0.902 | 50% | Point |
 | Dedicated primary Piercing | 0.90 | 50% | Shape-dependent |
 | Specialized primary armor-piercing point | 0.85 | 65% | Shape-dependent |
 
 **Supersession:** The specialized row is historical. Use the ordinary primary Piercing profile for the pike.
 
-Greatsword secondary F remains 0.90 of its own primary F, yielding 1.10 × 0.90 = 0.99 of the comparable Bludgeoning reference. The secondary's approved 25% bypass is an explicit exception to ordinary primary Piercing's 50%. This supersedes treating this secondary blade thrust as ordinary 50% bypass. A secondary is not automatically granted a dedicated primary point's penetration; assess other shapes separately. The dedicated primary relative Fs supersede the previous unapproved 0.85/0.80 candidates. Apply these reference form effects once within the single calibrated attack F, before squaring, without also stacking old shape/class coefficients or an extra injury multiplier. Preserve legal secondary use, material/quality factors as authorized, actual coverage limits, reach, and unarmed-equivalent pommel ceiling.
+**Historical thrust calibration.** The later Piercing ruling above supersedes the older thrust numbers in this paragraph. Greatsword secondary F remains 0.90 of its own primary F, yielding 1.10 × 0.90 = 0.99 of the comparable Bludgeoning reference. The secondary's approved 25% bypass is an explicit exception to ordinary primary Piercing's 50%. This supersedes treating this secondary blade thrust as ordinary 50% bypass. A secondary is not automatically granted a dedicated primary point's penetration; assess other shapes separately. The dedicated primary relative Fs supersede the previous unapproved 0.85/0.80 candidates. Apply these reference form effects once within the single calibrated attack F, before squaring, without also stacking old shape/class coefficients or an extra injury multiplier. Preserve legal secondary use, material/quality factors as authorized, actual coverage limits, reach, and unarmed-equivalent pommel ceiling.
 
-**Calibration limitation:** Equal-governing-A testing yields greatsword thrust Power 0.9801 of comparable maul Power against the same target. Actual greatsword uses approved Both A = 0.65(STR+DEX), whereas the maul uses STR. Individual shape Fs and requirements need testing before final approval to preserve the intended tactical roles. The provisional Boughsteel class Fs 1.00/1.15/1.45 and provisional Trufula/Adamantite material factors remain proposals; approval here does not ratify unseen individual weapon stats or the earlier material tables. Armor values remain operative.
+**Historical thrust calibration.** The later Piercing ruling above supersedes the older thrust numbers in this paragraph. **Calibration limitation:** Equal-governing-A testing yields greatsword thrust Power 0.9801 of comparable maul Power against the same target. Actual greatsword uses approved Both A = 0.65(STR+DEX), whereas the maul uses STR. Individual shape Fs and requirements need testing before final approval to preserve the intended tactical roles. The provisional Boughsteel class Fs 1.00/1.15/1.45 and provisional Trufula/Adamantite material factors remain proposals; approval here does not ratify unseen individual weapon stats or the earlier material tables. Armor values remain operative.
 
 ---
 
 ## November 10, 2026 — Secondary Piercing versus dedicated weapon roles (AUTHOR DESIGN DIRECTION)
 
-The author directs that a greatsword's secondary Piercing thrust perform slightly worse against heavily armored targets than a comparable maul's primary Bludgeoning attack, and significantly worse than a dedicated Piercing weapon. The greatsword must use Slashing for its Wide Sweep; its Piercing thrust uses Point coverage. The maul's intended primary Bludgeoning coverage is Wide Sweep, superseding the older draft's Sweep assignment for this weapon. Preserve actual reach, valid target limits, attribute scaling and weapon-specific tuning. This approval establishes the tactical roles and desired relative effectiveness, not new numeric F, penetration or material multipliers. New numerical implementations remain proposals pending approval. Operative implementation belongs to Equipment and Combat; keep approved armor values intact.
+**Historical comparison target.** The later Piercing ruling supersedes the original maul-versus-thrust ordering. The author directs that a greatsword's secondary Piercing thrust perform slightly worse against heavily armored targets than a comparable maul's primary Bludgeoning attack, and significantly worse than a dedicated Piercing weapon. The greatsword must use Slashing for its Wide Sweep; its Piercing thrust uses Point coverage. The maul's intended primary Bludgeoning coverage is Wide Sweep, superseding the older draft's Sweep assignment for this weapon. Preserve actual reach, valid target limits, attribute scaling and weapon-specific tuning. This approval establishes the tactical roles and desired relative effectiveness, not new numeric F, penetration or material multipliers. New numerical implementations remain proposals pending approval. Operative implementation belongs to Equipment and Combat; keep approved armor values intact.
 
 ---
 
