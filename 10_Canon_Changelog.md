@@ -1,3 +1,23 @@
+## November 11, 2026 — Advanced arbalest Option A and ranged range-band units approved
+
+**Explicit author approval:** The advanced 26,000-Power arbalest takes **controlled early availability (Option A)**, with **Support STR70, Handling DEX40, hand cock STR170 or suitable winch STR70, one setup turn, and two reload turns**. These are **working item benchmarks**, not an invented level gate or a replacement of the old entry arbalest X-04 draft. Existing shot Power, 50% Piercing AR bypass, and firing cycle are unchanged. Confirm real rated supports and legal workmanship separately; exact setup reset and whether mechanical cocking gates receive item-Quality relief remain open.
+
+**Explicit range correction and approval:** Preserve the proposed five advanced weapon range numbers as **feet instead of meters**, **without converting their digits**. The user wanted consistency with Mystaria's foot-based magic ranges. The following four range categories are weapon-specific upper boundaries, all in **ft**:
+
+| Advanced design | Close | Effective | Far | Extreme |
+|---|---:|---:|---:|---:|
+| High-draw bow | 15 ft | 130 ft | 210 ft | 300 ft |
+| Advanced crossbow | 15 ft | 150 ft | 250 ft | 350 ft |
+| Advanced arbalest | 15 ft | 180 ft | 300 ft | 450 ft |
+| Advanced precision rifle | 25 ft | 400 ft | 650 ft | 900 ft |
+| Light precision firearm | 15 ft | 180 ft | 300 ft | 450 ft |
+
+**Scope limits:** These working ranges do not settle per-band aiming difficulty, maximum ballistic travel, Power reduction, elevation, cover, projectile construction or ammunition. Other four advanced designs' proposed draw/handling/cocking/recoil numbers remain unapproved; original entry items are not replaced. Do not automatically change unrelated established distances still recorded in meters, e.g. the existing firearm 10 m Point Blank burst rule. No universal ranged Quality Power factor. Next: range-band effectiveness and cross-design tactical viability tests.
+
+**Files updated:** `27_Ranged_Weapon_Catalogue_DRAFT.md` (owning advanced ranges and handling), `09_Equipment_and_Economy.md` (equipment cross-reference), `10_Canon_Changelog.md` (this decision), `00_Mystaria_Canon_Index.md` (navigation and approval status).
+
+---
+
 ## November 11, 2026 — Five advanced ranged Power benchmarks approved
 
 Use the following **approved test ratings** for the first five advanced ranged profiles. The bow value is full-draw Power and follows the approved quadratic partial-draw rule. The other values are ordinary landed-shot Power for the test weapon and load. The plate comparisons used genuine Piercing with 50% base AR bypass.
