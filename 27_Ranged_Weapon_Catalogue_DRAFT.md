@@ -1,3 +1,18 @@
+## November 11, 2026 — Ranged accuracy and advanced sights: sensitivity tests (NONCANON WORKING NOTES)
+
+**Status: TEST ONLY, NOT AUTHOR-APPROVED NEW MECHANICS.** Existing approved rules were tested: Close/Effective/Far/Extreme penalties 0/0/+1/+2 harder; Normal/Full/Amazing cover +1/+2/+3 harder; Aim -1 category to a subsequent valid shot but no PP; separately earned net 1-2 PP gives -1 category and 3+ PP gives -2. Cap at the six-tier difficulty ladder. Full obstruction invalidates an ordinary direct shot regardless of modifiers.
+
+**Average baseline, Normal Cover (No Aim -> Aim -> Aim plus genuine PP1):** bow 250 ft Extreme: Impossible -> Very Hard -> Hard; crossbow 250 ft Far: Very Hard -> Hard -> Average; arbalest 400 ft Extreme: Impossible -> Very Hard -> Hard; rifle 400 ft Effective: Hard -> Average -> Easy; rifle 600 ft Far: Very Hard -> Hard -> Average; rifle 850 ft Extreme: Impossible -> Very Hard -> Hard. Hard baseline at Extreme with Normal Cover needs Aim plus genuine PP1 to reach Very Hard, whereas Very Hard baseline is still Impossible with these modest aids. At 400 ft bow/crossbow exceed listed range profiles; at 600/850 ft only the rifle is within an approved distance band; over-Extreme eligibility remains unresolved.
+
+**High DEX:** Prediction can improve real tactics if accurately stated and justified at DEX >= 75% of target SPD; DEX >= 200% of target SPD removes the wrong-prediction-specific penalty. Neither grants automatic offensive PP or Aim, cancels cover, reduces range difficulty, or multiplies intrinsic shot Power. Combat's indicative DEX100 unseen, DEX150 ricochet, DEX300 extreme precision feats remain unapproved illustrative examples, not automatic unlocks. Recoil strain creates PP against the shooter, NOT their target.
+
+**PROPOSAL A (unapproved, recommended for simplicity):** When a shooter has a suitable precision sight, provisional DEX >=100, stable braced position, and spends a real Aim action, reduce the Far or Extreme range penalty one further category, never below 0; ordinary Aim also still applies. Rifle vs Normal Cover with Aim: 400 ft stays Average (Effective), 600 ft improves Hard to Average, 850 ft improves Very Hard to Hard. Does not extend the Extreme boundary or bypass physical barriers.
+
+**PROPOSAL B (unapproved):** Same experimental DEX100/stability/Aim prerequisites, but instead extend only the Effective and Far boundaries by 25% for this scoped shot; Close/Extreme fixed, ordinary Aim only. Rifle with Normal Cover and Aim: 600 ft stays Far/Hard, 700-800 ft becomes Far/Hard rather than Extreme/Very Hard, 850 ft stays Extreme/Very Hard. Arbalest at 400 ft stays Extreme (300 ft Far ×1.25 = 375 ft). This creates many weapon-specific intermediate cutoffs.
+
+**Finding:** No numeric changes are needed to approved range/Cover/Aim/Pressure rules. A and B are alternative, noncanon attachment ideas for author review, not cumulative effects. The separate approved 10-meter Point Blank burst remains unchanged; it is not synonymous with Close and has not been converted to feet. Exact scope benefits, recoil and moving-fire interactions, line-of-sight stability, and beyond-Extreme firing remain unresolved.
+
+---
 ## November 11, 2026 — Range-band hit-difficulty calibration approved (LATEST AUTHOR APPROVAL)
 
 **Approved, Option A: accuracy-only range effects.** Resolve range **relative to the firing weapon's own valid Close / Effective / Far / Extreme distance bands**, applying a direct change to the existing **six-tier hit-difficulty ladder**:
