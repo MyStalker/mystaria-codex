@@ -1,3 +1,22 @@
+## November 11, 2026 — Legendary bow range ladder and construction principles (AUTHOR APPROVED)
+
+**Latest explicit approval:** The author approves the proposed working **Close / Effective / Far / Extreme upper distance boundaries in feet** for the entire four-design advanced traditional-bow family. These are boundaries of weapon-specific hit-difficulty bands, not a change to physical shot Power or bow draw limits.
+
+| Distinct bow design | Close through | Effective through | Far through | Extreme through |
+|---|---:|---:|---:|---:|
+| Advanced high-draw bow | **15 ft** | **130 ft** | **210 ft** | **300 ft** |
+| Titan bow | **20 ft** | **170 ft** | **275 ft** | **390 ft** |
+| Colossal composite bow | **20 ft** | **205 ft** | **335 ft** | **475 ft** |
+| Legendary greatbow | **25 ft** | **245 ft** | **400 ft** | **575 ft** |
+
+**Operation:** Close and Effective have no extra hit-difficulty category; Far is +1 harder; Extreme +2 harder. Neither distance nor category adjusts a landed hit's intrinsic shot Power, covered-AR bypass or injury calculation. A normal attack beyond its own Extreme boundary is ineligible, regardless of STR, DEX, Aim or optics. A properly spent Aim action and already qualified advanced-sight rules only modify eligible hit-difficulty checks, with no free shot or distance extension. The advanced precision rifle retains its previously approved **900 ft Extreme limit**, and all prior advanced crossbow, arbalest and light precision firearm boundaries remain unchanged. No bow bracing, fixed setup turn, optic glint or extra reload is created by this range ladder. Weapon-specific draw, aim, obstructed lines and ammunition use still apply.
+
+**Approved construction design principles (no material recipe or prices yet):** (1) High-draw, Titan, Colossal and Greatbow remain **distinct engineered bow designs**, rather than a generic cap multiplied by material or ordinary Quality. (2) No blanket rule reserves STR200–400 bows for a single exclusive material such as Adamantite; actual structures, suitable combinations and craft capabilities are to be designed. (3) Keep **ordinary traditional arrows mechanically standardized**, permitting their approved Slashing/Piercing head-form choice without separate size/force tiers, different strength-rated quivers, extra attacks or extra loading actions. Bow engineering may be sophisticated without shifting complexity into arrow inventories.
+
+**Still open and NOT canonized here:** Exact bow frame/limb/string materials, fabrication and high-Quality interaction with a particular engineered design, load/bulk, pricing in Gems, availability, final commercial names, craftsmanship-specific upgrade limits, hypothetical range effects of intentionally weak partial draws, and comparative playtest balancing. **Do not automatically apply the ordinary melee Quality F increase to ranged shot Power**, or interpret Quality as increasing any of these four approved draw caps. No new level gate or specialist ammunition appears from this approval.
+
+---
+
 ## November 11, 2026 — Traditional arrow tiers removed; legendary bow working Powers and handling approved (LATEST AUTHOR CORRECTION)
 
 **LATEST, HIGHEST-PRECEDENCE AUTHOR DECISION:** The author **rejects multiple sizes or numerical draw-force tiers of traditional arrows** as unnecessary rule/inventory complexity, while expressly approving the remaining immediately proposed legendary-bow handling and Power recommendations. **Supersedes** the previous working 100/200/300/400 arrow safe-launch rating categories, the ammunition-derived maximum draw `R`, the rated-arrow fallback for intentional underdraw, and any supposed need to buy, carry, sort, or match an arrow to the bow's cap by a separate ammunition tier. All previous four-tier arrow-ratings/784-case ammo availability results are **historical tests, not operative ammunition mechanics**; do not run them as though they were approved after this correction.
