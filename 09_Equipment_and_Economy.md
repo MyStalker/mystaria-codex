@@ -98,6 +98,22 @@ R at levels 10/25/50/75/100 remains **0/100/300/700/1500** Gems and `E_smooth(10
 
 **Quality III → Quality V of all five midgame accessories:** example full-slot spend would increase by **960 Gems**, taking the 3,040-Gem ensemble to **4,000 Gems**, exceeding W100 3,200, which is exactly the desired support-item tradeoff. Earlier independent **14/30/50/70/90 Gem** tier "standard prices" were a different previous price philosophy and are **not current universal prices for every Quality item** under this approved new economic direction. They remain historically documented with unchanged original Quality-related mechanical bonuses and strain references; old tiers are NOT multiplied mechanically to 140/300/500/700/900 Gem mandatory item fees. Otherwise two equipment models would stack against one object. The old standalone `+1…+5` Moonlit Forge upgrade ladder remains **RETIRED**, not reinstated or charged at ×10.
 
+### Tier-by-tier slot-fill feasibility test of the proposed category matrix (NONCANON PRICE EXAMPLES)
+
+**Calculations are derived solely from the slot-category cost table above, not new unique item effects or approved vendor tariffs.** The same 11 positions and typical 30%-primary investment are used, but early Heroes retain some lesser-Quality items or temporarily leave slots unoccupied.
+
+| Hero stage / expected tier | Budget wealth (Gems) | Example slot mix | Eleven-slot category-price sum (Gems) | Budget remainder | Interpretation |
+|---|---:|---|---:|---:|---|
+| Quality I / level 10 | 200 | all eleven QI | **250** | **−50** | Full QI loadout not yet affordable; leave some accessories open or equip cheaper starter pieces |
+| Quality II / level 25 | 400 | six QII / five QI (same designated 5 accessory positions) | **420** | **−20** | Nearly full; can replace a moderately expensive accessory with a starter item or leave one slot empty |
+| Quality III / level 50 | 800 | six QIII / five QI | **760** | **+40** | Complete 11-slot layout begins to fit with older support pieces |
+| Quality IV / level 75 | 1,600 | six QIV / five QII | **1,520** | **+80** | Full mixed tier and ~5% flexibility |
+| Quality V / level 100 | 3,200 | six QV / five QIII | **3,040** | **+160** | Matches author's full 11-slot endgame target and ~5% flexibility |
+
+**Reasonable consequence:** Tier I and II Heroes may have some **unfilled** or **starter-grade** accessory positions. Completing all 11 by midgame is plausible, with 6 current-tier top-investment items and some gear roughly two Quality ranks older at each later milestone. The category schedule does not require universal price inflation for rings: **players who buy only the strongest primary item sacrifice accessory and defensive upgrades**, as desired. **Threat:** The easy 2× price ladder alone does not prove gameplay *power* balance. Compare same-Price tier-up tradeoffs to actual 1–4% mundane weapon Quality F gains, engineered bow cap floors, AR leaps and magical Soul Strain efficiency; Quality V prices should buy enough real functional advantage to justify replacing good Quality III items.
+
+---
+
 ### Finished physical weapon and bow manufacturing comparisons (NEW PRICE PROPOSALS, not yet separately approved)
 
 To align with a 960-Gem typical full primary investment, test a **nonmagical** Quality V Heavy Boughsteel maul/ordinary two-handed melee core at **640 Gems**, with up to **320 Gems** of actually permitted improvements/enchantments as a *possible* 960-Gem finished primary budget. No physical Quality, F, item mass or Smithcraft prerequisite changes follow. Other items may use more material expense and less enchantment expenditure for the same total. The very old unapproved 400-Gem/QV maul experiment assumed W100=4000 and **is superseded** as an active economic recommendation by the present model.
