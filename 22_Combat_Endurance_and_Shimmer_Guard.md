@@ -1,3 +1,11 @@
+## November 11, 2026 — Ordinary arrow consumption and contextual recovery (AUTHOR APPROVED)
+
+For any legal ordinary bow attack, **one prepared arrow is consumed from the archer's carried ready ammunition count at the moment of firing**. Both previously approved Piercing and Slashing ordinary arrowheads use the same ordinary projectile category, and choosing a different prepared arrow does not create an extra reload turn or a free attack. An arrow that has left the quiver is **not automatically destroyed**: after combat, intact physically accessible arrows can be retrieved if circumstances permit, subject to GM adjudication of actual collision, damage and terrain. **No mandatory recovery percentage, independent arrow durability track, or guaranteed automatic recovery.**
+
+Ordinary standard quiver capacity is **20** arrows (Piercing and Slashing any mixture); a Gem Shop's **40-arrow resupply bundle costs 1 Gem** and has no quiver. These are logistics and price rules, not adjustments to shot Power, quadratic draw, range boundaries, Armor Rating bypass, Aim, or action economy. See `27_Ranged_Weapon_Catalogue_DRAFT.md` and `09_Equipment_and_Economy.md`. Bolt/cartridge economics and special ammunition remain separate and unpriced.
+
+---
+
 ## November 11, 2026 — Approved Quality reductions for the four advanced bows
 
 **New author-approved operating refinement:** Physical Quality I–V reduces each approved advanced/legendary traditional bow's **minimum controllable partial-draw STR** and **minimum Handling DEX** separately by the existing requirement factors **1.00 / .95 / .90 / .85 / .80**, with resulting minima each **rounded up**. Quality V final legal minimums: High-draw **STR28/DEX24**, Titan **STR64/DEX28**, Colossal **STR100/DEX32**, Legendary greatbow **STR144/DEX36**. This is a bow-specific application of established quality handling, **not** a universal new material damage multiplier, draw cap multiplier, shot Power multiplier, range multiplier or firing tempo change.
