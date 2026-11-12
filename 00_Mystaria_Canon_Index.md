@@ -1,3 +1,9 @@
+## November 11, 2026 — Advanced arbalest controlled availability and advanced ranged distances in feet (LATEST AUTHOR APPROVAL)
+
+The advanced arbalest retains 26,000 shot Power and its two-turn reload, with author-approved **Option A** Support STR70, Handling DEX40, hand cock STR170 or winch cock STR70, and one setup turn. Five advanced ranged designs now have **working Close/Effective/Far/Extreme thresholds explicitly in feet**, keeping the prior numerical values unchanged (not converted from meters). Entry ranged models, other four advanced models' handling, per-band accuracy effects, setup refresh, and cocking/quality interactions stay separate and/or unresolved. See the opening approval of [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), [Equipment](09_Equipment_and_Economy.md), and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 11, 2026 — Five advanced ranged Power benchmarks approved
 
 Five advanced ranged profiles now have approved working Power benchmarks. Handling and availability are next. See [Equipment](09_Equipment_and_Economy.md) and the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
