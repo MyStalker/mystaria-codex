@@ -1,3 +1,13 @@
+## November 12, 2026 — New hero wealth progression and whole-Gem/Glint denomination (LATEST AUTHOR APPROVED ECONOMIC DIRECTION)
+
+**The previous W(L)=3+3997((L−1)/99)^2.3 and W100=4,000 Gems are SUPERSEDED** by the author-selected **tenfold repricing of the newer, 320-Gem level-100 proposal**, making the new working W100 **3,200 Gems**, NOT 40,000. Tier-milestone wealth I–V at levels **10/25/50/75/100 = 200/400/800/1600/3200 Gems**; ordinary primary-item planned cost is 30%: **60/120/240/480/960 Gems**. Level-1 starting portfolio target is **30 Gems**. Use the piecewise level-1/10/25/50/75/100 progression in `09_Equipment_and_Economy.md`; do not reuse the former power-law wealth curve for current Gem rewards. **About 30% of lifetime earned Gems** is still earmarked for consumables, actual Gem-Shop-sold items qualify for **50%** original-price buyback, and hypothetical lifetime endgame gross earnings are **about 6,714 Gems** with **1,500 Gems** of reference resale losses and **2,014 Gems** of lifetime consumable spending.
+
+**Whole-denomination accounting:** The divine Gem remains a whole unit; smaller Shimmer-recognized units are **Glints**, with **100 Glints = 1 Gem**. No fraction of a physical Gem or Glint is awarded or minted; planned fractional payouts may accumulate to a whole Glint before disbursement. The Shimmer wallet can present mixed integer units. This is a divine monetary denomination change, not a mundane-currency Gem exchange, extra Soul Strain, SP/MP/stat points, or automatic payout after ordinary quests. Existing named shop/catalogue utility Gem prices are normally **converted at ×10 nominal Gems** to preserve original real purchasing power unless a particular finished-item class is explicitly repriced on the new 30% primary/11-slot model. Prior dialogues and saved ledgers use old historical notation until a deliberate import-conversion.
+
+**Owner:** `09_Equipment_and_Economy.md` for formulas, cost/strain matrices and all still-proposed material/weapon/enchanted prices. Existing skill/XP, race, inventory size, shrine rules and patron discretion are untouched. Earlier November 5 economic assertions later in this file are **HISTORICAL AND SUPERSEDED in their numeric Gem figures**.
+
+---
+
 # Mystaria — World, Divinity, Mana, and Shimmer
 
 ## November 8, 2026 — Thornguard doubled mana and protected Concordance capacity (AUTHOR-APPROVED)
@@ -39,7 +49,7 @@ These are prevailing social rationales, not moral approvals or mandatory persona
 - Five absolute attributes: **STR, DEX, END, INT, SPD**. Effective attributes incorporate permanent racial percentage modifiers.
 - **Most recent Hero stat progression:** each level awards **2 points to allocate among base stats**; **every fifth level adds +1 to all five base stats**. This supersedes the November 1 compendium's earlier 1-Attribute-Point progression.
 - **Approved Shimmer XP progression (November 5, 2026):** XP to advance from current level `L` to `L + 1` is `L × (L + 1)`. Ordinary qualifying enemy/quest XP uses `2 × encounter level × threat modifier`; designated bosses award enough XP to advance the Hero **exactly two levels** from their current progress. See **Shimmer XP and encounter threat** below. This is XP, not SP or stat-allocation points.
-- **Approved Hero Gem economy (November 5, 2026):** Typical current equipment wealth `W(L) = 3 + 3997 × ((L−1)/99)^2.3` for levels 1–100; **3 Gems** at level 1, **4,000 Gems** at level 100 after typical full equipment-tier replacements. About **30%** of lifetime Gem earnings goes to consumables; Gem Shops buy back items they previously sold for **50%** of original price. Gem encounter multipliers match **unchanged XP**: Horde ×0.1, Minion ×0.4, Henchman ×1, Elite ×2; Bosses pay **two levels of Gem progression budget**. `09_Equipment_and_Economy.md` owns the complete calculation and caveats.
+- **HISTORICAL / SUPERSEDED Hero Gem economy (November 5, 2026):** Typical current equipment wealth `W(L) = 3 + 3997 × ((L−1)/99)^2.3` for levels 1–100; **3 Gems** at level 1, **4,000 Gems** at level 100 after typical full equipment-tier replacements. About **30%** of lifetime Gem earnings goes to consumables; Gem Shops buy back items they previously sold for **50%** of original price. Gem encounter multipliers match **unchanged XP**: Horde ×0.1, Minion ×0.4, Henchman ×1, Elite ×2; Bosses pay **two levels of Gem progression budget**. `09_Equipment_and_Economy.md` owns the complete calculation and caveats.
 - **Skill Points (SP)** buy abilities, Crafts, and Sorcery purchases. These are **not** the same currency as stat-allocation points. Divine quests may award SP; ordinary XP/stat leveling does not automatically purchase abilities.
 - **General ability tier gates:** I at level 1, II at 10, III at 25, IV at 50, V at 80, subject to each system's own prerequisites and purchase cost.
 - The old compendium sometimes says **Ability Points**; check newer Craft references for the actual **Skill Point** economy rather than assuming interchangeable currencies.
@@ -552,10 +562,10 @@ Every Hero receives **six free inventory slots** capable of storing nongem-shop 
 | Upgrade | Cost | Benefit |
 |---|---:|---|
 | Basic Inventory | Free | 6 slots |
-| Pocket Inventory I | 2 Gems | +4 slots |
-| Pocket Inventory II | 6 Gems | +8 slots |
-| Traveler's Inventory | 10 Gems | +12 slots |
-| Evergreen Satchel | 18 Gems | +20 slots and increased object-size capacity |
+| Pocket Inventory I | 20 Gems | +4 slots |
+| Pocket Inventory II | 60 Gems | +8 slots |
+| Traveler's Inventory | 100 Gems | +12 slots |
+| Evergreen Satchel | 180 Gems | +20 slots and increased object-size capacity |
 
 Upgrades are cumulative.
 
@@ -566,10 +576,10 @@ The Shimmer **automatically maps explored surroundings for free**, recording vis
 | Upgrade | Cost | Effect |
 |---|---:|---|
 | Automatic Mapping | Free | Records explored terrain |
-| Cartographer's Eye | 3 Gems | Elevation, terrain hazards, environmental notes |
-| Trailkeeper | 3 Gems | Marks previous routes and known safe passages |
-| Route Planner | 5 Gems | Estimates routes through discovered geography |
-| Shared Cartography | 8 Gems | Voluntary map exchange between Heroes |
+| Cartographer's Eye | 30 Gems | Elevation, terrain hazards, environmental notes |
+| Trailkeeper | 30 Gems | Marks previous routes and known safe passages |
+| Route Planner | 50 Gems | Estimates routes through discovered geography |
+| Shared Cartography | 80 Gems | Voluntary map exchange between Heroes |
 
 ### Shrine Network — Divine Fast Travel
 
@@ -684,7 +694,7 @@ Surrender can create temporary alternative histories called **Unlived Mercies**.
 
 Surrender shares their sensations and emotions through the spiritual link while remaining safely within the Celestial Realm. She overwhelmingly prefers Heroes who expressly enjoy such ordeals and consent to experiencing them; a few times she has wrongly assumed that anticipated enthusiasm was adequate permission. Her power is not unlimited time reversal: she needs a plausible alternative at an unfinished moment, substantial divine energy, and a stable Mercy Anchor. She cannot simply undo established deaths, historical disasters, or arbitrary events. Long alternative lifetimes become unstable, and the anchor's collapse could endanger a participant.
 
-When the history dissolves, the Hero returns to the original outcome and chooses whether to retain all, some, or none of the conscious memories. Surrender commonly offers **50–250 Gems**, sometimes more, for secrecy. These rewards come from her divine reserves, rather than XP earned in a discarded history. Her masochistic tendencies are only a poorly kept secret, but Arrest and Baphomet do not know her temporal experiments exist. Surrender fears discovery, especially Arrest's judgment that she betrayed the trust she teaches everyone else to honor.
+When the history dissolves, the Hero returns to the original outcome and chooses whether to retain all, some, or none of the conscious memories. Surrender commonly offers **500–2,500 Gems**, sometimes more, for secrecy. These rewards come from her divine reserves, rather than XP earned in a discarded history. Her masochistic tendencies are only a poorly kept secret, but Arrest and Baphomet do not know her temporal experiments exist. Surrender fears discovery, especially Arrest's judgment that she betrayed the trust she teaches everyone else to honor.
 
 ---
 
