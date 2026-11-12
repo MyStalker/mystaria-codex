@@ -1,3 +1,49 @@
+## November 12, 2026 — Primary Item specialization, enchanted-price doubling and Junk gear (LATEST AUTHOR APPROVAL)
+
+**Author approval from the latest conversation:** The author approves the purchasing-behavior framework and the latest explanatory corrections, specifically **rejects their own mistaken "two quality tiers ahead for 60%"** and keeps normal tier price doubling. This makes **one full Quality tier ahead ≈ 60% of the current tier's expected equipment wealth**, while **two Quality tiers ahead ≈ 120%** (usually unaffordable on a normal current-tier budget). These percentages are reference *spending patterns*, **NOT** item-use level gates.
+
+### Enchanted Primary Item: ~double ordinary standard item price (APPROVED WORKING ECONOMIC RULE)
+
+For a matching standard equipment item at the same actual **Quality, form, functional class and manufacturing configuration**, a substantial useful installed magical enhancement *package* should bring its complete price to **approximately twice its otherwise unenchanted price**. The *price target* is not an automatic grant of a rune, activated ability, one spell rank, unlimited casts or magic. All installed rune/socket, effect, action, compatibility and equipment Soul Strain rules still apply, with individual enchantment benefits/cost tiers requiring separate review.
+
+| Expected primary-item Quality | Ordinary complete item (Gems) | Substantially enchanted complete item (~×2) | Context under current level-100 economy |
+|---|---:|---:|---|
+| I | 60 | 120 | At reference tier I, enchanted I uses ~60% of W10=200 |
+| II | 120 | 240 | At reference tier II, enchanted II uses ~60% of W25=400 |
+| III | 240 | 480 | At reference tier III, enchanted III uses ~60% of W50=800 |
+| IV | 480 | 960 | At reference tier IV, enchanted IV uses ~60% of W75=1600 |
+| V | 960 | 1920 | At reference tier V, enchanted V uses ~60% of W100=3200 |
+
+The additional magic cost means an enchanted Quality V item has the *economic price-equivalent* of a theoretical Quality VI mundane item but **DOES NOT CREATE a physical Quality VI item, smith rank, draw cap, mechanical stat progression, rune limit or new crafting prerequisite**. Enchanting is a separately controlled layer and incurs **its ordinary actual Soul Strain**, not one fixed 8/16 strain simply because its Gem cost doubles. Tiny minor utility enhancements need not automatically double an expensive complete equipment item's total price. The table's 30% ordinary Primary Item prices are a **representative build-investment category**, not an extra charge applied to every weapon that a player simply names their Primary Item.
+
+**Important revision note:** The earlier **3,040-Gem** illustrative eleven-slot level-100 loadout combined physical and magical costs in each line. Those entries are now a **historical pre-this-approval budgeting example, not a simultaneously usable priced 960-Gem *unenchanted* primary plus already-included enchantment**. Pricing a full enchanted tier-V primary for 1,920 Gems in the same earlier 3,040-Gem example, holding the other ten 2,080-Gem slots fixed, would yield **4,000 Gems**, exceeding W100 by **800 Gems**. A specialist must downshift other gear, choose less extensive magical installation, or later earn additional wealth; the user specifically wants specialization to entail a real tradeoff.
+
+### Junk equipment (APPROVED ECONOMIC CATEGORY; PHYSICAL DRAWBACKS OPEN)
+
+- **Junk is not a sixth workmanship Quality.** It always counts as **Quality I** for Quality-related mechanical eligibility, and **Boughsteel is its defining material** for the equipment's substantive eligible material construction. Do not invent a class of Junk Adamantite or Junk Celestite.
+- Junk costs **half the matching ordinary Quality I price** for a piece of the same weapon shape, armor class/coverage or appropriate slotted equipment category. Example ordinary **QI Primary Item 60 Gems → Junk counterpart 30 Gems**. This does not let the player apply an arbitrary 50% discount to a different exotic design or higher-Quality gear.
+- The user wants visibly inferior durability/condition/handling (rust, neglect, weak fit, unreliable construction as appropriate) so a dependable QI item remains worth paying for. **Exact numerical penalties, breakage, repairs, enchantment compatibility and Junk nonmetal accessory construction are NOT YET APPROVED** and must be developed separately. Do not use the ordinary Quality I combat performance unchanged while giving a free half-price discount; don't invent exact F/AR/stat modifiers yet.
+- This lets early Heroes keep a reliable Quality I Primary Item while wearing compromised supporting gear and having some initially empty accessory slots. Economic category extends to appropriate 11-slot gear, not just swords, subject to anatomy and existing full-armor coverage rules.
+
+### Specific purchasing-options test (level 10 / W=200 Gems)
+
+| Matching standard primary-item choice | Planned Gems | Share of W10 |
+|---|---:|---:|
+| Junk Quality I | 30 | 15% |
+| Ordinary Quality I | 60 | 30% |
+| Ordinary Quality II | 120 | 60% |
+| Substantially enchanted Quality I | 120 | 60% |
+| Ordinary Quality III | 240 | 120% |
+| Substantially enchanted Quality II | 240 | 120% |
+
+Under prior noncanonic eleven-slot tier-I allocation, a QI ordinary Primary Item 60 Gems and ten *Junk-equivalent* supporting pieces at half their QI category prices is **155 Gems**; with QII Primary Item 120, same Junk supporting pieces is **215 Gems** (15 above W10), so specialist must leave at least some support slots empty or reduce spend. This arithmetic illustrates attractive multiple strategies, **not an approved guaranteed Gem Shop stock or confirmation of Junk equipment's combat disadvantages**.
+
+### Material-cost question: UNDER DISCUSSION; existing Celestite premium NOT superseded yet
+
+The author asks whether equal-material Gem pricing should apply, suggesting that the tougher ability requirements and intrinsic risks already balance superior material properties and that impure lower-quality Adamantite could support the fiction. **This is an open question and a proposed future policy**, not yet a final explicit approval of unchanged material prices or removal of the previous **Celestite QV 1.20× Adamantite crafting valuation**, which remains approved until the author chooses the replacement. Potential design rule to review: *same finished form, coverage, Quality and enchantments cost the same standard Gems regardless of primary material, with availability, smith prerequisites, physical stats/mobility/elemental risks and extraordinary divine requirements handled independently*. World-economy market scarcity and procurement costs would still need consistent treatment if the author adopts this.
+
+---
+
 ## November 12, 2026 — Tenfold Gem denomination, replacement wealth curve and 11-slot repricing (LATEST AUTHOR DIRECTION)
 
 **Authority boundary:** The author explicitly selects the immediately prior **320-Gem endgame wealth/30%-primary-item/11-slot test as the NEW ECONOMIC BASE**, raises **every Gem amount in that selected proposed table by ×10**, and directs a broad repricing pass to align older equipment and offers. This **supersedes** the older level-100 **4,000-Gem** equipment wealth plan and prior **400-Gem QV maul / 480–500-Gem greatbow** exploratory plan. **W(100)=3,200 Gems** is the new user-directed *working economic calibration target*, **NOT** 40,000 Gems (do not multiply the discarded 4,000 model by ten). The 30% *lifetime earnings* spent on consumables, provenance-limited Gem Shop 50% buyback, Shimmer XP, SP, MP, Soul Strain, and existing item physical mechanics remain separate and unchanged. Preserve historical old economic tables below as explicitly superseded records; they are not operative offers.
