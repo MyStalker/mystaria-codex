@@ -1,3 +1,9 @@
+## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
+
+Use quadratic partial bow draw, one reload turn for most handheld test profiles and two for the arbalest, and stronger opening hits for slower weapons. See [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), and the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md). Individual shot Power and range are still under calibration.
+
+---
+
 ## November 11, 2026 — Melee class, material, and handling benchmarks approved
 
 Melee now has approved working class references, material F factors, and handling benchmarks. See [Equipment and Economy](09_Equipment_and_Economy.md) and the [melee catalogue](25_Melee_Weapon_Catalogue_DRAFT.md). Next is the [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), with supported lance charge deferred to mounted combat.

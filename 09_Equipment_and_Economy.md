@@ -1,3 +1,13 @@
+## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
+
+**Bow draw.** For a shot the archer can legally make, usable draw is the lower of effective STR and the engineered draw cap. Shot Power is the bow-and-arrow full-draw Power multiplied by `(usable draw / draw cap)^2`. DEX governs aim and handling. Individual full-draw Power, draw caps, and minimum controllable partial draw remain open for item calibration.
+
+**Reload pace.** Use one reload turn for most handheld profiles in the working comparison and two for the arbalest. A loaded shot takes its normal attack action. Time spent reloading is separate. Ordinary bow nocking and drawing use the existing bow procedure. Preserve the approved full-turn single-shot pistol and high-capacity magazine reloads. Individual capacity, cycling exceptions, and mounted or siege crew cycles remain subject to their own profiles.
+
+**Damage target.** Give slower ranged weapons a stronger opening hit. Tune the stronger first hit and the full firing cycle together against unarmored, Medium-armored, and Heavy-armored targets. Equal sustained injury output is not the design target. This approval establishes the calibration method and pacing, not the menu's individual shot Power, ammunition, range, or mount test values.
+
+---
+
 ## November 11, 2026 — Melee class, material, and handling benchmarks approved
 
 **Approved working melee calibration.** Reference F for Light / Medium / Heavy is **1.00 / 1.15 / 1.45**. Use the calibrated individual profile where one exists. These class references are not extra multipliers on a whole-profile F. Apply material and workmanship to the applicable attack F once.

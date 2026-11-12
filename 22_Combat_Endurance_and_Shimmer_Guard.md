@@ -1,3 +1,13 @@
+## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
+
+**Bow draw.** For a shot the archer can legally make, usable draw is the lower of effective STR and the engineered draw cap. Shot Power is the bow-and-arrow full-draw Power multiplied by `(usable draw / draw cap)^2`. DEX governs aim and handling. Individual full-draw Power, draw caps, and minimum controllable partial draw remain open for item calibration.
+
+**Reload pace.** Use one reload turn for most handheld profiles in the working comparison and two for the arbalest. A loaded shot takes its normal attack action. Time spent reloading is separate. Ordinary bow nocking and drawing use the existing bow procedure. Preserve the approved full-turn single-shot pistol and high-capacity magazine reloads. Individual capacity, cycling exceptions, and mounted or siege crew cycles remain subject to their own profiles.
+
+**Damage target.** Give slower ranged weapons a stronger opening hit. Tune the stronger first hit and the full firing cycle together against unarmored, Medium-armored, and Heavy-armored targets. Equal sustained injury output is not the design target. This approval establishes the calibration method and pacing, not the menu's individual shot Power, ammunition, range, or mount test values.
+
+---
+
 ## November 11, 2026 — Unified Piercing bypass and secondary thrust ratings (author approved)
 
 All genuine Piercing attacks use **50% base AR bypass**, including eligible secondary thrusts. A secondary blade-tip thrust uses **×0.82 of the weapon's adjusted primary F**. A purpose-built secondary spike or beak uses **×0.90 of primary F**. Apply the factor once, with the attack's applicable quality and material factors. The actual blade tip, spike, or beak must support the attack. An earned rear hit can raise Piercing bypass to 60% under the existing rear rule.

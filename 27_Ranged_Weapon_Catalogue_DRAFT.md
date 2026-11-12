@@ -1,3 +1,13 @@
+## November 11, 2026 — Ranged draw, reload, and opening-hit benchmarks approved
+
+**Bow draw.** For a shot the archer can legally make, usable draw is the lower of effective STR and the engineered draw cap. Shot Power is the bow-and-arrow full-draw Power multiplied by `(usable draw / draw cap)^2`. DEX governs aim and handling. Individual full-draw Power, draw caps, and minimum controllable partial draw remain open for item calibration.
+
+**Reload pace.** Use one reload turn for most handheld profiles in the working comparison and two for the arbalest. A loaded shot takes its normal attack action. Time spent reloading is separate. Ordinary bow nocking and drawing use the existing bow procedure. Preserve the approved full-turn single-shot pistol and high-capacity magazine reloads. Individual capacity, cycling exceptions, and mounted or siege crew cycles remain subject to their own profiles.
+
+**Damage target.** Give slower ranged weapons a stronger opening hit. Tune the stronger first hit and the full firing cycle together against unarmored, Medium-armored, and Heavy-armored targets. Equal sustained injury output is not the design target. This approval establishes the calibration method and pacing, not the menu's individual shot Power, ammunition, range, or mount test values.
+
+---
+
 # Mystaria Ranged Weapon Catalogue — STEP 3 DESIGN DRAFT
 
 **Created November 6, 2026. All individual numeric specifications, ammunition counts and range assignments below are proposed and NOT CANON.** This is the third of five weapon-shape workstreams. The first two developed the melee shapes and their Power calibration; the user wants numerical multi-target coverage kept unresolved and ARMOR designed immediately after all five shape phases. A primary ranged Coverage column is shown prominently, consistent with the approved master melee chart presentation.
@@ -5,7 +15,7 @@
 ## Existing approved mechanical foundation
 
 - Five physical propulsion families: **Bows**, **Crossbows**, **Firearms**, **Thrown/Manual**, **Mounted/Siege**. Relative weapon range bands **Close / Effective / Far / Extreme**; distance cutoffs are weapon-specific, not a universal meter ladder.
-- **Bow Model A:** shooter STR controls how much force can be drawn up to the engineered bow maximum. Bow/ammunition construction and draw determine achievable shot Power; DEX governs the aim. Proposed draw-cap numbers in this table are candidates, not a new bow formula.
+- **Bow Model A:** shooter STR controls how much force can be drawn up to the engineered bow maximum. Bow and ammunition construction set full-draw Power. The approved quadratic partial-draw rule is above. Individual caps and full-draw Power remain candidates.
 - **Crossbows** use stored mechanical energy from their design; STR/cocking assistance affects operation/loading and DEX determines aim. A hand crossbow in established starting equipment comes with twelve bolts; this does NOT mean twelve bolts loaded at once.
 - **Firearms** derive shot physical Power from frame, chamber, ammunition and propellant, **not** the shooter's STR/DEX. Each requires independent **Support STR**, **Recoil STR single/volley** and **Handling DEX**, a numeric loaded **Capacity**, and automatic types additionally **Full-Auto Volley Cost**. Mounts may physically transfer weight and recoil, not eliminate momentum or grant actions.
 - **Thrown/manual** attacks draw on lawful STR/DEX input and physical projectile/ammunition, with all attack modes checked against realistic delivery. The author approved a modest **DEX handling minimum for STR-led ranged weapons**, not a DEX-derived bonus to Power.
@@ -63,7 +73,7 @@
 - A 12/8 automatic pistol can fire one complete 8-round volley and has four rounds remaining. It cannot fire another complete volley until reloaded; it can still use lawful normal fire with those four rounds. A 30/18 rifle likewise has twelve rounds left after one volley. No partial-volley bonus is invented.
 - The existing hand-crossbow starter kit's **12 spare bolts** do not justify twelve simultaneous shots. Repeating crossbows are not automatically full-auto firearms eligible for the firearm rapid-fire Power option. Their own future mechanical rapid-fire Proficiency must be designed and approved.
 - Each full-auto volley is one recoil event, with its own personal Recoil STR requirement. A properly rated Centaur saddle may reduce **personal residual requirements** but does not eliminate recoil or make a towed cannon stable while moving.
-- **Important damage gap:** A gun's **intrinsic ballistic Power**, bow draw-to-Power function, mechanical crossbow stored-energy Power, throwing impact and siege charge still require explicit material-independent baseline calibration before final ranged item stats. **Do not substitute a fake weapon damage number or give a gun `(wielder STR*F)^2` without approval.**
+- **Important damage gap:** A gun's **intrinsic ballistic Power**, bow full-draw Power, mechanical crossbow stored-energy Power, throwing impact and siege charge still require explicit material-independent baseline calibration before final ranged item stats. **Do not substitute a fake weapon damage number or give a gun `(wielder STR*F)^2` without approval.**
 
 ## Cross-stat handling comparison
 
@@ -72,7 +82,7 @@ A **STR-led bow, javelin or sling** has a small DEX minimum to aim or control de
 ## Following work, preserving author sequence
 
 1. Review this 34-shape candidate register: family, ammunition, relative range, feasibility, DEX floor, bow cap, gun Support/Recoil STR and mount operation. Numbers are *not approved yet*.
-2. Determine actual **intrinsic ranged Power baseline** without alloy/enchantment layering. Build per-family physics-appropriate Power formulas; keep armor-specific bypass and material modifiers separate.
+2. Determine actual **intrinsic ranged Power baseline** without alloy/enchantment layering. Calibrate the remaining per-family Power models and individual shot ratings; keep armor-specific bypass and material modifiers separate.
 3. Continue to **quantitative coverage/universal horde combat** and **mounts/rated supports**, the final two remaining shape tasks.
 4. **Immediately proceed to ARMOR**, including shields and penetration; afterwards other weapon crafting and other equipment.
 
