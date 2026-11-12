@@ -1,3 +1,13 @@
+## November 11, 2026 — Advanced precision sight Option A approved
+
+**Author expressly approves Option A as working calibration:** A weapon-compatible **advanced precision sight** grants **one category of relief specifically from the Far or Extreme range penalty** on a **genuinely aimed, valid shot**, provided the shooter has **effective DEX ≥100** and a **stable/braced shooting position**. Normal Aim still costs an attack opportunity and grants its approved one-category improvement; the sight's relief is additional, reduces only the range penalty (minimum zero), and creates **no Pressure Points**. Effective/Close gain no extra optic modifier, range boundaries in feet are unchanged, and no beyond-Extreme eligibility is added. A qualified sight does not affect shot Power, armor bypass, cover, recoil, weapon-legal targeting, or the basic mechanical support requirements.
+
+**Canon precedence:** This **supersedes the prior unapproved status of the specific Option A mechanic and DEX100/stability/Aim conditions** in the November 11 sensitivity notes and older scope-open discussions. The alternative **Option B 25% range extension remains unapproved**, not cumulative. The advanced sight does not canonize unrelated proposed DEX precision feats, item prices, optic mass/Quality reductions, sight attachment compatibility for every weapon, visibility tricks, or new Aim persistence rules. The distinct firearm Concentrated Burst 10-meter Point Blank rule remains untouched.
+
+**Files:** `22_Combat_Endurance_and_Shimmer_Guard.md` (combat resolution), `27_Ranged_Weapon_Catalogue_DRAFT.md` (weapon attachment), `09_Equipment_and_Economy.md` (equipment cross-reference), `10_Canon_Changelog.md` (approval and supersession), and `00_Mystaria_Canon_Index.md` (navigation). Next test optics across cover, Pressure, multiple weapon ranges, and eligibility; any further numeric adjustments remain proposals.
+
+---
+
 ## November 11, 2026 — Effective-range accuracy penalties approved (Option A)
 
 **Explicit author approval:** Adopt **accuracy-only** ranged bands: **Close 0**, **Effective 0**, **Far +1 harder hit-difficulty category**, **Extreme +2 harder categories**, measured against the attacking weapon's own bands. The approved five advanced weapons have weapon-specific Close/Effective/Far/Extreme endpoints in **feet**; do not convert numbers or create missing bands for entry designs. **No range-only shot Power, penetration, or injury reduction**, no automatic bonus at Close, and no new global ranged Quality multiplier.
