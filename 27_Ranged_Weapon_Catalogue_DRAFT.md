@@ -1,3 +1,13 @@
+## November 11, 2026 — Extreme is the outer limit for ordinary ranged attacks (AUTHOR APPROVED)
+
+**Latest explicit decision:** There is **no ordinary ranged attack range beyond a weapon's own Extreme band**. For a ranged weapon whose item-specific band boundaries have been established, a target **past the upper Extreme distance is ineligible for an ordinary direct ranged shot**. Do not create a fifth distance band, add stacking penalties for shooting past Extreme, or allow a precision sight, extraordinary DEX, ordinary Aim, Pressure, higher Quality, or an unsupported attachment to extend this limit. The existing approved advanced precision sight grants only its Far/Extreme **accuracy relief within the listed bands**, never additional feet of range.
+
+This is an **attack eligibility and game-design boundary**, not a claim that fired arrows, bullets or bolts magically cease moving at that distance or that sight and cover are the only physical variables. It does not set an as-yet-missing Extreme endpoint for another weapon, rewrite unrelated spell or magical effect ranges, or change the distinct approved 10-meter Concentrated Burst Point Blank condition. Extraordinary nonordinary attacks would require their own explicit source rule and author approval; none is newly created here.
+
+**Supersession:** Earlier entries saying attack eligibility *past* Extreme remains unresolved are historical and **superseded by this approval** for ordinary ranged weapons with defined limits. Existing ranged working Power, armor bypass, Far/Extreme accuracy modifiers, Aim, advanced sight eligibility, cover and all five approved foot-based range endpoints are unchanged. Movement/stability and attachment-cost proposals remain unapproved pending author choice.
+
+---
+
 ## November 11, 2026 — Advanced precision sights: Option A (AUTHOR-APPROVED WORKING CALIBRATION)
 
 **Approved enhanced-sight procedure.** An advanced precision sight operated by a shooter with **effective DEX at least 100**, from a **stable, braced shooting position**, and with **a genuine Aim action spent to prepare the subsequent eligible shot**, reduces the weapon's ordinary **Far or Extreme range hit-difficulty penalty by one category**, to a minimum range penalty of zero. This is **in addition to** the normal Aim improvement of **one easier difficulty category** for the following valid shot, and **does not generate Pressure Points**.
