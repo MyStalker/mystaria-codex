@@ -1,3 +1,43 @@
+## November 12, 2026 — First QV ordinary Heavy melee price anchor: 400-Gem trial (UNAPPROVED PROPOSAL)
+
+**Status: EXPLORATORY ECONOMY PROPOSAL ONLY. NOT APPROVED CANON; DO NOT REPRICE ITEMS FROM THIS ENTRY WITHOUT EXPLICIT AUTHOR APPROVAL.** Created after the author agreed to proceed with testing a conventional Heavy two-handed weapon as the first calibrated finished-item price. Relevant existing canon remains unchanged: Quality V general reference **90 Gems** (not universal finished price), level-100 current equipment portfolio **4,000 Gems**, 11 equipment slots, about six QV plus five QIII items, ~half applicable natural MP spent as equipment Soul Strain, consumables ~30% of lifetime Gem income, existing bow caps/ranges/Power, and provisional QV high-draw/Titan/Colossal/Greatbow prices **150/450/950/1750 Gems** flagged for separate review.
+
+### Proposed standard reference item
+
+**Quality V Boughsteel Heavy-class two-handed maul (ordinary, unenchanted, no exceptional bespoke modifications) = 400 Gems FINISHED physical item** as a **working price trial**, with possible sensitivity band **350–450 Gems**. The 400 includes conventional Heavy form/material and Quality V craft/labor; **do NOT add a second 90-Gem quality charge**. It incurs no ordinary enchantment Soul Strain while genuinely unenchanted. This is a **representative ordinary two-handed weapon**, not a universal cost of every Heavy greatsword, polearm or two-handed exotic recipe. Form, material rarity, region, unusual fittings, enchantments and actual manufacturing cost can justify separate independently reviewed differences, not automatic unbounded extras.
+
+**Reason for choosing trial center 400:** This price is **4.44×** the base Quality V 90-Gem generic reference, avoiding treating 90 as a cap or extra itemized fee. It consumes **10%** of the 4,000-Gem level-100 equipment portfolio, **19.5%** of the reference level-75 2,049-Gem portfolio, and **50.3%** of the level-50 796-Gem reference portfolio. Thus high-Quality craft remains a meaningful purchase before top-end wealth, without imposing level-use gates. The price is **not independently derived** from a nonexistent approved resource/labor table. Further realistic Smithcraft material and time costs could alter it.
+
+### Heaviest engineered bow cost sensitivity, NOT an approved price change
+
+The author tentatively wants the **STR400 Legendary Greatbow** standard finished-engineering tier to cost **20%–25% more than a genuinely comparable completed ordinary Heavy two-handed melee weapon** rather than 1,750 Gems. Applied **once** to various candidate ordinary Heavy melee baselines, the following are explicitly hypothetical:
+
+| Standard QV Heavy Boughsteel comparator (Gem) | STR400 Greatbow at +20% | STR400 Greatbow at +25% |
+|---:|---:|---:|
+| 300 | 360 | 375 |
+| 350 | 420 | 437.5 |
+| **400 (recommended trial)** | **480** | **500** |
+| 450 | 540 | 562.5 |
+| 500 | 600 | 625 |
+| 650 (earlier illustrative main-weapon price) | 780 | 812.5 |
+
+**Recommended next review target: Quality V standard Legendary Greatbow 500 Gems inclusive of normal finished exotic engineering (25% premium above 400), without separate enchantments; 480 is the 20% variant. THIS IS NOT APPROVED.** Special unusually extravagant bespoke materials may require extra payment, but the intended affordable *standard operational design* must not covertly multiply its premium through obligatory extra charges that defeat the author's modest-price philosophy. Actual material recipes are design identities, not mandatory exclusive Adamantite-only bills of materials; Thornspring elastic assemblies and selective reinforced joints remain approved directions.
+
+**Important comparison caveat:** An ordinary Heavy **Boughsteel** maul is not identical in components to a sophisticated coupled-Thornspring Greatbow. The 20–25% cost rule should be evaluated for *equivalent finished standard function/Quality* and material availability, not interpreted as implying equal raw material weight or an unconditional multiplier on arbitrary luxury versions. Its engineering cap permits legal strong-STR draws, but does not create extra shot Power, bypass, aim or reload. The approved Heavy-class melee F reference and melee quadratic STR scaling are different from the bows' per-design finite caps; long-distance Piercing shots and 50% covered AR bypass still provide meaningful distinct advantages.
+
+### Effect on the existing eleven-item reference loadouts
+
+Using earlier **NONCANON full-loadout example budgets** as a *controlled comparison*, without changing other items or hypothetical installed magic:
+- **Guardian:** original 3,915 Gems included a hypothetical **650-Gem physical primary weapon**. If that slot is a normal QV Boughsteel two-handed maul at **proposed 400 Gems**, the example becomes **3,665 Gems**, **335 Gems** below W100 instead of 85. This changes the role/hand-equipment arrangement: the guardian's simultaneous shield use is **not** permitted with an ordinary two-handed maul, so that exact example would need an offhand backup or a one-handed weapon instead for an actually legal encounter-ready build. **Do not cite the 3,665 as a fully play-legal shield+two-handed-maul combination.**
+- **Marksman:** original 3,680 Gems included **1,750 Gems physical Greatbow** and separate 120-Gem hypothetical enchantment. Changing just the physical bow's proposed standard value to **500 Gems** produces **2,430 Gems** total and **1,570 Gems** unspent out of W100. The planned 40 equipment Soul Strain / natural MP80 is unchanged in this price-only comparison. An alternate **480-Gem** bow yields **2,410 Gems** and 1,590 Gems remaining. This proves headroom for higher genuine armor/accessory/enchantment expenses; the balance of the remaining slots still requires independent tuning and does **not** require raising prices merely to consume the rest of 4,000.
+- **Caster:** the former hypothetical 3,910-Gem loadout has no required Boughsteel heavy maul or new Greatbow and is unaffected by this narrower price sensitivity trial.
+
+**Other still-open work:** Different melee shapes, actual Adamantite/Trufula material premiums, complex forging/merchant prices, quality I–IV weapon progressions, actual high-bow tier repricing and corresponding availability, separately priced enchantments, compatible two-hand/offhand rules, armor cost ladder and Celestite's already **APPROVED 1.20× matching Adamantite armor crafting valuation**. No new combat Power, F, damage form, armor rating, material prerequisite or STR floor is declared by this exploratory cost exercise.
+
+**Approval request for author:** Decide whether **400 Gems for one standard QV Heavy Boughsteel melee weapon** is an acceptable initial *working* economic anchor, and whether **480–500 Gems** should be tested as a future Greatbow cost range after the comparator is settled. Author's explicit approval is required to replace any existing provisional bow price or establish ordinary Heavy melee pricing.
+
+---
+
 ## November 12, 2026 — Celestite crafting value +20%; high-cap bow pricing review before any rebalance (LATEST AUTHOR RULING)
 
 ### Celestite armor crafting valuation: AUTHOR APPROVED CHANGE
