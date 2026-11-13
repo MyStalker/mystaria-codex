@@ -1,3 +1,15 @@
+## November 13, 2026 — Interim physical item smith repair clock AUTHOR APPROVED (LATEST)
+
+**Author approval:** A real smith **qualified and able to craft the actual item** can repair a damaged physical reusable item in **one-half the time needed to manufacture that same item** under the existing lawful Quality/material/manufacture, dedicated forge or permitted portable forge, assistant and daily labor rules. This applies to shields, weapons, armor and other genuinely repairable smith-made equipment, without bypassing special forging prerequisites, actual material supply or unusual fabrication limits. A completed eligible repair restores the item's normal intact/usable condition. **Repairing is not free**: exact Gems, labor tariffs, components, scarcity, repairable-versus-destroyed edge cases, salvage and economy/service infrastructure remain in the **mundane smithcraft and economy backlog**.
+
+**Already-set fabrication baselines imply** normal Light/Medium/Heavy melee weapon base repair **4/8/12 work-hours**, normal Light/Medium/Heavy armor **16/20/28 work-hours**, before applicable legitimate project-specific differences. The previous Work report suggested **8/16/24 forge hours for standard Light/Medium/Heavy shields**, but those SHIELD FABRICATION TIMES remain **UNAPPROVED**; their eventual repair hours are **half of whatever full shield manufacture schedule is later approved**, not those prototype numbers by default. Assistant/sustained-END daily-hours rules remain intact and do not produce multiplicative unrelated repair discounts.
+
+**Ammunition cannot be repaired**, even though physical ammo can be forged in existing 120-piece/8h batches. The explicit exception is a **reusable throwing weapon** that remains an actual repairable object; it uses the ordinary qualified-smith half-craft-time repair rule for its legitimate weapon design. An intact recovered arrow/projectile being re-used is not repaired by merely recovering it. Magical/elemental/special ammunition repair mechanics are not created by this ruling.
+
+**Shields:** Ordinary shields retain three fully functioning usable condition states `Intact, Dented, Cracked` before Broken; Junk QI Boughsteel shields have **two** usable states before Broken and **−10% final Shield Defense**; genuine ceramic load-bearing shields **shatter on first `P≥D` wounded contact**, with no progressive damage states. These accepted condition variants affect restoration of a repairable shield, not smith rank or repair time formula. The new default Guard **automatic interception** and special flanking exchange are owned by [Physical Shield Profiles](29_Physical_Shield_Profiles.md).
+
+---
+
 ## November 12, 2026 — Approved weapon, armor, and ammunition forge-production clock
 
 **LATEST EXPRESS AUTHOR APPROVAL; CANON.** The following is the baseline **physical crafting-time and Shimmer-inventory** ruling. It changes neither weapon Attack Power nor armor AR/MR, Quality, material requirements, Anvilcant rank gates, equipment valuation, ordinary resources, or the special restrictions on exceptional craft such as Celestite.
