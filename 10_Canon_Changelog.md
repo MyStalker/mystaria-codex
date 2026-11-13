@@ -1,3 +1,19 @@
+## November 12, 2026 — Physical forge time, Anvilcant crew assistance, END workday, Shimmer weapon/arrow capacity APPROVED (LATEST)
+
+**Express author approval and new directives:** The author approves the preceding STR/STR+DEX/DEX armor-tradeoff analysis and says not to adjust the currently approved damage formula on that evidence. The author separately **approves a new concrete physical forging and Shimmer storage framework**.
+
+**Inventory:** One personal weapon occupies **one Shimmer storage inventory slot**; approximately **30 ordinary arrows** (30 normal single-arrow attacks) fit in **another**. This respects the prior six free Shimmer slots and their upgrades, and must NOT be confused with the eleven distinct equipped-gear positions. Existing large nonpersonal object limits, and non-arrow ammo stack sizes, are not overwritten.
+
+**Forge:** Crafting requires a **dedicated real forge** or **magical portable forge item**. Base 8-hour workdays: Light/Medium/Heavy weapons **1/2/3** days (**8/16/24** hours), Light/Medium/Heavy armor **4/5/7** days (**32/40/56** hours), ammunition **up to 120 pieces in one 8-hour batch**. Anvilcant-trained assistance reduces required work hours **25% for one assistant** or **50% for three**; these are not additive. For every **complete 25 END**, the worker can extend daily work by one hour beyond 8, capped at **16 hours/day**. Shorter workdays provide less project progress and therefore stretch calendar completion. Actual production must still qualify under existing crafting, material, Quality and rare Celestite provisions.
+
+**Operational calculation:** total project labor = listed base hours × relevant approved assistant factor (.75 for 1, .50 for 3, otherwise full baseline where no assistance applies); workday upper limit = min(16, 8 + floor(END/25)); carry partial work hours across days. No invented bonus for exactly two assistants or additional beyond three, no free magical portable forge, no new rank gates, crafting costs, magical equipment effects, exotic ammunition recipes or temporary-stat exceptions.
+
+**Files updated:** `01_World_and_Shimmer.md` (owning inventory rule), `07_Centaurs_and_Smithcraft.md` (owning forge clock), `09_Equipment_and_Economy.md` (equipment cross-reference), `10_Canon_Changelog.md` (this status record), `00_Mystaria_Canon_Index.md` (current navigation and precedence).
+
+**Unresolved:** exact efficiency for two versus three assistants if a distinct new benefit is desired, portable forge specifications and availability, END buff eligibility, magical/exceptional fabrication timing, and other projectile storage. Previous attack-F/weapon-attribute gates, armor AR and defense mechanics stay unchanged.
+
+---
+
 ## November 12, 2026 — Moderate B Heavy minimums expressly APPROVED; seven-level STR/STR+DEX/DEX Slashing balance tested, NEW STR-FIRST TARGET (LATEST)
 
 **LATEST EXPLICIT AUTHOR APPROVAL, DIRECT TO MAIN:** “Approved, record it in github.” This refers to the specific **Moderate B** twelve-Heavy-weapon stat-minimum table just recommended in conversation, with the full numerical table reproduced below. These are now author-**APPROVED QI Boughsteel effective-stat gates**, replacing the earlier November6 accepted **lower Heavy test requirements**, all exploratory Moderate A/High alternatives and any older historical first-draft minima for these exact Heavy items. Existing November6 replacement Light/Medium minima remain working test references only, not newly approved. This approval does **NOT** change already approved all-31 primary F values, derived legal secondary F values, reach/coverage, normal material/Quality scaling, or build attack attributes. No character-level equipment requirement was created.

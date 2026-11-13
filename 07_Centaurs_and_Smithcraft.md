@@ -1,3 +1,40 @@
+## November 12, 2026 — Approved weapon, armor, and ammunition forge-production clock
+
+**LATEST EXPRESS AUTHOR APPROVAL; CANON.** The following is the baseline **physical crafting-time and Shimmer-inventory** ruling. It changes neither weapon Attack Power nor armor AR/MR, Quality, material requirements, Anvilcant rank gates, equipment valuation, ordinary resources, or the special restrictions on exceptional craft such as Celestite.
+
+### Required workshop and base work
+
+The crafter must use either **a dedicated real physical forge** or **a magical portable forge item**. Merely carrying tools or a conventional portable nonmagical kit does not satisfy this forge requirement. The magical portable forge's item-specific acquisition cost, activation, fuel/MP needs, range, capacity, and additional constraints remain unspecified; this approval grants no free forge or bypass of existing Smithcraft prerequisites.
+
+A normal **crafting day contains 8 hours of actual work**. Every time below is a baseline work requirement, not a mandatory number of sunrise-to-sunset calendar days:
+
+| Item or batch | Baseline 8-hour workdays | Baseline work hours |
+|---|---:|---:|
+| Light weapon | 1 | 8 |
+| Medium weapon | 2 | 16 |
+| Heavy weapon | 3 | 24 |
+| Light armor | 4 | 32 |
+| Medium armor | 5 | 40 |
+| Heavy armor | 7 | 56 |
+| Up to 120 pieces of ammunition, per batch | 1 | 8 |
+
+An ammunition batch contains **at most 120 pieces**; a new batch is needed for more. The single-day allowance applies to a batch of up to 120, not a proportional free discount for individual arrows. This is a production-capacity rule, **not** approval of new exotic ammunition types, recipes, component costs or enhanced physical combat characteristics.
+
+### Assistants and Endurance scheduling
+
+- **One qualified assistant** with some Anvilcant proficiency reduces the required work time by **25%** (the project then takes **75%** of the listed base hours).
+- **Three qualified Anvilcant assistants** reduce the required work time by **50%** (the project then takes **50%** of the listed base hours).
+- The assistants must themselves possess some degree of **Anvilcant**. No newly specified discipline or rank minimum is imposed beyond that requirement. These discounts are **alternative crew benchmarks**, not cumulative percentages; do not stack the 25% and 50% bonuses. A unique additional two-assistant discount or beyond-three discount has **not** been approved.
+- The normal crafter can work **8 hours per day**. For each **complete 25 points of END**, the crafter can work **1 extra hour per day**, capped at **16 hours per day**. For the END value being used to schedule work, the maximum daily work hours are **min(16, 8 + floor(END / 25))**. Thus END 0–24 permits 8 hours, END 25 permits 9, END 50 permits 10, and END 200+ reaches the 16-hour ceiling.
+- Actual calendar completion depends on hours worked per day: **total required project work hours after the applicable assistant reduction ÷ actual daily working hours**. Track partial-day progress; work that does not fill a whole day may finish during that day. Working fewer than the permitted hours **reduces daily progress and lengthens calendar completion time**, rather than reducing the total project labor requirement.
+- Example for a Heavy weapon: **24** base work hours; with one qualifying assistant **18**, with three **12**. A crafter with END 50 can schedule **10 hours/day**, so the solo project reaches completion 4 hours into day three, the one-assistant project 8 hours into day two, and the three-assistant project 2 hours into day two, assuming no interruption.
+
+**Production and storage are separate:** A crafted personal weapon uses **one Shimmer inventory slot** while stored. Approximately **30 ordinary arrows** occupy a separate inventory slot, so a full 120-arrow batch takes approximately **four storage slots** if all arrows are stored there. Equipped items remain governed by the separate equipment positions. Full Shimmer details are in `01_World_and_Shimmer.md`.
+
+**Unresolved without additional approval:** Whether temporary END effects affect daily craft capacity; exact handling of exceptional nonstandard fabrication, 2-assistant marginal efficiency, other ammunition's inventory stack sizes, the portable magical forge's item profile, and any separate timing for enchantment/complex mechanisms. Preserve existing Anvilcant, physical materials, quality gates and extraordinary forging prerequisites.
+
+---
+
 ## November 12, 2026 — Material-neutral Hero Gem accounting, Celestite no premium, mundane forging independent (LATEST AUTHOR APPROVAL)
 
 **Newest explicit author approval supersedes the earlier Celestite +20% Gem valuation rule:** For otherwise identical finished equipment form/armor class, coverage and workmanship Quality, ordinary Hero **Gem-equivalent value is independent of the material chosen**. **Celestite QV armor's reference Gem valuation is ×1.00 the same-class/same-coverage QV Adamantite equivalent**, NOT 1.20×. This does NOT make Celestite a normal sold item or waive any material, Smithcraft rank/skill, divine participation or risk: only QV Celestite exists and actual forging still requires real Celestite, an extraordinarily qualified Centaur smith and **simultaneous personal aid of Arrest, Surrender and Baphomet**. Its Leydrain, passive MP debit, Soul Shred, XP loss and other consequences remain unchanged. The 1.20× passage further below is retained as **HISTORICAL AND SUPERSEDED**, not an operative cost or special forge surcharge.
