@@ -1,3 +1,27 @@
+## November 13, 2026 — Equipment numerical price ladder and shield exception APPROVED (LATEST)
+
+**EXPLICIT AUTHOR APPROVAL OF PREVIOUS RECOMMENDATION:** Adopt Candidate C standard ordinary FINISHED-item prices, anchored to **Quality V Heavy two-handed weapon / Full Heavy armor = 960 Gems**, **Light weapon = 80% of standard Medium one-handed weapon** (20% discount), and **Full / Standard / Partial armor PRICE = 100% / 75% / 50%** of Full at corresponding protective class and Quality. Quality I–V price doubling remains. These figures include ordinary finished workmanship and shape; do NOT add a separate Quality cost, automatically grant installed enchantments, or declare a character level gate.
+
+**LATEST SPECIFIC SHIELD-PRICE EXCEPTION, SUPERSEDING OLDER CLASS-MATCHED SHIELD PROPOSALS:** **Light shield = 150% of Medium shield price**, whereas **Medium shield = Heavy shield price**. Ordinary Medium/Heavy shield is priced equal to standard Medium one-handed weapon, making a Medium weapon + Medium/Heavy shield the same total price as two Medium one-handed weapons. The Light shield is deliberately more expensive despite being weaker in the author's intended defense roles; this does NOT confer previously unapproved shield attack/rating/handling stats.
+
+| Quality | Light weapon / Full Light armor | Medium one-handed weapon / Full Medium armor | Heavy two-handed weapon / Full Heavy armor | Light shield | Medium or Heavy shield |
+|---|---:|---:|---:|---:|---:|
+| I | **24** | **30** | **60** | **45** | **30** |
+| II | **48** | **60** | **120** | **90** | **60** |
+| III | **96** | **120** | **240** | **180** | **120** |
+| IV | **192** | **240** | **480** | **360** | **240** |
+| V | **384** | **480** | **960** | **720** | **480** |
+
+**Approved construction matching:** a genuine manufactured Medium two-handed weapon costs twice its comparable Medium one-handed weapon, even though ordinary Heavy two-handed pricing is shown in the Heavy column. A strong wielder changing grip does not change a weapon's purchased construction. Full armor equals matching-class finished weapon price; **Standard armor is 75% and Partial 50% of actual corresponding Full coverage armor price**. QV armor Partial/Standard/Full: **Light 192/288/384**, **Medium 240/360/480**, **Heavy 480/720/960** Gems. This does not alter existing **Partial/Standard/Full armor SPD burdens 60%/80%/100%** or AR on genuinely covered surfaces, and it does not give duplicate armor AR from accessory slots. Fractional Gem results use already-approved 100 Glints per Gem.
+
+**Existing material-neutral divine Gem doctrine remains canon:** Same finished design, class, coverage, workmanship and enchantment package uses same standard Gem value regardless of constituent material; physical/ordinary-world material rarity, procurement and Celestite's exceptional divine forging are distinct. Separately engineered bows, composites, special enchantment and individual unusual item prices need their own authorized catalogue entries. User's low-priority magical ammo and portable forge/Cogloom decisions remain deferred.
+
+**11-slot W100=3,200 Gem sanity check:** QV Full Heavy armor960 + QV Medium weapon480 + QV Medium/Heavy shield480 + eight earlier *illustrative* other-slot purchases1,120 = **3,040**, leaving **160**. Two QV Medium one-hand weapons instead of medium weapon+shield cost identical **960** for both hand slots. Switching to Light shield720 increases the full example to **3,280**, over budget by **80**. These example accessory allocations are not newly ratified vendor prices or enchantment purchases.
+
+**Supersession:** The older November13 Candidate A/B/C and shield parity tables below are retained only as historical proposals. **Candidate C, Light20% and coverage75%/50% are now APPROVED**. The former Light-shield=Light-weapon and Heavy-shield=Heavy-two-handed rows are expressly **SUPERSEDED** by the latest Light=1.5×Medium and Heavy=Medium rules; do not use those former shield prices. Shield F, Defense Ratings, mobility, STR/DEX gates and specific tactical modes still require independent approval.
+
+---
+
 ## November 13, 2026 — Weapon, shield and armor price parity philosophy APPROVED; numerical ladder under author review (LATEST)
 
 ### Author-approved relative finished-equipment price doctrine
