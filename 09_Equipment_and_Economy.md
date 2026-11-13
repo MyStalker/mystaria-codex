@@ -1,3 +1,23 @@
+## November 13, 2026 — CORRECTED approved Light shield Gem tariff and zero shield intrinsic SPD burden (LATEST)
+
+**User's latest explicit price CORRECTION, overriding the earlier 150% pricing misunderstanding:** **A standard Light shield costs 50% of the matching Medium shield price, NOT +50% above it.** **Medium and Heavy shields continue to cost exactly the same**. At ordinary Qualities I–V, this is the current APPROVED shop-price relationship:
+
+| Quality | Light shield (half Medium) | Medium shield | Heavy shield |
+|---|---:|---:|---:|
+| I | **15 Gems** | **30 Gems** | **30 Gems** |
+| II | **30 Gems** | **60 Gems** | **60 Gems** |
+| III | **60 Gems** | **120 Gems** | **120 Gems** |
+| IV | **120 Gems** | **240 Gems** | **240 Gems** |
+| V | **240 Gems** | **480 Gems** | **480 Gems** |
+
+**Explicit supersession:** Prior author/assistant references and earlier in-file tables with **Light=1.5×Medium (45/90/180/360/720 Gems)** were a misunderstanding and are **SUPERSEDED** by this correction; their archived rows remain only to explain history, never for actual sale or affordability calculations. Earlier discussion describing Light as a premium, worse-performing shield is also superseded. Existing Light weapon and Full Light armor pricing (24/48/96/192/384) remains intact and **is not the Light shield tariff**. Medium/Heavy shield price equality is preserved; ordinary QV Medium one-hand480 + QV Medium-or-Heavy shield480 = 960, while the QV Medium one-hand480 + Light shield240 = 720. The older modeled 3,280-Gem Heavy-armor-plus-Light-shield loadout is obsolete: with Heavy armor960, Medium weapon480, Light shield240 and illustrative accessories1,120, new comparison **=2,800 Gems**, leaving **400 from W100=3,200**. These example accessories are still only budgeting assumptions, not independently approved magical shop prices.
+
+**Latest approved handling/action distinction:** **No shield of any class contributes an inherent SPD penalty**. Continue applying legitimate actual armor SPD reduction, Equipment Load Synergy, and existing single-largest equipment qualification shortfall penalty without inventing a new universal shield surcharge. **Light and Medium shields** may participate in normal qualifying weapon-plus-shield Double Strike; **Heavy shields cannot Double Strike at all**, but they CAN perform one normal **F1.05 STR Bludgeoning shield bash while keeping otherwise legal Guard/block**, or choose qualifying Deflect instead of block. No mandatory proficiency/stat purchases or extra Quality multipliers are added. The full operative combat procedure is in `22_Combat_Endurance_and_Shimmer_Guard.md`.
+
+**Unaffected outstanding equipment work:** Numeric Shield Ratings I–V by material, genuine shield handling STR/DEX minima, conditional passive obstruction geometry, special-material shield profiles and matchup-calibrated durability-damage impact bands remain **UNAPPROVED**. The baseline approved 3-loss shield condition and only-on-break remaining-capacity torso overflow remain in force. Armor price and armor Quality/coverage/mobility tables are NOT repriced by the shield correction.
+
+---
+
 ## November 13, 2026 — Double Strike and shield-combat tactics AUTHOR APPROVED; the true offhand investment problem clarified
 
 **Latest author approval and clarification:** The user approved the new **two-hit 60%-final-Power Double Strike**, **one self-PP until next turn**, separate real offhand weapon Power scaling, **shield bash F1.05**, and shield **Guard/Deflect/weapon-plus-shield Double Strike** modes exactly as detailed in the [current operative Combat and Guard section](22_Combat_Endurance_and_Shimmer_Guard.md). **The corrected 'dagger problem' is economic/mechanical:** under the previous *offhand Attack or Defense only* benefits, an extremely expensive/enhanced secondary weapon often provided no more mechanical value for the offhand's assigned tactical role than an ordinary Quality I dagger. The desired design solution is NOT forbidding daggers or giving every heavier offhand an automatic bonus: **a real separately resolved Double Strike offhand hit uses that weapon's own actual weapon shape/F, STR/DEX attack scaling, workmanship Quality, material, real attack mode, armor penetration, and legitimately applicable enchantment**. An upgraded offhand therefore has a meaningful use for its acquisition cost without rewriting the old one-weapon Attack/Defense tactic.
@@ -8,7 +28,7 @@
 
 ---
 
-## November 13, 2026 — Equipment numerical price ladder and shield exception APPROVED (LATEST)
+## November 13, 2026 — HISTORICAL approved weapon/armor prices; shield price exception SUPERSEDED by later Light=half-Medium correction
 
 **EXPLICIT AUTHOR APPROVAL OF PREVIOUS RECOMMENDATION:** Adopt Candidate C standard ordinary FINISHED-item prices, anchored to **Quality V Heavy two-handed weapon / Full Heavy armor = 960 Gems**, **Light weapon = 80% of standard Medium one-handed weapon** (20% discount), and **Full / Standard / Partial armor PRICE = 100% / 75% / 50%** of Full at corresponding protective class and Quality. Quality I–V price doubling remains. These figures include ordinary finished workmanship and shape; do NOT add a separate Quality cost, automatically grant installed enchantments, or declare a character level gate.
 
