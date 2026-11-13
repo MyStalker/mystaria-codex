@@ -1,3 +1,11 @@
+## November 13, 2026 — Combat Speed = SPD + 25% DEX APPROVED (LATEST)
+
+**Ordinary accuracy/evasion rule:** **Combat Speed = effective SPD + effective DEX/4**; apply worn armor's **existing SPD modifier to the combined value**; compare defender/attacker Combat Speed on the existing six-category hit-difficulty/evasion ladder. No extra DEX shift caps, extreme-category exceptions, prediction tests or new hit odds. **Actual movement SPD and SPD-based initiative remain unchanged.** Standard STR damage, END/AR protection, stat prerequisites, equipment movement burdens, Pressure and other combat rules continue. Routine player-stated DEX movement prediction bookkeeping is set aside in favor of the single derived value, without removing Shimmer Guard's separate visual-aid feature. Full operative rule: [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md); [Shimmer](01_World_and_Shimmer.md); [Equipment mobility](09_Equipment_and_Economy.md); [Changelog](10_Canon_Changelog.md).
+
+**Recommended NEXT high-priority equipment step, NOT new canon prices:** Calibrate actual finished **Light/Medium/Heavy armor Gem prices across Qualities I–V**, material-neutral for matching design/class/coverage/Quality under the approved economic doctrine, and assess coverage options/affordability against W100=3,200 and eleven equipped slots. The QV Full Heavy 640-Gem example remains just a test reference; previously superseded material-specific prices are not operative. Magical ammo and portable forge/Cogloom details stay in the low-priority equipment backlog.
+
+---
+
 ## November 12, 2026 — Three-assistant efficiency ceiling settled; LOW-PRIORITY equipment backlog established (LATEST)
 
 **LATEST AUTHOR APPROVAL:** Smithcraft helper time reduction is **one qualifying Anvilcant assistant −25%, two −33%, three or more −50%**. The maximum **50%** is hard-capped once three assistants participate; adding four or more never gives an additional crafting benefit. Keep highest reduction only, never stack. Full operative clock: [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md).

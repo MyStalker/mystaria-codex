@@ -1,3 +1,13 @@
+## November 13, 2026 — Quarter-DEX Combat Speed for ordinary hit/evasion APPROVED (LATEST)
+
+**Latest explicit author approval:** After evaluating 25% and 33⅓% DEX contributions directly, author approves the simple **25% DEX** approach. **Combat Speed = effective SPD + effective DEX/4**; the armor's **existing inherent SPD percentage applies to the entire combined Combat Speed**. Ordinary defender/attacker Combat Speed determines the existing six-category hit/evasion difficulty. This replaces older SPD-only accuracy/evasion ratio without changing the thresholds. The prior suggestion of a separate per-exchange one-category limit, special endpoint cap, or extra DEX comparison was NOT selected and remains **unapproved**. No new hit percentages or win guarantees.
+
+**Scope/supersession:** Routine DEX declared-movement predictions and associated 75%/200% opponent-SPD threshold bookkeeping are set aside as regular accuracy/evasion modifiers; do not add both old prediction bonuses and the newly approved Combat Speed benefit. Keep independently approved narrative Shimmer Guard/path imagery intact. **Actual movement and initiative still use effective SPD**; ordinary speed-based reach, armor burden, weapon Fs/Power, AR, racial progression, Pressure, Aim, Guard, equipment access, injury thresholds and item prices remain unchanged. This is a conservative combat advantage to be evaluated with STR's raw offensive/armored durability roles, not a universal result guarantee.
+
+**Changed files:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `01_World_and_Shimmer.md`, `09_Equipment_and_Economy.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`. **Next equipment recommendation, not pricing canon:** calibrate ordinary material-neutral finished armor prices by class/Quality/coverage; earlier 640-Gem QV Full Heavy and all material-surcharge tariffs are NOT approved shop prices. Specialized magical-ammo, forge-utility and unusual-crafting decisions remain low priority.
+
+---
+
 ## November 12, 2026 — More-than-three assistant cap APPROVED; remaining craft details and magical ammo LOW PRIORITY (LATEST)
 
 **Latest explicit author decision:** **More than three qualified Anvilcant assistants never grant further forging efficiency**. Three, four, or any larger number grant the same **maximum 50% crafting-worktime reduction**; one gives 25%, two give 33%; apply the single highest approved reduction only, never stack. This is an approved operative cap and supersedes the earlier “beyond three unresolved” language, not approval for extra workers to multiply output automatically.

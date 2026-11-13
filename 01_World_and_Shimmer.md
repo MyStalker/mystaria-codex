@@ -1,3 +1,9 @@
+## November 13, 2026 — Derived Combat Speed includes 25% DEX (APPROVED)
+
+For ordinary combat accuracy and evasion, **Combat Speed = effective SPD + effective DEX / 4**, with the armor's existing SPD percentage applied to the combined result. Compare **defender / attacker Combat Speed** using the unchanged six-category hit/evasion ladder. This is a derived combat comparison value only: actual movement SPD, speed-based initiative, primary-stat weapon Power, progression, armor AR, item requirements and all other base attributes do not change. Routine player-declared prediction bookkeeping is set aside rather than stacking extra DEX bonuses. See `22_Combat_Endurance_and_Shimmer_Guard.md` for the authoritative procedure and supersession of SPD-only historical ratios.
+
+---
+
 ## November 12, 2026 — New hero wealth progression and whole-Gem/Glint denomination (LATEST AUTHOR APPROVED ECONOMIC DIRECTION)
 
 **The previous W(L)=3+3997((L−1)/99)^2.3 and W100=4,000 Gems are SUPERSEDED** by the author-selected **tenfold repricing of the newer, 320-Gem level-100 proposal**, making the new working W100 **3,200 Gems**, NOT 40,000. Tier-milestone wealth I–V at levels **10/25/50/75/100 = 200/400/800/1600/3200 Gems**; ordinary primary-item planned cost is 30%: **60/120/240/480/960 Gems**. Level-1 starting portfolio target is **30 Gems**. Use the piecewise level-1/10/25/50/75/100 progression in `09_Equipment_and_Economy.md`; do not reuse the former power-law wealth curve for current Gem rewards. **About 30% of lifetime earned Gems** is still earmarked for consumables, actual Gem-Shop-sold items qualify for **50%** original-price buyback, and hypothetical lifetime endgame gross earnings are **about 6,714 Gems** with **1,500 Gems** of reference resale losses and **2,014 Gems** of lifetime consumable spending.

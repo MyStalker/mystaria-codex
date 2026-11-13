@@ -1,3 +1,25 @@
+## November 13, 2026 — Ordinary combat accuracy/evasion uses 25% DEX Combat Speed (APPROVED; LATEST)
+
+**Latest author-approved rework:** For ordinary hit/evasion comparisons, **each point of effective DEX contributes one-quarter as much as effective SPD**. The simple rule replaces the older SPD-only comparison while retaining the same six-category ladder:
+
+```text
+Combat Speed before armor = effective SPD + effective DEX / 4
+Combat Speed after armor  = (effective SPD + effective DEX / 4) × existing armor SPD modifier
+Evasion Ratio             = defender current Combat Speed / attacker current Combat Speed
+```
+
+Apply any legitimate current wound and equipment-shortfall speed restrictions in accordance with their already approved source procedures, without double counting. Armor's inherent negative or positive SPD percentage affects the **entire combined Combat Speed**, so investing in DEX does not evade armor's burden. Preserve fractional effective Shimmer attributes; no newly imposed rounding or separate arithmetic at each attack, since a character's Combat Speed may be shown as a prepared sheet value.
+
+**Use the original six-category thresholds unchanged** (Certain for ratio <0.50; Easy 0.50–<0.80; Average 0.80–<1.25; Hard 1.25–<1.50; Very Hard 1.50–<3.00; Impossible >=3.00). A Very Hard/Impossible direct attack can still be changed by real existing Pressure, Trapped, geometry, Aim, cover and legal tactical conditions. **No additional DEX category-shift cap, endpoint immunity, special duel condition, accuracy percentage, hit roll, action or resource was approved**; those were rejected more-complicated prior trial suggestions.
+
+**Limited scope:** The derived value is for **ordinary attack accuracy and evasion**, not actual walking/running/sprinting/dashing SPD, movement distances, acceleration, weapon Power, physical Defense or armor AR, attribute requirements, extra attacks, casting, or automatic Pressure. **Initiative remains on current effective SPD**, as already explicitly approved. Similarly, actual-SPD-based reach control or physical movement rules remain in force under their owning provisions. This change leaves previously established material/Quality armor SPD percentages and weapon F unchanged.
+
+**Routine prediction bookkeeping set aside:** Do not require declarations of a predicted move, opponent-DEX-versus-SPD 75% qualification, wrong-prediction 200% exception or an extra prediction-based category shift in every ordinary combat exchange. DEX's routine hit/evasion reward is now included in Combat Speed. Historical narrative predictions and Shimmer Guard's distinct conditional visual-aid feature are not eliminated as story elements or independently approved special abilities, but do not grant a second universal DEX modifier.
+
+**Precedence:** This November 13 ruling supersedes the legacy Evasion Ratio = (defender SPD + 10)/(attacker SPD + 10) from before the global attribute rebase **and** the November 5 SPD-only ratio for ordinary hit/evasion. Do not add a combat-only +10 to already-rebased Shimmer attributes. The user's expected specialization goals remain **design intentions**, not a new deterministic hit rate or guaranteed fight outcome.
+
+---
+
 ## November 12, 2026 — Heavy melee Moderate B handling minimums APPROVED; STR-first Slashing philosophy tested (NO FORMULA CHANGE)
 
 **LATEST AUTHOR APPROVAL:** The exact **Moderate B** Heavy QI Boughsteel **effective-stat** minimums are approved as listed in `25_Melee_Weapon_Catalogue_DRAFT.md` (Greatsword STR23/DEX15; Zweihander25/16; Greataxe24; Maul24; Great hammer25; Poleaxe22/15; Halberd22/15; Glaive21/14; Pike20/14; Long spear STR16 OR DEX16 with DEX-mode Support STR8; Lance24; Heavy flail25). These replace earlier lower November6 **Heavy-only** test minima and later higher unapproved candidates for real Heavy weapon qualification. They are **not character level gates**. Keep applicable separate material/Quality handling, legal accessory bonuses, Both requires both gates, Either DEX-mode Support STR, and no special DEX gate on pure STR melee weapons. Light/Medium replacement numeric minima are still a **working test baseline** not explicitly finalized by this Heavy-only approval.
@@ -672,7 +694,9 @@ This terminology clarification supersedes uses of “attack rating,” “effect
 - Different combat circumstances are the principal counter to superior Speed: **area attacks, multiple coordinated enemies, constraints on escape paths, terrain and setup**; even extraordinary Speed does not guarantee absolute immunity in all situations. Extreme disparity may make a direct ordinary attack impossible in the *current circumstances* until the attacker changes those circumstances. Armor **directly penalizes SPD**, but numerical values and equipment-quality scaling remain an **UNFINISHED PROPOSAL**, coordinated with Centaur crafting.
 - The design benchmark is that, against **one ordinary melee opponent in open conditions**, equal extra-stat investment in SPD versus END should yield **roughly comparable overall injury avoidance/mitigation**. END should be more consistent across multiple smaller attacks and area exposure; SPD should be strongest at evading individual dangerous hits. This is a balance goal, not an approved probability system.
 
-### Approved baseline Evasion Ratio and difficulty ladder
+### Historical SPD-only evasion calculation (ratio superseded November 13; six difficulty categories retained)
+
+**For current ordinary attack accuracy/evasion use Combat Speed = effective SPD + DEX/4, adjusted by existing armor SPD modifiers.** The original numeric difficulty bands below remain operative. The older +10 SPD-only ratio immediately below is historical.
 
 The ratio compares defender and attacker **effective SPD**, using the combat-only offset; actual ability to dodge additionally depends on situation and the attack's nature.
 

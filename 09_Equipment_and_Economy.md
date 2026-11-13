@@ -1,3 +1,11 @@
+## November 13, 2026 — Approved armor interaction with 25% DEX Combat Speed; next pricing work (LATEST)
+
+**Approved cross-reference (full rule in `22_Combat_Endurance_and_Shimmer_Guard.md`):** For ordinary attack accuracy and evasion use **Combat Speed = effective SPD + effective DEX / 4**, then apply the **existing armor SPD percentage to the combined value**. Armor's existing movement burden is not reduced or bypassed for high DEX. No additional category-shift caps, endpoint protections, routine prediction contest, new weapon Power, armor AR, or other numeric change.
+
+**Recommended NEXT equipment work, NOT an approved new price chart:** Establish standard **finished ordinary armor Gem prices** for Light, Medium, Heavy and Qualities I–V, with coverage and construction constraints, then check against the 11-slot loadout plan, W100=3,200 Gems, and existing Primary Item affordability. Follow the approved **material-neutral divine Gem valuation** for equal form/class/coverage/Quality, preserving special nonprice access restrictions. The earlier material-dependent price tables are superseded; the illustrative **640-Gem Full Heavy QV** reference is **NOT an approved vendor price**. Preserve existing Junk equipment's half-matching-QI tariff, the separate enchanted-primary ≈2× target, and specialized-engineering pricing exceptions. Magical Portable Forge/Cogloom specifications, exotic ammo, unusual crafting time and installation details remain in the author's **LOW-PRIORITY EQUIPMENT DECISIONS** bucket.
+
+---
+
 ## November 12, 2026 — Low-priority equipment decisions bucket and assistant cap (LATEST AUTHOR APPROVAL)
 
 **Approved production cap:** **Three or more Anvilcant-qualified assistants grant exactly the existing maximum 50% reduction** to baseline crafting work-hours. Adding a fourth, fifth, or further assistant gives **NO additional crafting-time benefit**. The approved one/two/three-or-more discounts remain **25% / 33% / 50%**, with only the highest applicable reduction, never combined. No changes to baseline forging time, END daily workday schedule, or other equipment mechanics.
