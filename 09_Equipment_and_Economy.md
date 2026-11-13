@@ -1,3 +1,15 @@
+## November 13, 2026 — Approved shield numeric equipment profiles, continuing unchanged Gem pricing (LATEST)
+
+**Approved physical shield equipment profile:** [Physical Shield Profiles](29_Physical_Shield_Profiles.md) now owns the Quality I–V Boughsteel shield Ratings (Light **18/32/53/78/105**, Medium **24/43/71/104/140**, Heavy **31/55/90/135/180**), material Rating/support-STR multipliers, exact minimum STR/DEX gates Light QI **10/12**, Medium **27/14**, Heavy **62/16**, numerical obstruction **Guard +0/+1/+1**, shield `D=Rating²` and physical shield-contact three-loss thresholds at `D,2D,3D`. Shield Rating is NOT additional body armor. Handle Quality discount, material STR factor and Equipment Load Synergy once with final STR ceiling; DEX receives Quality discount only with final ceiling. Inherent shield SPD remains **0%**, although legitimate STR/DEX equipment shortfall continues to affect actual SPD.
+
+**Explicit PRICE preservation:** Light shield is **HALF Medium shield** at matching Quality; Medium and Heavy cost the same. QI–QV Light **15/30/60/120/240 Gems**; Medium **30/60/120/240/480**; Heavy **30/60/120/240/480**. Armor, weapons, enchantment and extraordinary physical engineering tariffs are not repriced. Body-contact Guardian and shield Double Strike eligibility remain as in the latest approved [Combat rules](22_Combat_Endurance_and_Shimmer_Guard.md); Heavy cannot Double Strike and all can perform one ordinary `STR F1.05` shield bash.
+
+**Material shield implementation boundary:** Boughsteel is reference 1.00 Rating/1.00 support STR; Trufula 0.90/0.60; Adamantite 1.15/2.50. Report appendix includes **conditional further special-material reference factors** only where the physical construction is independently legitimate. Ceramic load-bearing face uses the newly approved **shield-specific brittleness thresholds** and original only-on-break torso overflow. Component coefficients never stack and never confer suit-only powers; pure Celestite remains QV-only subject to original divine prerequisites. **NOT YET SETTLED**: Junk shields, material crafting permission/recipes, shield-sized forge labor, repairs, targeted weak-point damage, reactive projectile timing and many elemental material-contact rules.
+
+**Superseded historical material:** The prior paragraphs describing **all numerical shield Ratings, gates, obstruction and durability bands as unapproved** are historical; this approval now resolves those specific core values. The older shield Rating candidate ladders and +1/+1/+2 obstruction proposals are not operative. Retain all approved shield Gem and combat rules unaltered.
+
+---
+
 ## November 13, 2026 — CORRECTED approved Light shield Gem tariff and zero shield intrinsic SPD burden (LATEST)
 
 **User's latest explicit price CORRECTION, overriding the earlier 150% pricing misunderstanding:** **A standard Light shield costs 50% of the matching Medium shield price, NOT +50% above it.** **Medium and Heavy shields continue to cost exactly the same**. At ordinary Qualities I–V, this is the current APPROVED shop-price relationship:
