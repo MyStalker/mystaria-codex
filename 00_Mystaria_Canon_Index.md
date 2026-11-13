@@ -1,3 +1,13 @@
+## November 12, 2026 — Forge and Shimmer follow-up corrections APPROVED (LATEST)
+
+**New author-approved supersession of earlier same-day forge ruling:** All ammunition (arrows, bolts, cartridges and other ammunition) has equal Shimmer storage footprint: **30 pieces of any ammunition type per slot**. One personal weapon per separate inventory slot remains unchanged. **Two qualified Anvilcant assistants grant a 33% crafting-time reduction**, between one assistant at 25% and three at 50%; **use only the highest applicable discount, never stack crew reductions**. **Temporary END bonuses must last throughout the entire crafting project** to affect daily allowed work hours. Base 8-hour workday and END 25-point milestones, max 16 hours/day, and baseline weapon/armor/ammunition work-hour schedules remain unchanged.
+
+**New utility pricing docket:** **Magical Portable Forge** is an approved utility item whose **price will be set alongside/reviewed with the Cogsong Command Loom ('Cogloom')**; no forge price or operation costs are yet approved. Existing Loom nominal pricing is unchanged pending review. Owners: [Shimmer inventory](01_World_and_Shimmer.md), [Anvilcant and full forge clock](07_Centaurs_and_Smithcraft.md), [equipment and utility pricing](09_Equipment_and_Economy.md); complete authorization and supersessions in [Canon Changelog](10_Canon_Changelog.md).
+
+**Open:** Forge price/capabilities, beyond-three assistant effects, exceptional crafting timing and magical installation times. Older passages claiming non-arrow ammo storage, two-assistant reduction or temporary-END eligibility unresolved are superseded.
+
+---
+
 ## November 12, 2026 — Forge-production clock and Shimmer weapon/ammo slot sizing APPROVED (LATEST)
 
 **LATEST AUTHOR APPROVAL:** One personally portable weapon occupies **one Shimmer inventory storage slot**, and approximately **30 ordinary arrows** (about thirty ordinary one-arrow attacks) fit in another; no changes to six free Shimmer slots, paid storage upgrades, or the distinct 11 equipped-gear positions. [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) owns storage details. Other ammo stack sizes and exceptional objects remain uncalibrated.

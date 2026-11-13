@@ -1,3 +1,15 @@
+## November 12, 2026 — UNIVERSAL ammunition slots, sustained END, two assistants, portable forge utility pricing APPROVED (LATEST)
+
+**Latest explicit author corrections (supersede limited points in earlier November 12 forge entry):** Every ammunition type counts as the same size in **Shimmer storage: 30 individual pieces per slot** (arrows, bolts, cartridges and other ammunition). One personal weapon remains one Shimmer storage slot. Thirty pieces are not automatically thirty attacks for volley/multiple-projectile uses; no new ammo combat mechanics or pricing is granted.
+
+**Craft scheduling:** The approved crew-time reductions are **one Anvilcant-qualified assistant = −25%**, **two = −33%**, **three = −50%**, and **ONLY THE HIGHEST applicable reduction applies**; no stacking. A 24-hour Heavy weapon takes 24/18/16.08/12 required work hours for zero/one/two/three assistants, respectively. Retain base work-hour schedules and standard 8-hour day, one additional allowed daily hour per **complete 25 qualifying END**, maximum 16. **Temporary END bonuses count only when sustained continuously for the full crafting project**; a buff lasting only part of the craft does not qualify for the extended day cap. Equipment Power, AR/MR, and Anvilcant rank requirements are unaffected.
+
+**Utility-item pricing docket:** The **Magical Portable Forge** is an approved craft-enabling utility-item listing. Price it during the eventual **Cogsong Command Loom (called 'Cogloom' by the author) pricing review**, with **no numeric forge price or activation/MP/fuel/device specifications yet approved**. The existing Loom's previously listed nominal prices are not replaced by this instruction.
+
+**Owning updates:** `01_World_and_Shimmer.md` for universal ammo capacity; `07_Centaurs_and_Smithcraft.md` for full sustained-END and crew timing, forge utility listing; `09_Equipment_and_Economy.md` for economy/utility-price docket; this changelog and `00_Mystaria_Canon_Index.md`. Earlier November 12 assertions that non-arrow storage, two-assistant timing and temporary-END eligibility were unresolved are superseded. Outstanding matters: portable forge specifications and price, any extended assistance >three, exceptional fabrication details, separate magical installation timing. No numeric changes to weapon or armor balance.
+
+---
+
 ## November 12, 2026 — Physical forge time, Anvilcant crew assistance, END workday, Shimmer weapon/arrow capacity APPROVED (LATEST)
 
 **Express author approval and new directives:** The author approves the preceding STR/STR+DEX/DEX armor-tradeoff analysis and says not to adjust the currently approved damage formula on that evidence. The author separately **approves a new concrete physical forging and Shimmer storage framework**.
