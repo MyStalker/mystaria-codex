@@ -1,3 +1,95 @@
+## November 12, 2026 — Dedicated STR vs STR+DEX vs dedicated DEX: best-legal-Slashing Power across levels 1/10/20/40/60/80/100 (LATEST TEST; NO DAMAGE RULE CHANGES)
+
+**Author's distinct latest decisions:** (1) The author **APPROVED the exact twelve Moderate B Heavy weapon minimums**, which are now in the latest operative `25_Melee_Weapon_Catalogue_DRAFT.md` register as ordinary QI Boughsteel Heavy effective-stat gates. They supersede this file's older Moderate A/B and High **PROPOSAL** labels and the November6 Heavy *test* minima. For Light and Medium, only the November6 replacement minimums remain accepted *working test baselines* (not finalized). (2) The author requested a **NEW damage comparison** of three equal-progression builds at levels **1, 10, 20, 40, 60, 80, 100**, each using the **strongest legally qualified Slashing attack**. The author's **desired general design hierarchy is STR highest by a meaningful margin, STR+DEX intermediate, DEX lowest**, with DEX compensated by ranged versatility and predicting opponents' movements. This is a requested balance goal; **NO new formula, F, penalty, SP cost or combat mode is authorized simply by requesting tests**. The author's earlier STR+DEX-top design preference is replaced as a *target*, not silently removed from historical approved formula text.
+
+### Test specification and strict scope
+
+- **Same race, same starting attributes, same +2 allocated base points per gained level, and +1 all five base attributes at L5/10/15/.../100.** No extra +10 base stat on top of approved November5 rebased stats. Apply each racial multiplier after base progression, retaining fractional effective stats. All 11 approved playable Hero references are tested including Kharak (STR22 base, DEX15 base, STR×1.25), Bloomkin (base12/18, STR×.75, DEX×1.25), Tidekin DEX×1.25, Thornguard and Vren STR×1.25, Corvyn STR×.75.
+- **STR only:** at each level gain, assign **+2 base STR** and zero discretionary DEX; **STR+DEX:** +1 base STR/+1 base DEX; **DEX only:** +2 base DEX and zero discretionary STR. Other attributes receive only the shared +1 at each fifth level. Everyone has identical total points invested. Labels describe *invested stat points*, not categorical bans on legally using another weapon's attack attribute; STR-only may wield a Both weapon if actual DEX qualifies, and DEX-only may use Both when actual STR qualifies.
+- **Common controlled equipment:** compare ordinary QI **Boughsteel** (material F×1) weapon profiles with **exactly the new author-approved Heavy Moderate B QI gates** and author-accepted November6 working Light/Medium thresholds. No extra raw F multiplied for class, form, prior greatsword ×.875 or pike ×.90; whole-item individual Fs already approved. No QI-to-Power boost, enchantment, rune, magic, natural attack, offhand extra attack, mount charge, shield, critical hit, hidden hit odds, flank bonus or action acceleration. Treat all candidate weapons as hypothetically obtainable and physically wieldable so this is **best eligible damage conditional on one successful strike**, not actual starting wealth/availability.
+- **Enumerate all lawful Slashing attacks in the shape register**: STR-led hand axe F1.05, falchion1.19, battleaxe1.20, Greataxe1.52; DEX-led sickle1.00, sabre1.15, legitimate edged rapier secondary cut1.017, dagger secondary cut0.90; Either short knife.97 and arming sword1.14; Both longsword1.10, Greatsword1.40, Zweihander1.42, Halberd1.30, Glaive1.39, and Poleaxe secondary axe face1.089 where built. Specific physical construction and coverage still matter in real scenes. Best legal Power is chosen via actual A, never just the largest F: STR A=effective STR; DEX A=effective DEX; Either A=max(legally allowed STR or legal DEX mode with required Support STR); Both **A=.65(STR+DEX)** when both current gates are met.
+- **Power formula:** `(A×whole-item primary/real secondary F)^2`. All Slashing has **0% covered-AR bypass**, so against the SAME opponent with the SAME covered AR and END the ranking of raw Power equals ranking of conditional landed-hit **Impact**. The actual number of injury stages depends on opponent Defense and fixed stage boundaries. **No real damage-per-second, hit probability, or win rate** is supported by canon. Open-ground single-opponent measurement; actual legal swing clearance, attack action count, group coverage and enemy reach can change practical performance.
+
+### Core Thornguard result: ranks according to author's preference (except unavoidable L1 tie)
+
+| Level | Dedicated STR best Slashing raw Power / weapon | STR+DEX best / weapon | Dedicated DEX best / weapon | Rank |
+|---:|---|---|---|---|
+| 1 | **1,088** Glaive | **1,088** Glaive | **1,088** Glaive | all tied (no discretionary allocation yet) |
+| 10 | **5,213** Greataxe | **3,196** Zweihander | **2,966** Zweihander | STR > Both > DEX |
+| 20 | **12,996** Greataxe | **6,635** Zweihander | **5,940** Zweihander | STR > Both > DEX |
+| 40 | **39,046** Greataxe | **17,239** Zweihander | **14,957** Zweihander | STR > Both > DEX |
+| 60 | **79,073** Greataxe | **32,811** Zweihander | **28,064** Zweihander | STR > Both > DEX |
+| 80 | **133,079** Greataxe | **53,352** Zweihander | **46,742** Sabre | STR > Both > DEX |
+| 100 | **201,063** Greataxe | **78,861** Zweihander | **71,182** Sabre | STR > Both > DEX |
+
+At L100 Thornguard STR has about **155% MORE raw Power than hybrid**, whereas hybrid is only **10.8% above DEX**. This is STR-dominant but may be wider than the author's desired relative margin; no numeric permissible target percentage was given and none is inferred. At L20 against the established **END43, QII Medium Boughsteel AR52** covered-defense reference (denominator `43²+52²=4553`), the above same-form Slash Powers yield **Impact2.854 (STR, stage2)**, **1.457 (hybrid, stage1)** and **1.305 (DEX, stage1)**. These are guaranteed **only if a real Slashing hit lands** and the same covered body part is used; no invented wound-form multiplier.
+
+### Important neutral-stat reference: Drider has no STR/DEX racial multiplier
+
+| Level | STR best raw Power / weapon | STR+DEX best | DEX best | Rank |
+|---:|---|---|---|---|
+| 1 | 738 Longsword | 738 Longsword | 738 Longsword | tied |
+| 10 | **3,514** Greataxe | 3,067 Zweihander | 2,939 Glaive | STR > Both > DEX |
+| 20 | **8,597** Greataxe | 6,011 Zweihander | 5,843 Greatsword | STR > Both > DEX |
+| 40 | **25,472** Greataxe | 14,844 Zweihander | **14,844** Zweihander | STR > Both = DEX |
+| 60 | **51,293** Greataxe | 27,602 Zweihander | **29,361** Sabre | STR > DEX > Both |
+| 80 | **86,060** Greataxe | 44,287 Zweihander | **49,262** Sabre | STR > DEX > Both |
+| 100 | **129,773** Greataxe | 64,897 Zweihander | **74,284** Sabre | STR > DEX > Both |
+
+**Structural explanation:** Current approved Both `A=0.65(STR+DEX)` depends on the **SUM only**, not how much is invested in each attribute. At Drider L40, balanced base effective STR66/DEX66 and DEX-specialist STR27/DEX105 have the SAME sum132 and already meet Zweihander STR25/DEX16, so they get the SAME A85.8 and F1.42 and the same rounded Power14,844. At L100 hybrid Drider STR138/DEX138 gives Both A179.4 and Zweihander ~64,897, but dedicated DEX Drider STR39/DEX237 can choose Sabre `(237×1.15)^2≈74,284`. Hence an unfixed problem emerges in the general formula/role tradeoff, not just an underpowered named sword.
+
+### Complete eleven-race ranking summary using fixed QI Boughsteel
+
+| Level | STRICT STR > STR+DEX > DEX (races out of 11) | STR strongest | DEX exceeds Hybrid | Key exception |
+|---:|---:|---:|---:|---|
+| 1 | **0** (all same initial allocation) | **0 uniquely**; all tied | 0 | same race starts with identical stats |
+| 10 | **8/11** | **8/11** | **2/11** | Bloomkin, Corvyn; Tidekin hybrid tops STR |
+| 20 | **8/11** | **8/11** | **3/11** | Bloomkin, Tidekin, Corvyn |
+| 40 | **3/11** | **9/11** | **7/11** | most DEX routes catch/surpass hybrids |
+| 60 | **3/11** | **9/11** | **8/11** | DEX racial and high-level Sabre |
+| 80 | **3/11** | **9/11** | **8/11** | same |
+| 100 | **3/11** | **9/11** | **8/11** | STR loses first rank to DEX for Bloomkin/Corvyn |
+
+**Level100 exhaustive race detail, each cell rounded raw single Slashing Power (best legal weapon):**
+
+| Race | STR | STR+DEX | DEX | Descending ranking |
+|---|---:|---:|---:|---|
+| Moontouched | 121,160 Greataxe | 60,279 Zweihander | 73,035 Sabre | STR > DEX > hybrid |
+| Bloomkin | 68,749 Greataxe | 61,876 Zweihander | 115,091 Sabre | **DEX > STR > hybrid** |
+| Thornguard | 201,063 Greataxe | 78,861 Zweihander | 71,182 Sabre | STR > hybrid > DEX |
+| Tidekin | 125,429 Greataxe | 80,032 Zweihander | 116,068 Sabre | STR > DEX > hybrid |
+| Duskpaws | 123,285 Greataxe | 62,567 Zweihander | 74,912 Sabre | STR > DEX > hybrid |
+| Naga | 127,592 Greataxe | 62,567 Zweihander | 72,415 Sabre | STR > DEX > hybrid |
+| Vren | 201,063 Greataxe | 80,949 Zweihander | 73,658 Sabre | STR > hybrid > DEX |
+| Corvyn | 69,348 Greataxe | 46,648 Zweihander | 72,415 Sabre | **DEX > STR > hybrid** |
+| Drider | 129,773 Greataxe | 64,897 Zweihander | 74,284 Sabre | STR > DEX > hybrid |
+| Untouched Serpentari | 127,592 Greataxe | 62,567 Zweihander | 72,415 Sabre | STR > DEX > hybrid |
+| Kharak | 207,936 Greataxe | 82,002 Zweihander | 71,797 Sabre | STR > hybrid > DEX |
+
+At L100, across the eleven races the **median** raw Slashing Power of the three matched build series is STR **~127,592**, DEX **~73,035**, hybrid **~62,567**. Median is only an illustrative summary of equal-weight race references, NOT an expected live campaign encounter mix, selection probability or universal claim. On a per-race basis, median STR/hybrid Power ratio is **~2.01**, while median hybrid/DEX is **~0.864**. Thus current **aggregate empirical ordering among tested races is STR > DEX > Hybrid**, **not the desired STR > Hybrid > DEX**, by the later checkpoints.
+
+**Race caveat:** Bloomkin specifically has **STR−25% and DEX+25%**, Corvyn has STR−25%, Tidekin has DEX+25%. An absolute rule forcing all races into STR-superiority would erase meaningful racial strengths and demand sweeping Power/weapon changes; the author must decide whether the target is a **general preference across typical starting races** or an ironclad universal claim for all racial stat modifiers. The test DOES NOT imply a Bloomkin STR build is poorly played or that a chosen racial penalty should be abolished.
+
+### Explicit material/quality sensitivity (NOT actual market guarantee)
+
+A second hypothetical late-game check permits both Boughsteel QI and QV Adamantite weapons where **actually stat eligible** and applies approved material factors **Heavy F×1.25, Medium F×1.20, Light F×1.15** only once; QV workmanship test minima factor×.80 (including DEX and STR), Adamantite STR/support factor×2.50, final item prerequisite ceiled once. Actual Smithcraft, Gems, availability, attachment, aesthetics, soul cost and loot constraints are outside this controlled hypothetical. L100: strict ranking still matches only **3/11 races**, STR leads **10/11**, and DEX exceeds hybrid in **8/11**. E.g. neutral Drider best Power STR Greataxe QV Adamantite **202,770**, hybrid Zweihander **101,401**, DEX Sabre **106,968**. Heavier material and higher Quality *alone* therefore do **NOT** remove the high-level hybrid-vs-DEX problem, though particular gates and smaller early samples differ.
+
+### Battlefield qualification: crowd output can differ
+
+The preceding lists are **single-target** best legal hit Power. In an actual open arc with sufficient Wide Sweep clearance, Greataxe (STR) and Zweihander (hybrid) can potentially affect **up to 3** forward 180-degree-arc targets, whereas the Sabre (DEX) Sweep can potentially affect **up to 2**. For abstract squad resolution only, three genuinely threatened members allow **×2.0 aggregate Power**, two genuinely threatened ×1.5, not new per-target Power. At Drider L100, assuming all those full target slots are genuinely eligible, squad *aggregate* raw reference becomes STR **~259,546**, hybrid **~129,794**, DEX **~111,426**, now following the author's preferred order. This is **not** an automatic hit, line through a shield/body, extra attacks, or valid in narrow corridors; cramped geometry can favor short and Medium weapons or invalidate Wide Sweep altogether. The ranked single-target gap remains.
+
+### Recommendations and proposal-only follow-on tests (no authorization to change mechanics yet)
+
+1. **No immediate individual F rerating and no immediate global hit/damage changes.** The user's newly approved Moderate B gates are operative and the weapon roster still holds. The preferred ranking **currently holds in 3/11 races by level100 for single-target Slashing**, so further targeted adjustment is justified, but avoid reversing approved F ratings solely from one encounter or overlooking racial specialties. All attacks still governed by legal material and actual clearance.
+2. **Prioritize a balance-aware Both-stat formula test**, rather than reflexively nerfing Sabre F1.15 or buffing Zweihander F1.42. One **UNAPPROVED illustrative calibration** for future tests is `A_proposed=0.85×effective STR+0.65×effective DEX` for lawful Both attacks, compared against canon `0.65×(STR+DEX)`. Keeping all existing weapon Fs but using that *hypothetical altered formula*, the strict desired ordering in the **66 race×level states from levels10–100** increases from **28/66 to 51/66**, and STR leads from **52/66 to 55/66**. But this greatly raises attack Power for Both-stat users and **invalidates previously tuned greatsword/pike/armor Impact benchmarks**. In the L20 Thornguard balanced STR51.25/DEX37 QII Medium AR52 vs END43 reference, Greatsword Point Impact would rise approximately **1.635→2.27**, abandoning the earlier author target ~1.6; thus **DO NOT adopt this proposed formula without jointly recalibrating the Both-weapon Fs and the form comparisons**. It also does not eliminate intended racial exceptions Bloomkin/Corvyn. Its useful feature is that for fixed STR+DEX sum, more STR raises Both Power, unlike the current invariant sum formula. Other less intrusive nonlinear ratio/technique candidates may be explored later, but no coefficient is approved.
+3. **Nerfing only DEX Sabre is insufficient**: when DEX-only meets Both weapon STR gates via automatic every-fifth-level +1 increases, it can choose the same Both weapon at the same overall attribute sum, giving equal Power at sufficiently high levels; e.g. Drider L40 matched STR+DEX and DEX-only Zweihander Powers are both 14,844. STR-weighted or genuine balanced-stat specialization would need a new, explicitly approved game mechanic to distinguish two legal users of that same sword. Avoid nerfing the DEX player's only main Slashing family while promising ranged/prediction strengths that lack a quantitative exchange rate.
+4. **Choose the intended scope of the philosophy before rebalancing**: either STR > hybrid > DEX is a **statistical norm for neutral/general races with meaningful exceptions** (my preferred framing), or a universal rank even with a permanent DEX×1.25/STR×.75 race. The latter would demand much larger changes and might violate established racial identity. Keep distinct ordinary Slashing damage and long/short-range versatility, actual tactical access, area coverage and movement prediction. DEX prediction and ranged roles can remain qualitatively desirable without inventing new numerical accuracy/win chances.
+5. **Future staged test** (only after author chooses direction): trial balance-aware Both formulations and compensating per-weapon complete Fs together; verify Greatsword Point target ~1.6 and dedicated pike edge, STR Greataxe margin, Dex Sabre niche, Heavy weapon stat gates, Boughsteel/Trufula/Adamantite, Light/Medium/Heavy armor QI–V, stages and real terrain. No source supports an actual DPS probability or hit-success percentage until formal resolution is approved.
+
+**CANON/PENDING:** Heavy Moderate B numeric stat gates **approved** and committed; primary F/secondary multipliers unchanged; author's changed damage-ranking philosophy recorded as an **intended balancing goal**. STR-only/STR+DEX/DEX-only results and example 0.85/0.65 alternative are **TESTS AND PROPOSALS ONLY**, not approved combat rules, material multipliers, stat scaling changes, attack accuracies, damage multipliers, level gates or weapon bonuses. Historical November12 earlier test comparisons beneath remain preserved but superseded on Moderate B's prior unapproved status.
+
+---
+
 ## November 12, 2026 — Moderate Heavy-weapon prerequisite candidates A/B retested across all eleven Hero races (EXPLORATORY; NO NEW GATES APPROVED)
 
 **Author approval is approval of the WORK PLAN only, not of these numerical prerequisite proposals.** The author asked to continue a measured middle ground after already approving all 31 individual primary F ratings and the existing legal secondary F values. We therefore test a *more accessible* Moderate A and a *more selective* Moderate B against (i) the November6 author-approved **working minimum test baselines** and (ii) the deliberately strict earlier **High proposal**. **Recommended for the author's future explicit decision: Moderate B.** It keeps at least one starting Heavy form for all eleven documented Hero races while making large high-output shapes a meaningful investment; no new universal item-level locks, level gates, power figures, or secondary attack factors are proposed. The author has not yet seen or approved either Moderate A or B's numerical table.
