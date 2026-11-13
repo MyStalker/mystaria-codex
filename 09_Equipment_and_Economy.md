@@ -1,3 +1,55 @@
+## November 13, 2026 — Weapon, shield and armor price parity philosophy APPROVED; numerical ladder under author review (LATEST)
+
+### Author-approved relative finished-equipment price doctrine
+
+The author's newest explicit instruction establishes the following **RELATIVE PRICE RELATIONSHIPS** for standard ordinary finished equipment, above earlier slot-*priority*-dependent pricing examples where those earlier illustrative allocations would contradict the new price doctrine:
+
+1. **Two-handed weapon = two comparable one-handed weapons in Gem value**, at the same workmanship Quality and comparable standard construction/weapon category. This is an **item-design** price rule: using a lawful alternate grip or being strong enough to wield a normally two-handed shape with one hand does **not** halve its original sale price or change its designed construction.
+2. **Light weapons are only modestly cheaper than normal one-handed weapons**. The author has approved the small-discount **direction**, **NOT a specific percentage**. A proposed **20%** discount, i.e. Light weapon = 0.8 × standard Medium one-handed weapon, is shown solely for further author review.
+3. **Shields cost as much as comparable weapons**, class/Quality/design matched as applicable; do not make a shield automatically cheaper just because it is offhand equipment. Where the shield family uses Light/Medium/Heavy construction tiers, the planned comparison is Light shield ↔ Light weapon, Medium shield ↔ standard Medium one-handed weapon, Heavy shield ↔ standard Heavy two-handed weapon. These correspondence examples are **pricing comparisons**, NOT invention of new shield AR, requirements, coverage, shield hands, or a published completed shield product.
+4. **Light armor = Light weapon price; Medium armor = Medium weapon price; Heavy armor = Heavy weapon price**, for the corresponding normal completed construction and workmanship Quality. The initial numerical proposal below uses a **Full-coverage normal suit** as the reference armor product, with the Medium comparison anchored to an ordinary Medium one-handed weapon and Heavy to an ordinary Heavy two-handed weapon. Partial/Standard coverage and unusually distinct engineering must be priced separately on genuine scope, not assumed to be the same amount of material and workmanship as Full. **The precise Partial/Standard coverage discounts remain UNAPPROVED**, and the user has not approved any single numeric Full-suit cost merely by specifying class-price equality.
+
+**Existing authoritative constraints:** Use the author's latest **material-neutral divine-Gem price doctrine**: at matching finished design, class, coverage, Quality, and enchantment installation, Boughsteel, Adamantite, Trufula and other allowed materials do NOT receive arbitrary material surcharges. Real material availability, mechanical stat minima, mobility, extraordinary Celestite forging prerequisites, independently different multi-component/engineered designs and legal enchantment costs remain distinct. The user's existing Quality I–V ~2× per tier general price progression and W100=3,200 finished-equipment target remain in force. **Primary Item is a personal budget priority, not a markup** for calling an object one's primary; the previous 960/640/320 slots were illustrative spending targets, not mandatory different prices for physically identical items based on position. Actual weapon shape/handedness, bow engineering and shield construction follow their own owner rules; this pricing direction cannot rewrite an item into a different combat class.
+
+### EXPLORATORY GEM AMOUNTS, NOT APPROVED RETAIL PRICES
+
+Three possible Quality V full-class anchors all respect the approved two-handed 2× and armor/weapon/shield parity. The exact Light discount is **PROPOSED 20%**, not ratified.
+
+| Numerical candidate | QV Light weapon / Full Light armor | QV Medium one-hand / Full Medium armor | QV Heavy two-hand / Full Heavy armor | Heavy suit + Heavy two-hand + 1,120-Gem illustrative accessories | Remainder of W100 3,200 |
+|---|---:|---:|---:|---:|---:|
+| A — Affordable | 256 | 320 | 640 | 2,400 | 800 |
+| B — Middle | 320 | 400 | 800 | 2,720 | 480 |
+| **C — Recommended for approval** | **384** | **480** | **960** | **3,040** | **160** |
+
+**Candidate C proposed full finished-item price chart:**
+
+| Quality | Light weapon / Full Light armor / Light shield | Medium one-handed weapon / Full Medium armor / Medium shield | Heavy two-handed weapon / Full Heavy armor / Heavy shield |
+|---|---:|---:|---:|
+| I | 24 | 30 | 60 |
+| II | 48 | 60 | 120 |
+| III | 96 | 120 | 240 |
+| IV | 192 | 240 | 480 |
+| V | 384 | 480 | 960 |
+
+**These prices are not canon** until specifically approved. A genuine **Medium-class two-handed** weapon, where that native construction is established, is priced at **two matching Medium one-handed baseline weapons** under the approved two-hand rule; the final per-shape pricing catalogue must resolve which actual item designs qualify, without automatically changing attack class or legal grips. Any Heavy-class special weapon with exceptional grip handling remains its built/design class for pricing unless a separate actual lighter item design is defined. Shield parity is about actual shield design class; shield gear slots and innate combat defenses do not change.
+
+**Unapproved coverage modeling option:** Full coverage 100% of the corresponding armor reference, Standard 75%, Partial 50% of the Full Gem price, reflecting less physical construction. At proposed QV candidate C this would be Light 384/288/192, Medium 480/360/240, Heavy 960/720/480 Gems (Full/Standard/Partial). These percentages are an **independent trial pricing choice**, NOT the already-approved 100%/80%/60% armor-mobility-burden percentages, not a change to on-covered-surface AR, and NOT a new numeric coverage canon rule. Other full/standard/partial price bands could be chosen separately.
+
+### Quality-by-quality affordability stress test for candidate C (NOT CANON)
+
+Keep existing author-approved **W10=200, W25=400, W50=800, W75=1,600, W100=3,200 Gems** illustrative wealth checkpoints. In the existing noncanon allocation for 8 nonweapon/nonarmor accessory positions, QV Neck 240 + Waist 240 + Ring 1 320, and QIII Head 60 + Arms 60 + Hands 60 + Feet 70 + Ring 2 70 = **1,120 Gems**; total does not automatically grant enchantments or magic features.
+
+- At level100, **Full Heavy armor960 + QV Medium one-handed weapon480 + QV Medium shield480 + accessories1,120 = 3,040 Gems**, **160 Gems unspent**. Six Quality V items (armor, one-hand, shield, neck, waist, first ring) plus five Quality III accessories remain within the intended eleven-slot build.
+- A Full Heavy armor960 + QV Heavy two-handed weapon960 + the same accessories1,120 also totals **3,040** but the offhand is not actively available. Adding a legal **stowed** QIII Medium backup weapon120 brings that value to **3,160**, leaving 40; upgrading the backup to QV480 would total **3,520**, exceeding the 3,200 reference by 320 unless other purchases are sacrificed. Do NOT portray a two-handed weapon and an simultaneously active physical shield as a valid paired build.
+- **Full Medium armor480 + QV Medium one-hand480 + QV Medium shield480 + accessories1,120 = 2,560**, preserving 640 for higher Quality, magical installation or other legitimate upgrades.
+- **Full Light armor384 + QV Medium one-hand480 + QV Light shield384 + accessories1,120 = 2,368**, preserving 832, with no gratis defense bonus or physical armor stacking.
+- **Full Heavy armor960 + QV Medium one-hand480 + QV Heavy shield960 + accessories1,120 = 3,520**, **320 over budget**. A large shield plus maximal armor is a distinct specialization tradeoff.
+- Using the same higher-tier neck/waist/ring and lower-tier five accessory examples at earlier wealth checkpoints, a Heavy armor + matching two-handed weapon + supportive items would cost **250 versus W10=200 (50 over); 420 vs W25=400 (20 over); 760 vs W50=800 (40 remaining); 1,520 vs W75=1,600 (80 remaining); 3,040 vs W100=3,200 (160 remaining)**. Early incomplete/older supporting equipment is consistent with previous intended progression; this is a budgeting scenario, not guaranteed standard vendor inventory or approved magic effects.
+
+**Author approval still needed:** Choose/adjust candidate A/B/C full-class Gem anchors, the precise modest Light discount (proposed 20%), and Standard/Partial coverage price relationship. A user approving the relative philosophy does NOT by itself approve candidate C. Existing advanced bow prices and engineered-composite pricing require separate reconciliation with final accepted baseline; the old draft High-draw/Titan/Colossal/Greatbow figures are not automatically changed. Preserve low-priority magical ammo and portable forge economics as previously classified.
+
+---
+
 ## November 13, 2026 — Approved armor interaction with 25% DEX Combat Speed; next pricing work (LATEST)
 
 **Approved cross-reference (full rule in `22_Combat_Endurance_and_Shimmer_Guard.md`):** For ordinary attack accuracy and evasion use **Combat Speed = effective SPD + effective DEX / 4**, then apply the **existing armor SPD percentage to the combined value**. Armor's existing movement burden is not reduced or bypassed for high DEX. No additional category-shift caps, endpoint protections, routine prediction contest, new weapon Power, armor AR, or other numeric change.
