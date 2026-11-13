@@ -1,3 +1,99 @@
+## November 12, 2026 — Moderate Heavy-weapon prerequisite candidates A/B retested across all eleven Hero races (EXPLORATORY; NO NEW GATES APPROVED)
+
+**Author approval is approval of the WORK PLAN only, not of these numerical prerequisite proposals.** The author asked to continue a measured middle ground after already approving all 31 individual primary F ratings and the existing legal secondary F values. We therefore test a *more accessible* Moderate A and a *more selective* Moderate B against (i) the November6 author-approved **working minimum test baselines** and (ii) the deliberately strict earlier **High proposal**. **Recommended for the author's future explicit decision: Moderate B.** It keeps at least one starting Heavy form for all eleven documented Hero races while making large high-output shapes a meaningful investment; no new universal item-level locks, level gates, power figures, or secondary attack factors are proposed. The author has not yet seen or approved either Moderate A or B's numerical table.
+
+### 1. Four-way comparison of QI Boughsteel effective-stat test gates (NO NEW CANON)
+
+**For Both:** STR and DEX are jointly required. For STR-only: DEX is not a gate. **For Long spear Either:** STR threshold OR (DEX threshold AND DEX-mode Support STR). All entries are post-racial-multiplier **effective** stat minimums. Each candidate is only a theoretical usability test, not an equipment ownership/availability guarantee.
+
+| Heavy weapon | November6 baseline (working test only) | Moderate A (new PROPOSAL) | **Moderate B (PREFERRED NEW PROPOSAL)** | Earlier High (unapproved test) |
+|---|---|---|---|---|
+| Greatsword | STR18/DEX12 | STR22/DEX14 | **STR23/DEX15** | STR25/DEX16 |
+| Zweihander | STR21/DEX13 | STR24/DEX15 | **STR25/DEX16** | STR30/DEX20 |
+| Greataxe | STR19 | STR23 | **STR24** | STR26 |
+| Maul | STR19 | STR23 | **STR24** | STR26 |
+| Great hammer | STR21 | STR24 | **STR25** | STR28 |
+| Poleaxe | STR18/DEX12 | STR21/DEX14 | **STR22/DEX15** | STR24/DEX16 |
+| Halberd | STR17/DEX12 | STR21/DEX14 | **STR22/DEX15** | STR24/DEX16 |
+| Glaive | STR15/DEX12 | STR20/DEX14 | **STR21/DEX14** | STR23/DEX16 |
+| Pike | STR14/DEX11 | STR19/DEX13 | **STR20/DEX14** | STR22/DEX15 |
+| Long spear | STR13 OR DEX13, support STR8 | STR16 OR DEX16, support STR8 | **STR16 OR DEX16, support STR8** | STR22 OR DEX22, support STR12 |
+| Lance (ordinary thrust) | STR18 | STR23 | **STR24** | STR26 |
+| Heavy flail | STR22 | STR24 | **STR25** | STR28 |
+
+**Mechanical precedence unchanged.** Original 31-item draft register still contains historical larger first-pass minima and should NOT replace the November6 *replacement test* minima as the baseline. Newly proposed A/B requirements are not approved. Newly approved primary Boughsteel full-item F ratings for these Heavy weapons remain exactly **Greatsword1.40, Zweihander1.42, Greataxe1.52, Maul1.45, Great hammer1.36, Poleaxe1.21, Halberd1.30, Glaive1.39, Pike1.21, Long spear1.20, Lance ordinary1.18, Heavy flail1.50**. Actual legal secondary modes continue unchanged: greatsword thrust1.120, Zweihander thrust1.136, Great hammer purpose-built spike1.224, Halberd spike1.170, Glaive blade-tip1.112, Poleaxe existing special axe/hammer heads1.089 each, appropriate construction required. No rerating.
+
+### 2. Method, racial eligibility and progression
+
+**Racial reference:** Use ALL ELEVEN playable reference Hero starters including November8 Kharak: Moontouched (effective starting STR11/DEX17), Bloomkin (STR9/DEX22.5), Thornguard (STR22.5/DEX14), Tidekin (STR15/DEX23.75), Duskpaws (STR13/DEX20), Naga (STR17/DEX16), Vren (STR22.5/DEX18), Corvyn (STR9.75/DEX16), Drider (STR19/DEX19), Untouched Serpentari (STR17/DEX16), Kharak (STR27.5/DEX15). Baseline racial data in `01_World_and_Shimmer.md` already includes the global +10 stat rebase: never add it again. Apply only approved stat-specific racial multipliers (including Bloomkin STR×0.75 and DEX×1.25, Corvyn STR×0.75, Thornguard/Vren/Kharak STR×1.25). Effective fractional stats are **not** globally floored.
+
+**Stat investments:** Levels 1–20 and for first-qualification edge cases to level60; +2 allocated base stat points each level gained and +1 to all five base stats at levels5,10,15,...; three main comparable builds: balanced +1 STR/+1 DEX each level, STR specialist +2 STR, DEX specialist +2 DEX. STR/SPD and DEX/SPD routes were additionally reviewed as slower-support-gate investments, without assuming extra weapon attacks. No accessories, enchanted bonuses, MP effects, Quality-based Power bonus, time-of-purchase gate, actual rarity, or modified stat growth. A level of first **stat** eligibility is NOT a proposed minimum character level.
+
+### 3. Level1 Heavy stat access across ALL ELEVEN races; QI Boughsteel
+
+| Race | November6 lower | Moderate A | **Moderate B** | High proposal |
+|---|---:|---:|---:|---:|
+| Moontouched | 1 | 1 | **1** | 0 |
+| Bloomkin | 1 | 1 | **1** | 0 |
+| Thornguard | 12 | 6 | **3** | 1 |
+| Tidekin | 3 | 1 | **1** | 1 |
+| Duskpaws | 1 | 1 | **1** | 0 |
+| Naga | 4 | 1 | **1** | 0 |
+| Vren | 12 | 6 | **5** | 2 |
+| Corvyn | 1 | 1 | **1** | 0 |
+| Drider | 9 | 2 | **1** | 0 |
+| Untouched Serpentari | 4 | 1 | **1** | 0 |
+| Kharak | 12 | 12 | **11** | 5 |
+
+**Main fairness result:** Moderate B provides at least one qualifying Heavy shape for **11/11** documented races at level1, whereas the overly strict High proposal provides one for only **4/11**. The universal common available Heavy role for less-strong races is the **DEX-led Long spear**, using its genuinely legal Either scaling and **Support STR8**. For Boughsteel QI starting **Thornguard**, B allows **Glaive/Pike/Long spear** (3); for **Vren**, **Poleaxe/Halberd/Glaive/Pike/Long spear** (5); for physically STR-advantaged **Kharak**, **all except Zweihander** (11). All 11 races still need actual item ownership, anatomy-compatible grips, real scene clearance and proper combat eligibility. A Heavy weapon slot is not required, and a free Junk starter can always still be an eligible Light or Medium weapon.
+
+**Balanced-build progression, QI Boughsteel, illustrative first qualifying levels:**
+
+| Race | Greatsword: old / A / B / High | Zweihander: old / A / B / High | Pike: old / A / B / High |
+|---|---|---|---|
+| Thornguard | 1/1/**2**/3 | 1/3/**3**/6 | 1/1/**1**/2 |
+| Moontouched | 7/10/**11**/13 | 10/12/**13**/17 | 4/8/**9**/10 |
+| Bloomkin | 11/16/**17**/20 | 15/18/**20**/25 | 7/13/**14**/16 |
+| Vren | 1/1/**2**/3 | 1/3/**3**/6 | 1/1/**1**/1 |
+| Kharak | 1/1/**1**/2 | 1/1/**2**/5 | 1/1/**1**/1 |
+| Corvyn | 10/15/**16**/19 | 14/17/**19**/24 | 6/12/**13**/15 |
+
+**Extra first-qualification checks under Moderate B, Thornguard balanced:** Glaive/Pike/Long spear L1; Greatsword/Poleaxe/Halberd L2; Zweihander/Greataxe/Maul/Great hammer/Lance/Heavy flail L3. Therefore all **12 are stat-eligible by L3**, though quality/cost/ability/real owning remain distinct. Under Moderate B Moontouched balanced: Long spear L1, Pike L9, Glaive/Poleaxe/Halberd L10, Greatsword L11, Maul L12, Zweihander L13. Bloomkin balanced: Long spear L1, Pike L14, Glaive L15, Poleaxe/Halberd L16, Greatsword L17, Zweihander/Great hammer/Heavy flail L20.
+
+**Build specificity:** Moderate B STR-only Thornguard reaches Greatsword at L5, Zweihander at L10, and Maul at L2. Moderate B DEX-only Thornguard similarly reaches Greatsword L5/Zweihander L10 (limited by STR), and Maul at L10; existing Both-stat formula remains sum-based and does not reward/penalize even splits beyond dual qualification. Moontouched/Bloomkin *pure DEX* may be locked out of most two-stat Heavy designs for the first twenty levels without raising STR, though the DEX-led Long spear remains qualified. This is a build choice, not a new species-specific prohibition; Moderate B makes both-attribute investment materially useful.
+
+### 4. Workmanship, material and initial-Junk sensitivity (Moderate B ONLY, still NOT CANON)
+
+Continue applying existing *working test* factors to the **actual threshold**: Quality I 1.00, Quality II 0.95, Quality V 0.80 for STR and handling DEX as previously defined; material STR/support: Boughsteel 1.00, Trufula 0.50, Adamantite 2.50, with **DEX not multiplied by material**. Round final requirement **UP once**, not the racial stat. These are allowed tools for checking candidates, **not automatic availability of QV/Adamantite at L1**.
+
+| Level1 race | QI Boughsteel | QII Boughsteel | QV Boughsteel | QI Trufula | QI Adamantite |
+|---|---:|---:|---:|---:|---:|
+| Thornguard | 3 | 3 | 12 | 8 | 0 |
+| Moontouched | 1 | 1 | 1 | 5 | 0 |
+| Bloomkin | 1 | 1 | 1 | 1 | 0 |
+| Vren | 5 | 6 | 12 | 12 | 1 |
+| Kharak | 11 | 11 | 12 | 11 | 0 |
+| Corvyn | 1 | 1 | 1 | 1 | 0 |
+| Drider | 1 | 2 | 6 | 12 | 0 |
+
+**Exact illustrative post-ceiling test gates:** Greatsword Moderate B QI Boughsteel **STR23/DEX15**, QII Boughsteel **STR22/DEX15**, QV Boughsteel **STR19/DEX12**, QI Trufula **STR12/DEX15**, QI Adamantite **STR58/DEX15**. Pike Boughsteel QI **STR20/DEX14**, QV **STR16/DEX12**, Trufula QI **STR10/DEX14**, Adamantite QI **STR50/DEX14**. Zweihander Boughsteel QI **STR25/DEX16**, QV **STR20/DEX13**, Adamantite QI **STR63/DEX16**. The Long spear Boughsteel QI DEX mode is DEX16 **with Support STR8**, so less-STR races can qualify normally. Ordinary Junk is QI Boughsteel: it gets **no Quality-V gate discount**, and its special hit/armor category drawbacks are not additional stat floors.
+
+**Caution about QV access:** The apparent all-12 Heavy eligibility of a level1 Thornguard in a hypothetical QV Boughsteel suit is only a stat check; the existing Gem economy does **not** grant access to QV gear at level1. Material constructions may have separate real smithcraft, Soul Strain, anatomical, purchase and lore restrictions. Do not confuse one armament's needed STR with the support STR of worn armor.
+
+### 5. Power balance and secondary attacks: KEEP ALREADY APPROVED
+
+No primary F revisions, secondary recalc, AR bypass change, Quality Power modifier, per-race innate bonuses, class speed penalties or hit-probability rule were approved through testing prerequisites. At the established L20 Thornguard B attacking E defender in QII Medium Boughsteel AR52, **Greatsword Slash1.416**, legal Point thrust **1.635**, Pike Piercing **1.908**, Maul blunt **1.639**, and Heavy flail blunt **1.754** remain identical conditional landed-hit Impact results whichever candidate threshold is *assumed*, as long as the attacker is eligible. The Heavy flail's 1.754 narrowly exceeds the Devastating stage threshold; that is an argument for intentional weapon choice and additional scenario tests, not an authorized F nerf.
+
+The Zweihander F1.42 vs Greatsword F1.40 gives **(1.42/1.40)²−1 ≈ 2.88% more same-A raw Power**. Moderate B keeps its additional gates modest: Greatsword STR23/DEX15 versus Zweihander STR25/DEX16, rather than the high 25/16→30/20 jump. Additional differences in arc length, weapon geometry, weight, grip, or maneuver risk need independent author approval rather than inventing a hidden numeric bonus.
+
+### 6. Final recommendation for AUTHOR REVIEW (NOT YET CANON)
+
+**Choose MODERATE B** as the next replacement working threshold set, with all twelve numbers in §1. It is stricter than A for high-output or unwieldy weapons, but preserves an accessible **Long spear** for all eleven species and broader opening access for genuinely stronger races. In particular, keep **Greatsword STR23/DEX15**, **Zweihander STR25/DEX16**, **Greataxe and Maul STR24**, **Pike STR20/DEX14**, and **Long spear STR16 OR DEX16 with Support STR8**. It preserves the approved final 31-weapon F ladder and all secondary factors. A is a valid alternative if the author wants more initial Heavy options for Thornguard (six rather than three), and the November6 minimums remain the live benchmark while this decision is pending.
+
+**No mandatory action/number established beyond exploration:** Approval of the test plan does **NOT** approve A/B prerequisites. Until an author explicitly accepts a table or part of it, the November6 replacement requirements remain the established **working test** baseline, not finalized weapon eligibility law. The quantitative data here are deterministic legal-stat gates, NOT chance-to-hit percentages, item availability, market stock or combat win rates.
+
+---
+
 ## November 12, 2026 — All 31 individual melee primary Fs APPROVED; higher Heavy stat gates compared across races/qualities (LATEST)
 
 **Authority split:** The author's latest explicit decision **APPROVES** the complete 31-weapon **primary F roster** proposed in the previous chat, including new Heavy Fs, Light stiletto F1.04 and Medium war pick F1.20. These are **already-calibrated TOTAL ordinary Boughsteel F** values for the named primary attack and are not extra factors stacked with the generic Light/Medium/Heavy F benchmarks, damage-form ratios, greatsword ×0.875 or pike ×0.90 shape references. The complete approved primary F register is in `25_Melee_Weapon_Catalogue_DRAFT.md`; it supersedes older per-item F candidates displayed below. Applicable separately approved weapon material factors can apply once; weapon physical Quality and requirements use their own established procedures. Do **NOT** silently impose a shared new Quality-to-Power multiplier.
