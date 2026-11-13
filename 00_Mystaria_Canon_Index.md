@@ -1,3 +1,11 @@
+## November 12, 2026 — Three-assistant efficiency ceiling settled; LOW-PRIORITY equipment backlog established (LATEST)
+
+**LATEST AUTHOR APPROVAL:** Smithcraft helper time reduction is **one qualifying Anvilcant assistant −25%, two −33%, three or more −50%**. The maximum **50%** is hard-capped once three assistants participate; adding four or more never gives an additional crafting benefit. Keep highest reduction only, never stack. Full operative clock: [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md).
+
+**LOW-PRIORITY EQUIPMENT DECISIONS (author-deferred):** The [Equipment and Economy low-priority bucket](09_Equipment_and_Economy.md) now tracks (1) Magical Portable Forge utility pricing alongside the Cogsong Command Loom/Cogloom and outstanding operational specs, (2) exceptional/nonstandard crafting time and separate enchantment/complex mechanism installation, (3) magical/elemental/explosive/freezing/status and spell-infused ammunition types with effects, requirements, recipes and resource costs, (4) related specialized ammunition production/pricing. See [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for ammo boundaries. All remain unresolved but **low priority**; this is not authorization of new magic ammo, special forging benefits or costs. No other helper count remains unresolved. Main physical weapon/armor balance and existing approved values are unchanged. [Canon Changelog](10_Canon_Changelog.md) records the approval and supersession.
+
+---
+
 ## November 12, 2026 — Forge and Shimmer follow-up corrections APPROVED (LATEST)
 
 **New author-approved supersession of earlier same-day forge ruling:** All ammunition (arrows, bolts, cartridges and other ammunition) has equal Shimmer storage footprint: **30 pieces of any ammunition type per slot**. One personal weapon per separate inventory slot remains unchanged. **Two qualified Anvilcant assistants grant a 33% crafting-time reduction**, between one assistant at 25% and three at 50%; **use only the highest applicable discount, never stack crew reductions**. **Temporary END bonuses must last throughout the entire crafting project** to affect daily allowed work hours. Base 8-hour workday and END 25-point milestones, max 16 hours/day, and baseline weapon/armor/ammunition work-hour schedules remain unchanged.

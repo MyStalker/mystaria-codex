@@ -1,3 +1,9 @@
+## November 12, 2026 — Magical ammunition backlog priority (LATEST AUTHOR DIRECTION)
+
+**LATEST PRIORITY RULING:** Development of magical/exotic ammunition types (e.g. elemental, explosive, freezing, status-effect, and spell-infused arrow/bolt/cartridge concepts) belongs in the **LOW-PRIORITY EQUIPMENT DECISIONS** bucket, not the next active physical-weapon balancing pass. Their individual effects, resource costs, spell interactions, recipes, production complications and prices remain **UNAPPROVED / UNRESOLVED**. Do not invent an enchanted ammo catalogue or change approved ordinary Piercing/Slashing heads, physical ammunition attack forms, ranged capacities, or approved volley cost rules. **Shimmer storage remains 30 pieces of any ammunition per slot**, including any future type (storage sizing does not confer game effects); forge work for up to 120 ammunition pieces remains 8 baseline hours unless a future explicitly approved extraordinary crafting exception says otherwise. The owning low-priority equipment bucket is in [Equipment and Economy](09_Equipment_and_Economy.md).
+
+---
+
 ## November 12, 2026 — Tenfold Gem denomination for arrows; new bow price candidates pending approval (LATEST ECONOMIC SCALE)
 
 **Currency-only change from the author's approved denomination:** One ordinary **40-arrow** Piercing/Slashing-mix Gem Shop bundle is now **10 whole Gems**, rather than the historical 1-Gem figure. Same 40 arrows, same 20-arrow quiver carrying capacity, no included quiver, physical recovery, unchanged heads and no new arrow sizes/force tiers. The early **Willow Shortbow with 12 arrows** is now **20 Gems** in the converted starter shop, not 2 historical Gems. Every already-approved projectile mechanism or magical cost is unchanged in function by the nominal repricing.

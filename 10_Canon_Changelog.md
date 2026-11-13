@@ -1,3 +1,15 @@
+## November 12, 2026 — More-than-three assistant cap APPROVED; remaining craft details and magical ammo LOW PRIORITY (LATEST)
+
+**Latest explicit author decision:** **More than three qualified Anvilcant assistants never grant further forging efficiency**. Three, four, or any larger number grant the same **maximum 50% crafting-worktime reduction**; one gives 25%, two give 33%; apply the single highest approved reduction only, never stack. This is an approved operative cap and supersedes the earlier “beyond three unresolved” language, not approval for extra workers to multiply output automatically.
+
+**Author-selected LOW-PRIORITY EQUIPMENT DECISIONS bucket:** Put the remaining unresolved details of the recent crafting/forge pass together with magical ammunition types on a **low-priority equipment list**. Recorded items: (a) Magical Portable Forge price with the Cogsong Command Loom/Cogloom utility pricing revisit, plus forge operation, size, activation, fuel/MP, capacity and availability; (b) exceptional/nonstandard fabrication and separate enchantment/complex mechanical installation time; (c) magical, elemental, explosive, freezing, status or otherwise infused ammunition types, including spell prerequisites, MP and combat behaviors; (d) their outstanding specialized crafting recipes and ammunition pricing. These remain open but **do not need resolution now** to continue physical weapons and armor calibration. Ordinary ammunition/combat/storage and the baseline crafting clock are unaffected.
+
+**Priority safety:** Do not classify already-approved item mechanics as unapproved, change Cogsong Command Loom prices or use this deferment to delay the main melee/armor balance work. Do not invent magic ammunition effects, exceptional forging shortcuts, forge Gem values, or special MP/SP fees. Existing spell-development dependencies continue to apply.
+
+**Files changed:** `07_Centaurs_and_Smithcraft.md`, `09_Equipment_and_Economy.md` (owning low-priority bucket), `27_Ranged_Weapon_Catalogue_DRAFT.md` (magical ammo status), `10_Canon_Changelog.md` (this approval), `00_Mystaria_Canon_Index.md` (latest navigation/status). **No other outstanding assistant-count questions; no additional action by author required for publication.**
+
+---
+
 ## November 12, 2026 — UNIVERSAL ammunition slots, sustained END, two assistants, portable forge utility pricing APPROVED (LATEST)
 
 **Latest explicit author corrections (supersede limited points in earlier November 12 forge entry):** Every ammunition type counts as the same size in **Shimmer storage: 30 individual pieces per slot** (arrows, bolts, cartridges and other ammunition). One personal weapon remains one Shimmer storage slot. Thirty pieces are not automatically thirty attacks for volley/multiple-projectile uses; no new ammo combat mechanics or pricing is granted.
