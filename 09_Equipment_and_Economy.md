@@ -1,3 +1,9 @@
+## November 13, 2026 — Shield material adaptive designs and numeric open items (LATEST)
+
+The author's new shield-material instructions are recorded in [Shield Profiles](29_Physical_Shield_Profiles.md). **Reprise Bronze shield** is an approved prepared **Light/Medium/Heavy form-switching** design with defensive Rating derived from **Reprise Bronze armor AR / Boughsteel armor AR for its currently selected class and Quality**, rather than the older conditional static ×0.90 factor. Exact all-form forging blueprint, item class-based Gem tariff and sourcing remain OPEN; do not invent a free Light-price Heavy shield or violate existing material-neutral same-design valuation. **Celestite shield** is Quality V-only and triune-forged, as much a campaign-changing artifact as its armor or weapon: routine players are not intended to collect all three, and even one is extremely exceptional. The Celestite weapon's exact Leydrain values remain unresolved and are not imported from armor. Magic-rating calibration and physical ceramic defense alternatives are **not-yet-approved candidates**; no new standard Gem price or mundane special-material availability is declared. Existing finished shield prices, other-material physical factors, Junk cost and physical repair policies unchanged.
+
+---
+
 ## November 13, 2026 — Author-approved Junk / ceramic shield conditions and interim repair economy (LATEST)
 
 **Shields still use approved baseline prices/Quality:** QI–V Light **15/30/60/120/240 Gems**, Medium/Heavy **30/60/120/240/480**. Existing material-neutral standard Gem doctrine and approved ordinary shield Boughsteel Rating/requirements are unaltered.
