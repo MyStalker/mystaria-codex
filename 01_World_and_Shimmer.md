@@ -173,14 +173,26 @@ No color is inherently good or evil. Black mana can remove dangerous enchantment
 
 A soul has four parts:
 
-- **Anima** manipulates and emits magic and converts dietary managmins into pure mana.
-- **Cognum** is the mind, housed in the brain.
-- **Spiritus** is the stabilized mana framework of the soul and contains its pure mana.
+- **Anima** governs mana affinity, manipulates and emits magic, and converts dietary managmins made bioavailable by the stomach into pure mana.
+- **Cognum** is the mind, housed in the brain, and holds memories. As the Cognum eventually decays after ordinary death, those memories disperse.
+- **Spiritus** is the stabilized mana framework that binds Anima, Cognum, and Corpus together and holds the soul's pure-mana reserves. Structural damage impairs the parts and reserves it supports and can cause broad attribute loss through **Soul Shred**. Celestite weapons are the usual source of such injury. See the established [Celestite weapon rules](07_Centaurs_and_Smithcraft.md#irrecoverable-cost-of-swinging-celestite) and [armor rules](09_Equipment_and_Economy.md) for their respective XP erosion and triggers.
 - **Corpus** is the physical body that anchors the Spiritus to this form.
+
+In ordinary spellcasting, the Anima relies in part on the body to shape magic. Pure mana tends to flow through the nervous system. The hands are especially important because their sensitivity gives the caster fine control. A Wavecrafter raising their hands to shape a spell is a typical example.
 
 A Moontouched who is not a Warlock has a shriveled, weak **Anima** that digests only enough dietary managmins to keep them alive. See [Warlock Soul Anatomy](04_Warlock_Manacraft.md#warlock-soul-anatomy) for Surrender's chosen Warlocks.
 
 The soul acts as both reservoir and regulator of mana. Its natural affinity determines which energies can be safely stored and manipulated. Attempting to channel incompatible mana can cause exhaustion, magical backlash, or spiritual damage. Different races possess distinct limitations. Moontouched lack conventional magical abilities entirely. Thornguard generate abundant white mana but cannot shape it, while Bloomkin can shape white mana but cannot produce sufficient amounts independently. Through **Concordance**, they combine these abilities. Corvyn naturally store only black mana, relying upon Starspawn familiars and enchanted tattoos to channel other colors. The ancient Serpentari mastered all five colors through extraordinary study and sophisticated magical techniques.
+
+#### Ordinary death and possible revival
+
+Ordinary bodily death occurs when the heart stops beating. The Corpus and Spiritus normally work together to hold formless black mana at bay. Once the body dies, that protection is compromised. As decomposition sets in, formless black mana contributes to the unraveling of the rest of the soul. A sufficiently powerful healer may be able to revive someone by intervening shortly after death. The exact time window and healing requirements remain unresolved.
+
+Individual components can persist or function independently in unusual circumstances. An Astral Heart preserves the original Cognum during [Celestial Recall](#immortality-and-celestial-recall). Warlock [Soulwork](04_Warlock_Manacraft.md#rank-v--soulwork) can preserve a disembodied soul. How its Cognum persists or functions remains unresolved.
+
+#### Future concept — Necromancy
+
+A possible future discipline could use externally controlled mana to fill a deceased creature's damaged Spiritus and puppet its remains. Necromancy remains conceptual. Its availability and mechanics are undefined.
 
 ### Strengths and Weaknesses
 

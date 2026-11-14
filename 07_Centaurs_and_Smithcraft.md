@@ -576,6 +576,8 @@ Its power targets the magical **principles** sustaining entities and effects, no
 
 ### Irrecoverable cost of swinging Celestite
 
+Celestite's soul damage injures the [Spiritus](01_World_and_Shimmer.md#four-part-soul-anatomy), the framework that sustains the other soul parts and its mana reserves. This structural damage explains the broad loss of attributes as the wielder's soul erodes.
+
 **Every stroke** inflicts direct **soul damage**, not just ordinary Soul Strain: XP is lost, levels may regress, and permanent stats can be lost and must be regained through later growth. Intense use can erode a soul to nothing. Centaur equipment affinity cannot halve this cost.
 
 The bearer needs an **unbreakable heart**: a clear, single purpose held unwaveringly from drawing the weapon onward. Losing conviction risks **False Apotheosis**, a power-fueled delusion of growing godhood even while the bearer spiritually disintegrates. An unwavering goal prevents that delusion but **does not** prevent soul erosion.

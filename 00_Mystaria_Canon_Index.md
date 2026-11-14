@@ -1,3 +1,9 @@
+## November 14, 2026 — Soul anatomy, casting, and ordinary death
+
+[Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul) now covers Cognum and memory dispersal, Anima affinity and bodily spellcasting, Spiritus damage and Soul Shred, and the Corpus's role in ordinary death and possible early revival. Starspawn Celestial Recall and Warlock Soulwork retain their established exceptions. Necromancy remains a future concept.
+
+---
+
 ## November 14, 2026 — Warlock and Moontouched Anima and Celestial Recall
 
 Warlocks have an enlarged Anima and trace mana below 1 MP. Other Moontouched have a weak Anima that digests only enough managmins for survival. In Celestial Recall, the Astral Heart preserves the original Cognum and recreates the other three parts from recovered material and formless mana. See [Warlock Soul Anatomy](04_Warlock_Manacraft.md#warlock-soul-anatomy) and [Immortality and Celestial Recall](01_World_and_Shimmer.md#immortality-and-celestial-recall).

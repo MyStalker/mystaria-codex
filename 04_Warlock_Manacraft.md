@@ -342,6 +342,8 @@ At the pinnacle of Mana Imbuement, a Warlock can create soul vessels and extraor
 
 A soul vessel can preserve a disembodied mortal soul without necessarily destroying its identity or consciousness. It does not automatically grant resurrection, control over that soul, or ownership of its memories.
 
+How the brain-housed [Cognum](01_World_and_Shimmer.md#four-part-soul-anatomy) persists or functions during this form of disembodied preservation remains unresolved.
+
 Soulwork also enables enduring magical devices capable of responding to changing circumstances and regulating their own energy supply.
 
 These creations require compatible external power. They do not produce unlimited mana or automatically become genuinely intelligent.

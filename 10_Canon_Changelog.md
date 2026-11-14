@@ -1,3 +1,15 @@
+## November 14, 2026 — Soul anatomy, casting, and ordinary death
+
+**Author-approved expansion:** [Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul) now covers Cognum and memory dispersal, Anima affinity and bodily spellcasting, Spiritus damage and Soul Shred, and the Corpus's role in ordinary death and possible early revival. This expands the earlier four-part anatomy entry. The stomach makes managmins bioavailable to the Anima, and the nervous system and especially the hands support spell shaping. The Spiritus binds the parts and reserves, and structural damage can reduce attributes through Soul Shred. Existing Celestite weapon and armor XP erosion and triggers still apply.
+
+**Ordinary death:** The heart stops, and the loss of the Corpus's protection lets formless black mana contribute to soul unraveling as decomposition sets in. Cognum decay eventually disperses memories. Exceptional early healing may permit revival. Unusual component independence remains possible, including established Cognum preservation during Celestial Recall. The Warlock, Moontouched, and Celestial Recall rulings continue to apply.
+
+**Unresolved:** Revival timing and requirements, conditions for independent survival or function of individual parts, how Cognum persists in Soulwork vessels, and any general Soul Shred procedure beyond established sources. Necromancy remains a future concept involving external mana puppeteering a damaged Spiritus, with mechanics undefined.
+
+Updated [World and Shimmer](01_World_and_Shimmer.md), [Warlock Manacraft](04_Warlock_Manacraft.md), [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md), and the [Canon Index](00_Mystaria_Canon_Index.md).
+
+---
+
 ## November 14, 2026 — Warlock and Moontouched Anima and Celestial Recall
 
 **Author decision:** Warlocks have the same four soul parts. Their larger, more powerful **Anima** fills the space in the **Spiritus** where pure mana would ordinarily be stored. They need dietary managmins to survive. Their Anima uses trace amounts of mana to move other mana, always less than 1 MP. Warlocks have **0 natural MP** and draw on external mana to use Manacraft. A Moontouched who is not a Warlock has a shriveled, weak **Anima** that digests only enough dietary managmins to keep them alive.
