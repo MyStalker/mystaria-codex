@@ -1,3 +1,9 @@
+## Shield spell interception and Skyvein bow benchmark — November 13, 2026
+
+**Approved balance target:** Skyvein throws should be comparable in effectiveness to a bow with similar stat requirements, accounting for the ability to hit distinct targets and for losing all shield benefits on the throwing turn. Exact throwing Power, range bands, and return-path details remain proposals until selected. See [Skyvein comparison in Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-proposal) for draft target-count and range trials.
+
+---
+
 ## November 13, 2026 — Nonrepairable ammunition and automatic legal Guard shielding (LATEST AUTHOR APPROVED)
 
 **Author-approved physical production/recovery constraint:** **Ammunition cannot be repaired**, whether ordinary arrows, bolts, cartridges or other expendable shots; a genuine **reusable thrown weapon** is explicitly excepted and may be repaired by a smith sufficiently qualified to manufacture that item in **half its lawful full manufacture work-hours**. This does not forbid reuse of an intact recovered shot when independently lawful, and does not override the existing approved 120-piece ordinary ammunition forging batch and its 8 work-hours. Actual item repair/material costs remain in the mundane smithcraft/economy backlog. No new magic, specialized ammunition manufacturing or ballistic stats are granted.

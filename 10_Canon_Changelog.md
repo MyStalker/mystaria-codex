@@ -1,3 +1,15 @@
+## Shield spell interception and Skyvein bow benchmark — November 13, 2026
+
+A usable, qualified Nullporcelain or Glassweave shield in Guard can intercept **any incoming spell effect against its bearer**, including psychic effects and the bearer's exposure to an area spell. Resolve the shield's absorption against that exposure. When the shield absorbs the entire incoming spell Power, the bearer is unaffected. When spell Power exceeds what the shield can absorb, the excess reaches the bearer and the spell resolves against them under its normal rules. An area interception protects only that bearer; the area and its other targets resolve normally. If Guard is unavailable under existing rules, including net Extreme Pressure of at least 3 PP, the spell resolves against the bearer normally. Against two genuine coordinated simultaneous flankers, the existing one-interception limit applies; the unblocked attack resolves normally.
+
+Spell magnitude-to-Power conversion, the exact absorption and overflow calculation, partial-effect adjudication for non-damage spells, and whether magical contact causes ceramic wounds remain unresolved.
+
+**Approved balance target:** Skyvein throws should be comparable in effectiveness to a bow with similar stat requirements, accounting for the ability to hit distinct targets and for losing all shield benefits on the throwing turn. Exact throwing Power, range bands, and return-path details remain proposals until selected. The [shield rules and draft trials](29_Physical_Shield_Profiles.md) own the details.
+
+This supersedes the earlier direct-single-target-only interception rule. Updated Shield Profiles, Combat and Shimmer Guard, Ranged Weapon Catalogue, Canon Changelog, and Canon Index.
+
+---
+
 ## November 13, 2026 — Shield material package and fixed Reprise Bronze Rating approved (LATEST)
 
 **Reprise Bronze:** Calculate one Rating at each Quality using `round_half_up(Boughsteel Medium shield Rating × Reprise Bronze Medium armor AR / Boughsteel Medium armor AR)` with all inputs at that Quality. Quality I–V Ratings are **19/33/53/81/112**, fixed across forms. Select a prepared **Light, Medium, or Heavy** form at the start of the wielder's turn without an action. The form lasts until their next turn and governs handling, Guard obstruction, and class-based attack options, including Heavy's Double Strike restriction. Quality and installed enchantments persist. The shield and worn armor switch independently. Standard Gem cost equals Medium at **30/60/120/240/480 Gems**. All-form forging remains unresolved, and support STR ×1.00 remains a conditional engineering reference.

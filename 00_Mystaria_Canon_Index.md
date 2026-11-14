@@ -1,3 +1,13 @@
+## Shield spell interception and Skyvein bow benchmark — November 13, 2026
+
+A usable, qualified Nullporcelain or Glassweave shield in Guard can intercept **any incoming spell effect against its bearer**, including psychic effects and the bearer's exposure to an area spell. Resolve the shield's absorption against that exposure. When the shield absorbs the entire incoming spell Power, the bearer is unaffected. When spell Power exceeds what the shield can absorb, the excess reaches the bearer and the spell resolves against them under its normal rules. An area interception protects only that bearer; the area and its other targets resolve normally. If Guard is unavailable under existing rules, including net Extreme Pressure of at least 3 PP, the spell resolves against the bearer normally. Against two genuine coordinated simultaneous flankers, the existing one-interception limit applies; the unblocked attack resolves normally.
+
+Spell magnitude-to-Power conversion, the exact absorption and overflow calculation, partial-effect adjudication for non-damage spells, and whether magical contact causes ceramic wounds remain unresolved.
+
+**Approved balance target:** Skyvein throws should be comparable in effectiveness to a bow with similar stat requirements, accounting for the ability to hit distinct targets and for losing all shield benefits on the throwing turn. Exact throwing Power, range bands, and return-path details remain proposals until selected. The [shield rules and draft trials](29_Physical_Shield_Profiles.md) own the details.
+
+---
+
 ## November 13, 2026 — Shield material package and fixed Reprise Bronze Rating approved (LATEST)
 
 See [Physical Shield Profiles](29_Physical_Shield_Profiles.md) for the operative rules and [Canon Changelog](10_Canon_Changelog.md) for supersession.
