@@ -1,3 +1,9 @@
+## November 13, 2026 — Skyvein multi-target Power split approved
+
+The author approved **75% of the applicable single-target throw Power per target for two distinct targets**, and **55% per target for three distinct targets**. Apply the split to final Power before target defenses. The total before defenses is 150% or 165% if all contacts land. Existing Light/Medium/Heavy target caps of 1/2/3 and the full-turn forfeiture of shield benefits apply. Single-target Power and range, especially for Light, remain open. Bludgeoning and half-bow range were test assumptions. See [Physical Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-and-approved-multi-target-split) for the landed-wound test and earlier trial.
+
+---
+
 ## Shield spell interception and Skyvein bow benchmark — November 13, 2026
 
 A usable, qualified Nullporcelain or Glassweave shield in Guard can intercept **any incoming spell effect against its bearer**, including psychic effects and the bearer's exposure to an area spell. Resolve the shield's absorption against that exposure. When the shield absorbs the entire incoming spell Power, the bearer is unaffected. When spell Power exceeds what the shield can absorb, the excess reaches the bearer and the spell resolves against them under its normal rules. An area interception protects only that bearer; the area and its other targets resolve normally. If Guard is unavailable under existing rules, including net Extreme Pressure of at least 3 PP, the spell resolves against the bearer normally. Against two genuine coordinated simultaneous flankers, the existing one-interception limit applies; the unblocked attack resolves normally.

@@ -1,6 +1,12 @@
+## November 13, 2026 — Skyvein multi-target Power split approved
+
+The author approved **75% of the applicable single-target throw Power per target for two distinct targets**, and **55% per target for three distinct targets**. Apply the split to final Power before target defenses. The total before defenses is 150% or 165% if all contacts land. Existing Light/Medium/Heavy target caps of 1/2/3 and the full-turn forfeiture of shield benefits apply. Single-target Power and range, especially for Light, remain open. Bludgeoning and half-bow range were test assumptions. See [Physical Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-and-approved-multi-target-split) for the landed-wound test and earlier trial.
+
+---
+
 ## Shield spell interception and Skyvein bow benchmark — November 13, 2026
 
-**Approved balance target:** Skyvein throws should be comparable in effectiveness to a bow with similar stat requirements, accounting for the ability to hit distinct targets and for losing all shield benefits on the throwing turn. Exact throwing Power, range bands, and return-path details remain proposals until selected. See [Skyvein comparison in Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-proposal) for draft target-count and range trials.
+**Approved balance target:** Skyvein throws should be comparable in effectiveness to a bow with similar stat requirements, accounting for the ability to hit distinct targets and for losing all shield benefits on the throwing turn. Exact throwing Power, range bands, and return-path details remain proposals until selected. See [Skyvein comparison in Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-and-approved-multi-target-split) for draft target-count and range trials.
 
 ---
 
