@@ -2,6 +2,10 @@
 
 **Status:** Author-approved global Mystaria worldbuilding, November 9, 2026. The planetary network is definitively named **the Worldcoil**. Its deepest, extremely dangerous lower stratum is definitively **the Undercoil**. Earlier alternative names are historical proposals, not current names.
 
+## Possible secondary ley-line function
+
+The ancient Worldcoil may guide ley lines through the medium of water. Its reach in that role, which stretches remain functional, and how the Serpentari controlled the flows remain unresolved. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md).
+
 ## Confirmed world facts
 
 - **Ancient true Serpentari were naturally aquatic serpents.** Their immense true serpentine forms were adapted for aquatic life and long-distance movement through water. Their humanoid transformation remains established. Their aquatic nature is an expansion of, not a replacement for, their true form and magical sophistication. Do not silently grant the modern humanoid-only **Untouched Serpentari** identical colossal aquatic physiology.

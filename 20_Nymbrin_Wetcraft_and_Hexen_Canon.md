@@ -17,9 +17,9 @@ Among furred peoples, **Tidekin alone have fur thick and oily enough for harmles
 ## Origins: El Dorado and the Great Taking
 Nymbrin once possessed a civilization rivaling the Serpentari, centered on **El Dorado, the City of Gold**: canals, terraced pools, great alchemical works and wealth sufficient to make gold an ordinary architectural material.
 
-They created **true philosopher's stones which violated equivalent exchange**. These supported extraordinary abundance. The Serpentari famously robbed El Dorado in **the Great Taking**, seizing treasures and stockpiles and destroying or dismantling institutions sustaining its prosperity. Collapse followed as workshops and waterways failed and guilds dispersed with incomplete knowledge. True stones and their manufacture have since been lost to time; surviving examples remain an unresolved possibility.
+They created **true philosopher's stones that enabled perfect equivalent exchange**, supporting extraordinary abundance through transmutations of complexity beyond ordinary living practitioners. The stones conserved mana. The Nymbrin gathered stone and mud, transformed it into gold and alloyed it with titanium for the city's towers. The Serpentari famously robbed El Dorado in **the Great Taking**, seizing treasures and stockpiles and destroying or dismantling institutions sustaining its prosperity. Collapse followed as workshops and waterways failed and guilds dispersed with incomplete knowledge. True stones and their manufacture have since been lost to time; surviving examples remain an unresolved possibility.
 
-Modern stones are lesser successors: they concentrate, store and mediate alchemical potential while obeying equivalent exchange. Scholars sometimes bitterly call them **accountant's stones**.
+Modern stones are lesser successors that concentrate, store and mediate alchemical potential within existing equivalent-exchange constraints. Scholars sometimes bitterly call them **accountant's stones**.
 
 **Duskpaws lived in El Dorado alongside Nymbrin before the Night of a Thousand Locks.** Their shared dispossession motivates their alliance and contributes to Duskpaw fascination with theft, crime and reclaiming stolen prosperity. This adds El Dorado to Duskpaw history; their established Serpentari enslavement, Fraycraft blessing and liberation remain canon. Exact sequencing of El Dorado's foundation, the Great Taking and particular God War events is not numerically dated.
 
@@ -163,7 +163,7 @@ Hex has long been theorized to explain the Scarlands' wasteland; this remains a 
 Consumable design is tied to **Gem costs and power**, calibrated around **30% of a Hero's typical Gem budget allocated to consumables**. That is a design allocation, not compulsory spending or a free allowance. The budget time window, exact prices, yields, combat actions, numerical hex thresholds and rank effects remain **UNRESOLVED** and must be calibrated before final mechanics are approved.
 
 ## Preserved boundaries
-No Nymbrin starting attribute array, stat multiplier, full SP/MP progression, clutch size, exact jump distance, exact toxin dose or complete elemental race is specified. Adult appearance follows the global guide while retaining Nymbrin anatomy. Modern stones obey equivalent exchange; lost true stones are the exception. Historical manufacture and exact permanent ancient homunculus mechanism remain mysteries.
+No Nymbrin starting attribute array, stat multiplier, full SP/MP progression, clutch size, exact jump distance, exact toxin dose or complete elemental race is specified. Adult appearance follows the global guide while retaining Nymbrin anatomy. The ancient distinction was perfect equivalent exchange at extraordinary complexity. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md). Historical manufacture and exact permanent ancient homunculus mechanism remain mysteries.
 
 
 ## November 6, 2026 — Hard defensive materials resist Nymbrin Wetcraft (author-directed future balance requirement)

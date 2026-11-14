@@ -1,3 +1,9 @@
+## November 13, 2026 — Magical philosophy and the mana cycle approved
+
+[Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md) owns the foundational rules for finite mana, the cycle, spell media, ley-line ecology, managmins and Cipherlight. It records true philosopher's stones as enabling perfect equivalent exchange. Individual Sorcery and Psycraft redesigns remain pending. See the [Canon Changelog](10_Canon_Changelog.md) for supersession.
+
+---
+
 ## November 13, 2026 — Physical ranged benchmarks and shield constructions approved
 
 Use Bludgeoning for Skyvein throws with the ordinary 25% covered-AR bypass on body hits. At the same legal attributes, Light single-target throw Power is **120% of comparable bow Piercing Power** and its range boundaries are **75% of that bow's**. Medium and Heavy use **100% of comparable bow Piercing Power** for one target and **50% of that bow's range boundaries**. Use Shortbow, Recurve, and Longbow as the respective ordinary bow benchmarks for the three classes. The existing 75% per target for two and 55% per target for three apply to the appropriate single-target throw Power. Existing 1/2/3 target caps, independent hit resolution, return, and full-turn loss of shield benefits apply. Exact ordinary bow range distances and detailed return-path rules remain unresolved.
@@ -1077,6 +1083,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 
 | File | Scope | Current status |
 |---|---|---|
+| [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md) | Finite mana, the one-way cycle, spell media, ley lines, managmins, Cipherlight and true philosopher's stones | **CANON** with explicitly unresolved implementation |
 | [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
 | [`02_Races.md`](02_Races.md) | Racial descriptions and Firstshaped peoples, including approved Kobold starting statistics and Drakyn/Centaur/Corvyn updates | **CANON** with newer racial overrides |
 | [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS** for Blue/Green/White; Red purchase count resolved |

@@ -1,3 +1,9 @@
+## November 13, 2026 — Magical philosophy and the mana cycle approved
+
+**Psycraft redesign pending.** Cipherlight is information-bearing light that works through contact with a suitable sensory organ and can be stored or recorded with suitable magical technology. The application to specific Psycraft techniques, including which Psychokinesis functions need replacements, remains open. Use the published disciplines, ranks, prerequisites and costs pending approved replacements. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md).
+
+---
+
 
 
 ## November 8, 2026 — Nullporc AR/MR benchmark and shattering procedure APPROVED
