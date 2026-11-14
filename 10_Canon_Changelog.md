@@ -1,3 +1,15 @@
+## November 13, 2026 — Magical philosophy and the mana cycle approved
+
+- [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md) records the one-way cycle from Depleted Mana through environmental recycling to Formless Mana, then onward through biological, environmental or artificial pathways. Suitable equipment and resources can refine Formless Mana, and ordinary environmental processes can consume it under suitable conditions. Colored managmins underlie all nutrition. Eating grants no immediate MP.
+- Spell manifestation depends on suitable media and situational access. The [Sorcery reference](03_Sorcery.md) records the rule and flags spell-by-spell revisions.
+- [Ley Carving](04_Warlock_Manacraft.md) redirects existing Formless Mana. Unsupported diversions tend to self-correct, superseding unconditional permanence. Existing MP costs apply. Both deprivation and excessive concentration can destabilize ecosystems. [Silent Thunder](06_Drakyn.md) accelerates the cycle into one spell. [Worldspindles](18_The_Gilded_Coil_Imperial_Gazetteer.md) harness ley lines, and the [Worldcoil](34_Ancient_Serpentari_Aquatic_Waterways_Canon.md) may guide them through water.
+- [Nymbrin Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) and [World and Shimmer](01_World_and_Shimmer.md) now record perfect equivalent exchange by true philosopher's stones. This supersedes the ancient violation of equivalent exchange recorded below.
+- Cipherlight needs contact with a suitable sensory organ and can be stored or recorded by suitable magical technology. Existing Mindprism calibration and exposure hazards apply. [Psycraft](15_Naga_Psycraft_Canon.md) redesign, including Psychokinesis replacements, remains pending. Existing ranks, prices and prerequisites retain their published values.
+
+**Open:** Spell-by-spell changes, ley maintenance and ecosystem thresholds, refinement parameters, managmin color groups and Wetcraft uses, and Cipherlight compatibility and recording limits.
+
+---
+
 ## November 13, 2026 — Physical ranged benchmarks and shield constructions approved
 
 Use Bludgeoning for Skyvein throws with the ordinary 25% covered-AR bypass on body hits. At the same legal attributes, Light single-target throw Power is **120% of comparable bow Piercing Power** and its range boundaries are **75% of that bow's**. Medium and Heavy use **100% of comparable bow Piercing Power** for one target and **50% of that bow's range boundaries**. Use Shortbow, Recurve, and Longbow as the respective ordinary bow benchmarks for the three classes. The existing 75% per target for two and 55% per target for three apply to the appropriate single-target throw Power. Existing 1/2/3 target caps, independent hit resolution, return, and full-turn loss of shield benefits apply. Exact ordinary bow range distances and detailed return-path rules remain unresolved.

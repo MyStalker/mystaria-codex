@@ -88,6 +88,8 @@ Extremely rare **Skillprints** can bestow purchased Shimmer skills **without spe
 
 **Cipherlight** is the approved name for the specially encoded, information-bearing light used by Kobold **Orbcraft** and **Mirrorcraft**. Computational Orbs encode information into light; compatible Orbs and Magic Mirrors relay, process, or interpret its messages. Beams travel to and between great **lighthouses** operating as optical communication relays. This adds a physical transmission mechanism to the existing Coilnet, not a new mana color or an independent magical Craft.
 
+Suitable magical technology can store or record Cipherlight. Contact with a suitable sensory organ is sufficient for perception without direct visual observation. Mindprisms retain their specialized retinal calibration.
+
 **Direct-beam hazard.** Looking straight into active Cipherlight causes **extreme confusion** as its densely encoded information overwhelms perception. The beam is hazardous even when not designed as a weapon. Exact exposure thresholds, resistance checks, and recovery times remain **UNSPECIFIED**.
 
 **Rainbows.** The region covered by an active Coilnet is called its **Rainbow**. A Rainbow has a recognizably visible, aurora-like shimmer or pattern in the upper atmosphere. Ordinary traffic produces a subtle, aesthetically unobtrusive display; unusually heavy simultaneous information traffic makes it brighter, more conspicuous, and more intense. A Rainbow indicates an active network and approximate coverage, **not** the identity, contents, or precise locations of its communications. Even a small independent Coilnet can produce a noticeable Rainbow: one appearing around an isolated **Drakyn lair** can draw local attention. This atmospheric phenomenon is distinct from the Shimmer's purple identity and the five mana symbols; no exact colors, heights, or visibility distances have been specified.
@@ -234,7 +236,7 @@ Instead, Kobold artificers have constructed intricate systems of computational O
 
 These modern additions are collectively called the Coilworks.
 
-A functioning Worldspindle can regulate substantial portions of the surrounding landscape.
+A functioning Worldspindle can regulate substantial portions of the surrounding landscape by harnessing and guiding existing ley-line flows of Formless Mana. Overconcentration can destabilize ecosystems. If a Worldspindle is destroyed, diverted lines can return toward their former routes. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md).
 
 Its capabilities depend upon the available mana, ancient machinery, natural geography, and the expertise of the Kobolds maintaining it.
 

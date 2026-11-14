@@ -1,3 +1,9 @@
+## November 13, 2026 — Magical philosophy and the mana cycle approved
+
+Spells require appropriate environmental or situational media. A pyromancer channels red mana through an existing flame. Denying the medium denies that casting even when the caster has MP. Spells can shape nearby matter. Catalogue wording that implies matter or a medium can be conjured from nothing is superseded by this foundation. Specific media, revisions and replacements for individual spells remain pending, with published costs and prerequisites retained. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md).
+
+---
+
 
 
 ## November 8, 2026 — Energy versus magic-generated physical attacks (LATEST AUTHOR GUIDANCE)

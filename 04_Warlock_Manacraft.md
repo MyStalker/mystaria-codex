@@ -122,7 +122,7 @@ The five disciplines now cover the complete range of Manabending:
 
 | Skill          | Governs                                       | Rank V breakthrough                          |
 | -------------- | --------------------------------------------- | -------------------------------------------- |
-| Mana Reach     | Distance, connections, spatial manipulation   | Creating and destroying ley lines            |
+| Mana Reach     | Distance, connections, spatial manipulation   | Routing Formless Mana through ley lines            |
 | Mana Power     | Projection, concentration, raw mana effects   | Creating five-colored mana holes             |
 | Mana Harvest   | Absorption, conversion, extraction            | Absorbing souls                              |
 | Mana Imbuement | Storage, preparation, autonomous enchantments | Soul vessels and enduring magical constructs |
@@ -140,7 +140,7 @@ Higher ranks no longer simply extend maximum range. Intelligence already accompl
 | II   | Crooked Thread   | Bend mana connections around obstacles and through indirect pathways, allowing manipulation without a straight line of sight.                                                     |
 | III  | Binding Thread   | Establish tangible mana tethers capable of pulling, holding, lifting, or restraining physical objects and living creatures.                                                       |
 | IV   | Walk the Current | Attach a connection to an existing ley line or magical conduit, allowing Manabending to travel far beyond normal range along that established pathway.                            |
-| V    | Ley Carving      | Create, reroute, or sever actual ley lines, permanently changing how ambient mana flows through a region.                                                                         |
+| V    | Ley Carving      | Create, reroute, or sever pathways for existing Formless Mana, altering its regional flow.                                                                         |
 
 #### Approved MP costs — Mana Reach
 
@@ -157,7 +157,7 @@ Higher ranks no longer simply extend maximum range. Intelligence already accompl
 
 #### Rank V — Ley Carving
 
-Ley lines are naturally occurring currents of magical energy passing through Mystaria.
+Ley lines are naturally occurring currents of Formless Mana passing through Mystaria.
 
 A Grandmaster of Mana Reach can manipulate these currents directly.
 
@@ -167,7 +167,7 @@ Creating a ley line does not create free mana. It opens a new pathway through wh
 
 Destroying a ley line is equally consequential. The loss may affect local enchantments, Starspawn habitats, and surrounding magical ecosystems.
 
-Permanent large-scale alterations require substantial energy, preparation, and a stable connection to the existing mana network.
+Large-scale alterations require substantial energy, preparation and a stable connection to the network. Diverted currents tend to correct themselves unless actively maintained. Existing fees for lasting regional alterations apply. A diversion can deprive one ecosystem and overconcentrate mana in another. It yields no direct supply of Pure Mana. See [Magical Philosophy and the Mana Cycle](35_Magical_Philosophy_and_Mana_Cycle.md).
 
 Specialization: Mobility, physical manipulation, unconventional combat, exploration, and magical infrastructure.
 ### 2. Mana Power — The Shape of Raw Magic
