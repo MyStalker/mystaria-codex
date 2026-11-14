@@ -1,3 +1,9 @@
+## November 14, 2026 — Warlock and Moontouched Anima and Celestial Recall
+
+Warlocks have an enlarged Anima and trace mana below 1 MP. Other Moontouched have a weak Anima that digests only enough managmins for survival. In Celestial Recall, the Astral Heart preserves the original Cognum and recreates the other three parts from recovered material and formless mana. See [Warlock Soul Anatomy](04_Warlock_Manacraft.md#warlock-soul-anatomy) and [Immortality and Celestial Recall](01_World_and_Shimmer.md#immortality-and-celestial-recall).
+
+---
+
 ## November 14, 2026 — Four-part soul anatomy
 
 The soul comprises **Anima** (magical manipulation, emission, and conversion of dietary managmins into pure mana), **Cognum** (the mind housed in the brain), **Spiritus** (the stabilized framework containing pure mana), and **Corpus** (the physical body anchoring Spiritus to this form). See [Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul).

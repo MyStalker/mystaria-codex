@@ -1,3 +1,15 @@
+## November 14, 2026 — Warlock and Moontouched Anima and Celestial Recall
+
+**Author decision:** Warlocks have the same four soul parts. Their larger, more powerful **Anima** fills the space in the **Spiritus** where pure mana would ordinarily be stored. They need dietary managmins to survive. Their Anima uses trace amounts of mana to move other mana, always less than 1 MP. Warlocks have **0 natural MP** and draw on external mana to use Manacraft. A Moontouched who is not a Warlock has a shriveled, weak **Anima** that digests only enough dietary managmins to keep them alive.
+
+**Celestial Recall:** Once Celestial Recall begins, the **Astral Heart** reaches across the planes and breaks down what remains of the **Anima**, **Spiritus**, and **Corpus**, including the physical body. The **Cognum** remains intact. The Heart combines the recovered material with formless mana to recreate the other three parts and imbues the recreated soul with the original Cognum. Greater damage, greater power, and greater depletion in the original body each increase the mana required and lengthen Recall. Its exact duration is intentionally unspecified. This supersedes the older days-or-weeks estimate.
+
+Earlier descriptions of Warlocks as empty or entirely without mana now apply only to spendable natural MP. Existing Manacraft costs and handling rules still apply. How Warlock soul vessels preserve disembodied consciousness remains open.
+
+Updated [World and Shimmer](01_World_and_Shimmer.md), [Warlock Manacraft](04_Warlock_Manacraft.md), [Races](02_Races.md), and the [Canon Index](00_Mystaria_Canon_Index.md).
+
+---
+
 ## November 14, 2026 — Four-part soul anatomy approved
 
 **Author decision:** Anima manipulates and emits magic and converts dietary managmins into pure mana. Cognum is the mind housed in the brain. Spiritus is the stabilized mana framework of the soul and contains pure mana. Corpus is the physical body that anchors Spiritus to this form.

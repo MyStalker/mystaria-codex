@@ -178,6 +178,8 @@ A soul has four parts:
 - **Spiritus** is the stabilized mana framework of the soul and contains its pure mana.
 - **Corpus** is the physical body that anchors the Spiritus to this form.
 
+A Moontouched who is not a Warlock has a shriveled, weak **Anima** that digests only enough dietary managmins to keep them alive. See [Warlock Soul Anatomy](04_Warlock_Manacraft.md#warlock-soul-anatomy) for Surrender's chosen Warlocks.
+
 The soul acts as both reservoir and regulator of mana. Its natural affinity determines which energies can be safely stored and manipulated. Attempting to channel incompatible mana can cause exhaustion, magical backlash, or spiritual damage. Different races possess distinct limitations. Moontouched lack conventional magical abilities entirely. Thornguard generate abundant white mana but cannot shape it, while Bloomkin can shape white mana but cannot produce sufficient amounts independently. Through **Concordance**, they combine these abilities. Corvyn naturally store only black mana, relying upon Starspawn familiars and enchanted tattoos to channel other colors. The ancient Serpentari mastered all five colors through extraordinary study and sophisticated magical techniques.
 
 ### Strengths and Weaknesses
@@ -216,7 +218,11 @@ These affinities influence behavior but do not determine personality or morality
 
 ### Immortality and Celestial Recall
 
-Starspawn cannot truly die. When their bodies suffer fatal damage, their Astral Hearts preserve consciousness, memories, and personality. A severely injured Starspawn may be trapped in **the Stillness**, remaining conscious despite being unable to move. If recovery becomes impossible, **Celestial Recall** returns its spirit to the Celestial Realm, where its body gradually regenerates. This usually occurs within days or weeks, although complete bodily destruction can trigger immediate Recall. Starspawn remember previous defeats, injuries, friendships, and mistreatment, learning across multiple bodies.
+Starspawn cannot truly die. When their bodies suffer fatal damage, their Astral Hearts preserve consciousness, memories, and personality. A severely injured Starspawn may be trapped in **the Stillness**, remaining conscious despite being unable to move. If recovery becomes impossible, **Celestial Recall** returns its spirit to the Celestial Realm, and complete bodily destruction can trigger immediate Recall.
+
+Once Celestial Recall begins, the **Astral Heart** reaches across the planes and breaks down what remains of the **Anima**, **Spiritus**, and **Corpus**, including the physical body. The **Cognum** remains intact. The Heart combines the recovered material with formless mana to recreate the other three parts and imbues the recreated soul with the original Cognum. Greater damage, greater power, and greater depletion in the original body each increase the mana required and lengthen Recall. Its exact duration is intentionally unspecified.
+
+Starspawn remember previous defeats, injuries, friendships, and mistreatment, learning across multiple bodies.
 
 ### Starsong — The Universal Language
 

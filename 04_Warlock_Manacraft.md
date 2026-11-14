@@ -4,7 +4,7 @@
 
 **Precedence:** The five recovered trees and this dossier supersede the conflicting older `Mystaria_Warlock_Skills_Canon.md` and its earlier copy in `04_Warlock_Manacraft.md`, including former Rank V techniques such as *Thousand Invisible Hands*, *Grand Expression*, *Great Reclamation*, *Living Arsenal* and *Absolute Reversal*. The older rank-specific MP prices belong to those superseded techniques and **do not automatically transfer** to differently functioning abilities. The new MP fees have separate explicit user approval. Earlier rules not in conflict remain valid.
 
-**Identity:** Only chosen **Moontouched** Warlocks of **Surrender** use Manacraft. They have **no natural MP generation, internal mana storage, or independent conventional spellcasting**. Ordinary power is borrowed from sources and kept in suitable external vessels; the hand is only short-term handling space. Hero attribute advancement is separate from Skill Points.
+**Identity:** Only chosen **Moontouched** Warlocks of **Surrender** use Manacraft. They have **0 natural MP, no internal reserve of spendable mana, and no independent conventional spellcasting**. Ordinary power is borrowed from sources and kept in suitable external vessels; the hand is only short-term handling space. Hero attribute advancement is separate from Skill Points.
 
 ## Skill Point costs and prerequisites
 
@@ -32,6 +32,10 @@ Earlier ranks in a discipline are prerequisites for later ranks. These costs sup
 ---
 
 ## Full recovered system, with approved replacement mechanics
+
+## Warlock Soul Anatomy
+
+Warlocks have the same four soul parts. Their larger, more powerful **Anima** fills the space in the **Spiritus** where pure mana would ordinarily be stored. They need dietary managmins to survive. Their Anima uses trace amounts of mana to move other mana, always less than 1 MP. Warlocks have **0 natural MP** and draw on external mana to use Manacraft.
 
 ## I. Base Ability — Manabending
 
