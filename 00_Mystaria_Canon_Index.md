@@ -1,3 +1,15 @@
+## November 13, 2026 — Physical ranged benchmarks and shield constructions approved
+
+Use Bludgeoning for Skyvein throws with the ordinary 25% covered-AR bypass on body hits. At the same legal attributes, Light single-target throw Power is **120% of comparable bow Piercing Power** and its range boundaries are **75% of that bow's**. Medium and Heavy use **100% of comparable bow Piercing Power** for one target and **50% of that bow's range boundaries**. Use Shortbow, Recurve, and Longbow as the respective ordinary bow benchmarks for the three classes. The existing 75% per target for two and 55% per target for three apply to the appropriate single-target throw Power. Existing 1/2/3 target caps, independent hit resolution, return, and full-turn loss of shield benefits apply. Exact ordinary bow range distances and detailed return-path rules remain unresolved.
+
+The approved starting full-draw Power benchmarks for **Shortbow / Recurve / Longbow** are **702 / 1,485 / 2,681 Piercing** and **1,048 / 2,218 / 4,005 Slashing** (nearest whole values from the calibration). The corresponding draw caps used are **22 / 32 / 43**. Use the existing quadratic partial-draw rule and ordinary arrowhead bypass. These are working Power benchmarks; ordinary bow range distances remain unresolved.
+
+Approved shield constructions are **Trufula frame with a load-bearing Boughsteel face** (physical Rating ×1.00, support STR ×0.85, with existing applicable Trufula hazards) and **Boughsteel frame with a load-bearing Glassweave face** (Balanced B, including first-physical-wound shatter). A **Nullporcelain inset on a load-bearing Boughsteel face** remains an open design question for magical interception. Boughsteel governs its physical contact. Celestite retains its Quality V triune-forging requirement. Detailed fabrication specifications and hours remain open.
+
+See [Shield Profiles](29_Physical_Shield_Profiles.md), [Ranged Catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md), and [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 13, 2026 — Skyvein multi-target Power split approved
 
 The author approved **75% of the applicable single-target throw Power per target for two distinct targets**, and **55% per target for three distinct targets**. Apply the split to final Power before target defenses. The total before defenses is 150% or 165% if all contacts land. Existing Light/Medium/Heavy target caps of 1/2/3 and the full-turn forfeiture of shield benefits apply. Single-target Power and range, especially for Light, remain open. Bludgeoning and half-bow range were test assumptions. See [Physical Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-and-approved-multi-target-split) for the landed-wound test and earlier trial.

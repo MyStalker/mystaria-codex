@@ -1,3 +1,11 @@
+## November 13, 2026 — Ordinary bow starting Power benchmarks approved
+
+The approved starting full-draw Power benchmarks for **Shortbow / Recurve / Longbow** are **702 / 1,485 / 2,681 Piercing** and **1,048 / 2,218 / 4,005 Slashing** (nearest whole values from the calibration). The corresponding draw caps used are **22 / 32 / 43**. Use the existing quadratic partial-draw rule and ordinary arrowhead bypass. These are working Power benchmarks; ordinary bow range distances remain unresolved.
+
+See [Shield Profiles](29_Physical_Shield_Profiles.md) for Skyvein's approved comparison and range ratios.
+
+---
+
 ## November 13, 2026 — Skyvein multi-target Power split approved
 
 The author approved **75% of the applicable single-target throw Power per target for two distinct targets**, and **55% per target for three distinct targets**. Apply the split to final Power before target defenses. The total before defenses is 150% or 165% if all contacts land. Existing Light/Medium/Heavy target caps of 1/2/3 and the full-turn forfeiture of shield benefits apply. Single-target Power and range, especially for Light, remain open. Bludgeoning and half-bow range were test assumptions. See [Physical Shield Profiles](29_Physical_Shield_Profiles.md#skyvein-bow-comparison-and-approved-multi-target-split) for the landed-wound test and earlier trial.
