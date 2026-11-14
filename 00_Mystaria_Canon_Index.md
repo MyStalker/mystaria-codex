@@ -1,3 +1,9 @@
+## November 14, 2026 — Four-part soul anatomy
+
+The soul comprises **Anima** (magical manipulation, emission, and conversion of dietary managmins into pure mana), **Cognum** (the mind housed in the brain), **Spiritus** (the stabilized framework containing pure mana), and **Corpus** (the physical body anchoring Spiritus to this form). See [Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul).
+
+---
+
 ## November 13, 2026 — Shared Channel Limit for magical offense and defense
 
 **Latest user decision:** Channel Limit becomes **shared throughput per turn**, replacing a fresh cap per immediate effect. Spend/commit capacity on offensive magic, eligible magical defense, contests and medium recovery; after one's turn, defensive channeling can use the *next turn's* allowance early and reduces it accordingly. Mixing magic with normal physical actions **halves Channel Limit** and allows **at most one attack total** that turn. No extra actions or double-counted MP; exact intervention timing, half rounding, and specialized interaction rules are unresolved. Preserve existing INT-based formula, MP/SP costs, Drakyn overchannel exceptions and Warlock handling. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) and [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md).
@@ -1089,7 +1095,7 @@ Direction 4, detailed ink-and-color fantasy illustration, is the defining offici
 
 | File | Scope | Current status |
 |---|---|---|
-| [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
+| [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) | World, gods, God War, Starspawn, soul anatomy, purple skies, Shimmer appearance/progression, interface, heresies | **CANON**, old Shimmer stat-growth passage explicitly superseded |
 | [`02_Races.md`](02_Races.md) | Racial descriptions and Firstshaped peoples, including approved Kobold starting statistics and Drakyn/Centaur/Corvyn updates | **CANON** with newer racial overrides |
 | [`03_Sorcery.md`](03_Sorcery.md) | Sorcery fundamentals, five colors, prices, Red and Black catalogue; Blue/Green/White source gaps | **CANON WITH SOURCE GAPS** for Blue/Green/White; Red purchase count resolved |
 | [`04_Warlock_Manacraft.md`](04_Warlock_Manacraft.md) | Revised five Warlock trees, all 25 ranks, approved MP fees, new Manabending range and handling rules | **CANON**, full source reproduced |

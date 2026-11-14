@@ -1,3 +1,13 @@
+## November 14, 2026 — Four-part soul anatomy approved
+
+**Author decision:** Anima manipulates and emits magic and converts dietary managmins into pure mana. Cognum is the mind housed in the brain. Spiritus is the stabilized mana framework of the soul and contains pure mana. Corpus is the physical body that anchors Spiritus to this form.
+
+[Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul) defines these parts alongside the existing whole-soul description of mana storage and regulation. Existing affinities, racial exceptions, and spell rules continue to apply.
+
+**Unresolved:** How brain-housed Cognum relates to identity and consciousness preserved in a disembodied soul vessel under [Soulwork](04_Warlock_Manacraft.md#rank-v--soulwork), and how the four parts relate to Starspawn Astral Hearts and Celestial Recall. The anatomy of racial exceptions to mana production and shaping is also open.
+
+---
+
 ## November 13, 2026 — Turn-scale Channel Limit and defensive channeling approved
 
 **Author decision:** The existing Channel Limit now governs **total channeled mana in a turn**, rather than permitting its full per-effect value repeatedly. A caster can ration offense to retain applicable defensive capacity. After their active turn, permitted defenses may borrow the **next** turn's channeling allowance; mana spent then reduces both their MP reserve and the next turn's remaining channel budget. A caster can be forced onto defense to exhaust next-turn options. These rules do not themselves authorize additional actions, new interrupts, or free repeated reactions.

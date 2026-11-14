@@ -169,6 +169,15 @@ No color is inherently good or evil. Black mana can remove dangerous enchantment
 
 ### Magic and the Soul
 
+#### Four-part soul anatomy
+
+A soul has four parts:
+
+- **Anima** manipulates and emits magic and converts dietary managmins into pure mana.
+- **Cognum** is the mind, housed in the brain.
+- **Spiritus** is the stabilized mana framework of the soul and contains its pure mana.
+- **Corpus** is the physical body that anchors the Spiritus to this form.
+
 The soul acts as both reservoir and regulator of mana. Its natural affinity determines which energies can be safely stored and manipulated. Attempting to channel incompatible mana can cause exhaustion, magical backlash, or spiritual damage. Different races possess distinct limitations. Moontouched lack conventional magical abilities entirely. Thornguard generate abundant white mana but cannot shape it, while Bloomkin can shape white mana but cannot produce sufficient amounts independently. Through **Concordance**, they combine these abilities. Corvyn naturally store only black mana, relying upon Starspawn familiars and enchanted tattoos to channel other colors. The ancient Serpentari mastered all five colors through extraordinary study and sophisticated magical techniques.
 
 ### Strengths and Weaknesses
