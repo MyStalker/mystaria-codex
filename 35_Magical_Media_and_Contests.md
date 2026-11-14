@@ -1,0 +1,39 @@
+# Mystaria — Magical Media and Contested Spellcasting
+
+**Status:** Author-approved qualitative framework, November 13, 2026. Quantitative MP/Power formulas and individual technique revisions remain pending. This document clarifies universal philosophy without changing existing SP prices, ranks, prerequisites or Channel Limit equations.
+
+## Environmental media are Craft-specific
+
+Every magical Craft requires its own suitable medium, tool, or environmental condition. Greater mastery expands what a practitioner can accomplish, but **does not universally expand access to the medium**. Environmental denial, interference, and removal of required equipment must remain viable tactics even against highly experienced casters.
+
+- **Wakecraft:** Requires accessible **liquid water** to manipulate and maintain water-based constructs. Skills such as Deepdraw allow recovery of liquid from difficult sources, including minute bodily moisture (sweat, urine, and other available fluids), at appropriate cost and with appropriate ability. Water may be frozen or vaporized, but no longer remains a directly manipulable medium in those states. Specific trained techniques may recover vapor as liquid or melt ice to regain control. A spell can require both MP and a volume of water.
+- **Pyromancy (future racial Craft):** Requires a qualifying existing flame, as small as a match even for a novice's amplified flame. Individual techniques may demand more existing fire, and may consume it. An identity-defining option is inhaling a great blaze, extinguishing it into smoke, and releasing a concentrated heat projectile. Smoke is specialized ammunition reserved for appropriate learned smoke techniques. Pyromancy's exact skill branches, costs and projectile rules remain undeveloped.
+- **Naga Psycraft:** Requires functioning focusing **gems** (not computational Orbs). Uses extremely bright, information-bearing **Cipherlight**, the established canon spelling, which can penetrate some materials and eyelids. More external light does not amplify Psycraft. Blocking eyesight can improve resistance at the expense of situational visual awareness; it is not automatic immunity. Appropriate sensory contact, rather than exclusively open-eye sight, can deliver effects. Target resistance persists. Specific Psycraft rank identities and effects require a separate redesign, especially Psychokinesis; do not silently delete the existing approved catalogue.
+
+Existing matter can remain after a spell: launched water remains water, and propagated flame remains flame while supportable. Spent magical energy becomes depleted and later recycled; matter is not generically consumed with MP. Casting requirements may specify a minimum physical volume of medium; definitions of units and thresholds are pending.
+
+## Magical contests: one Power statistic
+
+When compatible casters contest the same ongoing spell or medium, use **existing effective spell Power**, not a separate Control statistic.
+
+- Challenger Power **below** the original effective spell Power: fails to seize control.
+- Challenger Power **at least equal** to original spell Power: **medium seizure**. The opponent's control of that medium ends. The challenger may manipulate or deny that medium according to their own Craft. On the turn they acquire medium control, **they cannot cast an additional spell**.
+- Challenger Power **at least twice** the original effective spell Power: **complete spell seizure**. The challenger commands the existing spell as if its caster, within applicable Craft compatibility and without replenishing its remaining duration, resources, or medium. This requires giving up an action on the prior turn to prepare **or** surrendering their next action. Exact reactions/turn sequencing in contested initiative remains to be reconciled with combat rules.
+
+A challenger can commit additional MP to raise the Power of the contest attempt within their ordinary casting/channel constraints. That expenditure is not recoverable for later spells, including when the attempt fails. There is no repeat bidding exchange as a default procedure. Seizing a medium is not free acquisition of the original caster's special technique; a subsequently cast new spell pays its normal activation cost. Winning a psychic duel against a third party does not automatically bypass that person's innate resistance.
+
+### Craft-specific consequences of medium seizure
+
+- **Wakecraft:** Seized water can be moved aside, where it may remain accessible to the original caster, or be frozen/vaporized to deny direct control. The opponent may spend their action and appropriate mana to recover it as liquid if their learned techniques allow. Melting/recovery uses channel capacity in the current turn; exact amount depends on later numerical spell rules. If an active water dragon is completely vaporized, the original maintained spell **ends**; recondensing its water does not automatically revive that spell.
+- **Pyromancy:** A pyromancer seizing another's fire can inhale/extinguish it into smoke, which may then serve as ammunition for specialized learned smoke magic. When an active flamethrower loses its viable fire (for example through total immersion), its maintained spell ends.
+- **Psycraft:** Ordinary successful contests dispel the opposing psychic effect rather than creating a parallel physical substance to move aside. In a third-party mental contest, a friendly psychic may bolster the target's will and reduce the effective Power of hostile influence, even if the target cannot fully escape domination. The target's resistance still applies. A temporary interruption of the Cipherlight stream need not automatically end an established mental effect; the caster may redirect/resume the stream, but destruction of the required focus ends it. Exact persistence and intervention timing are discipline-specific pending rules.
+
+## Reconciliation and open questions
+
+- **Wakecraft conflict:** Existing `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md` describes basic control over liquid, ice and vapor, including **Wakeforce Rank IV Threefold Weave**. The author's newer liquid-only medium ruling takes precedence. Preserve the previously approved technique name/rank/SP ledger while redesigning its function around transitions and water-driven mechanisms; no unapproved replacement mechanics or rank changes.
+- **Psycraft conflict:** Existing `15_Naga_Psycraft_Canon.md` has approved Psychokinesis, Telepathy and Divination ranks. New focus/Cipherlight delivery supersedes incompatible assumptions, but replacement techniques have **not** yet been approved.
+- **Action procedure:** clarify prior-turn preparation, deferred next action, reaction availability, and whether complete spell seizure has any independent casting restriction beyond its stated action cost.
+- **Calculation:** determine effective Power sources, extra-MP contribution, and current-turn Channel Limit expenditure for reclaiming ice/vapor after equipment enchantments approach completion.
+- **Medium boundaries:** specify minimum eligible water/fire quantities per technique, flame fuel and smoke storage, how Cipherlight persistence and resistance work, and compatible interception of already-released projectiles.
+
+Preserve all existing approved SP/MP costs, ranks, equipment and defense rules until explicit further approval.
