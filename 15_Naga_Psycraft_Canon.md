@@ -1,4 +1,4 @@
-
+> **November 13 author-approved design direction (see [Magical Media and Contests](35_Magical_Media_and_Contests.md)):** Naga Psycraft requires focusing gems and information-bearing **Cipherlight** delivery. It does not scale automatically with the quantity of external light. Cipherlight can penetrate eyelids and certain materials; shutting one's eyes improves resistance but does not confer immunity and sacrifices visual awareness. Suitable sensory contact can deliver effects. Established mental influence can sometimes persist during temporary beam interruption, but destruction of the required focus ends it. Psychic contests may dispel hostile influence or reinforce a third party's will. The historic Psychokinesis, Telepathy, Divination rank ledger remains **preserved pending deliberate redesign**, not silently removed or repriced.\n\n
 
 ## November 8, 2026 — Nullporc AR/MR benchmark and shattering procedure APPROVED
 
