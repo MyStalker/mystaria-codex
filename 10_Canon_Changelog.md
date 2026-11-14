@@ -1,3 +1,15 @@
+## November 14, 2026 — Prepared reactive defensive casting approved
+
+**Author decision:** On their own turn, casters allocate their existing Channel Limit between any offensive magic and at most **one specific prepared reactive defensive spell**, within the shared budget for all applicable channeling. Name the spell and declare a narrow trigger in advance. The next attack against a specified target or by a specified attacker qualifies. A generic watch for any ally being attacked and any trigger based on an attack's outcome are invalid. When the trigger occurs, activation requires a legitimate response opportunity, the allowance reserved on the caster's own turn, the appropriate physical medium and access, and normal MP payment. This supersedes the November 13 permission to borrow next-turn capacity.
+
+**Combat and race:** The mixed physical/magical half limit and one-attack cap still apply, along with existing formulas, MP/SP costs, prerequisites and specialist rules. A Thornguard's normal sword strike can coexist with eligible physical shield Guard. Thornguard cannot personally shape mana. A magical shield through a separate eligible caster or powered interface remains conditional on its own approved rules.
+
+**Unresolved:** Exact response timing and priority, half-limit rounding, and interactions with complete spell seizure's prior preparation or next-action forfeiture and other specialized rules.
+
+Updated [Magical Media and Contests](35_Magical_Media_and_Contests.md), [World and Shimmer](01_World_and_Shimmer.md), [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md), and the [Canon Index](00_Mystaria_Canon_Index.md).
+
+---
+
 ## November 14, 2026 — Soul anatomy, casting, and ordinary death
 
 **Author-approved expansion:** [Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul) now covers Cognum and memory dispersal, Anima affinity and bodily spellcasting, Spiritus damage and Soul Shred, and the Corpus's role in ordinary death and possible early revival. This expands the earlier four-part anatomy entry. The stomach makes managmins bioavailable to the Anima, and the nervous system and especially the hands support spell shaping. The Spiritus binds the parts and reserves, and structural damage can reduce attributes through Soul Shred. Existing Celestite weapon and armor XP erosion and triggers still apply.
@@ -33,6 +45,8 @@ Updated [World and Shimmer](01_World_and_Shimmer.md), [Warlock Manacraft](04_War
 ---
 
 ## November 13, 2026 — Turn-scale Channel Limit and defensive channeling approved
+
+**Historical ruling:** The next-turn borrowing provision below was superseded by the November 14 prepared-defense revision above. The shared throughput and mixed-action rules still apply.
 
 **Author decision:** The existing Channel Limit now governs **total channeled mana in a turn**, rather than permitting its full per-effect value repeatedly. A caster can ration offense to retain applicable defensive capacity. After their active turn, permitted defenses may borrow the **next** turn's channeling allowance; mana spent then reduces both their MP reserve and the next turn's remaining channel budget. A caster can be forced onto defense to exhaust next-turn options. These rules do not themselves authorize additional actions, new interrupts, or free repeated reactions.
 

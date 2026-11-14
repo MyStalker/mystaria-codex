@@ -16,9 +16,9 @@ The soul comprises **Anima** (magical manipulation, emission, and conversion of 
 
 ---
 
-## November 13, 2026 — Shared Channel Limit for magical offense and defense
+## November 14, 2026 — Prepared reactive defensive casting
 
-**Latest user decision:** Channel Limit becomes **shared throughput per turn**, replacing a fresh cap per immediate effect. Spend/commit capacity on offensive magic, eligible magical defense, contests and medium recovery; after one's turn, defensive channeling can use the *next turn's* allowance early and reduces it accordingly. Mixing magic with normal physical actions **halves Channel Limit** and allows **at most one attack total** that turn. No extra actions or double-counted MP; exact intervention timing, half rounding, and specialized interaction rules are unresolved. Preserve existing INT-based formula, MP/SP costs, Drakyn overchannel exceptions and Warlock handling. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) and [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md).
+On their own turn, casters allocate their shared Channel Limit to any offensive magic and at most **one specific prepared defensive spell** with a narrow, outcome-independent trigger. The defense uses the reserved capacity at a legitimate response opportunity, subject to medium, access and normal MP costs. **No borrowing from the next turn.** The shared budget still covers other applicable channeling. The mixed-action half limit and one-attack cap still apply. Exact response timing, half-limit rounding and specialist interactions remain open. See [Magical Media and Contests](35_Magical_Media_and_Contests.md), [World and Shimmer](01_World_and_Shimmer.md), and [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md) for the separate physical Guard rules.
 
 ---
 
