@@ -1,4 +1,4 @@
-# Wakecraft — The Six Arts of the Living Tide
+> **November 13 author-approved qualitative override (see [Magical Media and Contests](35_Magical_Media_and_Contests.md)):** Active Wakecraft control requires **liquid water**; frozen water and vapor cannot themselves be freely maneuvered as a controlled medium. Appropriate learned abilities can melt ice or recover vapor as liquid, using mana and current-turn Channel Limit, before further manipulation. Water constructs lose their spell if their viable liquid medium is completely destroyed or made inaccessible. This supersedes conflicting earlier narrative descriptions of independently manipulating ice/vapor, including Threefold Weave's former literal description, but does **not** remove its approved rank, name, SP ledger, or automatically establish a replacement technique. Redesign is pending.\n\n# Wakecraft — The Six Arts of the Living Tide
 
 **Status: APPROVED CANON — definitive Tidekin racial magic.**  
 **Source:** Original six-art Wakecraft expansion, subsequently approved explicitly by the user.  
