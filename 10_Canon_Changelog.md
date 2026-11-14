@@ -1,10 +1,22 @@
+## November 14, 2026 — Prepared defense expiry and mixed-action rounding approved
+
+**Author decision:** The prepared defense expires at the **beginning of the caster’s next turn**, whether used or unused. Protection beyond that point requires casting a separate spell with sufficient duration or eligible maintenance. The caster names the spell and a specific trigger on their own turn, before the attack outcome is known. “The next attack targeting my knight” qualifies. “The next attack that hits my knight” depends on the outcome and is invalid. The defense draws from capacity reserved on the preparation turn. Future-turn capacity cannot be borrowed.
+
+**Mixed actions:** When otherwise legal normal physical actions and magic are combined, halve the applicable Channel Limit and round down. The caster may make at most one attack total that turn. A Bloomkin may fire a crossbow as that attack and prepare an eligible magical shield for a nearby Thornguard under the normal casting requirements.
+
+**Unresolved:** Exact response timing and priority, mixed-action commitment timing and maneuver qualification, and interactions with complete spell seizure’s prior preparation or next-action forfeiture and other specialist rules.
+
+Updated [Magical Media and Contests](35_Magical_Media_and_Contests.md), [World and Shimmer](01_World_and_Shimmer.md), [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md), and the [Canon Index](00_Mystaria_Canon_Index.md).
+
+---
+
 ## November 14, 2026 — Prepared reactive defensive casting approved
 
 **Author decision:** On their own turn, casters allocate their existing Channel Limit between any offensive magic and at most **one specific prepared reactive defensive spell**, within the shared budget for all applicable channeling. Name the spell and declare a narrow trigger in advance. The next attack against a specified target or by a specified attacker qualifies. A generic watch for any ally being attacked and any trigger based on an attack's outcome are invalid. When the trigger occurs, activation requires a legitimate response opportunity, the allowance reserved on the caster's own turn, the appropriate physical medium and access, and normal MP payment. This supersedes the November 13 permission to borrow next-turn capacity.
 
 **Combat and race:** The mixed physical/magical half limit and one-attack cap still apply, along with existing formulas, MP/SP costs, prerequisites and specialist rules. A Thornguard's normal sword strike can coexist with eligible physical shield Guard. Thornguard cannot personally shape mana. A magical shield through a separate eligible caster or powered interface remains conditional on its own approved rules.
 
-**Unresolved:** Exact response timing and priority, half-limit rounding, and interactions with complete spell seizure's prior preparation or next-action forfeiture and other specialized rules.
+**Unresolved:** Half-limit rounding was resolved in the entry above. Exact response timing and priority remain open, along with interactions with complete spell seizure's prior preparation or next-action forfeiture and other specialized rules.
 
 Updated [Magical Media and Contests](35_Magical_Media_and_Contests.md), [World and Shimmer](01_World_and_Shimmer.md), [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md), and the [Canon Index](00_Mystaria_Canon_Index.md).
 
@@ -46,13 +58,13 @@ Updated [World and Shimmer](01_World_and_Shimmer.md), [Warlock Manacraft](04_War
 
 ## November 13, 2026 — Turn-scale Channel Limit and defensive channeling approved
 
-**Historical ruling:** The next-turn borrowing provision below was superseded by the November 14 prepared-defense revision above. The shared throughput and mixed-action rules still apply.
+**Historical ruling:** The next-turn borrowing provision below was superseded by the November 14 prepared-defense revision above. The shared throughput and mixed-action rules still apply, with round-down clarified in the November 14 expiry and rounding entry.
 
 **Author decision:** The existing Channel Limit now governs **total channeled mana in a turn**, rather than permitting its full per-effect value repeatedly. A caster can ration offense to retain applicable defensive capacity. After their active turn, permitted defenses may borrow the **next** turn's channeling allowance; mana spent then reduces both their MP reserve and the next turn's remaining channel budget. A caster can be forced onto defense to exhaust next-turn options. These rules do not themselves authorize additional actions, new interrupts, or free repeated reactions.
 
 **Mixed actions:** Characters may combine legal physical actions and spellcasting, but their Channel Limit is **halved** and they can make **at most one attack total in that turn**. Do not stack physical Double Strike or a weapon attack plus a separate offensive spell into two attacks. Existing casting/physical action legality still applies.
 
-**Preservation and open implementation:** Existing attribute-derived Channel Limit formulas, MP/SP costs, class/racial skill ledgers, Wyrmcraft Overchannel/Serpentbreaker and other specialized exceptions, Warlock external-mana/Handling Capacity, physical Guard and attack rules remain unchanged. Still open: half rounding, exactly when reactive interventions are legal and how they interact with complete spell seizure's action debt, as well as other conditional exceptions. See [Magical Media and Contests](35_Magical_Media_and_Contests.md).
+**Preservation and open implementation:** Existing attribute-derived Channel Limit formulas, MP/SP costs, class/racial skill ledgers, Wyrmcraft Overchannel/Serpentbreaker and other specialized exceptions, Warlock external-mana/Handling Capacity, physical Guard and attack rules remain unchanged. Still open: exactly when reactive interventions are legal and how they interact with complete spell seizure's action debt, as well as other conditional exceptions. See [Magical Media and Contests](35_Magical_Media_and_Contests.md).
 
 ---
 
