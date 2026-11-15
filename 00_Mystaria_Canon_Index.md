@@ -1,3 +1,9 @@
+## November 15, 2026 — Vesperyn race name and naming format APPROVED
+
+**Vesperyn** (singular and plural) is the approved race name replacing the working term *Lambfolk* for the Scarlands sheepfolk pyromancer concept. Their approved cultural naming style is **gentle birth name + inherited family/hearth surname**, with **optional earned religious or inquisitorial title/epithet**; examples are illustrative, not new NPCs. See [Races](02_Races.md), [Racial Naming Conventions and Namebook](24_Racial_Naming_Conventions_and_Namebook.md), and [Canon Changelog](10_Canon_Changelog.md). Vesperyn's religious/inquisitorial, demon-hunting and First Flame lore remains in development, and this naming approval does not set their final race stats, fire-resistance/smoke-breathing mechanics, Pyromancy ranks/costs or status in the currently defined 13-playable-race balance roster. Existing Pyromancy flame-medium canon remains unchanged.
+
+---
+
 ## November 15, 2026 — Centaur full equipment attribute bonuses APPROVED
 
 **Latest author decision:** Remove the Centaur racial penalty that halved equipment-derived numerical attribute bonuses. Centaurs now receive **100% of each otherwise legal item's normal stat bonuses**, using the ordinary stacking and rounding rules, including normal Junk accessory fractional pooling. Keep the **10% reduction to aggregate equipment Soul Strain**, rounded up once after totaling equipped sources, and all other Centaur racial properties. This explicitly supersedes the earlier 50%-bonuses rule, including the prior preserved-halving language elsewhere in this historical document. No other race, enchantment coefficient, crafted item or equipped-item bonus is changed. Comprehensive race-comparative balance testing must still include all **13 playable races**, including Centaurs.
