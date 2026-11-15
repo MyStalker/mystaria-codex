@@ -1,6 +1,12 @@
+## November 15, 2026 — Centaur full equipment attribute bonuses APPROVED
+
+**Latest author decision:** Remove the Centaur racial penalty that halved equipment-derived numerical attribute bonuses. Centaurs now receive **100% of each otherwise legal item's normal stat bonuses**, using the ordinary stacking and rounding rules, including normal Junk accessory fractional pooling. Keep the **10% reduction to aggregate equipment Soul Strain**, rounded up once after totaling equipped sources, and all other Centaur racial properties. This explicitly supersedes the earlier 50%-bonuses rule, including the prior preserved-halving language elsewhere in this historical document. No other race, enchantment coefficient, crafted item or equipped-item bonus is changed. Comprehensive race-comparative balance testing must still include all **13 playable races**, including Centaurs.
+
+---
+
 ## November 15, 2026 — Centaur equipment affinity and playable audit roster (AUTHOR APPROVED)
 
-**Centaurs are playable Heroes**, with established starting statistics (effective STR **26.25**, DEX **13**, END **18**, INT **16**, SPD **25**, total **98.25**). Include Centaurs in **all future comprehensive playable-race balance studies**, making **thirteen** races with the other twelve currently used in recent tests. The Centaur equipment Soul Strain benefit is now **10% off the total equipped-item Soul Strain, rounded upward once** (ceil(0.90 × subtotal)), **NOT** a half-strain discount. The separate **50% reduction to equipment-derived stat bonuses stays approved and unchanged**. See [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md), and [Equipment and Economy](09_Equipment_and_Economy.md).
+**Centaurs are playable Heroes**, with established starting statistics (effective STR **26.25**, DEX **13**, END **18**, INT **16**, SPD **25**, total **98.25**). Include Centaurs in **all future comprehensive playable-race balance studies**, making **thirteen** races with the other twelve currently used in recent tests. The Centaur equipment Soul Strain benefit is now **10% off the total equipped-item Soul Strain, rounded upward once** (ceil(0.90 × subtotal)), **NOT** a half-strain discount. **The formerly approved 50% reduction to equipment-derived stat bonuses has been expressly removed; Centaurs now receive full normal equipment bonuses.** See [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md), and [Equipment and Economy](09_Equipment_and_Economy.md).
 
 ---
 
