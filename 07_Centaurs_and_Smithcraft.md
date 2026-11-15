@@ -1,3 +1,9 @@
+## November 15, 2026 — Centaur equipment Soul Strain discount reduced to 10% (AUTHOR APPROVED)
+
+**Approved revision:** The Centaur racial discount on equipment-derived Soul Strain changes from **50%** to **10%**. Compute **ceil(0.90 × total equipment Soul Strain across actually equipped items)**, rounding only once on the combined equipment subtotal, before adding unrelated strain sources. The original **50% reduction to equipment-derived numerical stat bonuses** remains unchanged. This preserves other racial traits, natural MP, equipment special effects and crafting; the change applies equally to existing and future Centaur characters. Examples: total equipment strain 4 ⇒ 4, 12 ⇒ 11, 20 ⇒ 18. Centaurs are an **approved playable race** and **must be included alongside the twelve previously tallied playable races in future comprehensive balance audits (thirteen total)**. See the owning Equipment Affinity section below.
+
+---
+
 ## November 15, 2026 — Heavy armor crafting access warning (LATEST AUTHOR APPROVAL)
 
 > **IMPORTANT FOR DMs — DO NOT USE SMITHCRAFT TO BYPASS EARLY HEAVY-ARMOR AVAILABILITY.** Heavy armor is **not** ordinary level-1 starting equipment or beginner-shop stock. Do not allow a Hero to craft or commission it as a routine shortcut before the campaign reaches an appropriate Heavy-armor access stage. The approved progression expects uncommon **Partial Heavy** around levels **5–9**, increasingly available **Partial/Standard Heavy** at **10–14**, and ordinary high-end **Full Heavy** access at **15–20**; Full Heavy may appear exceptionally to a legally qualified specialist before that. These are **DM acquisition and crafting-availability guidelines, not additional automatic numerical item-wielding level gates**. Any earlier manufacture or acquisition needs a deliberate DM exception.
@@ -545,7 +551,7 @@ These requirements were proposed and adopted in the original Centaur design, but
 
 ## V. Equipment affinity — CANON
 
-Centaurs suffer **50% reduced equipment Soul Strain**, and receive **50% reduced equipment-derived stat bonuses**. Both are rounded **up after halving the total item value**. Other activated powers, mundane protection, reach and material traits are unaltered. For example: ordinary Quality III sword **+10 STR / 4 Soul Strain** becomes **+5 STR / 2 Soul Strain** on a Centaur. The reduction does **not** cover unrelated dragonmark strain or Celestite's direct soul damage. Full five-quality benchmarks in `09_Equipment_and_Economy.md`.
+**November 15, 2026 approved revision:** Centaurs receive a **10% discount on equipment-derived Soul Strain**: sum the otherwise applicable Soul Strain from all currently equipped items, multiply that equipment-only subtotal by **0.90**, then **round up once** to the next whole Soul Strain point. Do not round each piece separately before applying the racial discount; this allows a modest benefit across a full loadout without fractional MP accounting. **Equipment-derived numerical stat bonuses are still reduced by 50%**, with their existing upward rounding at each applicable item total. Other activated powers, mundane protection, reach, and material traits remain unaltered. Example: an enchanted sword with **+10 STR / 4 equipment Soul Strain** gives a Centaur **+5 STR** and contributes **4** to their equipment-strain subtotal. If it is the only strain source, its final strain is **ceil(0.90 × 4) = 4**; if all equipped items total **20** strain, the total becomes **18**, freeing **2 MP**. The discount does **not** apply to unrelated dragonmark strain, healing strain, or Celestite's direct soul damage. This supersedes the older 50% equipment-strain discount and its former +5 STR / 2 Soul Strain example. Full five-quality benchmarks in `09_Equipment_and_Economy.md`.
 
 ## VI. The twelve selected materials — CANON
 
@@ -671,7 +677,7 @@ The user later requested that **Formwright and Monumentcraft be considered blank
 
 ### November 5, 2026 — Attribute rebasing note
 
-The new starting totals above use **+10 to each original base attribute before racial +25% STR/SPD modifiers**. Hero lifting calculations now use the adopted quadratic STR-based benchmark in `01_World_and_Shimmer.md`; racial anatomy still affects handling. Equipment-derived boosts and the Centaur half-equipment-affinity rules remain unchanged. The **armor-rating and SPD-penalty scaling overhaul remains an unfinished proposal**. Existing firearm reaction SPD benchmarks must be reviewed for consistency with new starting stats, but are not silently replaced here.
+The new starting totals above use **+10 to each original base attribute before racial +25% STR/SPD modifiers**. Hero lifting calculations now use the adopted quadratic STR-based benchmark in `01_World_and_Shimmer.md`; racial anatomy still affects handling. Equipment-derived boosts follow current Centaur equipment affinity: **90% aggregate equipment Soul Strain, rounded up once**, and **50% equipment-derived numerical stat bonuses**. This supersedes the historical half-strain wording. The **armor-rating and SPD-penalty scaling overhaul remains an unfinished proposal**. Existing firearm reaction SPD benchmarks must be reviewed for consistency with new starting stats, but are not silently replaced here.
 
 
 ## November 5, 2026 — Extreme-speed charge principle (cross-reference)
