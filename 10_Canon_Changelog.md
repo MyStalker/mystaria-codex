@@ -1,3 +1,15 @@
+## November 15, 2026 — Vesperyn race name and personal naming convention APPROVED
+
+**Latest author approval:** The Scarlands sheepfolk previously called **Lambfolk** during concept development are officially **Vesperyn** (both singular and plural). *Lambfolk* is a superseded development label, not the proper racial name.
+
+**Previously approved naming convention, now filed under Vesperyn:** gentle/pastoral personal birth names; inherited family or ancestral-hearth surnames that may sound gothic, infernal or devotional; and optional earned religious/inquisitorial titles, offices or epithets. These ceremonial forms do not replace the birth/family name and are not compulsory for ordinary Vesperyn. Examples such as *Elspeth Blackwick*, *Mabel Tallowmere* and *Sister Elspeth Blackwick* illustrate the pattern; they do not establish named NPCs, noble lines, church rank rights or a complete additional approved 30-name list.
+
+**Scope and outstanding work:** The Vesperyn concept centers on Scarlands demon hunting, religious inquisitors, sacred flame and Pyromancy. The existing-flame prerequisite of Pyromancy is already independently established in `35_Magical_Media_and_Contests.md`. The user's wider ideas (Hearthkeeper and Ashen Legion institutions, First Flame phenomena, demon classification and possession, relations with Vren Blood Courts, Centaur-city community, proposed wool fire resistance and smoke breathing) await their own detailed lore/mechanics references; the present approval does not assign new SP/MP costs, finalized numerical racial traits, legal powers or playable-race benchmark statistics.
+
+**Updated files:** `24_Racial_Naming_Conventions_and_Namebook.md`, `02_Races.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`. Earlier approved 15-group/450-example namebook remains preserved.
+
+---
+
 ## November 15, 2026 — Centaur full equipment attribute bonuses APPROVED
 
 **Latest author decision:** Remove the Centaur racial penalty that halved equipment-derived numerical attribute bonuses. Centaurs now receive **100% of each otherwise legal item's normal stat bonuses**, using the ordinary stacking and rounding rules, including normal Junk accessory fractional pooling. Keep the **10% reduction to aggregate equipment Soul Strain**, rounded up once after totaling equipped sources, and all other Centaur racial properties. This explicitly supersedes the earlier 50%-bonuses rule, including the prior preserved-halving language elsewhere in this historical document. No other race, enchantment coefficient, crafted item or equipped-item bonus is changed. Comprehensive race-comparative balance testing must still include all **13 playable races**, including Centaurs.
