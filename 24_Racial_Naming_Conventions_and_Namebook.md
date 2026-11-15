@@ -1,3 +1,13 @@
+## November 15, 2026 — Vesperyn naming convention and racial name (CANON)
+
+**Vesperyn** (singular and plural) is the author-approved proper racial name for the Scarlands sheepfolk previously called **Lambfolk** in development. *Lambfolk* remains a descriptive old working label, not the canonical racial name.
+
+**Approved name structure:** A Vesperyn ordinarily receives a **gentle, pastoral-sounding birth name**, followed by an **inherited family or ancestral-hearth surname**. Surnames can have gothic, devotional or infernal overtones; they are not necessarily markers of religious office or noble privilege. Religious vocation, inquisitorial service and notable achievement may add an **optional earned title, office or epithet** before or after the personal name. Ordinary Vesperyn need no ceremonial title. This blends gentle birth names with imposing religious styling without imposing it on every individual.
+
+**Illustrative examples only (not a separately approved NPC roster or lineage list):** Elspeth Blackwick; Mabel Tallowmere; Perrin Hearthwell; Azrielle Whitecinder; Sister Elspeth Blackwick; Mother Mabel Blackwick, the Unburnt. These examples do **not** finalize church hierarchy, the precise privileges of Hearthkeepers, historic families, actual named inquisitors or an additional 30-name approved namebook. The previously approved 15-group / 450-name collection below remains intact; Vesperyn add an approved convention without retroactively changing that collection.
+
+---
+
 # Mystaria — Approved Racial Naming Conventions and Common Namebook
 
 ## November 7, 2026 — Ancient true Serpentari four-name meanings approved (CANON)
