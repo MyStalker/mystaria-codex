@@ -1,3 +1,15 @@
+## November 15, 2026 — Starter armor, Heavy armor availability, and anti-bypass crafting warning APPROVED
+
+**Latest explicit author approval:** The previously proposed early equipment plan is adopted as **normal acquisition expectations**. New Heroes retain their existing granted Junk Quality I Boughsteel weapon and armor ensemble. **Junk Light armor is the ordinary starter choice; legally qualified Medium Junk armor may be used at the DM's discretion; Heavy armor (including Partial, Standard, Full) is absent from ordinary starter grants and beginner shops.** Qualifying Heavy **weapons** remain available to level-1 characters subject to existing requirements, rather than being level-locked like Heavy armor stock.
+
+**Approved progression:** Levels **1–4** Light normally, Medium if qualified; levels **5–9** QI Medium readily available and Partial Heavy uncommon later; levels **10–14** QI Partial/Standard Heavy reasonable specialist gear, Full Heavy exceptional for a qualified character; levels **15–20** QI Full Heavy normal high-end armor for qualified users. Special smiths, adventure rewards, and deliberately exceptional early discoveries are DM-controlled. The stages guide **availability**, not new universal class-level use gates or automatic Gem/item payouts. All item stats, existing material/Quality/coverage prerequisites, pricing, and mobility consequences are preserved.
+
+**Explicit author-added DM warning:** **Do not allow self-crafting to bypass appropriate Heavy armor progression or its pre-existing prerequisites.** Heavy armor is not routinely craftable prior to the suitable campaign access band; earlier crafting or unusual acquisition requires a deliberate DM exception **and all genuine smithcraft, forge, materials, Quality and wearer handling requirements must still be satisfied**. A high STR score, money, or normal forge-hours alone cannot evade these restrictions. No new numerical Anvilcant ranks or hard level gates are silently enacted.
+
+**Remaining to test:** Level-1 race-specific Light/Medium Junk starter legality and attack effectiveness; timing of Partial Heavy acquisition, unusual materials and resulting wound vulnerability; possible future adjustments to accessibility after levels 5, 8, 10, and 15. **Owning documents:** `09_Equipment_and_Economy.md` and `07_Centaurs_and_Smithcraft.md`; index updated. No physical damage, AR, requirement, crafting-time, or economic formula changes.
+
+---
+
 ## November 14, 2026 — Prepared defense expiry and mixed-action rounding approved
 
 **Author decision:** The prepared defense expires at the **beginning of the caster’s next turn**, whether used or unused. Protection beyond that point requires casting a separate spell with sufficient duration or eligible maintenance. The caster names the spell and a specific trigger on their own turn, before the attack outcome is known. “The next attack targeting my knight” qualifies. “The next attack that hits my knight” depends on the outcome and is invalid. The defense draws from capacity reserved on the preparation turn. Future-turn capacity cannot be borrowed.
