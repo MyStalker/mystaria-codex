@@ -62,3 +62,6 @@ An assistant proposal, brainstorming transcript, worked example, or unapproved d
 
 ---
 
+## Centaur playable roster and equipment strain (AUTHOR APPROVED November 15, 2026)
+
+For **every future comprehensive Mystaria playable-race balance audit**, include **Centaurs as the thirteenth playable race** alongside the previous twelve (including Kobolds). Consult 07_Centaurs_and_Smithcraft.md for their approved stats and racial rules. Centaur equipment-derived Soul Strain is **90% of the combined equipped-item Soul Strain, rounded UP once**; the former **50% equipment Soul Strain discount is superseded**. Their separate **50% reduction to equipment-derived numerical stat bonuses remains approved**. Do not silently apply the 10% discount to non-equipment strain or Celestite's direct soul damage.
