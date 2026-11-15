@@ -1,3 +1,17 @@
+## November 15, 2026 — Two-action combat, Naked d20 and Candidate A APPROVED for friends-led physical PILOT
+
+**Author approval:** Adopt the assistant's recommended physical combat package for the author's own unhurried play with friends. **No AI-driven playtests, scheduled follow-up, or obligatory logging.** This is **approved for pilot play**, not proof of permanently completed balancing. The author requested future balancing QUESTIONS only.
+
+**Pilot rules:** **Two actions, maximum one offensive attack action per turn**; Full Attack and approved **60%-per-strike Double Strike** each cost **2**, Quick Attack **1** with **full Power but one harder hit category**, no 80%-Power Quick. Naked d20: **Certain automatic, Easy 4+, Average 8+, Hard 12+, Very Hard 17+, Impossible no ordinary roll**. Keep approved Combat Speed calculation but use **wider pilot cutoffs 0.20/0.80/1.25/2.50/5.00** rather than original **0.50/0.80/1.25/1.50/3.00**. Half/Full Parry **1/2 actions, +1/+2 harder hit categories, 1/2 earned PP for an actually prevented would-be body hit**, with specific prepared triggers, shield-first same-die procedure and expenditure cooldown. Half/Full Dash **1/2 actions, +25%/+50% Combat Speed** through start of next turn, without multiplying movement distance or initiative.
+
+**Candidate A physical shields:** Light/Medium **+1**, Heavy **+2** on legitimately defendable Guard lines. One attack die first tests ordinary baseline, then shielded threshold; **natural miss / shield contact / body hit** are distinct. Supersedes older **automatic physical Guard** and conflicting same-line **+0/+1/+1 obstruction** during the pilot, not established shield durability/overflow, magical interception or material properties. Actual geometry, separate simultaneous attacks and Extreme Pressure still apply. **Older Deflect remains**, because the audit's suggestion to remove it was not distinctly approved as a listed recommendation.
+
+**Deferred questions, not tasks:** low-level wound routes, high-END non-woundability, Heavy shield mirror pacing and wear, material contact-trigger frequency, relative Quick/Full/Double Strike and Parry choices, broader vs original Speed cutoffs, movement/escape/pursuit geometry, shield flanks/Deflect, magic interface and one-die tabletop usability. The author can revisit these at any time based on actual friend-group play; there is no deadline and no automated combat monitoring.
+
+**Supersession/owning sources:** [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) contains the full approved pilot and deferred questions; [Physical Shield Profiles](29_Physical_Shield_Profiles.md) owns new pilot shield routing. Older details not specifically changed continue; the simulation ZIP is evidence, not independently imported into GitHub. Changed files: `22_Combat_Endurance_and_Shimmer_Guard.md`, `29_Physical_Shield_Profiles.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 15, 2026 — Vesperyn race name and personal naming convention APPROVED
 
 **Latest author approval:** The Scarlands sheepfolk previously called **Lambfolk** during concept development are officially **Vesperyn** (both singular and plural). *Lambfolk* is a superseded development label, not the proper racial name.
