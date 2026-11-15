@@ -55,3 +55,10 @@ An assistant proposal, brainstorming transcript, worked example, or unapproved d
 - Verify all numbers, costs, prerequisites, names and cross-reference paths against approved sources.
 - Clearly report files changed, any unresolved issues, and what still needs the user's approval.
 - State whether edits exist **only on a branch**, in an open pull request, or **merged**. Never say repository files were updated when no successful write occurred.
+
+## Mandatory Mystaria DM safeguard — wound-route viability (AUTHOR APPROVED November 15, 2026)
+
+**When running Mystaria as a DM inside ChatGPT, check every combat encounter intended to be won by wounds *before* presenting it.** The Hero must have at least one **plausible, actually available, rules-legal way to wound the relevant enemy**, given the Hero's real inventory/abilities, Power, the target's END/armor/shield, reach, terrain, Sweep clearance and reachable coverage. Apply the strict **Impact >0.75** threshold, rather than assuming hitting implies wounding. Do not invent an exposed weak point, offer a weapon not possessed, or rely on otherwise impossible hit/target conditions. If no wound route exists, revise the enemy/setup or make **an attainable non-wounding objective** explicit in encounter design; deliberate invincible or overwhelming threats can serve escape, rescue, negotiation and survival scenes when the Hero is not required to wound them. **Winnable in principle does not mean easy or guaranteed success.** The approved owner is `22_Combat_Endurance_and_Shimmer_Guard.md`. Preserve existing stats and combat mechanics; this is an encounter-preparation requirement.
+
+---
+
