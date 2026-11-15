@@ -1,3 +1,49 @@
+## November 15, 2026 — Two-action combat and Candidate A shield rules APPROVED FOR PHYSICAL TABLETOP PILOT
+
+**Latest author approval and scope:** Use the reviewed combat recommendations as an **author-approved tabletop pilot**, to be played by the author with friends at their own pace, **not as an AI-run playtest or scheduled balancing program**. These pilot procedures take precedence over inconsistent earlier physical combat/Guard and evasion-cutoff text below, but do not certify permanent balance, alter existing equipment Power, END, AR, injury thresholds, material abilities, SP/MP costs, crafting, racial exceptions, or authorize new magic resolution. No follow-up or play log is required unless the author chooses to discuss observations.
+
+### Pilot action economy, hit dice and Speed
+
+- **Two actions per combatant turn, maximum one offensive attack action per turn.** **Full Attack (2 actions)** uses the ordinary full legal Power and hit difficulty. **Quick Attack (1 action)** uses **full otherwise final attack Power**, with hit difficulty **one category harder**; the old 80%-Power Quick test is not the pilot rule. The unused action can support a different legal one-action choice, but never a second attack.
+- **Double Strike is a Full Attack (2 actions)**. Retain **two independent attacks at 60% of each attack's otherwise final Power**, one user self-PP, one legal target per hand, existing offhand/Guard sacrifices and existing Light/Medium shield eligibility; **Heavy shields cannot Double Strike**. It is not a second offensive action, nor an extra Quick Attack.
+- **Naked d20 categories:** Certain = automatic success; Easy = **4+**; Average = **8+**; Hard = **12+**; Very Hard = **17+**; Impossible = no ordinary roll. Resolve genuine contextual difficulty shifts then clamp to these six categories. Hitting still requires the ordinary Power/Defense check to cause an injury.
+- Keep the approved **Combat Speed = effective SPD + effective DEX/4**, with actual existing armor SPD modifier applied to the combined result, and legitimate separate wound/equipment effects. For this pilot, compare defender/attacker Combat Speed using these **wider cutoffs**: ratio below **0.20** Certain; **0.20–<0.80** Easy; **0.80–<1.25** Average; **1.25–<2.50** Hard; **2.50–<5.00** Very Hard; **5.00+** Impossible. Equality enters the harder band. The former **0.50/0.80/1.25/1.50/3.00** boundaries remain a later human-play comparison, not an additional modifier. This does not change initiative or actual physical movement distance.
+
+### Candidate A physical shield Guard (PILOT)
+
+A real, usable, stat-qualified shield in **Guard**, actually capable of defending the selected physical line, shifts hit difficulty **one category harder with Light/Medium** or **two harder with Heavy**. Apply this single combined shield shift **instead of** the previous automatic Guard interception and separate +0/+1/+1 shield-body-line obstruction for that same attack. Do **not** double count shield coverage. An undefendable line receives no shield modifier.
+
+**Use one natural d20**, checking both the **baseline category** (all lawful non-shield modifiers) and **shield-shifted category**. Fails baseline = **natural miss, no shield contact or wear**. Passes baseline but fails shielded check = **actual shield contact**, using existing shield Defense, material, condition loss and only-on-break torso overflow. Passes both = **body hit**, resolved with actual END, armor and wound rules. Certain/Impossible endpoints retain their defined meaning. Example, an ordinary Average line: Light or Medium gives **35% miss / 20% shield / 45% body**; Heavy **35% miss / 45% shield / 20% body**. Those percentages describe **routing**, not wound probabilities.
+
+Existing geometry, real simultaneous opposing lines, legal initiative coordination and **net 3+ PP Extreme Pressure** govern whether the shield can defend a line. The old automatic-Guard-only one-of-two flank-interception procedure is not the pilot routing; flanking alone does **not** grant a free hit or universal bypass. Preserve actual existing Shield Rating, durability and overflow; Junk/ceramic/Bellcopper/Thornspring rules; and **separate eligible Glassweave/Nullporcelain magical spell interception** without inventing spell absorption values.
+
+**Deflect is retained as a separate previously approved stance**: forgoing Candidate A Guard and obstruction in return for its physically credible offhand Defense/one-PP counteraction. Although the newer audit proposed retiring Deflect, its removal was not expressly among the assistant's listed approved recommendations. Track whether it should stay as a **future balancing question**, not an unapproved repeal.
+
+### Parry and Dash (PILOT)
+
+- **Half Parry:** **1 action**, makes the eligible incoming attack **+1 category harder**, earns **1 PP** if Parry really prevents a would-be body hit. **Full Parry:** **2 actions**, **+2 categories**, earns **2 PP** on such prevention. Prepare one specific outcome-independent eligible trigger on the parrying character's own turn. Use the **same attack d20** and resolve actual physical shield contact before Parry. An ordinary natural miss or shield contact cannot generate free Parry PP. A credible natural miss may be deliberately narrated as intercepted but does not generate PP under this pilot; revisit whether this accounting feels right in player-led play.
+- Earned Parry PP persists through the parrying combatant's next turn and refreshes rather than freely stacking from the same source; there is **no automatic counterattack**. A successful **spent Half Parry** prevents new Parry preparation on the next turn; unused preparations expire at the start of that turn without a lock; a successful **Full Parry** waives the cooldown. Full Parry affects one eligible incoming Double Strike strike, not both. Retain independent existing Pressure sources and restrictions.
+- **Half Dash (1 action): +25% Combat Speed** until the start of the user's next turn. **Full Dash (2 actions): +50% Combat Speed** for that interval. Neither bonus creates extra attacks or automatically modifies actual running distance, initiative, teleportation, obstacles or unrelated reach. Only attempt physically reachable repositioning/escape/pursuit objectives; concrete movement timing remains subject to existing and unresolved positioning rules.
+
+### FUTURE BALANCING QUESTIONS — author-led play, no AI tests or deadlines
+
+The author will simply play with friends and may mention impressions or examples whenever convenient. **Do not schedule, solicit reports, invent playtest outcomes, or run AI encounter tests in response to this backlog.** Questions to revisit only if the author raises them:
+
+1. **Low-level progress:** Do level-1 covered fights stall because actual starting attacks cannot wound, or because contacts are merely infrequent? Does the approved DM wound-route check provide a real alternative?
+2. **High-END damage limits:** Can otherwise legal attacks wound even without a shield, including the extreme AR-0 threshold cases? Avoid treating every nonprogression case as an accuracy problem.
+3. **Shields:** Are the three classes defensively distinct without interminable Heavy-shield mirrors? Does fewer shield contacts make physical wear, ceramic shatter, Bellcopper recharge and Thornspring Recoil too rare?
+4. **Attack choices:** Is full-Power/harder-category Quick Attack useful but not dominant, especially with Half Dash? Do Double Strike and high-grade offhands remain worthwhile when both 60%-Power hits clear injury thresholds?
+5. **Defensive behavior:** Do Quick + Half Parry or sustained Full Parry slow combat? Are prepared triggers, result-aware PP, cooldown and no-reward-on-miss intuitively satisfying?
+6. **Speed:** Do wider **0.20/0.80/1.25/2.50/5.00** cutoffs preserve meaningful Speed specialization compared with the prior **0.50/0.80/1.25/1.50/3.00** cutoffs?
+7. **Positioning:** Do Dash, pursuit, withdrawal, reach, obstacles, movement geometry, multiple attackers and explicit objectives support interesting choices? What timing ambiguity arises at the table?
+8. **Shield stances and flanking:** Keep or retire Deflect? Are opposing simultaneous lines clear and fair under Candidate A?
+9. **Magic integration:** Magical Parry, mixed physical/casting actions, reactive spell timing, power-to-shield-absorption, partial spell effects and magical ceramic wear remain independently unresolved. Do not assume new spell mechanics from this physical pilot.
+10. **Ease and enjoyment:** Can players resolve one-die miss/shield/body/Parry routing quickly, and do their actual choices feel consequential?
+
+**Evidence scope:** The November 15 integrated shield reproduction archive is experimental evidence, not new magic canon or an automatically committed GitHub dataset. Its sample findings motivate these questions but do not impose any AI follow-up.
+
+---
+
 ## November 15, 2026 — Encounter wound-route viability; mandatory for ChatGPT-run Mystaria (AUTHOR APPROVED)
 
 **Approved DM encounter-design requirement:** Whenever a Hero is expected to overcome an opponent by inflicting wounds, the DM must verify **before presenting or committing to the encounter** that the Hero has **at least one genuinely plausible way to wound that opponent**, based on the Hero's **actual usable equipment, abilities, stat/Power, the defender's END and armor, physical reach and clearance, and the battlefield**. Do not assume an attack can wound merely because it can hit. Apply the established Power/Defense calculation and the **strict Impact >0.75 wound threshold**, including the correct physical armor bypass and any physically available protection coverage.
