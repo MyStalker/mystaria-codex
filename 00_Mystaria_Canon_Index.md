@@ -1,3 +1,9 @@
+## November 15, 2026 — Centaur strain affinity reduced; 13 playable races in future tests APPROVED
+
+**Latest author approval:** Centaurs pay **90% of their combined equipped-item Soul Strain**, rounded up **once** after combining those equipment sources (ceil(0.90 × sum)). This replaces their former 50% equipment-strain discount; the separate **50% reduction to equipment-derived numerical stat bonuses is unchanged**, as are other Centaur racial abilities. Existing ordinary Soul Strain from non-equipment sources receives no Centaur discount. **Centaurs are playable** and **must join the twelve existing playable races in future comprehensive combat/equipment balance studies**, for **13 total**. Existing older twelve-race audit results are historical samples and do not establish Centaur nonplayability. See [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md), [Equipment and Economy](09_Equipment_and_Economy.md), and [Races](02_Races.md).
+
+---
+
 ## November 15, 2026 — Drider starting stats revised; +10% all-stat exception APPROVED
 
 **Latest Drider canon:** Base level-1 STR/DEX/END/INT/SPD **18/18/16/15/15** (total 82), with a special **+10% permanent bonus to each of the five stats**, yielding effective **19.8/19.8/17.6/16.5/16.5** (total **90.2**). This replaces Drider's former base **19/19/19/19/19** and END +25%, and expressly overrides the general racial 25%-step modifier policy **only for Driders**. Their strong STR/DEX, moderate END, racial abilities, size, and rarity remain; no other race or combat rule is revised. See [World and Shimmer](01_World_and_Shimmer.md), [Races](02_Races.md), [Canon Changelog](10_Canon_Changelog.md). **Previous Drider-matchup audits are snapshots of obsolete stats; future tests must recalculate.**
@@ -1216,7 +1222,7 @@ Read [`12_Languages_and_Linguistic_Customs.md`](12_Languages_and_Linguistic_Cust
 | Original Centaur Anvilcant | 6 disciplines, 30 ranks = **150 SP**; two branches under redesign |
 | Proposed Centaur overhaul | 8 disciplines, 40 ranks = **200 SP** — **NOT CANON YET** |
 | Equipment | Five standard levels **14/30/50/70/90 Gems**, ordinary enchanted Soul Strain **1/2/4/6/8** |
-| Centaur equipment affinity | **Half equipment Soul Strain and half equipment stat bonuses**, round up totals; other properties retain full effect |
+| Centaur equipment affinity | **10% off combined equipment Soul Strain** (ceil(0.90 × equipped subtotal) once); **50% equipment-derived numerical stat bonuses** (existing item rounding); other properties unchanged |
 | Mana-free races | **Moontouched** natural 0 MP; **Drakyn** natural 0 MP and 0 rest recovery (feed to acquire mana) |
 
 ## Primary rules that avoid the largest continuity mistakes
