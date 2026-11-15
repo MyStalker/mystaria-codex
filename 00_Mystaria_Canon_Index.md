@@ -1,3 +1,9 @@
+## November 15, 2026 — Starter armor, Heavy armor access and DM crafting warning APPROVED
+
+New Heroes receive their existing Junk QI Boughsteel weapon and armor grant, normally **Light armor** or **Medium armor if qualified**, but **no Heavy armor** among ordinary starting gear or in beginner shops. Heavy weapons are permitted at level 1 when otherwise lawful. Normal availability advances from readily accessible QI Medium around levels 5–9, to uncommon Partial Heavy (later in that band), more accessible Partial/Standard Heavy at levels 10–14, and Full Heavy as high-end gear at levels 15–20, with DM-controlled exceptional early access. **DM WARNING: Do not allow crafting or commissioning to bypass Heavy armor's campaign availability or actual stat/smithcraft/forge/material prerequisites.** These level bands are availability guidance, not new universal use-level gates. See [Equipment and Economy](09_Equipment_and_Economy.md) and [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md). Targeted accessibility/combat tests remain open.
+
+---
+
 ## November 14, 2026 — Soul anatomy, casting, and ordinary death
 
 [Magic and the Soul](01_World_and_Shimmer.md#magic-and-the-soul) now covers Cognum and memory dispersal, Anima affinity and bodily spellcasting, Spiritus damage and Soul Shred, and the Corpus's role in ordinary death and possible early revival. Starspawn Celestial Recall and Warlock Soulwork retain their established exceptions. Necromancy remains a future concept.
