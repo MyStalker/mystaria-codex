@@ -1,3 +1,9 @@
+## November 15, 2026 — Centaur equipment affinity and playable audit roster (AUTHOR APPROVED)
+
+**Centaurs are playable Heroes**, with established starting statistics (effective STR **26.25**, DEX **13**, END **18**, INT **16**, SPD **25**, total **98.25**). Include Centaurs in **all future comprehensive playable-race balance studies**, making **thirteen** races with the other twelve currently used in recent tests. The Centaur equipment Soul Strain benefit is now **10% off the total equipped-item Soul Strain, rounded upward once** (ceil(0.90 × subtotal)), **NOT** a half-strain discount. The separate **50% reduction to equipment-derived stat bonuses stays approved and unchanged**. See [Centaurs and Smithcraft](07_Centaurs_and_Smithcraft.md), and [Equipment and Economy](09_Equipment_and_Economy.md).
+
+---
+
 # Mystaria — Races and Firstshaped Peoples
 
 ## November 9, 2026 — True Serpentari aquatic nature (CANON)
