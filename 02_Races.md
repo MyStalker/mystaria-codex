@@ -1,3 +1,11 @@
+## November 15, 2026 — Vesperyn racial name and naming convention APPROVED
+
+**Vesperyn** is the approved singular and plural race name for the previously concepted Scarlands sheepfolk, formerly referred to provisionally as **Lambfolk**. The Vesperyn are associated with the planned racial Pyromancy Craft; its existing-flame medium requirements remain governed by [Magical Media and Contests](35_Magical_Media_and_Contests.md). The author's approved **Vesperyn naming convention** combines gentle pastoral birth names, inherited family or ancestral-hearth surnames with gothic or devotional flavor, and optional earned religious/inquisitorial titles or epithets. Civilian Vesperyn do not need a religious title. See [Racial Naming Conventions](24_Racial_Naming_Conventions_and_Namebook.md).
+
+**Scope of this update:** This canonizes the race name and naming pattern, **not** a full racial mechanics dossier, new playable-race statistics, a revised 13-race test roster, Pyromancy skill costs, or numerical implementations of fire resistance and smoke breathing. The Vesperyn's demon-hunting, inquisitorial and religious character, sacred First Flame, Scarlands legal standing and Centaur-city enclave remain active worldbuilding subjects awaiting detailed reference development. Do not infer undocumented effects, ranks or laws.
+
+---
+
 ## November 15, 2026 — Centaur full equipment attribute bonuses APPROVED
 
 **Latest author decision:** Remove the Centaur racial penalty that halved equipment-derived numerical attribute bonuses. Centaurs now receive **100% of each otherwise legal item's normal stat bonuses**, using the ordinary stacking and rounding rules, including normal Junk accessory fractional pooling. Keep the **10% reduction to aggregate equipment Soul Strain**, rounded up once after totaling equipped sources, and all other Centaur racial properties. This explicitly supersedes the earlier 50%-bonuses rule, including the prior preserved-halving language elsewhere in this historical document. No other race, enchantment coefficient, crafted item or equipped-item bonus is changed. Comprehensive race-comparative balance testing must still include all **13 playable races**, including Centaurs.
