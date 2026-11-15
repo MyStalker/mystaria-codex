@@ -1,3 +1,9 @@
+## November 15, 2026 — Drider starting stats revised; +10% all-stat exception APPROVED
+
+**Latest Drider canon:** Base level-1 STR/DEX/END/INT/SPD **18/18/16/15/15** (total 82), with a special **+10% permanent bonus to each of the five stats**, yielding effective **19.8/19.8/17.6/16.5/16.5** (total **90.2**). This replaces Drider's former base **19/19/19/19/19** and END +25%, and expressly overrides the general racial 25%-step modifier policy **only for Driders**. Their strong STR/DEX, moderate END, racial abilities, size, and rarity remain; no other race or combat rule is revised. See [World and Shimmer](01_World_and_Shimmer.md), [Races](02_Races.md), [Canon Changelog](10_Canon_Changelog.md). **Previous Drider-matchup audits are snapshots of obsolete stats; future tests must recalculate.**
+
+---
+
 ## November 15, 2026 — DM and ChatGPT encounter wound-route check APPROVED
 
 **Mandatory encounter preparation:** For any fight intended to be resolved by wounding an opponent, the DM, **especially ChatGPT acting as DM**, must check that the Hero has **a realistic, legal way to inflict at least one wound** with their actual equipment/abilities, available space, targeting and enemy END/armor. No assumed weapon swaps, physically fictional exposed spots, or attacks still below **Impact >0.75** even at AR 0. If a wound route does not exist, alter the encounter or give a genuinely achievable **non-wounding win condition**. A deliberately unwoundable survival/escape threat is valid where wounding is not needed; the rule is not a guarantee of victory. See [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Equipment and Economy](09_Equipment_and_Economy.md). No combat numerical rules were changed.
