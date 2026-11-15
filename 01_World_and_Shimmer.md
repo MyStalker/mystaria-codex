@@ -1,3 +1,9 @@
+## November 15, 2026 — Drider starting attributes and unique +10% racial modifiers (AUTHOR APPROVED)
+
+**Latest approved Drider level-1 base:** STR **18**, DEX **18**, END **16**, INT **15**, SPD **15** (base total **82**). **Permanent Drider racial bonus: +10% to ALL five attributes**, an express species-specific exception to the November 6 general 25%-increment modifier standard. **Effective:** STR **19.8**, DEX **19.8**, END **17.6**, INT **16.5**, SPD **16.5**; effective total **90.2**. This replaces historical Drider base **19/19/19/19/19** and **END +25%** (effective 19/19/23.75/19/19; total 99.75), and the earlier claim that Driders have the highest starting total. Existing abilities, anatomy, rarity, progression, other racial modifiers, mechanics and equipment prerequisites remain intact. Apply these revised attributes wherever Driders are used in future combat tests; historical results using old Drider stats remain historical, not recalculated canon.
+
+---
+
 > **November 14, 2026 — Prepared magical defense.** On their own turn, a caster shares their existing Channel Limit among offensive magic, at most one specific prepared reactive defensive spell, and other applicable channeling such as contests and medium recovery. The defense uses the capacity reserved on that turn. The next turn's Channel Limit cannot be borrowed. Declare a narrow, outcome-independent trigger in advance, such as the next attack against a specified target or by a specified attacker. Activate at a legitimate response opportunity when the trigger occurs, subject to the required physical medium, access and normal MP cost. The prepared defense expires at the **beginning of the caster’s next turn**, whether used or unused. Protection beyond that point requires casting a separate spell with sufficient duration or eligible maintenance. Combining normal physical and magical actions halves the applicable limit, rounds it down, and permits at most one total attack. Exact response scheduling remains unresolved. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) for the full rule and existing specialist exceptions.
 
 ## November 13, 2026 — Derived Combat Speed includes 25% DEX (APPROVED)
@@ -478,12 +484,12 @@ Attributes determine capability, while anatomical differences still influence re
 | Naga | 17 | 16 | 18 | 17 | 16 | 84 |
 | Vren | 18 | 18 | 18 | 15 | 19 | 88 |
 | Corvyn | 13 | 16 | 13 | 18 | 17 | 77 |
-| Drider | 19 | 19 | 19 | 19 | 19 | 95 |
+| Drider | **18** | **18** | **16** | **15** | **15** | **82** |
 | Untouched Serpentari | 17 | 16 | 17 | 19 | 16 | 85 |
 
 #### Permanent racial multipliers
 
-**LATEST November 6, 2026 approval:** All permanent racial attribute modifiers must be **integer multiples of 25 percentage points**. Existing nonzero modifiers of +10%, +20% or +30% become +25%; existing −10% or −20% become −25% (maintaining affected attributes and modifier signs) unless the author supplies a different explicit correction. **Moontouched instead have SPD +25%, NOT any racial DEX bonus.** The revised multipliers below supersede previous tables and historical examples. These modifiers continue applying throughout Hero progression.
+**November 6, 2026 general approval; Drider exception expressly superseded November 15, 2026:** For all races **other than Driders**, permanent racial attribute modifiers must be **integer multiples of 25 percentage points**. Existing nonzero modifiers of +10%, +20% or +30% become +25%; existing −10% or −20% become −25% (maintaining affected attributes and modifier signs) unless the author supplies a different explicit correction. **Moontouched instead have SPD +25%, NOT any racial DEX bonus.** The revised multipliers below supersede previous tables and historical examples. These modifiers continue applying throughout Hero progression.
 
 | Race | Attribute modifiers | Effective Starting Total |
 |---|---|---:|
@@ -495,7 +501,7 @@ Attributes determine capability, while anatomical differences still influence re
 | Naga | **END +25%** | **88.5** |
 | Vren | **STR +25%, SPD +25%** | **97.25** |
 | Corvyn | **STR −25%, INT +25%** | **78.25** |
-| Drider | **END +25%** | **99.75** |
+| Drider | **STR +10%, DEX +10%, END +10%, INT +10%, SPD +10%** (**explicit approved exception** to the 25%-increment standard) | **90.2** |
 | Untouched Serpentari | **INT +25%** | **89.75** |
 
 Multipliers affect only their listed attributes. Through **effective END**, these modifiers now affect ordinary natural MP as explicitly approved; through effective INT they affect spell calculations where the owning formulas specify. They do not independently grant Ability Points, skill ranks, or unrelated racial abilities.
@@ -568,7 +574,7 @@ Races are not required to possess identical starting power. Their attributes, ra
 
 The following principles govern balance:
 
-- **Statistical differences are intentional.** Driders possess the highest starting total due to their exceptional rarity.
+- **Statistical differences are intentional.** Driders are exceptionally rare but no longer possess the highest starting attribute total. Their revised base STR 18 / DEX 18 / END 16 / INT 15 / SPD 15 and +10% to all five attributes emphasize coordinated physical prowess without exceptional starting END. Their rarity and existing racial abilities remain unaffected.
 - **Lower-stat races may receive compensatory Ability Points**, capped at three.
 - **Strong racial abilities do not count as attribute increases.** Flight, venom, regeneration, specialized perception, and unusual anatomy operate through their own rules.
 - **Significant biological limitations remain relevant.** Vren, for example, retain their severe sunlight vulnerability and blood dependency despite their high physical attributes.
@@ -810,4 +816,4 @@ At extraordinary velocities, suitable movement-assisted attacks may gain a **mod
 
 ## November 6, 2026 — 25%-increment racial modifier correction (LATEST CANON)
 
-The author requires all permanent **racial attribute percentage modifiers** to use **25-percentage-point steps only** (including negative values). Existing affected-stat bonuses/penalties formerly 10%, 20% or 30% are normalized to a single 25% step of the same sign unless explicitly corrected by the author. **Moontouched's true racial bonus is SPD +25%, not DEX +30% or any other DEX modifier. Thornguard is STR +25%, not +20%.** This governs all playable races including Kobolds (STR −25%, DEX +25%, INT +25%) and the pre-existing Centaur STR +25%/SPD +25%. The starting base attributes and approved level-up increments **+2 allocatable per level gained and +1 to every base stat at multiples of 5** are unchanged. Apply modifiers to base attributes after the +10 racial base rebase, and apply equipment attribute bonuses afterwards. Earlier 10/20/30 racial examples are historical and superseded. Follow `10_Canon_Changelog.md` for updated effective totals.
+**Historical general rule, superseded for Driders by explicit November 15, 2026 exception:** The author otherwise requires permanent **racial attribute percentage modifiers** to use **25-percentage-point steps only** (including negative values). Existing affected-stat bonuses/penalties formerly 10%, 20% or 30% are normalized to a single 25% step of the same sign unless explicitly corrected by the author. **Moontouched's true racial bonus is SPD +25%, not DEX +30% or any other DEX modifier. Thornguard is STR +25%, not +20%.** This governs all playable races including Kobolds (STR −25%, DEX +25%, INT +25%) and the pre-existing Centaur STR +25%/SPD +25%. The starting base attributes and approved level-up increments **+2 allocatable per level gained and +1 to every base stat at multiples of 5** are unchanged. Apply modifiers to base attributes after the +10 racial base rebase, and apply equipment attribute bonuses afterwards. Earlier 10/20/30 racial examples are historical and superseded. Follow `10_Canon_Changelog.md` for updated effective totals.
