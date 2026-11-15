@@ -1,3 +1,13 @@
+## November 15, 2026 — DM encounter wound-route check APPROVED; ChatGPT-play priority
+
+**Explicit author approval:** Adopt the early equipment audit's **starter encounter viability check**, and make the requirement **especially explicit for Mystaria played through ChatGPT**. When an intended encounter victory requires the Hero to wound an enemy, the DM or AI DM **must verify in advance at least one credible, accessible wound route** using the Hero's **real legal weapon/abilities, Power, reach, space, enemy END/protection, actual armor coverage and shield rules**. A theoretically exposed AR 0 hit that still cannot cross the strict **Impact >0.75** threshold is not a solution, nor is an unavailable weapon, unattainable shot, invented weak spot or impossible tactical maneuver.
+
+**If none exists**, adjust the opponent or its defenses consistently with canon, provide a legitimate alternative action/resources, or ensure the encounter has an achievable goal not dependent on wounding (escape, negotiation, environmental victory, withdrawal, etc.). **Deliberately invulnerable threats are acceptable when winning does not require injuring them.** This is DM/ChatGPT preparation guidance, not a universal rule that every enemy must be woundable, not a guarantee of success, and not authorization to alter weapon F, armor AR, hit probabilities, innate END or combat thresholds. The November 15 early equipment audit's Drider, Naga and other high-END cases motivate the check, but its test numbers remain report evidence rather than canon mechanics.
+
+**Owning rules:** `22_Combat_Endurance_and_Shimmer_Guard.md`, with cross-reference in `09_Equipment_and_Economy.md` and AI DM reminder in `AGENTS.md`. Ranged starter hand-crossbow and sling Power benchmarks remain an independent open design task.
+
+---
+
 ## November 15, 2026 — Starter armor, Heavy armor availability, and anti-bypass crafting warning APPROVED
 
 **Latest explicit author approval:** The previously proposed early equipment plan is adopted as **normal acquisition expectations**. New Heroes retain their existing granted Junk Quality I Boughsteel weapon and armor ensemble. **Junk Light armor is the ordinary starter choice; legally qualified Medium Junk armor may be used at the DM's discretion; Heavy armor (including Partial, Standard, Full) is absent from ordinary starter grants and beginner shops.** Qualifying Heavy **weapons** remain available to level-1 characters subject to existing requirements, rather than being level-locked like Heavy armor stock.
