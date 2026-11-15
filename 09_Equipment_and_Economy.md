@@ -1807,7 +1807,7 @@ These are the established benchmark values used in the Centaur and Sorcery desig
 
 ### Centaur equipment affinity — CANON
 
-Centaurs take **half equipment-derived Soul Strain** and gain **half equipment-derived numerical stat bonuses**, each rounded upward **once at the item total**. Other physical properties, armor functionality, weapon properties, and activated powers remain unhalved. This reduction does not apply to other Soul Strain such as dragonmarks or Celestite soul destruction. See `07_Centaurs_and_Smithcraft.md`.
+**November 15, 2026 latest approval:** Centaurs pay **90% of cumulative equipment-derived Soul Strain**, with **one final upward rounding** after adding all actual equipped-item Soul Strain contributions: **Centaur equipment strain = ceil(0.90 × total otherwise applicable equipped-item Soul Strain)**. This is a **10% discount**, replacing the former 50% discount; do not halve strain per item. Their separate **50% reduction to equipment-derived numerical stat bonuses remains unchanged**, with its existing upward rounding at the applicable item total. Other physical properties, armor functionality, weapon properties, and activated powers remain unhalved. The strain discount excludes unrelated dragonmarks, healing strain, Celestite direct soul damage, and other non-equipment sources. Examples: 4 item strain alone ⇒ **4** after rounding; 12 combined equipment strain ⇒ **11**; 20 combined ⇒ **18**. See `07_Centaurs_and_Smithcraft.md`.
 
 ## Modular enchantment overhaul — PROPOSED ONLY
 
