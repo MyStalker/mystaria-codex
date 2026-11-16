@@ -1,3 +1,13 @@
+## November 16, 2026 — Power Attack +25% APPROVED; headshot Power under study
+
+**Author approval:** Adopt **Power Attack (+25%)** as a 2-action offensive Full Attack with **one harder hit-difficulty category** and **×1.25 otherwise final physical Attack Power** (after established weapon computation; before Impact). It is one attack action under the existing per-turn limit, and it cannot be combined with Quick Attack or Double Strike that turn. Existing hit categories, legal shield/contact routing, material, armor bypass, END, wound thresholds, injury stages and conditions remain unchanged. The +50% alternative was not approved.
+
+**Headshots remain research:** No +15%, +25%, +35%, or +50% vital-location bonus is canon. Ordinary legally exposed-body (actual AR0, +1 category) and protected-gap (actual AR25, +2 categories) targeting remain. The author requests focused comparison of headshot bonus severity versus ordinary enemies, high-END enemies and Power Attack combinations before a new ruling; do not grant universal access to an exposed skull or an invented helmet weak point. No repository formula or attribute overhaul is authorized.
+
+**Updated:** `22_Combat_Endurance_and_Shimmer_Guard.md` (maneuver owner), `10_Canon_Changelog.md` (approval), `00_Mystaria_Canon_Index.md` (navigation). Direct to `main`, historical text retained.
+
+---
+
 ## November 16, 2026 — Independent Weapon Rating design principles AUTHOR APPROVED; formulas remain proposals
 
 **Latest explicit author approval:** Approve three qualitative principles for possible weapon scaling: **(1)** individually assigned independent Weapon Ratings are worth pursuing; **(2)** weapon design and tactical identity must retain a meaningful Power contribution as attributes increase, without flattening weapons by handling class; **(3)** higher Quality must matter while avoiding excessive wound-severity jumps. The author's instruction is **not** to focus on indefinite scaling now. This approval is not a numerical replacement of existing `Power=(A × F)²`, and does **not** enact the November 16 tested `A² + WR²`, `Fₚ × A² + WR²`, 31 hypothetical WR tables, alternate-mode adjustments, unarmed mechanics, material coefficients, or Quality progression.
