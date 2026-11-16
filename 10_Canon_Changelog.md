@@ -1,3 +1,11 @@
+## November 16, 2026 — Future design note on physical Armor Quality beyond V
+
+The author approved recording this future design possibility in [Equipment and Economy](09_Equipment_and_Economy.md).
+
+Mystaria’s physical Armor Quality may eventually extend indefinitely beyond Quality V so equipment can continue progressing alongside Heroes above level 100. The existing squared-additive Defense formula (`Defense = END² + effective covered AR²`) imposes no inherent mathematical Quality ceiling. Quality VI+ Armor Resistance values, numerical progression, costs, crafting requirements, physical prerequisites, and equipment availability remain unresolved. No higher Quality ratings or new progression mechanics were approved.
+
+---
+
 ## November 15, 2026 — Shield Deflect stance RETIRED (LATEST AUTHOR APPROVAL)
 
 **Latest explicit author correction:** **Deflect is removed from the playable Mystaria combat rules, including the current physical tabletop pilot.** It is vestigial and is **not** an available shield stance, action, reaction, alternative Guard mode, or shield-specific one-Pressure-Point counteraction. A shieldbearer may use legal **Guard**, **ordinary shield bash**, or **Light/Medium shield-and-weapon Double Strike** (Heavy shield Double Strike remains prohibited), plus other independently approved actions and prepared **Parry** under their actual rules. **Ordinary offhand Defense with a genuinely usable offhand weapon remains intact** and is *not* renamed, deleted, or granted for free merely by holding a shield. All older passages offering or approving shield **Deflect** in this document or other canon files are **historical and superseded**; historical descriptions are preserved solely to show design evolution. Nothing else about Shield Rating, physical contact routing, durability, magical Guard, Pressure, Double Strike, Parry, Dash or movement is changed. Future balancing questions no longer include whether to keep Deflect.
