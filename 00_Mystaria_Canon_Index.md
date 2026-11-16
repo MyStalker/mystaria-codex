@@ -1,3 +1,9 @@
+## November 16, 2026 — Headshot precision damage APPROVED; Power Attack self-Pressure alternative UNDER REVIEW
+
+**Approved headshot refinement:** [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) now specifies a **genuinely accessible vulnerable protected helmet/head gap** as **single-target, +2 hit-difficulty categories, actual AR25, ×1.25 otherwise final physical Power on lawful contact**. A **genuinely exposed head** is **+1 difficulty/AR0 with no extra headshot Power**; a fully covered head without an actual gap gains no bonus or free gap. A legally combined **Power Attack + protected-gap headshot** currently applies **three harder hit-difficulty categories total** and **×1.5625 Power** if connected. **Power Attack is STILL 2 actions, +1 harder category, ×1.25 Power.** Replacing its accuracy penalty with **one self-applied incoming Pressure Point is an unapproved alternative**, not an enacted change. [Changelog](10_Canon_Changelog.md) records the explicit approval and open decision.
+
+---
+
 ## November 16, 2026 — Power Attack +25% APPROVED; headshot Power under study
 
 **Approved new offensive maneuver:** [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) now owns **Power Attack**: one **2-action Full Attack**, **+1 hit-difficulty category**, **×1.25 of otherwise final Attack Power** after the usual weapon calculation and before ordinary END/covered-AR Impact. No extra attack, no stacking another attack action, no automatic defense bypass, and no Quick Attack/Double Strike combination on the same turn. **+50% Power Attack is not approved.** Additional **headshot Power bonuses remain exploratory**; retain the existing genuine exposed-location/armor-gap targeting rules with no automatically exposed head. See [Canon Changelog](10_Canon_Changelog.md) for approval and unresolved precision study.
