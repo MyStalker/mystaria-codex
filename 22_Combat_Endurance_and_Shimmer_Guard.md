@@ -1,3 +1,9 @@
+## November 15, 2026 — Shield Deflect stance RETIRED (LATEST AUTHOR APPROVAL)
+
+**Latest explicit author correction:** **Deflect is removed from the playable Mystaria combat rules, including the current physical tabletop pilot.** It is vestigial and is **not** an available shield stance, action, reaction, alternative Guard mode, or shield-specific one-Pressure-Point counteraction. A shieldbearer may use legal **Guard**, **ordinary shield bash**, or **Light/Medium shield-and-weapon Double Strike** (Heavy shield Double Strike remains prohibited), plus other independently approved actions and prepared **Parry** under their actual rules. **Ordinary offhand Defense with a genuinely usable offhand weapon remains intact** and is *not* renamed, deleted, or granted for free merely by holding a shield. All older passages offering or approving shield **Deflect** in this document or other canon files are **historical and superseded**; historical descriptions are preserved solely to show design evolution. Nothing else about Shield Rating, physical contact routing, durability, magical Guard, Pressure, Double Strike, Parry, Dash or movement is changed. Future balancing questions no longer include whether to keep Deflect.
+
+---
+
 ## November 15, 2026 — Two-action combat and Candidate A shield rules APPROVED FOR PHYSICAL TABLETOP PILOT
 
 **Latest author approval and scope:** Use the reviewed combat recommendations as an **author-approved tabletop pilot**, to be played by the author with friends at their own pace, **not as an AI-run playtest or scheduled balancing program**. These pilot procedures take precedence over inconsistent earlier physical combat/Guard and evasion-cutoff text below, but do not certify permanent balance, alter existing equipment Power, END, AR, injury thresholds, material abilities, SP/MP costs, crafting, racial exceptions, or authorize new magic resolution. No follow-up or play log is required unless the author chooses to discuss observations.
@@ -17,7 +23,7 @@ A real, usable, stat-qualified shield in **Guard**, actually capable of defendin
 
 Existing geometry, real simultaneous opposing lines, legal initiative coordination and **net 3+ PP Extreme Pressure** govern whether the shield can defend a line. The old automatic-Guard-only one-of-two flank-interception procedure is not the pilot routing; flanking alone does **not** grant a free hit or universal bypass. Preserve actual existing Shield Rating, durability and overflow; Junk/ceramic/Bellcopper/Thornspring rules; and **separate eligible Glassweave/Nullporcelain magical spell interception** without inventing spell absorption values.
 
-**Deflect is retained as a separate previously approved stance**: forgoing Candidate A Guard and obstruction in return for its physically credible offhand Defense/one-PP counteraction. Although the newer audit proposed retiring Deflect, its removal was not expressly among the assistant's listed approved recommendations. Track whether it should stay as a **future balancing question**, not an unapproved repeal.
+**Shield Deflect has been explicitly retired.** A shield does not grant the ordinary offhand Defense PP cancellation; that independent mechanic remains available only through otherwise lawful offhand use. Candidate A Guard, shield bash and Light/Medium shield Double Strike remain as written.
 
 ### Parry and Dash (PILOT)
 
@@ -36,7 +42,7 @@ The author will simply play with friends and may mention impressions or examples
 5. **Defensive behavior:** Do Quick + Half Parry or sustained Full Parry slow combat? Are prepared triggers, result-aware PP, cooldown and no-reward-on-miss intuitively satisfying?
 6. **Speed:** Do wider **0.20/0.80/1.25/2.50/5.00** cutoffs preserve meaningful Speed specialization compared with the prior **0.50/0.80/1.25/1.50/3.00** cutoffs?
 7. **Positioning:** Do Dash, pursuit, withdrawal, reach, obstacles, movement geometry, multiple attackers and explicit objectives support interesting choices? What timing ambiguity arises at the table?
-8. **Shield stances and flanking:** Keep or retire Deflect? Are opposing simultaneous lines clear and fair under Candidate A?
+8. **Shield flanking:** Are opposing simultaneous lines clear and fair under Candidate A, with no Deflect stance?
 9. **Magic integration:** Magical Parry, mixed physical/casting actions, reactive spell timing, power-to-shield-absorption, partial spell effects and magical ceramic wear remain independently unresolved. Do not assume new spell mechanics from this physical pilot.
 10. **Ease and enjoyment:** Can players resolve one-die miss/shield/body/Parry routing quickly, and do their actual choices feel consequential?
 
