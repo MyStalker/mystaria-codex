@@ -1,3 +1,14 @@
+## November 16, 2026 — Weapon Rating and Quality design principles APPROVED (PHILOSOPHY ONLY)
+
+**Author-approved future design direction, not a numerical mechanics change:**
+1. **Individual independent Weapon Ratings** are worth pursuing as a way for physical weapons to contribute their own equipment-derived attack Power, analogous in concept to how armor has a separate AR contribution.
+2. **Individual weapon design must keep influencing Power**, including at high attributes; do not assign identical raw Power merely because two weapons share a weight/handling class. Reach, area coverage, extra modes, usability, armor penetration and other tactical advantages may justify lower concentrated Power than a simpler specialized weapon.
+3. **Quality improvement should be significant without overly steep jumps in injury severity.** Evaluate actual wound stages and comparable armor progression, not raw Power alone.
+
+The user's approval of these principles **does not approve** any proposed Weapon Rating numerical ladder, specific `A² + WR²` or `Fₚ × A² + WR²` formula, a changed Quality factor, material mapping, unarmed attack Power, skill/prerequisite modification or combat balance reclassification. The existing current damage system and physical-tabletop pilot continue unchanged. Keep the earlier **STR/DEX hybrid's armor-versus-offense tradeoff approval**: a strict ordering of three builds' strongest single Slashing hits is not an all-around build ranking, and the November 16 test **did not** disprove that tradeoff. Indefinite scaling/Quality VI+ remains a separately noted *future* option and **is not the present focus**. Owning individual-weapon design principles: [Melee Weapon Catalogue](25_Melee_Weapon_Catalogue_DRAFT.md).
+
+---
+
 ## November 16, 2026 — Physical Armor Quality beyond V (FUTURE DESIGN CONSIDERATION)
 
 Mystaria’s physical Armor Quality may eventually extend indefinitely beyond Quality V so equipment can continue progressing alongside Heroes above level 100. The existing squared-additive Defense formula (`Defense = END² + effective covered AR²`) imposes no inherent mathematical Quality ceiling. Quality VI+ Armor Resistance values, numerical progression, costs, crafting requirements, physical prerequisites, and equipment availability remain unresolved. No higher Quality ratings or new progression mechanics were approved.
