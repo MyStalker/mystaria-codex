@@ -1,3 +1,15 @@
+## November 16, 2026 — Headshot precision damage APPROVED; Power Attack self-Pressure alternative UNDER REVIEW
+
+**Latest express approval:** The author approved the headshot-study direction. The only new **headshot-specific physical Power bonus** is **×1.25 of otherwise final physical Power** when a legally declared, genuinely reachable **vulnerable protected helmet/head structural gap** is successfully hit. Existing precision target rules apply: **protected gap +2 harder categories, actual AR25**; **exposed head +1 harder where precision is necessary, actual AR0 and NO headshot bonus**. Fully protected surfaces without actual gaps cannot borrow AR25 or receive a headshot bonus. Tiny exposed openings keep the existing +3 difficulty / AR0 without automatic additional Power. Treat headshots as **single-target** despite a weapon's ordinary group coverage. Genuine anatomy, equipment, line of attack, Shield Guard and all previously approved hit and injury rules remain authoritative.
+
+**Combined approved option:** One eligible 2-action Power Attack can target a legitimate head gap: **×1.25 Power Attack ×1.25 headshot = ×1.5625 final physical Power**, with the **current approved +1 Power Attack accuracy difficulty and +2 gap difficulty** applied separately (total +3). No extra attack, action bypass or unconditional access to helmet gaps results.
+
+**New proposal UNDER REVIEW, not an approved revision:** Change the Power Attack cost from +1 harder accuracy to **1 self-applied incoming Pressure Point until the user's next turn**, analogous to Double Strike. User requests design feedback, not yet a settled numerical replacement. Preserve the existing **+25% Power / +1 harder category / 2 actions** Power Attack until specifically changed. Concern: with no incoming enemy, self-PP costs nothing, and Power Attack risks eclipsing ordinary Full Attack; review together with headshot precision and group-coverage rules.
+
+**Files changed:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md` on `main`. Remaining user decision: retain accuracy penalty or approve an explicitly calibrated self-Pressure variant of Power Attack.
+
+---
+
 ## November 16, 2026 — Power Attack +25% APPROVED; headshot Power under study
 
 **Author approval:** Adopt **Power Attack (+25%)** as a 2-action offensive Full Attack with **one harder hit-difficulty category** and **×1.25 otherwise final physical Attack Power** (after established weapon computation; before Impact). It is one attack action under the existing per-turn limit, and it cannot be combined with Quick Attack or Double Strike that turn. Existing hit categories, legal shield/contact routing, material, armor bypass, END, wound thresholds, injury stages and conditions remain unchanged. The +50% alternative was not approved.
