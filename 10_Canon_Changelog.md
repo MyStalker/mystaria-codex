@@ -1,3 +1,13 @@
+## November 16, 2026 — Independent Weapon Rating design principles AUTHOR APPROVED; formulas remain proposals
+
+**Latest explicit author approval:** Approve three qualitative principles for possible weapon scaling: **(1)** individually assigned independent Weapon Ratings are worth pursuing; **(2)** weapon design and tactical identity must retain a meaningful Power contribution as attributes increase, without flattening weapons by handling class; **(3)** higher Quality must matter while avoiding excessive wound-severity jumps. The author's instruction is **not** to focus on indefinite scaling now. This approval is not a numerical replacement of existing `Power=(A × F)²`, and does **not** enact the November 16 tested `A² + WR²`, `Fₚ × A² + WR²`, 31 hypothetical WR tables, alternate-mode adjustments, unarmed mechanics, material coefficients, or Quality progression.
+
+**Reasoning boundary:** The November 16 experimental report found **215/3270** unwoundable-even-at-AR-0 fixtures under current Power, **514/3270** under pure additive (regression) and **82/3270** under its shape-coefficient candidate (improvement but not full solution). Current strict level-100 Slashing **STR > hybrid > DEX** occurred **4/13** race profiles, pure additive **0/13**, shape coefficient **4/13**. Those are scoped diagnostic comparisons, not author-approved balance standards or proof that the prior **armor/survivability tradeoff for hybrid versus DEX** failed. The author's previous approval to retain existing physical damage rules pending holistic evidence remains operative. Continue the friends-led tabletop pilot without an AI testing schedule.
+
+**Files updated:** `25_Melee_Weapon_Catalogue_DRAFT.md` for weapon-design principles, `09_Equipment_and_Economy.md` for Quality and armor-tradeoff scope, `10_Canon_Changelog.md` for this decision, and `00_Mystaria_Canon_Index.md` for current status/navigation. **No numerical combat canon changed.** Remaining decisions (only when the author elects): final attack formula, rating ladder, material treatment, special-mode interaction, Quality change, unarmed effect and overall balance implications.
+
+---
+
 ## November 16, 2026 — Future design note on physical Armor Quality beyond V
 
 The author approved recording this future design possibility in [Equipment and Economy](09_Equipment_and_Economy.md).
