@@ -1,3 +1,9 @@
+## November 16, 2026 — Reach distances and Technique-based movement control APPROVED (LATEST)
+
+**Operative movement/reach supersession notice:** Approved Short melee attack range is 1 tile; Medium attacks at 1 or lunges to 2 at **one harder hit category**; Long attacks normally at 1 or 2. The **movement-control zone**, distinct from attack range, is **1 tile for Short/Medium** and **2 tiles for Long, with no Long adjacency control**. Leaving the credibly controlled boundary and trying to cross inside the Long 2-tile barrier are governed by **Technique checks**, not the historical effective-SPD **1.25/1.50** reach-entry ratios retained in older comparative examples below. A failure stops crossing without a free attack or grapple. Grapple initiation stays a separately committed offensive Technique maneuver. Exact category/Pressure conversion and movement-check timing remain open. Other armor SPD burdens, weapon handling, costs, prerequisites and Power remain intact. Full procedure: [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md).
+
+---
+
 ## November 16, 2026 — Weapon Rating and Quality design principles APPROVED (PHILOSOPHY ONLY)
 
 **Author-approved future design direction, not a numerical mechanics change:**
