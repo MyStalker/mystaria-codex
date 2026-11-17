@@ -1,3 +1,13 @@
+## November 16, 2026 — One Technique check replaces grapple attack initiation (APPROVED; LATEST)
+
+**Explicit author approval:** Grapple initiation is resolved through **a single Technique d20 check**, based on approved **Technique = 2 × effective STR + effective DEX**, replacing the prior ordinary attack-check requirement. A valid reach-entry/physical opportunity is required *before* checking for a hold; no two-stage attack-plus-Technique roll, free attack, injury or automatic adjacency grapple is granted. Initiation is an offensive maneuver under the existing **one offensive attack action per turn** constraint. Prior November 16 notes describing Technique initiation as a proposal are **superseded** on this point only.
+
+**Still open:** exact Technique score-to-d20 difficulty mapping, action points required for initiation or escape, permitted repeat attempts, and precise Pressure shifts/timing. Approved escape failure consequences and Pressure-sensitive escape direction remain. No change to damage, Weapon Rating, Dash or tile movement.
+
+**Changed:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md` on `main`.
+
+---
+
 ## November 16, 2026 — Technique unified control statistic; Pressure worsens grapple escape (LATEST)
 
 **Explicit author direction:** Rename/generalize prior approved **Grapple Control `2STR+DEX`** into the broader **Technique statistic `2 × effective STR + effective DEX`**. Grappling, trips, disarms, shoves and throws are non-damaging combat-control Technique concepts; only existing grapple-specific effects are currently specified, and the author deferred all other procedures. **Pressure on the escaper makes grapple escape harder.** Proposed consistent tier mapping: 0 net PP unchanged, 1–2 PP one difficulty category harder, 3+ PP two categories harder; the author approved the direction but **has not expressly selected the exact shift values**. Existing failed-escape immobility and +1 incoming PP continue.
