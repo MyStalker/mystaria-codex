@@ -1,3 +1,13 @@
+## November 16, 2026 — Grapple-range combat constraints and escape direction APPROVED IN PRINCIPLE
+
+**Author's explicit direction:** A true grapple denies ordinary Long-reach melee attacks by the opponent; penalizes Medium-reach melee attacks by **one existing hit-difficulty category**; leaves eligible Short melee and unarmed attacks functional; prevents two-handed ranged weapon attacks in the grapple while permitting physically eligible one-handed ranged weapon use; and permits attacks by the grappler to bypass their held opponent's normal shield interception/block (not END or worn armor). **Grapple initiation requires an actual attack check**, not just adjacency. **Grapple escape must be a d20 check favoring combined STR and DEX** and should use existing accuracy categories where feasible. **Failed escape** leaves the character unable to leave the current square by ordinary movement and incurs **one incoming PP**.
+
+**Still pending the author's numerical approval:** Escape ratio/attribute weighting, action costs and legal timing of initiation/escape, failure-PP duration and repeat stacking, and edge cases such as third-party intervention, forced repositioning or special abilities. `STR+DEX` control and `(holder STR+DEX)/(escaper STR+DEX)` mapped to six-category thresholds is an explicitly labeled **test proposal only**. These changes do not approve experimental additive WR or alter approved shield durability/Power.
+
+**Files changed:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 16, 2026 — Extreme nonviable END-specialists EXCLUDED from headline balance calibration (AUTHOR APPROVED)
 
 **Author's explicit direction:** Stop treating extreme END-focused characters who cannot themselves meaningfully wound more-generalist opponents as mandatory balance targets. Future weapon, armor, Quality and combat calibrations must **exclude those nonviable offense END-maximizers from headline result aggregates, optimizer objectives, and mandatory woundability constraints**. They may intentionally be very durable while being weak or useless at offense; such comedic or poor builds are acceptable in Mystaria. This explicitly supersedes the prior study-level emphasis on ensuring ordinary generalists could wound every dedicated END specialist. Do not omit viable defensive builds or the normal endurance investment of generalists. Optional extreme stress tests belong in separately labeled, non-binding appendices, not main optimization results. Determine exclusion by actual offensive viability against plausible generalists, not merely by the END attribute label. Historical simulations remain preserved as historical results.
