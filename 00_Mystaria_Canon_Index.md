@@ -1,3 +1,9 @@
+## November 16, 2026 — Grapple Control `2STR + DEX` APPROVED (LATEST)
+
+**Approved:** Grapple-specific control attribute **`G = 2 × effective STR + effective DEX`** for holder and escaper; Strength counts twice as much as Dexterity. Supersedes equal-weight `STR+DEX` proposal. See [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md). **Still under test:** exact `G_holder/G_escaper` to Naked-d20 six-category escape mapping, escape/initiation action costs, failed-escape PP expiry and stacking. Existing approved reach-in-grapple rules, shield interception bypass, required initiation attack roll and failed-escape immobility/+1 PP remain intact. No additive WR authorization.
+
+---
+
 ## November 16, 2026 — Grapple-range interaction direction approved; escape roll calibration OPEN (LATEST)
 
 **Author's latest grapple rulings:** A true grapple prevents ordinary Long-reach attacks against the grappler, makes eligible Medium-reach attacks **one d20 difficulty category harder**, permits legal Short-range/unarmed and physically possible one-handed ranged attacks, and prevents ordinary two-handed ranged attacks within that grapple. A grappler's attacks against their held opponent bypass **normal shield Guard interception**, not worn armor or END. Grapple initiation requires an attack check; a turn-based escape attempt uses a **STR/DEX-favoring d20 check**, with failure preventing ordinary departure from the square and causing **one incoming PP**. Exact escape formula, action cost and PP duration are **not yet approved**. The `STR+DEX` ratio mapped to the existing six-category Naked d20 chart is a proposal only. [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) owns the detail, with approval boundaries in [Canon Changelog](10_Canon_Changelog.md). Proposed additive Weapon Ratings remain experimental.
