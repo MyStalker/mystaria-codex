@@ -1,3 +1,9 @@
+## November 16, 2026 — Grapple Control STR-weighted formula APPROVED (LATEST)
+
+**Latest explicit author approval:** For grapple control and opposed escape calibration use **`G = 2 × effective STR + effective DEX`** for each involved combatant. Strength contributes twice as much as Dexterity; this replaces the earlier equal-weight `STR + DEX` candidate. Preserve race-adjusted effective attributes, fractional values, and the approved ordinary combat accuracy/evasion calculation separately. This approval authorizes the **attribute-weighting formula**, not the previously proposed exact `G_holder/G_escaper` six-category mapping, escape action expenditure, pressure duration/stacking, initiation action cost, or other grapple corner cases. Those are still experimental and must be tested before approval. Preserve the November 16 approved grapple-range weapon, shield and failure-Pressure principles immediately below.
+
+---
+
 ## November 16, 2026 — AUTHOR DIRECTION: Grapple-range weapon, shield, initiation and escape rules
 
 **Latest author-approved grapple-range principles (subject to the numerical escape procedure below being finalized):**
