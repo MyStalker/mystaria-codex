@@ -1,3 +1,9 @@
+## November 16, 2026 — Technique = 2STR + DEX; Pressure hinders grapple escape (LATEST)
+
+**Author-approved generalization:** **Technique = 2 × effective STR + effective DEX**, replacing the narrower label Grapple Control without changing its approved weighting. Non-damaging combat-control families include grapple, trip, disarm, shove and throw, but procedures for the latter four are deferred. **Net Pressure on the grappling escaper must make escape harder.** The proposed existing-tier +0/+1/+2 harder categories for net 0/1–2/3+ PP are **under review**, not numerically approved. The earlier **grapple initiation requires an attack check** ruling remains operative; replacing it with a single Technique check after real reach-entry opportunity is **the assistant's unapproved recommendation**, awaiting the author's choice. See [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md). No equipment or damage formula changed.
+
+---
+
 ## November 16, 2026 — Grapple Control `2STR + DEX` APPROVED (LATEST)
 
 **Approved:** Grapple-specific control attribute **`G = 2 × effective STR + effective DEX`** for holder and escaper; Strength counts twice as much as Dexterity. Supersedes equal-weight `STR+DEX` proposal. See [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md). **Still under test:** exact `G_holder/G_escaper` to Naked-d20 six-category escape mapping, escape/initiation action costs, failed-escape PP expiry and stacking. Existing approved reach-in-grapple rules, shield interception bypass, required initiation attack roll and failed-escape immobility/+1 PP remain intact. No additive WR authorization.
