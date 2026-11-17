@@ -1,3 +1,11 @@
+## November 16, 2026 — Grapple Control formula `2STR + DEX` APPROVED (LATEST)
+
+**Author's explicit approval:** Use **`G = 2 × effective STR + effective DEX`** as the controlling combatant's and escaping combatant's grapple-control attribute score. STR has double DEX's influence; the older `STR + DEX` equal-weight proposal is superseded. This is an approved grapple-specific score, not a replacement for ordinary hit/evasion Combat Speed (`SPD + DEX/4`). The exact proposed conversion of control ratios to six Naked-d20 escape categories, initiation/escape action costs, expiration/stacking of the failed-escape +1 incoming PP and other grappling details remain **unapproved experimental matters**. Keep approved grapple-range restrictions, shield bypass and failed-escape consequence intact.
+
+**Files changed:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`, direct to `main`.
+
+---
+
 ## November 16, 2026 — Grapple-range combat constraints and escape direction APPROVED IN PRINCIPLE
 
 **Author's explicit direction:** A true grapple denies ordinary Long-reach melee attacks by the opponent; penalizes Medium-reach melee attacks by **one existing hit-difficulty category**; leaves eligible Short melee and unarmed attacks functional; prevents two-handed ranged weapon attacks in the grapple while permitting physically eligible one-handed ranged weapon use; and permits attacks by the grappler to bypass their held opponent's normal shield interception/block (not END or worn armor). **Grapple initiation requires an actual attack check**, not just adjacency. **Grapple escape must be a d20 check favoring combined STR and DEX** and should use existing accuracy categories where feasible. **Failed escape** leaves the character unable to leave the current square by ordinary movement and incurs **one incoming PP**.
