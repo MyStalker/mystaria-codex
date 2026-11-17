@@ -1,6 +1,12 @@
+## November 16, 2026 — Dash movement-tile multipliers and upward rounding APPROVED (LATEST)
+
+**Approved for the two-action combat pilot:** **Dash / Half Dash (1 action)** grants **+50% movement tiles**, **Double Dash / Full Dash (2 actions)** grants **+100% movement tiles**; use the already determined ordinary tile allowance and **round any fractional result UP**: ceil(M × 1.5) or ceil(M × 2). Do **not** recalculate the SPD-to-tiles progression from temporary Dash Combat Speed. Existing **+25%/+50% Combat Speed** bonuses remain separate and unchanged. This **supersedes** the November 15 "does not multiply movement" pilot text. **Ordinary base tile allowance and Speed thresholds remain unresolved**; illustrative 5 tiles or stat thresholds are NOT canonized. See [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 16, 2026 — Grapple initiation ONE Technique check APPROVED (LATEST)
 
-**Approved and operative:** Initiating an eligible grapple requires **one Technique d20 check** using the approved `2 × effective STR + effective DEX` statistic, **not** the older ordinary attack-accuracy check or two consecutive rolls. Actual opportunity to reach the target and establish contact remains subject to approved physical/reach-control rules. Initiation is an offensive maneuver limited by the turn's single offensive action, not a free hit or automatic damage. Prior notes calling Technique initiation only a proposal are **superseded**. Exact opposing Technique-to-d20 category mapping, 1-versus-2 action cost, repeat attempt limit and Pressure shifts/duration are open. [Combat reference](22_Combat_Endurance_and_Shimmer_Guard.md); [changelog](10_Canon_Changelog.md). Movement-tile calibration remains open; no movement numbers authorized.
+**Approved and operative:** Initiating an eligible grapple requires **one Technique d20 check** using the approved `2 × effective STR + effective DEX` statistic, **not** the older ordinary attack-accuracy check or two consecutive rolls. Actual opportunity to reach the target and establish contact remains subject to approved physical/reach-control rules. Initiation is an offensive maneuver limited by the turn's single offensive action, not a free hit or automatic damage. Prior notes calling Technique initiation only a proposal are **superseded**. Exact opposing Technique-to-d20 category mapping, 1-versus-2 action cost, repeat attempt limit and Pressure shifts/duration are open. [Combat reference](22_Combat_Endurance_and_Shimmer_Guard.md); [changelog](10_Canon_Changelog.md). Base movement-tile calibration remains open; the later Dash-specific movement multipliers are documented in the latest entry above.
 
 ---
 

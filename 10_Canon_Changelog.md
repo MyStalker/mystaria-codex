@@ -1,3 +1,11 @@
+## November 16, 2026 — Dash movement-tile multipliers and upward rounding APPROVED (LATEST)
+
+**Explicit author approval:** In the existing two-action physical combat pilot, **Dash (Half Dash, 1 action) increases the character's already determined movement-tile allowance by 50%**, ceil(M × 1.5); **Double Dash (Full Dash, 2 actions) increases it by 100%**, ceil(M × 2), where **M** is the ordinary movement-tile allowance. **Round UP to a whole tile** after the multiplication (for instance, M=5 gives 8 or 10 tiles, respectively). Do **not** re-evaluate SPD-to-tile thresholds or compute extra tiles based on Dash's temporary Combat Speed bonus. Existing **+25%/+50% Combat Speed until the start of the next turn** remains separately operative; initiative, action costs, one-offensive-action limit, reach/terrain restrictions, and other combat mechanics are unchanged.
+
+**Supersession and scope:** Replaces the November 15 pilot's "no movement distance multiplier" language for Dash, without setting a numerical starting tile allowance or a SPD-to-tiles progression. Those base-movement questions remain **UNRESOLVED**; the assistant's previously illustrated 5-tile starting value and any SPD brackets are not newly canonized. Updated 22_Combat_Endurance_and_Shimmer_Guard.md, this changelog and 00_Mystaria_Canon_Index.md. No weapon, armor, Technique, or other movement rules changed.
+
+---
+
 ## November 16, 2026 — One Technique check replaces grapple attack initiation (APPROVED; LATEST)
 
 **Explicit author approval:** Grapple initiation is resolved through **a single Technique d20 check**, based on approved **Technique = 2 × effective STR + effective DEX**, replacing the prior ordinary attack-check requirement. A valid reach-entry/physical opportunity is required *before* checking for a hold; no two-stage attack-plus-Technique roll, free attack, injury or automatic adjacency grapple is granted. Initiation is an offensive maneuver under the existing **one offensive attack action per turn** constraint. Prior November 16 notes describing Technique initiation as a proposal are **superseded** on this point only.
