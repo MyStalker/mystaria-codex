@@ -1,3 +1,9 @@
+## November 16, 2026 — Grapple initiation ONE Technique check APPROVED (LATEST)
+
+**Approved and operative:** Initiating an eligible grapple requires **one Technique d20 check** using the approved `2 × effective STR + effective DEX` statistic, **not** the older ordinary attack-accuracy check or two consecutive rolls. Actual opportunity to reach the target and establish contact remains subject to approved physical/reach-control rules. Initiation is an offensive maneuver limited by the turn's single offensive action, not a free hit or automatic damage. Prior notes calling Technique initiation only a proposal are **superseded**. Exact opposing Technique-to-d20 category mapping, 1-versus-2 action cost, repeat attempt limit and Pressure shifts/duration are open. [Combat reference](22_Combat_Endurance_and_Shimmer_Guard.md); [changelog](10_Canon_Changelog.md). Movement-tile calibration remains open; no movement numbers authorized.
+
+---
+
 ## November 16, 2026 — Technique = 2STR + DEX; Pressure hinders grapple escape (LATEST)
 
 **Author-approved generalization:** **Technique = 2 × effective STR + effective DEX**, replacing the narrower label Grapple Control without changing its approved weighting. Non-damaging combat-control families include grapple, trip, disarm, shove and throw, but procedures for the latter four are deferred. **Net Pressure on the grappling escaper must make escape harder.** The proposed existing-tier +0/+1/+2 harder categories for net 0/1–2/3+ PP are **under review**, not numerically approved. The earlier **grapple initiation requires an attack check** ruling remains operative; replacing it with a single Technique check after real reach-entry opportunity is **the assistant's unapproved recommendation**, awaiting the author's choice. See [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md). No equipment or damage formula changed.
