@@ -1,3 +1,13 @@
+## November 16, 2026 — Technique unified control statistic; Pressure worsens grapple escape (LATEST)
+
+**Explicit author direction:** Rename/generalize prior approved **Grapple Control `2STR+DEX`** into the broader **Technique statistic `2 × effective STR + effective DEX`**. Grappling, trips, disarms, shoves and throws are non-damaging combat-control Technique concepts; only existing grapple-specific effects are currently specified, and the author deferred all other procedures. **Pressure on the escaper makes grapple escape harder.** Proposed consistent tier mapping: 0 net PP unchanged, 1–2 PP one difficulty category harder, 3+ PP two categories harder; the author approved the direction but **has not expressly selected the exact shift values**. Existing failed-escape immobility and +1 incoming PP continue.
+
+**Awaiting decision:** User asked whether initiation should use attack accuracy or Technique. Assistant recommended one **Technique check**, with existing reach-entry eligibility and no double roll, but the proposal **does not yet supersede the approved attack-check initiation rule**. Escape/initiation action costs, category conversion, PP expiry and stacking remain unresolved. No changes to weapon/armor Power, material, injury, or experimental additive WR.
+
+**Files:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 16, 2026 — Grapple Control formula `2STR + DEX` APPROVED (LATEST)
 
 **Author's explicit approval:** Use **`G = 2 × effective STR + effective DEX`** as the controlling combatant's and escaping combatant's grapple-control attribute score. STR has double DEX's influence; the older `STR + DEX` equal-weight proposal is superseded. This is an approved grapple-specific score, not a replacement for ordinary hit/evasion Combat Speed (`SPD + DEX/4`). The exact proposed conversion of control ratios to six Naked-d20 escape categories, initiation/escape action costs, expiration/stacking of the failed-escape +1 incoming PP and other grappling details remain **unapproved experimental matters**. Keep approved grapple-range restrictions, shield bypass and failed-escape consequence intact.
