@@ -1,3 +1,9 @@
+## November 18, 2026 — Spellcasting damage interruption docket (OPEN; NOT AN APPROVED MECHANIC)
+
+**Question for spellcasting design:** Can taking damage interrupt a spell while it is being cast or channeled? If so, specify qualifying injury/contact and timing, whether a concentration/other check is used, mana already spent, action loss, and interaction with preparation and maintained effects. Do **not** treat a universal damage-interruption rule as currently approved.
+
+**Downstream Leywell decision:** Once the casting rule is settled, explicitly determine whether a character's existing **two-action Leywell charging procedure** can be interrupted by damage in the same manner. This remains undecided; ordinary damage neither automatically cancels charging nor is guaranteed never to do so under a new general rule.
+
 ## November 18, 2026 — Enchanted media and Leywells (APPROVED)
 
 Ordinary enchantments use Anvilcraft-derived intrinsic item alteration or limited, engineered application of Leywell mana to **real physical media**, never unrestricted racial Craft spell emulation. A flaming sword's thin dispensed oil coating and Hearthiron wick provide real flame; a Leywell amplifies its heat, and fuel reserves can be sabotaged. Leywells are normally glowing polished Glassweave orbs/cut gemstones, **not liquid-mana vials**. Enchantment always draws magical power from Leywells; possible future exceptions apply only to specialized Craft-specific casting implements and are not yet specified. See [Equipment and Economy](09_Equipment_and_Economy.md) for owning design and open numerical details.
