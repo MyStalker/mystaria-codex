@@ -1,3 +1,30 @@
+## November 18, 2026 — Three-turn accumulated Elemental Magnitude and Status Resistance (LATEST AUTHOR APPROVAL)
+
+**LATEST controlling framework:** A new universal **Status Resistance** statistic scales with effective **END**. Its *exact numeric equation has not yet been approved*. Elemental Magnitude is now **the total eligible elemental Power actually delivered to and accumulated on a target in an element-specific status condition lasting three turns**, not the previous standalone elemental intensity/contact ratio. Each subsequent lawful hit of that element increases the accumulated magnitude. Do not include ordinary physical weapon Power unless it genuinely delivers elemental energy; preserve shields, insulation, material defenses, actual real-element pathways and specific Resistances. No extra offensive attack, separate Speed-based ignition roll, second END-based severity roll, or universal Contact Factor is created.
+
+**Author's universal threshold structure, fire example:** When Fire Magnitude is **less than 0.5 × Status Resistance**, the target is Smoldering **with no mechanical effect**. At **0.5 × SR or more**, the status imposes **one ongoing meaningful self-Pressure Point** (not a new PP per turn). At **more than 1 × SR**, the status starts **ongoing Burning damage**. At **4 × SR or more**, it inflicts **twice as much ongoing Burning damage**. The older automatic Smoldering Fire Resistance debuff, early PP, SPD-ignition system and indefinite ordinary fire duration are **superseded**. Exact burn-damage-to-wound conversion is **NOT APPROVED**.
+
+**Duration and environment:** An elemental condition lasts **three turns** unless cleansed earlier. Real **mundane or magical interventions** can cleanse or worsen an active condition: e.g., dousing fire with water extinguishes it, oil can make fire worse, and metal armor can strengthen lightning when a genuine conductive path exists. This is not permission to reinstate the old universal Contact Factor. The precise turn/expiration boundary, whether later matching-element hits restart the full three-turn timer, exact environmental adjustments, the action required for different cleansing methods and interactions between distinct elements remain open; the user has approved adding Power on repeated hits, but not a specific refresh procedure.
+
+**Balance constraint:** Burning Edge tiers I–V should remain equally effective relative to same-level/similarly equipped peers even while absolute elemental Power increases with progression. Tier VI Mana Blade remains the intentionally exceptional, short-ammunition peak option. Its 24 MP per five-round activation and 60-MP Leywell remain approved. The weapon's five-round powered *activation* is distinct from the three-turn *target status*.
+
+## November 18, 2026 — Status Resistance and Burning Edge calibration candidate (NUMBERS NOT APPROVED)
+
+**Proposal ONLY:** Derived Status Resistance = (effective END)^2. For neutral generalist Hero references, assume base END15, +0.4 allocated END per gained level, plus +1 END every fifth level under the approved two total attribute points per level. At levels 10/25/50/75/100 this is effective END20.6/29.6/44.6/59.6/74.6.
+
+| Burning Edge enchantment tier | Reference level | Candidate delivered Fire Power per contact |
+|---|---:|---:|
+| I | 10 | 204 |
+| II | 25 | 421 |
+| III | 50 | 955 |
+| IV | 75 | 1705 |
+| V | 100 | 2671 |
+| VI Mana Blade | 100 | 6678 |
+
+Ordinary I–V contacts are about 48% of the equal-level reference Hero's candidate SR: one contact remains harmless Smoldering, two reach a PP, three exceed SR and cause Burning. At each of those five milestones, a neutral Hero five levels below the reference level reaches PP after the first hit and Burning after the second. Tier VI is ~120% of level100 peer SR and causes Burning on its first legal contact, with the already approved cost and separate full-fire blade handling. **None of these numerical Powers, the END-square rule, or the proposed level-reference balancing is approved canon yet.**
+
+**Open:** Actual ongoing fire-damage Power and injury threshold conversion, one tick versus more per round, wound caps and Shimmer Guard, other elemental outcomes, suitable specialist/racial armor tests, multi-source Power and magnitude stacking, timed expiry/reapplication handling, oil/water/metal-specific magnitude changes. A proposed same-element hit resetting its three-turn duration is NOT automatically approved. Unlike earlier drafts, no contact factor, SPD ignition roll or status-specific END roll should be inserted.
+
 ## November 18, 2026 — Universal Contact Factor DELETED; SPD ignition / END intensity (LATEST)
 
 **Author decision:** The generic numerical **Contact Factor / Material Contact Factor** proposal is **REJECTED and removed as an active design concept**, superseding any historical table or equation below. In older draft equations that include a Contact Factor multiplier, **do not use or import that factor**. Preserve actual contact/delivery prerequisites and independently approved insulation, Resistance, material and shield effects without double counting them. Lightning is the explicitly intended **element-specific possibility** for a bonus against conductive metal armor where a real electrical pathway reaches the wearer; its number and treatment are OPEN, and it does not reinstate a general contact modifier.
