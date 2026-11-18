@@ -1,3 +1,9 @@
+## November 18, 2026 — Three enchantment modes and prospective Tier VI effect (AUTHOR DIRECTION)
+
+**Latest author direction:** Establish **Blank** (stats only), **Mixed** (moderate stats + normal magical effect), and **Full** (no stats + distinctly stronger effect) as the three equipment-enchantment modes. Keep historic Quality I–V stat benchmarks: Pure **+6/+12/+20/+28/+36** as the Blank reference, Mixed **+3/+6/+10/+14/+18** as the Mixed reference. The author favors **Full magical effects one tier above Mixed**, mapping QI–V items to effect tiers II–VI instead of I–V. The sixth is a **potential Full-only enchantment effect tier**, not a new item Quality or Leywell tier; exact Tier VI effects/activation MP and numeric scale are NOT yet approved. The quality-versus-effect distinction, existing Leywell maximum 50 MP and existing combat/medium rules are preserved. Owning section: [Equipment and Economy](09_Equipment_and_Economy.md).
+
+**Still open:** Detail mode distribution and installation restrictions; continuous vs five-round Blank stat enhancement upkeep; actual effect/MP schedules, especially Tier VI; stacking and design balance.
+
 ## November 18, 2026 — Secretly prepared active enchanted defense (AUTHOR APPROVED)
 
 **Active defensive enchantments follow the existing prepared defensive-action model (Parry and applicable prepared magical defenses), not an on-demand free reaction.** On the defender's own turn, **secretly commit the required one or two combat actions**, identify the specific equipped defensive enchantment, and declare a **narrow, legal, outcome-independent trigger** in advance. The prepared enchantment takes effect at its lawful response opportunity if that trigger occurs and all requirements (including appropriate Leywell power, physical medium where relevant, and ordinary positioning/eligibility) hold. The defender cannot wait to see whether the attack would hit or deal damage before choosing the trigger or defense.
