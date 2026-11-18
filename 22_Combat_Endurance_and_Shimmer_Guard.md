@@ -1,3 +1,11 @@
+## November 18, 2026 — Small-item swaps and armor donning times (LATEST AUTHOR APPROVAL)
+
+**One-action ring exchange:** Remove one worn ring and equip its replacement, or similarly change an ordinary accessible small accessory, as **one combat action total**. This directly resolves the prior ambiguity about separate remove-plus-equip actions. The user still has only **two active enchanted-ring equipment slots** and obeys ordinary attack/action limits. Item access, actual hands and special constraints still matter. Carrying dozens of artillery rings does not make them simultaneously equipped.
+
+**Armor donning:** Light armor takes **2 combat actions** to equip; Medium armor takes **2 minutes**; Heavy armor takes **10 minutes**. No full suit's protections are granted merely by starting to put it on. Exact **doffing**, helpers and interruptions are **open**, not silently assigned the same times. Special wearable magical transformation rules already approved do not become full undressing/donning sequences.
+
+**Tier VI Mana Blade:** Whole fire-made sword blade is Tier VI, vanishes when unpowered, and requires real medium plus Leywell mana. Previous rank-V whole elemental weapon wording is superseded in tier assignment; its actual physical-versus-elemental hit resolution remains unapproved. An energized Mana Blade is not a free additional attack. Tier VI Leywell capacity is **60 MP**, and Powerful activation cost is **24 MP per standard five-round activation** under the newest author-agreed schedule.
+
 ## November 18, 2026 — One-action item handling and ready thrown weapons (LATEST AUTHOR APPROVAL)
 
 **One ordinary interaction action:** Taking/retrieving an accessible carried or nearby item, or performing an ordinary physical environmental interaction such as opening a door, costs **one action** unless a more specific lawful procedure applies. One action can **draw or sheathe up to two eligible physically accessible weapons**. This is not an automatic bypass of reachability, locks, constraints, weapon readiness, body anatomy, or an exceptional item procedure.
