@@ -1,3 +1,7 @@
+## November 18, 2026 — Burning Edge and SPD-resisted afterburn (LATEST)
+
+**Burning Edge** is the author-approved common name for fire-element weapon enchantments, not separate names by tier. Ordinary tiers I–V apply the existing real-medium conditional-contact elemental rider without multiplying physical Weapon Rating or character attribute Power. Tier VI is the already-approved **Mana Blade**, a wholly fiery blade absent when unpowered. The **ongoing burn is Speed-resisted (effective SPD), not END-resisted**; initial ignition remains a distinct Elemental Magnitude/fire-protection interaction. Numeric magnitude/duration/injury mechanics are **not yet approved**. See [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Changelog](10_Canon_Changelog.md).
+
 ## November 18, 2026 — Tier VI 60-MP Leywell, Mana Blade and equipping times (LATEST APPROVED)
 
 **Full enchantments have a Leywell one tier higher than comparable Mixed items.** Mixed QI–V = 10/20/30/40/50 MP, Full QI–V = **20/30/40/50/60 MP**, including approved **Leywell Tier VI (60 MP)**. Tier VI Minor/Standard/Powerful activation costs are **4/8/24 MP**; the Tier VI **Mana Blade** is an entirely fire-made blade that disappears without power, and its Powerful five-round activation costs **24 MP** for **two uses per full well**. Whole-element weapon transformation moves from older Rank V to **Tier VI**, with actual fire delivery/Elemental Magnitude mechanics outstanding. Physical item Quality VI is not created.
