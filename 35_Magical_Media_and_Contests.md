@@ -1,3 +1,7 @@
+## November 18, 2026 — Enchanted media and Leywells (APPROVED)
+
+Ordinary enchantments use Anvilcraft-derived intrinsic item alteration or limited, engineered application of Leywell mana to **real physical media**, never unrestricted racial Craft spell emulation. A flaming sword's thin dispensed oil coating and Hearthiron wick provide real flame; a Leywell amplifies its heat, and fuel reserves can be sabotaged. Leywells are normally glowing polished Glassweave orbs/cut gemstones, **not liquid-mana vials**. Enchantment always draws magical power from Leywells; possible future exceptions apply only to specialized Craft-specific casting implements and are not yet specified. See [Equipment and Economy](09_Equipment_and_Economy.md) for owning design and open numerical details.
+
 # Mystaria — Magical Media and Contested Spellcasting
 
 **Status:** Author-approved qualitative framework, November 13, 2026. Quantitative MP/Power formulas and individual technique revisions remain pending. This document clarifies universal philosophy without changing existing SP prices, ranks, prerequisites or Channel Limit equations.
