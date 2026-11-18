@@ -1,3 +1,23 @@
+## November 18, 2026 — Leywell charging action, rounding, and five-round enchantment activation (AUTHOR APPROVED)
+
+**Transfer accounting:** A legitimate contributor spends their own MP of the Leywell's exact matching color. Apply the approved **90% transfer efficiency** and **round the amount actually deposited DOWN to whole MP** after calculating the transferred amount; never round each constituent point up. Thus 10 MP spent → 9 stored, while 5 MP spent → 4 stored. Charging cannot exceed the Leywell's maximum (Tier I–V capacities **10/20/30/40/50 MP**) or the contributor's available MP. Fractional transfer yield is lost, not retained as partial MP. The contributor bears the actual spent MP cost, even when the destination fills before all theoretical yield would fit; efficient contributors may choose the amount transferred.
+
+**In-combat recharge timing:** Charging a Leywell takes **two combat actions (approximately six seconds of real-world time)**. This is an action cost for a charging operation, not two additional mana charges or an automatic mana-generation process. The amount actually chargeable in one operation is bounded by available compatible MP, 90% efficiency rounded down, and remaining Leywell capacity; no additional fixed per-action transfer cap is approved here. The physical access, interruption and out-of-combat procedural details remain open.
+
+**Ordinary enchantment activation:** **Most enchanted-item effects activate without spending a combat action**, and each normal activation lasts **five combat rounds**. The effect uses its Leywell for its applicable activation MP cost. An enchantment's explicit exception can have different timing only where separately approved; activation is not a free independent offensive attack or a license to exceed established action/effect limitations. Do not infer unlimited stacking or a free extra strike. Whether repeated activation refreshes the duration, and exact simultaneous activation limits, remain open.
+
+**Approved working enchantment activation-cost ladder (user accepted preceding proposal):**
+
+| Leywell tier | Minor effect MP | Standard effect MP | Powerful effect MP |
+|---|---:|---:|---:|
+| I | 1 | 2 | 4 |
+| II | 1 | 3 | 5 |
+| III | 2 | 4 | 7 |
+| IV | 2 | 5 | 10 |
+| V | 3 | 6 | 12 |
+
+These are general **initial design bands**, not an automatic cost or power assignment to every effect; individual enchantments still need compatible color, accessible medium where relevant, and actual effect design/testing. Previous assistant-suggested ten-round duration is superseded by five rounds. Existing exceptional material equipment effects (e.g. Skyvein's approved 6 MP per powered turn) remain under their owning specific rules unless expressly revised.
+
 ## November 18, 2026 — Leywell direct-MP recharge, fixed efficiency and five-tier capacity (AUTHOR APPROVED)
 
 **Latest author correction supersedes earlier devotional recharge:** Charging a Leywell **spends the contributing character's own actual MP**. It is **not** an independent mana-generating prayer process, does not create free MP, and does not depend on sincerity, faith, or devotional enthusiasm. Transfer efficiency is a flat **90% for every contributor**, independent of belief: a transfer of 10 MP from a legal source deposits 9 MP, with 1 MP lost. The precise accounting of fractional MP deposits and partial transfers remains open, so no further rounding rule is inferred.
