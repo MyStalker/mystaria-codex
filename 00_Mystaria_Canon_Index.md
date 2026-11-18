@@ -1,3 +1,9 @@
+## November 18, 2026 — Candidate C follow-up recorded; testing paused (AUTHOR DIRECTION)
+
+Candidate C is the preferred **experimental** Weapon Rating catalogue for the next controlled tabletop comparison, when the author resumes testing. The follow-up prioritizes starter lethality and the role of genuine secondary Piercing before a broader adoption decision. See [Melee Power Calibration](26_Melee_Power_Calibration_DRAFT.md#november-18-2026--candidate-c-follow-up-plan-paused) and the [Canon Changelog](10_Canon_Changelog.md). The current F-based combat pilot remains operative.
+
+---
+
 ## November 18, 2026 — Leywell charging action, rounding, and five-round enchantment activation (AUTHOR APPROVED)
 
 **Transfer accounting:** A legitimate contributor spends their own MP of the Leywell's exact matching color. Apply the approved **90% transfer efficiency** and **round the amount actually deposited DOWN to whole MP** after calculating the transferred amount; never round each constituent point up. Thus 10 MP spent → 9 stored, while 5 MP spent → 4 stored. Charging cannot exceed the Leywell's maximum (Tier I–V capacities **10/20/30/40/50 MP**) or the contributor's available MP. Fractional transfer yield is lost, not retained as partial MP. The contributor bears the actual spent MP cost, even when the destination fills before all theoretical yield would fit; efficient contributors may choose the amount transferred.

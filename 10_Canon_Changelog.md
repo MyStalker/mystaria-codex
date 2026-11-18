@@ -1,3 +1,11 @@
+## November 18, 2026 — Candidate C comparison plan agreed; further testing paused (AUTHOR DIRECTION)
+
+The author agreed with the proposed follow-up priorities and directed that they be recorded on GitHub while further testing is paused. Candidate C is the preferred experimental comparison for future author-led tabletop play. The approval covers the test plan. Additive Weapon Rating, Candidate C's ratings, reduced starter ratings, secondary mode discounts, and temporary Technique difficulty mappings remain experimental. The approved F-based physical combat pilot remains operative.
+
+[Owning test plan](26_Melee_Power_Calibration_DRAFT.md#november-18-2026--candidate-c-follow-up-plan-paused) records the starter, secondary-mode, and positional comparisons for use when the author resumes testing. Apply the November 16 test-population ruling to those comparisons.
+
+---
+
 ## November 18, 2026 — Leywell charging action, rounding, and five-round enchantment activation (AUTHOR APPROVED)
 
 **Transfer accounting:** A legitimate contributor spends their own MP of the Leywell's exact matching color. Apply the approved **90% transfer efficiency** and **round the amount actually deposited DOWN to whole MP** after calculating the transferred amount; never round each constituent point up. Thus 10 MP spent → 9 stored, while 5 MP spent → 4 stored. Charging cannot exceed the Leywell's maximum (Tier I–V capacities **10/20/30/40/50 MP**) or the contributor's available MP. Fractional transfer yield is lost, not retained as partial MP. The contributor bears the actual spent MP cost, even when the destination fills before all theoretical yield would fit; efficient contributors may choose the amount transferred.
