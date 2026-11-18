@@ -1,0 +1,23 @@
+{
+  "source_main": "930efc89269da5cc266976861fc5215b32c1a0b6",
+  "seed": 20261118,
+  "trials": 12000,
+  "precision_trials": 60000,
+  "recommended": [
+    610,
+    1000,
+    2250,
+    3800,
+    6100,
+    12200
+  ],
+  "coefficient": 0.5,
+  "formula": "(effective END + coefficient * applicable MR)^2 * specific resistance",
+  "numpy": "2.5.5",
+  "horizon": 8,
+  "active_rounds": 5,
+  "VI_horizon": 12,
+  "VI_minimum_step": 1.8,
+  "attacker_armor": "unarmored",
+  "mp_basis": "effective END including equipment minus Soul Strain"
+}

@@ -1,0 +1,58 @@
+{
+  "bounds": "passed",
+  "replays": "passed",
+  "fixtures_replayed": 30,
+  "batches": [
+    {
+      "batch": "calibration_trials.csv",
+      "fixtures": 440,
+      "scenario_trials": 5280000
+    },
+    {
+      "batch": "cross_element_fits.csv",
+      "fixtures": 609,
+      "scenario_trials": 7308000
+    },
+    {
+      "batch": "ice_parties.csv",
+      "fixtures": 164,
+      "scenario_trials": 1968000
+    },
+    {
+      "batch": "identities.csv",
+      "fixtures": 5096,
+      "scenario_trials": 61152000
+    },
+    {
+      "batch": "mundane.csv",
+      "fixtures": 7500,
+      "scenario_trials": 90000000
+    },
+    {
+      "batch": "population.csv",
+      "fixtures": 1827,
+      "scenario_trials": 21924000
+    },
+    {
+      "batch": "sensitivities.csv",
+      "fixtures": 1302,
+      "scenario_trials": 15624000
+    },
+    {
+      "batch": "synergies.csv",
+      "fixtures": 1163,
+      "scenario_trials": 13956000
+    },
+    {
+      "batch": "tier_VI.csv",
+      "fixtures": 1470,
+      "scenario_trials": 17640000
+    },
+    {
+      "batch": "VI_extended.csv",
+      "fixtures": 315,
+      "scenario_trials": 3780000
+    }
+  ],
+  "total_scenario_trials": 238632000
+}
