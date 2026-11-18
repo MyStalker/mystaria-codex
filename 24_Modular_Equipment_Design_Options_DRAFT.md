@@ -1,20 +1,41 @@
-## November 18, 2026 — Three-turn accumulated Elemental Magnitude and Status Resistance (LATEST AUTHOR APPROVAL)
+## November 18, 2026 — Status Resistance, Burning Edge and fire injury cadence (LATEST AUTHOR APPROVAL)
 
-**LATEST controlling framework:** A new universal **Status Resistance** statistic scales with effective **END**. Its *exact numeric equation has not yet been approved*. Elemental Magnitude is now **the total eligible elemental Power actually delivered to and accumulated on a target in an element-specific status condition lasting three turns**, not the previous standalone elemental intensity/contact ratio. Each subsequent lawful hit of that element increases the accumulated magnitude. Do not include ordinary physical weapon Power unless it genuinely delivers elemental energy; preserve shields, insulation, material defenses, actual real-element pathways and specific Resistances. No extra offensive attack, separate Speed-based ignition roll, second END-based severity roll, or universal Contact Factor is created.
+**Status Resistance (SR) = (effective END)²**, including the full value of eligible equipment END and the usual effective-attribute modifiers. Elemental Magnitude is now **the total eligible elemental Power actually delivered to and accumulated on a target in an element-specific status condition lasting three turns**, not the previous standalone elemental intensity/contact ratio. Each subsequent lawful hit of that element increases the accumulated magnitude. Do not include ordinary physical weapon Power unless it genuinely delivers elemental energy; preserve shields, insulation, material defenses, actual real-element pathways and specific Resistances. No extra offensive attack, separate Speed-based ignition roll, second END-based severity roll, or universal Contact Factor is created.
 
-**Author's universal threshold structure, fire example:** When Fire Magnitude is **less than 0.5 × Status Resistance**, the target is Smoldering **with no mechanical effect**. At **0.5 × SR or more**, the status imposes **one ongoing meaningful self-Pressure Point** (not a new PP per turn). At **more than 1 × SR**, the status starts **ongoing Burning damage**. At **4 × SR or more**, it inflicts **twice as much ongoing Burning damage**. The older automatic Smoldering Fire Resistance debuff, early PP, SPD-ignition system and indefinite ordinary fire duration are **superseded**. Exact burn-damage-to-wound conversion is **NOT APPROVED**.
+**Fire thresholds and injury:** Below **0.5 × SR**, Smoldering has no mechanical effect. At **0.5 × SR** or higher, the target takes one ongoing self-Pressure Point in total. Above **1 × SR**, the target is Burning and takes **one injury stage every second round spent Burning**. At **4 × SR** or higher, the target is Engulfed and takes **two injury stages each round**. Apply these stages through the normal injury and Shimmer Guard progression. The threshold crossing determines whether fire can inflict ongoing injuries. Each tick then applies its stated stages directly, without another attack roll or Impact-to-Defense comparison.
 
-**Duration and environment:** An elemental condition lasts **three turns** unless cleansed earlier. Real **mundane or magical interventions** can cleanse or worsen an active condition: e.g., dousing fire with water extinguishes it, oil can make fire worse, and metal armor can strengthen lightning when a genuine conductive path exists. This is not permission to reinstate the old universal Contact Factor. **Fire refresh:** An eligible Burning Edge hit adds its delivered Fire Power to the existing Fire Magnitude and resets its remaining duration to **three turns**, whether the target is **Smoldering**, **Burning**, or **Engulfed**. Extinguishing clears the condition early. The exact turn boundary for expiration, how refresh affects tick scheduling, whether other elements refresh in the same way, environmental adjustments and cleansing action costs remain open.
+**Duration and environment:** An elemental condition lasts **three turns** unless cleansed earlier. Real **mundane or magical interventions** can cleanse or worsen an active condition: e.g., dousing fire with water extinguishes it, oil can make fire worse, and metal armor can strengthen lightning when a genuine conductive path exists. This is not permission to reinstate the old universal Contact Factor. **Fire refresh:** An eligible Burning Edge hit adds its delivered Fire Power to the existing Fire Magnitude and resets its remaining duration to **three turns**, whether the target is **Smoldering**, **Burning**, or **Engulfed**. Extinguishing clears the condition early. Refreshing the duration preserves the rounds already spent Burning. The exact within-turn tick and expiration boundaries, refresh for other elements, environmental adjustments and cleansing action costs remain open.
 
-**Balance constraint:** Burning Edge tiers I–V should remain equally effective relative to same-level/similarly equipped peers even while absolute elemental Power increases with progression. Tier VI Mana Blade remains the intentionally exceptional, short-ammunition peak option. Its 24 MP per five-round activation and 60-MP Leywell remain approved. The weapon's five-round powered *activation* is distinct from the three-turn *target status*.
+**Approved Burning Edge Fire Power:** The listed Power is added on a lawful contact that actually delivers it to the target.
 
-## November 18, 2026 — Burning Edge balance scope (AUTHOR DIRECTION)
+| Burning Edge tier | Fire Power per eligible contact |
+|---|---:|
+| I | 226 |
+| II | 554 |
+| III | 1,335 |
+| IV | 2,456 |
+| V | 3,914 |
 
-Compare generalists and builds allocating up to half of their discretionary level-up attribute points to END, with any automatic attribute gains accounted for separately. More extreme END specialists are outside the balance targets. Count eligible equipment END in full when testing the effective-END-based candidates. The proposed 25% weighting for equipment-derived END was rejected. For burn-cadence tests, use one tick per two rounds of normal Burning and one tick per round while Engulfed. The Status Resistance equation, Fire Power ladder and tick injury conversion are still proposals.
+**Balance constraint:** Burning Edge tiers I–V should remain equally effective relative to same-level/similarly equipped peers even while absolute elemental Power increases with progression. Tier VI Mana Blade remains the intentionally exceptional, short-ammunition peak option. Its 24 MP per five-round activation and 60-MP Leywell remain approved. The weapon's five-round powered *activation* is distinct from the three-turn *target status*. Tier VI Fire Power remains open.
 
-## November 18, 2026 — Status Resistance and Burning Edge calibration candidate (NUMBERS NOT APPROVED)
+## November 18, 2026 — Burning Edge balance scope and calibration results
 
-**Proposal ONLY:** Derived Status Resistance = (effective END)^2. For neutral generalist Hero references, assume base END15, +0.4 allocated END per gained level, plus +1 END every fifth level under the approved two total attribute points per level. At levels 10/25/50/75/100 this is effective END20.6/29.6/44.6/59.6/74.6.
+**Population:** Test generalists and builds investing up to half their discretionary level-up attribute points in END. Automatic attribute gains are separate. More extreme END specialists sit outside the balance targets. The effective-END formula counts eligible equipment END in full. The earlier 25% equipment-END weighting was rejected.
+
+**Benchmark:** Candidate C additive weapon ratings, eight Boughsteel weapon types and 130 legal weapon-and-armor pairings per gear profile at levels 10, 25, 50, 75 and 100. The test used one Full Attack per round for up to five rounds, one valid fire pathway, no cleansing, and two additional rounds without attacks to observe the tail. The geared profile spread +6/+12/+20/+28/+36 to each attribute at the respective milestones. Tick timing in the model was end of the affected turn, with the ignition round counted as the first round spent Burning.
+
+| Level-100 geared build | At least one burn injury by round five | At least one burn injury through round seven |
+|---|---:|---:|
+| 20% discretionary END | 52% | 64% |
+| 30% discretionary END | 3% | 30% |
+| 40% discretionary END | 0% | 0% |
+| 50% discretionary END | 0% | 0% |
+
+The half-END level-100 build suffered fire Pressure in 66% of the trials and requires eight Tier V contacts to ignite from full health and zero Fire Magnitude when END is held fixed. Against geared generalists, Burning Edge exceeded the mean injury stages of a mundane weapon one Quality higher at each comparable tier I–IV. At level 100, Tier V Burning Edge averaged 3.76 total injury stages versus 4.23 for hypothetical Tier V Sharpness at +50% final physical Power. Sharpness is an experimental comparator. Benchmark results describe these setups.
+
+## November 18, 2026 — Earlier Burning Edge calibration (HISTORICAL)
+
+**Historical test:** This pass also used the END-squared formula, now approved above. The earlier Fire Power ladder and its reported threshold counts describe the historical test. For neutral generalist Hero references, assume base END15, +0.4 allocated END per gained level, plus +1 END every fifth level under the approved two total attribute points per level. At levels 10/25/50/75/100 this is effective END20.6/29.6/44.6/59.6/74.6.
 
 | Burning Edge enchantment tier | Reference level | Candidate delivered Fire Power per contact |
 |---|---:|---:|
@@ -25,11 +46,11 @@ Compare generalists and builds allocating up to half of their discretionary leve
 | V | 100 | 2671 |
 | VI Mana Blade | 100 | 6678 |
 
-Ordinary I–V contacts are about 48% of the equal-level reference Hero's candidate SR: one contact remains harmless Smoldering, two reach a PP, three exceed SR and cause Burning. At each of those five milestones, a neutral Hero five levels below the reference level reaches PP after the first hit and Burning after the second. Tier VI is ~120% of level100 peer SR and causes Burning on its first legal contact, with the already approved cost and separate full-fire blade handling. **None of these numerical Powers, the END-square rule, or the proposed level-reference balancing is approved canon yet.**
+Ordinary I–V contacts are about 48% of the equal-level reference Hero's candidate SR: one contact remains harmless Smoldering, two reach a PP, three exceed SR and cause Burning. At each of those five milestones, a neutral Hero five levels below the reference level reaches PP after the first hit and Burning after the second. Tier VI is ~120% of level100 peer SR and causes Burning on its first legal contact, with the already approved cost and separate full-fire blade handling. Tier I–V values in this table were superseded by the approved ladder above. The Tier VI value is still a proposal.
 
-**Open:** Actual ongoing fire-damage Power and injury threshold conversion, one tick versus more per round, wound caps and Shimmer Guard, other elemental outcomes, suitable specialist/racial armor tests, multi-source Power and magnitude stacking, the exact tick and expiry boundaries, oil/water/metal-specific magnitude changes. Burning Edge refresh is approved above. Refresh for other elements remains open. Unlike earlier drafts, no contact factor, SPD ignition roll or status-specific END roll should be inserted.
+See the approved injury cadence and Shimmer Guard treatment above. The older burn-Power-to-injury calculation was superseded for these fire ticks.
 
-## November 18, 2026 — Universal Contact Factor DELETED; SPD ignition / END intensity (LATEST)
+## November 18, 2026 — Universal Contact Factor retirement and historical SPD ignition / END intensity
 
 **Author decision:** The generic numerical **Contact Factor / Material Contact Factor** proposal is **REJECTED and removed as an active design concept**, superseding any historical table or equation below. In older draft equations that include a Contact Factor multiplier, **do not use or import that factor**. Preserve actual contact/delivery prerequisites and independently approved insulation, Resistance, material and shield effects without double counting them. Lightning is the explicitly intended **element-specific possibility** for a bonus against conductive metal armor where a real electrical pathway reaches the wearer; its number and treatment are OPEN, and it does not reinstate a general contact modifier.
 
