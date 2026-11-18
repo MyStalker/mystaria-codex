@@ -1,8 +1,16 @@
+## November 18, 2026 — Burning Edge renews active fire on contact (AUTHOR APPROVED)
+
+An eligible Burning Edge hit adds its delivered Fire Power to Fire Magnitude and refreshes the target’s three-turn fire condition, including while Smoldering, Burning or Engulfed. Extinguishing still clears the condition. The exact expiry boundary, tick scheduling and refresh behavior of other elements remain open.
+
+**Balance direction:** Test against generalists and builds allocating up to 50% of discretionary level-up attribute points to END. More extreme END specialists are outside the balance targets. The proposed 25% weighting for equipment END was rejected. Status Resistance itself, per-tier Fire Power and injury per burn tick still require numerical calibration.
+
+**References updated:** Canon Index, World and Shimmer, Equipment and Economy, Combat and Shimmer Guard, Modular Equipment draft, and Magical Media and Contests.
+
 ## November 18, 2026 — New accumulated Elemental Magnitude and END-derived Status Resistance (LATEST AUTHOR APPROVAL)
 
 **Author's redesign:** Elemental Magnitude is now the amount of **elemental Power that actually contacts and reaches a target**, accumulating in a **three-turn elemental condition** each time that kind of elemental attack makes legal contact. New universal **Status Resistance scales with END** (formula not yet determined). Fire: under **0.5 SR** smoldering does nothing; **at least 0.5 SR** one meaningful self-PP; **above SR** ongoing burning damage; **at least 4 SR** twice normal burning damage. Mundane and magical acts can cleanse or intensify this condition, including water/oil and conductive metal with lightning. Earlier SPD ignition, separate END severity test, perpetual burn-until-put-out as an uncapped default, Smoldering inherent Fire Resistance decrease, and generic Contact Factor are superseded. Preserve genuine contact, existing medium, armor and shield rules, five-round Leywell enchantment activation, tier VI Mana Blade, two-action economy and peer-level parity targets.
 
-**UNAPPROVED numbers:** Candidate derived SR = effective END squared; draft fire Power contacts Tier I–VI 204/421/955/1705/2671/6678 are reserved as numerical test proposals in [Modular Equipment Draft](24_Modular_Equipment_Design_Options_DRAFT.md). Burn-tick injury conversion, expiry/refresh timing and circumstances' added magnitude remain open.
+**UNAPPROVED numbers:** Candidate derived SR = effective END squared; draft fire Power contacts Tier I–VI 204/421/955/1705/2671/6678 are reserved as numerical test proposals in [Modular Equipment Draft](24_Modular_Equipment_Design_Options_DRAFT.md). Burn-tick injury conversion, exact tick and expiry boundaries, and circumstances' added magnitude remain open. The later Burning Edge ruling above determines fire refresh.
 
 ## November 18, 2026 — Remove generic Contact Factor; Burning Edge SPD ignition and END intensity (LATEST AUTHOR APPROVAL)
 
