@@ -1,3 +1,7 @@
+## November 18, 2026 — Quick draw-and-throw exception (APPROVED)
+
+A combatant with a free hand, or able to free one (for example by taking one hand off a currently held two-handed weapon), may **draw and throw one ready throwing weapon from an accessible bandolier/quiver as ONE combat action**. This author-approved exception combines retrieval with the lawful attack, not a second offensive action. It obeys the approved **one offensive attack action per turn** maximum, actual throw eligibility and attack accuracy/handling rules. It does NOT confer instant loading of bows, crossbows or firearms, unlimited ready throws, or additional attacks. Otherwise, ordinary item-taking/environment interactions are **one action**, and drawing or sheathing up to **two weapons** can be one action. See [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Equipment and Economy](09_Equipment_and_Economy.md).
+
 ## November 13, 2026 — Ordinary bow starting Power benchmarks approved
 
 The approved starting full-draw Power benchmarks for **Shortbow / Recurve / Longbow** are **702 / 1,485 / 2,681 Piercing** and **1,048 / 2,218 / 4,005 Slashing** (nearest whole values from the calibration). The corresponding draw caps used are **22 / 32 / 43**. Use the existing quadratic partial-draw rule and ordinary arrowhead bypass. These are working Power benchmarks; ordinary bow range distances remain unresolved.
