@@ -1,3 +1,11 @@
+## November 18, 2026 — Smoke one-tile visibility and additive casting implements (LATEST AUTHOR CORRECTION)
+
+**Smoke visibility supersession:** See and attack **through one 5-foot tile of smoke at one harder accuracy category**; **more than one tile along the sightline blocks line of sight**. Prior automatic additional categories for each tripling of smoke coverage, and the nine-step visibility threshold, are superseded. Existing correctly-guessed-tile **50/50 single-target blind attack** may still operate subject to lawful targeting; the full targeting interaction is pending. Pyromancers' oxygen-free smoke breathing remains.
+
+**Implements must add independent Power** rather than apply legacy weapon-F multiplication to caster attributes. The intended baseline is **comparable to a Medium weapon across physical Quality I–V**. A proposed `A² + ImplementRating²` structure is for testing and the implement rating ladder is **not yet approved**. This additive implement correction does not itself retroactively ratify the experimental physical Weapon Rating replacement formula; leave that model's separate status intact. Seven-attribute tuning, one-hand minimum, two-implement investment and finite 0–V reservoirs remain as separately instructed. Owners: [Magical Media](35_Magical_Media_and_Contests.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Equipment](09_Equipment_and_Economy.md), [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 18, 2026 — Smoke visibility and customizable implements (LATEST AUTHOR DIRECTION)
 
 **Smoke:** One smoke tile worsens attack accuracy by **one difficulty category**, and each **tripling** worsens accuracy by another category. Literal thresholds 1/3/9/27/81/243/729/2187/6561 correspond to smoke steps 1–9; past nine steps smoke completely blocks target sight. Guess the target tile; a correct guess gives a **50% chance** for a single-target attack to resolve normally. How smoke is spatially counted, d20 Impossible clamping versus sight and the post-guess accuracy interaction remain open. Ordinary non-Pyromancers usually need minutes of inhalation to suffer smoke problems, to be designed in an environmental Endurance catalogue; **Pyromancers can breathe oxygen-free pure smoke without issue**.
