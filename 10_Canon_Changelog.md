@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR APPROVES Combat Speed for initiative (LATEST)
+
+**Explicit author decision:** Replace **current effective SPD** with **current ordinary Combat Speed** as the initiative ordering statistic. Rank **highest Combat Speed first**. Compute Combat Speed from **effective SPD + effective DEX/4**, with approved worn-armor modifier on the combined value and legitimate wound/equipment-shortfall adjustments. Preserve the approved ties: Heroes/Legends before ordinary combatants; player characters before tied NPC Heroes/Legends; remaining exact ties decided by the DM, with the relative order then fixed. **Ordinary movement remains SPD-based.** The separately approved temporary Dash Combat Speed bonus does not retroactively reorder an existing initiative sequence. Timing for initiative refresh after actual mid-combat changes remains open. **This supersedes older initiative-on-effective-SPD claims** in the November 8 initiative decisions and November 13 Combat Speed scope passages; all other details of those historical approvals remain in force. Update simulator initiative sorting accordingly; no authorization to canonize experimental simulation policies.
+
+**References:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 19, 2026 — AUTHOR CONFIRMS Water-element MR erosion at 1× and 4× SR (LATEST)
 
 **Explicit user clarification:** Water's erosion amounts are decided. At **≥1× target's applicable Water-typed Status Resistance**, **−15% applicable Magic Resistance**; at **≥4×**, **−30% total applicable Magic Resistance** (not −45%, and not a second added −30%). This corrects the preceding references that marked Water erosion percentages as undecided. Water reduces MR rather than AR, and retains the existing Water-specific absence of the ordinary 0.5× Pressure Point. The established legal-contact, three-turn elemental magnitude accumulation/refresh conditions survive unchanged. **Not thereby approved:** any particular MR percentage rounding, instant recovery/persistence, final typed-SR formula including MR/elemental resistance, iterative SR recomputation after erosion, or independent extra physical injury and magic penetration. The numerical Water threshold amounts are canon; previous balance-coefficient or MP-cost proposals remain experimental.
