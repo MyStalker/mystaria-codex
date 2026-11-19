@@ -78,6 +78,12 @@ The author approves **one ash tile left by each extinguished fire tile**. **All 
 
 ---
 
+## November 19, 2026 — AUTHOR CLARIFICATION: Cleanse may preempt status effects (LATEST)
+
+**Explicit author decision:** A Wakecrafter can use Cleanse on **any of their own status buildup above zero**, even **before the status has any mechanical effect**. Do not require the buildup to reach a Pressure Point, injury, or other activation threshold first. This is permission to cleanse trace/pre-effect buildup, **not** a new reaction, interrupt, immunity, or out-of-turn action: the existing **1 MP, one available action, ordinary-attack-equivalent reduction**, and casting constraints remain. **Still unresolved:** whether Cleanse lowers or ends a condition that has *already* imposed mechanical effects; one versus multiple status pools per use; and the attack-equivalent calculation details. Previous unresolved wording concerning pre-effect eligibility is superseded, while the active-condition question remains open.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Wakecraft Cleanse self-status utility (LATEST)
 
 **Cleanse** costs **1 MP**, uses **one action**, and can only be used when the Wakecrafter is capable of taking that action. It reduces **the caster's own buildup of any status type**, with the reduction **equal to the buildup they would have inflicted by making an ordinary attack with the same action**. It is a non-damaging utility; no automatic additional action, external targeting, or condition immunity follows. This new approved rule is additive to the approved Water Attack, Ice Stab, Freeze Attack, and Shatter.
