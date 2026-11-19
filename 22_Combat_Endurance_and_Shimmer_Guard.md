@@ -1,3 +1,9 @@
+## November 19, 2026 — Author-confirmed Water Elemental Magnitude MR erosion (LATEST)
+
+**Water status thresholds are no longer numerically open:** A lawful Water-element magnitude condition reaching **1× applicable Water-typed Status Resistance** reduces **applicable Magic Resistance by 15%**. At **4× Water-typed SR**, it reduces **applicable MR by 30% total**, **not** a cumulative 45% reduction. Water specifically erodes MR, **not** AR, and does not impose the ordinary half-SR Fire-style Pressure Point by default. The established status magnitude accumulation/three-turn refresh applies. The detailed typed SR formula, MR percentage rounding, erosion expiry/recovery, and whether reducing MR immediately changes the current Water SR threshold remain **OPEN**; do not invent a circular status escalation. See `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 18, 2026 — Smoke sightline simplified to one 5-foot tile (LATEST AUTHOR CORRECTION)
 
 **Supersedes all earlier escalating/tripling smoke accuracy penalties and nine-step sight-loss threshold.** When a relevant attack line passes through **one tile / 5 feet of smoke**, the attacker can still see the target but suffers **one harder Naked-d20 accuracy category**. **More than one smoke tile / 5 feet along that line blocks line of sight**, rather than adding more incremental accuracy categories. Use smoke along the line of sight, not unrelated cloud area. Existing separately approved unseen-target guess-a-tile and 50/50 single-target provisional resolution remain subject to legitimate targeting rules; precise blocked-sight targeting and post-guess procedure remain to be reconciled. Fire-to-smoke conversion, one smoke tile generated per active fire tile per round, Pyromancer smoke breathing and pending Endurance hazards remain unchanged. See `35_Magical_Media_and_Contests.md`.
