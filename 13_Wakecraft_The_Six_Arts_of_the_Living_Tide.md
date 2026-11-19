@@ -1,3 +1,17 @@
+## November 19, 2026 — Three Wakecraft attacks, water-to-freeze conversion, and Shatter (LATEST AUTHOR DECISION)
+
+Wakecrafters may choose among **Water Attack**, **Ice Stab**, and **Freeze Attack** as distinct basic offensive approaches:
+
+- **Water Attack:** A physical-damage attack that delivers eligible Water elemental buildup and its established **MR erosion** effect (15% at 1× applicable Water SR, 30% total at 4×).
+- **Ice Stab:** A physical-damage attack that delivers **Freeze buildup** instead of Water buildup.
+- **Freeze Attack:** A **magical-energy-classified, pure-status attack** that deals **zero direct damage of any type**. It delivers **twice its ordinary eligible elemental status magnitude as Freeze buildup**, and **immediately converts all existing Water elemental buildup on the target into Freeze buildup**. Thus earlier Water buildup can be used for erosion and subsequently cashed in for Freeze. The final typed elemental SR, magical-defense interaction, conversion timing relative to erosion expiry, and status threshold consequences not otherwise specified in approved canon remain open; do not invent them.
+
+**Shatter:** If a **physical attack** against a **Frozen target** has sufficient ordinary, pre-Shatter incoming Attack Power to qualify to inflict an injury under the applicable defenses, **double that incoming Attack Power before resolving its damage/defenses**, and **remove the target's Freeze condition**. This is **not double final damage**, and insufficient-to-injure physical hits do not Shatter. Do not treat magical-energy-only attacks as Shatter triggers. Exact timing if an attack's injury outcome depends on uncertain dice or multiple defenses remains to be specified.
+
+These choices supplement, rather than erase, the existing Wakecraft skill progression, liquid-water medium restrictions, elemental durations, and spell MP/action rules. Older suggestions that Wakecraft offensive attacks must all use the same water delivery or that Shatter doubles final post-defense damage are superseded.
+
+---
+
 ## November 19, 2026 — Wakecraft Water-element erosion amounts confirmed (LATEST)
 
 Wakecraft attacks that **legally deliver Water Elemental Magnitude** use the common **Water status**: reaching **1× applicable Water Status Resistance** reduces the target's applicable **Magic Resistance by 15%**; reaching **4×** reduces it **by 30% total**, not 45%. This does **not** imply that every mundane splashing or mechanically propelled water impact automatically delivers status magnitude. Physical water impact follows its proper physical defense, while qualifying Water magnitude erodes MR instead of inflicting Fire-style Burning damage or default half-SR Pressure. The controlling elemental status record is `35_Magical_Media_and_Contests.md`. Typed SR/erosion duration/rounding and feedback interactions are still open; all Wakecraft medium, range, MP, and Skill Point rules remain unchanged.
