@@ -1,3 +1,13 @@
+## November 18, 2026 — AUTHOR APPROVAL: Finite Refiner medium reservoirs (LATEST)
+
+**Author explicitly selects the finite-reservoir model.** Refiner casting implements use a **specialized Leywell** to hold a **large, finite reserve of the Craft's genuine physical medium**. Blue-attuned Refiner stores **liquid water** for Wakecraft; Red-attuned Refiner stores a **viable existing flame** for Pyromancy, with all proper medium requirements preserved. Unlike the discarded percentage-based medium efficiency suggestion, this provides real medium supply and **does not reduce a spell's medium volume or tiles requirement**. Medium can be exhausted or lost, and must be **replenished**, with no automatic limitless regeneration. Keep the Leywell's mana and physical-medium reservoir conceptually distinct; do not infer that all Leywells store matter or create matter from MP.
+
+**Psychic specialization:** Psychics receive **no Refiner**; a different specialization could be proposed later, but a Prism or fixed range bonus is not yet canon. **Open details:** capacity by quality/slots, precise refill procedures and costs, flame viability/fuel, other color-to-medium mappings, implement-specific equipment values and numerical amplifier/conduit/harmonizer comparisons. Earlier spellcasting/channel-action approvals and all real-medium restrictions remain unchanged.
+
+**Subject records updated:** `09_Equipment_and_Economy.md` and `35_Magical_Media_and_Contests.md`; index updated for navigation.
+
+---
+
 ## November 18, 2026 — AUTHOR APPROVAL: Spellcasting implements, distinct Craft scaling and two-action channel budget (LATEST)
 
 **New official action-based Channel Limit:** A spell using **one combat action** may channel no more than **floor(the caster's normal applicable full Channel Limit / 2)**; a spell requiring **both actions** may channel up to **full Channel Limit**. This is a refinement of, not a repeal of, the shared per-turn throughput and prepared-defense reservation system. Respect the two-action turn and **one offensive attack action maximum**, as well as separately established Channel Limit exceptions. Full numerical Channel Limit formulas remain unchanged.
