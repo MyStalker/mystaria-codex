@@ -1,3 +1,9 @@
+## November 19, 2026 — Ash terrain, Hot Ash / Cold Ash (LATEST AUTHOR DECISION)
+
+**Extinguishing fire:** Each extinguished fire tile leaves **one tile of ash**. All ash is **difficult terrain**, costing **twice the normal movement** to traverse a tile. Ash less than **one minute old** is **Hot Ash** and applies **half the Burning status buildup of equivalent fire exposure**. At one minute or older it becomes **Cold Ash**, with no Hot Ash Burning effect. A Pyromancer may **draw heat from an ash tile as though from one smoke tile**, making that tile Cold Ash. Pyromancers are also intended to have a **spell to reheat ash**; its prerequisites, cost, action, duration, and exact mechanics remain open. Preserve established fire and smoke rules. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) and [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 19, 2026 — Wakecraft Cleanse utility (LATEST AUTHOR DECISION)
 
 **Cleanse:** A Wakecrafter spends **1 MP and one available action** to reduce **their own status buildup of any kind** by an amount **equivalent to the status buildup their ordinary attack would apply with that action**. The user must actually be able to take an action; Cleanse is utility, not a damaging attack. **Open:** one versus multiple buildup types per activation, reduction of already-active conditions versus stored buildup, and exact attack-equivalent magnitude/defense calculation. [Wakecraft](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md); [Magical Media](35_Magical_Media_and_Contests.md); [Canon Changelog](10_Canon_Changelog.md).
