@@ -82,6 +82,8 @@ Do not confuse ash with fire or smoke for unrelated purposes: the explicit heat-
 
 A Wakecrafter may expend **1 MP and one action** to use **Cleanse** on themselves, reducing their own **status buildup of any kind** by the same status-buildup magnitude their ordinary attack with that action would otherwise produce. Cleanse is a utility, **not an offensive attack**. It requires the user to be able to take an action; incapacitation or other conditions denying actions prevent Cleanse. It causes no direct damage. Do not grant it special action economy, cures for injuries, or unrelated effects.
 
+**Approved pre-effect timing clarification (November 19, 2026):** Cleanse can reduce a Wakecrafter's own status buildup whenever it is **above zero**, including trace buildup **before the condition has any mechanical consequences**. The action must still be available and the usual 1 MP and other casting constraints apply. This does not authorize a free reaction or interrupt.
+
 **OPEN:** Whether multiple different buildup types are reduced simultaneously or only one selected type; precise attack-equivalent magnitude calculation and interaction with delivered status after defenses; whether accumulated buildup reduction also reverses an already-triggered condition. Preserve separately approved Water erosion, Freeze conversion, and Shatter mechanics.
 
 ---
