@@ -1,3 +1,9 @@
+## November 19, 2026 — Wakecraft Water-element erosion amounts confirmed (LATEST)
+
+Wakecraft attacks that **legally deliver Water Elemental Magnitude** use the common **Water status**: reaching **1× applicable Water Status Resistance** reduces the target's applicable **Magic Resistance by 15%**; reaching **4×** reduces it **by 30% total**, not 45%. This does **not** imply that every mundane splashing or mechanically propelled water impact automatically delivers status magnitude. Physical water impact follows its proper physical defense, while qualifying Water magnitude erodes MR instead of inflicting Fire-style Burning damage or default half-SR Pressure. The controlling elemental status record is `35_Magical_Media_and_Contests.md`. Typed SR/erosion duration/rounding and feedback interactions are still open; all Wakecraft medium, range, MP, and Skill Point rules remain unchanged.
+
+---
+
 ## November 18, 2026 — Corrected Wakecraft medium tripling, puddles and Typhoon (LATEST AUTHOR APPROVAL)
 
 **LATEST Medium Level amounts supersede older fourfold onset:** I = **one cup liquid water**, II = **one waterskin**, III = **one full water tile**, IV = **3 tiles**, V = **9 tiles**, VI = **27 tiles**, VII = **81 tiles**. One full tile's water quantity is equal to **three puddle quantities**, and it spreads across **three puddle squares** under ordinary shallow-puddle conditions, not the old four squares. A puddle holds **1/3** a concentrated full-tile quantity; coverage never creates new matter. If the caster commits a medium source bigger than the spell requires, **one-third of that committed larger supply disappears/is expended**. The amount which physically remains can be recovered under lawful Wakecraft, subject to ongoing effect dispersal, contamination, positional access and required technique. Exact water volume per tile, drawing partial sources and rounding remain OPEN.
