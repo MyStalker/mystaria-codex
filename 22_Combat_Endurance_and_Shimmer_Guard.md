@@ -1,3 +1,9 @@
+## November 18, 2026 — Smoke visibility and combat penalty (LATEST AUTHOR DIRECTION)
+
+Smoke penalizes eligible attack accuracy by **one Naked-d20 difficulty category** starting at **one qualifying smoke tile**, with a further harder category **each time the qualifying number of smoke tiles triples** (thresholds **1/3/9/27/81/243/729/2187/6561** for **1–9** steps). After nine steps, the target is no longer visible through smoke. Attacker may **guess a target tile**, then if correct a **single-target attack gets a 50% chance to proceed to ordinary attack resolution**. Ordinary category clamping and the meaning of 'normally' after successful guessing need reconciliation; do not secretly invent new d20 categories. Count of smoke relevant to one line of attack, environmental smoke layering and special senses are OPEN. Non-Pyromancers usually require minutes of smoke breathing before respiratory problems (full environmental END rules forthcoming), whereas Pyromancers can breathe pure oxygen-free smoke. See `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 18, 2026 — Typhoon penalties, fire ignition and fractional spread (LATEST AUTHOR APPROVAL)
 
 **Typhoon:** Each creature in a Typhoon suffers **one Pressure Point** and **one category harder** ordinary Naked-d20 attack accuracy (author's “−1 accuracy category”), including casters benefiting from rain. Whether the condition's PP stacks with existing PP sources, precisely when it applies/expires and interactions with other weather penalties remain OPEN; no automatic damage or new attack is granted. Each Typhoon rain tile counts as **one actual puddle** for Wakecraft, with **three puddles = one full tile's worth of liquid medium**. See `35_Magical_Media_and_Contests.md`.
