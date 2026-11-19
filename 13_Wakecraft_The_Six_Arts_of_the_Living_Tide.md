@@ -2,6 +2,8 @@
 
 **Cleanse** is a Wakecraft utility costing **1 MP** and requiring **one available action**. The Wakecrafter decreases **their own existing status buildup of any kind**, by an amount equivalent to the elemental status buildup their own ordinary attack would deliver with that action. Cleanse is **not an attack**, and cannot be used while the Wakecrafter is unable to take an action. It does not deal damage, target another creature, or grant an extra action. Retain ordinary casting resource, medium, and action constraints where applicable; no exemption was approved.
 
+**Approved timing clarification (November 19, 2026):** Cleanse may be used whenever the Wakecrafter has **greater than zero buildup** of a status, **before that buildup imposes any mechanical effect**. No severity threshold, activation, injury, or penalty is prerequisite. Cleanse still uses an available action and 1 MP, so this permission does not grant an automatic reaction, interrupt, or out-of-turn action.
+
 **OPEN implementation details:** Whether one use reduces a single chosen status type or multiple statuses at once; exact subtraction/capping and whether it can remove a fully triggered condition versus its accumulated buildup; how the hypothetical ordinary attack's status magnitude is computed under contested defenses, implements, and elemental choices. Do not assume broad immunity, removal of injury, or a free status purge.
 
 ---
