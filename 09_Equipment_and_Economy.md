@@ -1,3 +1,9 @@
+## November 19, 2026 — HEARTHIRON MEDIUM CORRECTION: ×12 size-equivalent thermal reservoir (LATEST)
+
+**Latest author correction supersedes the earlier ×3 Hearthiron reserve proposal below**: for future Pyromancy Banked Heat sourcing, **even a small amount of Hearthiron counts as twelve times (×12) its ordinary tile/space-equivalent thermal-medium reservoir**, with room for a later author-approved increase. The general Banked Heat direction of **at least ×3 thermal medium per comparable tile** remains distinct and unchanged. The ×12 refers **only to thermal-medium reservoir density/equivalence**, not Hearthiron armor Furnace Burst charge counts, recharge thresholds, blast Power, price, or other approved equipment mechanics. Exact heat conversion, storage and depletion are pending design.
+
+---
+
 ## November 19, 2026 — Hearthiron as concentrated Pyromancy medium (LATEST AUTHOR DIRECTION)
 
 For future Pyromancy **Banked Heat** medium extraction, **even a small amount of Hearthiron** is intended to provide **at least 3× the thermal-medium reserve of an ordinary source of equivalent size**, with Banked Heat from substantial ordinary hot sources likewise supplying **at least 3× ordinary fire's thermal-medium per comparable tile**. This **does not change currently approved Light/Medium/Heavy Hearthiron armor Furnace Burst charge counts, burst Power, recharge, or equipment price**. Heat-equivalent units, storage depletion/recovery, contestability and conversion to actual eligible Pyromancy medium are still to be defined. See [Magical Media](35_Magical_Media_and_Contests.md) and [Canon Changelog](10_Canon_Changelog.md).
