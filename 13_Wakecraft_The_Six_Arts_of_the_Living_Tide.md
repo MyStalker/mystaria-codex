@@ -1,3 +1,11 @@
+## November 19, 2026 — Cleanse, Wakecraft self-purification utility (LATEST AUTHOR DECISION)
+
+**Cleanse** is a Wakecraft utility costing **1 MP** and requiring **one available action**. The Wakecrafter decreases **their own existing status buildup of any kind**, by an amount equivalent to the elemental status buildup their own ordinary attack would deliver with that action. Cleanse is **not an attack**, and cannot be used while the Wakecrafter is unable to take an action. It does not deal damage, target another creature, or grant an extra action. Retain ordinary casting resource, medium, and action constraints where applicable; no exemption was approved.
+
+**OPEN implementation details:** Whether one use reduces a single chosen status type or multiple statuses at once; exact subtraction/capping and whether it can remove a fully triggered condition versus its accumulated buildup; how the hypothetical ordinary attack's status magnitude is computed under contested defenses, implements, and elemental choices. Do not assume broad immunity, removal of injury, or a free status purge.
+
+---
+
 ## November 19, 2026 — Three Wakecraft attacks, water-to-freeze conversion, and Shatter (LATEST AUTHOR DECISION)
 
 Wakecrafters may choose among **Water Attack**, **Ice Stab**, and **Freeze Attack** as distinct basic offensive approaches:
