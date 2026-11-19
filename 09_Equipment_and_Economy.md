@@ -1,3 +1,11 @@
+## November 18, 2026 — Updated medium quantities and Refiner accounting (LATEST AUTHOR APPROVAL)
+
+The Medium Level ladder for Wakecraft/Pyromancy is now **I cup/match; II waterskin/lantern; III 1 tile; IV 3 tiles; V 9 tiles; VI 27 tiles; VII 81 tiles**. This **supersedes** the older IV–VII 4/12/36/108 progression. **One full water-tile amount = three puddles** (not four); larger committed medium sources used for smaller spells lose **one-third of the larger committed amount** rather than remaining wholly intact. These are physical medium accounting rules, not bonus MP or Power.
+
+Finite Refiner Leywell capacity must eventually be measured against the corrected threefold Medium Level supply; it is not a percentage discount and does not spontaneously replace spent water or fire. **Specific Refiner capacity by Quality, storage mechanics, flame fuel/viability and replenishment remains UNAPPROVED.** Mana and real-medium inventories remain distinct; neither ordinary Leywells nor mandatory Psychic gems gain universal medium generation. Defensive-oriented casting implement Power is relevant to a caster's medium-seizure check, but the exact implement formula and other specialization percentages remain OPEN. See `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 18, 2026 — Refiner calibration against seven Medium Levels (LATEST AUTHOR DIRECTION; CAPACITIES OPEN)
 
 **New Medium Level equipment interface:** Spells for Wakecraft and Pyromancy have separate **mana** and **physical Medium Level** costs, using a seven-level ladder: I cup/match flame; II waterskin/lantern flame; III 1 tile; IV 4; V 12; VI 36; VII 108 tiles of appropriate real water/fire. A finite **Refiner** Leywell is valued for supplying an actual **medium inventory** against those requirements, not for lowering their numerical tile count. Cast medium is committed/expended, and surviving/recovered media can later be reused where lawful. No general rule permits converting mana to medium or treating one puddle tile as four times its water volume.
