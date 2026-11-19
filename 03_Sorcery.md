@@ -1,3 +1,13 @@
+## November 18, 2026 — Spellcasting baseline and energy damage clarification (LATEST AUTHOR APPROVAL)
+
+**Updated spellcasting baseline:** A one-action cast may channel up to **floor(full Channel Limit / 2)**; a spell that takes **both actions** can channel up to the **full Channel Limit**, subject to the shared per-turn budget, existing specialized exceptions and one-offensive-action-per-turn combat rule. See `35_Magical_Media_and_Contests.md` for central authority, including prepared defenses and still-open timing details. Casts may use an **optional Craft-specific implement** that contributes to spell potency, without creating a fifth generic combat damage source. Specific implement scaling and enchantment interactions are uncalibrated.
+
+**Progression philosophy (approved):** Both offensive and defensive cantrips remain relevant fallback categories at all levels but weaker than mana-costing spells; offensive cantrips also fall below comparable weapon attacks. Basic attacks such as a proposed Firebolt-style effect must remain useful against peer-level opponents at level 100, while high-cost spells offer superior damage and/or reach, area, duration and utility. This statement does **not** add Firebolt as a separate approved Incantation or rewrite the Ignis purchase/alteration catalogue. Additional MP can strengthen offense but may demand greater/consumable media, cause wider collateral effects or require multiple-turn charges; no numeric MP, Power, implement or spell cost table is approved.
+
+**Revised energy-versus-physical distinction:** Energy spells gain their proper elemental statuses and therefore do **not** receive an additional blanket raw-damage multiplier compared with a similarly powered magic-propelled physical attack. Retain the latter's usefulness against high-MR defenses and the established distinction between MR-resisted energy and AR-resisted genuine physical impacts. This corrects the older qualitative preference for energy to also deal more raw damage, without altering approved Sorcery SP costs, colors or named Incantations.
+
+---
+
 
 
 ## November 8, 2026 — Energy versus magic-generated physical attacks (LATEST AUTHOR GUIDANCE)
