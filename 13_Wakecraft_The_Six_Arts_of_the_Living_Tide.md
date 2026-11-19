@@ -1,3 +1,23 @@
+## November 19, 2026 — AUTHOR APPROVAL: New Wakecraft Esotery progression (LATEST DESIGN DIRECTION)
+
+**The planned universal-magical Esotery progression for Wakecraft is now explicitly selected:**
+
+| Esotery Rank | Selected ability | Approved direction |
+|---|---|---|
+| I | **Mirrorwake** | Read memories meaningfully retained in water, including **millennia-old water** when appropriate, and scry remotely using eligible water connections. Novices may obtain useful specific memories; age alone is not a prerequisite barrier or vague-only gate. Perceptual details, fragment loss and complexity can still depend on the water, Channel Limit and circumstances. |
+| II | **Surface Dominion** | Make water **moldably solid** and **approximately half as tough as equivalent ice**. Enables mutable platforms, supports and barriers, subject to durability and upkeep calibration. |
+| III | **Refraction** | Control light's passage through water to distort what is seen, project optical images and disguise/conceal things. Not generic unrestricted illusion magic. |
+| IV | **Cloudcraft** | Treat water vapor, mist and clouds as **moldable solids**; cloud-delivered **long-term effects are 2× as mana efficient**. With Rank II, allow walking on clouds/fog; dense or molded fog can strongly impede enemies' movement, with exact movement reduction pending. |
+| V | **Abyssal Pressure** | Apply extraordinary water pressure not constrained by mundane depth/volume, with normal Power/medium/Channel Limit and defense still relevant. |
+
+**Specific supersession and preservation:** This newly chosen **Esotery I Mirrorwake** concept collapses the old five-purchase Mirrorwake investigative progression into **one capability unlock**, with difficult tasks handled by lawful casting resources, perception and Channel Limit rather than an age-only rank lock. A prior roleplay scene in which a novice successfully read meaningful memories from **millennia-old water in a bottle** is an explicit design precedent. The older **Lingering Ripples → The River Remembers** five-rank list below is retained as **historical approved reference pending complete rank/SP migration**, not a reason to deny a novice meaningful ancient-water memories in the revised design. Preserve Mirrorwake's genuine-water-exposure evidence limits, Cipherlight detection without automatic decoding, water-memory corruption and possible forgeries.
+
+**Cloudcraft expressly introduces advanced direct vapor/fog/cloud shaping** despite the otherwise controlling baseline that ordinary Wakecraft actively controls **liquid water only**. Do not extend this exception to untrained basic Wakecraft or retroactively treat old Threefold Weave as already fixed. Its ×2 mana efficiency applies to **long-term effects delivered via clouds**, not all Wakecraft spells, attack Power, short combat attacks or automatic physical medium generation. Appropriate sustained-cost accounting and cloud-volume definitions remain open.
+
+**Not yet determined:** replacement skill-ledger SP accounting, individual MP prices, Mastery/Channel Limit requirements, Mirrorwake scry range, half-ice toughness mapping to integrity/HP, optical targeting, vapor density/shape requirements, cloud-walking load limits, fog mobility penalties, and Abyssal Pressure damage mechanics.
+
+---
+
 ## November 19, 2026 — Cleanse, Wakecraft self-purification utility (LATEST AUTHOR DECISION)
 
 **Cleanse** is a Wakecraft utility costing **1 MP** and requiring **one available action**. The Wakecrafter decreases **their own existing status buildup of any kind**, by an amount equivalent to the elemental status buildup their own ordinary attack would deliver with that action. Cleanse is **not an attack**, and cannot be used while the Wakecrafter is unable to take an action. It does not deal damage, target another creature, or grant an extra action. Retain ordinary casting resource, medium, and action constraints where applicable; no exemption was approved.
