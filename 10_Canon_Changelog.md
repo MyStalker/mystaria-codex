@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR CORRECTION: Transformation delivery via imbued medium; permanent effects stringent
+
+The author's latest decision **supersedes the earlier interpretation that a living body itself automatically qualifies as the magical medium**. Transformation is an **ordinary spell** whose alteration must be **conveyed through qualifying medium contact with its target**. **Wakecraft:** a soaked target or one hit by a lawful water attack. **Pyromancy:** target already Burning, or contacted by a new qualifying fire attack. **Psycraft:** appropriate mandatory focusing crystal/gem AND successful Cipherlight contact. Eligibility/delivery is **distinct from successful transformation**; it neither waives MP, Channel Limit, action costs nor grants uncontested hostile alteration. Precise duration of delivery eligibility, hit-versus-contact requirements and defenses are open.
+
+The author envisages **gem imprisonment through Cipherlight transformation, temporary gas transformation, and disintegration into ash** as high-level possible applications, not prepriced finalized spells. **Permanent transformations must be among the most expensive and easiest-to-resist workings in the game**. Set concrete MP, capacity, resistance, reversibility and continuity rules later. Earlier Transformation rank framework (Control, Hostility, Adaptation, Alteration/Projection, Transmogrification), including rank III resistance modifications, remains in development; existing historical rank/SP ledgers are not replaced.
+
+---
+
 ## November 19, 2026 — AUTHOR DIRECTION: Five-rank Transformation scope and third-rank elemental resistances
 
 The author accepts the emerging five-rank **Transformation** design, with a major clarification: **Transformation may target other creatures, not only the caster**, including allies and enemies, and generally leans toward supportive effects. Qualifying bodies can serve as the relevant **medium for learned Transformation effects**. Pyromancy examples include turning a hostile creature's foot into fire (possible trip, then legitimate fire propagation) or granting allies safe smoke respiration. This does not approve automatic hits, uncontested hostile bodily alteration, unrestricted bodily-medium access for other spells, or free bypass of mana, Channel Limit and defenses.
