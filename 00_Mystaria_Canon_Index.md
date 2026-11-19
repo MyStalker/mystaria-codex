@@ -1,3 +1,9 @@
+## November 18, 2026 — Finite Refiner reservoirs AUTHOR APPROVED (LATEST IMPLEMENT DIRECTION)
+
+**Approved:** A **Refiner casting implement** contains a **specialized Leywell with a large but finite reserve of real, compatible physical medium**. A Blue-attuned Refiner may hold **liquid water** for Wakecraft; a Red-attuned one may hold **genuine flame** for Pyromancy, respecting all existing Craft media rules. This is a **finite, depletable and refillable** medium reservoir, **not** automatic endless generation, MP-to-matter conversion or a percentage reduction in spell medium requirements. Medium capacity and replenishment mechanics remain OPEN, and stored mana is distinct from the stored physical medium. Ordinary Leywells do not automatically gain this storage capability. **Psychics do not have a Refiner**; their alternative implement profile is undecided, and their gem-focus requirement remains intact. No proposed numerical specialization modifiers are approved. Owners: [Equipment](09_Equipment_and_Economy.md), [Magical Media](35_Magical_Media_and_Contests.md), [Psycraft](15_Naga_Psycraft_Canon.md), [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 18, 2026 — Spellcasting power philosophy, implements and per-action channeling (LATEST APPROVED)
 
 **Latest author-approved spellcasting rule:** The combat turn remains **two actions, maximum one offensive attack action**. A **one-action cast** may channel at most **floor(full applicable Channel Limit / 2)**; a **two-action cast** may channel up to the **full Channel Limit**. This refines the previous shared turn-scale Channel Limit/prepared defense framework without granting extra MP or separate offensive attacks. Preserve existing specialized Channel Limit exceptions. Two-action preparation/interruption/charging edge cases are still open.
