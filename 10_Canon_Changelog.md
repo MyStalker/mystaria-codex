@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR DECISION: Automatic magical Craft Mastery replaces separate Mastery purchase proposal
+
+The author explicitly selects **automatic mastery**: advancing a magical Craft's learned disciplines increases that Craft's Mastery and therefore its **Channel Limit**, without a separate Mastery skill purchase. A **discipline rank is a strict prerequisite** for its spells and modifiers, while **Channel Limit is a separate capacity requirement** for each actual working. A partial transformation such as turning a hand into water to extend reach can require less capacity than full-body transformation; no numeric capacity requirements are approved. The author has also directed **halving the INT-derived Channel Limit component** and adding craft-specific learned Mastery, but the exact arithmetic, rounding, contribution per rank, multicraft accounting, and compatibility with legacy formulas/special Craft exceptions are **unresolved**. Preserve existing one-action and two-action allocation and other resource gates pending formal numerical adoption.
+
+**Progression context, not yet finalized as a replacing skill ledger:** Target six universal magical disciplines and three craft-specific disciplines, each considered for five ranks. Universal magical principles do not apply automatically to martial or crafting Crafts such as Jinx. Ordinary SP remains shared with prospective proficiencies; 'High Power Progression' aims for about 2× SP for solo-friendly multicraft breadth, but its implementation and SP schedules are not approved. Do not silently replace existing Craft ranks, SP prices, or prerequisites.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Ash terrain and heat extraction
 
 The author approves **one ash tile left by each extinguished fire tile**. **All ash** costs double normal movement to traverse as difficult terrain. Ash younger than **one minute** is **Hot Ash**, applying **half as much Burning status buildup as fire** for comparable exposure; ash of age one minute or older is **Cold Ash**. A Pyromancer may **absorb heat from one ash square as though it were one smoke square**, making the ash Cold Ash. A Pyromancy **ash-reheating spell** is authorized as a future capability, but no name, MP cost, rank, timing, range, heat quantity, or precise spell mechanics have been approved.
