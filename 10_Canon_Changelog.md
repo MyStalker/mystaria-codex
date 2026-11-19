@@ -1,3 +1,9 @@
+## November 19, 2026 — AUTHOR CORRECTION: Hero/Legend Execute divisor at three and four wounds
+
+The author clarifies that **Hero/Legend Executes have a separate wound-gated Power divisor**: automatically resisted at **0–2 wounds**, **÷3 Power at 3 wounds**, **÷2 at 4 wounds**, and **÷1 at 5+ wounds** using the same progression and minimum divisor of one. Ordinary Execute targets retain **÷4, ÷3, ÷2, ÷1 at 0, 1, 2, 3+ wounds** respectively; the minimum ÷1 resolves the otherwise-zero divisor at four or more. Older tentative universal wound scaling and earlier suggestions that Heroes/Legends reach ÷1 at three wounds are **superseded**. The author also confirms the intended Warlock Soul Reaping reward is mana of the victim's **soul color**, not 'soil color'. Specific Execute resistance calculations, MP variants, and Soul Reaping yield are still open.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Executes as universal non-wound finishers; Soul Reaping executes instead of XP damage
 
 The author establishes the name **Execute** for spells with a non-wound-based instant-kill or scene-long incapacitation outcome if the target fails to resist. An ordinary Execute starts at **10 MP** and **one-quarter of an equivalent regular attack spell's Power**. **Each existing target wound lowers the fourfold Power divisor by one**; ÷4, ÷3, ÷2, ÷1 for zero through three wounds is the most direct reading, but **the 4+ wound arithmetic is mathematically undefined and requires explicit approval of a floor**. **Heroes and Legends automatically resist Executes below three wounds**; at three or more wounds they face normal applicable resistance. No universal free contact, unavoidable instant death, or exemption from underlying medium, targeting and channeling prerequisites is approved. The exact resistance procedure, injury-stage accounting, effect duration edge cases and any spell-specific surcharge are open.
