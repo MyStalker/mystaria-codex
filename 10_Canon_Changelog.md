@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR APPROVAL: Wakecraft Cleanse self-status utility (LATEST)
+
+**Cleanse** costs **1 MP**, uses **one action**, and can only be used when the Wakecrafter is capable of taking that action. It reduces **the caster's own buildup of any status type**, with the reduction **equal to the buildup they would have inflicted by making an ordinary attack with the same action**. It is a non-damaging utility; no automatic additional action, external targeting, or condition immunity follows. This new approved rule is additive to the approved Water Attack, Ice Stab, Freeze Attack, and Shatter.
+
+**Unresolved rather than assumed:** whether a single activation cleanses one selected status buildup or several together, which attack-equivalent offensive buildup calculation applies, and whether removing buildup can cancel a condition that has already triggered. Files updated: `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`, `35_Magical_Media_and_Contests.md`, `00_Mystaria_Canon_Index.md`, and this changelog.
+
+---
+
 ## November 19, 2026 — AUTHOR CORRECTION: Wakecraft three attack types and incoming-Power Shatter
 
 **Approved by the author's direct instruction and follow-up clarification:** Water Attack = physical damage + Water Erosion buildup; Ice Stab = physical damage + Freeze buildup; Freeze Attack = **magical energy, zero direct damage of any type**, 2× Freeze elemental status magnitude plus instant conversion of the target's existing Water elemental buildup to Freeze. Water can first erode MR at the separately approved Water thresholds, then be converted into Freeze buildup.
