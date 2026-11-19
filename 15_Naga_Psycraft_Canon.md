@@ -1,3 +1,11 @@
+## November 18, 2026 — Universal implement approval and Psychic focus exception (LATEST)
+
+The author's casting implement ratings by Quality I–V are now **26/30/35/40/48**, providing independent squared equipment Power in the emerging additive model. Naga Psycraft still **REQUIRES a genuine suitable focusing gem**, which a second non-Psychic implement cannot replace. The approved seven tuning properties are Offense, Defense, Utility, Mana Efficiency, Reservoir, Reach, Soul Strain (not Control); ±Power tuning affects only the gem's equipment portion and Mana Efficiency affects actual reserve MP cost rather than the nominal Channel Limit. Two simultaneously held implements may pool **applicable compatible actual reservoirs and their Soul Strain/usable MP reserve effects**, but a particular spell must select **one** suitable functioning implement for all active focus, Power and efficiency benefits.
+
+**Open Psycraft-specific implementation:** Physical-water/fire style medium reservoirs are not automatically created inside Cipherlight focusing gems, and the previously approved Psycraft **no Refiner specialization** is not silently reversed; decide how to make the universal reservoir tuning useful/limited for Psychic gems without inventing physical fire/water supply or dispensing with Cipherlight. The newly approved Soul Strain benchmark-based MP capacity and required focus do not themselves grant Psychic multi-implement spell stacking.
+
+---
+
 ## November 18, 2026 — Psychic implement reservoir accounting pending (LATEST AUTHOR DESIGN DIRECTION)
 
 The author's new customizable-implement proposal provides **a finite medium reservoir as a baseline feature of implements** and tunes it across Quality I–V. **Naga Psycraft still requires a focusing gem** and has **no physical-water/fire Refiner specialization**, and Cipherlight is the information-bearing delivery system, not external sunlight. **How to represent the reservoir property on required Psychic focusing gems remains explicitly UNRESOLVED**; do not award psychic medium storage, range, fuel or Power merely by analogy to water/fire. Existing Psycraft focus weakness and gem destruction ending relevant effects remain approved. The seven precise tunable stats and their concrete modifiers are still proposals.
