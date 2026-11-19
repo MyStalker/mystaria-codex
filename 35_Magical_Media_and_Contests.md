@@ -1,3 +1,11 @@
+## November 19, 2026 — Ash left by extinguished fire (LATEST AUTHOR APPROVAL)
+
+When a **fire tile is extinguished, it leaves one ash tile**. Ash always counts as **difficult terrain**, requiring **double the ordinary movement cost per tile** to cross. Ash less than **one minute old** is **Hot Ash**, which produces **half the Burning status buildup that equivalent fire exposure would produce**. Ash that is at least one minute old is **Cold Ash**, without this Hot Ash Burning effect. A Pyromancer can **absorb heat from an ash tile as though it were a smoke tile**, immediately making that ash tile Cold Ash. Pyromancers may learn a spell for **reheating ash**; its concrete prerequisite, MP cost, action, range, and duration have not been set.
+
+Do not confuse ash with fire or smoke for unrelated purposes: the explicit heat-absorption equivalence does not automatically make ash an eligible source for every smoke spell or fire-medium requirement. Existing smoke opacity, fire spread, elemental magnitude, finite medium, and Channel Limit rules remain intact. **OPEN:** handling reheated ash age, reheat expenditure, ash dispersal and cleanup, whether fire extinguishing from partial tiles generates fractional ash, and precise Burning exposure timing.
+
+---
+
 ## November 19, 2026 — Wakecraft Cleanse and status buildup reduction (LATEST AUTHOR DECISION)
 
 A Wakecrafter may expend **1 MP and one action** to use **Cleanse** on themselves, reducing their own **status buildup of any kind** by the same status-buildup magnitude their ordinary attack with that action would otherwise produce. Cleanse is a utility, **not an offensive attack**. It requires the user to be able to take an action; incapacitation or other conditions denying actions prevent Cleanse. It causes no direct damage. Do not grant it special action economy, cures for injuries, or unrelated effects.
