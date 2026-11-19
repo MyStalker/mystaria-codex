@@ -1,3 +1,9 @@
+## November 19, 2026 — Hearthiron as concentrated Pyromancy medium (LATEST AUTHOR DIRECTION)
+
+For future Pyromancy **Banked Heat** medium extraction, **even a small amount of Hearthiron** is intended to provide **at least 3× the thermal-medium reserve of an ordinary source of equivalent size**, with Banked Heat from substantial ordinary hot sources likewise supplying **at least 3× ordinary fire's thermal-medium per comparable tile**. This **does not change currently approved Light/Medium/Heavy Hearthiron armor Furnace Burst charge counts, burst Power, recharge, or equipment price**. Heat-equivalent units, storage depletion/recovery, contestability and conversion to actual eligible Pyromancy medium are still to be defined. See [Magical Media](35_Magical_Media_and_Contests.md) and [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
 
 [Weapon Enchantments](36_Weapon_Enchantments.md) now owns the **36 approved generic weapon enchantments and Guardian**, including their complete mechanics and slot values. This approval resolves earlier paragraphs that list Mantis Blade or the Pass 2 enchantment values as provisional. **Mantis Blade Mixed:** +20/+32/+48/+65/+80/+95% final Power at slots 1–6 when its Double Strike trigger is met. Full doubles that bonus. Achilles’ Heel uses final Defense Power and is available to any eligible weapon. The older one-stage Stun proposal is superseded by Concussive’s new stage and action trades in the owning reference.
