@@ -1,3 +1,9 @@
+## November 18, 2026 — Psychic implement reservoir accounting pending (LATEST AUTHOR DESIGN DIRECTION)
+
+The author's new customizable-implement proposal provides **a finite medium reservoir as a baseline feature of implements** and tunes it across Quality I–V. **Naga Psycraft still requires a focusing gem** and has **no physical-water/fire Refiner specialization**, and Cipherlight is the information-bearing delivery system, not external sunlight. **How to represent the reservoir property on required Psychic focusing gems remains explicitly UNRESOLVED**; do not award psychic medium storage, range, fuel or Power merely by analogy to water/fire. Existing Psycraft focus weakness and gem destruction ending relevant effects remain approved. The seven precise tunable stats and their concrete modifiers are still proposals.
+
+---
+
 ## November 18, 2026 — Mandatory Psychic focus and concentrated offense (LATEST AUTHOR APPROVAL)
 
 **Psycraft's special implement weakness:** Unlike Crafts whose casting implements enhance performance but are optional, Psychic/Psycraft spells **require their appropriate focusing gem**. Loss, destruction or inaccessibility of the required gem prevents applicable Psychic casting, retaining previously approved Cipherlight focus/delivery and contest restrictions. Implement quality/Power and exact recovery or replacement procedures remain open; do not invent a fallback that bypasses the focus requirement.
