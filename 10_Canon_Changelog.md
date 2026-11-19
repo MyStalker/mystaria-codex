@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR APPROVAL: Ash terrain and heat extraction
+
+The author approves **one ash tile left by each extinguished fire tile**. **All ash** costs double normal movement to traverse as difficult terrain. Ash younger than **one minute** is **Hot Ash**, applying **half as much Burning status buildup as fire** for comparable exposure; ash of age one minute or older is **Cold Ash**. A Pyromancer may **absorb heat from one ash square as though it were one smoke square**, making the ash Cold Ash. A Pyromancy **ash-reheating spell** is authorized as a future capability, but no name, MP cost, rank, timing, range, heat quantity, or precise spell mechanics have been approved.
+
+**Still open:** interaction of newly reheated ash with the one-minute timer and ongoing exposure; ash removal or dispersal; precise heat absorption procedure with existing smoke medium rules; overlap with existing Burning timing. These are not grounds to invent new numerical rules. Owners: `35_Magical_Media_and_Contests.md`, `00_Mystaria_Canon_Index.md`, and this changelog.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Wakecraft Cleanse self-status utility (LATEST)
 
 **Cleanse** costs **1 MP**, uses **one action**, and can only be used when the Wakecrafter is capable of taking that action. It reduces **the caster's own buildup of any status type**, with the reduction **equal to the buildup they would have inflicted by making an ordinary attack with the same action**. It is a non-damaging utility; no automatic additional action, external targeting, or condition immunity follows. This new approved rule is additive to the approved Water Attack, Ice Stab, Freeze Attack, and Shatter.
