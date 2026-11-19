@@ -1,3 +1,11 @@
+## November 18, 2026 — Refiner calibration against seven Medium Levels (LATEST AUTHOR DIRECTION; CAPACITIES OPEN)
+
+**New Medium Level equipment interface:** Spells for Wakecraft and Pyromancy have separate **mana** and **physical Medium Level** costs, using a seven-level ladder: I cup/match flame; II waterskin/lantern flame; III 1 tile; IV 4; V 12; VI 36; VII 108 tiles of appropriate real water/fire. A finite **Refiner** Leywell is valued for supplying an actual **medium inventory** against those requirements, not for lowering their numerical tile count. Cast medium is committed/expended, and surviving/recovered media can later be reused where lawful. No general rule permits converting mana to medium or treating one puddle tile as four times its water volume.
+
+**Still unapproved:** Actual Refiner storage capacities by Quality, exact accessibility/action costs to withdraw stored media, physical dimension/volume of one water tile, flame sustainment, refill costs, cross-item storage and enchantment interactions. Ordinary Leywell mana capacity, Soul Strain and energy recharge rules remain separate. Psychic implements still require gem focuses and have no Refiner. See `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 18, 2026 — Finite Refiner reservoirs and medium-storing Leywells (LATEST AUTHOR APPROVAL)
 
 **Approved implement specialization:** A **Refiner** is a Craft-specific casting implement with an enhanced, medium-storing **Leywell** that provides access to a **large but FINITE reserve of actual compatible physical medium**. This expands what a **specialized Leywell** may store; it does **not** retroactively turn all ordinary mana-storing Leywells into medium reservoirs. A Blue-attuned example can store substantial **liquid water** for Wakecraft; a Red-attuned example can contain an actual **viable flame** for Pyromancy. Other colors/media must respect their individual Craft requirements and are not automatically defined here. Unlike a previously proposed percentage-based medium-efficiency bonus, Refiner specialization supplies real available medium and **does not discount the volume/tiles a spell requires**.
