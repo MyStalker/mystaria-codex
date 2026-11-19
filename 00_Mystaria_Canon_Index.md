@@ -1,3 +1,13 @@
+## November 18, 2026 — AUTHOR APPROVAL: Implement ratings, seven properties and pooled two-implement resources (LATEST)
+
+**Approved Implement Ratings, Quality I–V: 26/30/35/40/48**, with **independent equipment Power = IR² 676/900/1225/1600/2304**, added to appropriate caster attribute Power rather than multiplying it with F. The updated **seven tuning properties** are **Offense, Defense, Utility, Mana Efficiency, Reservoir, Reach, Soul Strain**; **Control was removed**. Offense/Defense/Utility steps each adjust the corresponding **implement portion** by **±25% per notch**. Mana Efficiency steps adjust actual MP expenditure by **∓20% per notch**, preserving nominal action/turn Channel Limit. Reach has **no approved numerical range/step** and should not be exploited for free downgrade points. Tuning-point policy remains 0 start, each real downgrade +1 (max two per property), +1/+2/+3 positive steps costing 1/3/9 total points.
+
+**Reservoirs** remain finite and real, Quality I–V baseline **Medium Level I–V**, floor 0, ceiling V; replenish spent material. At neutral, implement Soul Strain is zero. Enchanted-item reference Soul Strain **S = 1/2/4/6/8** across Quality. Soul Strain attribute −1 incurs S, −2 incurs 2S; positive +1/+2/+3 grants additional usable reserve MP of S/2S/3S (as accepted in the author's subsequent approval), not extra natural END or Channel Limit. If two implements are used simultaneously, **their compatible medium reservoir content and their Soul Strain/bonus mana-capacity effects may be combined**, but **each spell must use ONE chosen implement** for rating, tuning, efficiency and focus effects. Ordinary hand, action, mana-color and Craft prerequisites remain.
+
+**Open:** Spell MP-to-damage curve and medium-specific spell list, Reach baseline, mana rounding, psychic reservoir expression, formal numeric offensive spell defense formula and physical Weapon Rating replacement status. Owners: [Equipment](09_Equipment_and_Economy.md), [Magical Media](35_Magical_Media_and_Contests.md), [Naga Psycraft](15_Naga_Psycraft_Canon.md), [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 18, 2026 — Smoke one-tile visibility and additive casting implements (LATEST AUTHOR CORRECTION)
 
 **Smoke visibility supersession:** See and attack **through one 5-foot tile of smoke at one harder accuracy category**; **more than one tile along the sightline blocks line of sight**. Prior automatic additional categories for each tripling of smoke coverage, and the nine-step visibility threshold, are superseded. Existing correctly-guessed-tile **50/50 single-target blind attack** may still operate subject to lawful targeting; the full targeting interaction is pending. Pyromancers' oxygen-free smoke breathing remains.
