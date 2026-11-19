@@ -1,3 +1,11 @@
+## November 19, 2026 — Wakecraft Cleanse and status buildup reduction (LATEST AUTHOR DECISION)
+
+A Wakecrafter may expend **1 MP and one action** to use **Cleanse** on themselves, reducing their own **status buildup of any kind** by the same status-buildup magnitude their ordinary attack with that action would otherwise produce. Cleanse is a utility, **not an offensive attack**. It requires the user to be able to take an action; incapacitation or other conditions denying actions prevent Cleanse. It causes no direct damage. Do not grant it special action economy, cures for injuries, or unrelated effects.
+
+**OPEN:** Whether multiple different buildup types are reduced simultaneously or only one selected type; precise attack-equivalent magnitude calculation and interaction with delivered status after defenses; whether accumulated buildup reduction also reverses an already-triggered condition. Preserve separately approved Water erosion, Freeze conversion, and Shatter mechanics.
+
+---
+
 ## November 19, 2026 — Wakecraft Freeze status delivery and Shatter (LATEST AUTHOR DECISION)
 
 Wakecraft offers three distinct offensive delivery modes. **Water Attack** is physical damage plus eligible Water buildup (MR erosion); **Ice Stab** is physical damage plus Freeze buildup; **Freeze Attack** is a **no-direct-damage magical energy status attack**, applying **2× ordinary eligible Freeze status magnitude** and immediately converting **all accumulated Water elemental buildup on the target to Freeze buildup**. Pure Freeze Attack inflicts no direct physical, magical, or other damage. Preserve established Water erosion thresholds (15% MR reduction at 1× Water SR; 30% total at 4×) until a conversion changes the tracked buildup; exact duration/timing of concurrent erosion after conversion is open.
