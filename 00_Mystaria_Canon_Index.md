@@ -1,3 +1,9 @@
+## November 19, 2026 — Water MR erosion thresholds confirmed (LATEST AUTHOR CORRECTION)
+
+**Water Elemental Magnitude now has numerical MR erosion thresholds:** At **≥1× the target's applicable Water Status Resistance**, the Water condition reduces **applicable MR by 15%**; at **≥4×**, by **30% total**, not an additional 30%/45% overall. The prior “erosion amounts undecided” wording is superseded. Water does not inherit Fire's Burning injury schedule or ordinary half-SR PP; it erodes **Magic Resistance, not physical Armor Resistance**. Normal three-turn matching-element magnitude accumulation and refresh survive. **Open:** final typed SR + MR integration, erosion duration/recovery, percent rounding, and preventing self-feedback when eroded MR helps determine Water SR. References: [Magical Media and Contests](35_Magical_Media_and_Contests.md), [Combat Endurance](22_Combat_Endurance_and_Shimmer_Guard.md), [Wakecraft](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md), [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
 
 The author approved all **37 entries** in the Pass 2 shortlist. [Weapon Enchantments](36_Weapon_Enchantments.md) is the rules reference for the 36 generic weapon enchantments and Guardian for shields. It records slot ranks, eligibility, Mixed and Full values, triggers, and durations. **Achilles’ Heel is generic. Concussive spends one injury stage to remove one action, or two stages to Stun for one turn, with at least one injury stage remaining.** The older Mantis Blade entries that describe its values as pending are historical. Equipment and Leywell rules are in [Equipment and Economy](09_Equipment_and_Economy.md).
