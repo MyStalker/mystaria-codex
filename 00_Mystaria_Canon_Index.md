@@ -1,3 +1,9 @@
+## November 19, 2026 — Wakecraft Cleanse utility (LATEST AUTHOR DECISION)
+
+**Cleanse:** A Wakecrafter spends **1 MP and one available action** to reduce **their own status buildup of any kind** by an amount **equivalent to the status buildup their ordinary attack would apply with that action**. The user must actually be able to take an action; Cleanse is utility, not a damaging attack. **Open:** one versus multiple buildup types per activation, reduction of already-active conditions versus stored buildup, and exact attack-equivalent magnitude/defense calculation. [Wakecraft](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md); [Magical Media](35_Magical_Media_and_Contests.md); [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 19, 2026 — Wakecraft Water Attack, Ice Stab, Freeze Attack, and Shatter (LATEST AUTHOR CORRECTION)
 
 **Three approved Wakecraft offensive modes:** **Water Attack** deals physical damage and builds Water erosion; **Ice Stab** deals physical damage and builds Freeze; **Freeze Attack** deals **zero direct damage**, is classified as **magical energy**, applies **double Freeze elemental status magnitude**, and **instantly converts existing Water elemental buildup into Freeze buildup**. **Shatter:** a physical attack powerful enough to inflict injury **before any Shatter bonus** doubles its **incoming Attack Power before defenses**, **not final damage**, and removes the target's Freeze. Unknown Freeze thresholds, conversion/erosion expiry interaction, and typed status defenses are not numerically approved. Owners: [Wakecraft](13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md), [Magical Media](35_Magical_Media_and_Contests.md), [Canon Changelog](10_Canon_Changelog.md).
