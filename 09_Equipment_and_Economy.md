@@ -1,3 +1,11 @@
+## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
+
+[Weapon Enchantments](36_Weapon_Enchantments.md) now owns the **36 approved generic weapon enchantments and Guardian**, including their complete mechanics and slot values. This approval resolves earlier paragraphs that list Mantis Blade or the Pass 2 enchantment values as provisional. **Mantis Blade Mixed:** +20/+32/+48/+65/+80/+95% final Power at slots 1–6 when its Double Strike trigger is met. Full doubles that bonus. Achilles’ Heel uses final Defense Power and is available to any eligible weapon. The older one-stage Stun proposal is superseded by Concussive’s new stage and action trades in the owning reference.
+
+The existing Blank, Mixed and Full attribute and Leywell framework continues to apply. Per-enchantment colors and MP bands and the final six-slot economy are open. Use the established elemental Power progression and status rules for elemental delivery.
+
+---
+
 ## November 18, 2026 — Implement ratings and seven-stat tuning AUTHOR APPROVED (LATEST)
 
 **Final approved Implement Rating baseline by physical Quality:** QI–QV **26 / 30 / 35 / 40 / 48**, supplying **independent implement equipment Power = IR² = 676 / 900 / 1225 / 1600 / 2304**. Implement contribution is **additive alongside caster attribute Power**; it does **not** act as physical weapon-style F that multiplies the caster's attribute. An illustrative base `A² + IR²` is the agreed initial spell-model foundation; exact MP-to-Power curve, spell effects, Craft additions and defense remain separately under design. This implement approval does not, by itself, approve a general rewrite of the separately experimental physical Weapon Rating model.

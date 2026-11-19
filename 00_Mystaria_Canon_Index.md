@@ -1,3 +1,9 @@
+## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
+
+The author approved all **37 entries** in the Pass 2 shortlist. [Weapon Enchantments](36_Weapon_Enchantments.md) is the rules reference for the 36 generic weapon enchantments and Guardian for shields. It records slot ranks, eligibility, Mixed and Full values, triggers, and durations. **Achilles’ Heel is generic. Concussive spends one injury stage to remove one action, or two stages to Stun for one turn, with at least one injury stage remaining.** The older Mantis Blade entries that describe its values as pending are historical. Equipment and Leywell rules are in [Equipment and Economy](09_Equipment_and_Economy.md).
+
+---
+
 ## November 18, 2026 — AUTHOR APPROVAL: Implement ratings, seven properties and pooled two-implement resources (LATEST)
 
 **Approved Implement Ratings, Quality I–V: 26/30/35/40/48**, with **independent equipment Power = IR² 676/900/1225/1600/2304**, added to appropriate caster attribute Power rather than multiplying it with F. The updated **seven tuning properties** are **Offense, Defense, Utility, Mana Efficiency, Reservoir, Reach, Soul Strain**; **Control was removed**. Offense/Defense/Utility steps each adjust the corresponding **implement portion** by **±25% per notch**. Mana Efficiency steps adjust actual MP expenditure by **∓20% per notch**, preserving nominal action/turn Channel Limit. Reach has **no approved numerical range/step** and should not be exploited for free downgrade points. Tuning-point policy remains 0 start, each real downgrade +1 (max two per property), +1/+2/+3 positive steps costing 1/3/9 total points.

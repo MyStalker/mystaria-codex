@@ -1,3 +1,18 @@
+## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
+
+**Approval:** The author approved the complete 37-entry Pass 2 shortlist: 36 generic weapon enchantments plus Guardian. [Weapon Enchantments](36_Weapon_Enchantments.md) records all approved entries and the fixed slot and rank-by-rank Mixed and Full values. The five fixed three-slot entries are Holdout Weapon, Close Quarters, Concussive, Boomerang and Second Face. Rank Measure occupies one slot.
+
+- **Concussive:** After an eligible connected Blunt Full Attack, spend one injury stage to remove one action on the target’s next turn or two to Stun for the whole next turn. Either trade leaves at least one stage. The approved version replaces the earlier one-stage Stun version.
+- **Achilles’ Heel:** Any eligible weapon may use it. Its stacks reduce final Defense Power for the eligible follow-up. END and AR retain their own values.
+- **Mantis Blade and Split Rhythm:** The shortlist sets their six slot values and Double Strike triggers. This resolves older references to their calibration as pending.
+- **Fire and alternatives:** Existing elemental numbers retain their earlier approval. Sharpness remains the comparison benchmark. Pass 1 entries outside the shortlist and balance-test assumptions retain their prior draft status.
+
+**Still open:** Per-enchantment colors and Leywell MP bands, the final six-slot resource economy, Spellseal’s MR interaction, Guardian’s cross-effect rating and duration matching, Boomerang’s Speed cutoff and delayed-action timing, and underlying trip and disarm procedures.
+
+**References updated:** `36_Weapon_Enchantments.md`, `09_Equipment_and_Economy.md`, and `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 18, 2026 — AUTHOR APPROVAL: Medium-equivalent implement ratings, tuning percentages, Soul Strain and dual-focus resource rule (LATEST)
 
 **RATIFIED implement raw equipment ratings by Quality I–V:** **26/30/35/40/48**, each adding independent squared item Power **676/900/1225/1600/2304** to caster attribute Power in the under-development additive spell model. The author explicitly said “I approve” to the proposed Medium-weapon-equivalent ladder, and then “Approved” to the revised tuning/Soul Strain design. This is NOT a retroactive ratification of every candidate physical weapon's experimental additive WR formula or a finished spell MP formula.
