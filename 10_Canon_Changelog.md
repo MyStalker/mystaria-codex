@@ -1,3 +1,11 @@
+## November 19, 2026 — AUTHOR CONFIRMS Water-element MR erosion at 1× and 4× SR (LATEST)
+
+**Explicit user clarification:** Water's erosion amounts are decided. At **≥1× target's applicable Water-typed Status Resistance**, **−15% applicable Magic Resistance**; at **≥4×**, **−30% total applicable Magic Resistance** (not −45%, and not a second added −30%). This corrects the preceding references that marked Water erosion percentages as undecided. Water reduces MR rather than AR, and retains the existing Water-specific absence of the ordinary 0.5× Pressure Point. The established legal-contact, three-turn elemental magnitude accumulation/refresh conditions survive unchanged. **Not thereby approved:** any particular MR percentage rounding, instant recovery/persistence, final typed-SR formula including MR/elemental resistance, iterative SR recomputation after erosion, or independent extra physical injury and magic penetration. The numerical Water threshold amounts are canon; previous balance-coefficient or MP-cost proposals remain experimental.
+
+**Files updated on main:** `35_Magical_Media_and_Contests.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `13_Wakecraft_The_Six_Arts_of_the_Living_Tide.md`, and `00_Mystaria_Canon_Index.md`, plus this changelog.
+
+---
+
 ## November 18, 2026 — Pass 2 weapon enchantments and Guardian AUTHOR APPROVED
 
 **Approval:** The author approved the complete 37-entry Pass 2 shortlist: 36 generic weapon enchantments plus Guardian. [Weapon Enchantments](36_Weapon_Enchantments.md) records all approved entries and the fixed slot and rank-by-rank Mixed and Full values. The five fixed three-slot entries are Holdout Weapon, Close Quarters, Concussive, Boomerang and Second Face. Rank Measure occupies one slot.
