@@ -1,3 +1,13 @@
+## November 20, 2026 — AUTHOR APPROVAL: Blue Flame half Burning buildup; matchup design target
+
+**APPROVED:** Blue Flame's Burning status magnitude is **50% of an otherwise equivalent ordinary Fire attack**. This is the author's explicit numerical selection for the proposed Blue Flame mode; it does not silently approve an armor-MR bypass, spell Power formula, or MP-price modification.
+
+**Author-specified balance aim:** A Pyromancer winning approximately **40% of comparable matchups against Glassweave** is desirable because Glassweave is intended as a counter. Large favorable win rates versus unprotected/no-MR targets can be acceptable; do not impose a global 50% win-rate requirement. Encourage multiple situational Pyromancy attack choices.
+
+**STILL EXPERIMENTAL / NOT APPROVED AS FINAL NUMERICAL RULES:** Blue Flame's proposed 25% MR bypass; White Flame's Piercing-like MR interaction and zero Burning/status refresh; replacement Ice Stab as physical Piercing with zero Freeze buildup; and any numerical MR/SR recalibration or change removing MR from status resistance. Existing Ice Stab physical damage plus Freeze buildup remains approved canon until superseded explicitly.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Mana potion catalogue, Toxicity implementation, extra refill doses and obsolete shop warning (LATEST)
 
 **Approved offensive-price correction:** the provisional base offensive spell investment ladder now reads **0 MP cantrip; 1 MP basic; 2 MP enhanced; 4 MP strong; 8 MP greater; 12 MP superior; 20 MP maximum**, before area, duration or additional modifiers. The author-selected price benchmarks are retained as the **current WIP ladder**, not a verified final spell-Power-per-MP formula; the previous 11 MP superior and 18 MP maximum proposals are superseded.
