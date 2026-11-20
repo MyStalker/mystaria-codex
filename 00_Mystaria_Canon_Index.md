@@ -1,3 +1,9 @@
+## November 20, 2026 — PSYCHIC STATUS AND FINISHERS APPROVED
+
+Two-tier emotional statuses (1×/2× buildup), Confusion/Anger/Fear, advanced Charm/Sleep (half status application Power), subtle slow Cipherlight hypnosis, and interruptible two-action physical Finishers (×4 damage at start of next attacker turn, within 5 feet) have been approved. See `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, `35_Magical_Media_and_Contests.md`, and `22_Combat_Endurance_and_Shimmer_Guard.md` for full mechanics and open edges. No automatic Finisher instant kill is implied.
+
+---
+
 ## November 20, 2026 — BLUE FLAME BURNING RATE APPROVED; MAGIC COUNTER BALANCE TARGET
 
 **Approved partial mode detail:** Blue Flame produces **half the Burning-status buildup** of an equivalent ordinary Fire attack. This does not authorize a final MR-bypass percentage, adjusted spell Power or revised spell MP costs. Glassweave is deliberately counter-magical: **approximately 40% Pyromancer wins against a comparable Glassweave soldier is an acceptable design target**, not a mandate for universal 50/50 parity. The proposed distinct White Flame, Blue Flame MR penetration, Ice Stab status-free Piercing revision, and revised typed-SR/MR formulas remain experimental until specifically approved. See `35_Magical_Media_and_Contests.md` and `10_Canon_Changelog.md` for full status; existing approved Ice Stab still builds Freeze.
