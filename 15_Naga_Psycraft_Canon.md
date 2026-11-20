@@ -1,3 +1,9 @@
+## November 20, 2026 — CLARIFICATION: Two status severities are distinct from 4× release examples (LATEST)
+
+**Correction to the immediately preceding emotional-status entry:** The author's existing shared status system has **two severity thresholds: 1× buildup for Severity I and 2× buildup for Severity II**. However, the author's individual examples explicitly compare **1× release to 4× accumulated buildup**, including Confusion/Anger/Fear durations of **1 round at 1× and 3 rounds at 4×**, and Sleep of **up to 3 rounds at 1× and up to 1 minute at 4×**. **Do not reinterpret 4× as 2× or assert that releasing at 2× automatically gives the full 4× duration.** The details for duration when releasing between these named benchmarks, and how greater buildup affects the two severity profiles, remain OPEN. The author's Charm examples describe suggestibility at 1× and changing sides at 4×, even though the generic second-severity threshold is 2×; precisely reconcile Charm's advanced-status potency threshold with the universal two-severity mechanics before testing. All other attack targeting, breaking, subtle hypnosis, and Finisher decisions in the preceding entry remain approved as stated.
+
+---
+
 ## November 20, 2026 — AUTHOR DECISION: Psychic emotional control, subtle Cipherlight, and physical Finishers (LATEST)
 
 **Status:** Author-selected mechanics. Earlier exploratory four-stage (1× to 4×) emotional-control duration interpolation is superseded by the existing **two-severity thresholds at 1× and 2× status buildup**. Emotional effects accumulate via attacks; the attacker chooses whether to continue buildup or release it, including on the same attack that increases it. An overwhelmingly powerful attacker can therefore activate a weak victim's condition immediately, subject to normal resistance. The exact decay of unreleased buildup, interaction with other conditions, and extra MP to extend duration remain OPEN.
