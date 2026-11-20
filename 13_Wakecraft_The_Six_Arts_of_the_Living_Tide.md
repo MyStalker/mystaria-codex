@@ -1,3 +1,13 @@
+## November 20, 2026 — AUTHOR APPROVAL: Universal active-status reduction and severity downgrade (LATEST)
+
+**Approved universal rule:** Any legal **status-buildup reduction** affects the **currently active status immediately**, not merely buildup for an untriggered future application. Across **all statuses**, lowering the target's remaining buildup **below the 4× resistance threshold** downgrades an active **Severity II** condition to **Severity I**; lowering buildup **below 1× resistance** ends the active condition entirely. At or above 4×, Severity II remains; at or above 1× and below 4×, Severity I remains. This applies regardless of whether the status was originally produced by a normal-duration, extended-duration, or permanent spell. Long duration does **not** make a status immune to sufficient buildup reduction. The effect is a threshold downgrade/removal, **not an automatic restoration of the caster's prior buildup when the duration continues**.
+
+**Examples:** Reduce active 4× Charm beneath 4×: control/allegiance override ceases, leaving only the lesser 1× suggestibility and source-specific penalty while eligible buildup remains. Reduce beneath 1×: Charm ends. The same two-tier threshold logic applies to other status conditions, including those reduced by Wakecraft Cleanse, nonmagical Encourage where eligible, and a future Dispel Potion once that item is developed. For future Dispel Potion, the potion's actual amount and price are **not yet approved**; for Encourage, the **INT²** reduction values remain a **provisional** proposal.
+
+**Boundary:** This decision does not supply a new source of status reduction or waive its action, range, relationship, medium, magical-resistance, cost, or legality rules. Other future reapplication, subsequent buildup, and expiry timing rules are not invented here. This entry supersedes the prior statement that interaction of status reduction with active conditions was unresolved.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: New Wakecraft Esotery progression (LATEST DESIGN DIRECTION)
 
 **The planned universal-magical Esotery progression for Wakecraft is now explicitly selected:**
