@@ -1,3 +1,9 @@
+## November 20, 2026 — UNIVERSAL ACTIVE STATUS REDUCTION APPROVED
+
+Status reduction applies to **active conditions**, including extended/permanent ones: reduction below **4× resistance** drops Severity II to Severity I; below **1×** ends the condition. This is universal for all legal status-reduction mechanisms (including Wakecraft Cleanse and potential Encourage/Dispel Potion where they qualify). Status duration does not prevent downgrading or removal. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 20, 2026 — FUTURE DISPEL POTION AND ENCOURAGE MENTAL RESCUE DIRECTION
 
 **Future potion (unpriced/unimplemented):** A Dispel Potion intended to reduce **all magical status buildup**. **Encourage direction:** Nonmagical spoken support from a close friend within **30 feet**, provided the victim hears them, can reduce mental/emotional magical status without mana or spellcasting implement bonuses; strangers or incidental allies do not qualify. **Provisional numeric proposal:** **INT²** buildup reduction for **two actions**, **half for one action**, pending approval/calibration. Mechanism for ending already-active or permanent mental control remains open. See `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, and `35_Magical_Media_and_Contests.md`.
