@@ -1,3 +1,9 @@
+## November 20, 2026 — ELEMENTAL STATUS RESISTANCE FORMULA APPROVED (LATEST)
+
+**Element-specific SR = ceil(((effective END + 0.65 × applicable MR)² × applicable elemental Resistance multiplier) / 0.70)**, rounding **once at the end**; use elemental Resistance multiplier 1 absent an applicable existing one. Ordinary lawful elemental status buildup becomes **100% of delivered eligible elemental Power**, without universal ×0.70 on the attack. Preserve Blue Flame **50%**, White Flame **0%**, Wakecraft dedicated Freeze Attack **200%**, and other established exceptions; elemental status thresholds (0.5×/1×/4× and named exceptions), normal contact, direct damage, duration and costs remain unchanged. **The 0.65 MR weight and 0.70 defensive divisor are now approved**; historical 'typed SR unapproved' and elemental-END²-only notices are superseded. Distinct non-elemental status formulas and the Water-erosion SR-recalculation timing remain outside this approval. Full text: `35_Magical_Media_and_Contests.md` and `10_Canon_Changelog.md`.
+
+---
+
 ## November 20, 2026 — THREE-FLAME PYROMANCY APPROVED (LATEST)
 
 **Ordinary Fire:** 0% armor-MR bypass / full Burning; **Blue Flame:** 25% armor-MR bypass / half Burning; **White Flame:** 50% armor-MR bypass / no Burning or refresh. Ordinary spell costs/Power and independent protections are unchanged. Adaptive form selection supported. Author-accepted matchup design is roughly **85% Pyromancer wins vs Boughsteel**, **10% vs Nullporcelain** (with attainable weak-point counterplay), and around **40% vs Glassweave counter-builds**; these are goals, not guaranteed outcomes. Earlier Blue/White numerical 'experimental' notices in the index are **superseded**. Full canon and observed conditional simulation fixtures: `35_Magical_Media_and_Contests.md` and `10_Canon_Changelog.md`.
