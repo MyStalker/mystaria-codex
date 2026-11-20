@@ -1,3 +1,37 @@
+## November 20, 2026 — AUTHOR APPROVAL: Offensive MP-to-Power chart, ten-minute ritual ×4 capacity, structural Defense tiers (LATEST)
+
+**CURRENT APPROVED OFFENSIVE POWER BENCHMARK:** For ordinary offensive spell Power, the author explicitly approves the MP-investment multiplier ladder previously used for the castle calculations. At neutral implement tuning, the approved working equation is `Power_offense = (effective governing attribute² + eligible implement rating²) × M(nominal MP assigned to base offensive Power)`; for the Kharak Pyromancy reference the governing attribute is effective **INT**. The implement Rating (IR) is a separate additive squared equipment contribution, **not** a weapon-style multiplier on INT. All existing implement-specialization rules remain, including Offense tuning modifying **only implement-derived Power**, one chosen implement per spell, resource and medium requirements, and special spell/form exceptions. Do not transfer this ordinary offensive Power formula automatically to healing, purely utility, non-damaging status abilities or other techniques with separate approved mechanics.
+
+| Base offensive Power MP | Approved multiplier |
+|---:|---:|
+| 0 (legal offensive cantrip) | ×0.55 |
+| 1 | ×1.00 |
+| 2 | ×1.35 |
+| 4 | ×1.70 |
+| 8 | ×2.05 |
+| 12 | ×2.25 |
+| 20 | ×2.51 |
+
+**20 MP remains the maximum for the unmodified base offensive Power component**, excluding separately payable magnitude/area, duration and other legal spell modifications. Spell Power may NOT be treated as unlimited by channeling more base offensive MP beyond 20; any extra legitimate MP must finance other legal priced components, unless a separately approved exception applies. The exact curve/interpolation for MP values **between listed points** and rounding of fractional final Power/MP payment are still OPEN; do not invent extra multiplier steps or assume free interpolation. Cantrips retain normal spell/medium/range/channel restrictions and the at-most-one-offensive-attack-per-turn rule.
+
+**APPROVED TEN-MINUTE RITUAL CHANNEL CAPACITY:** A legal **10-minute ritual** may channel up to **4 × the caster's applicable full Channel Limit (CL)** into one working, subject independently to the caster's **actually available MP**, valid replenishment/contributions, spell prerequisites, medium, legal costs, interruption, duration, magnitude/area and other restrictions. This is a **capacity multiplier**, not a free Power multiplier, MP discount, extra mana source, or automatic entitlement to affect a whole castle. Earlier progression choices of **two-turn ×2 full CL** and **one-minute ×3 full CL (the latter a previously designated interpretation)** remain; longer-duration channel-capacity math is still not numerically finalized. **Short rituals provide no automatic personal mana regeneration**. Experimental Mastery schedules of 0/3/6/9/12/15 at the tested levels and the precise overall `CL=floor(effective INT/10 + Mastery)` expression remain **unapproved calibration fixtures** unless independently finalized in the owning rules.
+
+**APPROVED STANDARD STRUCTURAL DEFENSE TIERS:** For reference mundane objects/structures use the following **structural Defense Power** thresholds (not physical armor AR or standalone MR values):
+
+| Reference material / construction | Approved structural Defense Power | Intended specialized offensive caster breakthrough benchmark |
+|---|---:|---|
+| Ordinary wood, ordinary wooden doors and planks | **1,000** | About level 1 |
+| Thick timber and thin stone | **8,000** | About level 25 |
+| Ordinary unenchanted castle masonry | **12,500** | About level 50 |
+| Reinforced stone and substantial structural metal | **40,000** | About level 75 |
+| Extreme mundane nonmagical fortifications | **80,000** | About level 100 |
+
+All **five** values above are author-approved, including the four that were provisional in the preceding November 20 castle calibration record. The qualitative progression targets are **benchmarks**, not automatic permission to bypass armor, spells, wards, unique divine/magical materials, attack legality or physical reach/coverage. A 'breakthrough' in the initial numerical calibration means overcoming the first meaningful wound threshold on the part actually reached; a person-sized through-hole or total collapse still depends on **attack coverage, structural geometry, thickness, injury interpretation and target area**. A spell legally covering and damaging an entire castle may wound the whole as one target; one covering only the door wounds only the door, per prior approved rule. Warriors with sufficiently powerful, legitimately delivered attacks can wound the same structures without requiring spellcasting; ritual scaling is a separate caster advantage.
+
+**PRECEDENCE AND LIMITS:** This entry explicitly supersedes descriptions of these **four non-castle structural Defense values**, the **listed MP multipliers**, the **neutral-implement offensive-power formula**, and the **10-minute ×4 CL capacity** as 'experimental', 'proposed', or 'not yet canon' in the immediately preceding structural-calibration entry and older spell-rules notes. It does NOT approve the specific example Kharak caster's Mastery purchases, historical Blank/Mixed attribute-enchantment legality, numerical spell Magnitude/area or structural-through-thickness criteria, specific attack hit probabilities, or Combat Lab structural/ritual support. Prior manual comparisons were arithmetic fixtures, not measured simulator outcomes.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Castle Defense 12,500 and structural breakthrough benchmarks (LATEST)
 
 **APPROVED:** The ordinary unenchanted castle-masonry **structural Defense Power baseline is 12,500** for the current wound-based structural calibration (instead of the earlier proposed 17,000 or 13,225). This is a structure-defense reference benchmark, **not** an automatic Boughsteel armor AR/MR rating or a universal rating for every castle architecture or enchanted fortification. Apply existing wound/impact ratios provisionally when benchmarking structures; actual affected scope still follows the previously approved rule that only the area the attack can cover and damage is wounded.
