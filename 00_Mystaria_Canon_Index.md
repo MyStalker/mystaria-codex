@@ -1,3 +1,9 @@
+## November 20, 2026 — THREE-FLAME PYROMANCY APPROVED (LATEST)
+
+**Ordinary Fire:** 0% armor-MR bypass / full Burning; **Blue Flame:** 25% armor-MR bypass / half Burning; **White Flame:** 50% armor-MR bypass / no Burning or refresh. Ordinary spell costs/Power and independent protections are unchanged. Adaptive form selection supported. Author-accepted matchup design is roughly **85% Pyromancer wins vs Boughsteel**, **10% vs Nullporcelain** (with attainable weak-point counterplay), and around **40% vs Glassweave counter-builds**; these are goals, not guaranteed outcomes. Earlier Blue/White numerical 'experimental' notices in the index are **superseded**. Full canon and observed conditional simulation fixtures: `35_Magical_Media_and_Contests.md` and `10_Canon_Changelog.md`.
+
+---
+
 ## November 20, 2026 — ATTACK COVERAGE SETS STRUCTURAL WOUND SCOPE
 
 Approved: An attack encompassing and capable of damaging an entire castle may wound the castle as **one structure**; an attack reaching only a door wounds **only the door**. Coverage does not bypass resistance. Planned calibration: level **1/10/25/50/75/100** Pyromancers, at least half of allocation into INT+END, ten-minute rituals, mundane door versus **Boughsteel-reference unenchanted castle**. Structure/ritual numerical mechanics and Combat Lab support are pending. See `10_Canon_Changelog.md`.
