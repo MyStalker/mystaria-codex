@@ -1,3 +1,9 @@
+## November 20, 2026 — ENCOURAGE INT² FORMULA APPROVED (LATEST)
+
+**Encourage** is a nonmagical emotional-status reduction action: **two actions reduce buildup by INT²; one action by INT²/2**, without spellcasting implement modifiers or MP. Requires a strong personal relationship, spoken encouragement heard by the target, and **30-foot range**. Applies universal 4×/1× active-condition downgrade/end thresholds. This formula is approved canon, not merely provisional; the future Dispel Potion remains a design note. See `10_Canon_Changelog.md` and `15_Naga_Psycraft_Canon.md`.
+
+---
+
 ## November 20, 2026 — UNIVERSAL ACTIVE STATUS REDUCTION APPROVED
 
 Status reduction applies to **active conditions**, including extended/permanent ones: reduction below **4× resistance** drops Severity II to Severity I; below **1×** ends the condition. This is universal for all legal status-reduction mechanisms (including Wakecraft Cleanse and potential Encourage/Dispel Potion where they qualify). Status duration does not prevent downgrading or removal. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
