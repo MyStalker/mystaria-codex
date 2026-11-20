@@ -1,3 +1,19 @@
+## November 20, 2026 — AUTHOR APPROVAL: Mana potion catalogue, Toxicity implementation, extra refill doses and obsolete shop warning (LATEST)
+
+**Approved offensive-price correction:** the provisional base offensive spell investment ladder now reads **0 MP cantrip; 1 MP basic; 2 MP enhanced; 4 MP strong; 8 MP greater; 12 MP superior; 20 MP maximum**, before area, duration or additional modifiers. The author-selected price benchmarks are retained as the **current WIP ladder**, not a verified final spell-Power-per-MP formula; the previous 11 MP superior and 18 MP maximum proposals are superseded.
+
+**Approved Toxicity treatment:** rename Heal Burn to **Toxicity** throughout current usage. Toxicity can accrue from healing, mana restoration and other explicitly eligible effects. Using **maximum usable MP after Soul Strain** as the denominator, drinking a mana potion grants Toxicity equal to **100% × actual MP restored / current usable maximum MP**, with excess potion restoration wasted once MP is full. Toxicity is cumulative. At **100%** a recipient has a total of **1 Toxicity wound**, at **150%** total **2 wounds**, at **200%** total **3**, then one more total wound every additional 50 percentage points. Wounds are **threshold-based totals**, not added again each time a potion is consumed while already above a threshold; effects and wounds caused by reaching thresholds cannot be healed until rest permits it. Exact rest-based Toxicity reduction and release from wound-healing lock are still OPEN. Keep the preexisting per-injury healing-Toxicity percentage benchmarks pending a full healing cost review.
+
+**Approved tiered mana-restoration potion proposal, now baseline for continued calibration:** One ordinary drink restores **Tier I (level ~10): 5 MP at 6 Gems; II (~25): 10 MP at 12 Gems; III (~50): 20 MP at 24 Gems; IV (~75): 40 MP at 48 Gems; V (~100): 80 MP at 96 Gems**. Effective potion restoration is capped at usable missing MP. The comparable **one-dose-per-day refillable** prices are **60 / 120 / 240 / 480 / 960 Gems**, respectively. At a given tier, each extra daily drink/charge on a refillable adds **50% of the tier's base refillable price**, repeatedly, with no numeric maximum count yet selected. Thus an item with N daily doses costs **base × [1 + 0.5 × (N−1)]**, before any as-yet-unapproved modifiers; each dose is a separate potion drinking/use opportunity. Replenishes **one use per daily charge**; additional purchased charges each also refill once per day. Refillable potion terminology, contents/vessel and interactions with rest or day boundaries remain to detail. The approximate 1:10 disposable-to-refillable price relationship and current economy references remain. Do not assume potions are manufactured or ubiquitous without crafting/availability rules.
+
+**Approved use and threat:** Drawing a potion costs **one action**; drinking costs **one action**; drawing during a grapple needs a **Technique check** (numerical check and outcomes TBD). Eligible enemy prepared attacks or grapples can interrupt access or destroy the potion via ordinary legal interaction; no free reaction or extra attacks. Mana potions restore actual MP without changing maximum MP. Toxicity is shared with healing and future expressly eligible buffs, making replenishment trade off against injury treatment.
+
+**Critical source-quality warning:** The old **'Consumables — Early Stock' Gem Shop inventory** in `09_Equipment_and_Economy.md` (including old **20-Gem Mana Dew** and healing vial offers) is **OUTDATED / NOT A CURRENT PRICING REFERENCE**. It must be comprehensively revised before used for offers, economic comparisons, or future consumable balancing. Preserve historical records but never treat that catalogue as authoritative current market pricing. The present tiered potion reference and latest 3,200-Gem level-100 equipment portfolio, 30%-of-lifetime-earnings consumable allocation take priority.
+
+**OPEN:** Healing-potion potency/toxicity pricing integration; short-rest / long-rest Toxicity clearing and treatment of threshold wounds; mana potion sourcing, alchemical craft requirements, inventory and cost materials; potion usability by zero-natural-MP Warlocks; crafting of permanent daily-refill vessels; refill trigger timing and stacking; precise MP-to-Power conversion; updated skill-specific spell costs; marginal price/value effect of MP cost-modifying implements.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: 20-MP offensive benchmark and Toxicity resource-potion design (LATEST)
 
 **Offensive spell investment, author-selected WIP design:** revise earlier **Greater** benchmark to **8 MP**, retain **Superior 11 MP**, and set **maximum unmodified base-effect/Power investment at 20 MP**, before duration, area, and other spell modifiers. Retain previously discussed basic 1, enhanced 2, strong 4, and 0-MP cantrip as **working ladder**, not a fully calibrated/approved MP-to-Power equation. Actual impact of additional mana on Spell Power and any overall price multiplier remain under testing.
@@ -2251,7 +2267,11 @@ Surrender originally preferred to sell only healing charms, friendship accessori
 | Briarplate Harness | 30 | Light armor that resizes to fit |
 | Moonweave Robe | 30 | Cloth armor with minor magic resistance |
 
-### Consumables — Early Stock
+### Consumables — Early Stock (HISTORICAL / OUTDATED — DO NOT USE FOR CURRENT PRICES)
+
+> **November 20, 2026 warning:** This inventory has not been repriced or reconciled with the approved tiered mana potions, Toxicity, and newer Gem economy. It is **not** a reliable current shop catalogue. Do not use its listed Mana Dew, healing vial, or other offers as authoritative prices until the full catalogue is rebuilt.
+
+
 
 | Consumable | Gems | Description |
 |---|---:|---|
