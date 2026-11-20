@@ -1,3 +1,9 @@
+## November 20, 2026 — CLARIFICATION: Two status severities are distinct from 4× release examples (LATEST)
+
+**Correction to the immediately preceding emotional-status entry:** The author's existing shared status system has **two severity thresholds: 1× buildup for Severity I and 2× buildup for Severity II**. However, the author's individual examples explicitly compare **1× release to 4× accumulated buildup**, including Confusion/Anger/Fear durations of **1 round at 1× and 3 rounds at 4×**, and Sleep of **up to 3 rounds at 1× and up to 1 minute at 4×**. **Do not reinterpret 4× as 2× or assert that releasing at 2× automatically gives the full 4× duration.** The details for duration when releasing between these named benchmarks, and how greater buildup affects the two severity profiles, remain OPEN. The author's Charm examples describe suggestibility at 1× and changing sides at 4×, even though the generic second-severity threshold is 2×; precisely reconcile Charm's advanced-status potency threshold with the universal two-severity mechanics before testing. All other attack targeting, breaking, subtle hypnosis, and Finisher decisions in the preceding entry remain approved as stated.
+
+---
+
 ## November 20, 2026 — PSYCHIC STATUS AND FINISHERS APPROVED
 
 Two-tier emotional statuses (1×/2× buildup), Confusion/Anger/Fear, advanced Charm/Sleep (half status application Power), subtle slow Cipherlight hypnosis, and interruptible two-action physical Finishers (×4 damage at start of next attacker turn, within 5 feet) have been approved. See `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, `35_Magical_Media_and_Contests.md`, and `22_Combat_Endurance_and_Shimmer_Guard.md` for full mechanics and open edges. No automatic Finisher instant kill is implied.
