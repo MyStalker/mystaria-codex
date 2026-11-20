@@ -1,3 +1,15 @@
+## November 20, 2026 — AUTHOR DECISION: Ritual mana availability and channel capacity; no efficiency multiplier (LATEST)
+
+**Author-approved resource boundaries:** A ritual can accept mana **during** its channeling; its entire MP cost does **not** need to be paid in the first six-second turn. A caster with 100 maximum MP cannot automatically cast a 150 MP ritual merely by waiting; completing that expenditure requires a real additional mana source **during** the casting, e.g. a Warlock replenishing the caster or a possible future mana potion (potions are **hypothetical, not established canon**). Spell/ritual channel capacity and actual available mana are distinct constraints. This does not authorize free mana regeneration during shorter rituals. The already approved week-long (eight-hour daily sessions) ritual can benefit from recovery **between** work sessions.
+
+**Author-selected channel-capacity direction:** a **two-turn ritual doubles** ordinary per-spell channeling capacity (×2 baseline). At **one minute**, capacity **increases another 50%** (interpreted as ×3 baseline, subject to author's correction). By roughly a full-day-scale working, a caster should **generally be able to invest their entire legitimately available mana reserve**; how to distribute intermediate thresholds, and exactly whether the 8-hour tier satisfies this criterion, remains to calibrate. The standing ritual timing tiers remain 2 turns / 1 minute / 10 minutes / 1 hour / 8 hours / 1 week (8 hours daily). No formula for 10 minutes, 1 hour, 8 hours, or week-long throughput was approved in this ruling.
+
+**No independent ritual-efficiency multiplier:** lengthier ritual channeling **does not** inherently grant a generic discount on MP costs or extra spell Power. Long-duration and large-area spells already realize huge economies of scale by affecting many things through one lawful large working rather than repeated small effects (e.g. forest-scale Morph). Preserve ordinary Magnitude, Duration, eligible medium/material, Power, mana supply, Channel Limit, action and resistance requirements. The area/duration price ladders remain explicitly **provisional**.
+
+**Open:** exact intermediate capacity ratios, whether maximum personal MP or accessible external mana is the eight-hour ceiling in unusual cases, payment timing/capacity under mid-ritual refills, resource lock-in and interruption losses, combined participant contributions, and how Warlock zero-internal-MP handling operates during rituals. No mana potion system or cost, or new resource-recovery mechanism, is approved.
+
+---
+
 ## November 20, 2026 — AUTHOR DECISION: Six ritual casting durations and weekly mana recovery (LATEST)
 
 **Approved ritual timing ladder:** Ritual casting is extended channeling of magic, including in combat, rather than necessarily a separate type of spell. Six successive ritual time benchmarks are:
