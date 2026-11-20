@@ -1,3 +1,11 @@
+## November 20, 2026 — APPROVED ordinary offensive spell MP-to-Power scaling (LATEST)
+
+For ordinary applicable offensive Incantations/spells with a neutral implement, `Power = (effective governing attribute² + IR²) × M_MP`. **Base offensive MP → multiplier**: **0→×0.55** (eligible cantrip), **1→×1**, **2→×1.35**, **4→×1.70**, **8→×2.05**, **12→×2.25**, **20→×2.51**. **20 MP** is the maximum investment into unmodified base offensive Power; area, duration and other effects require separately legal costs. One chosen implement supplies independently squared Power; Offense tuning only changes the implement-derived portion under existing rules. Maintain existing Incantation purchase costs, individual alterations, action/channel requirements, mana-color/source, medium and special spell exceptions. Do not extend this offensive-only formula to every non-damaging spell or invent multipliers at intermediate MP values.
+
+**Approved ritual capacity:** The **10-minute ritual** maximum channel capacity is **4× applicable full Channel Limit**, subject to actual available MP and legal costs; it is not a standalone damage bonus or mana source. The specific Master's rank-by-level fixtures and remaining ritual duration caps are unchanged/open. For full status and structural Defense references see `10_Canon_Changelog.md`.
+
+---
+
 ## November 18, 2026 — Spellcasting baseline and energy damage clarification (LATEST AUTHOR APPROVAL)
 
 **Updated spellcasting baseline:** A one-action cast may channel up to **floor(full Channel Limit / 2)**; a spell that takes **both actions** can channel up to the **full Channel Limit**, subject to the shared per-turn budget, existing specialized exceptions and one-offensive-action-per-turn combat rule. See `35_Magical_Media_and_Contests.md` for central authority, including prepared defenses and still-open timing details. Casts may use an **optional Craft-specific implement** that contributes to spell potency, without creating a fifth generic combat damage source. Specific implement scaling and enchantment interactions are uncalibrated.
