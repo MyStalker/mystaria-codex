@@ -1,3 +1,21 @@
+## November 20, 2026 — AUTHOR DECISION: Six ritual casting durations and weekly mana recovery (LATEST)
+
+**Approved ritual timing ladder:** Ritual casting is extended channeling of magic, including in combat, rather than necessarily a separate type of spell. Six successive ritual time benchmarks are:
+1. **2 turns** — shortest ritual; allows combat channeling into a larger spell.
+2. **1 minute**.
+3. **10 minutes**.
+4. **1 hour**.
+5. **8 hours**.
+6. **1 week, with 8 hours of work per day**.
+
+**Special weekly mana economy:** The **one-week ritual alone** permits the caster's maximum mana reserve to matter less, because the caster may **recover mana between the daily work sessions** and invest it toward the same working over several days. Do **not** assume that the shorter rituals also grant mana recovery between their stages or an automatic enlarged personal reserve. Normal available-mana, Channel Limit, legal casting and interruption constraints continue to matter until ritual-specific numeric rules are approved.
+
+**Warlock Dispel illustration:** A short combat ritual can channel Dispel without the self-inflicted wound required by its accelerated form. Prior approved Dispel mechanics were **four channeling actions without a wound, or two actions with one wound**. The author now cites the **two-turn ritual as a no-wound alternative**. Treat the newer intent (two-turn safe ritual) as controlling for the prospective modular ritual framework, while **the exact reconciliation of turns, actions, and Dispel's historical four-action cost remains OPEN**. Do not quietly claim the historical cost table was formally migrated, or make all multi-action techniques wound-free by default.
+
+**Still open for calibration:** Which spell capabilities or MP investments each ritual tier enables; casting/Channel Limit throughput and mana payment timing; interruption, protection and concentration checks; multiple participants; preparation and components; partial completion and resource loss; whether mana spent during a multi-day ritual remains invested safely between sessions; recovery rates; precise requirements for permanent spells and associated Soul Strain; and the treatment of rituals that overlap ordinary duration multipliers. The ritual timing ladder itself is author-selected, but **no general mana discount, spell Power multiplier, or ritual success percentage has been approved**.
+
+---
+
 ## November 20, 2026 — AUTHOR CLARIFICATION: Blue Morph reversion has finite force; mundane manufacturing (LATEST)
 
 **Approved:** When a temporary Blue Morph ends, the remaining morphed material attempts to return to its original shape, but **the reversion does not exert infinite or irresistible force**. Ordinary physical constraints, including a sufficiently strong surrounding mold, can resist that return. Consequently, **temporary Blue Morph can be used for durable mundane manufacturing without purchasing permanent spell duration**: for example, reshape scrap metal into a sword and promptly enclose it in a sufficiently durable mold before the spell expires; as the magic ends, the mold prevents full restoration and the metal remains physically deformed into the manufactured form. The resulting object is **mundane material**, not a permanent magical transformation or an exemption from matter conservation.
