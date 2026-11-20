@@ -1,3 +1,9 @@
+## November 20, 2026 — STRUCTURAL WOUNDS AND MARTIAL–MAGICAL PARITY (DESIGN FOUNDATION)
+
+Author direction: **most non-fragile items/structures use the existing wound framework**, leveraging nonlinear severity rather than a separate universal HP system. A comparably powerful martial attack can breach ordinary castle stone if lawful Power and physical resistance allow; magical rituals provide a distinct investment/scale advantage. Desired unenchanted castle progression: very-low caster no masonry breach; lower-mid ritual person-sized; mid ritual large; high caster one-spell breach and castle-destroying ritual. Exact materials, wound calibration, segmentation and collapse rules remain OPEN. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 20, 2026 — ENCOURAGE INT² FORMULA APPROVED (LATEST)
 
 **Encourage** is a nonmagical emotional-status reduction action: **two actions reduce buildup by INT²; one action by INT²/2**, without spellcasting implement modifiers or MP. Requires a strong personal relationship, spoken encouragement heard by the target, and **30-foot range**. Applies universal 4×/1× active-condition downgrade/end thresholds. This formula is approved canon, not merely provisional; the future Dispel Potion remains a design note. See `10_Canon_Changelog.md` and `15_Naga_Psycraft_Canon.md`.
