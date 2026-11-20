@@ -1,3 +1,13 @@
+## November 20, 2026 — AUTHOR DECISION: Craft Mastery points and universal pool; offensive MP ladder under review (LATEST)
+
+**Approved Mastery gain:** Each magical Craft has **20 Craft-specific upgrades** and **20 non-specific/universal upgrades** in the intended modular progression. Each purchased Craft-specific upgrade grants **0.5 Mastery points for that Craft**; each purchased non-specific/universal upgrade grants **0.25 Universal Mastery points**, applying to relevant Crafts. **Round down the final combined Mastery** (not individual fractional gains). Full investment grants **10 craft-specific + 5 universal = 15 Mastery maximum** for a Craft. Expressed as `Mastery(c) = floor(0.5 × craft_specific_upgrades(c) + 0.25 × universal_upgrades)`. Universal Mastery is one shared pool and is not repeatedly counted for the same Craft.
+
+**Channel Limit integration:** Previous author direction sets the INT-derived component at **half its former weight, with the former −10 INT offset removed**, plus the separate automatically accumulated Craft Mastery. A natural **working formula, still awaiting numeric calibration/explicit ratification**, is `CL(c) = floor(effective_INT/10 + Mastery(c))`. The Mastery accrual and cap are approved; the combined formula's precise rounding, minimum CL, edge cases and calibration are NOT yet final. Do not revert to the legacy `ceil(max(1, INT−10)/5)` formula without recognizing supersession direction.
+
+**Offensive pricing review, NOT approved:** The author recalls a possible ~18 MP maximum for unmodified base spell Power and is considering an MP-cost multiplier and future mana potions. Current GitHub records do **not** establish an approved general 18 MP offensive price ladder. Candidate comparison ladder: cantrip 0, ordinary basic attack 1, scalable stronger single-target attacks **2 / 4 / 7 / 11 / 18 MP**, excluding area, duration and specialized modifiers. These are **assistant proposals only**, not final canon. Exact MP-to-Power function, whether 18 is a ceiling or a reference investment, combat balance, high-level casting, and any future mana potion mechanics or availability remain OPEN. Do not invent an approved potion.
+
+---
+
 ## November 20, 2026 — AUTHOR DECISION: Unified Channel Limit, Warlock migration, interrupted rituals and compounded entropy (LATEST)
 
 **Approved channel design:**
