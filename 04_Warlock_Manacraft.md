@@ -1,3 +1,11 @@
+## November 20, 2026 — AUTHOR CLARIFICATION: Blue Morph reversion has finite force; mundane manufacturing (LATEST)
+
+**Approved:** When a temporary Blue Morph ends, the remaining morphed material attempts to return to its original shape, but **the reversion does not exert infinite or irresistible force**. Ordinary physical constraints, including a sufficiently strong surrounding mold, can resist that return. Consequently, **temporary Blue Morph can be used for durable mundane manufacturing without purchasing permanent spell duration**: for example, reshape scrap metal into a sword and promptly enclose it in a sufficiently durable mold before the spell expires; as the magic ends, the mold prevents full restoration and the metal remains physically deformed into the manufactured form. The resulting object is **mundane material**, not a permanent magical transformation or an exemption from matter conservation.
+
+**Preserve existing boundaries:** The material must be eligible to Morph and obey the spell's Power, magnitude/material-area adjustments, targeting and normal casting requirements. Fundamental destruction still prevents ordinary reversion. Reversion does not undo injuries, movements, or other external consequences. **OPEN:** precise reversion-force formula versus the resistance/strength of molds, whether the material springs back partially, material integrity/work-hardening, and any detailed manufacturing times, tooling and quality calculations. Do not infer effortless perfect metalworking or an infinite-force shattering effect.
+
+---
+
 ## November 20, 2026 — AUTHOR DECISION: Universal spell duration, buff escalation, instantaneous effects, and Blue Morph (LATEST)
 
 **Approved rules and terminology:**
