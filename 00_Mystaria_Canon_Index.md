@@ -1,3 +1,9 @@
+## November 20, 2026 — FINISHER INTERRUPTION, CHARM REFRESH, STATUS DURATION APPROVED (LATEST)
+
+A physical Finisher is interrupted if target eligibility ends before resolution or the attack cannot be completed (e.g. moved out of 5-foot range or attacker disarmed). Both 1× and 4× Charm last **3 rounds**, refreshed by additional Charm status application. Every status may use the universal modular spell-duration option only if the **final triggering spell** legally pays its extra duration cost. Details and precedence in `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, `35_Magical_Media_and_Contests.md`, and `22_Combat_Endurance_and_Shimmer_Guard.md`.
+
+---
+
 ## November 20, 2026 — AUTHOR CORRECTION: Mental status thresholds 1×/4×; Finisher requires strong Charm (LATEST)
 
 **Approved correction, controlling over the November 20 mental-status entries below:** The five mental conditions (Confusion, Anger, Fear, Charm, Sleep) use **exactly two severities**, triggered at **1× buildup (Severity I)** and **4× buildup (Severity II)**, consistent with other statuses. The previous entries incorrectly describing **2× as Severity II**, or suggesting that **4× is merely an optional duration-overbuild benchmark**, are **SUPERSEDED**. No extra intermediate severity is created. The attacker may release buildup on the same attack that applies it, or continue buildup toward 4×. Severity I/II effects and durations are those explicitly specified in the preceding approved status record: Confusion/Anger/Fear **1 round at 1×; 3 rounds at 4×**; Sleep **up to 3 rounds at 1×; 1 minute at 4×**; Charm **suggestibility and source-only attack penalty at 1×; active allegiance switch at 4×**. Charm and Sleep still halve applicable status-application magical Power. Extra spell duration investment and exact Charm durations remain unresolved.
