@@ -1,3 +1,11 @@
+## November 20, 2026 — AUTHOR APPROVAL: Offensive Power multipliers and structure Defense references (LATEST)
+
+**Approved ordinary offensive Power ladder** uses the neutral-implement foundation `(effective governing attribute² + IR²) × M`. For **base offensive Power MP investments** 0/1/2/4/8/12/20, corresponding **multipliers** are **×0.55/×1.00/×1.35/×1.70/×2.05/×2.25/×2.51**. 20 MP is the maximum unmodified base offensive investment, with independently payable area/duration etc. Implement Rating (QI–QV 26/30/35/40/48) remains independent additive squared equipment Power, with legal tuning applied to **only** that portion, not caster attribute Power. Older text saying the listed MP-to-Power chart or ordinary neutral offensive baseline is unapproved is SUPERSEDED; interpolated MP values, rounding and spell-specific exceptions still require care. Ten-minute rituals may channel **4× the caster's applicable full Channel Limit**, bounded by actual MP and legal spell components. This does not change implement price, Quality, slots, blank/mixed stat-grant legality, or Soul Strain.
+
+**Approved structural Defense Power reference values (separate from equipment AR/MR):** wood 1,000; thick timber/thin stone 8,000; ordinary castle masonry 12,500; reinforced stone/structural metal 40,000; extreme nonmagical fortification 80,000. Do not substitute these values for existing Boughsteel wearable AR or physical weapon ratings. Exact breach thickness and coverage-price interactions remain open. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Mana potion catalogue, Toxicity implementation, extra refill doses and obsolete shop warning (LATEST)
 
 **Approved offensive-price correction:** the provisional base offensive spell investment ladder now reads **0 MP cantrip; 1 MP basic; 2 MP enhanced; 4 MP strong; 8 MP greater; 12 MP superior; 20 MP maximum**, before area, duration or additional modifiers. The author-selected price benchmarks are retained as the **current WIP ladder**, not a verified final spell-Power-per-MP formula; the previous 11 MP superior and 18 MP maximum proposals are superseded.
