@@ -1,3 +1,13 @@
+## November 20, 2026 — AUTHOR APPROVAL: No post-Impact physical damage-form injury adjustment (LATEST)
+
+**Decision:** Author chose Option A: “a wound is a wound.” Ordinary Slashing, Blunt and Piercing attacks retain their **already-approved attack Power, armor penetration, coverage and other pre-Impact distinctions**, but **do not alter the resulting injury severity after lawful final Impact = Power / Defense is determined**. The established strict Impact bands produce the raw/final ordinary physical injury stage directly, subject to other independently approved defense, wound and Guard rules.
+
+**Superseded:** Earlier references declaring a *final form-specific injury-ratio adjustment unresolved* and treating relative Slashing 5/5, Blunt 3/5, Piercing 1/5 injury identities as a future severity-adjustment design requirement. They are neither current numeric multipliers nor pending mechanical work. Do not add a blunt cap or Piercing/Slashing injury-stage modifier. Existing physical penetration values (Slashing 0%, Blunt 25%, Piercing 50%) are unchanged.
+
+**Owning document updated:** `22_Combat_Endurance_and_Shimmer_Guard.md`. **Battleboard implication:** the former generic post-Impact form-injury blocker is resolved. An attack-preview tool can report ordinary physical injury tiers when actual contact, legal Power/Defense, applicable armor/shields/coverage, and other necessary inputs are fully specified. Unknown defenses and other unresolved systems still require explicit caveats. No Combat Lab or Battleboard software change is authorized by this canon approval.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Offensive MP-to-Power chart, ten-minute ritual ×4 capacity, structural Defense tiers (LATEST)
 
 **CURRENT APPROVED OFFENSIVE POWER BENCHMARK:** For ordinary offensive spell Power, the author explicitly approves the MP-investment multiplier ladder previously used for the castle calculations. At neutral implement tuning, the approved working equation is `Power_offense = (effective governing attribute² + eligible implement rating²) × M(nominal MP assigned to base offensive Power)`; for the Kharak Pyromancy reference the governing attribute is effective **INT**. The implement Rating (IR) is a separate additive squared equipment contribution, **not** a weapon-style multiplier on INT. All existing implement-specialization rules remain, including Offense tuning modifying **only implement-derived Power**, one chosen implement per spell, resource and medium requirements, and special spell/form exceptions. Do not transfer this ordinary offensive Power formula automatically to healing, purely utility, non-damaging status abilities or other techniques with separate approved mechanics.
