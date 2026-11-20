@@ -1,3 +1,13 @@
+## November 20, 2026 — AUTHOR-APPROVED offensive MP scaling, ten-minute ritual capacity, and structural Defense (LATEST)
+
+**Offensive Power:** The author approves the neutral-implement baseline `(effective governing attribute² + IR²) × MP_multiplier` for ordinary offensive spells. **MP assigned to the base offensive Power component → multiplier:** **0→0.55 (eligible cantrip); 1→1.00; 2→1.35; 4→1.70; 8→2.05; 12→2.25; 20→2.51**. Base offensive investment is capped at **20 MP** before separately payable area, Duration and other modifiers. Keep independently squared implement rating, tuning affecting only its eligible contribution, one implement per spell, and spell-specific exceptions. Intermediate MP multiplier interpolation and rounding are not yet defined.
+
+**Ten-minute ritual:** **Maximum spell-working channel capacity = 4 × applicable full Channel Limit**; actually available mana and all legal costs, prerequisites, medium and interruption rules still bind. No MP regeneration, free power bonus, or free castle-wide coverage. Prior two-turn ×2 and one-minute ×3 reference capacities remain unchanged. Precise CL/Mastery reference-build schedule remains unratified separately.
+
+**Approved structure-defense reference ladder:** Normal wood/doors **1,000**; thick wood/thin stone **8,000**; ordinary castle masonry **12,500**; reinforced stone/structural metal **40,000**; extreme nonmagical construction **80,000**. These are structural Defense Power, not AR/MR; attack area determines what can be wounded. Wound severity follows the existing wound framework as adapted, with exact thickness-to-breach, collateral collapse and area-cost rules still OPEN. Earlier notes calling these values or the MP chart 'experimental' are SUPERSEDED. See `10_Canon_Changelog.md` for scope and precedence.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Castle Defense 12,500 and structural breakthrough benchmarks (LATEST)
 
 **APPROVED:** The ordinary unenchanted castle-masonry **structural Defense Power baseline is 12,500** for the current wound-based structural calibration (instead of the earlier proposed 17,000 or 13,225). This is a structure-defense reference benchmark, **not** an automatic Boughsteel armor AR/MR rating or a universal rating for every castle architecture or enchanted fortification. Apply existing wound/impact ratios provisionally when benchmarking structures; actual affected scope still follows the previously approved rule that only the area the attack can cover and damage is wounded.
