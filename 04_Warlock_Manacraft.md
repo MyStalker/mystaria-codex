@@ -1,3 +1,31 @@
+## November 20, 2026 — AUTHOR DECISION: Universal spell duration, buff escalation, instantaneous effects, and Blue Morph (LATEST)
+
+**Approved rules and terminology:**
+- **Permanent spells** require substantial mana and impose **Soul Strain** that the user must buy off with XP over time. When the permanent spell **increases attributes/stats**, the Soul Strain remains **permanent**, analogous to artificially increased stats from equipped items. Specific mana pricing, Soul Strain amounts, XP buy-off conversion, eligibility and exceptions are **OPEN**; do not silently assign numbers.
+- **Multiple buff spells on one target have escalating MP costs:** the first applicable buff costs its ordinary MP price, the **second costs ×2**, the **third ×4**, and successive additional buffs continue doubling (fourth ×8, etc.). This is a safeguard against long-duration and permanent buff stacking. Exact definition of a qualifying buff, simultaneous versus sequential casting, recalculation after a buff expires, overlapping effects, ritual discounts, and how the multiplier applies to activation versus upkeep are **OPEN**.
+- **Instantaneous** is the spell-duration/effect classification for magic whose *magical effect itself is brief*, but whose ordinary consequences on the world persist without continued magic, as with a fireball. Instantaneous does **not** mean permanent ongoing enchantment, undo damage, or waive normal action/casting requirements.
+- **Reversion of temporary Blue Morph:** when the spell ends, remaining successfully morphed material is actively **morphed back into its original shape** rather than resetting the whole world. Events caused during the morph remain real; other unsupported objects, occupants, injuries and changes do not reverse. **Fundamentally destroyed material**, for example wood burned into ash, cannot unmorph back into its original form. A tree sunk into the ground can revert unharmed while an unsupported treehouse may be damaged.
+- **Blue Morph accepts flesh** as a material with the **same two-area-category penalty as metal**. Morphing flesh constitutes **Transformation**, obeys its ordinary Power/targeting/resistance/delivery restrictions, and does not bypass unfinished universal Transformation rules.
+- Earlier author's approved Morph directions preserved: **Animation is distinct from Morph**; a normal **1 MP single-target Morph** can reshape a handheld-scale object at ordinary legal casting range; one selected material category per casting, with minor variations included; **wood standard area, stone −1 area category, metal/flesh −2**, with **one-target floor**; matter is conserved; hostile applications that become attacks obey ordinary spell Power, Speed, attack and defense limits. Material hardness versus success continues to use lawful Power, not an extra automatic MP fee.
+- **Magnitude area/cost working proposal:** Rank 0 one target **1 MP**; I adjacent targets **2 MP**; II 20-foot burst **4 MP**; III 100-foot burst **10 MP**; IV 1,000-foot burst **30 MP**; V 2-mile burst **60 MP**. These MP numbers are **provisional calibration**, not final approved universal costs. A large-area spell may take many turns to channel, to be designed under Rituals. Burst radius/placement interpretation and interaction with older merged Magnitude benchmarks await formal reconciliation.
+
+**Author accepts provisional non-attack duration ladder for continued testing (NOT final numerical canon):**
+
+| Duration | Proposed MP multiplier |
+|---|---:|
+| 1 turn | ×1 |
+| 3 rounds | ×2 |
+| 1 minute | ×3 |
+| 10 minutes | ×5 |
+| 1 hour | ×10 |
+| 1 day | ×20 |
+| 1 week | ×40 |
+| Permanent | Special high-cost ritual plus Soul Strain |
+
+**Design examples (not additional fixed costs):** A legendary Warlock may temporarily deform a forest to expose an ambushing army, with reversion around a minute later, using a comparatively brisk ritual. Permanently turning a forest into a grand citadel should be possible in principle but require one of the most substantial rituals available, rather than a cheap quick casting. Duration, ritual time and resources, casting Channel Limit, environmental interactions, precise permanent-object shape and Soul Strain amounts remain to be designed. These directions do not authorize free construction or permanent material creation.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Basic Manashifting shields, slow passage and barrier-breaking (LATEST)
 
 **Status and precedence:** The author's latest explicit November 19 rulings supersede older suggestions of mandatory omnidirectional basic Warlock shields or a depleting shield-HP pool. These are approved qualitative foundations for the modular Manacraft migration; exact structure-damage procedures, arc, and outstanding spell Power formula remain open. Preserve the existing historical Warlock skill/rank/SP ledger until separately migrated.
