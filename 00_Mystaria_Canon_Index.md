@@ -1,3 +1,9 @@
+## November 20, 2026 — CASTLE STRUCTURAL DEFENSE 12,500 APPROVED; FIVE-TIER BREAKTHROUGH TARGETS
+
+**Approved benchmark:** ordinary unenchanted castle masonry **structural Defense Power 12,500** under the proposed structure-wound adaptation. Desired ordinary-spell breakthrough progression: level 1 wood; level 25 thick wood/thin stone; level 50 ordinary castle masonry; level 75 reinforced stone/metal; level 100 highest ordinary unenchanted fortifications. **Only castle 12,500 is approved numerically.** Proposed other structural Defenses for calibration: wood 1,000; thick timber/thin stone 8,000; reinforced stone/metal 40,000; extreme nonmagical structure 80,000. All non-castle values, the MP-to-Power multiplier curve and ritual/mastery fixture are **experimental**, and a successful structural wound is not automatically a full wall breach. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 20, 2026 — ELEMENTAL STATUS RESISTANCE FORMULA APPROVED (LATEST)
 
 **Element-specific SR = ceil(((effective END + 0.65 × applicable MR)² × applicable elemental Resistance multiplier) / 0.70)**, rounding **once at the end**; use elemental Resistance multiplier 1 absent an applicable existing one. Ordinary lawful elemental status buildup becomes **100% of delivered eligible elemental Power**, without universal ×0.70 on the attack. Preserve Blue Flame **50%**, White Flame **0%**, Wakecraft dedicated Freeze Attack **200%**, and other established exceptions; elemental status thresholds (0.5×/1×/4× and named exceptions), normal contact, direct damage, duration and costs remain unchanged. **The 0.65 MR weight and 0.70 defensive divisor are now approved**; historical 'typed SR unapproved' and elemental-END²-only notices are superseded. Distinct non-elemental status formulas and the Water-erosion SR-recalculation timing remain outside this approval. Full text: `35_Magical_Media_and_Contests.md` and `10_Canon_Changelog.md`.
