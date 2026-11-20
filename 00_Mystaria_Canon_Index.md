@@ -1,3 +1,9 @@
+## November 20, 2026 — ATTACK COVERAGE SETS STRUCTURAL WOUND SCOPE
+
+Approved: An attack encompassing and capable of damaging an entire castle may wound the castle as **one structure**; an attack reaching only a door wounds **only the door**. Coverage does not bypass resistance. Planned calibration: level **1/10/25/50/75/100** Pyromancers, at least half of allocation into INT+END, ten-minute rituals, mundane door versus **Boughsteel-reference unenchanted castle**. Structure/ritual numerical mechanics and Combat Lab support are pending. See `10_Canon_Changelog.md`.
+
+---
+
 ## November 20, 2026 — STRUCTURAL WOUNDS AND MARTIAL–MAGICAL PARITY (DESIGN FOUNDATION)
 
 Author direction: **most non-fragile items/structures use the existing wound framework**, leveraging nonlinear severity rather than a separate universal HP system. A comparably powerful martial attack can breach ordinary castle stone if lawful Power and physical resistance allow; magical rituals provide a distinct investment/scale advantage. Desired unenchanted castle progression: very-low caster no masonry breach; lower-mid ritual person-sized; mid ritual large; high caster one-spell breach and castle-destroying ritual. Exact materials, wound calibration, segmentation and collapse rules remain OPEN. See `10_Canon_Changelog.md` and `35_Magical_Media_and_Contests.md`.
