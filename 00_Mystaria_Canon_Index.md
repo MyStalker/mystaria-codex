@@ -1,3 +1,9 @@
+## November 20, 2026 — FUTURE DISPEL POTION AND ENCOURAGE MENTAL RESCUE DIRECTION
+
+**Future potion (unpriced/unimplemented):** A Dispel Potion intended to reduce **all magical status buildup**. **Encourage direction:** Nonmagical spoken support from a close friend within **30 feet**, provided the victim hears them, can reduce mental/emotional magical status without mana or spellcasting implement bonuses; strangers or incidental allies do not qualify. **Provisional numeric proposal:** **INT²** buildup reduction for **two actions**, **half for one action**, pending approval/calibration. Mechanism for ending already-active or permanent mental control remains open. See `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, and `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 20, 2026 — FINISHER INTERRUPTION, CHARM REFRESH, STATUS DURATION APPROVED (LATEST)
 
 A physical Finisher is interrupted if target eligibility ends before resolution or the attack cannot be completed (e.g. moved out of 5-foot range or attacker disarmed). Both 1× and 4× Charm last **3 rounds**, refreshed by additional Charm status application. Every status may use the universal modular spell-duration option only if the **final triggering spell** legally pays its extra duration cost. Details and precedence in `10_Canon_Changelog.md`, `15_Naga_Psycraft_Canon.md`, `35_Magical_Media_and_Contests.md`, and `22_Combat_Endurance_and_Shimmer_Guard.md`.
