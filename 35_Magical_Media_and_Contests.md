@@ -1,3 +1,11 @@
+## November 20, 2026 — Pyromancy flame-form design clarification (AUTHOR-APPROVED PARTIAL DECISION)
+
+**Approved design detail:** Blue Flame, when implemented as a distinct focused Pyromancy attack mode, produces **50% of ordinary Fire attack Burning-status magnitude** under otherwise comparable legal contact. That is a buildup rate, not a reduction to current or future ordinary Fire status, and does not approve an additional spell action, different MP cost, or revised universal spell Power. The proposed **25% armor-derived MR bypass for Blue Flame** and **White Flame with physical-Piercing-analog MR bypass and zero Burning buildup/refresh** are candidates for simulation, not approved numerical spell combat rules. The proposed **Ice Stab physical Piercing without Freeze buildup** is likewise not yet a replacement for the existing approved Ice Stab (physical damage plus Freeze buildup). Preserve these distinctions until explicit numerical approval.
+
+**Author's balancing target for continued experiments:** approximately **40% Pyromancer win rate against a comparable Glassweave-equipped counter-build** is considered desirable, while strongly favored matchups versus no-MR opponents (previously near 90% in some diagnostic fixtures) need not be forced to 50%. The aim is strategic spell-form variety and specialized counters, not universal parity. These are design targets, **not** approved spell Power, MR, or Status Resistance formula changes. The current typed SR formula and armor interactions remain unapproved experimental policies where already marked.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Mana potion catalogue, Toxicity implementation, extra refill doses and obsolete shop warning (LATEST)
 
 **Approved offensive-price correction:** the provisional base offensive spell investment ladder now reads **0 MP cantrip; 1 MP basic; 2 MP enhanced; 4 MP strong; 8 MP greater; 12 MP superior; 20 MP maximum**, before area, duration or additional modifiers. The author-selected price benchmarks are retained as the **current WIP ladder**, not a verified final spell-Power-per-MP formula; the previous 11 MP superior and 18 MP maximum proposals are superseded.
