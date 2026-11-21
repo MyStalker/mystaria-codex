@@ -190,6 +190,14 @@ The universal check/critical-failure framework is owned by `35_Magical_Media_and
 
 **Progression next:** Develop Rank I–V learned Reshaping *new technique permissions*, starting from this Rank 0 baseline. Do not prematurely price city-scale pollution or mundane workshop economics as part of the Rank 0 combat/utility spell ledger.
 
+## November 21, 2026 — Reshaping MP-to-Power and physical attack interface (AUTHOR CORRECTION AND APPROVAL)
+
+**Meaningful Reshaping uses the same legal base MP-to-Power investment scaling as ordinary magical attacks**, not a separate Reshaping damage/Power cost schedule. More eligible spell-equivalent MP spent on the ordinary base-Power component increases Reshaping Power under the approved offensive multiplier chart: **1/2/4/8/12/20 MP -> 1.00/1.35/1.70/2.05/2.25/2.51 × (effective governing attribute² + eligible implement IR²)**, subject to all usual tuning, Channel Limit, ritual, material, Hex and other restrictions. **The 20-MP base offensive ceiling remains; area/Magnitude, Duration and other components are separately paid where required.** The ordinary zero-MP cantrip modifier does **not** authorize free consequential Reshaping; the separately approved negligible-scale party-trick exemption remains.
+
+**Reshaped matter as weapon/controlling implement:** Basic Rank 0 nonliving Mold/Join/Separate/Displace may produce a physical spike, striking protrusion, hand, obstruction or similar construct. When used to **attack**, it is an ordinary lawful offensive action, using eligible Reshaping casting Power and the actual physical attack/contact, material and target-defense framework, not a second free attack or automatically guaranteed contact. When used to **attempt a grapple**, it follows ordinary legal grapple eligibility, opposition, contact and action rules; its valid created medium does not waive the grappling contest. **Persistent active motion or independent animation is not a free Rank 0 entitlement**; suitable physically stable resulting shapes can persist without an anchor, and magically held unstable shapes require lawful support. Exact mapping of reshaped material geometry to physical attack forms, contact and grapple-derived strength/Power remains pending calibration, not permission for automatic guaranteed damage or grapples.
+
+**Status:** MP-to-Power alignment and Rank 0 attack/grapple eligibility are author-directed; all previously explored fifteen Rank I–V technique candidates remain **UNAPPROVED PROPOSALS** pending selection.
+
 ## Permanent mutation and Hexen
 Elixircraft can guide lasting transformations over time; Vital Transmutation directly reshapes living tissues. Combined work can change glands, replace structures, produce adaptations and reorganize living beings into **living machinery**: pumps, filters, secretion producers, heat regulators and motive systems.
 
