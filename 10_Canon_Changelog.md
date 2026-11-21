@@ -1,3 +1,9 @@
+## November 21, 2026 — AUTHOR APPROVAL: Magical wound healing costs flat +20% Toxicity (LATEST)
+
+**APPROVED:** Every wound actually healed magically gives the recipient **+20 percentage points of cumulative Toxicity per wound**, independent of wound severity and whether the wound is in an ordinary or Shimmer Guard stage. Multiple wounds healed count separately; unhealed wounds do not incur healing Toxicity. **SUPERSEDED:** the older tier-sensitive schedule (including superficial 5%, first ordinary 20%, Shimmer Guard 10%/15%, and subsequent variable amounts). The previously approved mana-potion formula, Toxicity wound thresholds (100%, then each additional 50 points), temporary wound-healing restrictions, and unresolved rest recovery and healing-potion details remain unchanged. Owning file: [22_Combat_Endurance_and_Shimmer_Guard.md](22_Combat_Endurance_and_Shimmer_Guard.md).
+
+---
+
 ## November 20, 2026 — AUTHOR-DIRECTED FINISHING PASS: remaining priced finished items (LATEST)
 
 **Completed Gem tariffs for existing mechanically described items (PRICE-ONLY).** The author requested finishing remaining repricing after the November 20 escalating-Gem economy approval. The operative current owner is [37_Gem_Price_Catalogue.md](37_Gem_Price_Catalogue.md), especially §11. All changes are in Gem price only, preserving existing item effects, legal Quality, specific stat requirements, material sourcing, manufacturing/crafting eligibility, racial restrictions, SP/MP, Soul Strain, ordinary XP and patrons.
