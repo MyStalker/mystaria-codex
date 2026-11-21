@@ -32,32 +32,32 @@ Equivalently `B(L) × (unrounded encounter XP equivalent / (2L))`, retaining the
 The level progression budget counts the exact Henchman-equivalent number `(L+1)/2` for each level interval, **not** the rounded-up whole-monster count shown above:
 
 ```text
-E(1) = 30 / 0.70 Gems (planning origin, not a free coin grant).
+E(1) = 0 gross earned Gems since the level-1 starting point.
 G(L) = (10L − 3) × (L+1) / 2 Gems gross budget for level L → L+1.
-E(L) = 30 / 0.70 + sum for k=1...(L−1) of G(k).
+E(L) = sum for k=1...(L−1) of G(k).
 At equipment milestones, R(L) = 0.5 × sum of prior sold reference
   complete portfolios among levels 10, 25, 50 and 75.
-W(L) = 0.70 × E(L) − R(L).
+W(L) = 30 + 0.70 × E(L) − R(L).
 ```
 
-The gross budget retains **30% intended consumable use**, plus the previously approved expected **50% resale loss** when a *shop-sold and eligible* prior reference outfit is replaced at the next milestone. No guarantee of buyback for self-made, quest-found or other provenance-ineligible items. Starting granted Junk weapon/armor remain **in-kind gear, not cash**, and the 30-Gem level-1 portfolio remains a planning reference rather than a hard limit on included starter items.
+The **30-Gem starting equipment portfolio is an in-kind planning baseline, not part of Gross Gems earned.** The gross budget retains **30% intended consumable use**, plus the previously approved expected **50% resale loss** when a *shop-sold and eligible* prior reference outfit is replaced at the next milestone. No guarantee of buyback for self-made, quest-found or other provenance-ineligible items. Starting granted Junk weapon/armor remain **in-kind gear, not cash**, and the 30-Gem level-1 portfolio remains a planning reference rather than a hard limit on included starter items.
 
 | Hero level | Reference Quality | Gross lifetime earned E(L), approx. Gems | Cumulative replacement loss R(L), approx. | Owned-equipment target W(L), approx. Gems |
 |---:|---|---:|---:|---:|
-| 1 | Starter | 42.86 | 0 | 30 |
-| 10 | I | 1,611.86 | 0 | 1,128 |
-| 25 | II | 25,556.86 | 564.15 | 17,326 |
-| 50 | III | 206,381.86 | 9,227 | 135,240 |
-| 75 | IV | 698,769.36 | 76,847.14 | 412,291 |
-| 100 | V | 1,658,969.36 | 282,992.84 | 878,286 |
+| 1 | Starter | 0 | 0 | 30 |
+| 10 | I | 1,569 | 0 | 1,128 |
+| 25 | II | 25,514 | 564.15 | 17,326 |
+| 50 | III | 206,339 | 9,227 | 135,240 |
+| 75 | IV | 698,726.5 | 76,847.14 | 412,291 |
+| 100 | V | 1,658,926.5 | 282,992.84 | 878,286 |
 
-Unrounded reference owned-wealth knots are `W1=30`, `W10=1128.3`, `W25=17325.65`, `W50=135240.325`, `W75=412291.4125`, `W100=878285.70625`; use these for calculations and rounded whole Gems for display. Reference level-100 consumables `≈497,690.81 Gems`. **At intermediate levels** budget the upcoming qualifying portfolio replacement loss *smoothly* across its preceding tier interval, rather than creating a false Gem windfall at the exact replacement level:
+Unrounded reference owned-wealth knots are `W1=30`, `W10=1128.3`, `W25=17325.65`, `W50=135240.325`, `W75=412291.4125`, `W100=878285.70625`; use these for calculations and rounded whole Gems for display. Reference level-100 consumables `≈497,677.95 Gems`. **At intermediate levels** budget the upcoming qualifying portfolio replacement loss *smoothly* across its preceding tier interval, rather than creating a false Gem windfall at the exact replacement level:
 
 ```text
 For interval [a,b] in {[10,25], [25,50], [50,75], [75,100]}:
 R_smooth(L) = R(a) + 0.5 × W(a) × (L−a)/(b−a).
 R_smooth(L) = 0 for 1 ≤ L ≤ 10.
-W_smooth(L) = 0.70 × E(L) − R_smooth(L).
+W_smooth(L) = 30 + 0.70 × E(L) − R_smooth(L).
 ```
 
 These are **reference equipment-purchasing budgets**, not level-based purchases or automatic wallet grants. Actual wealth depends on rewards, purchases, resale eligibility, special finds, and campaign conditions. The cumulative wealth formula is deliberately **not** simple linear interpolation between tier milestones.
