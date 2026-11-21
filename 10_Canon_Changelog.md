@@ -1,3 +1,15 @@
+## November 20, 2026 — AUTHOR CORRECTION: Boss XP one level; encounter-equivalent quest rewards (LATEST)
+
+**APPROVED: Boss XP is now exactly ONE guaranteed level advancement**, measured at the Hero's level and existing XP progress when the Boss is overcome. With current Hero level `L` and progress `P` toward level `L+1` (`0 ≤ P < L×(L+1)`), award **`Boss XP = L×(L+1) − P`**. Hero becomes level `L+1` with zero progress toward `L+2`. Example: level-50 Hero at 500/2,550 progress earns 2,050 Boss XP and reaches level 51. This special Boss reward replaces, rather than adds to, normal enemy-level XP. The former exactly **TWO** guaranteed level-ups and additional `[(L+1)×(L+2)]` Boss XP are **SUPERSEDED**. All normal per-level XP requirements, non-Boss threat values, patron award qualification, stats and progression remain as approved.
+
+**APPROVED: flexible encounter-equivalent quest valuation.** A DM may determine the XP and Gem value of qualifying quests, investigations, rescues, peaceful solutions and combat-bypassing deeds by estimating roughly **how many qualifying monsters / equivalent encounters and of what difficulty** the deed warrants. This may be estimated during preparation or **retroactively on completion**. Do not require kills; keep the patron's existing authority to deem deeds eligible. Avoid rewarding the same resolution twice by automatically combining its full combat reward and full bypass-equivalent reward. There is **no required percentage split** between encounter and quest payouts and no newly approved numerical quest multiplier.
+
+**Currency and Gem boundary:** Existing denomination remains **100 Glints = 1 Gem**; only whole Glints are paid, with any smaller theoretical remainder deferred or qualifying rewards bundled. Approved Boss **Gem** rewards currently remain **two levels of reference budget**, `E(L+2)−E(L)` within the existing defined range, because the author's correction explicitly changed **Boss XP** only. The mismatch between Boss one-level XP and two-level Gem reward is **open for a future explicit choice**. No numeric monster Gem chart, mandatory rounding method, smoothed replacement reserve, or fixed encounter/quest split is approved by this entry.
+
+**Files updated:** `01_World_and_Shimmer.md` (owning XP / quest mechanic), `09_Equipment_and_Economy.md` (Boss XP cross-reference and quest Gem guidance), `00_Mystaria_Canon_Index.md` (current precedence), `10_Canon_Changelog.md` (this record). Historical November 5 entries describing two Boss levels remain historical, superseded by this decision.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Universal Magnitude area MP and discounted Pyromancy containment (LATEST)
 
 **APPROVED universal Magnitude area chart**, upgrading the former unapproved proposal to current numeric canon:
