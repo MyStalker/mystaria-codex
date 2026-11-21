@@ -1,3 +1,15 @@
+## November 21, 2026 — NYMBRIN: Hex-capacity short-rest casting, Sigil Scar cleansing, and civic Circuits (AUTHOR-SELECTED TEST DIRECTIONS)
+
+**Casting design selected for balance testing:** Ordinary spell-equivalent cost `M` remains the Channel Limit/Power/Magnitude measure; Nymbrin Wetcraft uses **3M personal Hex rather than spending personal blue MP**, against a personal Hex capacity equal to **maximum personal MP**. Cannot exceed the capacity. A **10-minute rest** releases stored Hex for free to the alchemist, **not** to the environment: environmental Hex remains real pollution. Thus ordinary between-rest spell-equivalent budget is `floor((maximum MP - current personal Hex)/3)`, also bound by Channel Limit and all other conditions. No actual simulation, minimum-reserve exception or fully ratified external-source/ritual interaction yet.
+
+**Scar healing decision:** Willing target can remove **pre-activation buildup** or an active Sigil Scar with healing magic whose eligible Power matches/exceeds **original scar spell Power**, accepting Toxicity. Scar-only Toxicity amount and interactions with existing **+20 percentage points per actual healed wound** remain to finish. Scar lowers only **END-derived physical Defense**, with a floor of **1**, leaving armor's separately derived protection intact. Preserve 1×/4× severity, 2× casting-Power dedicated application and provisional half-Power rider pending balance testing.
+
+**Circuit worldbuilding direction:** Long chains of large relay/**antenna** circles may reach cities and dependent settlements, transmit real blue mana, and maintain distant alchemical anchors. Mining foundations or housing are potential applications. This is not authorization to erase Hex pollution through a circuit or create mana from nowhere. Link losses, sources, authorization, durability and civic scale remain OPEN.
+
+**Owner:** `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`; index updated. All other Wetcraft numerical costs, scar statuses, Hex environmental consequences and industrial mana economics are calibration backlog rather than simulation-confirmed rules.
+
+---
+
 ## November 21, 2026 — NYMBRIN WETCRAFT: Author-selected Circuit and Sigil Scar directions (numerical balance pending)
 
 **Author direction:** Call linked circles a **Circuit**, and distinguish a circle's interior working area from its **Extended Range** for legal placement/links. Magnitude allows larger circles, not blanket increased circle manipulation reach. A caster in reach of a connected circle can operate through a legal Circuit, including supplying real blue mana to accessible distant anchored sigils. Lower-Magnitude circles may establish the next-higher category in **one action** at lawful placement reach, generating Hex; multiple circles can chain. Huge circles specialize in large operations but can deploy smaller circles within lawful domain. Connected physical material can extend manipulation only to that circle's Extended Range, losing active control when severed, without erasing stabilized matter.
