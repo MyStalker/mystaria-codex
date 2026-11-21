@@ -1,3 +1,15 @@
+## November 21, 2026 — AUTHOR APPROVAL: Haze channel entropy and alchemical circle capacity/interoperability
+
+**Ambient channel entropy:** In **Haze IV**, **25% of channeled mana is lost to entropy**; **Haze V loses 50%**. Haze 0–III have no added loss from this specific rule. Determine effective delivered mana *before* checking the spell's minimum effective MP requirement. Spending enough raw mana to compensate is possible only inside actual Channel Limit, action/ritual capacity and resource constraints. A 10-MP effect with full one-turn CL 14 succeeds at Haze IV (14×.75=10.5 effective), but fails at Haze V (14×.5=7; 20 raw required). Approved prior cooperative/weekly ritual entropies still apply independently; exact compound ordering and rounding remain OPEN. These losses explain **operational circle failure** in Haze IV/V without demanding the physical circle be destroyed.
+
+**Circle construction throughput:** A circle's rated throughput cannot exceed its maker's applicable Channel Limit **at construction time**, including legitimate **ritual multipliers** if produced through a lawful ritual. Larger installations thus need skilled/ritual construction; subsequent users cannot automatically raise a circle's installed capacity. Effective usage also respects their own actual CL and current environmental loss.
+
+**Interoperability:** Hostile/other alchemists may use another's unprotected circles by default, but unfamiliar circle styles yield **half effective installed circle channeling capacity**, not half the user's personal CL/Power. After **ten minutes of communication and style alignment**, cooperating alchemists may use each other's circles at full ordinary capacity. **Autonomy III Reactivity** may be used to create circles with user-specific authorization/rejection, an important industrial security feature. Exact security contest, tuning scope, environment/link losses, action/time costs and integer rounding OPEN.
+
+**Owner:** `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`; index updated. Older Haze lore describing circle failure without a mechanism is qualified by this approved capacity/entropy explanation.
+
+---
+
 ## November 21, 2026 — HAZE TIERS AND PURITY ALCHEMY: Author direction takes precedence (numeric calibration OPEN)
 
 **Approved qualitative hierarchy:** Environmental Haze uses levels **0 through V**; 0 normal clean regions, I outskirts and nearby foreign borders, II ordinary pollution, III hazardous industrial smog, IV critical exposure with vulnerable creatures collapsing and exposed alchemical-circle failures, V unbreathable saturated air requiring sheltered alchemy. This tier framework **takes precedence over incompatible older atmospheric descriptions**, preserving earlier explicit Scarlands life-expectancy, outsider clearbreath and Starspawn vulnerability lore where compatible.
