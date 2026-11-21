@@ -1,3 +1,77 @@
+## November 20, 2026 — AUTHOR-APPROVED ESCALATING GEM REWARDS AND ECONOMY (LATEST CONTROLLING CANON)
+
+**Authority and scope:** This is the author's November 20 approval of the 7-to-997-Gem equal-level Henchman curve, greatly increased but still bounded equipment-budget milestones, and the round-number primary-item price ladder. These numbers **supersede** the older November 12 `30/200/400/800/1600/3200`-Gem equipment portfolio and `60/120/240/480/960`-Gem Quality-I–V primary investment targets **as the active economy**. They do **not** change Hero/monster combat statistics, existing Quality effects, attributes, experience thresholds, leveling pace, skills, SP/MP, Soul Strain, racial mechanics, equipment wielding prerequisites, or the existing GM/patron rules for qualifying a reward. Older numeric economy cases below are retained as **historical examples**, not concurrent default tariffs.
+
+### Approved ordinary Gem reward progression
+
+For a qualifying **equal-level Henchman-equivalent** challenge faced by a Hero at level `L` (levels 1–100), the approved **base Gem payout** is:
+
+```text
+Base Henchman Gems B(L) = 10 × L − 3
+```
+
+For an ordinary qualifying encounter at **enemy/challenge level `C`**, with approved threat factor `T` (Horde 0.1, Minion 0.4, Henchman 1, Elite 2):
+
+```text
+Raw encounter XP equivalent = 2 × C × T
+Ordinary encounter Gems = B(L) × Raw encounter XP equivalent / (2 × L)
+                        = (10 × L − 3) × (C / L) × T
+```
+
+Use the **unrounded XP-equivalent** when calculating Gems, rather than the rounded/minimum-one XP award recorded on the character sheet. Pay only whole Gems and/or integer Glints (100 Glints = 1 Gem), carrying any sub-Glint planning remainder to the next eligible award, or consolidating small rewards into one eligible quest/milestone payment. No mandatory reward arises from a kill or mundane quest without the Hero's patron qualifying the deed.
+
+| Current Hero level L | Equal-level Henchman Gems B(L) | Equal-level Henchman XP | Henchmen from zero XP progress to next level (rounded up) |
+|---:|---:|---:|---:|
+| 1 | **7** | 2 | 1 |
+| 10 | **97** | 20 | 6 |
+| 25 | **247** | 50 | 13 |
+| 50 | **497** | 100 | 26 |
+| 75 | **747** | 150 | 38 |
+| 100 | **997** | 200 | 51 |
+
+**Quests and noncombat victories:** Assign the equivalent number and difficulty of patron-qualifying encounters represented by a quest, rescue, investigation, peaceful solution or other combat bypass. Determine this in preparation or retroactively when completed. Award the commensurate XP and Gems under the same encounter-equivalent reference, with GM judgment, without mandatory kills or a fixed 50/50 split between combat and quest income. Do not automatically award both the full bypass reward and the full fight reward for the same resolved challenge. This supports the existing XP rule in `01_World_and_Shimmer.md` and leaves ordinary XP and threat multipliers unchanged.
+
+**Boss exception not modified:** Boss XP grants **exactly one level** from current progress (latest November 20 correction). The separate, previously approved Boss **Gem** reward remains **two levels of reference earned-Gem progression** `E(L+2) − E(L)` where `L+2 ≤ 100`. Boss Gems are NOT simply `B(L) × 2` or an enemy-level multiplier. The one-level-XP-versus-two-level-Gems asymmetry remains open to future specific approval. Boss Gem payouts for `L > 98` / above level 100 remain undefined. These exception boundaries apply to the newly approved reference `E` below.
+
+### Approved wealth and clean primary-item price milestones
+
+| Hero level | Reference Quality | Target total equipment value, W(L), Gems | Illustrative/reference price of the tier's **primary** finished item, Gems |
+|---:|---|---:|---:|
+| 1 | Starter | **30** | Starter package; no individual primary price specified |
+| 10 | I | **1,128** | **200** |
+| 25 | II | **17,326** | **600** |
+| 50 | III | **135,240** | **10,000** |
+| 75 | IV | **412,291** | **80,000** |
+| 100 | V | **878,286** | **250,000** |
+
+These are **reference equipment-wealth targets**, not automatic account balances, equipment-use level gates, or changes to finished equipment's mechanical power. The approved round-price ladder describes the **representative primary finished item** at each Quality. The primary item is whichever actual finished weapon, armor ensemble or shield legitimately receives the largest relevant investment, **not** a price surcharge for declaring it primary. Do not treat this small reference ladder as a completed universal price catalogue for every shape, material, piece, rune, potion or enchantment.
+
+**One-Quality-ahead purchasing benchmark:** A Hero should retain the meaningful option of directing roughly 50–60% of their reference equipment value toward *one* primary item one Quality higher. On the approved representative milestone chart, the comparisons are: level 10 → Quality II 600/1,128 ≈ **53%**; level 25 → Quality III 10,000/17,326 ≈ **58%**; level 50 → Quality IV 80,000/135,240 ≈ **59%**; level 75 → Quality V 250,000/412,291 ≈ **61%**. The exact purchased form and component prices still matter. Do **not** infer that all other above-tier pieces are equally affordable, that entire above-tier 11-slot loadouts are approved, or that older Quality-tier price ratios automatically carry over.
+
+### Approved economy calibration and its assumptions
+
+Maintain the **existing design benchmark** of approximately **30% of earned Gems** consumed by consumables and reference **50% Gem Shop buyback only for eligible items originally sold by that Gem Shop**. As a planning curve, the budget for XP-equivalent challenges while advancing from Hero level `k` to `k+1` is `B(k) × (k+1)/2`, since the exact XP requirement is `k(k+1)` and each equal-level Henchman contributes `2k` XP. A partial encounter-equivalent is a *budgeting unit*, not a fractional monster or automatic award.
+
+```text
+B(k) = 10k − 3
+E(L) = sum over k = 1 ... (L−1) of [(10k−3) × (k+1)/2]
+  (gross cumulative earned-Gem reference AFTER the level-1 starting point,
+   exclusive of the 30-Gem starter equipment value)
+R(L) = 0.5 × [ (L≥25 ? W(10) : 0)
+             + (L≥50 ? W(25) : 0)
+             + (L≥75 ? W(50) : 0)
+             + (L≥100 ? W(75) : 0) ]
+W(L) at reference milestones = 30 + 0.70 × E(L) − R(L)
+```
+
+Compute intermediate values **without rounding** and round milestone display amounts to the nearest whole Gem. This reproduces the author-approved rounded reference values above (including level-75 412,291 and level-100 878,286). The initial **30-Gem level-1 starter equipment reference** is *not* an extra 30 Gems of monster rewards or proof that every Hero gets a free purse; it is the inherited opening portfolio benchmark. The reference assumes starter gear is retained/reused/gifted rather than introducing an unbudgeted extra buyback loss at level 10.
+
+At **level 100**, this reference generates **1,658,926.5 Gems** of gross encounter-equivalent earned budget since level 1 (≈**1.66 million**), **497,677.95 Gems** of planned consumables (30%), ≈**282,992.84 Gems** in cumulative replacement losses, and ≈**878,285.71 Gems** of equipment portfolio value **including** the 30-Gem starting portfolio. Such fractional numbers are **ledger/calibration quantities**, not physically fractional Gems or Glints. Actual players may receive different qualifying rewards and spend/save/resell differently.
+
+**Important limits still OPEN:** Full 11-slot modern item catalogue and potion/utility/enchantment repricing; checking genuinely legal one-tier-up shopping and finished packages at every milestone; between-milestone savings, reserve timing and item replacement smoothness; Boss Gem/XP asymmetry and high-level Boss Gem payout boundaries; party allocation and exceptional patron rewards. The old Gem prices for specific approved items, including legacy potion and weapon tables, **have not all been automatically recomputed**. Their mechanics and source-specific item rules remain in effect, but their listed price denominations require a later explicit conversion or review before assuming compatibility with this new reward scale. Do not apply one universal price factor or substitute an arbitrary old price as a verified current-economy tariff.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVED: Escalating monster Gems and comprehensive item repricing (CURRENT)
 
 **CURRENT OPERATIVE PRICE SOURCE:** [Gem Price Catalogue and Reward Calibration](37_Gem_Price_Catalogue.md). Explicit author approval supersedes **all contradictory older Gem prices and level-wealth targets** retained later in this long record as historical precedent (including former Nov12/13 “latest” labels). **The numbers change, not the power**: existing QI–QV equipment stats, Junk penalties, shield mechanics, material-neutral valuation, enchanted Soul Strain, character XP, patron qualifications, action economy, SP/MP, construction and crafting restrictions remain unchanged.
@@ -959,7 +1033,9 @@ The author asks whether equal-material Gem pricing should apply, suggesting that
 
 ---
 
-## November 12, 2026 — Tenfold Gem denomination, replacement wealth curve and 11-slot repricing (LATEST AUTHOR DIRECTION)
+## November 12, 2026 — Tenfold Gem denomination, replacement wealth curve and 11-slot repricing (HISTORICAL; SUPERSEDED ECONOMIC NUMBERS)
+
+> **November 20, 2026 supersession:** This section's 3,200-Gem endgame portfolio, 30/200/400/800/1600/3200-Gem milestones and primary-item 60/120/240/480/960-Gem ladder are no longer the live economy. Use the escalating-reward chart at the **top** of this file. Existing source mechanics and nonprice rules remain valid unless separately superseded.
 
 **Authority boundary:** The author explicitly selects the immediately prior **320-Gem endgame wealth/30%-primary-item/11-slot test as the NEW ECONOMIC BASE**, raises **every Gem amount in that selected proposed table by ×10**, and directs a broad repricing pass to align older equipment and offers. This **supersedes** the older level-100 **4,000-Gem** equipment wealth plan and prior **400-Gem QV maul / 480–500-Gem greatbow** exploratory plan. **W(100)=3,200 Gems** is the new user-directed *working economic calibration target*, **NOT** 40,000 Gems (do not multiply the discarded 4,000 model by ten). The 30% *lifetime earnings* spent on consumables, provenance-limited Gem Shop 50% buyback, Shimmer XP, SP, MP, Soul Strain, and existing item physical mechanics remain separate and unchanged. Preserve historical old economic tables below as explicitly superseded records; they are not operative offers.
 
@@ -2498,7 +2574,9 @@ This is a target curve; round portfolio benchmarks to whole Gems for planning. I
 - Replacement losses are part of **expected normal Gem earnings**, so Heroes who regularly upgrade are not systematically priced out of the target portfolio.
 - No separate free Gem reimbursement is generated by selling equipment; the resale amount is a transaction, while the reward curve budgets for the typical loss.
 
-### Reference full-replacement portfolio (approved balancing model)
+### Reference full-replacement portfolio (HISTORICAL NOVEMBER 5 MODEL; ECONOMIC FIGURES SUPERSEDED)
+
+> The older 3-to-4,000-Gem model and its earned-Gem/drop formulas are retained for historical comparison only. Use the controlling November 20 `B(L)=10L−3` escalating rewards and new milestones above.
 
 For economic calibration, use the **representative** quality milestones below. These are **not equipment-use level gates**, and actual Heroes can replace pieces gradually or retain old equipment.
 
@@ -2532,7 +2610,9 @@ E(L) = [W(L) + R(L)] / 0.70
 
 At level 100: **W = 4,000**, **R ≈ 1,510.5**, **E ≈ 7,872 Gems lifetime earned**, and **0.30 × E ≈ 2,362 Gems spent on consumables**. These are approximate targets, not guaranteed personal totals. A Hero who retains gear or spends differently may have a different portfolio; do not force their actual earnings to equal the reference calculation. At level 1, the model's 3-Gem equipment target can be reached through one qualifying encounter or quest; the mathematical gross-income planning figure E(1) is about 4.29 Gems, **not** a mandate to award fractional Gems or to require consumable spending before the first purchase.
 
-### Gem rewards use the same threat multipliers as canonical XP
+### Gem rewards use the same threat multipliers as canonical XP (HISTORICAL NOVEMBER 5 BASE FORMULA; SEE CONTROLLING NOVEMBER 20 CHART)
+
+> The threat factors themselves remain valid; the older generic level-delta payout calibration text below is superseded by the November 20 approved `B(L)` formula. The separate two-level Boss Gem exception remains valid.
 
 For **ordinary qualifying encounters**:
 
