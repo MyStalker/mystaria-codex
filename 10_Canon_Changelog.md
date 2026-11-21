@@ -1,3 +1,30 @@
+## November 20, 2026 — AUTHOR APPROVAL: Escalating Gem payouts, expanded equipment wealth, and above-tier primary-item prices (LATEST)
+
+**APPROVED ordinary reward curve:** An equal-level, patron-qualifying Henchman-equivalent challenge at Hero level `L` (1–100) awards **`B(L)=10L−3` Gems**, or **7/97/247/497/747/997** Gems at levels **1/10/25/50/75/100**. For non-Boss challenge level `C` and approved threat factor `T` (Horde 0.1, Minion 0.4, Henchman 1, Elite 2), suggested reward is **`B(L) × (C/L) × T` Gems**, equivalently `B(L)×(raw XP equivalent)/(2L)`. For Gem calculation, use the **unrounded** ordinary XP-equivalent `2CT`; this does not change independently rounded actual XP. Qualifying quests/nonviolent resolutions can receive encounter-equivalent XP and Gems by preplanned or retrospective GM valuation; no mandatory kills, reward double-counting or 50/50 encounter/quest split. Pay whole Gems/Glints only; 100 Glints = 1 Gem with remainder carry/bundled awards. Boss remains an exception: **one guaranteed level of XP**, but currently **two levels of Gem earning budget** `E(L+2)−E(L)` for `L+2≤100`.
+
+**APPROVED round wealth/primary-item price milestones:**
+
+| Hero level | Reference Quality | Equipment portfolio reference (Gems) | Reference primary-item price (Gems) |
+|---:|---|---:|---:|
+| 1 | Starter | **30** | Not separately set |
+| 10 | I | **1,128** | **200** |
+| 25 | II | **17,326** | **600** |
+| 50 | III | **135,240** | **10,000** |
+| 75 | IV | **412,291** | **80,000** |
+| 100 | V | **878,286** | **250,000** |
+
+**APPROVED calibration:** The existing 30% consumables and eligible-original-shop 50% buyback assumptions remain. The exact equal-level XP progression `L(L+1)` makes expected Henchman-equivalent advancement consumption `(L+1)/2` per level. Therefore cumulative gross earned-Gem reference from level 1 to `L` is `E(L)=Σ[k=1 to L−1]((10k−3)(k+1)/2)`; `W(L)=30+0.70E(L)−R(L)` at the benchmark milestone, with cumulative reference 50%-loss replacements at **25/50/75/100** using previous **10/25/50/75** portfolio values (no extra replacement of the initial starter portfolio). At level 100 this yields approx. **1,658,926.5** cumulative Gems earned (≈1.66 million), approx. **497,677.95** Gems of consumables, approx. **282,992.84** Gems of reference replacement loss, and approx. **878,285.71** Gems of final equipment wealth (display **878,286**). These are planning quantities, not physical fractions of Gems.
+
+**Approved purchasing-power aim:** A Hero at level **10/25/50/75** can aspire to *one* reference primary item one Quality higher at about **53%/58%/59%/61%** of their current reference equipment wealth, respectively. Quality effects, combat Power, legal equipment access, attributes and costs in SP/MP/Soul Strain do **not** change. The round primary-item price ladder applies to representative primary finished items, not every weapon/armor/shield shape and accessory automatically. Do not infer a full above-tier 11-slot loadout is affordable.
+
+**SUPERSEDED economic numbers:** November 12 equipment-wealth milestones `30/200/400/800/1600/3200` Gems, primary-item targets `60/120/240/480/960` Gems, the earlier `~6,714` lifetime Gems and all older 4,000-Gem wealth examples are **historical**, not the live price-reward calibration. Their nonprice mechanics and independent rulings remain intact. The earlier November 12 smoothed `R_smooth` proposal is **not automatically approved** as a separate rule; the new payout curve is already smooth in per-encounter units and reference milestones are budget checks, not mandatory lump sums.
+
+**STILL UNRESOLVED:** Repricing the remaining actual item catalogue (all eleven slots, weapon shapes, armor/shield categories, enchantments, potions and special utilities), testing one-Quality-up shopping with real packages, between-milestone cash-flow and replacement-saving schedule, the Boss Gem/XP mismatch and the high-level boss boundary, and Gem pricing for unique exceptional rewards or post-level-100 progression. Do not silently multiply every older shop price or treat historical tables as already repriced. No website, Battleboard, Combat Lab or other code/gameplay module updates are claimed.
+
+**Files changed:** `09_Equipment_and_Economy.md` (owning economy), `01_World_and_Shimmer.md` (Shimmer reward cross-reference), `00_Mystaria_Canon_Index.md` (latest precedence), `10_Canon_Changelog.md` (this approval).
+
+---
+
 ## November 20, 2026 — AUTHOR CORRECTION: Boss XP one level; encounter-equivalent quest rewards (LATEST)
 
 **APPROVED: Boss XP is now exactly ONE guaranteed level advancement**, measured at the Hero's level and existing XP progress when the Boss is overcome. With current Hero level `L` and progress `P` toward level `L+1` (`0 ≤ P < L×(L+1)`), award **`Boss XP = L×(L+1) − P`**. Hero becomes level `L+1` with zero progress toward `L+2`. Example: level-50 Hero at 500/2,550 progress earns 2,050 Boss XP and reaches level 51. This special Boss reward replaces, rather than adds to, normal enemy-level XP. The former exactly **TWO** guaranteed level-ups and additional `[(L+1)×(L+2)]` Boss XP are **SUPERSEDED**. All normal per-level XP requirements, non-Boss threat values, patron award qualification, stats and progression remain as approved.
