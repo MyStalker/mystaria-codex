@@ -248,7 +248,83 @@ The **Moonlit Forge independent +1…+5 reinforcement track is RETIRED**; archiv
 
 All other approved free Shimmer functions remain **free** (first six slots, basic mapping, clock, compass, tooltips, journal, patron network shrine-to-shrine travel). Premium functions retain their specific current limits, prerequisites and restrictions; these price changes do not add mechanics.
 
-## 11. Scope, preservation, and open issues
+## 11. Final priced-equipment completion pass: enchantments, advanced ranged designs and portable forge (November 20)
+
+**Author direction:** Complete remaining Gem price assignments for **already described, mechanically eligible finished equipment**. These are **price-only reference tariffs**. They do **not** approve unbuilt item effects, availability, any new Quality rank, extra enchantment slots, materials, recipes, firing/reload rules, MP use, or special-action mechanics. Use the physical form's actual existing rules. If an item's legitimate installation or crafting prerequisites are not met, a Gem price does not make that item usable or buyable.
+
+### A. Approved generic weapon enchantments: price for a legally completed installation
+
+The 36 generic weapon effects and shield Guardian in `36_Weapon_Enchantments.md` have approved named effects and legal slot requirements, while individual mana colors/MP bands and final simultaneous-slot arrangements can still need completion. For an **otherwise legally constructible and operative** finished weapon or shield, use the *actual unenchanted finished host price* `P` from the current ordinary/engineered/named-item tariff, and the number `s` of **actually permitted occupied enchantment slots** of the selected effect. A host is not granted slots merely by paying for them.
+
+```text
+Mixed installed effect: final finished item price = P × [1 + 0.15 × s].
+Full installed effect:  final finished item price = P × [1 + 0.20 × s].
+s = 1 ... 6, or exactly 3 for a named fixed-three-slot effect;
+the effect must actually permit that slot count.
+```
+
+The price **includes** the base finished physical host, qualifying installation and the appropriate *built-in* magical mechanism/Leywell in that mode where legitimately required. It **does not include free mana refills or automatically pay activation MP, XP, SP, Soul Strain or independent craft ingredients**. Mixed's lesser active effect is paired with its eligible continuous stat benefit; Full's stronger active effect does not receive a free stat bonus. The pricing is not a new rule for choosing different modes or combining unrelated runes. **Blank** stat-only enchantment pricing cannot be generated from a nonexistent occupied-effect slot count; actual Blank stat amounts and construction still follow their owning law.
+
+| Actually occupied legal effect slots | Mixed finished price | Full finished price |
+|---:|---:|---:|
+| 1 | 1.15 × physical host | 1.20 × physical host |
+| 2 | 1.30 × physical host | 1.40 × physical host |
+| 3 | 1.45 × physical host | 1.60 × physical host |
+| 4 | 1.60 × physical host | 1.80 × physical host |
+| 5 | 1.75 × physical host | 2.00 × physical host |
+| 6 | 1.90 × physical host | 2.20 × physical host |
+
+**Price examples:** an ordinary QI Light 80-Gem weapon with one slot is **92 Gems Mixed / 96 Gems Full**; an ordinary QIII Heavy 10,000-Gem weapon with one three-slot rune is **14,500 Mixed / 16,000 Full**; an ordinary QV Heavy 250,000-Gem weapon with six legal slots is **475,000 Mixed / 550,000 Full**. Where the price ends between whole Gems, settle in whole Glints; do not invent fractional Glints. The earlier rough "substantial enchantment ≈2×" guideline remains a **rough comparator** and is now implemented by this explicit eligible-slot tariff for these effects, not an extra multiplier stacked on top.
+
+**Unresolved mechanism boundary:** The existence of 36 approved effects does **not** by itself settle per-enchantment exact mana color/MP band, final six-slot installation combinations, the price of arbitrary custom new enchantments, or whether every named effect can currently be installed in every theoretical build. The tariff prices an eligible completed effect **conditionally**, not an automatic finished catalogue offering while those gates remain unresolved.
+
+### B. Lower-Quality advanced bow engineering floors (finished legal examples)
+
+The existing **Quality V** price and mechanical draw-cap/Power anchors remain **125,000 / 175,000 / 250,000 / 300,000** Gems for High-draw/Titan/Colossal/Legendary Greatbow. Intrinsic engineering must remain costly at lower Quality; simply dividing a QV price by an old universal Quality multiplier would wrongly make a STR400-capable frame trivial to purchase. For any lower-Quality variant *otherwise legally buildable* to the same approved engineered draw-cap design, set its complete unenchanted finished **pricing reference** to 60%/70%/80%/90%/100% of that design's QV rate at Quality I/II/III/IV/V:
+
+| Complete engineered bow | Quality I | Quality II | Quality III | Quality IV | Quality V |
+|---|---:|---:|---:|---:|---:|
+| High-draw (cap STR100) | **75,000** | **87,500** | **100,000** | **112,500** | **125,000** |
+| Titan (cap STR200) | **105,000** | **122,500** | **140,000** | **157,500** | **175,000** |
+| Colossal composite (cap STR300) | **150,000** | **175,000** | **200,000** | **225,000** | **250,000** |
+| Legendary Greatbow (cap STR400) | **180,000** | **210,000** | **240,000** | **270,000** | **300,000** |
+
+The percentages determine **Gem pricing only**: they do not change the design's draw cap, the user's real STR and DEX needs, the approved Quality handling relief, safe construction requirements, ordinary arrow compatibility, shot Power, range, or legal access to the named extraordinary bow. Any lower-Quality version still needs a legitimate construction path and sufficient equipment engineering. These prices **exclude** independently purchased rune/enchanted installations, which use section 11A only where the installation is legal.
+
+### C. Advanced crossbows and precision firearms: finished reference tariffs
+
+The four November 11 **author-approved advanced weapon profiles** in `27_Ranged_Weapon_Catalogue_DRAFT.md` already specify intrinsic Piercing Power, handling requirements, magazine/bolt capacity, reloads and recoil where applicable. Assign their **complete unenchanted Quality V reference prices** below, without adding mechanical damage or any new projectile effect:
+
+| Finished Quality V advanced design | Complete divine-Gem reference |
+|---|---:|
+| Advanced crossbow (17,000-Power existing Piercing profile) | **150,000 Gems** |
+| Advanced arbalest (26,000-Power existing Piercing profile) | **250,000 Gems** |
+| Light precision firearm (11,800-Power existing Piercing profile) | **125,000 Gems** |
+| Advanced precision rifle (15,000-Power existing Piercing profile) | **175,000 Gems** |
+
+These are **same approved designs at the named upper-Quality construction reference**, not a blanket automatic upgrade in firing Power from Quality. The weapon profile itself controls operation. Rarer material procurement, actual availability, and lower-Quality special-mechanism engineering prices remain separate. Existing in-shop Hand Crossbow + 12 bolts **160 Gems** is a distinct named basic item, not a 17,000-Power advanced crossbow.
+
+**Ordinary physical ammunition-only Gem Shop resupply** for the already described standard compatible projectile patterns:
+
+| Existing mundane-standard physical ammo | Ordinary Gem Shop resupply package |
+|---|---:|
+| Standard hand-crossbow bolts | **12 bolts / 20 Gems** |
+| Heavy compatible arbalest bolts | **12 bolts / 40 Gems** |
+| Standard nonmagical Piercing firearm cartridges | **12 cartridges / 60 Gems** |
+
+These are **only** generic physical nonmagical replacement supplies for otherwise legal hardware. Existing **40 ordinary bow arrows / 30 Gems** remains unchanged. This does **not** specify a new cartridge damage form, alternate powder, magazine/accessory capacity, auto-fire, armor-piercing specialty, exotic ammo rank or universal crossbow-bolt dimensions. Actual crossbow/arbalest bolt fit, matched heavy bolt requirements and firearm cartridge compatibility still apply. Reload turns/actions and ammo accounting are unchanged; cartridge boxes are **not a free extra magazine**. A separately manufactured empty magazine, specialty ammunition, standalone quiver and reloading apparatus remain outside the specified stock and must not receive imaginary benefits or prices.
+
+### D. Magical Portable Forge (existing approved forge substitute)
+
+A **Magical Portable Forge** with only the currently approved role of **substituting for an actual dedicated physical forge under the existing equipment-crafting clock** has a reference finished divine-shop price of **10,000 Gems**. This is a standalone specialized **utility-item price**, not a new Quality grade, bonus to craft speed, material creation ability, portable ammunition factory, universal enchantment station, extra smith rank or unlimited free energy. Existing craft eligibility, Anvilcant/other prerequisites, assistants, time requirements, real ingredients and physical support rules apply. The object's exact footprint, activation/fuel requirement, durability, supply/availability and any additional extraordinary functionality remain **UNRESOLVED**: price alone does not authorize using unsupported functionality, exempt the item from its actual operating costs or establish a magical forge available in every shop. See `07_Centaurs_and_Smithcraft.md`.
+
+### E. Items not yet truly priceable
+
+**Do not invent a price to hide missing item rules** for new bespoke spells/runes, Blank-stat enchantment recipes not specified by actual construction, individually unfinished firearm/advanced-bow Quality combinations beyond the above references, a separate quiver/magazine/cocking-tool manufacture, custom bolts/cartridges, exotic/explosive/magical ammunition, special constructs and their chassis, unapproved repair labor, specific Celestite divine labor, and magical consumables whose potency/Toxicity/targeting is not yet defined (including legacy Mana Dew, healing items, the contemplated Dispel Potion and alchemical Trufula extinguisher). Such goods remain **NO CURRENT GEM TARIFF**, not free and not silently in stock. Past cancelled/retired Moonlit Forge buffs and modular add-ons stay archival even where an appraisal exists.
+
+---
+
+## 12. Scope, preservation, and open issues
 
 1. **PRICE-ONLY conversion:** The old nominal equipment ladders `60/120/240/480/960`, QV 960 Heavy physical anchor, previous W10/25/50/75/100 `200/400/800/1600/3200`, prior potion `6/12/24/48/96`, shield tariff `15/30/60/120/240` Light and `30/60/120/240/480` Medium/Heavy, Loom tariff `120/280/550/900/1400`, starter-store amounts, Shimmer convenience tariffs and old approved bow reference numbers are **SUPERSEDED in the currently priced economy** by this catalogue. Do not multiply player attributes or equipment effectiveness along with Gems.
 2. **No invented prices for truly unspecified designs:** Unique enchantments, engineered variants lacking numeric construction costs, special cartridges and bolts, exceptional artifacts, Celestite divine access/forge labor, actual mundane money, repair labor, Nymbrin alchemy without published finished effects, and incomplete manufacturer recipes remain unresolved. They are **not** made free by an absent tariff.
