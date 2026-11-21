@@ -1,3 +1,17 @@
+## November 20, 2026 — AUTHOR APPROVED: Escalating monster Gems and comprehensive item repricing (CURRENT)
+
+**CURRENT OPERATIVE PRICE SOURCE:** [Gem Price Catalogue and Reward Calibration](37_Gem_Price_Catalogue.md). Explicit author approval supersedes **all contradictory older Gem prices and level-wealth targets** retained later in this long record as historical precedent (including former Nov12/13 “latest” labels). **The numbers change, not the power**: existing QI–QV equipment stats, Junk penalties, shield mechanics, material-neutral valuation, enchanted Soul Strain, character XP, patron qualifications, action economy, SP/MP, construction and crafting restrictions remain unchanged.
+
+**Rewards:** An eligible equal-level Henchman encounter for Hero level `L` pays `10L−3` Gems (level1 **7**, level10 **97**, level25 **247**, level50 **497**, level75 **747**, level100 **997**). Other qualifying ordinary encounters and quests use `(10L−3) × (encounter level / L) × (Horde .1 / Minion .4 / Henchman 1 / Elite 2)`, or a GM-assessed equivalent number of such encounters. These are **divine reward guidelines, not compulsory loot**. Use **integer Glints (100 = 1 Gem)** with carried sub-Glint accounting remainders. Bosses still guarantee **one level of XP** and, pending a separate decision, use the previously approved **two-level Gem budget** for `L+2 ≤ 100`.
+
+**Earned and held wealth:** With exact half-level XP equivalents, `G(L)=(10L−3)(L+1)/2` gross Gems for level L→L+1, `E(1)=30/.7`, `E(L)=E(1)+Σ[k=1..L−1]G(k)`; reference owned portfolio `W(L)=.7E(L)−R(L)` after eligible 50%-buyback replacement losses and a 30% consumables allowance. Approved reference **W1/10/25/50/75/100 ≈ 30 / 1,128 / 17,326 / 135,240 / 412,291 / 878,286 Gems**; level100 **lifetime gross ≈1,658,969 Gems**, planned consumables **≈497,691 Gems**, reference sale loss **≈282,993 Gems**. Smooth upcoming buyback-reserve accounting between milestones to avoid false payout spikes; exact formula in the catalogue.
+
+**Approved normal finished Heavy weapon / Full Heavy armor QI–QV: 200 / 600 / 10,000 / 80,000 / 250,000 Gems**. Matching Medium one-handed/full armor and Medium/Heavy shields cost half this; Light weapons/Full Light armor 40%; Light shields 25%; Standard/Partial armor 75%/50% of Full. **Junk is precisely half matching QI**: light/medium/heavy weapon and full armor **40 / 50 / 100**, light/medium-or-heavy shield **25 / 50 Gems**, with the complete accessory and coverage list in the catalogue. The above-tier reference primary prices remain **600 / 10,000 / 80,000 / 250,000 Gems** at Hero levels 10/25/50/75, consuming about **53/58/59/61%** of the matching wealth targets. Do not double-charge a primary label or equate a representative slot budget with a finished item's real price.
+
+**Repriced catalogue scope:** current shield and armor classes, eleven-slot planning bands, Junk category, approved tiered MP potions, existing named Moonlit Garden weapons/armor/utility stock and Shimmer upgrades, 40-arrow bundles, QV special bows, portable Command Looms and approved substantial-enchantment price relationship. Old "Mana Dew"/healing-vial offers and retired Forge/standalone modifications get clear *archival/appraisal-only* estimates; their unfinalized mechanics are not newly approved or advertised as live inventory. Actual unspecified custom rune/bolt/construct/special engineering recipes remain **UNPRICED**, not free.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: Offensive Power multipliers and structure Defense references (LATEST)
 
 **Approved ordinary offensive Power ladder** uses the neutral-implement foundation `(effective governing attribute² + IR²) × M`. For **base offensive Power MP investments** 0/1/2/4/8/12/20, corresponding **multipliers** are **×0.55/×1.00/×1.35/×1.70/×2.05/×2.25/×2.51**. 20 MP is the maximum unmodified base offensive investment, with independently payable area/duration etc. Implement Rating (QI–QV 26/30/35/40/48) remains independent additive squared equipment Power, with legal tuning applied to **only** that portion, not caster attribute Power. Older text saying the listed MP-to-Power chart or ordinary neutral offensive baseline is unapproved is SUPERSEDED; interpolated MP values, rounding and spell-specific exceptions still require care. Ten-minute rituals may channel **4× the caster's applicable full Channel Limit**, bounded by actual MP and legal spell components. This does not change implement price, Quality, slots, blank/mixed stat-grant legality, or Soul Strain.
@@ -12,11 +26,11 @@
 
 **Approved Toxicity treatment:** rename Heal Burn to **Toxicity** throughout current usage. Toxicity can accrue from healing, mana restoration and other explicitly eligible effects. Using **maximum usable MP after Soul Strain** as the denominator, drinking a mana potion grants Toxicity equal to **100% × actual MP restored / current usable maximum MP**, with excess potion restoration wasted once MP is full. Toxicity is cumulative. At **100%** a recipient has a total of **1 Toxicity wound**, at **150%** total **2 wounds**, at **200%** total **3**, then one more total wound every additional 50 percentage points. Wounds are **threshold-based totals**, not added again each time a potion is consumed while already above a threshold; effects and wounds caused by reaching thresholds cannot be healed until rest permits it. Exact rest-based Toxicity reduction and release from wound-healing lock are still OPEN. Keep the preexisting per-injury healing-Toxicity percentage benchmarks pending a full healing cost review.
 
-**Approved tiered mana-restoration potion proposal, now baseline for continued calibration:** One ordinary drink restores **Tier I (level ~10): 5 MP at 6 Gems; II (~25): 10 MP at 12 Gems; III (~50): 20 MP at 24 Gems; IV (~75): 40 MP at 48 Gems; V (~100): 80 MP at 96 Gems**. Effective potion restoration is capped at usable missing MP. The comparable **one-dose-per-day refillable** prices are **60 / 120 / 240 / 480 / 960 Gems**, respectively. At a given tier, each extra daily drink/charge on a refillable adds **50% of the tier's base refillable price**, repeatedly, with no numeric maximum count yet selected. Thus an item with N daily doses costs **base × [1 + 0.5 × (N−1)]**, before any as-yet-unapproved modifiers; each dose is a separate potion drinking/use opportunity. Replenishes **one use per daily charge**; additional purchased charges each also refill once per day. Refillable potion terminology, contents/vessel and interactions with rest or day boundaries remain to detail. The approximate 1:10 disposable-to-refillable price relationship and current economy references remain. Do not assume potions are manufactured or ubiquitous without crafting/availability rules.
+**Approved tiered mana-restoration potion proposal, now baseline for continued calibration:** One ordinary drink restores **Tier I (level ~10): 5 MP at 20 Gems; II (~25): 10 MP at 60 Gems; III (~50): 20 MP at 1,000 Gems; IV (~75): 40 MP at 8,000 Gems; V (~100): 80 MP at 25,000 Gems**. Effective potion restoration is capped at usable missing MP. The comparable **one-dose-per-day refillable** prices are **200 / 600 / 10,000 / 80,000 / 250,000 Gems**, respectively. At a given tier, each extra daily drink/charge on a refillable adds **50% of the tier's base refillable price**, repeatedly, with no numeric maximum count yet selected. Thus an item with N daily doses costs **base × [1 + 0.5 × (N−1)]**, before any as-yet-unapproved modifiers; each dose is a separate potion drinking/use opportunity. Replenishes **one use per daily charge**; additional purchased charges each also refill once per day. Refillable potion terminology, contents/vessel and interactions with rest or day boundaries remain to detail. The approximate 1:10 disposable-to-refillable price relationship and current economy references remain. Do not assume potions are manufactured or ubiquitous without crafting/availability rules.
 
 **Approved use and threat:** Drawing a potion costs **one action**; drinking costs **one action**; drawing during a grapple needs a **Technique check** (numerical check and outcomes TBD). Eligible enemy prepared attacks or grapples can interrupt access or destroy the potion via ordinary legal interaction; no free reaction or extra attacks. Mana potions restore actual MP without changing maximum MP. Toxicity is shared with healing and future expressly eligible buffs, making replenishment trade off against injury treatment.
 
-**Critical source-quality warning:** The old **'Consumables — Early Stock' Gem Shop inventory** in `09_Equipment_and_Economy.md` (including old **20-Gem Mana Dew** and healing vial offers) is **OUTDATED / NOT A CURRENT PRICING REFERENCE**. It must be comprehensively revised before used for offers, economic comparisons, or future consumable balancing. Preserve historical records but never treat that catalogue as authoritative current market pricing. The present tiered potion reference and latest 3,200-Gem level-100 equipment portfolio, 30%-of-lifetime-earnings consumable allocation take priority.
+**Critical source-quality warning:** The old **'Consumables — Early Stock' Gem Shop inventory** in `09_Equipment_and_Economy.md` (including old **20-Gem Mana Dew** and healing vial offers) is **OUTDATED / NOT A CURRENT PRICING REFERENCE**. It must be comprehensively revised before used for offers, economic comparisons, or future consumable balancing. Preserve historical records but never treat that catalogue as authoritative current market pricing. The present tiered potion reference and latest ≈878,286-Gem level-100 equipment portfolio, 30%-of-lifetime-earnings consumable allocation take priority.
 
 **OPEN:** Healing-potion potency/toxicity pricing integration; short-rest / long-rest Toxicity clearing and treatment of threshold wounds; mana potion sourcing, alchemical craft requirements, inventory and cost materials; potion usability by zero-natural-MP Warlocks; crafting of permanent daily-refill vessels; refill trigger timing and stacking; precise MP-to-Power conversion; updated skill-specific spell costs; marginal price/value effect of MP cost-modifying implements.
 
@@ -414,17 +428,17 @@ These bands establish **normal acquisition expectations** for adventure pacing, 
 
 ## November 13, 2026 — Approved shield material numbers and Reprise Bronze price (LATEST)
 
-See [Shield Profiles](29_Physical_Shield_Profiles.md). **Reprise Bronze:** Calculate one Rating at each Quality using `round_half_up(Boughsteel Medium shield Rating × Reprise Bronze Medium armor AR / Boughsteel Medium armor AR)` with all inputs at that Quality. Quality I–V Ratings are **19/33/53/81/112**, fixed across forms. Select a prepared **Light, Medium, or Heavy** form at the start of the wielder's turn without an action. The form lasts until their next turn and governs handling, Guard obstruction, and class-based attack options, including Heavy's Double Strike restriction. Quality and installed enchantments persist. The shield and worn armor switch independently. Standard Gem cost equals Medium at **30/60/120/240/480 Gems**. All-form forging remains unresolved, and support STR ×1.00 remains a conditional engineering reference. Balanced B and the ceramic magical Rating multipliers are approved for legal load-bearing ceramic shields. **Celestite shield** remains Quality V-only and triune-forged. Even one Celestite item is a campaign-changing artifact, and routine play is not intended to yield all three. Weapon Leydrain numbers remain unresolved.
+See [Shield Profiles](29_Physical_Shield_Profiles.md). **Reprise Bronze:** Calculate one Rating at each Quality using `round_half_up(Boughsteel Medium shield Rating × Reprise Bronze Medium armor AR / Boughsteel Medium armor AR)` with all inputs at that Quality. Quality I–V Ratings are **19/33/53/81/112**, fixed across forms. Select a prepared **Light, Medium, or Heavy** form at the start of the wielder's turn without an action. The form lasts until their next turn and governs handling, Guard obstruction, and class-based attack options, including Heavy's Double Strike restriction. Quality and installed enchantments persist. The shield and worn armor switch independently. Standard Gem cost equals current Medium shield at **100/300/5,000/40,000/125,000 Gems**. All-form forging remains unresolved, and support STR ×1.00 remains a conditional engineering reference. Balanced B and the ceramic magical Rating multipliers are approved for legal load-bearing ceramic shields. **Celestite shield** remains Quality V-only and triune-forged. Even one Celestite item is a campaign-changing artifact, and routine play is not intended to yield all three. Weapon Leydrain numbers remain unresolved.
 
 ---
 
 ## November 13, 2026 — Author-approved Junk / ceramic shield conditions and interim repair economy (LATEST)
 
-**Shields still use approved baseline prices/Quality:** QI–V Light **15/30/60/120/240 Gems**, Medium/Heavy **30/60/120/240/480**. Existing material-neutral standard Gem doctrine and approved ordinary shield Boughsteel Rating/requirements are unaltered.
+**Current November 20 pricing override:** QI–V Light shields **50/150/2,500/20,000/62,500 Gems**, Medium/Heavy **100/300/5,000/40,000/125,000**. Existing material-neutral standard Gem doctrine and approved ordinary shield Boughsteel Rating/requirements are unaltered.
 
 **Latest ceramic shield identity:** For legitimate load-bearing ceramic construction, an intercepted physical contact that would cause at least one ordinary shield loss (`P≥D`, `D=Rating²`) **immediately shatters the entire shield**. No Dented/Cracked ceramic progression; lower contacts cause no wear. Balanced B supplies the approved physical Rating and support STR factors. Breaking torso overflow remains `max(0,P−3D)`; actual ceramic armor has its own independent approved shatter procedure. Unapproved previous shield ceramic 0.75D/1.75D thresholds are superseded.
 
-**Latest Junk shield:** Junk remains QI Boughsteel and **half its matching ordinary QI price** (Light **7.5 Gems**, Medium/Heavy **15 Gems**), but has just **two usable conditions before Broken: Intact→Dented→Broken**. Keep normal functional protection when Dented. A Junk shield's **final physical Defense Power is reduced 10%** from matching ordinary QI shield `Rating²`: `D_Junk=0.90×D_normal`, NOT Rating×0.9 before the square. Standard shield contact Power brackets apply to this lower D, with loss capped by two and only-on-break torso overflow subtracting **remaining Junk capacity ×D_Junk**. A Junk shield does not automatically inherit a Junk weapon's accuracy debuff or Junk worn armor's body-hit debuff.
+**Latest Junk shield:** Junk remains QI Boughsteel and **half its matching ordinary QI price** under the November 20 repricing (Light **25 Gems**, Medium/Heavy **50 Gems**), but has just **two usable conditions before Broken: Intact→Dented→Broken**. Keep normal functional protection when Dented. A Junk shield's **final physical Defense Power is reduced 10%** from matching ordinary QI shield `Rating²`: `D_Junk=0.90×D_normal`, NOT Rating×0.9 before the square. Standard shield contact Power brackets apply to this lower D, with loss capped by two and only-on-break torso overflow subtracting **remaining Junk capacity ×D_Junk**. A Junk shield does not automatically inherit a Junk weapon's accuracy debuff or Junk worn armor's body-hit debuff.
 
 **Author-approved interim physical item repair baseline:** Only a smith who **can actually manufacture the given item's legal design** may repair a damaged repairable object. **Repair requires half its lawful full production time**, with applicable legitimate assistant/craft prerequisites; complete repair restores full usability. Already-approved base work-hours give normal ordinary weapon Light/Medium/Heavy repair **4/8/12h**, armor Light/Medium/Heavy repair **16/20/28h**. **Shield fabrication time is still pending**, so do not set a numeric repair work-hour figure for shields yet. **No ammunition is repairable except actual reusable throwing weapons.** The broader repair economy (labor/Gems, consumed materials, salvage, special procurement, irrecoverable destruction), including shield repair cost and detailed service rules, remains deferred to **mundane crafting and economy**.
 
@@ -452,13 +466,13 @@ See [Shield Profiles](29_Physical_Shield_Profiles.md). **Reprise Bronze:** Calcu
 
 | Quality | Light shield (half Medium) | Medium shield | Heavy shield |
 |---|---:|---:|---:|
-| I | **15 Gems** | **30 Gems** | **30 Gems** |
-| II | **30 Gems** | **60 Gems** | **60 Gems** |
-| III | **60 Gems** | **120 Gems** | **120 Gems** |
-| IV | **120 Gems** | **240 Gems** | **240 Gems** |
-| V | **240 Gems** | **480 Gems** | **480 Gems** |
+| I | **50 Gems** | **100 Gems** | **100 Gems** |
+| II | **150 Gems** | **300 Gems** | **300 Gems** |
+| III | **2,500 Gems** | **5,000 Gems** | **5,000 Gems** |
+| IV | **20,000 Gems** | **40,000 Gems** | **40,000 Gems** |
+| V | **62,500 Gems** | **125,000 Gems** | **125,000 Gems** |
 
-**Explicit supersession:** Prior author/assistant references and earlier in-file tables with **Light=1.5×Medium (45/90/180/360/720 Gems)** were a misunderstanding and are **SUPERSEDED** by this correction; their archived rows remain only to explain history, never for actual sale or affordability calculations. Earlier discussion describing Light as a premium, worse-performing shield is also superseded. Existing Light weapon and Full Light armor pricing (24/48/96/192/384) remains intact and **is not the Light shield tariff**. Medium/Heavy shield price equality is preserved; ordinary QV Medium one-hand480 + QV Medium-or-Heavy shield480 = 960, while the QV Medium one-hand480 + Light shield240 = 720. The older modeled 3,280-Gem Heavy-armor-plus-Light-shield loadout is obsolete: with Heavy armor960, Medium weapon480, Light shield240 and illustrative accessories1,120, new comparison **=2,800 Gems**, leaving **400 from W100=3,200**. These example accessories are still only budgeting assumptions, not independently approved magical shop prices.
+**Explicit supersession:** Prior author/assistant references and earlier in-file tables with **Light=1.5×Medium (45/90/180/360/720 Gems)** were a misunderstanding and are **SUPERSEDED** by this correction; their archived rows remain only to explain history, never for actual sale or affordability calculations. Earlier discussion describing Light as a premium, worse-performing shield is also superseded. **These current prices reflect the November 20, 2026 complete repricing; any following old 480-Gem examples are historical only.** Existing Light weapon and Full Light armor pricing (24/48/96/192/384) remains intact and **is not the Light shield tariff**. Medium/Heavy shield price equality is preserved; ordinary QV Medium one-hand480 + QV Medium-or-Heavy shield480 = 960, while the QV Medium one-hand480 + Light shield240 = 720. The older modeled 3,280-Gem Heavy-armor-plus-Light-shield loadout is obsolete: with Heavy armor960, Medium weapon480, Light shield240 and illustrative accessories1,120, new comparison **=2,800 Gems**, leaving **400 from W100=3,200**. These example accessories are still only budgeting assumptions, not independently approved magical shop prices.
 
 **Latest approved handling/action distinction:** **No shield of any class contributes an inherent SPD penalty**. Continue applying legitimate actual armor SPD reduction, Equipment Load Synergy, and existing single-largest equipment qualification shortfall penalty without inventing a new universal shield surcharge. **Light and Medium shields** may participate in normal qualifying weapon-plus-shield Double Strike; **Heavy shields cannot Double Strike at all**, but they CAN perform one normal **F1.05 STR Bludgeoning shield bash while keeping otherwise legal Guard/block**, with no separate Deflect stance. No mandatory proficiency/stat purchases or extra Quality multipliers are added. The full operative combat procedure is in `22_Combat_Endurance_and_Shimmer_Guard.md`.
 
@@ -2234,11 +2248,11 @@ The proposed reservoir consumes a rune slot, stores one color and costs about **
 
 ## Earlier Moonlit Garden shop catalogue and forge
 
-The following is source-derived shop and low-level equipment content from the November 1 compendium. **The offered Gem price tables below are converted ×10 into the current denomination**, without changing their physical or magical item effects. The separate **Moonlit Forge reinforcement +1…+5 steps** were explicitly **RETIRED** by later canon and are retained for historical reference only; those legacy step prices below are not currently available and therefore are intentionally not converted as active items.
+The following is source-derived shop and low-level equipment content from the November 1 compendium. **The live named weapons, armor, utility goods and Shimmer upgrades below have been individually revalued under the November 20, 2026 escalating-Gem catalogue**, without changing their physical or magical item effects. **Consumables remain historical and NOT LIVE** as explicitly flagged below. The separate **Moonlit Forge reinforcement +1…+5 steps** were explicitly **RETIRED** by later canon and are retained for historical reference only; those legacy step prices below are not currently available and therefore are intentionally not converted as active items.
 
 ## 31. Surrender's Gem Shop — The Moonlit Garden
 
-**Patron:** Surrender. **Currency:** Gems. **Early-level focus (new Gem denomination):** Levels 1–10, with extensive starter items priced 10–30 Gems and selected upgrades at a maximum of 250 Gems; prices here are the historical offers' nominal ×10 conversion, not a new mechanically stronger tier. **Theme:** Protection, healing, companionship, everyday usefulness, and conventional equipment trusted to responsible Heroes.
+**Patron:** Surrender. **Currency:** Gems. **Early-level focus (current Gem economy):** Levels 1–10, with individually repriced weapons, armor and utility goods (and longer-lived Shimmer upgrades up to 750 Gems). These prices replace the historical nominal ×10 conversions, **not** the underlying equipment power or effect. **Theme:** Protection, healing, companionship, everyday usefulness, and conventional equipment trusted to responsible Heroes.
 
 Surrender originally preferred to sell only healing charms, friendship accessories, robes, and defensive blessings. After Heroes complained about facing enormous hostile Starspawn unarmed, and Arrest pointed out that protective authority includes equipping others to defend themselves, Surrender added ordinary weapons, armor, and even lethal equipment. She prefers diplomacy and compassion but does not prohibit her Heroes from defending themselves. The list below preserves applicable stock while applying the later Shimmer rules: free map, clock, compass, and shrine fast travel are not sold as baseline unlocks.
 
@@ -2246,36 +2260,38 @@ Surrender originally preferred to sell only healing charms, friendship accessori
 
 | Weapon | Gems | Description |
 |---|---:|---|
-| Traveler's Cudgel | 10 | Light wooden club for defensive or nonlethal strikes |
-| Little Thorn Dagger | 10 | Compact steel knife for close combat |
-| Wanderer's Sling | 10 | Simple ranged weapon using ordinary stones |
-| Knotted Walking Staff | 10 | Balanced defensive and walking staff |
-| Hearthguard Spear | 20 | Dependable spear with good reach |
-| Gardener's Handaxe | 20 | Light axe useful in combat and woodcutting |
-| Traveler's Shortsword | 20 | Balanced steel blade with fitted scabbard |
-| Willow Shortbow | 20 | Light bow with twelve arrows |
-| Hand Crossbow | 30 | Compact crossbow with twelve bolts |
-| Guardian's Longsword | 30 | Durable, balanced longsword |
-| Pilgrim's Warhammer | 30 | Heavy strike weapon useful against armor |
-| Mercybrand | 30 | Enchanted dagger with switchable blunt-force setting |
+| Traveler's Cudgel | 80 | Light wooden club for defensive or nonlethal strikes |
+| Little Thorn Dagger | 80 | Compact steel knife for close combat |
+| Wanderer's Sling | 80 | Simple ranged weapon using ordinary stones |
+| Knotted Walking Staff | 100 | Balanced defensive and walking staff |
+| Hearthguard Spear | 200 | Dependable spear with good reach |
+| Gardener's Handaxe | 80 | Light axe useful in combat and woodcutting |
+| Traveler's Shortsword | 100 | Balanced steel blade with fitted scabbard |
+| Willow Shortbow | 120 | Light bow with twelve arrows |
+| Hand Crossbow | 160 | Compact crossbow with twelve bolts |
+| Guardian's Longsword | 100 | Durable, balanced longsword |
+| Pilgrim's Warhammer | 200 | Heavy strike weapon useful against armor |
+| Mercybrand | 160 | Enchanted dagger with switchable blunt-force setting |
 
 ### Armor — Early Stock
 
 | Armor | Gems | Description |
 |---|---:|---|
-| Padded Tunic | 10 | Basic protection from scratches and light strikes |
-| Traveler's Cloak | 10 | Rain-resistant with concealed pocket |
-| Softstep Boots | 10 | Quiet footwear with good traction |
-| Leather Bracers | 10 | Forearm protection |
-| Leather Vest | 20 | Light armor preserving mobility |
-| Willow Buckler | 20 | Small defensive shield |
-| Hearthguard Helm | 20 | Head protection with good visibility |
-| Wayfarer's Chain Shirt | 30 | Medium armor at some weight cost |
-| Guardian's Shield | 30 | Robust full-size shield |
-| Briarplate Harness | 30 | Light armor that resizes to fit |
-| Moonweave Robe | 30 | Cloth armor with minor magic resistance |
+| Padded Tunic | 80 | Basic protection from scratches and light strikes |
+| Traveler's Cloak | 40 | Rain-resistant with concealed pocket |
+| Softstep Boots | 40 | Quiet footwear with good traction |
+| Leather Bracers | 40 | Forearm protection |
+| Leather Vest | 80 | Light armor preserving mobility |
+| Willow Buckler | 50 | Small defensive shield |
+| Hearthguard Helm | 50 | Head protection with good visibility |
+| Wayfarer's Chain Shirt | 100 | Medium armor at some weight cost |
+| Guardian's Shield | 100 | Robust full-size shield |
+| Briarplate Harness | 120 | Light armor that resizes to fit |
+| Moonweave Robe | 160 | Cloth armor with minor magic resistance |
 
 ### Consumables — Early Stock (HISTORICAL / OUTDATED — DO NOT USE FOR CURRENT PRICES)
+
+> **November 20 escalating-Gem appraisal only:** old 10/20/30-Gem item/bundle groups can be valued at 30/60/90 Gems for historical budgeting, but are **NOT currently offered** without individual healing, Toxicity and actual-effect reconciliation. Mana Dew is not a synonym for the approved tiered MP potions. See [current catalog](37_Gem_Price_Catalogue.md).
 
 > **November 20, 2026 warning:** This inventory has not been repriced or reconciled with the approved tiered mana potions, Toxicity, and newer Gem economy. It is **not** a reliable current shop catalogue. Do not use its listed Mana Dew, healing vial, or other offers as authoritative prices until the full catalogue is rebuilt.
 
@@ -2300,44 +2316,44 @@ Surrender originally preferred to sell only healing charms, friendship accessori
 
 | Item | Gems | Description |
 |---|---:|---|
-| Everdry Matches | 10 | Reusable weatherproof firestarter |
-| Little Compass | 10 | Physical gift compass, redundant with free Shimmer compass |
-| Traveler's Journal | 10 | Automatically dates notes and preserves sketches |
-| Dewdrop Canteen | 10 | Purifies ordinary freshwater placed inside |
-| Mosslight Pebble | 10 | Eight hours of dim light |
-| Pocket Repair Kit | 10 | Mundane repair supplies |
-| Whisperleaf Token ×2 | 20 | Paired leaves send brief speech across one mile |
-| Gentle Translator | 20 | Communicates simple intent to nonspeaking Starspawn; not full Starsong translation |
-| Starlit Lantern | 20 | Refill-free adjustable magic lantern |
-| Starspawn Treat Pouch | 20 | Treats for earning trust, without compulsion |
-| Homeward Compass | 30 | Points to designated familiar safe location |
-| Friendship Ribbon | 30 | Warns of distress in willing nearby companion |
-| Waymark Chalk ×3 | 30 | Leaves temporary navigational waymarks; not teleportation points |
-| Pocket Campsite | 30 | Folding dry two-person shelter |
+| Everdry Matches | 30 | Reusable weatherproof firestarter |
+| Little Compass | 30 | Physical gift compass, redundant with free Shimmer compass |
+| Traveler's Journal | 30 | Automatically dates notes and preserves sketches |
+| Dewdrop Canteen | 30 | Purifies ordinary freshwater placed inside |
+| Mosslight Pebble | 30 | Eight hours of dim light |
+| Pocket Repair Kit | 30 | Mundane repair supplies |
+| Whisperleaf Token ×2 | 60 | Paired leaves send brief speech across one mile |
+| Gentle Translator | 60 | Communicates simple intent to nonspeaking Starspawn; not full Starsong translation |
+| Starlit Lantern | 60 | Refill-free adjustable magic lantern |
+| Starspawn Treat Pouch | 60 | Treats for earning trust, without compulsion |
+| Homeward Compass | 90 | Points to designated familiar safe location |
+| Friendship Ribbon | 90 | Warns of distress in willing nearby companion |
+| Waymark Chalk ×3 | 90 | Leaves temporary navigational waymarks; not teleportation points |
+| Pocket Campsite | 90 | Folding dry two-person shelter |
 
 ### Shimmer Convenience Upgrades
 
 | Upgrade | Gems | Effect |
 |---|---:|---|
-| Pocket Inventory I | 20 | +4 slots |
-| Item Appraisal I | 2 | More detail about commonly encountered objects; basic tooltips remain free |
-| Quick Equip I | 20 | Two equipment-swap presets outside combat |
-| Party Display I | 20 | Tracks conditions of willing party members |
-| Cartographer's Eye | 30 | Enhanced terrain detail |
-| Trailkeeper | 30 | Tracks previously traveled safe routes |
-| Quest Reminder I | 10 | Enhanced alerts and objective notifications; basic journal remains free |
-| Dialogue Notes I | 20 | Tracks names and important consensual conversation details |
-| Item Sorting I | 1 | Inventory categorization |
-| Pocket Inventory II | 60 | +8 additional slots |
-| Route Planner | 50 | Estimates paths through explored territory |
-| Shared Cartography | 80 | Voluntary map sharing |
-| Traveling Armory | 80 | Three dedicated quick-access weapon slots |
-| Party Link | 90 | Share map and condition information with up to four willing allies |
-| Traveler's Inventory | 100 | +12 slots |
-| Shrinebound Company | 120 | Group shrine travel for consenting companions using patron network |
-| Guardian's Embrace | 160 | Once daily, limited survivability blessing against an incapacitating strike |
-| Evergreen Satchel | 180 | +20 slots and enlarged permitted item size |
-| Hearthstone Recall | 250 | Once daily return to registered patron shrine after uninterrupted five-second channel; blocked by certain restraints or seals |
+| Pocket Inventory I | 60 | +4 slots |
+| Item Appraisal I | 10 | More detail about commonly encountered objects; basic tooltips remain free |
+| Quick Equip I | 60 | Two equipment-swap presets outside combat |
+| Party Display I | 60 | Tracks conditions of willing party members |
+| Cartographer's Eye | 90 | Enhanced terrain detail |
+| Trailkeeper | 90 | Tracks previously traveled safe routes |
+| Quest Reminder I | 30 | Enhanced alerts and objective notifications; basic journal remains free |
+| Dialogue Notes I | 60 | Tracks names and important consensual conversation details |
+| Item Sorting I | 5 | Inventory categorization |
+| Pocket Inventory II | 180 | +8 additional slots |
+| Route Planner | 150 | Estimates paths through explored territory |
+| Shared Cartography | 240 | Voluntary map sharing |
+| Traveling Armory | 240 | Three dedicated quick-access weapon slots |
+| Party Link | 270 | Share map and condition information with up to four willing allies |
+| Traveler's Inventory | 300 | +12 slots |
+| Shrinebound Company | 360 | Group shrine travel for consenting companions using patron network |
+| Guardian's Embrace | 480 | Once daily, limited survivability blessing against an incapacitating strike |
+| Evergreen Satchel | 540 | +20 slots and enlarged permitted item size |
+| Hearthstone Recall | 750 | Once daily return to registered patron shrine after uninterrupted five-second channel; blocked by certain restraints or seals |
 
 Hearthstone Recall remains an exceptional paid upgrade because it permits travel **to a registered shrine from elsewhere**, subject to restrictions; it is not unrestricted teleportation among arbitrary waymarks.
 
