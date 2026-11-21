@@ -1,3 +1,9 @@
+## November 21, 2026 — AUTHOR CORRECTION: Reshaping uses the ordinary magical attack MP/Power ladder
+
+**Approved:** Meaningful Reshaping scales base Power through ordinary magical attack MP investment (approved 1/2/4/8/12/20 MP multipliers 1/1.35/1.70/2.05/2.25/2.51) with normal base-Power cap and separately payable modifiers. No separate Reshaping Power cost ledger. A Rank 0 alchemist can create stone spikes for lawful physical offensive attacks and grasping structures for lawful grapple attempts, without obtaining a free additional attack or bypassing ordinary contact, target defense, grapple contests, matter, Hex or casting constraints. Sustained Articulation/animation is not thereby unlocked. Trivial party tricks remain the narrow no-individually-tracked-Hex exception. **Rank I–V candidate abilities discussed subsequently are proposals only, not approved or installed.** Exact reshaped-form physical collision and grapple force mapping still needs calibration.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Reshaping begins at Rank 0, scales by Magnitude and requires paid meaningful castings
 
 **Rank 0 Fundamental Transmutation:** Every eligible Nymbrin alchemist, before purchased Reshaping skills, may **Mold, Join/Separate, and Displace eligible nonliving matter**, subject to existing circle, physical stability, material resistance, matter conservation/constituents, knowledge and spell requirements. **NO small-mass ceiling from Rank 0 itself:** pay appropriate lawful Magnitude for larger-area basic shaping, and invest legal base Power or ritual capacity as required without buying a higher Reshaping rank merely to expand ordinary quantity. Later Reshaping ranks should unlock **new types of capabilities**, not permission for normal Magnitude progression.
