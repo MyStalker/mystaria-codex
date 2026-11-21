@@ -1,3 +1,9 @@
+## November 21, 2026 — ENVIRONMENTAL RESTRAINT AREA MAGNITUDE COST APPROVED
+
+**Approved:** Spells binding creatures physically through area terrain manipulation (e.g., Nymbrin re-solidified stone or Wakecraft ice) pay **double normal area Magnitude MP**, preserving **Magnitude 0 single target at 1 MP**. **0/I/II/III/IV/V environmental restraint = 1/4/8/20/60/120 MP**, versus ordinary **1/2/4/10/30/60 MP**. No Power penalty: opposed physical/Technique escape instead of status buildup; actual material, anchor, action, casting requirements and durability govern. Existing Pyromancy natural-area exception unchanged. Detailed opposed-stat mapping, initial defense timing and escape-action particulars remain OPEN. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — TRANS MOGRIFIED STATUS AND HELPLESS PUDDLES (LATEST AUTHOR CORRECTION)
 
 **Reshaping III + Vital Transmutation living state shift:** A **pure Transmogrified status attack with 2× ordinary eligible spell Power as buildup**, **not** a 2× MP-cost spell. Earlier living-target surcharge is SUPERSEDED. Do not double this again via general State Mastery state-change Power into 4×. **1× applicable SR -> 1 Pressure Point; 4× -> full liquid/gas, helpless and out of combat** while anchored effect lasts. Other characters can bottle or carry separated portions of a helpless liquid victim. At reformation, eligible pieces have only **six seconds** of attraction based on the original spell's finite Power; separated/contained pieces that do not rejoin remain missing. **Loss of ~5% of a transformed creature's original matter causes a wound on reformation**, without allowing precise anatomical targeting (cannot simply 'remove an arm'). Larger losses can cause further wounds or failed reformation, exact scaling OPEN. See [Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) and [Changelog](10_Canon_Changelog.md).
