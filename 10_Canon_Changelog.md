@@ -1,3 +1,13 @@
+## November 21, 2026 — AUTHOR CORRECTION: Transmogrified uses 2× Power buildup, not 2× MP; helpless puddle and 5% lost mass
+
+**Supersedes the immediately earlier Rank III living-target `2× spell-equivalent MP` surcharge.** A legal Reshaping III + Vital Transmutation living state-change is a **pure status attack** applying **2× eligible ordinary spell Power as Transmogrified buildup**, with **no extra twofold mana cost**. Do not double the state effect a second time to invent 4× status Power. Existing thresholds **1× SR = one PP; 4× SR = immediately incapacitated/liquid or gas** remain. Casting costs, anchoring, defenses, actual target contact and Hex still apply.
+
+**Helpless transformation and permanent physical loss:** Once fully transformed into a puddle/gas the target is helpless; opponents can divide, bottle and physically carry transformed portions. On loss of supporting magic, separated eligible portions attract together for only **six seconds** and only with force allowed by the spell's actual Power; blocked/unrejoined pieces leave actual permanent deficits. **About 5% of the original transformed creature's material missing on reformation is enough for one wound.** This is not permission to target an arm or vital organ: removed material is an undifferentiated portion. Larger loss may cause further wounds or irrecoverable reformation failure, with no approved additional percentages or automatic injury ladder. Burned/chemically transformed pieces do not rejoin. Original 2×-MP rule is SUPERSEDED; all other Reshaping ranks remain.
+
+**Files:** `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`; future industrial accounting still deferred.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Reshaping I Tempering, II Articulation and State Mastery reformation
 
 **Complete rank progression:** **0 Fundamental Transmutation**, **I Tempering** (anchored supernatural hardening/softening; ½ spell Power structural Defense rider remains proposed for testing), **II Articulation** (sustained caster-directed motion of reshaped matter, not independent Autonomy), **III State Mastery**, **IV Magnify/Minimize**, **V Philosopher**. User explicitly approves original Rank I/II concepts; former Rank I/II unselected status superseded.
