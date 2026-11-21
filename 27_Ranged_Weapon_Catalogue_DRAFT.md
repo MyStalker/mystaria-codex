@@ -1,3 +1,9 @@
+## November 20, 2026 — Current priced bow references and ordinary arrows (AUTHOR APPROVED)
+
+**Latest operative divine-Gem prices**, per [current Gem catalogue](37_Gem_Price_Catalogue.md): **40 ordinary Slashing/Piercing arrows = 30 Gems**, excluding the quiver. Named Moonlit Garden **Willow Shortbow plus twelve arrows = 120 Gems**; **Hand Crossbow plus twelve bolts = 160 Gems** (this does not create a generic separately priced bolt bundle). Completed **Quality V High-draw/Titan/Colossal/Legendary greatbow = 125,000 / 175,000 / 250,000 / 300,000 Gems**, before actually purchased enchantments. Greatbow's 300,000 is a **20% premium** to the ordinary 250,000-Gem Quality V Heavy two-handed reference. **No QI–QIV special bow engineering prices have been finalized**; high-force design requires its own Quality-independent floor. Keep original draw caps, strength/handling, attack Power, range, arrow rules, ability prerequisites and availability restrictions. Prior 10-Gem bundle, 20-Gem starter bow and 150/450/950/1750 older bow prices are **historical/superseded** even where old sections below used the term "approved working."
+
+---
+
 ## November 18, 2026 — Quick draw-and-throw exception (APPROVED)
 
 A combatant with a free hand, or able to free one (for example by taking one hand off a currently held two-handed weapon), may **draw and throw one ready throwing weapon from an accessible bandolier/quiver as ONE combat action**. This author-approved exception combines retrieval with the lawful attack, not a second offensive action. It obeys the approved **one offensive attack action per turn** maximum, actual throw eligibility and attack accuracy/handling rules. It does NOT confer instant loading of bows, crossbows or firearms, unlimited ready throws, or additional attacks. Otherwise, ordinary item-taking/environment interactions are **one action**, and drawing or sheathing up to **two weapons** can be one action. See [Combat and Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Equipment and Economy](09_Equipment_and_Economy.md).
@@ -38,7 +44,7 @@ The author approved **75% of the applicable single-target throw Power per target
 
 ## November 12, 2026 — Tenfold Gem denomination for arrows; new bow price candidates pending approval (LATEST ECONOMIC SCALE)
 
-**Currency-only change from the author's approved denomination:** One ordinary **40-arrow** Piercing/Slashing-mix Gem Shop bundle is now **10 whole Gems**, rather than the historical 1-Gem figure. Same 40 arrows, same 20-arrow quiver carrying capacity, no included quiver, physical recovery, unchanged heads and no new arrow sizes/force tiers. The early **Willow Shortbow with 12 arrows** is now **20 Gems** in the converted starter shop, not 2 historical Gems. Every already-approved projectile mechanism or magical cost is unchanged in function by the nominal repricing.
+**Currency-only change from the author's approved denomination:** One ordinary **40-arrow** Piercing/Slashing-mix Gem Shop bundle is now **30 whole Gems**, rather than the historical 1-Gem figure. Same 40 arrows, same 20-arrow quiver carrying capacity, no included quiver, physical recovery, unchanged heads and no new arrow sizes/force tiers. The early **Willow Shortbow with 12 arrows** is now **120 Gems** in the converted starter shop, not 2 historical Gems. Every already-approved projectile mechanism or magical cost is unchanged in function by the nominal repricing.
 
 **New economic model:** The author chose a ×10 scaling of the 320-Gem proposed level-100 budget to **W100=3,200 Gems**, ordinary 30%-primary item investment **960 Gems**, preserving about 30% lifetime Gem earnings for consumables and nominal 50% qualifying shop buyback. See `09_Equipment_and_Economy.md`. Original 4,000-Gem wealth and QV bow 150/450/950/1750 price model are **UNDER REVISION**, not valid new-currency finished-bow sale targets.
 
@@ -72,17 +78,17 @@ The author approved **75% of the applicable single-target throw Power per target
 | Feature | Author-approved working rule |
 |---|---|
 | **Standard quiver** | Holds **20 ordinary arrows** total, of either approved head form in any mix |
-| **Gem Shop replacement arrows** | **40 ordinary arrows for 10 Gems** as one bundle, without an additional quiver (nominal ×10 new currency) |
+| **Gem Shop replacement arrows** | **40 ordinary arrows for 30 Gems** as one bundle, without an additional quiver (nominal ×10 new currency) |
 | **Price difference between heads** | **None** for ordinary Slashing versus Piercing; a 40-arrow purchase may mix types in any quantities totaling 40 |
 | **Shot accounting** | **Remove 1 arrow from carried ready ammunition for each shot**; do not assume arrow is destroyed merely because fired |
 | **Post-combat recovery** | Retrieve physically **accessible, intact arrows** after combat where actual circumstances allow. The GM judges accessibility and breakage by actual impact/terrain; **no compulsory percentage roll or individual durability counter** |
 | **Quiver sale/market price** | **UNRESOLVED**: ordinary quiver is mundane equipment, separate from the 40-arrow Gem Shop bundle, with local mundane-market price handled by later economy design |
 
-A missed arrow embedded in soft ground could be recoverable; one broken against exceptional armor may not. **There is no universal guaranteed recovery fraction** or free replenishment. The established early Moonlit Garden **Willow Shortbow (20 Gems including 12 arrows, new denomination)** remains unchanged; twelve fit in a standard 20-arrow quiver, but no extra quiver is invented into its historical stock description.
+A missed arrow embedded in soft ground could be recoverable; one broken against exceptional armor may not. **There is no universal guaranteed recovery fraction** or free replenishment. The established early Moonlit Garden **Willow Shortbow (120 Gems including 12 arrows, latest denomination)** remains unchanged; twelve fit in a standard 20-arrow quiver, but no extra quiver is invented into its historical stock description.
 
 **Scope:** Only ordinary traditional bows' Piercing/Slashing arrows receive this universal bundle and quiver treatment. Crossbow bolts, heavy bolts, firearm cartridges and extraordinary ammunition require independent equipment compatibility and pricing design; they do not automatically cost 1 Gem/40 or share an arrow quiver. Ordinary arrows can also circulate as mundane goods; **no Gem-to-mundane-currency exchange rate or local silver/coin tariff is approved** by this divine Gem Shop price. No arrow mass/encumbrance figure, quiver sales price, additional quiver capacity upgrade, fletcher crafting test, special ammunition, magic effect, or universal salvage rule is introduced.
 
-**Author-directed NEXT PRIORITY:** Freeze **additional ammo economics** until finished armor pricing is anchored, beginning with prices for Adamantite Light/Medium/Heavy across Qualities I–V and their distinction from the **14/30/50/70/90 Gem general Quality reference benchmarks**. Re-evaluate provisional weapon and ammo prices as the material/equipment/enchantment portfolio becomes consistent. The approved new **40 arrows / 10 Gems** rule remains on record as a working price, not an invitation to extrapolate prices for other ammo.
+**Author-directed NEXT PRIORITY:** Freeze **additional ammo economics** until finished armor pricing is anchored, beginning with prices for Adamantite Light/Medium/Heavy across Qualities I–V and their distinction from the **14/30/50/70/90 Gem general Quality reference benchmarks**. Re-evaluate provisional weapon and ammo prices as the material/equipment/enchantment portfolio becomes consistent. The approved new **40 arrows / 30 Gems** rule is the current working price, not an invitation to extrapolate prices for other ammo.
 
 ---
 
@@ -118,14 +124,14 @@ Apply the **already approved physical Quality workmanship requirement factors** 
 
 | Working bow | Quality V finished weapon price target |
 |---|---:|
-| High-draw | **150 Gems** |
-| Titan | **450 Gems** |
-| Colossal composite | **950 Gems** |
-| Legendary greatbow | **1,750 Gems** |
+| High-draw | **125,000 Gems** |
+| Titan | **175,000 Gems** |
+| Colossal composite | **250,000 Gems** |
+| Legendary greatbow | **300,000 Gems** |
 
-These are **approved provisional planning targets for comparable typical finished Quality V examples**, not universal prices for all custom recipes, enchantment configurations, regional shops or availability situations. The older 90-Gem Quality V base benchmark remains intact as a baseline Quality value, **not a finished weapon price cap**. At the established level-100 typical 4,000-Gem full equipment portfolio, a 1,750-Gem Greatbow is **43.75%** of the planning budget: a meaningful specialization tradeoff, not an equipment-use level gate. Market access direction: High-draw is a relatively obtainable specialist product; Titan needs advanced engineering; Colossal and especially Greatbow commonly require rarer expert commissions. No hard rarity roll, universal seller, level requirement, production time, exact component/material cost, repair fee, or automatic enchantment inclusion is approved.
+These are **approved provisional planning targets for comparable typical finished Quality V examples**, not universal prices for all custom recipes, enchantment configurations, regional shops or availability situations. The older 90-Gem Quality V base benchmark remains intact as a baseline Quality value, **not a finished weapon price cap**. At the revised level-100 approximate 878,286-Gem equipment portfolio, a 300,000-Gem Greatbow is **34.2%** of the reference budget: a meaningful specialization tradeoff, not an equipment-use level gate. Market access direction: High-draw is a relatively obtainable specialist product; Titan needs advanced engineering; Colossal and especially Greatbow commonly require rarer expert commissions. No hard rarity roll, universal seller, level requirement, production time, exact component/material cost, repair fee, or automatic enchantment inclusion is approved.
 
-**Mandatory future price checkpoint (explicit author instruction):** **Revisit the entire legendary bow price ladder after enchantment economics, complete equipment loadouts and representative Hero spending portfolios are better understood**. Include the opportunity cost of armor, runes, other weapons, sight attachments, consumables and any material rarity. Treat 150/450/950/1,750 as **current working canon** until explicit revision, not permanent market law or permission to price full enchantments for free.
+**Mandatory future price checkpoint (explicit author instruction):** **Revisit the entire legendary bow price ladder after enchantment economics, complete equipment loadouts and representative Hero spending portfolios are better understood**. Include the opportunity cost of armor, runes, other weapons, sight attachments, consumables and any material rarity. Treat 125,000/175,000/250,000/300,000 as **current working canon** after the author's November 20 explicit revision, not permanent market law or permission to price full enchantments for free.
 
 ### Comparative checks and remaining work
 
