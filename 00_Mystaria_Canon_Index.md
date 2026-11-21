@@ -1,3 +1,9 @@
+## November 21, 2026 — NYMBRIN TRANSMUTATION PERSISTENCE: PHYSICAL STABILITY (LATEST)
+
+**Author approved:** A lawful Nymbrin transmutation whose **finished physical result is independently stable** persists without an ongoing spell, separate stabilization procedure or intact casting circle. An **unstable configuration** instead needs a functioning **anchoring circle** to remain altered; losing that support brings physical reversion/settling subject to actual matter, obstacles and finite force, never a rewind of history. This does not grant free material, engineering knowledge, equipment Quality, bypassed smithing prerequisites or Hex-free work. Warlock Blue Morph's distinct temporary/reversion rules remain untouched. Exact circle size, connections, damage/maintenance, mana/Hex rates and technique progression remain OPEN. See [Nymbrin Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) and [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — FLAT MAGICAL WOUND-HEALING TOXICITY (LATEST)
 
 **Approved:** Magically healing **any wound** adds **+20 percentage points of cumulative Toxicity per wound actually healed**, including Shimmer Guard wounds, with no severity-based discount or surcharge. The old superficial/ordinary/Shimmer Guard tiered healing Toxicity schedule is **SUPERSEDED**. Other Toxicity sources (including mana potions), threshold wounds, and currently unresolved rest/healing-potion details remain unchanged. See [Combat Endurance and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md).
