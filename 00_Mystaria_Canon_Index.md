@@ -1,3 +1,13 @@
+## November 20, 2026 — FINAL FINISHED-ITEM PRICE COMPLETION (LATEST)
+
+**Author-directed finishing pass:** The current [Gem Price Catalogue](37_Gem_Price_Catalogue.md) now also prices **all 36 existing generic weapon enchantments and Guardian shield effect conditionally on a legal completed installation**: for unenchanted host Gem price `P` and genuinely eligible occupied effect slots `s`, **Mixed final `P(1+0.15s)`**, **Full final `P(1+0.20s)`**. This implements approximately twice-host pricing for substantial enchantment without making new rune effects, mana/slot legality, MP bands, stats or crafting permissions. See [36_Weapon_Enchantments.md](36_Weapon_Enchantments.md).
+
+**Additional finished equipment tariffs:** Previously unpriced **Quality I–IV** high-engineering High-draw/Titan/Colossal/Greatbow reference bows now cost **60/70/80/90% of their current established Quality-V** family rate (100% at QV). Quality-V **Advanced Crossbow 150,000**, **Advanced Arbalest 250,000**, **Light Precision Firearm 125,000**, **Advanced Precision Rifle 175,000 Gems**. Ordinary compatible replacement **12 standard crossbow bolts 20 Gems; 12 heavy arbalest bolts 40; 12 plain firearm cartridges 60**; generic arrows remain **40/30 Gems**. No new ranges, Power, magazine capacity or specialty ammunition. See [27_Ranged_Weapon_Catalogue_DRAFT.md](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
+**Magical Portable Forge:** **10,000 Gems**, for its already-approved substitution for a dedicated physical forge, **not** additional crafting powers, missing fuel, ingredients or spell exceptions. See [07_Centaurs_and_Smithcraft.md](07_Centaurs_and_Smithcraft.md). **Unpriced concepts remain clearly separate** where potency, construction or legality is not established: bespoke enchants, Blank-stat recipes, new alchemical/status potions, exotic ammo, constructs and custom manufacturing. Existing Gem payouts `B(L)=10L−3`, reference wealth and item effectiveness are unchanged. Full owner's notes: [Equipment and Economy](09_Equipment_and_Economy.md), [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 20, 2026 — ESCALATING GEMS AND COMPLETE ITEM REPRICING (LATEST AUTHOR APPROVAL)
 
 **AUTHOR APPROVED ECONOMIC REBASE; new current price catalogue:** [37 — Gem Price Catalogue and Encounter Reward Calibration](37_Gem_Price_Catalogue.md). This **supersedes all incompatible older Gem numbers**, including the former wealth milestones `200/400/800/1600/3200`, ordinary Heavy finished QI–V `60/120/240/480/960`, historic Gem Shop prices and the outdated 6/12/24/48/96 mana-potion schedule. The item's **physical/magical power, stats, equipment Quality, prerequisites, effect, Soul Strain, MP, SP, crafting and material restrictions do not change**.
