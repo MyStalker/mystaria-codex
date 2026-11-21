@@ -1,3 +1,17 @@
+## November 21, 2026 — AUTHOR APPROVAL: Reshaping I Tempering, II Articulation and State Mastery reformation
+
+**Complete rank progression:** **0 Fundamental Transmutation**, **I Tempering** (anchored supernatural hardening/softening; ½ spell Power structural Defense rider remains proposed for testing), **II Articulation** (sustained caster-directed motion of reshaped matter, not independent Autonomy), **III State Mastery**, **IV Magnify/Minimize**, **V Philosopher**. User explicitly approves original Rank I/II concepts; former Rank I/II unselected status superseded.
+
+**State-shift reformation:** Once a temporary Rank III changed-state anchor stops supporting its effect, **remaining eligible separated pieces attract together with finite force based on the original spell's applicable Power for no more than SIX SECONDS**; afterward the resulting form/completeness is permanent without magical continued attraction. A master's tiny stone droplet might penetrate a building where a novice's would be stopped. Genuine chemical conversion or burning away means the lost/altered material is **not** drawn back. Minor missing material leaves real missing pieces; major shortages can injure the original object/creature or defeat reformation. Controlled removal of shifted portions may enable efficient industrial processing, without granting free missing matter or approved factory output numbers. Applies equally to **living beings** lawfully state-shifted using Vital Transmutation.
+
+**Drinking stone turned into water:** On loss of the anchor, drinker faces an **Opposed Check, Endurance resisting the reformation spell's Power**; failure **Stuns for ONE ROUND** as eligible stone attempts to leave the body. The check uses the general relative-statistic Naked-d20 ladder; exact physical wound outcome is not yet specified and no automatic unavoidable kill is granted.
+
+**Advanced living State Mastery:** Human/creature-to-liquid/gas application requires separate learned **Vital Transmutation**, costs **2× the otherwise comparable spell-equivalent MP**, and causes **Transmogrified buildup**: **1× SR one Pressure Point; reaching 4× SR immediately removes target from combat** during its legally supported transformation, with existing status threshold/resistance still mandatory. No free first-hit removal unless buildup legitimately reaches 4×. Exactly which spell components are doubled and detailed anatomical damage/casting timing remain open. Previous author limit of **×2 state-conversion Power only** remains; it does not double later reformation impacts.
+
+**Owner:** `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`. Index updated. Industrial economics remain deferred. No balance simulations performed.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: State Mastery power scope, volume/mass size steps, Philosopher mass change
 
 **Reshaping III, State Mastery:** The **×2 Power** applies to the actual *state-changing effect*, including eligible target resistance, **not** unrelated consequential damage or all physical follow-on effects. Do not double a liquid surge, collision or ordinary attack merely because the initial state conversion succeeded.
