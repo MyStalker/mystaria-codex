@@ -1,3 +1,22 @@
+## November 21, 2026 — Environmental restraint area Magnitude surcharge (AUTHOR APPROVED)
+
+**Area environmental binding:** A spell that physically restrains creatures through manipulated environmental matter (such as State Mastery returning liquefied stone to solid form around feet, or Wakecraft freezing actual water around feet) pays **twice the ordinary universal Magnitude MP price** when purchasing an **area** effect. The **single-target Magnitude 0 remains 1 MP**, not doubled.
+
+| Magnitude | Coverage | Ordinary Magnitude MP | Environmental restraint Magnitude MP |
+|---|---|---:|---:|
+| 0 | Single target | 1 | **1** |
+| I | Adjacent targets | 2 | **4** |
+| II | 20-foot burst | 4 | **8** |
+| III | 100-foot burst | 10 | **20** |
+| IV | 1,000-foot burst | 30 | **60** |
+| V | 2-mile burst | 60 | **120** |
+
+This is a **Magnitude-price surcharge only**, not a penalty to spell Power. Binding uses eligible full spell Power and physical restraint/appropriate **opposed Technique checks**, **not elemental/status buildup** just because someone's feet are caught in stone or ice. An affected creature may seek escape with applicable physical techniques or by breaking, melting, reshaping or otherwise overcoming the actual material, respecting ordinary action economy and resistance. The physical restraint's persistence depends on the actual material and existing stable/anchored transformation rules, not an invented status duration. Normal spell Power investment, legal Rank/medium/material access, action timing, Channel Limit, duration/anchors, physical resistance and other costs remain separate. In particular, **Pyromancy's approved natural-area/containment exception is unchanged**; the ordinary Magnitude comparison is not a claim that a Pyromancer's naturally expanded Fireball must pay that normal area price.
+
+**Unresolved implementation:** exact opposing statistics and conversion between spell Power and an escape Technique statistic, whether initial defense is free or consumes a reaction, escape-action particulars and binding geometry/severity. No blanket 50%/75% Power penalty, automatic incapacitation, free AoE entrapment or new numerical Technique formula was approved.
+
+---
+
 ## November 21, 2026 — Universal opposed checks and critical failures (LATEST AUTHOR APPROVAL)
 
 **Universal Opposed Check:** When one character actively challenges another character's applicable ability, use the existing **Naked-d20 six-difficulty-category resolution** and the same **defender/attacker relative-statistic ratio ladder** used in the current physical Combat Speed accuracy/evasion pilot. For a particular contest, identify the **initiator/attacker** and **holder/defender**, identify the specific eligible opposing statistics, and calculate `R = defender_stat / attacker_stat` when both are positive. Determine the initiator's category by the author-approved pilot cutoffs: `R < 0.20` **Certain**; `0.20 <= R < 0.80` **Easy (4+)**; `0.80 <= R < 1.25` **Average (8+)**; `1.25 <= R < 2.50` **Hard (12+)**; `2.50 <= R < 5.00` **Very Hard (17+)**; `R >= 5.00` **Impossible**. Roll **one d20** for categories that require it and apply existing lawful categorical shifts and caps. This is an **opposed-statistic/category check**, not automatically two independent d20 rolls; this is how Combat Speed opposition already works. Any contested skill, medium seizure or other use must identify its **own** applicable opposed statistics and permitted modifiers before using the template; it does not automatically replace a separately approved Power-ratio seizure rule or completed specialist check without reconciliation. Zero-valued statistics and ties outside the stated category bands remain contextual OPEN cases.
