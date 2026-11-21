@@ -1,3 +1,13 @@
+## November 21, 2026 — HAZE TIERS AND PURITY ALCHEMY: Author direction takes precedence (numeric calibration OPEN)
+
+**Approved qualitative hierarchy:** Environmental Haze uses levels **0 through V**; 0 normal clean regions, I outskirts and nearby foreign borders, II ordinary pollution, III hazardous industrial smog, IV critical exposure with vulnerable creatures collapsing and exposed alchemical-circle failures, V unbreathable saturated air requiring sheltered alchemy. This tier framework **takes precedence over incompatible older atmospheric descriptions**, preserving earlier explicit Scarlands life-expectancy, outsider clearbreath and Starspawn vulnerability lore where compatible.
+
+**Hexed inhalation exposure:** Use the existing Hexed status rather than creating another status. Baseline exposure buildup Power approximates a **level-10 Nymbrin with an implement, half earned allocated points in INT, and no extra offensive MP**; calibrated neutral-implement equation `(INT10^2+IR^2)*0.55`, exact initial Nymbrin INT/implement and damage rates OPEN. Exposure scales upward with Haze level, recommended initial **experimental** I–V multipliers 0.5/1/2/4/8 times that baseline. **Clean-air breathing clears 10% of applicable Hex Status Resistance in buildup per complete turn**, subject to universal 1×/4× severity thresholds.
+
+**Purification:** Leywell-powered alchemical **clearbreath masks** with purifying sigils reduce the wearer's effective environmental Haze by **two tiers** while powered. **Purity Circles** are an extra-cheap alchemical anchored operation with **two free duration tiers**, reducing up to two levels of local Haze in their lawful working area, subject to appropriate energy and anchor infrastructure. Vital Transmutation may permit a living-alchemy purge of a target's Hexed buildup **into the environment** and separate increased lung resistance. Precise costs, interval, status-buildup amount, purified-pollution destination, duration-tier rules, prevention of recursive free self-purification, and spell ranks remain OPEN. No battle simulation was performed. Updated owning canon and index.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Purging Croak and environmental Hex tiles; ambient Haze design starts
 
 **Approved Nymbrin Purging Croak:** Commit both actions to audible croaking; resolution at the beginning of next turn if not wounded or stunned in the intervening period. Existing wounds do not bar starting; a new wound/stun interrupts even if later healed. Only on success, spend chosen available personal blue MP to remove 3 stored Hex per MP, with no free MP creation. Ordinary ten-minute no-MP rest remains separate.
