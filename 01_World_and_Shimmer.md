@@ -1,3 +1,9 @@
+## November 20, 2026 — Escalating Gem rewards: 7–997 per equal-level Henchman (LATEST AUTHOR APPROVAL)
+
+**Approved economic rule, not an XP change:** At current Hero level `L`, a patron-qualifying equal-level Henchman-equivalent encounter awards reference `B(L) = 10L − 3` **Gems** (7 at level 1, 497 at level 50, 997 at level 100). For an ordinary qualifying encounter of challenge level `C` and threat factor `T`, award `B(L) × [(2CT)/(2L)]` Gems based on the **unrounded ordinary XP equivalent**; payment uses existing whole Gem/Glint denominations (100 Glints = 1 Gem) and remainder carry. An eligible quest, peaceful resolution or combat bypass can earn appropriate Gems through the GM's equivalent-encounter assessment rather than requiring kills. **Ordinary XP calculations, XP thresholds, encounter threat categories and all player/monster combat statistics are unchanged.** Boss XP still guarantees one level; separate Boss Gem rewards remain special at two levels of the **new** economic budget where defined. **Updated complete economy:** [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md). The former November 12 30–3,200-Gem wealth targets later in this document are **HISTORICAL**, superseded by the new level-100 **878,286-Gem** equipment portfolio and all other November 20 economy milestones.
+
+---
+
 ## November 20, 2026 — Current escalating Gem reward and Shimmer shop update (AUTHOR APPROVED)
 
 **Current divine Gem rewards:** At Hero level `L` (1–100), a patron-qualified equal-level Henchman-equivalent deed awards `10L−3` Gems (**7 at L1, 997 at L100**). Other qualifying ordinary enemy/quest equivalents use the existing Horde .1 / Minion .4 / Henchman 1 / Elite 2 threat multipliers with the equivalent encounter level; assess noncombat deeds before or after accomplishment. The XP-to-next-level formula and **Boss one-guaranteed-level XP** are unchanged. Boss's *separate two-level Gem-budget exception* remains until revised. Actual payouts use integer Glints (**100 = 1 Gem**) with sub-Glint ledger carry, and are never mandatory monster drops. [Current catalogue](37_Gem_Price_Catalogue.md) has full reward, wealth and item-price tables.
@@ -54,7 +60,9 @@ For ordinary combat accuracy and evasion, **Combat Speed = effective SPD + effec
 
 ---
 
-## November 12, 2026 — New hero wealth progression and whole-Gem/Glint denomination (LATEST AUTHOR APPROVED ECONOMIC DIRECTION)
+## November 12, 2026 — New hero wealth progression and whole-Gem/Glint denomination (HISTORICAL WEALTH TARGETS; GLINT RULE STILL ACTIVE)
+
+> **November 20, 2026 note:** The old 3,200-Gem endgame wealth reference and named price targets below are superseded. The **100-Glint denomination remains approved**, as do qualifying shop buyback and typical consumable principles. Use the new November 20 economy at the top of this document and in `09_Equipment_and_Economy.md`.
 
 **The previous W(L)=3+3997((L−1)/99)^2.3 and W100=4,000 Gems are SUPERSEDED** by the author-selected **tenfold repricing of the newer, 320-Gem level-100 proposal**, making the new working W100 **3,200 Gems**, NOT 40,000. Tier-milestone wealth I–V at levels **10/25/50/75/100 = 200/400/800/1600/3200 Gems**; ordinary primary-item planned cost is 30%: **60/120/240/480/960 Gems**. Level-1 starting portfolio target is **30 Gems**. Use the piecewise level-1/10/25/50/75/100 progression in `09_Equipment_and_Economy.md`; do not reuse the former power-law wealth curve for current Gem rewards. **About 30% of lifetime earned Gems** is still earmarked for consumables, actual Gem-Shop-sold items qualify for **50%** original-price buyback, and hypothetical lifetime endgame gross earnings are **about 6,714 Gems** with **1,500 Gems** of reference resale losses and **2,014 Gems** of lifetime consumable spending.
 
@@ -444,6 +452,8 @@ XP = 2 × encounter level × threat modifier
 ```
 
 For a qualifying defeated enemy, **encounter level** is that enemy's level. The same threat-equivalent structure can price a patron-qualifying quest, investigation, rescue, peaceful resolution, or other accomplishment, using a GM-assigned equivalent challenge level and class. **No killing requirement** is implied. This does not make ordinary mundane quests automatically award XP: the accomplishment must still qualify under the Hero's patron's established XP principles.
+
+**Gem companion to this XP calculation (November 20 current canon):** Use the Hero-level base `10L−3` Gems per equal-level Henchman and scale by raw (unrounded) XP-equivalent threat, as documented in `09_Equipment_and_Economy.md`. This is a Gem price/budget change only, **not a revision to XP rewards or threat bands**.
 
 **November 20 author clarification: combat-equivalent quest accounting.** To recognize meaningful noncombat resolutions and quests that bypass fighting, the GM may judge a patron-qualifying accomplishment by roughly **how many and what kinds of relevant encounters its challenge and outcome are worth**. The estimate can be made during session preparation or **retroactively once the deed is completed**. It is a flexible challenge/reward comparison, not an extra guaranteed award on top of monsters already credited for the very same achievement, and not a fixed division of progression between quests and combat. A patron's qualification standards continue to control both XP and Gems. See `09_Equipment_and_Economy.md` for the existing Gem wealth budget and whole Glint settlement.
 
