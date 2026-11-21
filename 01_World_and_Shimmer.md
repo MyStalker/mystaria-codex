@@ -96,7 +96,7 @@ These are prevailing social rationales, not moral approvals or mandatory persona
 
 - Five absolute attributes: **STR, DEX, END, INT, SPD**. Effective attributes incorporate permanent racial percentage modifiers.
 - **Most recent Hero stat progression:** each level awards **2 points to allocate among base stats**; **every fifth level adds +1 to all five base stats**. This supersedes the November 1 compendium's earlier 1-Attribute-Point progression.
-- **Approved Shimmer XP progression (November 5, 2026):** XP to advance from current level `L` to `L + 1` is `L × (L + 1)`. Ordinary qualifying enemy/quest XP uses `2 × encounter level × threat modifier`; designated bosses award enough XP to advance the Hero **exactly two levels** from their current progress. See **Shimmer XP and encounter threat** below. This is XP, not SP or stat-allocation points.
+- **Approved Shimmer XP progression (November 5, 2026):** XP to advance from current level `L` to `L + 1` is `L × (L + 1)`. Ordinary qualifying enemy/quest XP uses `2 × encounter level × threat modifier`; designated bosses award the exact remaining XP needed to advance the Hero **one level** from their current progress (November 20, 2026 author correction). See **Shimmer XP and encounter threat** below. This is XP, not SP or stat-allocation points.
 - **HISTORICAL / SUPERSEDED Hero Gem economy (November 5, 2026):** Typical current equipment wealth `W(L) = 3 + 3997 × ((L−1)/99)^2.3` for levels 1–100; **3 Gems** at level 1, **4,000 Gems** at level 100 after typical full equipment-tier replacements. About **30%** of lifetime Gem earnings goes to consumables; Gem Shops buy back items they previously sold for **50%** of original price. Gem encounter multipliers match **unchanged XP**: Horde ×0.1, Minion ×0.4, Henchman ×1, Elite ×2; Bosses pay **two levels of Gem progression budget**. `09_Equipment_and_Economy.md` owns the complete calculation and caveats.
 - **Skill Points (SP)** buy abilities, Crafts, and Sorcery purchases. These are **not** the same currency as stat-allocation points. Divine quests may award SP; ordinary XP/stat leveling does not automatically purchase abilities.
 - **General ability tier gates:** I at level 1, II at 10, III at 25, IV at 50, V at 80, subject to each system's own prerequisites and purchase cost.
@@ -425,7 +425,7 @@ Use the **Hero's current level** as the comparison point. The level bands below 
 | **Minion** | Above 50% through 80% | Minor threat individually | ×0.4 |
 | **Henchman** | Above 80% through 110% | Nearly equal combatant, slightly weaker or comparable | ×1 |
 | **Elite** | Above 110% through 140% | Miniboss, substantial tactical challenge | ×2 |
-| **Boss** | Above 140%, **or specially designated** | Major prepared, prolonged encounter | Special: two levels |
+| **Boss** | Above 140%, **or specially designated** | Major prepared, prolonged encounter | Special: one guaranteed level |
 
 These bands are comparative guidelines, not minimum level requirements or a mandate that every enemy at a given ratio has a particular role. **Horde** refers to the threat posed by each member; it does not multiply a single enemy's XP by the number in a swarm.
 
@@ -437,21 +437,23 @@ XP = 2 × encounter level × threat modifier
 
 For a qualifying defeated enemy, **encounter level** is that enemy's level. The same threat-equivalent structure can price a patron-qualifying quest, investigation, rescue, peaceful resolution, or other accomplishment, using a GM-assigned equivalent challenge level and class. **No killing requirement** is implied. This does not make ordinary mundane quests automatically award XP: the accomplishment must still qualify under the Hero's patron's established XP principles.
 
+**November 20 author clarification: combat-equivalent quest accounting.** To recognize meaningful noncombat resolutions and quests that bypass fighting, the GM may judge a patron-qualifying accomplishment by roughly **how many and what kinds of relevant encounters its challenge and outcome are worth**. The estimate can be made during session preparation or **retroactively once the deed is completed**. It is a flexible challenge/reward comparison, not an extra guaranteed award on top of monsters already credited for the very same achievement, and not a fixed division of progression between quests and combat. A patron's qualification standards continue to control both XP and Gems. See `09_Equipment_and_Economy.md` for the existing Gem wealth budget and whole Glint settlement.
+
 Round a fractional ordinary reward to the nearest whole XP, with a minimum of **1 XP for a qualifying encounter**. This rounding convention is for the calculation only and does **not** establish that trivial or repetitive actions always qualify for an XP award. No additional anti-farming numerical penalty is established by this approval.
 
 For example, a level-100 Henchman awards **200 XP**; a level-100 Horde enemy awards **20 XP**; a level-100 Minion awards **80 XP**; a level-100 Elite awards **400 XP**, if the GM assigns those respective threat roles.
 
-### Boss XP: advance exactly two levels
+### Boss XP: one guaranteed level (November 20, 2026 author-approved correction)
 
-A **qualifying Boss** awards enough XP for the Hero to advance **exactly two levels from their level at the moment of victory**, accounting for their current progress toward the next level. This **replaces** the ordinary enemy-level multiplier, regardless of the boss's own level.
+A **qualifying Boss** awards exactly the XP remaining for the Hero to advance **one level from their current level at the time of victory**, accounting for any progress already earned toward that level. This **replaces** the ordinary enemy-level XP formula and multiplier, regardless of the boss's own level.
 
-If the Hero is level **L** and has **P** XP already accumulated toward level **L + 1**, the Boss XP award is:
+If the Hero is level **L** and has **P** XP already accumulated toward level **L + 1**, where `0 ≤ P < L × (L + 1)`, the Boss XP award is:
 
 ```text
-Boss XP = [L × (L + 1) − P] + [(L + 1) × (L + 2)]
+Boss XP = L × (L + 1) − P
 ```
 
-The award advances the Hero from **L** to **L + 2**, with **zero remaining progress** toward **L + 3**. Example: a level-50 Hero with zero progress receives **2,550 + 2,652 = 5,202 XP** and reaches level 52. A level-50 Hero with 500 XP progress instead receives **4,702 XP** for the same two-level result.
+The Hero advances from **L** to **L + 1**, with **zero remaining progress** toward **L + 2**. Example: a level-50 Hero with zero progress receives **2,550 XP** and reaches level 51. A level-50 Hero with **500 XP** progress instead receives **2,050 XP** and reaches level 51. The previous two-level Boss XP award and its additional next-level XP term are **SUPERSEDED**. The separately established Boss **Gem** reward of two levels of budgeted Gem progression is **not changed by this XP-only ruling**; see `09_Equipment_and_Economy.md`.
 
 **Unchanged boundaries:** Patron-specific XP qualification, mundane quest bookkeeping, Shimmer level-up stat gains, racial/Craft/Sorcery tier gates, SP prices, and other existing progression rules remain intact. No new repeat-farming restriction or special party XP division rule has been approved.
 
