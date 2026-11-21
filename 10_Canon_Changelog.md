@@ -1,3 +1,15 @@
+## November 21, 2026 — AUTHOR APPROVAL: State Mastery power scope, volume/mass size steps, Philosopher mass change
+
+**Reshaping III, State Mastery:** The **×2 Power** applies to the actual *state-changing effect*, including eligible target resistance, **not** unrelated consequential damage or all physical follow-on effects. Do not double a liquid surge, collision or ordinary attack merely because the initial state conversion succeeded.
+
+**Reshaping IV, Magnify / Minimize:** The fourfold "size" step is a factor of **4 in both VOLUME and MASS**, **not 4 in each linear dimension**. Normal Minimize -> 1/4 volume and 1/4 mass; normal Magnify -> 4× volume and 4× mass; each further fourfold step requires ×4 the preceding step's effective Power. The anchored transformation remains temporary, retaining actual reversion damage and constraints already approved. Exact treatment of altered/detached portions remains open.
+
+**Reshaping V, Philosopher:** May change the target's **mass** as part of temporary material identity transformation; **volume tends to remain consistent** while mass changes with target material density. This is a specific high-rank, anchor-dependent exception to normal material constituent/mass exchange, requiring a **somewhat similar** valid source and the usual legal Power and access. Iron->adamantite and milk->wine allowed; trufula->adamantite and motor-oil->wine disallowed. No perpetual material or permanent matter creation from temporary Philosopher. Detailed consumption, shape and heterogeneous-material handling open.
+
+**Files:** `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`. Rank I/II remain unfinalized; no numerical simulations.
+
+---
+
 ## November 21, 2026 — AUTHOR-SELECTED RESHAPING III–V: State Mastery, Magnify/Minimize, Philosopher
 
 **Rank III State Mastery supersedes prior rank-III proposals.** Alchemist can shape **liquids/gases** and temporarily change matter's state (solid/liquid/gas), with **×2 eligible spell-effect Power** for changing physical state. Such state changes require active **anchor sigils** and revert to original state on loss of anchor/duration without upkeep. Living-target changes require legitimate **Vital Transmutation**, building a new **Transmogrified** status: at **1× applicable SR one Pressure Point**; at **4× temporarily removed from combat** while supported. Eligible buildup and resistance formula, consequences of reversion, contact, and status-rider exact operation remain OPEN.
