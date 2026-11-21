@@ -1,3 +1,20 @@
+## November 20, 2026 — Additional approved finished ranged-item price references (PRICE ONLY)
+
+Current [Gem Price Catalogue](37_Gem_Price_Catalogue.md) §11B–C prices lower-Quality *otherwise legally manufactured* versions of the four already-approved STR100/200/300/400-capacity engineered bows at **60%/70%/80%/90%/100% of the existing Quality-V reference** for Quality I–V, respectively:
+
+| Engineered bow | QI | QII | QIII | QIV | QV |
+|---|---:|---:|---:|---:|---:|
+| High-draw | 75,000 | 87,500 | 100,000 | 112,500 | 125,000 |
+| Titan | 105,000 | 122,500 | 140,000 | 157,500 | 175,000 |
+| Colossal composite | 150,000 | 175,000 | 200,000 | 225,000 | 250,000 |
+| Legendary Greatbow | 180,000 | 210,000 | 240,000 | 270,000 | 300,000 |
+
+The four previously approved advanced **Quality-V reference** designs now have corresponding *unenchanted* tariffs: **Advanced Crossbow 150,000; Advanced Arbalest 250,000; Light Precision Firearm 125,000; Advanced Precision Rifle 175,000 Gems**. This does NOT grant all theoretical lower-Quality manufactured versions a recipe, change existing intrinsic Piercing Power, handling, magazine/reload, material engineering, range or ammunition compatibility. The basic named **Hand Crossbow + 12 bolts remains 160 Gems**, distinct from the approved 17,000-Power advanced crossbow.
+
+**Ordinary standalone physical ammo resupply (Gem Shop only):** 12 standard matched hand-crossbow bolts **20 Gems**, 12 heavy matched arbalest bolts **40 Gems**, and 12 standard nonmagical firearm Piercing cartridges **60 Gems**. These are not exotic ammo, empty magazines, separately purchased quivers, a free ammo-size rewrite or a new firing mode; the actual approved ammo matching and reloading rules remain in force. The old repeated historical notes stating that *every* crossbow bolt or firearm cartridge price remains unresolved are superseded **only for these three specified standard physical packs**. Unsupported custom ammo or exceptional cartridge designs stay unpriced.
+
+---
+
 ## November 20, 2026 — Current priced bow references and ordinary arrows (AUTHOR APPROVED)
 
 **Latest operative divine-Gem prices**, per [current Gem catalogue](37_Gem_Price_Catalogue.md): **40 ordinary Slashing/Piercing arrows = 30 Gems**, excluding the quiver. Named Moonlit Garden **Willow Shortbow plus twelve arrows = 120 Gems**; **Hand Crossbow plus twelve bolts = 160 Gems** (this does not create a generic separately priced bolt bundle). Completed **Quality V High-draw/Titan/Colossal/Legendary greatbow = 125,000 / 175,000 / 250,000 / 300,000 Gems**, before actually purchased enchantments. Greatbow's 300,000 is a **20% premium** to the ordinary 250,000-Gem Quality V Heavy two-handed reference. **No QI–QIV special bow engineering prices have been finalized**; high-force design requires its own Quality-independent floor. Keep original draw caps, strength/handling, attack Power, range, arrow rules, ability prerequisites and availability restrictions. Prior 10-Gem bundle, 20-Gem starter bow and 150/450/950/1750 older bow prices are **historical/superseded** even where old sections below used the term "approved working."
