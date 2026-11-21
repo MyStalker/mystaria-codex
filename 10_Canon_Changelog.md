@@ -1,3 +1,13 @@
+## November 21, 2026 — AUTHOR APPROVAL: Physical stability alone controls Nymbrin transmutation persistence (LATEST)
+
+**APPROVED MODEL B, with explicit choice of physical stability alone:** When a lawful Wetcraft transmutation leaves a physically viable finished material arrangement, that arrangement **persists** without a surviving circle, ongoing magic, additional stabilization stage, or mastery-dependent separate permanence purchase. If the altered configuration would not remain physically stable, it **depends on a functioning anchoring circle** for continued alteration; breaking the anchor removes that support, allowing lawful physical reversion/settling, never infinite force, restored destroyed matter, or reversal of intervening events.
+
+**Preserved:** Nymbrin modern equivalent exchange (weight, feedstocks/constituents and complexity), hard protective material resistance, all-alchemy-produces-Hex, and separate Warlock temporary Blue Morph/reversion including mold-assisted mundane production. Nymbrin permanence does **not** provide free repairs without missing components, automatic ore-to-masterwork conversion, Quality V gear, bypassed smithcraft/forge requirements, continuous magical work without resources, or unrestricted industrial production.
+
+**NOT APPROVED BY THIS DECISION:** Numeric Hex generation or natural dissipation, gloves/circle dimensions and reach, preparation timing, circle durability, anchor maintenance/force, rank-specific techniques, MP/SP formulas, industrial Pazara circuit enhancements, species rarity, or new economic production rates. These are future design subjects. Updated subject owner: `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`; navigation: `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Magical wound healing costs flat +20% Toxicity (LATEST)
 
 **APPROVED:** Every wound actually healed magically gives the recipient **+20 percentage points of cumulative Toxicity per wound**, independent of wound severity and whether the wound is in an ordinary or Shimmer Guard stage. Multiple wounds healed count separately; unhealed wounds do not incur healing Toxicity. **SUPERSEDED:** the older tier-sensitive schedule (including superficial 5%, first ordinary 20%, Shimmer Guard 10%/15%, and subsequent variable amounts). The previously approved mana-potion formula, Toxicity wound thresholds (100%, then each additional 50 points), temporary wound-healing restrictions, and unresolved rest recovery and healing-potion details remain unchanged. Owning file: [22_Combat_Endurance_and_Shimmer_Guard.md](22_Combat_Endurance_and_Shimmer_Guard.md).
