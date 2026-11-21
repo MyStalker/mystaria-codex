@@ -1,3 +1,11 @@
+## November 20, 2026 — BOSS XP ONE LEVEL; QUEST REWARDS BY ENCOUNTER EQUIVALENCE (LATEST)
+
+**Author-approved correction:** A qualifying Boss now grants exactly the remaining XP needed to advance its Hero **one level** from current progress: at Hero level L with P progress toward the next level, `Boss XP = L × (L + 1) − P`. The former *two-level Boss XP* award is **SUPERSEDED**; all ordinary XP thresholds, threat multipliers, level-up attributes and patron qualification rules remain unchanged. **Boss Gems remain a separate two-level wealth-budget award** (`E(L+2)−E(L)`) unless the author later explicitly revises that Gem rule; no Gem/XP parity is implied for the Boss exception.
+
+**Quest equivalence:** A DM may budget or retroactively assess patron-qualifying quests and combat-bypassing deeds by the **approximate number and threat of equivalent encounters**, awarding appropriate XP and Gems without requiring kills and without a compulsory quest/monster income split. Avoid double-counting the same challenge. **Whole currency already exists:** 100 integer **Glints = 1 Gem**, and sub-Glint theoretical remainders can be carried forward until a whole Glint or bundled milestone payout. No new numeric monster drop chart, rounding mandate or smooth-reserve proposal has been approved. Owning documents: [`01_World_and_Shimmer.md`](01_World_and_Shimmer.md) for XP and quest threat; [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md) for Gem budgets and denomination. See [`10_Canon_Changelog.md`](10_Canon_Changelog.md) for supersession.
+
+---
+
 ## November 20, 2026 — UNIVERSAL MAGNITUDE MP AND PYROMANCY CONTAINMENT APPROVED (LATEST)
 
 **Approved universal Magnitude area categories and MP prices:** **0 single target/1 MP; I adjacent targets/2 MP; II 20-foot burst/4 MP; III 100-foot burst/10 MP; IV 1,000-foot burst/30 MP; V 2-mile burst/60 MP.** These area-component costs are separate from base offensive Power MP and other legal modifiers. The old "provisional" label on this numeric chart is **SUPERSEDED**. The merged Magnitude discipline still combines placement Range, area and sustained-work multiplicity; exact remapping of earlier reach benchmarks, multiplicity scaling, and other component prices remains open.
