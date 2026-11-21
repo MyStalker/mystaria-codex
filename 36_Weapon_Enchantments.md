@@ -2,6 +2,12 @@
 
 **Approved November 18, 2026.** The Pass 2 shortlist contains 36 generic weapon enchantments and Guardian for shields. A generic entry can be installed on any weapon meeting its eligibility and the applicable equipment rules.
 
+## November 20, 2026 — Pricing of existing generic effects (APPROVED PRICE-ONLY)
+
+The current [Gem Price Catalogue](37_Gem_Price_Catalogue.md), §11A, now provides **completed-item tariffs for otherwise legally installable effects**: for unenchanted host price `P` and actual occupied slots `s` (only those genuinely allowed by the named effect and host), **Mixed total = P × (1 + 0.15s)**; **Full total = P × (1 + 0.20s)**. For six legal occupied slots these are **1.9× / 2.2×** host Gem prices, including the finished host and legitimate built-in magical installation, not mana-refill or crafting-resource exemptions. Three-slot-only names have `s=3`. **Do not invent new slot availability, MP/color assignment, rune combinations, permit incompatible installations, or apply this active-effect slot formula to Blank stat-only items.** Existing individually approved enchantment effects, Mixed/Full scaling, five-round activation and all other mechanics are untouched; any incomplete installation prerequisite must actually be settled before a powered effect can function.
+
+---
+
 ## Shared rules
 
 - When an entry lists six values, read them in order from one through six occupied enchantment slots. Holdout Weapon, Close Quarters, Concussive, Boomerang and Second Face each require three slots. Rank Measure requires one.
