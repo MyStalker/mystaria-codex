@@ -1,3 +1,28 @@
+## November 20, 2026 — AUTHOR APPROVAL: Universal Magnitude area MP and discounted Pyromancy containment (LATEST)
+
+**APPROVED universal Magnitude area chart**, upgrading the former unapproved proposal to current numeric canon:
+
+| Category | Scope | Universal Magnitude/area MP |
+|---|---|---:|
+| 0 | Single target | 1 |
+| I | Adjacent targets | 2 |
+| II | 20-foot burst | 4 |
+| III | 100-foot burst | 10 |
+| IV | 1,000-foot burst | 30 |
+| V | 2-mile burst | 60 |
+
+These are **area-component charges** separate from any separately payable base-offense MP, duration, and other costs. The author's approval does not separately finalize the previously unratified exact placement-Range mapping, sustained-spell multiplicity coefficients, or category-specific shape/geometry questions.
+
+**APPROVED Pyromancy-specific reversal and pricing:** Offensive Pyromancy tends naturally toward larger area as offensive MP/committed physical fire increases, without requiring separate MP to buy that natural expansion. Magnitude mastery permits **paid containment** into reduced area categories instead. Pyromancy's containment ladder is **0/I/II/III/IV/V = 1/2/4/10/20/30 MP**: category IV now **20 MP rather than 30**, V **30 MP rather than 60**. The high-tier discount is solely for **Pyromancy containment**, not universal Magic or free extra damage/Range. At maximum offensive base investment (**20 MP**) with **81 fire tiles**, even masterful confinement cannot compress the blast below the **20-foot burst** category. The effect can spread beyond its caster's learned ordinary area allowance without extending the spell's placement Range; reckless casters can be caught in their own blasts. Flames exposed to genuine qualifying fuel in affected tiles may ignite that fuel and create additional physical fire, retaining ordinary environmental fire and medium rules rather than recursively reapplying the original magical attack.
+
+**Superseded:** Prior labels of the universal **1/2/4/10/30/60** table as merely experimental; universal-area-cost assumptions applied without exception to Pyromancy's natural spread; and the prior Pyromancy IV/V containment figures of 30/60. Preserve other established medium, implement-reservoir, Channel Limit, MP/Power, ignition/contact, Magnitude skill prerequisites and existing Range limitations.
+
+**UNRESOLVED:** Numeric natural-blast radius as a function of offensive MP and accessible fire, intermediate containment category eligibility and geometry, exact interface between merged Magnitude placement Range and other rank costs, and the broader MP-to-physical-Medium default chart beyond the specifically approved **20 MP / 81 tiles / 20-foot minimum** example. No combat test or simulator change is claimed.
+
+**Files updated:** `35_Magical_Media_and_Contests.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`.
+
+---
+
 ## November 20, 2026 — AUTHOR APPROVAL: No post-Impact physical damage-form injury adjustment (LATEST)
 
 **Decision:** Author chose Option A: “a wound is a wound.” Ordinary Slashing, Blunt and Piercing attacks retain their **already-approved attack Power, armor penetration, coverage and other pre-Impact distinctions**, but **do not alter the resulting injury severity after lawful final Impact = Power / Defense is determined**. The established strict Impact bands produce the raw/final ordinary physical injury stage directly, subject to other independently approved defense, wound and Guard rules.
