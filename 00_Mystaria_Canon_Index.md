@@ -1,3 +1,9 @@
+## November 21, 2026 — FLAT MAGICAL WOUND-HEALING TOXICITY (LATEST)
+
+**Approved:** Magically healing **any wound** adds **+20 percentage points of cumulative Toxicity per wound actually healed**, including Shimmer Guard wounds, with no severity-based discount or surcharge. The old superficial/ordinary/Shimmer Guard tiered healing Toxicity schedule is **SUPERSEDED**. Other Toxicity sources (including mana potions), threshold wounds, and currently unresolved rest/healing-potion details remain unchanged. See [Combat Endurance and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md) and [Canon Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 20, 2026 — FINAL FINISHED-ITEM PRICE COMPLETION (LATEST)
 
 **Author-directed finishing pass:** The current [Gem Price Catalogue](37_Gem_Price_Catalogue.md) now also prices **all 36 existing generic weapon enchantments and Guardian shield effect conditionally on a legal completed installation**: for unenchanted host Gem price `P` and genuinely eligible occupied effect slots `s`, **Mixed final `P(1+0.15s)`**, **Full final `P(1+0.20s)`**. This implements approximately twice-host pricing for substantial enchantment without making new rune effects, mana/slot legality, MP bands, stats or crafting permissions. See [36_Weapon_Enchantments.md](36_Weapon_Enchantments.md).
