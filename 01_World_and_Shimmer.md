@@ -1,3 +1,11 @@
+## November 20, 2026 — Current escalating Gem reward and Shimmer shop update (AUTHOR APPROVED)
+
+**Current divine Gem rewards:** At Hero level `L` (1–100), a patron-qualified equal-level Henchman-equivalent deed awards `10L−3` Gems (**7 at L1, 997 at L100**). Other qualifying ordinary enemy/quest equivalents use the existing Horde .1 / Minion .4 / Henchman 1 / Elite 2 threat multipliers with the equivalent encounter level; assess noncombat deeds before or after accomplishment. The XP-to-next-level formula and **Boss one-guaranteed-level XP** are unchanged. Boss's *separate two-level Gem-budget exception* remains until revised. Actual payouts use integer Glints (**100 = 1 Gem**) with sub-Glint ledger carry, and are never mandatory monster drops. [Current catalogue](37_Gem_Price_Catalogue.md) has full reward, wealth and item-price tables.
+
+**Shop changes:** Shimmer inventory, map and convenience upgrade prices in the active tables below have been updated to the current Gem scale. Their existing slot counts, unlocked abilities and free features are **unchanged**. Earlier November 12 `W100=3,200` and prior named numerical shop examples elsewhere are **historical price models**, superseded by `W100≈878,286` current owned-equipment target. No retroactive saved wallet conversion or free new Gems is granted.
+
+---
+
 ## November 19, 2026 — AUTHOR APPROVAL: Projected Spiritus and astral injury consequences (LATEST)
 
 The author's newest Spiritus astral projection ruling: **Cognum and Anima project**, while Spiritus **stretches and loses a piece** rather than entirely leaving the body, replaced by a **substantial mana expenditure**. The body's **helpless** while projected. A short-range projection has a visible tether granting access to host/body mana: tether has **1 wound**, spirit's END, and **+1 difficulty against non-blunt attacks**; severance returns the spirit immediately and deals **1 wound** to the body. Destruction of a projected spirit at either range yields **3 bodily wounds** and return; **long-range** destruction returns it after **about one minute**. At long range there is **no tether-based host-mana access**, and the projected spirit has **about 50% lower attributes**. Warlocks may still shape legitimately sourced external mana while projecting, but remain **0 natural MP**. Precise projection/tether resource costs, ranges, duration, defenses, restoration, rounding and Soul Shred details remain open. See [Warlock Manacraft](04_Warlock_Manacraft.md), [Changelog](10_Canon_Changelog.md).
@@ -639,10 +647,10 @@ Every Hero receives **six free inventory slots** capable of storing nongem-shop 
 | Upgrade | Cost | Benefit |
 |---|---:|---|
 | Basic Inventory | Free | 6 slots |
-| Pocket Inventory I | 20 Gems | +4 slots |
-| Pocket Inventory II | 60 Gems | +8 slots |
-| Traveler's Inventory | 100 Gems | +12 slots |
-| Evergreen Satchel | 180 Gems | +20 slots and increased object-size capacity |
+| Pocket Inventory I | 60 Gems | +4 slots |
+| Pocket Inventory II | 180 Gems | +8 slots |
+| Traveler's Inventory | 300 Gems | +12 slots |
+| Evergreen Satchel | 540 Gems | +20 slots and increased object-size capacity |
 
 Upgrades are cumulative.
 
@@ -653,10 +661,10 @@ The Shimmer **automatically maps explored surroundings for free**, recording vis
 | Upgrade | Cost | Effect |
 |---|---:|---|
 | Automatic Mapping | Free | Records explored terrain |
-| Cartographer's Eye | 30 Gems | Elevation, terrain hazards, environmental notes |
-| Trailkeeper | 30 Gems | Marks previous routes and known safe passages |
-| Route Planner | 50 Gems | Estimates routes through discovered geography |
-| Shared Cartography | 80 Gems | Voluntary map exchange between Heroes |
+| Cartographer's Eye | 90 Gems | Elevation, terrain hazards, environmental notes |
+| Trailkeeper | 90 Gems | Marks previous routes and known safe passages |
+| Route Planner | 150 Gems | Estimates routes through discovered geography |
+| Shared Cartography | 240 Gems | Voluntary map exchange between Heroes |
 
 ### Shrine Network — Divine Fast Travel
 
