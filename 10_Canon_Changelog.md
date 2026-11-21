@@ -1,3 +1,11 @@
+## November 21, 2026 — AUTHOR APPROVAL: Double area Magnitude cost for environmental restraints
+
+Approved a **2× universal Magnitude MP charge only for AREA environmental-binding spells**, retaining single-target category 0 at **1 MP**. Cost ladder ordinary -> environmental restraint: **0 1->1; I 2->4; II 4->8; III 10->20; IV 30->60; V 60->120 MP**. Applies to suitable Nymbrin stone entrapment and Wakecraft ice entrapment, not a change to ordinary Fireball, and not an override of Pyromancy's existing natural blast/containment exception. No area-wide Power cut; full legal spell Power remains. Physical terrain restraint is resolved by relevant opposed Technique/physical escape, **not status buildup**, with real material durability/persistence and all normal legal costs, limits and access.
+
+**Still OPEN:** exact opposed-stat conversion, initial defense/check timing (free versus reaction), detailed escape action outcomes, geometry/immobilization distinctions. Supersedes proposed 50%/25% binding-Power dilution; the approved balancing lever is area Magnitude MP instead. Owner: [Magical Media and Contests](35_Magical_Media_and_Contests.md). No simulations run.
+
+---
+
 ## November 21, 2026 — AUTHOR CORRECTION: Transmogrified uses 2× Power buildup, not 2× MP; helpless puddle and 5% lost mass
 
 **Supersedes the immediately earlier Rank III living-target `2× spell-equivalent MP` surcharge.** A legal Reshaping III + Vital Transmutation living state-change is a **pure status attack** applying **2× eligible ordinary spell Power as Transmogrified buildup**, with **no extra twofold mana cost**. Do not double the state effect a second time to invent 4× status Power. Existing thresholds **1× SR = one PP; 4× SR = immediately incapacitated/liquid or gas** remain. Casting costs, anchoring, defenses, actual target contact and Hex still apply.
