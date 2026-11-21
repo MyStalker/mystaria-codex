@@ -1,3 +1,15 @@
+## November 20, 2026 — COMPLETED EQUIPMENT-PRICING EXTENSION (LATEST PRICE-ONLY RULE)
+
+**Current operative tariff and full tables:** [37_Gem_Price_Catalogue.md](37_Gem_Price_Catalogue.md) §§11A–E, supplementing its original standard equipment, Junk, potion, ammunition and shop prices. This user's authorized finishing pass sets:
+
+- **Approved generic weapon/shield effect installation cost**, for a legally completed enchantment with host price `P` and actual occupied effect slots `s`: **Mixed finished price `P×(1+0.15s)`; Full `P×(1+0.20s)`**. Six eligible slots yield **1.9× / 2.2×** ordinary host price. Legal slot limits, individual effect mechanics, installation restrictions, Leywell color/MP, Blank-stat rules and Soul Strain are not changed or invented. See [36_Weapon_Enchantments.md](36_Weapon_Enchantments.md).
+- **Lower-Quality engineered bow pricing**, using 60%/70%/80%/90%/100% of established QV family tariffs for otherwise legally buildable QI–QV High-draw, Titan, Colossal and Legendary Greatbow designs; existing draw ratings and construction prerequisites remain. **Advanced Quality-V crossbow/arbalest/precision firearm tariffs** and three **ordinary physical bolt/cartridge resupply packs** are also now listed. See [27_Ranged_Weapon_Catalogue_DRAFT.md](27_Ranged_Weapon_Catalogue_DRAFT.md).
+- **Magical Portable Forge 10,000 Gems** for the already-approved ordinary-forge-substitute function only, with no added construction/energy/mana exemptions. See [07_Centaurs_and_Smithcraft.md](07_Centaurs_and_Smithcraft.md).
+
+**Boundary:** This prices **described finished goods**. It does not authorize selling equipment whose effect, mana cost, compatibility or production recipe is still undefined, including new ammunition forms, incomplete Blank stat-enchanting configurations, bespoke runes, Nymbrin healing/alchemical potions and unengineered constructs. Such goods remain **unpriced concepts**, not unconverted legacy products. The old broad 'enchantment tariffs not yet assigned' and 'Quality I–IV engineered bow price floors missing' language below is superseded **for the exact completed references** given in the new catalogue. Existing reward curve `B(L)=10L−3`, wealth knots, equipment statistics and patron XP are unchanged.
+
+---
+
 ## November 20, 2026 — AUTHOR-APPROVED ESCALATING GEM REWARDS AND ECONOMY (LATEST CONTROLLING CANON)
 
 **Authority and scope:** This is the author's November 20 approval of the 7-to-997-Gem equal-level Henchman curve, greatly increased but still bounded equipment-budget milestones, and the round-number primary-item price ladder. These numbers **supersede** the older November 12 `30/200/400/800/1600/3200`-Gem equipment portfolio and `60/120/240/480/960`-Gem Quality-I–V primary investment targets **as the active economy**. They do **not** change Hero/monster combat statistics, existing Quality effects, attributes, experience thresholds, leveling pace, skills, SP/MP, Soul Strain, racial mechanics, equipment wielding prerequisites, or the existing GM/patron rules for qualifying a reward. Older numeric economy cases below are retained as **historical examples**, not concurrent default tariffs.
