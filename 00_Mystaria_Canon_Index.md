@@ -1,3 +1,8 @@
+## November 21, 2026 — LESHY VINES AND TREE-CANOPY URBAN LIVELIHOOD
+
+Leshy have long body vines granting exceptional treetop mobility and useful strength beyond their ~2.5-foot size. Canopy Kingdoms settlements are integrated into **massive tree canopies**; urban Leshy serve living-tree maintenance, decorative gardens, elevated planting and household botany as well as rural agriculture. No vine reach/Strength/Speed/Craft mechanics approved. See [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md) and [Races](02_Races.md).
+
+---
 ## November 21, 2026 — LESHY PHOTOSYNTHETIC INPUTS AND SCARLANDS GROW-LIGHT APPROVED
 
 **Leshen/Leshy need sunlight/light, water, and soil for photosynthetic nourishment**. Scarlands alchemists can create **artificial sunlight in controlled greenhouses**, including subterranean cave gardens useful to sun-averse Vren. This does **not** grant Vren immunity to sunlight or determine whether direct artificial light is hazardous to them; precise requirements, costs, and technical implementation OPEN. See [Leshen Foundations](38_Leshen_Leshy_Foundations.md) and [Changelog](10_Canon_Changelog.md).
