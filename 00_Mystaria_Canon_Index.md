@@ -1,4 +1,11 @@
 
+## November 21, 2026 — MOSSBACK PHOTOSYNTHESIS: THREE-COLOR MANAGMIN DIRECTION (DETAILS PENDING)
+
+**Latest author ecological direction:** Mossback photosynthesis splits generated **nutritional managmins among Green, Red, and White**. This is consistent with the approved rule that **managmins, not separate calories/protein/vitamins/minerals, provide all nutritional functions**. The precise photosynthetic color ratios, intensity and whether the formerly illustrative 50% total daily solar energy contribution is species-typical remain OPEN. Assistant economic experiment proposes **70% Green/15% Red/15% White in the solar fraction**, which, given 50% sunlight contribution and the author's proposed 50% primary/12.5% each other dietary ideal, leads to an **ideal food-only composition of Red10/Blue25/Green30/White10/Black25 percent**. That fractional breakdown and revised forage plant recipes remain **UNAPPROVED numerical proposals** in [economy managmin draft](https://github.com/MyStalker/mystaria-economy/blob/main/15_Managmin_Nutrition_and_Mossback_Feed_DRAFT.md). No extra caloric/protein ledger or instant sun-fed material creation. Existing Starspawn biology, Recall and Mossback maturation unchanged.
+
+---
+
+
 ## November 21, 2026 — AUTHOR APPROVAL: KHARAK RED AFFINITY, MANAGMIN-ONLY NUTRITION, AND ENERGY UNIT
 
 **Explicit canon correction:** Kharak (Rexfolk) have **RED innate mana affinity**, overriding older notes that labeled their Red affinity unsettled. This does **not** approve new Kharak spell ranks or abilities.
