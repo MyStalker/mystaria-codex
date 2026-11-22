@@ -1,3 +1,17 @@
+## November 22, 2026 — AUTHOR APPROVAL: all wound-based attribute and combat penalties removed
+
+**Decision:** The author explicitly approves complete removal of wound-based penalties. Wounded, Gravely Wounded, and Hero/Legend Shimmer Guard injury stages do not reduce STR, DEX, END, INT, SPD, Combat Speed, attack Power, Defense Power, hit/evasion difficulty, equipment eligibility, or any other combat calculation. No percentage, flat, situational, pain-based, or simplified wound penalty replaces the removed rules. Pain may be narrated but has no mechanical penalty. **Incapacitated** remains the existing state that ordinarily prevents action.
+
+**Preserved:** Ordinary characters retain three injury advancements. Heroes and Legends retain two additional Shimmer Guard injury stages; Guard I and Guard II are additional injury capacity, not low-penalty stages. Existing injury thresholds, number of advancements from attacks, healing, prognosis, Shimmer presentation, and Hero/Legend distinctions remain unchanged. Independent hostile statuses and their explicitly approved effects are unaffected.
+
+**Supersedes:** The former Wounded −5%, Gravely Wounded −10%, and Incapacitated −15% effective-attribute penalties; the Hero/Legend “still −5%” Guard stages; wound-triggered equipment qualification/shortfall recalculations; and references to wounds reducing initiative Combat Speed. Historical simulations that used wound penalties remain historical and are not current balance evidence.
+
+**Files changed:** `22_Combat_Endurance_and_Shimmer_Guard.md` (owning injury and equipment-shortfall rules), `01_World_and_Shimmer.md` (Shimmer Guard cross-reference), `09_Equipment_and_Economy.md` (equipment shortfall and historical stress-test notes), `00_Mystaria_Canon_Index.md` (current summary), and this changelog.
+
+**Simulation compatibility:** Combat Lab 0.7.0's warrior engine still applies the old wound factor and does not implement Attack/Defense Grades. Its full-duel outputs do not yet represent this approval. No simulator code was changed in this canon update; a separate engine update is required before full duels can test the revised rules.
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR CORRECTION: Spell Power governs Thread Grapple initiation AND maintenance
 
 **Approved correction superseding the previous same-day Technique-initiation recording:** The grappling Draped tile is the physical origin/anchor, not the Jester's body. Base initiation costs **1 MP**; additional lawful MP increases **Spell Power**. **Spell Power determines both whether the thread grapple can be initiated and whether it can be maintained.** Do not substitute an independent ordinary Technique initiation check for the Power-based mechanism or restrict Spell Power to holding strength alone. Keep ordinary physical grapple rules where compatible, including committed offensive-action classification and applicable consequences. This is Jestercraft-specific; universal Technique still governs other Technique maneuvers. Binding remains the distinct magical Bound-status attack.
