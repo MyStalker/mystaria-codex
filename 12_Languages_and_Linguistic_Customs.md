@@ -1,3 +1,15 @@
+## November 21, 2026 — Universal idiom: “Gone like a 25 hour steak” (AUTHOR APPROVED)
+
+**“Gone like a 25 hour steak”** is a widely used expression **throughout Mystaria**. It describes something that disappears before anyone can enjoy, use, recover or benefit from it; especially a squandered opportunity, fleeting possession or abruptly lost reward. The joke refers to **Starspawn meat disappearing on Celestial Recall, ordinarily beginning around 24 hours after death**: a steak left until hour 25 is gone, whether or not it was preserved. The expression deliberately uses the humorous later hour, not a new mechanical 25-hour Recall duration.
+
+**Illustrative, not required scripted lines:**
+- “That inheritance? Gone like a 25 hour steak.”
+- “By the time the guards arrived, our prize was gone like a 25 hour steak.”
+
+Different cultures can give the phrase their own pronunciation, tone, or translations. Its widespread use does not imply any one culture invented it; origin and localized variants remain OPEN. Cross-reference [World and Shimmer](01_World_and_Shimmer.md#immortality-and-celestial-recall).
+
+---
+
 # Mystaria — Languages and Linguistic Customs
 
 ## November 7, 2026 — Kharak hatchling-directed speech (APPROVED)
