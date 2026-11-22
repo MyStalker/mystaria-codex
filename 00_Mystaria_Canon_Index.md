@@ -1,3 +1,9 @@
+## November 22, 2026 — APPROVED: Thread Grappling uses ordinary grapple rules and tile-origin casting
+
+**Jestercraft Thread Grappling:** A physical thread grapple originates from a qualifying Draped grappling tile rather than the Jester's body. Base initiation cost is **1 MP**; additional MP may be invested to increase spell Power. Resolve the grapple using the ordinary committed offensive grapple maneuver and its single Technique check, with the current universal `Technique = max(effective STR, effective DEX)` rule. This is separate from Binding's magical Bound-status attack. **Spell Power's exact role in grapple resolution, source-to-target reach/path, connecting-thread durability/severing, and simultaneous grapple limits remain OPEN.** See [Jestercraft](05_Jestercraft.md#november-22-2026--author-approval-thread-grappling-uses-ordinary-grapple-rules-and-tile-origin-casting) and [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).
+
+---
+
 ## November 22, 2026 — APPROVED: status-inflicting actions are attacks; reusable mana-woven Jestercraft Binding
 
 **Universal combat classification:** Any committed action attempting to **inflict a hostile status effect counts as an ATTACK**, whether or not it deals physical/magical direct damage. It consumes the established maximum of **one offensive attack action per turn**, including failed attempts, and keeps its actual action timing, range, applicable defenses and MP/Channel costs. Ongoing passive effects or actions that remove status are not thereby new independent offensive attacks. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md#november-22-2026--approved-universal-all-active-status-inflicting-actions-are-attacks).
