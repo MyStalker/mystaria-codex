@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: Thread Grappling uses ordinary grapple rules and tile-origin casting
+
+**APPROVED:** A Jester's physical Thread Grapple originates from a qualifying Draped grappling tile, not from the Jester's body. Initiating it costs **1 MP**, and the Jester may invest additional MP to increase its spell Power. Resolve the actual grapple using the established ordinary physical Grapple procedure: a committed offensive maneuver, one Technique check after a genuine physical opportunity and legal reach/geometry, and the current `Technique = max(effective STR, effective DEX)` formula. This is a physical grapple, not Binding's Bound-status accumulation.
+
+**Still OPEN:** The exact use of invested spell Power within the grapple contest; maximum tile-to-target thread reach and path/line-of-effect; damage/severing rules for the connecting thread; and any per-source or simultaneous-grapple limits. Do not add an unapproved Technique bonus or numerical thread range/durability.
+
+Owning reference: [Jestercraft](05_Jestercraft.md#november-22-2026--author-approval-thread-grappling-uses-ordinary-grapple-rules-and-tile-origin-casting); ordinary grapple procedure and Technique formula: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).
+
+---
+
 ## November 22, 2026 — Author approval: binding as status attack, full magic Attack Power, unlimited separate captives, reusable Draped mines
 
 **Universal combat ACTION classification approved:** **All active actions that attempt to inflict hostile status effects are ATTACKS**, regardless of direct damage. They consume the existing one-offensive-attack-action-per-turn allowance and their otherwise applicable one-/two-action procedures and costs; this is not an invented extra attack or free casting loophole. Failed status attack attempts still consume their committed attack actions. This applies to Jester Binding and other pure-status attacks; nonoffensive removal of an existing condition and unrelated ongoing passive condition triggers are not new separately committed attacks merely by being status-related. Owning `22_Combat_Endurance_and_Shimmer_Guard.md`.
