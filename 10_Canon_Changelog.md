@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: 100% Shimmer Reserve and 51%-of-COMBINED-HP emergency Break for additive-HP prototype
+
+**Explicitly approved design:** Hero Shimmer Guard provides a reserve equal to **100% of maximum ordinary HP** in the experimental additive-HP replacement. While intact and dormant, a single attack's **post-armor HP damage >=51% of maximum combined ordinary+Shimmer HP** is **completely negated**, Shimmer Guard **breaks**, the entire unused reserve is lost, and there is **no Shimmer benefit for 24 hours**. Reference ordinary HP370 + reserve370 -> 740 combined -> emergency trigger378. The 51% is **not** measured from ordinary HP alone. Emergency applies while dormant, not after the reserve is already active.
+
+**Status:** Approved **prototype decisions only**; current operative combat remains the wound-based quadratic framework with its established Shimmer injury stages. No approval of `HP=max(1,50+4×END)`, armor figures, Weight ratings, new material conversions, all interaction edge cases, or implementation of the new ruleset. Ordinary HP damage/armor and the additive STR+DEX+weapon model remain exploratory until the author ratifies the integrated system.
+
+**Owning documentation:** `22_Combat_Endurance_and_Shimmer_Guard.md` (full prototype ruling and open issues), `00_Mystaria_Canon_Index.md` (status/precedence summary), and this changelog. **Unresolved:** recovery mechanics after 24 hours, activation/overflow timing, restoration/healing/status interactions, Legends and multi-hit edge cases. No new simulator run or engine changes claimed.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: all wound-based attribute and combat penalties removed
 
 **Decision:** The author explicitly approves complete removal of wound-based penalties. Wounded, Gravely Wounded, and Hero/Legend Shimmer Guard injury stages do not reduce STR, DEX, END, INT, SPD, Combat Speed, attack Power, Defense Power, hit/evasion difficulty, equipment eligibility, or any other combat calculation. No percentage, flat, situational, pain-based, or simplified wound penalty replaces the removed rules. Pain may be narrated but has no mechanical penalty. **Incapacitated** remains the existing state that ordinarily prevents action.
