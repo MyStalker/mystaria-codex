@@ -33,3 +33,10 @@
 - [Nymbrin Wetcraft and Hexen](20_Nymbrin_Wetcraft_and_Hexen_Canon.md)
 - [Canon Changelog](10_Canon_Changelog.md)
 - Companion economic study: [mystaria-economy](https://github.com/MyStalker/mystaria-economy)
+
+## November 21, 2026 — Photosynthetic inputs and artificial daylight (AUTHOR APPROVED)
+
+- Leshy **require sunlight/light, water, and soil** to sustain their photosynthetic way of life; their nourishment is **not** resource-free. Their exact amounts, tolerance of darkness, mineral requirements, soil quality, and managmin nutrition remain OPEN.
+- Scarlands alchemists **have successfully developed controlled artificial sunlight** for enclosed growing environments, including subterranean greenhouses. These environments can sustain photosynthetic Leshy where ordinary daylight is absent, provided their other needs are met. Exact construction methods, energy costs, mana/Hex effects, and comparative quality of artificial light are OPEN.
+- The sun-averse **Vren** particularly favor the practical advantage of protected underground artificial-daylight cultivation. This does not establish that Vren personally tolerate direct exposure to this artificial light, or bypass their canonical sun vulnerability; engineered separation/shielding remains an OPEN practical design question.
+- Haze particularly impairs Leshy magic, without implying instant or accelerated unavoidable death. Haze mitigation and greenhouse infrastructure need later calibration.
