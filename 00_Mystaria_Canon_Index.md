@@ -1,3 +1,9 @@
+## November 22, 2026 — AUTHOR-APPROVED SHIMMER GUARD PROTOTYPE (NOT YET OPERATIVE)
+
+For the **proposed additive-HP redesign only**, the author approved a **Shimmer Reserve equal to 100% of maximum ordinary HP** and **emergency Shimmer Break**: while the Guard is intact and dormant, a single attack dealing **at least 51% of maximum COMBINED ordinary+Shimmer HP after armor** instead deals zero HP damage, breaks the Guard, forfeits its unused reserve, and disables Shimmer protection for **24 hours**. Example: 370 ordinary + 370 Guard HP -> break threshold **378** incoming HP damage. The replacement HP formula, armor Weight costs, and final activation/recovery interactions remain provisional. **The existing wound-based rules remain operative.** See [Combat: approved HP-prototype Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md).
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR APPROVAL: all wound-based combat penalties removed
 
 Wounded, Gravely Wounded, and Hero/Legend Shimmer Guard injury stages impose **no mechanical penalties** to attributes, Combat Speed, attack/Defense Power, hit/evasion, equipment eligibility, or other combat calculations. No percentage, flat, situational, pain-based, or simplified wound penalty replaces the old rules. Pain is narrative only; **Incapacitated** remains the state that ordinarily prevents action. Ordinary three-stage and Hero/Legend five-stage injury progressions remain, with Guard I/II as additional injury capacity rather than reduced-penalty stages. Wounds cannot trigger equipment shortfalls or reduce initiative. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [World and Shimmer](01_World_and_Shimmer.md), and [Equipment](09_Equipment_and_Economy.md).
