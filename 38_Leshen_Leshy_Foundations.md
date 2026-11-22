@@ -40,3 +40,9 @@
 - Scarlands alchemists **have successfully developed controlled artificial sunlight** for enclosed growing environments, including subterranean greenhouses. These environments can sustain photosynthetic Leshy where ordinary daylight is absent, provided their other needs are met. Exact construction methods, energy costs, mana/Hex effects, and comparative quality of artificial light are OPEN.
 - The sun-averse **Vren** particularly favor the practical advantage of protected underground artificial-daylight cultivation. This does not establish that Vren personally tolerate direct exposure to this artificial light, or bypass their canonical sun vulnerability; engineered separation/shielding remains an OPEN practical design question.
 - Haze particularly impairs Leshy magic, without implying instant or accelerated unavoidable death. Haze mitigation and greenhouse infrastructure need later calibration.
+
+## November 21, 2026 — Canopy locomotion and urban tree cultivation (AUTHOR DIRECTION)
+
+- Leshy have **long, reaching, flexible vines extending from their bodies**. These permit distinctive locomotion and mobility among the Canopy Kingdoms' enormous treetops, as well as useful grip and strength **beyond what their approximately 2.5-foot stature suggests**.
+- The **Canopy Kingdoms' cities and settlements are built among the canopies of massive trees**. Urban Leshy may cultivate, protect and maintain the living trees, decorative greenery and hanging gardens, and employ botanical talents in household service. Their work is not limited to rural agriculture.
+- **Mechanical reach, lifting strength, vine count, movement Speed, combat uses, spell area, mana costs and vertical mobility limits remain OPEN** for later race/Craft development. Do not infer a grapple attack, unrestricted flight, or a numeric Strength modifier from this description.
