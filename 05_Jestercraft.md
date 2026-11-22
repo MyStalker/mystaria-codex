@@ -18,6 +18,18 @@
 
 ---
 
+## November 22, 2026 — AUTHOR APPROVAL: Thread Grappling uses ordinary grapple rules and tile-origin casting
+
+**AUTHOR-APPROVED Thread Grappling foundation:** A Jester may initiate a physical grapple through a qualifying Draped grappling tile. **The grappling tile is the origin of the grapple**, not the Jester's body; the Jester can therefore establish a grapple from a separate battlefield location, provided the source and target can be legally connected under the eventual reach and geometry rules.
+
+- **Base cost:** Initiating Thread Grappling costs **1 MP**.
+- **Additional investment:** The Jester may spend additional MP to increase the Thread Grapple's **spell Power**, subject to applicable spellcasting limits.
+- **Resolution:** Use the existing **ordinary physical Grapple rules**, not Binding's Bound-status accumulation. Grapple initiation remains the ordinary committed offensive maneuver resolved with its single Technique check after a genuine physical opportunity and lawful reach/geometry have been established. Use the current universal `Technique = max(effective STR, effective DEX)` rule and all other existing grapple consequences and restrictions.
+- **Physical source:** The Draped tile is the actual origin/anchor of the thread grapple. This is distinct from Binding, whose emitted magical restraint is a status condition that can persist independently of its source.
+
+**UNRESOLVED:** The exact mechanical role of invested spell Power in the ordinary grapple contest (including whether it modifies Technique, supplies a separate holding strength, or serves another defined function); maximum source-to-target thread reach and path/line-of-effect requirements; how the connecting thread itself can be damaged or severed; and any per-source or simultaneous-grapple limits. Do not invent a spell-Power bonus to Technique, a range, or a thread durability formula before these are decided.
+
+---
 
 ## November 22, 2026 — LATEST AUTHOR APPROVAL: Technique uses best STR/DEX; one Stitch makes four Draped tiles; one Worn Stitch is Draped
 
