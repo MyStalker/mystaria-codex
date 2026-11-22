@@ -1,4 +1,12 @@
 
+## November 21, 2026 — AUTHOR-SELECTED MOSSBACK SURVIVAL BENCHMARKS
+
+**Approved planning baseline:** Of the roughly **30 seeds per Bloom**, an estimated **25% survive to full maturity in the wild**, compared with **75% under competent captivity/rearing**. These are typical comparative ecological expectations, not guaranteed outcomes for an individual brood or a mandatory mechanical dice rule. On a per-Bloom expected-value basis, that is **7.5 fully mature wild survivors** versus **22.5 captive survivors** (fractional numbers denote cohort averages, not individual animals). In a four-mother, 120-seed communal Bloom, corresponding expected eventual full-grown survivors are **30 wild** versus **90 captive**. The 75% figure presumes substantial animal husbandry, communal nursing, Leshy tending, disease/pest control, Nymbrin veterinary interventions and appropriate protection against Hex; it is not survival without associated costs.
+
+Mossbacks reach **reproductive maturity at approximately 12 years**, **full physical maturity around 20 years**. These survival percentages are taken here as survival **from seed to full-size age 20**, for comparison with the existing economic model; survival to reproductive age 12 is **not separately quantified**, nor are age-specific death rates. Relative to the previous unapproved exploratory 10–30% band, the 25% wild and 75% captive baselines take precedence. Bloom frequency, maternal recovery, herd composition, veterinary costs and total saleable yield remain OPEN. Do not treat the captive advantage as a free multiplier on net profitability.
+
+---
+
 ## November 21, 2026 — AUTHOR DIRECTION: MOSSBACK JUVENILE MORTALITY, CARE AND MATURATION
 
 **Latest author's selected developmental ages:** Mossbacks reach **pollination/reproductive maturity around age 12 years**, and **full adult physical size around age 20 years**. Those are distinct thresholds: reproductive eligibility at 12 does not mean full body mass, maximum production, or automatic practical breeding success. Maintain the prior approved **about 30 ostrich-egg-sized seeds per Bloom**, multiple communal Blooming mothers, seed milk dependence and shared nursing.
