@@ -302,15 +302,15 @@ Burning Edge is the fire-element weapon enchantment family's author-selected nam
 
 ---
 
-## November 16, 2026 — Grapple initiation uses ONE Technique check (AUTHOR APPROVED; LATEST)
+## November 16, 2026 — Grapple initiation uses ONE Technique check (ACTION PROCEDURE ACTIVE; HISTORICAL STAT SUPERSEDED NOV22)
 
-**Latest explicit author approval:** Replace the earlier **ordinary attack accuracy check for grapple initiation** with **one Technique d20 check** to establish the grapple, using the approved universal **Technique = 2 × effective STR + effective DEX** statistic. No separate attack-roll-plus-Technique double check is required. Before the Technique check, the initiating combatant must have a **genuine physical opportunity to reach and establish a hold**, respecting approved reach control, intervening geometry, movement, relative SPD and other legal opposition. Merely occupying an adjacent square or declaring a grapple is not automatic entry. Grapple initiation remains a **committed offensive maneuver counting against the turn's one offensive-action limit**, never a free additional attack, bonus strike or automatic injury. A successful eligible Technique check establishes the grapple and existing grapple-range consequences.
+**Latest explicit author approval:** Replace the earlier **ordinary attack accuracy check for grapple initiation** with **one Technique d20 check** to establish the grapple, using the then-approved, **now-superseded** universal **Technique = 2 × effective STR + effective DEX** statistic (use **max(effective STR, effective DEX)** under the November 22 rule). No separate attack-roll-plus-Technique double check is required. Before the Technique check, the initiating combatant must have a **genuine physical opportunity to reach and establish a hold**, respecting approved reach control, intervening geometry, movement, relative SPD and other legal opposition. Merely occupying an adjacent square or declaring a grapple is not automatic entry. Grapple initiation remains a **committed offensive maneuver counting against the turn's one offensive-action limit**, never a free additional attack, bonus strike or automatic injury. A successful eligible Technique check establishes the grapple and existing grapple-range consequences.
 
 **Not yet approved:** Exact ratio of opposing Technique scores to six Naked-d20 check categories for initiation/escape, cost in the two-action economy (one or two actions), amount/duration/stacking of relevant Pressure, retry limits and other maneuvers (trips, disarms, shoves, throws). The previous attack-check initiation requirement is explicitly **superseded**. Existing approved escape-on-turn, failed escape cannot leave square / +1 incoming PP, and Pressure making escape harder remain unchanged. No proposed additive Weapon Rating or movement-tile rule is approved by this update.
 
 ---
 
-## November 16, 2026 — Technique statistic and Pressure-sensitive grapple escape (LATEST AUTHOR DIRECTION)
+## November 16, 2026 — Technique statistic and Pressure-sensitive grapple escape (HISTORICAL FORMULA; SUPERSEDED NOV22)
 
 **Author's explicit design decision:** Generalize the approved grapple-control score into the combat statistic **Technique = 2 × effective STR + effective DEX** (Strength counts twice), using the existing effective race-adjusted attributes. Grapple control is an application of Technique, rather than an independent differently scaled number. Non-damaging combat-control maneuvers such as **trips, disarms, grapples, shoves and throws** are intended members of the Technique family. Their individual procedures and exact secondary effects **are not yet approved**; the author explicitly deferred designing them. Neither Technique nor its maneuver family alters ordinary attack Power, approved weapon F, or ordinary SPD+DEX/4 evasion.
 
@@ -320,7 +320,7 @@ Burning Edge is the fire-element weapon enchantment family's author-selected nam
 
 ---
 
-## November 16, 2026 — Grapple Control STR-weighted formula APPROVED (LATEST)
+## November 16, 2026 — Grapple Control STR-weighted formula (HISTORICAL; SUPERSEDED NOV22)
 
 **Latest explicit author approval:** For grapple control and opposed escape calibration use **`G = 2 × effective STR + effective DEX`** for each involved combatant. Strength contributes twice as much as Dexterity; this replaces the earlier equal-weight `STR + DEX` candidate. Preserve race-adjusted effective attributes, fractional values, and the approved ordinary combat accuracy/evasion calculation separately. This approval authorizes the **attribute-weighting formula**, not the previously proposed exact `G_holder/G_escaper` six-category mapping, escape action expenditure, pressure duration/stacking, initiation action cost, or other grapple corner cases. Those are still experimental and must be tested before approval. Preserve the November 16 approved grapple-range weapon, shield and failure-Pressure principles immediately below.
 
