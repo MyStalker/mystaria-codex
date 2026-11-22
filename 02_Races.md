@@ -1,3 +1,8 @@
+## November 21, 2026 — Leshy vine anatomy and treetop livelihood (AUTHOR DIRECTION)
+
+Leshy possess **long, reaching body vines**, enabling movement through the enormous tree canopies where Canopy Kingdoms settlements are built. Their vines make them stronger and more capable than their tiny size alone implies; exact physical/mechanical bonuses remain OPEN. Urban Leshy can maintain the living support trees, decorative gardens, elevated plantings and household greenery rather than necessarily being farm workers. Owning reference: [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
+
+---
 ## November 21, 2026 — Leshen (Leshy) racial foundation approved
 
 **Leshen** (commonly **Leshy**) are small (~2.5-foot) sapient plant people, presently the smallest known Mystarian race. Photosynthesis replaces ordinary dietary consumption; sunlight, water, shelter, mineral and managmin constraints remain to be defined. Their yet-to-be-designed magical **Craft** manipulates plants. They originate principally in Canopy Kingdoms woodland/agricultural communities, but their horticultural value also draws some to Scarlands enclosed and sometimes subterranean gardens where they may be prized, confined or enslaved. Leshy magic is particularly disrupted by Haze without Haze necessarily killing them rapidly. Canopy–Scarlands food/rare botanical trade, and disputed Thornguard knightly recovery/protection orders, are part of their foundational setting role. Distinguish protective rescue from coercive returns: the Leshy's universal legal status is **UNRESOLVED**.
