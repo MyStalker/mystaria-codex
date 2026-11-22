@@ -1,3 +1,13 @@
+## November 22, 2026 — Author direction: prepared Curtainwall, enchanting external cloth, and defensive attrition
+
+**New author-approved Jestercraft migration directions:** One action rearranges Worn Stitches into a **stationary guard at one specified body location**, able to intercept **any number of attacks aimed at that location** until barrier Defense is consumed; it does not jump between locations. Author favors a **two-action dynamically repositioning guard** but exact resolution remains OPEN. A legendary Jester should be able to stop even massive singular attacks while losing finite protection; partial damage persists, exhausted layers Fray, and partially damaged material can be spent as Frayed or kept. **One consumed Stitch repairs all partial damage on damaged fabric currently Worn**; no restoration of fully Frayed/Cut Stitches is implied, and bulk repair efficacy/timing requires balance review.
+
+**Enchanted fabric:** Author-approved term for Jester-prepared environmental cloth that can physically slither into Regalia as stock. Can be enchanted **without wearing at 1 MP per Stitch-equivalent**. This is a specific Regalia interaction, not ordinary Leywell item enchanting, free teleportation, free matter creation or extra native capacity. Suggested limit of **~200% native Stitch capacity enchanted at a time including worn/off-body** remains **provisional**. Native capacity must grow through progression sufficiently for a properly developed level-100 Jester to have **four torso shield layers**; progression curve remains unapproved. Channel Limit still limits Stitches committed per spell and physical material contact remains required.
+
+**Unapproved numerical stress tests** of `layers × defensive spell Power` are in `05_Jestercraft.md` (INT15/40/150 illustrative barriers 1,802/14,407.5/223,236 versus 547.56/5,776/181,135.36 physical attack Power). These are deterministic calculations using **offensive** spell Power as a *proxy*, not finalized defensive-Power or Regalia implement rules. Strong defense versus a huge strike, poor sustained endurance, and a possible multi-location one-Stitch repair exploit all need calibration. Old 130-SP/stitch ledgers are retained for history while migration proceeds. **Owning file:** `05_Jestercraft.md`; changed summary: `00_Mystaria_Canon_Index.md`.
+
+---
+
 
 
 ## November 22, 2026 — Jestercraft migration decisions (author-approved directions; defensive math pending)
