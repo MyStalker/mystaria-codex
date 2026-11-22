@@ -1,3 +1,9 @@
+## November 21, 2026 — EQUATORIAL CANOPY TREETOP FARMS; LESHY CULTIVATION DIRECTION
+
+Canopy Kingdoms lie on the **equator**, with year-round agricultural potential. Normal farmland is **elevated in the sunlit canopies of giant trees**, with Leshy-grown grains, vegetables and roots such as potatoes intertwined with living branches; soil may be hauled from the dark/dangerous ground below. Leshy agricultural Craft direction: poor-soil remediation and fertilizer substitution, pest/blight control, potent planting/plowing (proposed **~5 conventional workers per Leshy on those tasks**) but a **harvest bottleneck**. A powerful Leshy growing watermelon in desert sand is an illustrative ceiling, **not a defined numeric spell**. Actual yield, load, soil/water/energy costs and Craft mechanics OPEN. See [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — LESHY VINES AND TREE-CANOPY URBAN LIVELIHOOD
 
 Leshy have long body vines granting exceptional treetop mobility and useful strength beyond their ~2.5-foot size. Canopy Kingdoms settlements are integrated into **massive tree canopies**; urban Leshy serve living-tree maintenance, decorative gardens, elevated planting and household botany as well as rural agriculture. No vine reach/Strength/Speed/Craft mechanics approved. See [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md) and [Races](02_Races.md).
