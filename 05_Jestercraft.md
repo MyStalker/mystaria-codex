@@ -1,5 +1,37 @@
 # Mystaria — Jestercraft: Authoritative Canon Reference
 
+## November 22, 2026 — Author-approved Stitch shielding granularity; Channel Limit-derived capacity proposal
+
+**LATEST AUTHOR APPROVAL (mechanical direction):** The old proposed `one full defensive-Power unit per defensive fabric layer` is replaced for the redesign by **one Stitch providing 0.5 × the Jester's applicable defensive spell Power in ablative shield Defense**. Three Stitches provide ordinary coverage for the torso of an average humanoid; four, ten or another eligible quantity may be allocated there for greater defense, as actual available material and applicable magical restrictions allow. A full average humanoid reference covering now costs **eight Stitches** under the previously discussed non-torso allocation: head/neck 1, torso 3, both arms/hands 2, both legs/feet 2. Fully depleted Stitches become Frayed; damaged Stitches retain remaining barrier capacity or may be expended as Frayed under the author's previously selected rule. This is the author's latest explicitly approved Stitch-by-Stitch defensive scale, but the underlying **defensive spell-Power formula** is still OPEN. Baseline reference body sizes and material accounting require appropriate adjustment for anatomically very different races.
+
+**AUTHOR-SELECTED PROGRESSION DIRECTION:** The **applicable Channel Limit should also determine the Regalia's maximum native Stitch holding capacity**, replacing a separate upgrade-count-based capacity ladder in the modernization. The exact capacity function, minimum starting allowance and interaction with one-action half-CL magical throughput are **not yet approved**. Native capacity and an individual spell's legal Stitch allocation remain distinct: material can be held without necessarily being channeled into an active spell. Previously recorded 200% enchanted-stock cap remains a suggested target, not ratified.
+
+### Recommended native-capacity candidate (TEST ONLY; NOT CANON)
+
+`Native Stitches C = 5 + floor(applicable full Channel Limit / 2)`.
+
+This avoids the raw `C=CL` pitfall where a level-one caster may have only CL1 and cannot even cover a torso with 3 Stitches. It remains a proposal, not a settled character-creation rule. Compare an alternative `C=max(5, CL)` if a more directly equal cap is desired; the latter expands much faster at advanced levels.
+
+**Illustrative Drider investment fixture, not a guaranteed character progression:** Start with Drider **base INT15**, apply the approved **×1.10** racial multiplier, allocate **+1 base INT per gained level** of the two earned stat points, add **+1 base INT every fifth level**, and assume discretionary purchased Craft-specific/universal upgrades at levels 1/10/25/50/75/100 of respectively (0,0)/(2,2)/(6,4)/(11,10)/(15,15)/(20,20). Use approved `Mastery=floor(0.5×craft upgrades + 0.25×universal upgrades)`; use still-*provisional* modular `CL=floor(effective INT/10+Mastery)`. Outcomes:
+
+| Level | Example effective INT | Example Mastery | Example CL | Proposed C |
+|---:|---:|---:|---:|---:|
+| 1 | 16.5 | 0 | 1 | 5 |
+| 10 | 28.6 | 1 | 3 | 6 |
+| 25 | 48.4 | 4 | 8 | 9 |
+| 50 | 81.4 | 8 | 16 | 13 |
+| 75 | 114.4 | 11 | 22 | 16 |
+| 100 | 147.4 | 15 | 29 | 19 |
+
+**Material thresholds under the candidate C (not fixed level gates):** 3 torso Stitches for basic full torso coverage; 6, 9, 12 torso Stitches for two, three, four complete coverings. Native C sufficient for bare torso 2/3/4 layers occurs at **CL ≥2 / ≥8 / ≥14**. Full standard body coverage consumes 8; full body **plus** complete double/triple/quadruple torso covering requires **11 / 14 / 17** native Stitches, reached at **CL ≥12 / ≥18 / ≥24** respectively. The first extra torso reinforcing Stitch while also covering the rest of the body requires 9 total Stitches, reached at CL ≥8. These thresholds depend on material availability, proper geometry and any separately applicable legal spell/channel throughput.
+
+**Interaction not yet resolved:** The general magic system restricts one-action mana throughput to half of full CL. The author separately approved one action to physically rearrange Worn material into a stationary prepared guard at a specified body location. If that innate repositioning is charged as an ordinary mana-costing cast, a level-one CL1 Jester could empower only one Stitch, conflicting with the intended 3-Stitch basic torso defense. **Suggested reconciliation, awaiting approval:** rearranging already enchanted Worn fabric and its innate shield property is a core Regalia repositioning action, not a newly channeled spell; distinct magical enhancements/attacks through the fabric still consume actual channel throughput and cannot exceed CL. Do not assert this exemption is already approved.
+
+**Test-equivalence:** New 4 Stitches = old 2 hypothetical full-Power layers; new 6 Stitches = old 3; new 8 Stitches = old 4. Under previous *illustrative* (NOT canon) defensive Power proxy of beginner 901, developed 4,802.5, legendary 55,809, each new Stitch would provide 450.5 / 2,401.25 / 27,904.5 shield Defense respectively. A 12-Stitch legendary torso barrier would provide 334,854 against the earlier illustrative 181,135.36-Power strike; it absorbs one such hit entirely, and a second passes 27,416.72 Power toward the wearer if no repair/replacement occurs. All deterministic fixtures remain noncanonical and assume lawful hit/contact, qualified attacker, and no special bypass.
+
+---
+
+
 ## November 22, 2026 — Curtainwall prepared shielding and enchanted-fabric resource (latest author directions)
 
 **Authority/status:** The author has explicitly approved the following directional rules while the complete Jestercraft migration remains in development. Quantities/calculations labeled **TEST ONLY** are illustrative, NOT approved final Stitch costs, per-level caps or defensive Power. The earlier November 22 migration addendum below remains in force where compatible.
