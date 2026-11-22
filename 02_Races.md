@@ -1,3 +1,9 @@
+## November 21, 2026 — Leshy branch-fused farming, equatorial Canopy (AUTHOR DIRECTION)
+
+The Canopy Kingdoms are equatorial, supporting agriculture year-round. Farms commonly occupy the **sunlit upper branches of enormous trees**, above a dark and dangerous forest floor. Leshy cultivate wheat, vegetables and root crops such as potatoes integrated with living branches, with soil transported up from the ground as needed. Their emerging Craft concept includes improving infertile growing media, suppressing pests and blight, and extraordinary efficiency in **planting and plowing**, but much less advantage in **harvesting**. The **one Leshy ≈ five planting/plowing workers** and exceptional **watermelon in desert sand** are **working design benchmarks**, not finalized Craft or physical-resource rules. See [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
+
+---
+
 ## November 21, 2026 — Leshy vine anatomy and treetop livelihood (AUTHOR DIRECTION)
 
 Leshy possess **long, reaching body vines**, enabling movement through the enormous tree canopies where Canopy Kingdoms settlements are built. Their vines make them stronger and more capable than their tiny size alone implies; exact physical/mechanical bonuses remain OPEN. Urban Leshy can maintain the living support trees, decorative gardens, elevated plantings and household greenery rather than necessarily being farm workers. Owning reference: [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
