@@ -1,3 +1,11 @@
+## November 21, 2026 — Leshen (Leshy) racial foundation approved
+
+**Leshen** (commonly **Leshy**) are small (~2.5-foot) sapient plant people, presently the smallest known Mystarian race. Photosynthesis replaces ordinary dietary consumption; sunlight, water, shelter, mineral and managmin constraints remain to be defined. Their yet-to-be-designed magical **Craft** manipulates plants. They originate principally in Canopy Kingdoms woodland/agricultural communities, but their horticultural value also draws some to Scarlands enclosed and sometimes subterranean gardens where they may be prized, confined or enslaved. Leshy magic is particularly disrupted by Haze without Haze necessarily killing them rapidly. Canopy–Scarlands food/rare botanical trade, and disputed Thornguard knightly recovery/protection orders, are part of their foundational setting role. Distinguish protective rescue from coercive returns: the Leshy's universal legal status is **UNRESOLVED**.
+
+**NOT YET APPROVED:** playable racial statistics, Craft ranks/effects/costs, physiological requirements, resistance values, population shares, specific knightly orders and titles, exact agricultural bonuses. See [38_Leshen_Leshy_Foundations.md](38_Leshen_Leshy_Foundations.md).
+
+---
+
 ## November 15, 2026 — Vesperyn racial name and naming convention APPROVED
 
 **Vesperyn** is the approved singular and plural race name for the previously concepted Scarlands sheepfolk, formerly referred to provisionally as **Lambfolk**. The Vesperyn are associated with the planned racial Pyromancy Craft; its existing-flame medium requirements remain governed by [Magical Media and Contests](35_Magical_Media_and_Contests.md). The author's approved **Vesperyn naming convention** combines gentle pastoral birth names, inherited family or ancestral-hearth surnames with gothic or devotional flavor, and optional earned religious/inquisitorial titles or epithets. Civilian Vesperyn do not need a religious title. See [Racial Naming Conventions](24_Racial_Naming_Conventions_and_Namebook.md).
