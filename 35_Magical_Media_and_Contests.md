@@ -1,3 +1,9 @@
+## November 22, 2026 — Prepared magical defenses can be Feinted (APPROVED CROSS-REFERENCE)
+
+The universal **Feint** action in `22_Combat_Endurance_and_Shimmer_Guard.md` costs **one action** and requires success in a relevant opposing **Technique check** to deceive a prepared defender. A successful credible false attack that fits the defender's previously declared eligible prepared trigger **commits/activates that defensive response** despite no real attack landing. Continue to enforce prepared spell eligibility, declared narrow triggers, response timing and actual material/MP/Channel costs, unless a specific Craft has an approved exemption. Feint does not damage real barriers or erase legitimately persistent fields/physical obstacles; no ordinary enchanted shield or permanent defensive effect is forced to disappear. For Jestercraft, rearrangement of already enchanted Worn Stitches is an **innate one-action physical defensive action**, exempt from counting as a newly mana-costing one-action casting; **separate spellcasting** remains channel-bound. Whether Feint counts against the turn's offensive attack-action maximum and the exact auxiliary bluff/trigger corner cases remain OPEN (recommended but NOT YET CANON: non-damaging setup allowing a subsequent lawful Quick Attack).
+
+---
+
 ## November 21, 2026 — Environmental restraint area Magnitude surcharge (AUTHOR APPROVED)
 
 **Area environmental binding:** A spell that physically restrains creatures through manipulated environmental matter (such as State Mastery returning liquefied stone to solid form around feet, or Wakecraft freezing actual water around feet) pays **twice the ordinary universal Magnitude MP price** when purchasing an **area** effect. The **single-target Magnitude 0 remains 1 MP**, not doubled.
