@@ -1,3 +1,9 @@
+## November 21, 2026 — AUTHOR CLARIFICATION: Leshy require sun, water and soil; artificial sunlight exists
+
+**Approved:** Photosynthetic Leshy genuinely require **sunlight/light, water and soil**; they are not exempt from resource needs. Scarlands alchemists have already devised **artificial sunlight** in controlled cultivation environments, including concealed/subterranean gardens; the sun-averse Vren value the utility of such gardens. Preserve Vren's established vulnerability to direct sunlight: whether artificial light harms a Vren and how facilities shield their occupants are **OPEN**, not a new immunity. Rates, costs, magnitudes and Craft-specific plant growth are unapproved. Owner: [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Leshen / Leshy foundational race, ecology and economic role
 
 **Approved:** Leshen (usually Leshy) are approximately 2.5-foot sapient plant people, presently Mystaria's smallest race, surviving nutritionally via photosynthesis rather than ordinary meals. Their yet-to-be-developed Craft manipulates plants. Their principal homeland is the **Canopy Kingdoms**; they are especially sought for agricultural, rare-plant, and potion-botanical cultivation, including in the Scarlands. Leshy cultivation together with Canopy clockwork harvesters may narrow the agricultural productivity/food-price gap with Imperium Worldspindles, **not a numeric modifier or approved price result**. Food and botanical trade between Canopy and Scarlands is important. Small Thornguard protection/recovery knightly orders, sometimes with paternalistic or coercive interpretations of guardianship, can pursue kidnapped Leshy and contested returns. Leshy in the Scarlands may be highly valued and kept in secured greenhouses, often hidden or subterranean in caves. **Haze disproportionately disrupts Leshy magic but is not rapidly fatal simply by their race**; detailed thresholds open.
