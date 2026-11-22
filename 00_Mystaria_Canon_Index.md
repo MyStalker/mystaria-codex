@@ -1,3 +1,9 @@
+## November 21, 2026 — LESHEN / LESHY FOUNDATION APPROVED (PLAYABLE MECHANICS OPEN)
+
+**Leshen (Leshy)** are very small (~2.5-foot) sapient plant people nourished by photosynthesis rather than ordinary meals, originating chiefly in the **Canopy Kingdoms**, with a plant-manipulating magical Craft to be designed. They are unusually sensitive to **Haze disruption of their magic**, not automatically killed quickly by Haze. Their cultivation is economically important in the Canopy and for scarce food/rare plants in the Scarlands, where valuable Leshy may be confined in secure or subterranean greenhouses. Cross-border trade and contested Thornguard knightly protection/recovery orders are part of this foundation. Exact legal status, knightly order names, Craft rules, production multipliers, nutrition rules, and player-character attributes remain OPEN; do not present a full playable stat block. See [Leshen Foundations](38_Leshen_Leshy_Foundations.md), [Races](02_Races.md), and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — ENVIRONMENTAL RESTRAINT AREA MAGNITUDE COST APPROVED
 
 **Approved:** Spells binding creatures physically through area terrain manipulation (e.g., Nymbrin re-solidified stone or Wakecraft ice) pay **double normal area Magnitude MP**, preserving **Magnitude 0 single target at 1 MP**. **0/I/II/III/IV/V environmental restraint = 1/4/8/20/60/120 MP**, versus ordinary **1/2/4/10/30/60 MP**. No Power penalty: opposed physical/Technique escape instead of status buildup; actual material, anchor, action, casting requirements and durability govern. Existing Pyromancy natural-area exception unchanged. Detailed opposed-stat mapping, initial defense timing and escape-action particulars remain OPEN. See [Magical Media and Contests](35_Magical_Media_and_Contests.md) and [Changelog](10_Canon_Changelog.md).
