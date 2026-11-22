@@ -50,7 +50,7 @@
 
 **One-action defense exemption APPROVED:** Repositioning **already enchanted Worn Stitches** into the previously approved **single-location prepared protective configuration** is an **innate one-action physical Regalia action**, **not a fresh mana-costing spell** and thus **not constrained by the general one-action half-CL spell-throughput cap**. Actual separately cast magic, its legal material investment, full applicable CL, MP payments, declared triggers, physical reach, action economy and damage/Frayed attrition remain operative. The Regalia does not freely reposition after preparation or gain a second defense from this exception.
 
-**Universal Feint combat action APPROVED:** **1 action**, credible false attack that **requires winning an opposing Technique check** using the established `Technique = 2 × effective STR + effective DEX`. If successful against an eligible prepared defense, the Feint **forces its prepared response to trigger/commit to the apparent attack line without a real damaging strike**; on failed check no baited defensive expenditure. A successful Feint against a Jester may misposition prepared fabric or waste prepared Parry/magical defense, but **does not damage or erase a physical shield's existing barrier Defense**, automatically bypass normal shield Guard, or make permanent defenses vanish. Feint itself delivers no injury/Attack Power and does not award Parry Pressure Points. **Unresolved, not approved:** whether Feint uses the single offensive-attack allowance; assistant recommends treating it as a nondamaging setup action to allow a normal one-action Quick Attack as the second action. Specific prepared-trigger legality, attack geometry and unusual timing/counterdeception need reconciliation with the existing physical tabletop pilot and shared magical preparation rules; do not silently add extra attacks/reactions.
+**Universal Feint combat action APPROVED:** **1 action**, credible false attack that **requires winning an opposing Technique check** using the current `Technique = max(effective STR, effective DEX)` (replacing the historical `2 × effective STR + effective DEX`). If successful against an eligible prepared defense, the Feint **forces its prepared response to trigger/commit to the apparent attack line without a real damaging strike**; on failed check no baited defensive expenditure. A successful Feint against a Jester may misposition prepared fabric or waste prepared Parry/magical defense, but **does not damage or erase a physical shield's existing barrier Defense**, automatically bypass normal shield Guard, or make permanent defenses vanish. Feint itself delivers no injury/Attack Power and does not award Parry Pressure Points. **Unresolved, not approved:** whether Feint uses the single offensive-attack allowance; assistant recommends treating it as a nondamaging setup action to allow a normal one-action Quick Attack as the second action. Specific prepared-trigger legality, attack geometry and unusual timing/counterdeception need reconciliation with the existing physical tabletop pilot and shared magical preparation rules; do not silently add extra attacks/reactions.
 
 **Files updated:** `05_Jestercraft.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `35_Magical_Media_and_Contests.md`, `10_Canon_Changelog.md`, and `00_Mystaria_Canon_Index.md`. The Drider racial-Craft redesign, 200% enchanted stock ceiling, 4-MP material creation from nothing, tile-density per Stitch and exact defensive Power formula remain separately provisional/unresolved and are **not** ratified by this approval.
 
@@ -1262,7 +1262,7 @@ These are general **initial design bands**, not an automatic cost or power assig
 
 ---
 
-## November 16, 2026 — One Technique check replaces grapple attack initiation (APPROVED; LATEST)
+## November 16, 2026 — One Technique check replaces grapple attack initiation (APPROVED PROCEDURE; HISTORICAL STAT SUPERSEDED NOV22)
 
 **Explicit author approval:** Grapple initiation is resolved through **a single Technique d20 check**, based on approved **Technique = 2 × effective STR + effective DEX**, replacing the prior ordinary attack-check requirement. A valid reach-entry/physical opportunity is required *before* checking for a hold; no two-stage attack-plus-Technique roll, free attack, injury or automatic adjacency grapple is granted. Initiation is an offensive maneuver under the existing **one offensive attack action per turn** constraint. Prior November 16 notes describing Technique initiation as a proposal are **superseded** on this point only.
 
@@ -1272,7 +1272,7 @@ These are general **initial design bands**, not an automatic cost or power assig
 
 ---
 
-## November 16, 2026 — Technique unified control statistic; Pressure worsens grapple escape (LATEST)
+## November 16, 2026 — Technique unified control statistic; Pressure worsens grapple escape (HISTORICAL FORMULA; SUPERSEDED NOV22)
 
 **Explicit author direction:** Rename/generalize prior approved **Grapple Control `2STR+DEX`** into the broader **Technique statistic `2 × effective STR + effective DEX`**. Grappling, trips, disarms, shoves and throws are non-damaging combat-control Technique concepts; only existing grapple-specific effects are currently specified, and the author deferred all other procedures. **Pressure on the escaper makes grapple escape harder.** Proposed consistent tier mapping: 0 net PP unchanged, 1–2 PP one difficulty category harder, 3+ PP two categories harder; the author approved the direction but **has not expressly selected the exact shift values**. Existing failed-escape immobility and +1 incoming PP continue.
 
@@ -1282,7 +1282,7 @@ These are general **initial design bands**, not an automatic cost or power assig
 
 ---
 
-## November 16, 2026 — Grapple Control formula `2STR + DEX` APPROVED (LATEST)
+## November 16, 2026 — Grapple Control formula `2STR + DEX` (HISTORICAL; SUPERSEDED NOV22)
 
 **Author's explicit approval:** Use **`G = 2 × effective STR + effective DEX`** as the controlling combatant's and escaping combatant's grapple-control attribute score. STR has double DEX's influence; the older `STR + DEX` equal-weight proposal is superseded. This is an approved grapple-specific score, not a replacement for ordinary hit/evasion Combat Speed (`SPD + DEX/4`). The exact proposed conversion of control ratios to six Naked-d20 escape categories, initiation/escape action costs, expiration/stacking of the failed-escape +1 incoming PP and other grappling details remain **unapproved experimental matters**. Keep approved grapple-range restrictions, shield bypass and failed-escape consequence intact.
 
