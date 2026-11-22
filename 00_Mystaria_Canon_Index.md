@@ -1,3 +1,11 @@
+## November 22, 2026 — Jestercraft guarded fabric and enchantment: author directions
+
+**LATEST:** One combat action rearranges Worn Stitches into a **stationary protective barrier for one specified body location**, intercepting all incoming attacks at that location until consumed, not magically following other attack angles. Author favors a stronger **two-action repositioning version**; exact active defense procedure remains open. Layered flexible Regalia is a **finite consumable physical shield**, with partial damage that persists, fully spent layers becoming Frayed, and remaining Attack Power potentially reaching the wearer; **layer × defensive spell Power** is the test starting equation, NOT a finished spell-Power formula. Damaged but not fully Frayed fabric can be retained or expended as Frayed; the author directs that **one spent Stitch repairs all partial damage to any currently Worn damaged fabric** (potential multi-stack repair balance concern).
+
+**Enchanted fabric (Jester-specific):** At **1 MP per Stitch-equivalent**, suitable external fabric may be enchanted without first being worn and is eligible to **physically slither back into the Regalia** to replenish stock; does not increase native cap, create cloth freely, or bypass actual touch/distance/Channel Limit requirements. **Around 200% native Stitch count as the combined enchanted-cloth ceiling, worn plus off-body, remains proposed**, not finalized. Native Stitch capacity must advance sufficiently to permit a specialized level-100 Jester to protect their torso with **four layers**. Full numerical upgrade/cost/density calibration remains open. See [Jestercraft migration and stress tests](05_Jestercraft.md#november-22-2026--curtainwall-prepared-shielding-and-enchanted-fabric-resource) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 
 
 ## November 22, 2026 — Jestercraft migration decisions (author-approved directions; defensive math pending)
