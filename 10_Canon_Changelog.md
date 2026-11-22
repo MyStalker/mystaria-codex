@@ -1,3 +1,8 @@
+## November 21, 2026 — AUTHOR CLARIFICATION: Host tree replaces soil for eligible crops, not watering
+
+Canopy farms may grow most compatible branch-integrated wheat/vegetable/root crops using the **living support tree as the substrate rather than transporting conventional soil up**. **Crops still need direct watering.** Soil transport remains for ineligible or specialist plants. Water access, irrigation failure, tree nutrient/structural health, eligibility and exact managmin inputs remain OPEN. This overrides any earlier implication that all major treetop growing surfaces require imported soil. Owner [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
+
+---
 ## November 21, 2026 — AUTHOR DIRECTION: Equatorial treetop farms and Leshy cultivation limits
 
 **Established setting direction:** Canopy Kingdoms are equatorial and can farm year-round; the customary farm occupies giant **sunlit treetops**, growing wheat, vegetables and even potatoes integrated with living branches and soil transported from the dark, dangerous forest floor. Leshy cultivation maintains these high agricultural systems. **Provisional, NOT approved numeric Craft mechanics:** Leshy can substitute for many fertilizer functions, make poor soils viable, suppress pests and blight, and may be **at least five times as efficient at planting/plowing** while comparatively weak at harvesting. A highly powerful Leshy might grow watermelons in desert sand, but water/nutrient costs and legal mechanics remain OPEN. Distinguish crop yield, labor savings and harvesting efficiency; do NOT apply ×5 to all production. Owner [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md). Companion economic figures remain experiments.
