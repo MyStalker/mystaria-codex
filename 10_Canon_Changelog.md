@@ -1,3 +1,9 @@
+## November 22, 2026 — LATEST AUTHOR CORRECTION: sleeping restores shattered Shimmer Guard before 24 hours
+
+**Approved HP-prototype correction:** A qualifying sleep **ends the emergency Shimmer Break lockout and restores the entire Shimmer Reserve immediately on waking**, even if 24 hours have not passed. The existing **24-hour timeout remains an alternative end to the lockout** if the Hero does not sleep; whether that non-sleep timeout also fully refills Shimmer HP remains to finalize. This replaces the earlier same-day text stating that sleeping cannot bypass the 24-hour Break penalty. Ordinary Hero sleep healing (50% of ordinary maximum HP, 100% with medical attention) remains independent; no medical attention is required for Shimmer renewal. The prototype's 100%-ordinary-HP Shimmer Reserve and 51%-of-maximum-COMBINED-HP emergency Break remain unchanged. Qualifying sleep duration and interruption rules still OPEN. **The current wound-based rules remain operative.** Updated: Combat owner, Canon Index, and Changelog.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: HP prototype armor ladder, END/Weight role and ordinary/Hero rest healing
 
 **Approved for the experimental additive-HP replacement, not yet operative:** The author accepts the trial armor ladder (level-reference Light/Medium/Heavy protection/Weight: L10 10/6, 20/12, 35/22; L50 40/20, 75/35, 110/55; L100 65/35, 115/55, 165/85), shared `Weight=STR+END` budget direction, fully negating armor, and avoiding a second inherent SPD penalty for armor in the pilot. END is deliberately valuable through both ordinary HP and loadout Weight. Preserve earlier approved emergency Shimmer Break threshold at 51% of combined maximum HP, 100% Shimmer Reserve, and 24-hour shattered-Guard lockout. Illustrative item Weight and armor values are **prototype calibration points, not final weapon/material/Quality conversions**. Existing wound combat remains operative.
