@@ -1,3 +1,9 @@
+## November 21, 2026 — LESHY PHOTOSYNTHETIC INPUTS AND SCARLANDS GROW-LIGHT APPROVED
+
+**Leshen/Leshy need sunlight/light, water, and soil for photosynthetic nourishment**. Scarlands alchemists can create **artificial sunlight in controlled greenhouses**, including subterranean cave gardens useful to sun-averse Vren. This does **not** grant Vren immunity to sunlight or determine whether direct artificial light is hazardous to them; precise requirements, costs, and technical implementation OPEN. See [Leshen Foundations](38_Leshen_Leshy_Foundations.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — LESHEN / LESHY FOUNDATION APPROVED (PLAYABLE MECHANICS OPEN)
 
 **Leshen (Leshy)** are very small (~2.5-foot) sapient plant people nourished by photosynthesis rather than ordinary meals, originating chiefly in the **Canopy Kingdoms**, with a plant-manipulating magical Craft to be designed. They are unusually sensitive to **Haze disruption of their magic**, not automatically killed quickly by Haze. Their cultivation is economically important in the Canopy and for scarce food/rare plants in the Scarlands, where valuable Leshy may be confined in secure or subterranean greenhouses. Cross-border trade and contested Thornguard knightly protection/recovery orders are part of this foundation. Exact legal status, knightly order names, Craft rules, production multipliers, nutrition rules, and player-character attributes remain OPEN; do not present a full playable stat block. See [Leshen Foundations](38_Leshen_Leshy_Foundations.md), [Races](02_Races.md), and [Changelog](10_Canon_Changelog.md).
