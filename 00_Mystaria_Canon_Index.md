@@ -1,3 +1,9 @@
+## November 21, 2026 — MOSSBACK NAME APPROVED; SPECIES DESIGN UNDER REVIEW
+
+**Mossback** is the approved name for the proposed giant triceratops-like **green Starspawn livestock species**. **Only the name is newly approved:** its further anatomy, herd behavior, spores, feeding, milk, working role and ranching particulars are pending author review. See [World and Shimmer](01_World_and_Shimmer.md), [Changelog](10_Canon_Changelog.md), and the [experimental estate/ranch docket](https://github.com/MyStalker/mystaria-economy/blob/main/10_Treetop_Estate_and_Starspawn_Ranch_DRAFT.md).
+
+---
+
 ## November 21, 2026 — WORLDWIDE IDIOM APPROVED: “GONE LIKE A 25 HOUR STEAK”
 
 **Approved widespread Mystarian expression:** “Gone like a 25 hour steak,” meaning a thing or opportunity vanished before anyone could enjoy or benefit from it. Alludes to Starspawn flesh disappearing when Celestial Recall normally begins after about **24 hours**; the **25th hour is the joke**, not a revised timing rule. Owner: [Languages and Linguistic Customs](12_Languages_and_Linguistic_Customs.md); see [World and Shimmer](01_World_and_Shimmer.md).
