@@ -1,3 +1,9 @@
+## November 21, 2026 — AUTHOR APPROVAL: Mossback livestock Starspawn name only
+
+The triceratops-like green-affinity herdbeast being developed for Canopy husbandry is officially named **Mossback**. The author explicitly intends to review its other details next; **do not promote the assistant's unreviewed characterization or proposed game mechanics to canon merely through the name approval**. Species biology, spore effects, milk, solar nutrition, ranching and herd management need author review. Owner: [01 World and Shimmer](01_World_and_Shimmer.md); companion economy draft.
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Worldwide “Gone like a 25 hour steak” expression
 
 **Approved:** “Gone like a 25 hour steak” is an idiom heard throughout Mystaria for something that disappears before it can be enjoyed or put to use. The saying riffs on Starspawn meat disappearing when ordinary Celestial Recall begins **~24 hours after death**; the 25-hour reference is humorous, not a new Recall duration. No unique origin or required dialect has been set. Owner [12 Languages and Linguistic Customs](12_Languages_and_Linguistic_Customs.md).
