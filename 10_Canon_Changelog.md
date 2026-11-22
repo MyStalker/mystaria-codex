@@ -1,3 +1,8 @@
+## November 21, 2026 — AUTHOR DIRECTION: Leshy body vines and Canopy treetop functions
+
+Leshy have **long, extending body vines** that enable treetop mobility and practical strength disproportional to 2.5-foot height. Canopy Kingdoms urban settlements occupy the canopies of **massive trees**. Urban Leshy can tend structural living trees, ornamentals, elevated gardens and household vegetation; do not count all urban Leshy as agricultural workers. **No numbers or combat/locomotion mechanics approved**: vine reach, load capacity, movement speed, specific spell magnitude and scaling remain OPEN. Owner [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md); [02 Races](02_Races.md).
+
+---
 ## November 21, 2026 — AUTHOR CLARIFICATION: Leshy require sun, water and soil; artificial sunlight exists
 
 **Approved:** Photosynthetic Leshy genuinely require **sunlight/light, water and soil**; they are not exempt from resource needs. Scarlands alchemists have already devised **artificial sunlight** in controlled cultivation environments, including concealed/subterranean gardens; the sun-averse Vren value the utility of such gardens. Preserve Vren's established vulnerability to direct sunlight: whether artificial light harms a Vren and how facilities shield their occupants are **OPEN**, not a new immunity. Rates, costs, magnitudes and Craft-specific plant growth are unapproved. Owner: [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).
