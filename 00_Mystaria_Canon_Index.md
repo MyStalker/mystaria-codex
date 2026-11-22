@@ -1,3 +1,11 @@
+## November 22, 2026 — LATEST AUTHOR APPROVAL: all wound-based combat penalties removed
+
+Wounded, Gravely Wounded, and Hero/Legend Shimmer Guard injury stages impose **no mechanical penalties** to attributes, Combat Speed, attack/Defense Power, hit/evasion, equipment eligibility, or other combat calculations. No percentage, flat, situational, pain-based, or simplified wound penalty replaces the old rules. Pain is narrative only; **Incapacitated** remains the state that ordinarily prevents action. Ordinary three-stage and Hero/Legend five-stage injury progressions remain, with Guard I/II as additional injury capacity rather than reduced-penalty stages. Wounds cannot trigger equipment shortfalls or reduce initiative. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [World and Shimmer](01_World_and_Shimmer.md), and [Equipment](09_Equipment_and_Economy.md).
+
+**Combat redesign status:** Attack/Defense Grade conversion and rounded grade-to-injury thresholds remain **provisional test material, not canon**. The current quadratic Power/Defense formulas and impact thresholds remain operative until separately approved. Combat Lab 0.7.0 still implements wound penalties and has no grade-resolution mode, so its full-duel outputs require a separate simulator update before they can test the revised rules.
+
+---
+
 ## November 22, 2026 — LATEST APPROVED: Spell Power governs Thread Grappling initiation AND maintenance
 
 A Jester's Thread Grapple originates at the grappling **Draped tile** (its physical anchor), with **1 MP** base initiation cost; additional legal MP raises **Spell Power**. **Spell Power determines both whether the grapple can be initiated and whether it can be maintained.** This **supersedes** the earlier same-day interpretation requiring a distinct ordinary Technique check for initiation. Ordinary grapple rules apply where compatible and the offensive maneuver limit remains intact; universal Technique is unaffected for other uses. This is distinct from the magical Binding status. Target resistance/opposed Power formula, check timing, range, severing/durability, and multiple grapples remain **OPEN**. Owning [Jestercraft](05_Jestercraft.md#november-22-2026--latest-author-correction-spell-power-initiates-and-maintains-thread-grappling); general [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).
