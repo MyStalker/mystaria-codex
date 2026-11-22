@@ -1,3 +1,9 @@
+## November 21, 2026 — AUTHOR APPROVAL: Worldwide “Gone like a 25 hour steak” expression
+
+**Approved:** “Gone like a 25 hour steak” is an idiom heard throughout Mystaria for something that disappears before it can be enjoyed or put to use. The saying riffs on Starspawn meat disappearing when ordinary Celestial Recall begins **~24 hours after death**; the 25-hour reference is humorous, not a new Recall duration. No unique origin or required dialect has been set. Owner [12 Languages and Linguistic Customs](12_Languages_and_Linguistic_Customs.md).
+
+---
+
 ## November 21, 2026 — AUTHOR APPROVAL: Starspawn flesh disappears after Recall; nutritional assimilation persists
 
 **Final ruling for material persistence:** When the Astral Heart begins Celestial Recall (ordinarily about **24 hours after death**), **unassimilated Starspawn flesh disappears regardless of butchering, separation, cooking, refrigeration, Wakecraft freezing, transport or storage**. **Nutrients/managmins already digested and biologically assimilated by another creature persist**; Recall does not reverse meals. The physical threshold for completed assimilation remains OPEN. Remote settlements generally move **living Starspawn** to local slaughter and promptly eat/prepare the meat rather than storing carcasses indefinitely. This supersedes all earlier proposals for permanently retaining butchered pieces.
