@@ -1,3 +1,9 @@
+## November 21, 2026 — Mossback species name APPROVED; biology under review
+
+**Mossback** is the author-approved common species name for the proposed **enormous, triceratops-like green-mana livestock Starspawn** of the Canopy Kingdoms. The user is **still reviewing its other characteristics**. Do not treat the latest discussion's size, herd structure, spores, solar feeding, milk, work role, habitat, handler methods or quantitative husbandry as fully ratified by this naming approval. Preserve any independently approved general Starspawn and Canopy livestock rules. Subject-specific species details may be approved later.
+
+---
+
 ## November 20, 2026 — Escalating Gem rewards: 7–997 per equal-level Henchman (LATEST AUTHOR APPROVAL)
 
 **Approved economic rule, not an XP change:** At current Hero level `L`, a patron-qualifying equal-level Henchman-equivalent encounter awards reference `B(L) = 10L − 3` **Gems** (7 at level 1, 497 at level 50, 997 at level 100). For an ordinary qualifying encounter of challenge level `C` and threat factor `T`, award `B(L) × [(2CT)/(2L)]` Gems based on the **unrounded ordinary XP equivalent**; payment uses existing whole Gem/Glint denominations (100 Glints = 1 Gem) and remainder carry. An eligible quest, peaceful resolution or combat bypass can earn appropriate Gems through the GM's equivalent-encounter assessment rather than requiring kills. **Ordinary XP calculations, XP thresholds, encounter threat categories and all player/monster combat statistics are unchanged.** Boss XP still guarantees one level; separate Boss Gem rewards remain special at two levels of the **new** economic budget where defined. **Updated complete economy:** [`09_Equipment_and_Economy.md`](09_Equipment_and_Economy.md). The former November 12 30–3,200-Gem wealth targets later in this document are **HISTORICAL**, superseded by the new level-100 **878,286-Gem** equipment portfolio and all other November 20 economy milestones.
