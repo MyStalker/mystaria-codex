@@ -18,17 +18,13 @@
 
 ---
 
-## November 22, 2026 — AUTHOR APPROVAL: Thread Grappling uses ordinary grapple rules and tile-origin casting
+## November 22, 2026 — LATEST AUTHOR CORRECTION: Spell Power initiates and maintains Thread Grappling
 
-**AUTHOR-APPROVED Thread Grappling foundation:** A Jester may initiate a physical grapple through a qualifying Draped grappling tile. **The grappling tile is the origin of the grapple**, not the Jester's body; the Jester can therefore establish a grapple from a separate battlefield location, provided the source and target can be legally connected under the eventual reach and geometry rules.
+**Latest author-approved correction supersedes the previous Thread Grappling Technique-initiation interpretation:** The Jester uses a qualifying Draped grappling tile as the **physical origin and anchor** for Thread Grappling, rather than their own body. Initiating the thread grapple costs **1 MP**, with additional lawful MP investment increasing its **Spell Power**. **Spell Power determines BOTH whether the grapple can be initiated and whether it can be maintained.** Do not resolve initiation through a separate ordinary Technique roll instead of this magical Power; do not reduce Spell Power's role to only the later holding/escape stage. This is an explicit Jestercraft-specific exception to ordinary grapple initiation's Technique check, not a replacement of the universal Technique formula for other maneuvers.
 
-- **Base cost:** Initiating Thread Grappling costs **1 MP**.
-- **Additional investment:** The Jester may spend additional MP to increase the Thread Grapple's **spell Power**, subject to applicable spellcasting limits.
-- **Resolution:** Use the existing **ordinary physical Grapple rules**, not Binding's Bound-status accumulation. Grapple initiation remains the ordinary committed offensive maneuver resolved with its single Technique check after a genuine physical opportunity and lawful reach/geometry have been established. Use the current universal `Technique = max(effective STR, effective DEX)` rule and all other existing grapple consequences and restrictions.
-- **Physical source:** The Draped tile is the actual origin/anchor of the thread grapple. This is distinct from Binding, whose emitted magical restraint is a status condition that can persist independently of its source.
+**Ordinary grapple rules otherwise:** The maneuver remains a committed offensive grapple, not a free second attack or Binding-status accumulation. Preserve applicable ordinary physical grapple consequences, restrictions and interactions wherever compatible with the controlling Power-based initiation and maintenance rule. Existing universal `Technique = max(effective STR, effective DEX)` remains operative in other eligible Technique contexts, and no unapproved additive Technique bonus or separate additional check is implied. This magical physical grapple depends on its real source/connection, unlike the separate mana-woven Binding status, whose already emitted restraints can persist independently of their source.
 
-**UNRESOLVED:** The exact mechanical role of invested spell Power in the ordinary grapple contest (including whether it modifies Technique, supplies a separate holding strength, or serves another defined function); maximum source-to-target thread reach and path/line-of-effect requirements; how the connecting thread itself can be damaged or severed; and any per-source or simultaneous-grapple limits. Do not invent a spell-Power bonus to Technique, a range, or a thread durability formula before these are decided.
-
+**STILL UNRESOLVED:** Exactly which target defense/resistance statistic is opposed to Spell Power at initiation or while maintaining the hold; exact Power-to-contest conversion and check timing; maximum tile-to-target thread reach/path; connecting-thread object durability/severing procedure; and multiple-grapple capacity. No numeric Power thresholds, automatic success, fresh maintenance MP charge or additional action cost are created here.
 ---
 
 ## November 22, 2026 — LATEST AUTHOR APPROVAL: Technique uses best STR/DEX; one Stitch makes four Draped tiles; one Worn Stitch is Draped
