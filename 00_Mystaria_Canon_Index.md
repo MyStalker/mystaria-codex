@@ -1,3 +1,9 @@
+## November 21, 2026 — WORLDWIDE IDIOM APPROVED: “GONE LIKE A 25 HOUR STEAK”
+
+**Approved widespread Mystarian expression:** “Gone like a 25 hour steak,” meaning a thing or opportunity vanished before anyone could enjoy or benefit from it. Alludes to Starspawn flesh disappearing when Celestial Recall normally begins after about **24 hours**; the **25th hour is the joke**, not a revised timing rule. Owner: [Languages and Linguistic Customs](12_Languages_and_Linguistic_Customs.md); see [World and Shimmer](01_World_and_Shimmer.md).
+
+---
+
 ## November 21, 2026 — STARSPAWN FLESH VANISHES ON RECALL; DIGESTED NUTRITION REMAINS (LATEST DECISION)
 
 **APPROVED:** At Celestial Recall, **all unassimilated original Starspawn meat vanishes even if severed, frozen, processed or stored**. The victim's already metabolized/assimilated **nutrition remains**, so previously derived nourishment is not retroactively removed. Standard Recall still normally starts around **24 hours postmortem**; distant settlements therefore commonly transport **living stock**, not long-stored flesh. **Red-managmin carnivorous plants** can metabolize some surplus flesh into lasting new plant material with heavy managmin conversion losses; exact conversion yields/timing OPEN. Meat is an important **dietary and cultural staple**, expected to contribute substantial red managmins that are otherwise difficult to obtain (quantified nutrition OPEN). Economic design target: **~2× as scarce, no more than ~4× as expensive versus a yet-to-be-fixed historical/reference meat baseline**, not an established universal coin price or rigid price control. Remaining ambiguity: what exactly constitutes sufficient digestion/assimilation, price comparator, specific meat supply mixes. See [World and Shimmer](01_World_and_Shimmer.md#immortality-and-celestial-recall) and [Canon Changelog](10_Canon_Changelog.md).
