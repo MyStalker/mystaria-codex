@@ -1,3 +1,9 @@
+## November 22, 2026 — LATEST AUTHOR CORRECTION: qualifying sleep restores BROKEN Shimmer Guard (HP PROTOTYPE ONLY)
+
+**APPROVED OVERRIDE:** For the additive-HP replacement prototype, a Hero's Shimmer Guard that was shattered by emergency Break recovers at the **earlier of (a) completion of a qualifying sleep or (b) 24 hours since it broke**. A qualifying sleep therefore **ends the Break lockout early AND fully restores the Shimmer Reserve**, consistent with the already approved full-Shimmer-restoration-on-sleep rule. Sleep also restores ordinary HP by its separate approved Hero recovery rule (50% of maximum ordinary HP, or 100% if paired with medical attention). **No medical attention is required to reset Shimmer Guard.** The 51%-of-maximum-COMBINED-HP emergency threshold and complete negation of the triggering attack remain unchanged. The 24-hour timer remains an alternative recovery route when no qualifying sleep occurs; whether expiring that timer alone immediately refills the reserve without sleep remains UNRESOLVED. Exact minimum sleep duration and interruptions remain OPEN. This newer explicit correction **supersedes all earlier prototype text saying sleep cannot bypass the 24-hour Break lockout**. Existing operative wound-based combat is not replaced.
+
+---
+
 ## November 22, 2026 — AUTHOR-APPROVED ADDITIVE-HP PROTOTYPE: armor, carrying tradeoffs, and sleep healing (NOT YET OPERATIVE)
 
 **Approval scope:** The author approved the latest proposed additive-HP armor-design test direction and the following restorative rules. These are approved **design decisions within the replacement prototype**; the old wound-based, quadratic live rules and their established item ratings remain operative until an authorized integrated conversion. The illustrative armor and equipment points below are **prototype test benchmarks**, not a universal conversion of existing materials, Quality, weapon catalogues, or individual Armor Rating/Weight statistics.
