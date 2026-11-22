@@ -1,11 +1,10 @@
-## November 22, 2026 — AUTHOR APPROVAL: Thread Grappling uses ordinary grapple rules and tile-origin casting
+## November 22, 2026 — LATEST AUTHOR CORRECTION: Spell Power governs Thread Grapple initiation AND maintenance
 
-**APPROVED:** A Jester's physical Thread Grapple originates from a qualifying Draped grappling tile, not from the Jester's body. Initiating it costs **1 MP**, and the Jester may invest additional MP to increase its spell Power. Resolve the actual grapple using the established ordinary physical Grapple procedure: a committed offensive maneuver, one Technique check after a genuine physical opportunity and legal reach/geometry, and the current `Technique = max(effective STR, effective DEX)` formula. This is a physical grapple, not Binding's Bound-status accumulation.
+**Approved correction superseding the previous same-day Technique-initiation recording:** The grappling Draped tile is the physical origin/anchor, not the Jester's body. Base initiation costs **1 MP**; additional lawful MP increases **Spell Power**. **Spell Power determines both whether the thread grapple can be initiated and whether it can be maintained.** Do not substitute an independent ordinary Technique initiation check for the Power-based mechanism or restrict Spell Power to holding strength alone. Keep ordinary physical grapple rules where compatible, including committed offensive-action classification and applicable consequences. This is Jestercraft-specific; universal Technique still governs other Technique maneuvers. Binding remains the distinct magical Bound-status attack.
 
-**Still OPEN:** The exact use of invested spell Power within the grapple contest; maximum tile-to-target thread reach and path/line-of-effect; damage/severing rules for the connecting thread; and any per-source or simultaneous-grapple limits. Do not add an unapproved Technique bonus or numerical thread range/durability.
+**OPEN:** Which target statistic/resistance opposes Power, exact opposed Power resolution and maintenance timing, connection range and geometry, severing/durability and simultaneous thread-grapple limits. No numerical threshold or extra mana upkeep is newly approved.
 
-Owning reference: [Jestercraft](05_Jestercraft.md#november-22-2026--author-approval-thread-grappling-uses-ordinary-grapple-rules-and-tile-origin-casting); ordinary grapple procedure and Technique formula: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).
-
+Owning reference: [Jestercraft](05_Jestercraft.md#november-22-2026--latest-author-correction-spell-power-initiates-and-maintains-thread-grappling). General physical grapple rules: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).
 ---
 
 ## November 22, 2026 — Author approval: binding as status attack, full magic Attack Power, unlimited separate captives, reusable Draped mines
