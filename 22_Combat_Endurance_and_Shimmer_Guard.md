@@ -1,3 +1,55 @@
+## November 22, 2026 — AUTHOR-APPROVED BATCH 1 LINEAR HP/D20 EXPERIMENTAL FOUNDATION
+
+**Status: approved experimental replacement-prototype canon.** This foundation is authorized for Combat Lab HP/d20 testing. It does **not** replace the operative wound-based engine, historical weapon F ratings, squared Power/Defense, wound resolution, armor/shield catalogues, materials, enchantments, Craft costs, SP/MP rules, pricing or live campaign sheets. Earlier prototype notes leaving these exact Batch 1 equations or rounding open are superseded **only within this experimental foundation**.
+
+### Calculation order and boundaries
+
+1. Retain fractional effective attributes through applicable racial and other lawful modifiers; preserve the existing hard minimum of 1 for effective attributes. Do not prematurely round attribute contributions.
+2. Ordinary maximum HP: `max(1, floor(50 + 4 × effective END))`.
+3. Conventional melee governing contribution `A`: STR = `effective STR`; DEX = `effective DEX`; Either = `max(effective STR, effective DEX)` subject to legitimate equipment requirements; Both = `0.65 × (effective STR + effective DEX)`, requiring both equipment minima.
+4. Normal unmodified raw damage: `floor(A + independent Weapon Rating)`. Weapon Rating is an independent profile value, not legacy F, a squared rating, or a universal handling-class bonus.
+5. Each legitimate attack mode stores its own fixed AP: `minimum_stat_damage = floor(A_at_minimum_legal_equipment_stats + Weapon Rating)`; `AP = floor(minimum_stat_damage × penetration_rate)`. Rates: Slashing **0%**, Blunt **25%**, Piercing **50%**. Either uses the **lowest lawful qualifying baseline configuration**, retaining DEX-mode support-STR gates; Both requires both minima. Do not promote provisional Light/Medium minima to final canon.
+6. AP is calculated once per actual constructed weapon/profile/mode. Actual approved material/Quality construction may require recalculating that profile's AP; increasing wielder attributes or temporary combat damage bonuses does **not** change AP. No new material/Quality conversion is approved here.
+7. `effective_armor = max(0, applicable armor − fixed AP)`; `net_HP_damage = max(0, final_raw_damage − effective_armor)`. Armor is subtractive; penetration reduces armor, never increases raw damage. Fully negated attacks do zero damage, without automatic chip damage.
+8. Critical attacks double **actual post-mitigation HP damage**. Do not double pre-armor damage.
+9. Shared equipped Weight capacity: `floor(effective STR + effective END)`. Declare real equipped-item weights; baseline tests reject insufficient attributes or overweight fixtures. Missing catalogue weights and encumbrance penalties remain unresolved.
+10. Round down to whole numbers **after each complete relevant HP, damage, AP or Weight calculation**. Preserve fractions until each such calculation is complete.
+
+### Preserved approved martial d20 and proficiency rules
+
+Direct hit: `d20 + Attack >= 10 + Evasion`. Margin **>= +10** is critical success; margin **<= −10** is critical failure. Natural 1/20 are not automatically critical. Martial Attack attribute bonus is `min(10, floor((STR + DEX/2)/20))`; Evasion attribute bonus is `min(10, floor((END + DEX/2)/20))`. Legal purchased ranks are separate, at most **10**, with combined permanent attribute+purchased proficiency ceiling `min(20, 10 + floor(level/10))`. Temporary modifiers remain separate from that ceiling. Preserve **two actions per turn and at most one offensive attack**. This foundation supplies no new permanent initiative rule and no numerical HP conversion for Power Attack, Double Strike or other undefined maneuvers.
+
+### Default generalist calibration reference
+
+The default physical test reference is a **medium-armored, physically neutral Untouched Serpentari**, base STR **17**, DEX **16**, END **17**, with no equipment stat bonuses. Allocate **one point to STR and one to END per gained level**, plus the existing **+1 to all attributes every fifth level**. Thus STR and END are `17 + (level−1) + floor(level/5)`; DEX is `16 + floor(level/5)`. This does not assign an unapproved SKILL racial modifier, spend SP or assume purchased ranks.
+
+| Level | STR | END | Ordinary max HP | Weight capacity |
+| --- | --- | --- | --- | --- |
+| 1 | 17 | 17 | 118 | 34 |
+| 10 | 28 | 28 | 162 | 56 |
+| 25 | 46 | 46 | 234 | 92 |
+| 50 | 76 | 76 | 354 | 152 |
+| 75 | 106 | 106 | 474 | 212 |
+| 100 | 136 | 136 | 594 | 272 |
+
+Existing armor calibration anchors remain:
+
+| Progression reference | Light armor / Weight | Medium armor / Weight | Heavy armor / Weight |
+| --- | --- | --- | --- |
+| 10 | 10 / 6 | 20 / 12 | 35 / 22 |
+| 50 | 40 / 20 | 75 / 35 | 110 / 55 |
+| 100 | 65 / 35 | 115 / 55 | 165 / 85 |
+
+These anchors are **calibration fixtures**, not item level requirements, completed material profiles or permission to interpolate missing levels. Medium armor is the reference category; no missing item weight or exact armor at L1/25/75 is invented.
+
+**Provisional balance objective:** an equally developed medium-armored generalist should ordinarily exhaust ordinary HP after **4–6 successful normal attacks**. This is a design target, not a measured result or guarantee. HP reaching zero is an **HP exhaustion test endpoint**, without a new ruling on incapacitation, death, injury, Shimmer activation or Legend behavior.
+
+**Diagnostic fixture, not finalized catalogue conversion:** STR-scaling test warhammer, minimum STR 11, WR 77: baseline damage 88, fixed Blunt AP 22; STR136 gives raw213, damage120 through armor115, and five normal landed attacks to exhaust HP594. This does not canonize the provisional Medium warhammer minimum or WR as a final item profile.
+
+**Still unresolved / outside Batch 1:** complete Weapon Rating and Weight catalogues, material/Quality conversions, shields/Guard/Parry/overflow, Shimmer/Break/healing/death/Legend, spells/statuses/MR, ranged combat, tactics/positioning/Pressure, structural/object/enchantment conversion, undefined attack maneuvers, full equipment/wealth validation and permanent initiative integration. Preserve all separately approved prototype directions and operative systems until their own conversions are approved.
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR CORRECTION: STRUCTURAL BREACH 25%/50%, LOCALIZED DAMAGE AND MAGNITUDE
 
 **HP/d20 replacement prototype, superseding the previously documented 10%/25% breach thresholds:** A **passable hole**, large enough for **one creature/person to get through**, requires **at least 25% of the targeted wall section's maximum HP dealt as actual damage after armor**. A **large hole**, allowing **multiple people to squeeze through**, requires **at least 50%**. These are local section thresholds, not a claim that one attack damages the entire structure. The baseline target without sufficient Magnitude is **a relatively small local wall section**, while **the rest of the wall or castle remains largely intact**. To damage a **larger wall area, an entire castle, or other extensive structure at once**, an attack must have **sufficient lawful Magnitude/area coverage**. Do not treat point-targeted Power as automatic unlimited area. If the targeted small section is **totally destroyed**, the remaining connected wall **might lose about 10% of its own HP** as collateral structural weakening, **conditionally** where the actual construction/support relationship justifies it; this is not an automatic guaranteed 10% and should not be applied blindly to an entire castle. Exact wall-section footprint/HP allocation, local-vs-global propagation rules, damage accumulation across hits, and Magnitude category boundaries remain unresolved.
