@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR CORRECTION: BURNING EXACTLY ONE-THIRD; FIRE, HEX AND HOT ASH TERRAIN BUILDUP
+
+**Latest explicit author correction:** Burning's per-tick damage amount is **1/3 maximum ordinary HP**, **NOT 33%**. This overrides the same-day 33% entry for the HP/d20 replacement prototype. Its approved frequency and timing persist: Severity I at the end of every other affected victim turn; Severity II at the end of every affected victim turn; the Shimmer Guard pool does not increase the maximum-ordinary-HP damage basis.
+
+**Author-approved terrain:** A qualifying creature standing in magical **Fire** accumulates **100% of the responsible caster's offensive Spell Power** as Burning buildup; standing in magical **Hex** accumulates **100% of caster offensive Spell Power** as Hex buildup; standing on **hot ash** accumulates **50% caster offensive Spell Power** as Burning buildup. Running through many same-status hazard tiles in one turn does **not** multiply the environmental buildup. Resolve at most one environmental buildup application per status per affected creature turn; Fire and Hex are separate pools. No extra per-tile attack or damage tick is conferred. Exact exposure instant, source overlap/priority, environmental noncaster values, fractional one-third damage rounding and Shimmer Guard HP interception remain open.
+
+**Files:** `35_Magical_Media_and_Contests.md`, `20_Nymbrin_Wetcraft_and_Hexen_Canon.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `00_Mystaria_Canon_Index.md`, and this changelog. Replacement-prototype documentation only; no Combat Lab experiment has been run.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: 33%-MAX-HP BURNING TICKS; BINDING TARGET REMAINS FIXED
 
 In the HP/d20 replacement prototype, **Burning at standard Severity I** deals **33% of the victim's maximum ordinary HP at the END of EVERY OTHER victim turn**; **advanced Severity II** deals **33% of maximum ordinary HP at the END of EVERY victim turn**. Shimmer Guard does **not** count in maximum-HP percentage; the separate matter of actual damage absorption/bypass through Shimmer reserve, first-tick phase, fractional rounding and clock reset on severity changes remains UNRESOLVED. This gives an actively burning victim a legal chance to use a normal action to fully extinguish the fire before an upcoming end-of-turn tick. Ordinary fire status application and critical buildup/HP-status calculations follow other approved replacement rules; passive Burning tick damage does not automatically reevaluate severity simply because HP fell.
