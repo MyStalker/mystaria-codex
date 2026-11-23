@@ -1,3 +1,9 @@
+## November 22, 2026 — AUTHOR-APPROVED SP ECONOMY FOR FUTURE SKILL-ATTRIBUTE REDESIGN (NOT YET OPERATIVE)
+
+For the author's planned whole-system migration, **ordinary Skill Points will be awarded by Hero level rather than through quests**: **2 SP per level**, plus **2 SP per allocated attribute point invested in the proposed SKILL attribute**. This is an approved **replacement-prototype direction**; it does not silently alter ongoing saved-character SP ledgers, race grants, class/Craft ranks and purchases, previous quest rewards, or operative Shimmer XP/Gem economy before a comprehensive author-approved conversion. Other approved prototype prices: 5 SP/rank Accuracy and Evasion, 3 SP/rank Technique, Movement and Initiative, 2 SP/rank mundane proficiency; existing Craft costs remain until individually converted. `22_Combat_Endurance_and_Shimmer_Guard.md` owns prototype detail, and `10_Canon_Changelog.md` records the approval. Precisely how accrued SP and grandfathered quest SP are reconciled remains OPEN.
+
+---
+
 ## November 21, 2026 — Mossback species name APPROVED; biology under review
 
 **Mossback** is the author-approved common species name for the proposed **enormous, triceratops-like green-mana livestock Starspawn** of the Canopy Kingdoms. The user is **still reviewing its other characteristics**. Do not treat the latest discussion's size, herd structure, spores, solar feeding, milk, work role, habitat, handler methods or quantitative husbandry as fully ratified by this naming approval. Preserve any independently approved general Starspawn and Canopy livestock rules. Subject-specific species details may be approved later.
