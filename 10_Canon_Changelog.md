@@ -1,3 +1,17 @@
+## November 22, 2026 — AUTHOR APPROVAL: Level-based SP, proficiency prices, DEX Movement/Initiative and Technique scaling in replacement prototype
+
+**Approved for the redesign, not yet operative replacement:** **2 SP per Hero level**, plus **2 SP per allocated point invested into the new SKILL attribute**; ordinary SP advancement becomes level-based rather than dependent on quest rewards. Attribute points are not SP; automatic skill grants/racial grants and exceptional rewards must be reconciled during migration. Confirm initial level-1 timing as part of conversion, with `2×level` baseline used for illustration.
+
+**Purchased proficiency prices, flat per rank:** Accuracy **5 SP**, Evasion **5 SP**, Technique **3 SP**, Movement **3 SP**, Initiative **3 SP**, mundane skills **2 SP**. Keep previously approved supernatural Craft SP prices (Warlock/Wakecraft/Vren mostly 5 SP, Jestercraft modifiers 3 SP/applications 4 SP), plus rank gates and prerequisites. Ten purchased ranks maximum for general proficiencies; do not reinterpret existing five-rank supernatural disciplines. The assistant's previous repeating 1/2/2 mundane-price schedule is superseded.
+
+**Derived skill framework:** Accuracy STR + 1/2 DEX; Evasion END + 1/2 DEX; **Technique full STR+DEX**; **Movement and Initiative associated with DEX**. Per-20-point-derived rank framework and +10 maximum attribute-derived Accuracy/Evasion remain; other attribute caps require final review. Author accepts maximum combined **permanent proficiency bonus = min(20,10+floor(level/10))**, with temporary effects/conditions able to exceed it.
+
+**Movement:** +**5 feet per two effective Movement proficiency points**, normal permanent speed capped **80 feet**; 30 ft baseline, 2× for one Dash and 4× for Double Dash. Earlier approved first-tile hostile-control escape on Double Dash remains. Skill-based magical checks are endorsed in principle; target numbers, casting contests and eligible magical proficiency usage remain open.
+
+**Status:** Approved decisions within the new prototype. Operative SPD/wound combat, historical SP awards, racial and Craft references are retained pending complete author-authorized conversion. Owning Combat file, World cross-reference, Index and Changelog updated; no experiment performed.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: +10 attribute-derived Accuracy/Evasion cap; skill costs and level ceiling under review
 
 **Explicitly approved for the replacement prototype:** Choose **Option B**: permanent attribute-derived Accuracy and Evasion bonuses are capped at **+10 each**, not unlimited. Associated attribute framework being developed: each full 20 qualifying attribute points grants +1; STR drives Accuracy, END drives Evasion, and DEX counts half toward both. Rounding, negatives and effective stat conversions require final checks.
