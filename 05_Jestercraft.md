@@ -1,3 +1,10 @@
+## November 22, 2026 — REPLACEMENT-PROTOTYPE BINDING SEVERITY AND PHYSICAL COUNTERS
+
+For the proposed holistic HP/d20 status redesign, **Binding remains a genuine magical attack**, requiring a legal hit, one offensive attack allowance, lawful Draped source and mana investment. Ordinary generic pure-status buildup is **3× eligible offensive Spell Power**, but **advanced incapacitating Binding halves its outgoing status Power before that multiplier**. The original Binding formula `P_binding(MP)=P_ordinary_magic_attack(MP)` still identifies **underlying baseline spell Power** at equal mana, *before* applying the new shared incapacitating status modifier. This is a prospective prototype conversion, not a retroactive denial of the existing operative full-power Binding.
+
+Ordinary Binding can hinder without helplessness; **complete incapacitation is advanced** (prototype 2× effective current status HP). Cutting/damaging the emitted threads is an ordinary rescue/counter, generally **0.5× effective status HP standard or 0.25× advanced** per legal allied rescue action unless destruction physically frees the captive outright. A successful downgrade of active advanced Binding below threshold removes its advanced incapacitation immediately; reducing below initial threshold frees the individual captive. A removed captive's personal threads are distinct from the persistent reusable Draped source, and no automatic freeing of all captives or source destruction is implied. Exact object durability and attack-to-counter conversion remain open.
+
+---
 # Mystaria — Jestercraft: Authoritative Canon Reference
 
 ## November 22, 2026 — APPROVED: Binding is a mana-powered status ATTACK; reusable Draped sources and independent captives
