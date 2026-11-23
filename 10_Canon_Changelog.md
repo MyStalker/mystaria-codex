@@ -1,3 +1,22 @@
+## November 23, 2026 — BATCH 2A CROSS-LEVEL COORDINATION VALIDATION (TEST RESULTS ONLY)
+
+**Not a new mechanical approval.** Combat Lab `hp_d20_duel_v1` on connected engine **0.8.0**, ruleset `hp-d20-1`, **seed 42**, tested **120,000 encounters in 30 matchups** (level 10 and level 100, Light/Medium/Heavy armor, 4,000 side-swapped encounters per condition, no timeouts/unsupported outcomes). Equal-STR+DEX-investment eligible balanced hybrids opposed equally equipped STR specialists with the same END. The current old-scaling worker was supplied a **diagnostic raw-damage/AP-equivalent fixture** explicitly constructed to match the approved **full STR+DEX** Both-mode mathematics at the chosen stats; this is *not* an engine upgrade, an equipment catalogue, or an adaptive Coordination implementation. Provisional Both-stat blunt Weapon Ratings for the equalized medium-armor four-to-six-hit calibration were **L10 WR3 and L100 WR46**; weights, handling and levels were declared fixtures, not final items.
+
+| Level | Armor | No bonus | +1 always Attack | +1 always Evasion | +2 always Attack | +2 always Evasion |
+|---|---|---:|---:|---:|---:|---:|
+| 10 | Light | 50.0% | 60.55% | 62.15% | 69.65% | 69.05% |
+| 10 | Medium | 50.0% | 62.90% | 63.90% | 72.375% | 71.525% |
+| 10 | Heavy | 50.0% | 66.20% | 70.05% | 78.425% | 79.125% |
+| 100 | Light | 50.0% | 62.15% | 57.80% | 72.575% | 65.675% |
+| 100 | Medium | 50.0% | 63.90% | 58.45% | 75.775% | 68.05% |
+| 100 | Heavy | 50.0% | 70.05% | 62.975% | 82.90% | 73.925% |
+
+**Interpretation:** Both fixed allocation choices improve win rate, but the advantage and Attack-vs-Evasion ordering change by matchup and level; a **dynamic choice at each own turn remains untested**. The higher candidate generally confers a very large free duel advantage, particularly against heavy armor, but relative fairness requires complete specialty builds, equipment options, SP investment and tactical actions. Permanent cap interpretation and performance with purchased proficiencies are still unresolved. **No +1/+2 selection is canonized.**
+
+**Provenance:** L10 experiment `4e438c2b-fffa-4fd6-a260-dac2cbab4302` digest `aa2c1c81d1672d264d5a6e208f147703ff3c28f7b217be86d7c8c461bbb1f79d`; L100 experiment `61b18f45-0dd4-4562-a171-f7aa3b595fad` digest `5c874dbbb8aedd17800bebca45b14c4636fe8a0947db21bee62775a05548e391`. Both engine source SHA256 `70429bc87ef3261c617115a7afcd2b480348cac20e662cbc94d4868eb8576280`. Earlier November 23 full-sum correction and 108,000 fixed-policy duel results remain as separate evidence below.
+
+---
+
 ## November 23, 2026 — AUTHOR APPROVAL: FULL BOTH-STAT STR+DEX DAMAGE; COORDINATION DYNAMIC TEST SERIES
 
 **Approved experimental correction, not a live operative change:** In the replacement HP/d20 system, qualifying Both-stat weapon damage uses **`A_Both = effective STR + effective DEX`**, replacing the November 22 Batch 1 factor `0.65 × (STR + DEX)` for subsequent experimental calculations. Thus `raw_damage = floor(STR + DEX + independent Weapon Rating)` for an eligible Both-stat attack. Fixed AP must be recalculated from the lowest-lawful handling baseline under this corrected expression; standard form penetration rates and all other Batch 1 HP/d20 mechanics remain intact. STR-only, DEX-only and Either-stat modes are not changed. Retain the historical 0.65 entry below as superseded for this one aspect, and preserve the operative quadratic/wound combat system unchanged. Previous Both-stat test Weapon Ratings are not finalized or automatically convertible.
