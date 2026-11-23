@@ -1,3 +1,9 @@
+## November 22, 2026 — HP-PROTOTYPE AUTHOR APPROVAL: +10 ATTRIBUTE ACCURACY/EVASION CAP
+
+The author selects **Option B** for the replacement proficiency-combat system: attribute-derived **Accuracy and Evasion bonuses are each capped at +10**, rather than unlimited. STR contributes to Accuracy, END to Evasion, and DEX contributes half its value to both; tentative `floor((STR+DEX/2)/20)` and `floor((END+DEX/2)/20)` subject to negative-stat/final-rounding integration. Separately the author proposes an overall **permanent skill bonus maximum of `min(20,10+floor(level/10))`**, whose exact interaction with purchased ranks and temporary modifiers requires final clarification. Assistant SP pricing proposals for Accuracy/Evasion and mundane proficiency are **NOT APPROVED**; preserve existing Craft SP ledgers and the operative old combat engine. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 22, 2026 — AUTHOR-APPROVED MOVEMENT/INITIATIVE REDESIGN (PROTOTYPE ONLY)
 
 The author approved **separate Movement and Initiative Proficiencies** as part of the developing Skill-based replacement for the SPD attribute. **Base movement 30 ft / 6 tiles; one Dash doubles to 60 ft / 12 tiles; Double Dash doubles again to 120 ft / 24 tiles.** A Double Dash **ignores the first movement tile for hostile zone-of-control purposes to permit retreat**, but not later controlled tiles or independent obstacles. This replaces existing 1.5×/2× Dash only in the proposed replacement system; **operative existing combat remains unchanged** until final system conversion. The author supports a modest free baseline for Weapon Skill/Evasion but has **not approved specific free ranks, level milestones or the 1–20 accuracy equation**. Movement and Initiative proficiency costs/effects and the Skill Point budget remain OPEN. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and [Changelog](10_Canon_Changelog.md).
