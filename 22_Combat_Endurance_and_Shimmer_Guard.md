@@ -1,3 +1,11 @@
+## November 22, 2026 — AUTHOR CORRECTION: ROUND UP BURNING; FIRST TICK ON VICTIM TURN; TERRAIN EXCLUSIONS
+
+In the developing HP/d20 prototype, Burning tick damage is **ceil(maximum ordinary HP / 3)**, counting no Shimmer Guard HP in the maximum-HP calculation. **First tick occurs at the END of the victim's next proper turn** after Burning takes effect. Subsequent ticks are at the end of **every other** victim turn for Severity I and **every** victim turn for Severity II. Victim may legally extinguish before end-turn damage when able. Whether actual HP damage is absorbed by Shimmer HP is still open, as are timing when Burning begins on the victim's active turn and phase changes when severity changes.
+
+**Terrain:** Magical fire and Hex/threads may coexist. Fire and **hot ash cannot coexist** on one tile; fire and **water/puddles/ice cannot coexist**. Fire contacting water/puddles transforms **fire → cold ash**, **water → steam**. Fire contacting ice transforms **fire → cold ash**, **ice → water**. Cold ash does not count as hot ash for the established 0.5× environmental Burning buildup. Existing 1× fire, 1× Hex, 0.5× hot-ash buildup rates and once-per-status-per-turn exposure remain. Terrain extinguishing is not automatically the same as immediately curing an already Burning creature. Source `35_Magical_Media_and_Contests.md`.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: EXACT 1/3 BURNING TICK AND PER-TURN ENVIRONMENTAL BUILDUP
 
 **Burning supersession:** Replace **33%** with **exactly one-third (1/3) of the victim's maximum ordinary HP per Burning tick** in the HP/d20 prototype. Severity I ticks at the END of every OTHER victim turn; Severity II ticks at the END of EVERY victim turn. Shimmer Guard does not enlarge the base for calculating one-third. Damage rounding, tick phase, and absorption through active Shimmer HP remain OPEN.
