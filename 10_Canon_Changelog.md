@@ -1,3 +1,48 @@
+## November 23, 2026 — AUTHOR-APPROVED Upgrade 3 training economy and asymmetric testing
+
+**Approval scope:** The author's explicit Upgrade 3 mission authorizes a separate
+experimental implementation, validation, publication and local deployment. It
+does not authorize replacing operative wound combat or working `hp-d20-2`.
+Full decisions and provisional formulas are recorded in the new top entry of
+`22_Combat_Endurance_and_Shimmer_Guard.md`; navigation in the Canon Index.
+
+**New approved redesign directions:** separate Attribute/SP/TP economies; one TP
+per SP earned, including two additional SP/TP per allocated Skill point; retained
+two attribute points per gained level and +1 all five every fifth level; explicit
+non-Hero advancement assumptions; equal STR/DEX physical accuracy; no level-based
+flat accuracy/evasion or artificial combined ceiling; escalating training costs
+without a game rank-20 cap; support separate trainable derived statistics through
+configurable effect schedules. The older fixed SP combat-rank prices and ceilings
+remain historical/operative in their owning versions, and are superseded **only
+inside this new training experiment**, not retroactively in character ledgers.
+
+**Testing priorities:** Hero/non-Hero first, ordinary/ordinary second, Hero/Hero
+third. Heroes are strictly advantaged. Comparable combat builds aspire to average
+45–55% against an explicit representative pool, with intentional counters near
+90% allowed. Do not infer balance from symmetric matrix averages. Heavy offensive
+attributes alone should not routinely one-shot ordinary developed peers; eventual
+one-hit normal defeats should require damage training too, while equally developed
+dedicated defensive peers ordinarily survive. Criticals and Shimmer Break are
+separate measures.
+
+**Unapproved numerical candidates:** smaller linear damage coefficients; agile
+weapon 50/60/75/100% alternatives and contribution-only versus whole-output
+interpretations; alternative HP/damage/armor/resistance/Technique/movement/Reflex
+training prices and units; full magical and maneuver conversions. Accuracy,
+magical accuracy and evasion use the task's explicit ladder for testing. The
+post-20 extension is an explicitly labeled Lab candidate, not new final canon.
+No final balance winner, changed catalogue rating, race-to-Skill mapping, general
+non-Hero leveling law or Legend Shimmer entitlement is approved.
+
+**Preserved:** ordinary HP reference `max(1,floor(50+4×END))`; Hero reserve at 100%
+of ordinary maximum HP; dormant emergency Break at >=51% of maximum combined HP;
+confirmed criticals reuse the primary attack and defense totals; existing Craft,
+equipment, material, enchantment, SP/MP cost identities and status counterplay
+remain until separately converted. Numerical simulation findings belong to the
+Combat Lab reports and are not canon approvals.
+
+---
+
 ## November 23, 2026 — D20 ACCURACY/EVASION ANALYTICAL AUDIT AFTER CONFIRMATION CLARIFICATION
 
 **ANALYTIC FINDINGS ONLY, NOT A COMBAT LAB SIMULATION OR NEW CANON:** For an ordinary attack where natural 20 already meets the ordinary attack target, write `H = P(d20 + actual Attack >= actual defense)`. The natural-20 confirmed-critical rule with the **same snapshotted** attack/defense on the second independent d20 gives `P(confirmed critical per attack) = (1/20) × H` and therefore `P(critical | landed hit) = 1/20 = 5%`. If a confirmed attack critical inflicts ×2 postmitigation damage, mean dealt damage per attempt is `1.05 × H × ordinary landed HP damage` (ignoring other attack effects). In the ordinary unsaturated d20 range, **+1 Attack** increases `H` by 5 percentage points and confirmed-critical chance by 0.25 percentage points; **+1 defender Evasion** reduces them by the same amounts. This does **not** independently approve any natural-20 auto-hit rule for an attack total that cannot reach the target.

@@ -1,3 +1,157 @@
+## November 23, 2026 — AUTHOR-APPROVED TRAINING ECONOMY AND ASYMMETRIC BALANCE EXPERIMENT (UPGRADE 3)
+
+**Status and precedence:** These are the author's latest explicit redesign
+directions for a **separate experimental ruleset**, implemented as `training-1`
+with schema 3 in the Combat Lab. They do not replace operative wound combat,
+the frozen `hp-d20-1` foundation, working `hp-d20-2`, item catalogues, saved sheets
+or existing currency ledgers. Approved directions, approved prototype references,
+and unapproved calibration candidates must remain distinguishable.
+
+### Attribute, SP and TP roles
+
+Attributes supply broad, linear power. **Training Points (TP)** buy improvements
+to individual derived statistics with escalating costs. **Skill Points (SP)** buy
+abilities, Crafts, mundane skills, utility and options, not fundamental statistical
+combat power in this experiment. Significant numerical advantages should reflect
+significant differences in investment; natural specialization and intensive
+training should both matter. All major combat specializations should be capable
+of extraordinary performance when heavily invested in.
+
+Retain **two allocatable base attribute points per gained level**, and **+1 to all
+five attributes every fifth level**, with existing racial multipliers and lawful
+Hero bonuses. Preserve fractional effective attributes until the actual rounding
+step. The new five-stat prototype uses STR/DEX/END/INT/Skill; no unapproved global
+SPD-to-Skill racial conversion is implied.
+
+Hero bookkeeping remains **2 SP per level**, inclusive of level 1: baseline total
+`2×L`. Each SP **earned** also grants **one TP**, creating two separate spendable
+pools. Every **allocated attribute point invested in Skill** earns **two extra
+SP and two extra TP**. The fifth-level all-stat increase and racial multipliers
+are not allocated Skill points and do not independently generate this income.
+Track total, spent and unspent TP; reject illegal allocations. Spending SP does
+not spend TP and spending TP does not spend SP. Exceptional/racial SP sources
+retain their actual provenance and must be declared, not invented.
+
+**Non-Hero advancement is not automatically Hero advancement.** Ordinary mortals
+can train attributes under existing canon, but their schedule is unresolved.
+The Lab must accept explicit configurable starting attributes, allocated-point
+budgets, milestone assumptions, SP/TP supplies and Skill income. Equal-budget
+ordinary fixtures are comparison assumptions, not a universal non-Hero leveling
+law. Hero status is distinct from Legend or creature classification; do not
+grant every Legend a Hero reserve by classification alone.
+
+### Accuracy and evasion: approved candidates for testing
+
+- Physical accuracy: `floor((effective STR + effective DEX)/20) + purchased accuracy`.
+- Magical accuracy: `floor((effective INT + effective DEX)/20) + purchased magical accuracy`.
+- Evasion: `floor((effective DEX + effective END)/20) + purchased evasion`.
+
+STR and DEX contribute **equally** to physical accuracy. There is **no automatic
+flat level bonus**, artificial combined offense/defense cap, +10 attribute ceiling
+or former combined permanent proficiency ceiling in this new experiment. Keep
+those older limits in their original rulesets. Approximately **+20** is an
+ordinary high-level combat benchmark; **+30** indicates extreme specialization,
+not a hard ceiling. A high-level character who ignores combat investment may
+remain extremely weak. END's combined HP/status-resistance/evasion efficiency
+is a balance concern to measure, not authority for an automatic nerf.
+
+Use this explicit accuracy/evasion ladder, initially also for magical accuracy:
+
+| Purchased ranks | TP per +1 |
+|---|---:|
+| 1–4 | 2 |
+| 5–8 | 4 |
+| 9–12 | 7 |
+| 13–16 | 11 |
+| 17–20 | 16 |
+
+Continue escalating beyond rank 20 through a documented **experimental extension**,
+not a hard cap. The Lab's initial extension adds successively larger band-cost
+increments, giving 22/29/37/46 TP per rank in the next four-rank bands. This
+extension is a configurable-development candidate, **not final numerical canon**.
+
+Support separate training in maximum HP, physical damage, magical damage,
+Technique, Movement/Athletics, Initiative/Reflex, armor, magical resistance,
+status resistance and other suitable derived statistics. Their prices and units
+need not be equal. Compare restrained/balanced/generous effect schedules in a
+separate calculation layer. **No finalized universal price list is approved.**
+
+### Damage, durability and defensive identity
+
+Begin with ordinary HP `max(1,floor(50+4×END))`, as an initial reference rather
+than an untouchable final calibration. Test smaller **linear** STR damage
+coefficients while preserving equal marginal pre-rounding contribution per STR
+point. Do not automatically alter existing catalogue WR/F values. A very strong
+character with little damage TP should be powerful without routinely one-shotting
+equally developed ordinary peers. Eventual one-hit ordinary defeat should generally
+need **exceptional offensive attributes and substantial damage training**.
+
+Agile weapons are a high-priority concern because DEX also improves accuracy and
+evasion. Compare **50%, 60%, 75% and the full-damage reference**, explicitly
+distinguishing reduction of only the DEX contribution from reduction of the
+complete ordinary weapon output. Examine subtractive armor and fixed penetration:
+halving raw damage can remove far more than half the delivered damage. Preserve
+lawful STR-only, DEX-only, Either and Both identities and requirements until their
+experimental conversion is explicitly specified.
+
+Extreme HP investment should yield extraordinary durability and aim for comparable
+overall effectiveness to extreme evasion, with distinct favorable and unfavorable
+matchups. A maximally offensive character should eventually defeat an ordinary
+peer in **one successful normal attack**, while an equally developed fully
+specialized defensive peer **ordinarily survives**. This is a strong **numerical
+goal**, not an immunity or hard damage cap. Test confirmed criticals separately.
+
+Preserve the approved Hero **100%-ordinary-max-HP reserve** and dormant emergency
+Break: `ceil(0.51×combined maximum HP)` post-armor damage negates the whole hit,
+breaks the Guard and forfeits reserve while retaining preattack ordinary HP.
+It cannot trigger once reserve is active. Ordinary HP exhaustion, reserve
+activation/depletion, emergency Break, one-hit ordinary exhaustion, critical
+one-hit exhaustion and post-Break vulnerability require separate metrics.
+Existing rest/lockout and status-Break rulings remain; unresolved overflow and
+status-Break timing/action details must be labeled test policies.
+
+### Population priorities and evidence standards
+
+1. **Hero versus non-Hero:** principal intended environment. Being a Hero is
+   strictly beneficial; equivalent Hero/ordinary duels are not a 50/50 target.
+   Measure the advantage across levels and specializations, and credible threats
+   through equipment, attributes, tactics, numbers or counters.
+2. **Non-Hero versus non-Hero:** evaluate the underlying economy independently
+   of Shimmer, for soldiers, monsters and trained mortals.
+3. **Hero versus Hero:** exceptional enemies, bosses and rare PvP. Do not
+   sacrifice the principal ordinary environment for perfect Hero-duel symmetry.
+
+Comparable combat builds aspire to average **45–55%** against an explicit common
+opponent pool, not every individual matchup. Intentional counters may reach
+about **90%**. Identify plausible lawful counterplay for unavoidable defeats
+instead of automatically removing the counter. Report per-build, population and
+opponent results; symmetric-matrix averages alone are insufficient.
+
+Begin with legal deterministic budget/equipment checks, then controlled fixed-seed,
+mirrored matchups at **levels 10, 50 and 100**, including attribute-only, balanced
+TP and extreme TP variants. Include STR, trained damage, DEX/evasion, END/HP,
+STR/DEX, STR/END, DEX/Skill, INT/Skill, civilians and ordinary combatants, adding
+accuracy, armor, status and Technique specialists as supported. Explicitly label
+unequal development or unresolved equipment and magic assumptions. Report win
+uncertainty, duration, hit probability versus realized hits, attempted/landed
+damage, successful hits to defeat, ordinary/reserve absorption, Break, statuses,
+budgets, one-hits and impossible/near-impossible routes. Retain machine-readable
+inputs, seeds, assumptions and source provenance. Do not canonize a tested winner.
+
+### Technique and incomplete conversions
+
+Investigate a TP-supported **proficiency-scale Technique** separately from the
+older raw `max(STR,DEX)` contests. A purchased +1 proficiency is not automatically
+one raw Technique point. Preserve operative grapple/disarm/trip/shove, Binding,
+Pressure and other established interactions until their conversion is defined.
+Retain approved current-ordinary-HP status thresholds and the Hero quarter-max-HP
+floor; status resistance must remain meaningful to END specialists. Missing
+numerical rules must be exposed as candidates or unsupported mechanics, never
+silently invented. This upgrade establishes reusable testing infrastructure;
+it does not require or authorize finalizing every subsystem at once.
+
+---
+
 ## November 23, 2026 — LATEST AUTHOR CLARIFICATION: CRITICAL CONFIRMATION REUSES PRIMARY ATTACK VALUES (HP/D20)
 
 **APPROVED replacement-prototype clarification, superseding the immediately older “base AC” ambiguity:** If an attack's initial d20 is a **natural 20** and threatens a critical, make a **separate d20 confirmation roll using the EXACT SAME total hit bonus that applied to the primary attack**, including **all temporary and situational attack modifiers then in effect**. Compare its total against the **EXACT SAME defense target (AC) the defender faced for that primary attack**, including all applicable temporary, situational and condition-based changes to that defense. The confirmation uses the primary attack's **snapshotted attack modifier and defense target**, not recalculated, unmodified or "base-only" values. Confirm when `confirmation_d20 + primary_attack_total_hit_bonus >= primary_attack_defense_target` under the previously approved inclusive `>=` hit rule. A successful confirmation delivers the approved **×2 final post-armor damage** (and applicable ×2 status buildup); a failed confirmation delivers **normal landed damage**, not a miss or zero damage. The confirmation is not a new offensive action, does not change the defender's state itself, and does not grant a new attack.

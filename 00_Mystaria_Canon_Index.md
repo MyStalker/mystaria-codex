@@ -1,3 +1,22 @@
+## November 23, 2026 — Training economy and asymmetric combat: APPROVED EXPERIMENTAL DIRECTION
+
+The latest author-approved **separate replacement experiment** is `training-1`:
+Attributes provide broad linear power; **SP buys options**, and separate **TP buys
+derived statistics** at escalating costs. Hero SP is `2×level + 2×allocated Skill
+points`; each earned SP also grants one TP. Physical accuracy provisionally uses
+`floor((STR+DEX)/20)`, magic `floor((INT+DEX)/20)`, evasion `floor((DEX+END)/20)`,
+plus separately purchased training. There is **no flat level bonus, +10 attribute
+ceiling or combined proficiency ceiling in this experiment**. See the full owning
+entry in [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and approval record in
+[Changelog](10_Canon_Changelog.md).
+
+Hero-vs-non-Hero is the primary balance environment; Hero advantage is intended,
+not a 50/50 target. Alternative HP/damage/training coefficients and agile-weapon
+reductions are **test candidates**, not final canon. Existing operative combat,
+`hp-d20-1`, `hp-d20-2`, equipment catalogues and live sheets remain intact.
+
+---
+
 ## November 23, 2026 — LATEST CONFIRMED-CRITICAL CLARIFICATION: REUSE EXACT ATTACK AND DEFENSE
 
 **APPROVED for the experimental HP/d20 replacement:** When an initial attack d20 is **natural 20**, confirm with an **independent second d20**, using the **identical actual hit bonus** and **identical defender AC/defense target** that applied to the original attack, **including temporary and situational modifiers on both sides**. `confirmation_d20 + original_hit_bonus >= original_defense_target` confirms the critical. Success preserves **×2 actual post-armor damage** and eligible doubled buildup; failure deals **ordinary damage**. The prior reference to “base AC” as a potentially unmodified target is now superseded and its modifier ambiguity resolved. **Only exceptional natural-20 automatic-hit behavior remains open** when the initial natural 20 would not meet the actual ordinary hit threshold. This is replacement-prototype canon; the wound engine and previously deployed `hp-d20-1` Lab version 0.8.0 are unchanged. Full rule: [Combat and Shimmer Guard](22_Combat_Endurance_and_Shimmer_Guard.md); approval record: [Canon Changelog](10_Canon_Changelog.md).
