@@ -1,3 +1,9 @@
+## November 22, 2026 — APPROVED BINDING TARGET PERSISTS UNTIL CONDITION ENDS (PROTOTYPE)
+
+The Jester's chosen body part for a **particular active Binding condition is fixed until that Binding ENDS**. Neither later buildup applications nor upgrades to complete Severity II whole-body restraint nor downgrades back to Severity I permit retargeting it. If advanced restraint is weakened below its threshold, the **originally selected arm, leg, mouth or eyes** remains bound at Severity I. Only after that Binding has fully ended can a new separate Binding choose a new body part. Keep full-body escape-only advanced restriction, independent captive rescues, physically damageable emitted thread, and reusable Draped source. Multiple separate concurrent Binding spells on one victim and their bookkeeping remain open; no free limb-switch or automatic extra attack is implied. **Approved for the developing HP/d20 replacement prototype.**
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR APPROVAL: BINDING SEVERITY I ONE PART; SEVERITY II WHOLE BODY
 
 **Controlling HP/d20 replacement-prototype rule:** At **Severity I (1× effective status HP)**, the Jester chooses **exactly ONE body part** to bind: arm, leg, mouth, or eyes. That one part alone suffers the previously approved effect (arm function suppressed, leg half speed +1 PP, mouth silenced, eyes blinded). Do **not** reinterpret successive buildup as automatically adding additional bound limbs, mouths or eyes; the author expressly states **one selected part at Severity I**.
