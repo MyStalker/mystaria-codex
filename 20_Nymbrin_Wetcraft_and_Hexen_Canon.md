@@ -1,3 +1,10 @@
+## November 22, 2026 — REPLACEMENT-PROTOTYPE LIVING TRANSMOGRIFIED COUNTERS
+
+The latest author-approved universal HP/status redesign classifies fully incapacitating living Polymorph/Transmogrified as an **advanced status**. A legal living-target transformation remains a hostile attack requiring proper contact, Reshaping III plus Vital Transmutation, eligible anchors/sigil and actual casting costs. An ally may counter by **healing the physical sigil scar**, with the original healing eligibility, Toxicity and scar conditions preserved. Default ordinary allied reduction targets are 0.5× effective status HP against standard and 0.25× against advanced conditions where a nonmagical/applicable ordinary counter exists; scar healing remains its special magical counter, not a free generic physical cure.
+
+The universal prototype suggests **3× pure-status buildup, ×0.5 outgoing potency for advanced incapacitation, and a 2× effective-current-HP advanced threshold**, but the existing specialized **2× eligible Power Transmogrified buildup** and **4× old resistance threshold** were separately approved. Their precise migration and precedence among specialty multipliers remain **OPEN**: do not apply both multipliers, claim automatic 6×, or silently overwrite specialty canon before explicit reconciliation. Maintain the six-second reformation and material-loss consequences.
+
+---
 # Nymbrin — Wetcraft, the Golden Lease, and the Hexen
 
 **CANON — all current Nymbrin lore explicitly accepted by the author November 4, 2026.** Latest terminology: **Hexen** collectively names mutants. Earlier provisional mutant names are superseded. Nymkin/Nimbrin in the source conversation are spelling variants; use **Nymbrin**.
