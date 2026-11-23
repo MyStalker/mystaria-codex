@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: BURNING ROUND UP/FIRST TICK; FIRE, ASH, WATER, ICE, HEX AND THREADS
+
+**Burning:** Per tick `ceil(max ordinary HP / 3)`; no Shimmer Guard addition to the damage basis. **The first tick occurs at the end of the affected victim's next proper turn**, including Severity I; thereafter Severity I ticks every other victim turn, Severity II every victim turn, always end-of-turn. This supersedes the prior assistant suggestion to delay the Severity I first tick to the end of the second affected turn. Legal extinguishing before the tick prevents scheduled damage if Burning is cleared. Rounding is now decided; Shimmer absorption, on-victim-turn application and severity-change cadence remain open.
+
+**Media exclusivity and reaction:** Fire and hot ash **exclude one another**; fire and water, puddles or ice **exclude one another**. When fire meets water/puddles, the **fire becomes cold ash** and **water becomes steam**; when fire meets ice, **fire becomes cold ash** and **ice becomes water**. Fire **may coexist with Hex and magical threads**, respecting their ordinary physical/source eligibility. **Cold ash is not hot ash**, and is not automatically a 0.5× Burning buildup hazard. No unsanctioned steam damage/obscuration, area growth or automatic creature-Burning removal is added. Preserve the previously approved terrain 1× fire Burning, 1× Hex Hexed, 0.5× hot ash Burning rates and per-status once-per-turn limit. Fine-scale medium amounts, contact timing and multi-source overlaps remain open.
+
+**Scope and files:** Approved for the HP/d20 replacement prototype only; old operative combat reference and old elements mechanics remain until migration. Updated `35_Magical_Media_and_Contests.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `00_Mystaria_Canon_Index.md`, and `10_Canon_Changelog.md`. No Combat Lab simulation run.
+
+---
+
 ## November 22, 2026 — AUTHOR CORRECTION: BURNING EXACTLY ONE-THIRD; FIRE, HEX AND HOT ASH TERRAIN BUILDUP
 
 **Latest explicit author correction:** Burning's per-tick damage amount is **1/3 maximum ordinary HP**, **NOT 33%**. This overrides the same-day 33% entry for the HP/d20 replacement prototype. Its approved frequency and timing persist: Severity I at the end of every other affected victim turn; Severity II at the end of every affected victim turn; the Shimmer Guard pool does not increase the maximum-ordinary-HP damage basis.
