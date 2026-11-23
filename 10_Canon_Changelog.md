@@ -1,3 +1,11 @@
+## November 22, 2026 — AUTHOR CORRECTION: 25% PASSABLE/50% LARGE WALL BREACH, LOCAL SECTION TARGET AND MAGNITUDE
+
+**Supersedes previous 10%/25% wall-hole thresholds** of the HP/d20 prototype. A **passable hole** for a creature/person is produced by **at least 25% of the local targeted wall section's maximum HP** in actual post-armor damage; a **large hole**, allowing multiple people to squeeze through, requires **50%**. Without sufficient legal Magnitude, attacks are assumed to hit only **one fairly small section** of a wall and leave the rest mainly intact. To damage a larger wall area or an **entire castle at once**, the effect needs lawful sufficiently large **Magnitude/area coverage** rather than just concentrated Power. If a local section is **completely destroyed**, the rest of the connected wall **might suffer about 10% HP loss** from structural instability where appropriate, not a blanket automatically inflicted castle-wide 10%. Exact wall subsection area, individual section HP, whether damage sums over multiple hits for hole classification, and how Magnitude extends structural coverage remain unresolved.
+
+**Approval scope:** Replacement-prototype mechanical direction; preserve operative structure/wound engine and other approved material/enchanted/equipment behavior until converted. Owning documents updated: `22_Combat_Endurance_and_Shimmer_Guard.md`, `09_Equipment_and_Economy.md`, `00_Mystaria_Canon_Index.md` and this changelog. No simulation was run.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: SHIELD HP/ARMOR RELATIVE SCALING AND FIVE STRUCTURAL BREACH TIERS
 
 **Approved new HP/d20 replacement-prototype equipment/object durability direction:** **Light shield = half the maximum ordinary HP of a level-matched generalist fighter, protected by light-equivalent armor**; **Medium shield = half that generalist HP, armor equal to the generalist's armor**; **Heavy shield = twice the half-HP amount (equal to the generalist HP), armor equivalent to heavy armor**. The author's reference to “light armor” in this shield trio was interpreted as “light shield”. Do not invent new absolute numbers, quarter-HP for Light or double-HP for Heavy; reference generalist loadout and rounding remain open.
