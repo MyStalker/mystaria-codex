@@ -1,3 +1,19 @@
+## November 22, 2026 — APPROVED HP/D20 PROTOTYPE: SHIELD HP AND ARMOR BENCHMARKS
+
+**Scope:** The author approves the following replacement-prototype shield durability philosophy; old operative shield wound/Rating tables, Quality/material special traits and legal Guard interception remain in force until an integrated numeric conversion is approved. Define `H_generalist(L)` as maximum ORDINARY HP of the agreed typical level-`L` generalist fighter (NOT Shimmer Reserve), and `A_light(L)`, `A_medium_generalist(L)`, `A_heavy(L)` as the appropriate armor protection reference at that level under the future replacement armor conversion.
+
+| Shield | Maximum shield HP | Shield Armor equivalent |
+| --- | --- | --- |
+| Light | `0.5 × H_generalist(L)` | Light armor at corresponding level |
+| Medium | `0.5 × H_generalist(L)` | Equivalent generalist fighter's armor at that level (medium as the working category) |
+| Heavy | `2 × (0.5 × H_generalist(L)) = H_generalist(L)` | Heavy armor at corresponding level |
+
+**Interpretation caveat:** The user's words “For light armor, hp is half that fighter and its armor is light” appear in a sequence describing light/medium/heavy shields, therefore are recorded as **light shield**; this is interpretation, not independent author approval of the wording. The author gave BOTH light and medium **half a generalist's HP** and heavy **twice that half-HP amount**. **Do not silently invent a quarter-HP light shield or double-HP heavy shield.** The medium shield's “just as much armor as a generalist fighter” does not independently establish the generalist's precise armor loadout/material/Quality; treat medium armor as a useful reference until final reference builds are authorized.
+
+**Resolution:** Damage against a shield should use the common prototype armor-reduction and finite HP framework, respecting legal shield interception, coverage, material effects, broken/repair states, passive block versus Trapped, and physical/magical attack eligibility. Whether a shield's armor absorbs damage once before shield HP is reduced, and precise overflow into the bearer when it breaks, are important integrated conversion details; do not invent values. Fractional HP rounding, reference generalist attributes and progression are still OPEN. No replacement numbers are assigned to actual named Quality/material shields or inventory.
+
+---
+
 ## November 20, 2026 — Current shield and Junk price tariff (AUTHOR APPROVED)
 
 **Price-only reference:** Quality I–V ordinary **Light shields cost 50 / 150 / 2,500 / 20,000 / 62,500 Gems**; ordinary **Medium and Heavy shields cost 100 / 300 / 5,000 / 40,000 / 125,000 Gems**. Light is half Medium, Medium and Heavy are identical in price. Current **Junk Quality I Light = 25 Gems**, **Junk Medium/Heavy = 50 Gems**, strictly half the matching regular QI finished-shield price. All currently legal shield actions (including Guard, legal shield bash and permitted Double Strike), 0% intrinsic shield SPD, material-neutral pricing, actual physical Rating, Junk two-state wear and 0.90 × *final* defense-Power effects are **unchanged**. **Deflect remains RETIRED** under the November 15 approval and is not reinstated by any price update. See [Gem Price Catalogue](37_Gem_Price_Catalogue.md). Older numerical prices elsewhere below are historical and superseded.
