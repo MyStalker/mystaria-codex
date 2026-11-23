@@ -1,3 +1,114 @@
+## November 23, 2026 — AUTHOR-APPROVED EXPERIMENTAL FLEXIBLE SPECIALIZATION (UPGRADE 3.2)
+
+**Authority and scope:** The author's Upgrade 3.2 mission approves the following
+experimental procedures and balance directions. Preserve operative wound combat,
+frozen `hp-d20-1`, working `hp-d20-2`, historical reports/digests, equipment and
+Craft/SP/MP identities, saved sheets and deployment safeguards. This does not
+canonize a final numerical training schedule or claim achieved balance.
+
+### Natural attack-roll overrides
+
+Within the selectable new experimental policy, **natural 1 always misses** and
+**natural 20 always hits and triggers critical confirmation**. Confirmation uses
+the **same original attack bonus and actual target defense**, including all
+temporary modifiers. **Natural 1 fails confirmation; natural 20 succeeds**.
+Thus ordinary landed-hit probability is bounded at **5–95%**, and confirmed
+critical probability per attempted attack is `0.05 × confirmation_probability`.
+Armor mitigation is unchanged: an automatic hit may inflict **zero damage**.
+Confirmed criticals retain doubled post-armor damage and applicable buildup.
+
+This settles the earlier unresolved natural-20 automatic-hit edge case **for this
+new selectable training experiment only**. Earlier Lab versions retain their
+recorded behavior; do not reinterpret old simulation evidence or nonattack checks.
+
+### HP training alternatives: no final selection
+
+Support independent configuration of purchased-HP caps as a percentage of
+**untrained ordinary HP, excluding Shimmer reserves**, uncapped training,
+level-scaled benefits per rank, existing static benefits and independent prices.
+Compare **50%, 100% and 150%** caps without limiting configurability to those
+three values. **No final cap or scaling formula is approved.**
+
+Do not spend TP on ranks that grant no effective ordinary HP. A partially effective
+rank must be explicitly identified in validation and diagnostic output, including
+actual benefit and TP spending; do not hide cap truncation. Existing Hero reserve
+and emergency Break mechanics remain separate from purchased-HP cap calculation.
+The Lab's integer allowance/partial-full-price implementation is a documented
+experimental policy, not an independently finalized tabletop purchase rule.
+
+### Rounded builds and populations
+
+Routine diagnostics cover **levels 1, 5, 10, 25, 50, 75 and 100**; generalists;
+rounded accuracy, damage, evasion, health and armor specialists; approximately
+**80% primary / 20% compensatory TP**, with configurable ratios and attribute
+spreads; and all six pairs among accuracy/damage/evasion/health. Defensive
+specialists retain meaningful offense. Whole-rank budgets can prevent exact
+ratios, especially at early levels; expose actual investments and shortfalls.
+Validate equipment handling/Weight, attribute, SP and TP budgets. Preserve explicit
+ordinary advancement assumptions rather than silently applying Hero leveling.
+
+Expose reusable build generation through the existing Combat Lab experiment
+interface. Report Hero/non-Hero, non-Hero/non-Hero and Hero/Hero populations,
+prioritizing **Hero versus ordinary combat** with a substantial intrinsic Hero
+advantage. Do not over-optimize for rare Hero PvP; Hero advantage is not a flaw
+requiring 50/50 Hero-versus-ordinary outcomes.
+
+### Flexible specialization philosophy
+
+**Do not force a rigid rock-paper-scissors hierarchy.** Let favorable counter
+relationships emerge. Every specialization needs meaningful strengths, weaknesses
+and practical value; none should be universally inferior.
+
+| Specialization | Preferred average duel win rate against comparable opponents |
+|---|---|
+| Damage | 45–55% |
+| Evasion | 45–55% |
+| Health | 40–55% |
+| Accuracy | 35–50% |
+| Generalist | 45–55% |
+
+These are **flexible design preferences, not strict acceptance requirements**.
+Accuracy may be the weakest standalone option if it remains useful in support;
+prefer this to damage becoming broadly inferior. Intentional counters may reach
+approximately **90%** wins, while preserving meaningful counterplay and available
+routes to success. Do not mistake a symmetric aggregate average for balance or
+an unavailable move for actual counterplay.
+
+With modest durability investment, damage specialists should generally survive
+at least one ordinary comparable generalist hit. **Dedicated damage TP plus STR**
+can enable exceptional burst; **STR alone** should not routinely one-shot trained
+opponents. Health specialists aim for **approximately half comparable generalist
+post-armor damage**, compensated by superior survival. These are assessment goals,
+not guarantees, mandatory build restrictions or hard damage caps.
+
+### Metrics and retained numerical candidates
+
+Report matchup and aggregate specialization performance; hit/confirmed-critical
+probabilities; post-armor and expected damage per attack; normal hits to defeat;
+one-shot potential; encounter duration; remaining ordinary HP and Shimmer outcomes;
+missing meaningful offensive routes; actual attribute and TP allocations.
+
+Keep configurable leading **experimental candidates**: physical attribute damage
+coefficient **0.3**, weapon-rating multiplier **1.4**, physical damage training
+**+24/rank**, HP training **+40/rank**, first-eight-rank HP price discounts, revised
+independent accuracy pricing and the previously approved evasion table. These are
+not finalized operative canon. The preceding balance discussion supplies retained
+**candidate** physical-accuracy four-rank prices **2/5/10/17/26/37/50 TP**, and HP
+prices **1 TP/rank at ranks 1–4, 2 TP/rank at ranks 5–8** (candidate C). Their
+retention is authorized by this mission, without adopting them as final prices.
+Any continuation beyond the listed accuracy bands remains a documented test
+formula. Independent ladders accept alternative values without source changes.
+
+Full balance optimization is deferred to subsequent ChatGPT experiments. Validate
+reproduction, roll boundaries, HP caps, legal generation and backward compatibility;
+publish source/schema/tests/examples/docs together. Authorized local deployment
+must preserve protections and verify the **running worker's** version, source and
+capabilities, followed by connected ChatGPT feature tests. Publication or CI alone
+is not successful installation on the author's Windows PC. This approval record
+asserts no deployment or new large balance-study results.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED EXPERIMENTAL TRAINING PRICES AND TEST METHOD (UPGRADE 3.1)
 
 **Scope:** This is an approved experimental refinement of `training-1`, not a

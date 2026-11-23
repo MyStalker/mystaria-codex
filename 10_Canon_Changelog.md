@@ -1,3 +1,38 @@
+## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.2 flexible specialization experiment
+
+Approved selectable natural 1/20 hit and confirmation overrides using snapshotted
+actual modifiers, preserving mitigation and old rulesets. This resolves the prior
+auto-hit edge case only for the new experimental policy.
+
+Approved configurable ordinary-HP training caps excluding Shimmer (test 50/100/150%
+and other values), uncapped/static/level-scaled alternatives, zero-benefit purchase
+rejection and explicit partial-rank reporting. **No final cap or scaling selected.**
+
+Approved seven-level rounded diagnostics, configurable attribute/TP distributions,
+80/20 support, all six core hybrids, legal budgets and all three Hero populations.
+No forced counter cycle. Flexible comparable-opponent average preferences:
+Damage/Evasion/Generalist 45–55%, Health 40–55%, Accuracy 35–50%. Accuracy may be
+weakest standalone if useful in support; avoid broadly inferior damage. Preserve
+counterplay and intentional counters near 90%; prioritize substantial Hero/ordinary
+advantage. Damage builds should normally survive one ordinary comparable hit with
+modest durability; exceptional burst needs STR plus damage TP. Health aims for half
+comparable generalist post-armor damage with superior survival.
+
+Retain configurable experimental 0.3 attribute coefficient, 1.4 WR multiplier,
++24 damage/+40 HP per rank, early HP discounts and independent revised accuracy/
+previously approved evasion prices. Recovered prior numerical candidates are
+physical accuracy 2/5/10/17/26/37/50 TP per rank in four-rank bands; HP 1 TP at
+ranks 1–4 and 2 TP at ranks 5–8. Retained for experiments, not final prices. Expanded
+results and reusable ChatGPT build-generation infrastructure are authorized;
+extensive optimization remains subsequent work. Preserve all operative canon,
+frozen versions, historical reproducibility and guarded deployment. No successful
+Windows installation or connected verification asserted here.
+
+Files: full owning decisions in `22_Combat_Endurance_and_Shimmer_Guard.md`;
+precedence/navigation in `00_Mystaria_Canon_Index.md`; this Changelog.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.1 configurable training prices
 
 The author approves independent per-derived-statistic TP ladders with explicit

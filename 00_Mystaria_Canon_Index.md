@@ -1,3 +1,24 @@
+## November 23, 2026 — Upgrade 3.2: APPROVED EXPERIMENTAL flexible specialization
+
+Selectable natural **1 misses / 20 hits and confirms independently**; confirmation
+reuses exact temporary-modified attack/defense, with natural 1 failure/20 success.
+Armor still applies. Configurable purchased-HP percentage caps use untrained ordinary HP, excluding
+Shimmer; test 50/100/150%, other caps, uncapped and level-scaled alternatives.
+**No final HP cap or scaling formula selected.** Reject wasted TP and disclose
+partially effective ranks. Preserve operative and historical rulesets.
+
+Seven-level rounded builds, all six core hybrids and all three Hero populations
+support reusable ChatGPT experiments. No rigid counter cycle. Flexible comparable
+averages: damage/evasion/generalist 45–55%, health 40–55%, accuracy 35–50%.
+Accuracy may be weakest standalone if useful in support. Hero/ordinary advantage
+remains intentional and primary. Retain the 0.3/1.4/+24/+40 candidates and independent
+HP/accuracy/evasion ladders, including recovered non-final accuracy and HP discounts.
+Full approved decisions: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md);
+[approval record](10_Canon_Changelog.md). This newer entry controls only the
+experimental scope; older natural-20 unresolved notices are historical in that scope.
+
+---
+
 ## November 23, 2026 — Upgrade 3.1: APPROVED EXPERIMENTAL training prices
 
 Each TP-derived statistic may use independent explicit price bands and continuation
