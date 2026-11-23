@@ -1,3 +1,11 @@
+## November 22, 2026 — AUTHOR APPROVAL: EXACT 1/3 BURNING TICK AND PER-TURN ENVIRONMENTAL BUILDUP
+
+**Burning supersession:** Replace **33%** with **exactly one-third (1/3) of the victim's maximum ordinary HP per Burning tick** in the HP/d20 prototype. Severity I ticks at the END of every OTHER victim turn; Severity II ticks at the END of EVERY victim turn. Shimmer Guard does not enlarge the base for calculating one-third. Damage rounding, tick phase, and absorption through active Shimmer HP remain OPEN.
+
+**Environmental exposure:** Standing in magical **fire** adds **1× the caster's offensive Spell Power** to Burning buildup; standing in magical **Hex** adds **1× offensive Spell Power** to Hex buildup; standing on **hot ash** adds **0.5× offensive Spell Power** to Burning buildup. Running/traversing multiple affected tiles on the same turn does not add repeated buildup for that same status. **One environmental application per affected status per creature turn**, not per tile. Distinct Fire and Hex types may be tracked independently. These exposures do not create new direct HP ticks beyond separately lawful damage, including regular Burning's end-of-turn ticks. Overlap/timing/source attribution still need review. Reference `35_Magical_Media_and_Contests.md` for owning universal status framework.
+
+---
+
 ## November 22, 2026 — AUTHOR-APPROVED BURNING TICK AND BINDING PART PERSISTENCE (HP/D20 PROTOTYPE)
 
 **Burning:** Severity I inflicts **33% of the victim's maximum ordinary HP** as damage **at the end of every other victim turn**; Severity II deals the SAME **33% of maximum ordinary HP** **at the end of every victim turn**. Shimmer Guard is **not counted toward the max-HP damage amount**; actual Shimmer absorption/bypass is not newly decided. Valid extinguishing on the victim's turn before the end-of-turn tick can prevent it. First tick, partial-clock handling on severity changes, exact 33% rounding and exact relationship to Shimmer reserve remain OPEN. Do not infer natural ongoing damage automatically retriggers a new status severity evaluation. Burning can still be fully extinguished by a lawful named complete-removal counter.
