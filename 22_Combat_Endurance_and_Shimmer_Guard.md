@@ -1,3 +1,8 @@
+## November 22, 2026 — UNIFIED STATUS RESOLUTION CROSS-REFERENCE (APPROVED PROTOTYPE)
+
+The author approved the **unified status engine** as the default for new conditions and the organized migration of existing statuses in the HP/d20 replacement prototype. See [Magical Media: unified status engine](35_Magical_Media_and_Contests.md) for the authoritative definition template, delivery/threshold/severity/reduction/duration ordering, named exceptions, and open implementation issues. Core rules: standard 1× effective status HP, advanced 2×, 1× damage+1× buildup hybrid or 3× pure buildup, ×0.5 status Power for advanced-incapacitating effects, critical ×2 buildup, 3-round refreshed accumulation, no spontaneous severity escalation when HP falls, ordinary ally counter 0.5× standard or 0.25× advanced (special full clears possible), immediate downgrade/removal from lawful reduction. Distinguish active-duration timers from buildup expiration. No new simulator test or operative wound-engine migration is implied.
+
+---
 ## November 22, 2026 — APPROVED REPLACEMENT-PROTOTYPE STATUS AND D20 CONVERSION (NOT YET OPERATIVE)
 
 **Authority:** Latest author-approved replacement-prototype direction. These rules supersede conflicting older rules **within the developing HP/d20 prototype only**. Do not globally rewrite the operative quadratic/wound/typed-SR engine, existing Craft prerequisites, source geometry, exceptional spell effects, or item statistics before integrated migration.
