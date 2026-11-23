@@ -1,3 +1,15 @@
+## November 23, 2026 — AUTHOR CLARIFICATION: EXACT SAME ATTACK AND DEFENSE ON CRITICAL CONFIRMATION
+
+**APPROVED HP/d20 replacement-prototype procedure:** After the initial natural **20** threatens an attack critical, make an **independent confirmation d20 against the SAME actual defense target as the initial attack** and apply the **SAME actual hit bonus as on that initial attack**, **including temporary/situational bonuses and penalties** on either side. Snapshot the relevant attack modifier and defending AC at primary attack resolution; neither side loses benefits or penalties merely because confirmation is rolled afterward. Use the existing inclusive `confirmation_d20 + original_hit_bonus >= original_defense_target` test. A success preserves the approved **×2 post-mitigation HP damage** (and qualifying status buildup); a failure means **normal landed damage**. The confirmation is not an extra offensive action or second hit.
+
+**Supersession:** This resolves the preceding “base AC” ambiguity and removes its diagnostic-only caveat about counting temporary bonuses; the older interpretation “confirmation against unmodified/base defense” is **not operative** in this prototype. Existing margin-based attack criticals are already superseded by the natural-20-plus-confirmation rule. Unresolved independently: whether natural-20 initial attack auto-hits an otherwise impossible target, if at all. Preserve general skill critical categories and operative wound engine.
+
+**Testing:** An actual updated Combat Lab experiment is still needed. With a valid natural-20 threat, `p_critical = 0.05 × p_confirmation`, and `p_confirmation` uses the exact original modified Attack-versus-defense values. Prior 228,000 Coordination duels and the still-connected Lab 0.8.0 are **old margin-crit evidence**, not tests under this replacement rule.
+
+**Files:** `22_Combat_Endurance_and_Shimmer_Guard.md` (full rule), `10_Canon_Changelog.md` (approval/supersession), `00_Mystaria_Canon_Index.md` (controlling current rule). No weapon, SP, MP, Quality, material or pricing change.
+
+---
+
 ## November 23, 2026 — AUTHOR APPROVAL: NATURAL-20 CRITICAL THREAT + SECOND ROLL TO CONFIRM (HP/D20)
 
 **Author-approved experimental replacement rule:** The first attack d20 must show a **natural 20** for an attack to threaten a critical hit. The attacker makes **a second confirmation roll against the target's base AC**; successful confirmation gives the existing critical damage result (**×2 post-armor damage**, and applicable doubled hostile status buildup), while a failed confirmation means **normal landed damage**, not a critical. This supersedes the HP/d20 prototype's old **margin >= +10 critical-attack success** trigger, but does **not** automatically replace unrelated nonattack skill-check critical categories or rewrite the operative quadratic/wound combat engine. Ordinary Accuracy/Evasion, their price, equipment/Weapon Ratings, action costs and other approved mechanics persist unless separately superseded.
