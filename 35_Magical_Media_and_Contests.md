@@ -1,3 +1,22 @@
+## November 22, 2026 — LATEST AUTHOR APPROVAL: BURNING ROUNDING, FIRST TICK AND EXCLUSIVE TERRAIN STATES (HP/D20 PROTOTYPE)
+
+**Burning tick damage and timing:** Each tick deals **ceil(maximum ordinary HP / 3)** points of damage. Shimmer Guard does NOT add to the maximum-ordinary-HP value used for this calculation. The **FIRST Burning damage tick occurs at the END of the affected creature's next proper turn** (the next turn the victim actually takes after the effect has qualified), for **both** severities unless legitimately extinguished beforehand. Thereafter **Severity I ticks every OTHER affected creature turn** and **Severity II every affected creature turn**, always at that creature's turn end. Do not delay the first Severity I tick to the second affected turn: that previous assistant suggestion is superseded. Exact timing of effects applied during the victim's own turn, and whether a severity change resets the existing tick phase, remain open. Separately defined Shimmer HP absorption/bypass is not determined by excluding the Shimmer pool from the tick amount.
+
+**Terrain coexistence and mutual exclusion:**
+- A tile may contain **fire together with Hex and/or Jestercraft threads**; these sources are **not mutually exclusive** and must be tracked as distinct terrain components where their own source legality permits. Fire does not automatically erase Hex or threads.
+- **Fire and hot ash are mutually exclusive terrain states** on the same affected surface/tile: do not simultaneously apply a 1× fire exposure and a 0.5× hot-ash exposure from the same tile.
+- **Fire is mutually exclusive with water (including puddles) and with ice** in the same affected tile/space. Their contact resolves by the following material transformations rather than persistent fire+water or fire+ice coexistence:
+  - **Fire + water (including a puddle):** fire becomes **cold ash** and water becomes **steam**.
+  - **Fire + ice:** ice becomes **water** and fire becomes **cold ash**.
+- **Cold ash is NOT hot ash**: the existing 0.5× Burning buildup applies specifically to hot ash and is not automatically inherited by newly produced cold ash. No new steam damage, obscuration, pressure, Hex, Burning, or other automatic status effect is granted just by describing steam. Steam may be relevant as a medium only where independently authorized.
+- These interactions apply as terrain/media state resolutions and do not by themselves declare that an already-applied Burning condition on a creature is instantly extinguished; direct lawful water/dousing of a Burning creature remains its separately approved full-clear counter.
+
+**Exposure:** An eligible spell-created fire tile adds 1× source caster offensive Spell Power in Burning buildup, a Hex tile 1× in Hex buildup, and hot ash 0.5× in Burning buildup, once per affected status per creature turn, **not per crossed tile**. Cold ash has no newly approved hot-ash buildup. Concurrent legally compatible Hex/fire may each apply once for their own status. The precise ordering for a contact conversion during exposure, volumes/areas and duration of steam and newly created water, and multiple overlapping sources remain open. No extra direct damage packet or extra caster attack is silently generated.
+
+**Status:** Author-approved **HP/d20 replacement prototype**. Does not globally replace the old operative wound engine; existing medium, casting, magical and environmental requirements survive unless expressly superseded.
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR APPROVAL: EXACT ONE-THIRD BURNING AND FIRE/HEX/ASH TERRAIN EXPOSURE (HP/D20 PROTOTYPE)
 
 **Burning damage correction:** Supersedes the prior **33%** tick amount in this prototype: every Burning damage tick deals **EXACTLY ONE THIRD (1/3) of the victim's MAXIMUM ordinary HP**, excluding Shimmer Guard from the percentage's base. **Severity I** ticks at the **end of every other victim turn**; **Severity II** ticks at the **end of every victim turn**. The HP portion inflicted by three unmitigated ticks totals 100% of maximum ordinary HP, rather than 99%. Actual fractional-damage rounding, whether Shimmer HP absorbs ticks, and first-tick/upgrade phase remain OPEN, not silently inferred.
