@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: SHIELD HP/ARMOR RELATIVE SCALING AND FIVE STRUCTURAL BREACH TIERS
+
+**Approved new HP/d20 replacement-prototype equipment/object durability direction:** **Light shield = half the maximum ordinary HP of a level-matched generalist fighter, protected by light-equivalent armor**; **Medium shield = half that generalist HP, armor equal to the generalist's armor**; **Heavy shield = twice the half-HP amount (equal to the generalist HP), armor equivalent to heavy armor**. The author's reference to “light armor” in this shield trio was interpreted as “light shield”. Do not invent new absolute numbers, quarter-HP for Light or double-HP for Heavy; reference generalist loadout and rounding remain open.
+
+**Structural rules:** A normal castle wall is the author's conceptual baseline, without a yet-approved absolute HP or an explicitly identified member of the five-class list. A hole requires **at least 10% of wall max HP after actual armor mitigation**; a large hole requires **at least 25%**. Wall armor follows the corresponding level's **medium-armored END specialist spending all eligible Weight on armor**. The five reference classes are **thin wood L1, normal wood L10, thin stone L25, thick stone L75, steel L100**. This fixes relative armor targets, but NOT absolute wall HP, wall-panel geometry, damage accumulation per localized region, shield Guard overflow/breakage, real material/Quality equivalent values, enchantment numbers or equipment prices.
+
+**Authority:** Approved prototype benchmarks only. Older operative quadratic Power/Defense, Quality material and shield condition rules continue until coordinated conversion. Updated shield subject owner, Combat, Equipment, Index and Changelog. No Combat Lab experiment was run.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: ONE PUDDLE PER FIRE TILE, DOWNGRADED BURNING RESTARTS CLOCK, SHIMMER ABSORBS BURNING
 
 **Newest approved HP/d20 prototype decisions:** (1) **One puddle extinguishes one fire tile**, converting water to **steam** and fire to **cold ash** under the prior mutual-exclusion reaction. Do not credit the same puddle with extinguishing multiple tiles. (2) If **Burning Severity II drops to Severity I**, the **damage-tick clock resets as if Severity I were newly applied**. The next tick is the end of the victim's next proper turn, and subsequent Severity I ticks every other victim turn. This is a reset of damage cadence, **not automatically a cleanup/refresh of the underlying buildup**. (3) **Shimmer Guard HP absorbs Burning ticks normally** when legally active, while the amount per tick remains **ceil(max ordinary HP / 3)** with Shimmer HP excluded from maximum-HP base. Preserve existing normal ordinary-to-Shimmer routing.
