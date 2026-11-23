@@ -1,3 +1,15 @@
+## November 22, 2026 — AUTHOR APPROVAL: separate Movement and Initiative Proficiencies; 30/60/120-ft Dash and first-tile Double Dash retreat
+
+**Scope:** Approved design decisions within the proposed replacement combat/character framework, **not yet operative canon**. The old SPD-based movement and initiative rules remain active until final integrated conversion. New design uses **distinct Movement and Initiative Proficiencies** rather than one SPD investment to control both; the possible SKILL attribute and exact proficiency economy are still being designed.
+
+**Approved baseline:** Ordinary base movement **30 feet = six 5-foot tiles**. Spending one Dash doubles the base to **60 feet**, and a Double Dash (two Dash commitments) doubles it again to **120 feet**. Under Double Dash the **first movement tile ignores hostile zones of control**, allowing an initial retreat without the ordinary control check, while later zones and unrelated physical restrictions still matter. This replaces old 1.5×/2× Dash movement **only within the new experimental model**.
+
+**Baseline proficiency direction:** The author approves the concept of modest free Weapon Skill / Evasion development and requests alternatives; **no exact starting ranks, level schedule, free-points allotment, Skill Point costs or new hit math was approved**. Preserve existing Skill Point currency and five-rank magical discipline prices until final authorized integration.
+
+**Files changed:** `22_Combat_Endurance_and_Shimmer_Guard.md`, `10_Canon_Changelog.md`, `00_Mystaria_Canon_Index.md`. **Unresolved:** initial movement actions and proficiency effects, Initiative procedure, ZOC overlaps, optional accuracy/evasion award method, category-to-d20 transition, and fully migrating race/monster SPD and movement rules. No simulation run.
+
+---
+
 ## November 22, 2026 — LATEST AUTHOR CORRECTION: sleeping restores shattered Shimmer Guard before 24 hours
 
 **Approved HP-prototype correction:** A qualifying sleep **ends the emergency Shimmer Break lockout and restores the entire Shimmer Reserve immediately on waking**, even if 24 hours have not passed. The existing **24-hour timeout remains an alternative end to the lockout** if the Hero does not sleep; whether that non-sleep timeout also fully refills Shimmer HP remains to finalize. This replaces the earlier same-day text stating that sleeping cannot bypass the 24-hour Break penalty. Ordinary Hero sleep healing (50% of ordinary maximum HP, 100% with medical attention) remains independent; no medical attention is required for Shimmer renewal. The prototype's 100%-ordinary-HP Shimmer Reserve and 51%-of-maximum-COMBINED-HP emergency Break remain unchanged. Qualifying sleep duration and interruption rules still OPEN. **The current wound-based rules remain operative.** Updated: Combat owner, Canon Index, and Changelog.
