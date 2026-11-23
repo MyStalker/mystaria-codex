@@ -1,3 +1,9 @@
+## November 22, 2026 — AUTHOR-APPROVED MOVEMENT/INITIATIVE REDESIGN (PROTOTYPE ONLY)
+
+The author approved **separate Movement and Initiative Proficiencies** as part of the developing Skill-based replacement for the SPD attribute. **Base movement 30 ft / 6 tiles; one Dash doubles to 60 ft / 12 tiles; Double Dash doubles again to 120 ft / 24 tiles.** A Double Dash **ignores the first movement tile for hostile zone-of-control purposes to permit retreat**, but not later controlled tiles or independent obstacles. This replaces existing 1.5×/2× Dash only in the proposed replacement system; **operative existing combat remains unchanged** until final system conversion. The author supports a modest free baseline for Weapon Skill/Evasion but has **not approved specific free ranks, level milestones or the 1–20 accuracy equation**. Movement and Initiative proficiency costs/effects and the Skill Point budget remain OPEN. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 22, 2026 — LATEST HP-PROTOTYPE APPROVAL: sleep also RESETS BROKEN Shimmer Guard
 
 In the proposed additive-HP system, **a qualifying sleep ends the 24-hour emergency Shimmer Break lockout early and restores Shimmer HP to full** on waking, with no medical attention required. The 24-hour timeout remains an alternative end to the lockout for a Hero who does not sleep; whether the timeout itself refills Shimmer HP remains open. This explicit latest decision **supersedes earlier same-day HP-prototype statements that sleep cannot end the Break lockout**. The approved **100% ordinary-max-HP reserve**, **51%-of-combined-max-HP emergency trigger**, and separate **Hero ordinary-HP sleep recovery (50% / 100% with medical care)** remain. This is an approved **replacement-prototype decision, not yet operative wound-based canon**. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and [Changelog](10_Canon_Changelog.md).
