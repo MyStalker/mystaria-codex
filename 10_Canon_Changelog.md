@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: ONE PUDDLE PER FIRE TILE, DOWNGRADED BURNING RESTARTS CLOCK, SHIMMER ABSORBS BURNING
+
+**Newest approved HP/d20 prototype decisions:** (1) **One puddle extinguishes one fire tile**, converting water to **steam** and fire to **cold ash** under the prior mutual-exclusion reaction. Do not credit the same puddle with extinguishing multiple tiles. (2) If **Burning Severity II drops to Severity I**, the **damage-tick clock resets as if Severity I were newly applied**. The next tick is the end of the victim's next proper turn, and subsequent Severity I ticks every other victim turn. This is a reset of damage cadence, **not automatically a cleanup/refresh of the underlying buildup**. (3) **Shimmer Guard HP absorbs Burning ticks normally** when legally active, while the amount per tick remains **ceil(max ordinary HP / 3)** with Shimmer HP excluded from maximum-HP base. Preserve existing normal ordinary-to-Shimmer routing.
+
+**Supersedes/open issues:** Earlier same-day notes leaving puddle quantity, severity II→I tick phase and Shimmer absorption open are **SUPERSEDED** for the HP/d20 prototype. The I→II tick transition, order of overlapping terrain conversions, exact on-turn triggers and the equipment/armor/material/enchantment migration remain open. No global wound-engine migration or Combat Lab experiment authorized by this correction.
+
+**Files changed:** `35_Magical_Media_and_Contests.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`, `00_Mystaria_Canon_Index.md` and `10_Canon_Changelog.md`.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: BURNING ROUND UP/FIRST TICK; FIRE, ASH, WATER, ICE, HEX AND THREADS
 
 **Burning:** Per tick `ceil(max ordinary HP / 3)`; no Shimmer Guard addition to the damage basis. **The first tick occurs at the end of the affected victim's next proper turn**, including Severity I; thereafter Severity I ticks every other victim turn, Severity II every victim turn, always end-of-turn. This supersedes the prior assistant suggestion to delay the Severity I first tick to the end of the second affected turn. Legal extinguishing before the tick prevents scheduled damage if Burning is cleared. Rounding is now decided; Shimmer absorption, on-victim-turn application and severity-change cadence remain open.
