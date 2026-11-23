@@ -1,3 +1,9 @@
+## November 22, 2026 — APPROVED HEX-TERRAIN STATUS BUILDUP (HP/D20 PROTOTYPE)
+
+Standing in a **caster-created Hex effect** applies **1× the responsible caster's applicable offensive Spell Power as Hex buildup** for the qualifying environmental exposure. Moving or running across multiple Hex tiles during the same creature turn does **not** increase the buildup by tile count; only one environmental Hex buildup packet per turn. Other independent status types remain separate. Exact moment of exposure, overlapping Hex fields from different casters, persistence without caster, and mundane environmental analogues remain open. This is a status buildup application and not an automatically separate direct damage tick or an extra committed hostile attack action. Existing Nymbrin Hex medium, legitimate hazard and other mechanics remain until integrated HP/d20 conversion.
+
+---
+
 ## November 22, 2026 — REPLACEMENT-PROTOTYPE LIVING TRANSMOGRIFIED COUNTERS
 
 The latest author-approved universal HP/status redesign classifies fully incapacitating living Polymorph/Transmogrified as an **advanced status**. A legal living-target transformation remains a hostile attack requiring proper contact, Reshaping III plus Vital Transmutation, eligible anchors/sigil and actual casting costs. An ally may counter by **healing the physical sigil scar**, with the original healing eligibility, Toxicity and scar conditions preserved. Default ordinary allied reduction targets are 0.5× effective status HP against standard and 0.25× against advanced conditions where a nonmagical/applicable ordinary counter exists; scar healing remains its special magical counter, not a free generic physical cure.
