@@ -1,3 +1,13 @@
+## November 22, 2026 — AUTHOR APPROVAL: +10 attribute-derived Accuracy/Evasion cap; skill costs and level ceiling under review
+
+**Explicitly approved for the replacement prototype:** Choose **Option B**: permanent attribute-derived Accuracy and Evasion bonuses are capped at **+10 each**, not unlimited. Associated attribute framework being developed: each full 20 qualifying attribute points grants +1; STR drives Accuracy, END drives Evasion, and DEX counts half toward both. Rounding, negatives and effective stat conversions require final checks.
+
+**New user-proposed progression ceiling, not yet fully ratified in implementation detail:** Maximum **permanent skill bonus** proposed as `min(20, 10 + floor(level/10))`, increasing from +10 at level 1 to +20 at level100; clarify whether this is the combined purchased+attribute score and how temporary bonuses interact.
+
+**Assistant proposals only, not approved SP prices:** Accuracy and Evasion 5 SP per purchased rank, supernatural Craft default benchmark 5 SP where already canonical, ordinary mundane ranks three per 5 SP via 1/2/2 purchases, and Movement/Initiative price subject to mechanic design. The existing independently approved 3/4-SP Jestercraft prices are untouched. No increased routine SP/level grant is approved. Existing quadratic wound rules remain operative pending whole-system conversion. Updated Combat, Index, Changelog.
+
+---
+
 ## November 22, 2026 — AUTHOR APPROVAL: separate Movement and Initiative Proficiencies; 30/60/120-ft Dash and first-tile Double Dash retreat
 
 **Scope:** Approved design decisions within the proposed replacement combat/character framework, **not yet operative canon**. The old SPD-based movement and initiative rules remain active until final integrated conversion. New design uses **distinct Movement and Initiative Proficiencies** rather than one SPD investment to control both; the possible SKILL attribute and exact proficiency economy are still being designed.
