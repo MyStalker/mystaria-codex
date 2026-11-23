@@ -1,3 +1,11 @@
+## November 22, 2026 — AUTHOR-APPROVED BURNING TICK AND BINDING PART PERSISTENCE (HP/D20 PROTOTYPE)
+
+**Burning:** Severity I inflicts **33% of the victim's maximum ordinary HP** as damage **at the end of every other victim turn**; Severity II deals the SAME **33% of maximum ordinary HP** **at the end of every victim turn**. Shimmer Guard is **not counted toward the max-HP damage amount**; actual Shimmer absorption/bypass is not newly decided. Valid extinguishing on the victim's turn before the end-of-turn tick can prevent it. First tick, partial-clock handling on severity changes, exact 33% rounding and exact relationship to Shimmer reserve remain OPEN. Do not infer natural ongoing damage automatically retriggers a new status severity evaluation. Burning can still be fully extinguished by a lawful named complete-removal counter.
+
+**Binding:** A Jester's selected one part (arm, leg, mouth, eyes) **cannot change while that same Binding status persists**. Complete Severity II binds whole body; a reduction back to Severity I restores restraint on the original selected part. The Jester may choose a new part only for a genuinely new Binding after the prior one has ended. These are approved replacement-prototype rules; old operative rules and specialist exceptions remain separate. Owning status `35_Magical_Media_and_Contests.md`; Jester `05_Jestercraft.md`.
+
+---
+
 ## November 22, 2026 — APPROVED BINDING TIER ACTION RESTRICTIONS (REPLACEMENT PROTOTYPE)
 
 **Severity I:** one Jester-chosen part (arm, leg, mouth or eyes) bound with its approved functional effect; no blanket full-body incapacity. **Severity II (advanced):** whole body is bound; **only self-directed escape attempts are allowed**. The victim cannot otherwise attack, cast spells, take normal movement or perform unrelated actions while fully bound; outside ally rescues remain valid. Lawful reduction below active Severity II downgrades immediately to one-part Severity I, and below Severity I releases them. This is a specific restriction within the general status engine and does not grant a free escape action, override costs/checks or collapse Jestercraft Binding into separate Thread Grappling. See `05_Jestercraft.md` and `35_Magical_Media_and_Contests.md`. Older notes contemplating binding multiple parts cumulatively are superseded within the replacement prototype.
