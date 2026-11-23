@@ -1,3 +1,11 @@
+## November 22, 2026 — BURNING RESET, SHIMMER HP ABSORPTION AND TILE WATER CONTACT (APPROVED PROTOTYPE)
+
+**New author approval:** Burning tick = **ceil(maximum ordinary HP / 3)**, **Shimmer Guard HP excluded from the damage-amount basis but INCLUDED as normal damage-absorbing protection** whenever the Shimmer reserve is active and legally available. Apply standard ordinary-HP/Shimmer HP routing; Burning is not a special Shimmer-bypassing damage type. **When advanced Burning II is reduced to standard Burning I**, **restart the Severity I end-of-victim-turn damage cadence as though Burning had just been applied**: next tick at end of victim's next proper turn after downgrade; subsequent Severity I ticks every other victim turn, if still active. Do not keep the imminent Severity II tick. The status buildup is NOT erased or refreshed solely by restarting the damage clock. Timing for I→II upgrade remains open.
+
+**Terrain conversion:** **One puddle can extinguish one fire tile**, transforming that fire to **cold ash** and the puddle's water to **steam**, consistent with existing water/fire exclusivity. This consumes that puddle's one-tile extinguishing contribution; do not spread its benefit across extra fire tiles automatically. Ice meeting fire produces **water and cold ash**, under its own approved contact reaction, without invented cascading heat effects. See `35_Magical_Media_and_Contests.md` for status/media rules. The old wound engine is not converted by this prototype decision.
+
+---
+
 ## November 22, 2026 — AUTHOR CORRECTION: ROUND UP BURNING; FIRST TICK ON VICTIM TURN; TERRAIN EXCLUSIONS
 
 In the developing HP/d20 prototype, Burning tick damage is **ceil(maximum ordinary HP / 3)**, counting no Shimmer Guard HP in the maximum-HP calculation. **First tick occurs at the END of the victim's next proper turn** after Burning takes effect. Subsequent ticks are at the end of **every other** victim turn for Severity I and **every** victim turn for Severity II. Victim may legally extinguish before end-turn damage when able. Whether actual HP damage is absorbed by Shimmer HP is still open, as are timing when Burning begins on the victim's active turn and phase changes when severity changes.
