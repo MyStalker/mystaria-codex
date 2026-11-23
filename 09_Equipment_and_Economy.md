@@ -1,3 +1,13 @@
+## November 22, 2026 — APPROVED SHIELD/STRUCTURAL ARMOR BENCHMARKS FOR HP CONVERSION (PROTOTYPE)
+
+**Shield classes:** Reference the same-level **generalist fighter's maximum ordinary HP** for durability. **Light shield HP = half generalist HP**, with light-equivalent Armor; **Medium shield HP = half generalist HP**, Armor equivalent to generalist fighter (medium armor working reference); **Heavy shield HP = twice half generalist HP = generalist HP**, with heavy-armor-equivalent Armor. The user's phrase “light armor” in shield context is interpreted as “light shield”; the identical Light/Medium HP is retained, not automatically corrected. Define the generalist fighter's actual legal armor and armor style before producing numerical shield catalogues. These are HP/d20 prototype defaults and do not overwrite old shield material/wound/break rules, prices, materials or Quality.
+
+**Wall armor reference model:** Five structural protections reference a **medium-armored Endurance specialist of a corresponding level**, who spends their entire available combined equipment Weight capacity on their armor: thin wood **L1**, normal wood **L10**, thin stone **L25**, thick stone **L75**, steel **L100**. A “normal castle wall” is the user's baseline conceptual structure, but its exact HP and category relative to these five must be defined before numerical wall cards. Physical wall destruction requires **at least 10% of wall max HP in damage penetrating its armor to make a hole**, and **at least 25% for a large hole**. Do not silently assume whether this is one attack or cumulative localized damage over multiple attacks, the wall panel size, or exact hole diameter. Preserve actual damage types, armor-penetration exceptions, construction materials and special effects until integrated conversion. Reference physical armor benchmark levels are calibration anchors, NOT required Hero level gates or a claim that any literal oak plank must resist exactly like a manufactured medium suit.
+
+**Pending conversion:** final HP-equation rounding, generalist and specialist stat/equipment reference sheets, physical armor loadout and Weight budget normalization, shield hit/Guard/overflow logic, material-specific modifiers, material object HP, siege/structure target coverage, repair economics, enchantment scaling and numeric object instances. Keep historical approved Gem tariffs until their own conversion is authorized.
+
+---
+
 ## November 20, 2026 — COMPLETED EQUIPMENT-PRICING EXTENSION (LATEST PRICE-ONLY RULE)
 
 **Current operative tariff and full tables:** [37_Gem_Price_Catalogue.md](37_Gem_Price_Catalogue.md) §§11A–E, supplementing its original standard equipment, Junk, potion, ammunition and shop prices. This user's authorized finishing pass sets:
