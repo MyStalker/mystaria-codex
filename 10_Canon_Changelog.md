@@ -1,3 +1,29 @@
+## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.1 configurable training prices
+
+The author approves independent per-derived-statistic TP ladders with explicit
+rank bands and continuation formulas, retaining the original schedule as the
+compatibility default. Full rule and exact evasion table are in the newest entry
+of `22_Combat_Endurance_and_Shimmer_Guard.md`.
+
+**Approved evasion experiment:** +1 evasion every purchased rank; ranks 1–4 cost 2
+TP each, then two-rank bands cost 8/14/22/32/44/58/74. For rank r>4, combine
+original ladder ranks 2r−5 and 2r−4 indefinitely. Attribute accuracy/evasion remain
+unchanged; other custom prices are experimental inputs, not final canon.
+
+**Standing tests:** approximately 80% specialty / 20% weakness TP; offensive
+accuracy comparable to a generalist even when support exceeds 20%; defensive
+specialists retain meaningful offense. Exclude dysfunctional pure specialists
+from routine assessments. Hero/non-Hero remains primary; retain other populations,
+meaningful counterplay and intentional counters near 90%. This refines earlier
+extreme-build testing instructions without rewriting historical evidence.
+
+**Preserved:** operative canon, older rulesets, equipment/material/Craft/SP/MP
+identities, historical reports and simulation digests, runtime protections.
+No extensive balance findings or successful local deployment are asserted by
+this approval record. Files: Combat owner, Canon Index, this Changelog.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED Upgrade 3 training economy and asymmetric testing
 
 **Approval scope:** The author's explicit Upgrade 3 mission authorizes a separate
