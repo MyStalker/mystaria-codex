@@ -1,3 +1,69 @@
+## November 23, 2026 — AUTHOR-APPROVED EXPERIMENTAL TRAINING PRICES AND TEST METHOD (UPGRADE 3.1)
+
+**Scope:** This is an approved experimental refinement of `training-1`, not a
+replacement of operative wound combat, frozen `hp-d20-1`, working `hp-d20-2`,
+equipment, Craft/SP/MP identities, live sheets or historical simulation evidence.
+
+### Independent derived-statistic prices
+
+Every derived statistic purchased with TP may have its own configurable escalating
+price ladder, with explicit inclusive rank bands and a defined continuation formula
+beyond those bands. Preserve the original training schedule as the default for
+backward compatibility. Independent configurability does not approve a universal
+numerical price or effect schedule for HP, damage, armor or other statistics.
+Attribute-derived accuracy and evasion remain unchanged.
+
+### Approved evasion experiment
+
+Every purchased evasion rank grants **+1 evasion**. Use these experimental prices:
+
+| Purchased ranks | TP per rank |
+|---|---:|
+| 1–4 | 2 |
+| 5–6 | 8 |
+| 7–8 | 14 |
+| 9–10 | 22 |
+| 11–12 | 32 |
+| 13–14 | 44 |
+| 15–16 | 58 |
+| 17–18 | 74 |
+
+Let `C(n)=2+b*(b+3)/2`, where `b=floor((n-1)/4)`, denote the
+original four-rank price ladder. For each new purchased evasion rank `r>4`,
+price is **`C(2*r-5)+C(2*r-4)`**. This combines two successive original
+ranks after rank 4 and continues indefinitely: ranks 19–20 cost 92 TP each,
+21–22 cost 112 TP each. There is no new game rank cap. Every purchase is useful;
+do not implement fractional ranks or an evasion benefit only every second purchase.
+
+This supersedes the older evasion prices **only when this approved experiment is
+selected**. The original ladder remains the compatibility default; physical and
+magical accuracy prices and all attribute-derived formulas remain unchanged
+unless a separate explicit experiment selects other configurable prices.
+
+### Standing assessment method
+
+- Specialists spend approximately **80% of TP on their specialty and 20% on
+  compensating for weaknesses**, including HP, evasion/AC and accuracy as relevant.
+  Treat the split as approximate under discrete escalating prices.
+- Offensive builds aim for accuracy comparable to the generalist reference,
+  **exceeding the 20% support allocation when necessary**.
+- Defensive specialists maintain meaningful offensive capabilities.
+- Exclude deliberately dysfunctional pure specialists from routine balance
+  assessments. Preserve explicit historical fixtures and isolated controls for
+  reproduction; do not rewrite their reports or digests.
+- Prioritize **Hero versus non-Hero**, retaining ordinary/ordinary and Hero/Hero.
+  Hero status remains intentionally beneficial.
+- Preserve meaningful lawful counterplay. Intentional counters may reach
+  approximately **90% win rates**; investigate available routes to success when
+  defeat would otherwise be certain. This is a design target, not a reported
+  win rate or proof that stationary diagnostics model all tactical counterplay.
+
+These standing instructions refine the earlier Upgrade 3 request for extreme
+variants: routine specialists must now round out weaknesses. No final balance
+winner is approved. Extensive balance studies follow separately after deployment.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED TRAINING ECONOMY AND ASYMMETRIC BALANCE EXPERIMENT (UPGRADE 3)
 
 **Status and precedence:** These are the author's latest explicit redesign
@@ -55,7 +121,10 @@ not a hard ceiling. A high-level character who ignores combat investment may
 remain extremely weak. END's combined HP/status-resistance/evasion efficiency
 is a balance concern to measure, not authority for an automatic nerf.
 
-Use this explicit accuracy/evasion ladder, initially also for magical accuracy:
+The original Upgrade 3 compatibility-default ladder follows. Upgrade 3.1's
+newer optional evasion experiment above supersedes evasion prices only when
+selected; keep these original prices for backward reproduction and accuracy:
+
 
 | Purchased ranks | TP per +1 |
 |---|---:|

@@ -1,3 +1,20 @@
+## November 23, 2026 — Upgrade 3.1: APPROVED EXPERIMENTAL training prices
+
+Each TP-derived statistic may use independent explicit price bands and continuation
+formulas; the original ladder stays the compatibility default. The approved
+evasion experiment grants **+1 every rank**, with 2 TP at ranks 1–4 and paired
+bands 8/14/22/32/44/58/74 thereafter, continuing indefinitely by combining
+successive original ranks. Attribute accuracy/evasion are unchanged.
+
+Routine specialists now use approximately **80% specialty / 20% weaknesses**,
+with additional accuracy support as needed and meaningful defensive-build offense.
+Exclude dysfunctional pure specialists from routine assessments; prioritize
+Hero/non-Hero and preserve counterplay, allowing intentional counters near 90%.
+Full rule: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md); approval:
+[Changelog](10_Canon_Changelog.md). Operative combat and historical evidence remain.
+
+---
+
 ## November 23, 2026 — Training economy and asymmetric combat: APPROVED EXPERIMENTAL DIRECTION
 
 The latest author-approved **separate replacement experiment** is `training-1`:
