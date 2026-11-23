@@ -1,3 +1,9 @@
+## November 22, 2026 — AUTHOR-APPROVED STANDARD BINDING: ONE DISABLED LIMB (REPLACEMENT PROTOTYPE)
+
+At **standard Binding severity (1× effective status HP)**, one affected limb is **disabled and treated as functionally absent**. A **bound arm** cannot use an implement for spellcasting, wield or support a two-handed weapon, or operate the shield worn on that arm. A **bound leg halves movement speed and inflicts one Pressure Point**, applying the ordinary **−2 Evasion and −2 Reflex checks per net PP**. Other lawful limb-specific equipment/action requirements still matter. Do not silently assume every bound arm imposes the leg-specific movement/Pressure penalties. **Advanced Binding retains complete incapacitating restraint**, subject to the unified replacement status engine. Legitimate damage to the emitted binding threads reduces/removes the personal status; it does not automatically destroy the reusable source fabric. Multiple simultaneously disabled limbs, target-limb selection, speed rounding and stacking are unresolved. **Prototype-only** approval; earlier operative Bind mechanics are preserved until full migration.
+
+---
+
 ## November 22, 2026 — REPLACEMENT-PROTOTYPE BINDING SEVERITY AND PHYSICAL COUNTERS
 
 For the proposed holistic HP/d20 status redesign, **Binding remains a genuine magical attack**, requiring a legal hit, one offensive attack allowance, lawful Draped source and mana investment. Ordinary generic pure-status buildup is **3× eligible offensive Spell Power**, but **advanced incapacitating Binding halves its outgoing status Power before that multiplier**. The original Binding formula `P_binding(MP)=P_ordinary_magic_attack(MP)` still identifies **underlying baseline spell Power** at equal mana, *before* applying the new shared incapacitating status modifier. This is a prospective prototype conversion, not a retroactive denial of the existing operative full-power Binding.
