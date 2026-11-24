@@ -1,3 +1,11 @@
+## Connected verification complete — November 24, 2026
+
+The owner-account deployment repair installed release `077addb586f2e2162244a8fbf30b1f05d2ce2101`. Actual ordinary ChatGPT calls verified adapter and worker **4.0.0**, the tested source hash, unchanged submission schema and the retained historical record. Two live 24,000-encounter HP studies reproduced identically; Deflection across all three weight classes, programmable HP/prices/conditional effects, exact four-rank accuracy substitution refunding 14 TP, and independent-seed optimization completed. Unsafe operations, undefined references, zero divisors and cycles rejected. Remote pairing was user-confirmed. The earlier access blocker below is historical and resolved for this installation. No final numerical balance candidate is adopted.
+
+Persistent proof and handoff: [connected verification](https://github.com/MyStalker/mystaria-combat-lab/blob/main/docs/research-4-connected-verification.json), [ordinary-chat handoff](https://github.com/MyStalker/mystaria-combat-lab/blob/main/docs/RESEARCH_HANDOFF.md).
+
+---
+
 # Upgrade 4.0 — approved experimental programmable research direction
 
 **Author-approved research architecture and design scope, November 24, 2026. Not final numerical canon.**
