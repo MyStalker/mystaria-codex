@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient salvage and deep-mine protection (AUTHOR APPROVED)
+
+Deep mining can reuse Serpent Steel (Snakesteel) and Slagstone recovered from ancient Serpentari structures for tunnel reinforcement and construction; see Smithcraft for composition and properties. Ancient codices and Kobold machinery, occasionally beyond modern capabilities, are additional salvage opportunities. Scarlands Drakyn are an option for mine protection; Verspryn, professional demon slayers, are also ideal candidates. Exact contracts, staffing, capabilities, risks and prices remain open. No new playable race or combat mechanics inferred.
+
+---
+
 ## November 24, 2026 — Author-established mining geology and subterranean ecology
 
 Ore deposits tend to be richer in areas of high mana concentration; no mandatory ley-line association or numeric grade multiplier. Subterranean Starspawn occupy vibrant ecological niches; green Starspawn can rival Dirtmole digging capability. Demons are the real threat. Mine security starts at least comparable to plains protection and escalates sharply with depth; deepest mines almost certainly need several legendary-quality fighters. Scarlands Drakyn may specialize in subterranean protection and preemptive lair clearance for settlements and mining ventures. Canopy surface wilderness, especially forest, has higher average danger than Scarlands surface travel for a Haze-inoculated fugitive; deep underground danger vastly exceeds even deepest Canopy forests. No fixed hazard rates, depths or combat levels.
