@@ -1,3 +1,11 @@
+## November 23, 2026 — APPROVED EXPERIMENTAL low racial bases (Upgrade 3.3)
+
+For the separate foundational-progression laboratory, prefer most level-1 racial bases below **11**, allowing defining strengths. Test reversal of the historical universal Hero **+10** by subtracting 10 from marked applicable starting bases **before racial multipliers**, retaining effective minimum 1. Current approved tables and historical examples must be identified separately; examples already excluding the increase receive no second subtraction.
+
+**Operative racial canon below is unchanged. SPD is not Skill.** Explicit provisional Skill bases/multipliers are required for experiments; unresolved racial conversions remain unresolved. Retain latest Drider/Kharak/Kobold/Centaur precedence and all racial abilities/equipment identities. Future comprehensive diagnostics include all **thirteen established playable entries**, including Centaurs. Full approved experimental scope: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md); approval: [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 21, 2026 — Leshy branch-fused farming, equatorial Canopy (AUTHOR DIRECTION)
 
 The Canopy Kingdoms are equatorial, supporting agriculture year-round. Farms commonly occupy the **sunlit upper branches of enormous trees**, above a dark and dangerous forest floor. Leshy cultivate wheat, vegetables and root crops such as potatoes integrated with living branches, with soil transported up from the ground as needed. Their emerging Craft concept includes improving infertile growing media, suppressing pests and blight, and extraordinary efficiency in **planting and plowing**, but much less advantage in **harvesting**. The **one Leshy ≈ five planting/plowing workers** and exceptional **watermelon in desert sand** are **working design benchmarks**, not finalized Craft or physical-resource rules. See [38 Leshen Foundations](38_Leshen_Leshy_Foundations.md).

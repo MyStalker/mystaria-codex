@@ -1,3 +1,17 @@
+## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.3 foundational progression
+
+Approved **experimental directions**: low neutral starts (5 each as a candidate), most racial bases below 11 except defining strengths, independent base derived statistics/conversion coefficients, marked once-only reversal of historical Hero +10 before multipliers, and explicit provisional Skill mappings without SPD substitution. Operative racial tables and unresolved conversions remain intact; include all thirteen established playable diagnostic entries.
+
+Approved configurable static/linear/capped/band/anchor training benefits using current level for all owned ranks, with no early-purchase penalty. Preserve independent prices, arbitrary/uncapped ordinary-HP caps, partial ranks and exclusion of Shimmer. Reference candidates: base HP 75 (alternatives 50/100), HP/END 4, physical coefficient 0.6, physical training min(24,4+level-1), HP training +10 to +40, purchased HP cap 100%. Additional laboratory coefficients must be explicit experimental choices.
+
+Approved front-loaded runtime weapon curves with configurable endpoint preservation; stored ratings/catalogues/AP remain. Prefer early viability of all three armor classes with no mandatory medium/heavy level gates; existing operative acquisition guidance remains outside the experiment. Optional monster-only introductory factors are L1 .50/1.50, L2 .60/1.40, L3 .75/1.25, L4 .90/1.10, L5+ 1/1 (HP/damage). Reduce durability first, assess duration, raise damage only as needed, then check survival and critical lethality. One suitable monster or quest is intended to advance L1.
+
+Prioritize L5–100 balance over exact L1–4 symmetric duels. Approved identity-first build generation, available versus natural TP controls, duplicates/shortfalls, contribution breakdowns and marginal attribute experiments; retain flexible 3.2 win-rate preferences, intentional Hero advantage and meaningful counterplay. No forced hierarchy, final numerical balance winner or completed deployment is asserted.
+
+Full owning record: `22_Combat_Endurance_and_Shimmer_Guard.md`; related experimental boundaries in `02_Races.md` and `09_Equipment_and_Economy.md`; navigation/precedence in `00_Mystaria_Canon_Index.md`. Historical rulesets/reports, canon, resource/deployment protections and private records remain preserved.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.2 flexible specialization experiment
 
 Approved selectable natural 1/20 hit and confirmation overrides using snapshotted

@@ -1,3 +1,11 @@
+## November 23, 2026 — Upgrade 3.3: APPROVED EXPERIMENTAL foundational progression
+
+Small starting attributes, independent derived-stat bases, once-only experimental reversal of the historical Hero racial +10 before multipliers, current-level training benefits, front-loaded runtime weapon curves and early armor viability are approved experimental directions. Optional introductory monster preparation is distinct from NPC/player progression. Prioritize levels 5–100 balance; levels 1–4 require functional builds and enjoyable survival, not exact symmetric duels.
+
+**Numbers remain candidates; operative canon and frozen experiments remain unchanged.** No SPD-to-Skill conversion or final racial conversion is approved. Owning full decisions and reference candidates: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md); racial boundary: [Races](02_Races.md); equipment boundary: [Equipment](09_Equipment_and_Economy.md); [approval record](10_Canon_Changelog.md). Preserve Upgrade 3.2 replay behavior and all thirteen playable-race diagnostics. This newer section supersedes earlier experimental candidate preferences only where explicitly stated.
+
+---
+
 ## November 23, 2026 — Upgrade 3.2: APPROVED EXPERIMENTAL flexible specialization
 
 Selectable natural **1 misses / 20 hits and confirms independently**; confirmation

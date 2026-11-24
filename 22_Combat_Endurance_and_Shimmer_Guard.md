@@ -1,3 +1,77 @@
+## November 23, 2026 — AUTHOR-APPROVED EXPERIMENTAL FOUNDATIONAL PROGRESSION (UPGRADE 3.3)
+
+**Scope and precedence:** The Upgrade 3.3 mission approves the following experimental design directions and laboratory capabilities. Preserve operative wound combat, frozen `hp-d20-1`, working `hp-d20-2`, historical simulations, equipment/Craft/SP/MP identities and saved sheets. The numbers below are **experimental candidates**, not final combat balance values. Upgrade 3.2 remains available unchanged for historical replay.
+
+### Low starts and independent derived competence
+
+Prefer small starting attributes, with a neutral experimental reference of **5 each in STR, DEX, END, INT and Skill**. Most level-1 racial bases should remain **below 11**, except defining strengths. Ordinary combat competence should not require inflated attributes merely to obtain adequate HP, damage or carrying capacity.
+
+Configure base ordinary HP, HP per END, physical and magical accuracy bases, evasion base, carrying base and independent STR/END carrying contributions, physical/magical attribute damage coefficients, base physical/magical damage, and appropriate attribute-to-derived conversion rates independently. Preserve existing rounding/order/defaults when not explicitly overridden.
+
+Initial reference candidates: **base HP 75** (also test 50/100), **HP per END 4**, **physical attribute damage coefficient 0.6**, **physical damage training min(24,4+level-1)**, **HP training +10 initially up to +40**, and **purchased HP cap 100% of untrained ordinary HP**. Additional laboratory coefficients must be explicitly documented as experimental. None is a final winner.
+
+### Experimental racial reversal
+
+Support reversing the earlier universal Hero racial **+10** increase: subtract **10 from applicable historical starting bases before racial multipliers**, retain racial relative strengths, and retain minimum **effective attribute 1**. Mark whether each source table includes the increase; do not subtract twice from earlier examples that already exclude it. Latest approved current tables outrank contradictory historical examples (including later Drider and Kharak corrections).
+
+**Do not convert SPD into Skill.** Where racial Skill is unresolved, every experimental mapping must be explicit and labeled provisional. Preserve operative racial tables, abilities, anatomy, and established equipment identities. Include all **thirteen** established playable-race diagnostic entries, including Kobolds, Kharak and Centaurs; do not substitute races without approved playable statistics.
+
+### Current-level training benefits
+
+Prices and benefits remain independently configurable. Support static, linear, maximum-capped linear, explicit level bands and interpolation anchors. Every owned rank uses the character's **current-level** benefit, independent of purchase timing; buying early must not create a penalty or require repurchase.
+
+Reference physical training is `min(24,4+(level-1))` per rank; support slower/faster/custom curves. Reference HP training begins at **+10/rank**, reaches at most **+40/rank**, with configurable rate and maximum-reaching level. Compare several curves without choosing one. Retain Upgrade 3.2 arbitrary percentage caps, uncapped operation, partial effective ranks, independent price ladders and exclusion of Shimmer from untrained-HP cap allowance. Existing accuracy/evasion behavior and prices remain.
+
+The laboratory may retain explicit validated historical purchase receipts for earlier HP ranks that later become inactive at a cap; disclose current effective gains and TP spending. This is experimental replay bookkeeping, not finalized tabletop refund or transaction policy.
+
+### Front-loaded equipment and early armor
+
+Test weapon progression that grants a larger share of eventual damage earlier while preserving endgame output unless explicitly changed. Runtime contributions are separate from stored weapon ratings, construction identity and fixed AP.
+
+| Level | Earlier candidate contribution | Front-loaded candidate contribution |
+|---|---:|---:|
+| 1 | 5.6 | 14 |
+| 5 | 11.2 | 24 |
+| 10 | 16.8 | 30 |
+| 25 | 36.4 | 47 |
+| 50 | 63 | 68 |
+| 75 | 85.4 | 86 |
+| 100 | 107.8 | 107.8 |
+
+These are illustrative **runtime weapon contributions after the rating multiplier and before attributes, training and mitigation**. Support alternative valid anchors and explicit endpoint preservation. Do not rewrite catalogue entries, handling, attribute requirements or AP policies.
+
+Within this experimental direction, prefer **early light/medium/heavy armor viability**, with **no mandatory minimum level for medium/heavy armor**. Preserve mitigation, Weight, requirements and movement/equipment tradeoffs. Affordability, requirements or world-design access restrictions are fallback options, not the preferred balance solution. Earlier operative Heavy-armor acquisition guidelines remain intact outside this experimental scope. Report when actual available damage routes are blocked by armor; natural-20 hits never bypass mitigation.
+
+### Optional introductory monster preparation
+
+Levels 1–5 occupy little player time. A level-1 character is intended to advance after roughly **one suitable monster defeat or one quest**. Precise level 1–4 symmetric duel balance is not required.
+
+| Monster level | HP multiplier | Damage multiplier |
+|---|---:|---:|
+| 1 | 0.50 | 1.50 |
+| 2 | 0.60 | 1.40 |
+| 3 | 0.75 | 1.25 |
+| 4 | 0.90 | 1.10 |
+| 5+ | 1.00 | 1.00 |
+
+This is an **optional DM encounter-preparation guideline**, not universal creature statistics or automatic scaling to player level. Distinguish monsters from ordinary NPCs/non-Heroes. Support HP-only, damage-only, combined and custom factors; document calculation stages and apply each factor only once.
+
+Preferred order: **reduce excessive durability**, assess duration, **increase damage only if threat remains insufficient**, then verify player survival and critical lethality. A generated reference encounter should begin with HP-only adjustment; combined values are available, not mandatory.
+
+### Build identity, marginal attributes and assessment
+
+Primary TP specialization gets priority when affordable; small budgets must not silently invert the requested identity. Report compensatory spending, actual proportions, requested/achieved specialties, legal available/earned budgets, unspent TP, cap truncation and equivalent effective builds. Flag an intended specialty that could not be meaningfully achieved. Support independent attribute allocation, ordered primary/secondary TP specialties, target/support shares, equal available TP or natural Skill income, identical starts/gear, and explicit manual fixtures. Preserve generated and explicit exports; do not manufacture a counter cycle or target win rate.
+
+Provide reusable otherwise-identical legal STR/DEX/END/INT/Skill investment comparisons: small, larger and extreme investments. Separate direct attribute effects from extra SP/TP, equipment eligibility and other derived contributions. Export attribute, training and equipment breakdowns.
+
+Prioritize **levels 5–100**, with routine benchmarks **1/5/10/25/50/75/100** and arbitrary legal explicit fixtures. Retain pure/hybrid, ordinary/ordinary, Hero/ordinary, Hero/monster and Hero/Hero diagnostics; hit/confirmed-critical probabilities, post-armor/expected damage, normal/critical one-shot potential and observed rates, duration, hits to defeat, Shimmer activation/consumption/Break, all budgets, zero-damage/practically unwinnable routes and build warnings.
+
+Flexible comparable-opponent averages remain damage/evasion/generalist **45–55%**, health **40–55%**, accuracy **35–50%**. These are preferences, not rigid acceptance gates. Intentional counters may approach **90%** with meaningful available counterplay. Accuracy may be weakest standalone but not universally inferior. Hero advantage over ordinary opponents is intentional; rare Hero PvP must not dominate tuning. STR alone should not routinely one-shot comparable opponents; dedicated training and appropriate weapons can enable exceptional burst.
+
+This approval authorizes implementation, validation, reviewed publication and guarded deployment while preserving existing protections, historical state and resource limits. It asserts **no final balance solution or completed local installation**. Extensive optimization follows through ChatGPT experiments.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED EXPERIMENTAL FLEXIBLE SPECIALIZATION (UPGRADE 3.2)
 
 **Authority and scope:** The author's Upgrade 3.2 mission approves the following
