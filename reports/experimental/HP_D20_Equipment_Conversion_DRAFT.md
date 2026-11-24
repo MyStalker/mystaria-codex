@@ -2,6 +2,10 @@
 
 November 24, 2026. Author authorized a single broad conversion pass and postponement of fine balance, NOT approval of every new number below. Historical operative wound rules, prices, Craft, SP/MP, item identities, enchantments and frozen research engines remain intact. See [Equipment](../../09_Equipment_and_Economy.md), [Smithcraft](../../07_Centaurs_and_Smithcraft.md), [Melee](../../25_Melee_Weapon_Catalogue_DRAFT.md), [Ranged](../../27_Ranged_Weapon_Catalogue_DRAFT.md), [Shields](../../29_Physical_Shield_Profiles.md), [Combat](../../22_Combat_Endurance_and_Shimmer_Guard.md).
 
+## November 24, 2026 — Author-approved working corrections after first screen
+
+The author approves the initial material and shape conversion as a working starting point and the four corrections following jobs `fa4b18c2-92db-4a62-8b50-048e49dce149` and `fa4b18c2-92db-4a62-8b50-048e49dce150` (12,000 completed stationary L100 duels, no timeouts). Adamantite weapon WR factors now 1.25/1.40/1.60 Light/Medium/Heavy, retaining 2.5 Weight; not yet re-simulated. Precompute item-tier weapon contribution, including the exact Honed subtraction of 0.7 × WR, at construction rather than per wielder level. Shield HP references trained generalist ordinary maximum HP (exclude Shimmer): QII generalist 423, QV 849, Light/Medium shields 211/424, Heavy shields 423/849 respectively; other qualities still need trained reference calculations. The natural-only shield table below is superseded as a final shield HP reference; retain its AR/Weight candidates. Resolve documented STR+END versus tested legacy capacity with extra 20; no specific resolution approved. Move to magic immediately rather than fine physical balancing. The prior screening excluded material abilities, magic, spatial tactics and full catalogue eligibility; heavy Adamantite access, ranged numbers, and unresolved effects remain provisional. Existing operative wound rules and prices remain unchanged.
+
 ## Construction baseline
 Quality I–V reference tiers 10/25/50/75/100; not character level gates. All sequences I–V. Weight is abstract equipped Weight, not kg. New interpolation and missing anchors are proposals. Medium WR anchors follow recent lab fixtures/reference rating. Heavy QII/QV and armor QII/QV are tested anchors; remaining anchors are proposed/interpolated from historical armor reference. Light WR/weapon Weight are new. Use one final rounding per constructed stat. No material multiplier on training or attribute contribution. Do not stack old F on final damage. Preserve the existing front-loaded engine contribution function and its separate x2 weapon factor for the tested configuration; at medium QII/QV actual base weapon contribution is 94/215.6 before attribute and training, not 47/107.8. For a catalogue conversion, use the **item tier** rather than wielder level for the contribution lookup (proposal); scale reference contribution by actual WR/reference WR. Fixed AP must be separately audited against engine behavior and lawful minimum-stat modes; do not infer automatic percent bypass of target armor.
 
@@ -18,7 +22,7 @@ WR factors proposed as direct WR adjustments (old F ratios for first three; NOT 
 |---|---|---:|---|
 | Boughsteel | 1/1/1 | 1 | standard |
 | Trufula | 0.95/0.95/0.95 | 0.5 | fire hazard |
-| Adamantite | 1.15/1.2/1.25 | 2.5 | extreme weight |
+| Adamantite | 1.25/1.4/1.6 | 2.5 | extreme weight; author-approved revised working factors |
 | Nullporcelain | — | — | ceramic; armor only |
 | Skyvein | 0.5/0.5/0.5 | 0.4 | conditional viable striking construction; inertia retained |
 | Reprise Bronze | 0.9/0.9/0.9 | 1 | prepared forms only |
