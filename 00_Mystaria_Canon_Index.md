@@ -1,6 +1,12 @@
+## November 24, 2026 — LATEST AUTHOR APPROVAL: WHOLE-FARM AGRICULTURAL PRODUCTIVITY AND COMPANION CROPS
+
+**20–50× means total food output per total farm labor-hour relative to a nonmagical traditional farmer (1×); fully industrialized magitech farms target 30×+.** This expressly supersedes the harvest-only interpretation. Model acreage, crop yields, harvest frequency, individual tasks and shared support labor independently; no automatic yield multiplier or final price. **Emberbeans:** hardy cream/red-marked Canopy legumes, dry storage, working profile Red33/White15/Green25/Blue12/Black15%. **Cindercorn** (replaces proposed Cindergrain): drought-tolerant red/black cereal of the Scarlands border, dark burgundy seed heads; exact profile and morphology open. See [World and Shimmer](01_World_and_Shimmer.md) and [Changelog](10_Canon_Changelog.md).
+
+---
+
 ## November 23, 2026 — AUTHOR APPROVAL: ROSEWHEAT NUTRITION AND HARVEST PRODUCTIVITY
 
-Rosewheat dry reference **3,400 managmins/kg: White 65%, Green 15%, Blue 10%, Black 8%, Red 2%**. Approximately three months to maturity; working scenarios 1–2 temperate, 2–3 favorable, 3–4 intensive harvests/year, respecting equatorial Canopy year-round growing. **20–50× productivity target applies only to harvesting already-grown crops per labor-hour, not whole-farm productivity or acreage.** Some Canopy beans should supply approximately one-third red managmins as a candidate; a separate arid non-cactus Scarlands-border crop should supply red and black. Their exact profiles and prices remain open. See [World and Shimmer](01_World_and_Shimmer.md) and [Changelog](10_Canon_Changelog.md). This supersedes the earlier Rosewheat nutrient-source gap and any whole-farm reading of the harvest target.
+Rosewheat dry reference **3,400 managmins/kg: White 65%, Green 15%, Blue 10%, Black 8%, Red 2%**. Approximately three months to maturity; working scenarios 1–2 temperate, 2–3 favorable, 3–4 intensive harvests/year, respecting equatorial Canopy year-round growing. **SUPERSEDED:** the earlier harvest-only interpretation of 20–50× is replaced by the November 24 whole-farm benchmark above. Some Canopy beans should supply approximately one-third red managmins as a candidate; a separate arid non-cactus Scarlands-border crop should supply red and black. Their exact profiles and prices remain open. See [World and Shimmer](01_World_and_Shimmer.md) and [Changelog](10_Canon_Changelog.md). This resolves the earlier Rosewheat nutrient-source gap; the productivity interpretation and companion crop details are superseded by the November 24 entry above.
 
 ---
 
