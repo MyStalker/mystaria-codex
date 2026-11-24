@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR DESIGN IDEA FOR LATER: weapon specialty alterations
+
+The author wants to explore allowing existing weapons to be altered, likely by a qualified craftsman, into Hulking, Honed or other compatible specialty configurations. Purpose: expand pre-battle equipment counterplay without requiring characters to purchase and carry three separate versions of the same battleaxe. This is a recorded design idea for later development, not a finalized crafting rule. Costs, materials, required Craft and rank, duration, reversibility, eligibility, transport implications and preservation of Quality/enchantments remain unresolved. Do not infer instant combat switching or free alterations. Related HP/d20 research: specialty counterplay jobs `fa4b18c2-92db-4a62-8b50-048e49dce138` and `fa4b18c2-92db-4a62-8b50-048e49dce139`. Their weapon fixtures use minimal STR requirement 1 and conventional weapon Weight 2 even at tier 100, so full-tier Hulking access by low-STR builds is not validated against representative catalogue equipment.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: agricultural work and commercial harvester working benchmarks
 
 Use an eight-hour worker-day (one Worker Equivalent, WE), 250 days/2,000 hours per reference worker-year; these are accounting conventions, not universal working schedules. Traditional nonmagical cereal farmer: 5 acres, 600 kg/acre/year Rosewheat, 3 tonnes/year, 1.5 kg/labor-hour. Advanced yield reference 2,000–4,000 kg/acre/year, central 3,000. Whole-farm productivity targets 1×, 3–5×, 5–10×, 15–30×, 30–50× correspond to 3, 9–15, 15–30, 45–90, 90–150 tonnes per worker-year. 
