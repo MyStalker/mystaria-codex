@@ -4284,3 +4284,7 @@ Alchemical forges should lead bulk refining, targeting roughly twice refining ef
 ## November 24, 2026 — Bidirectional ecological compatibility
 
 Author explicitly approves compatibility working in both directions between immediate neighbors of the red → blue → green → black → white → red refinement cycle. Native 1×, adjacent 2×, nonadjacent 4×, unmanaged Hex 8×; supersedes previous immediate-predecessor-only interpretation, not the directed alchemical process itself. Author endorses revised lower-mana bulk alchemy forge direction; exact rates remain experimental. Natural directional mana flow and geographic biome chain are under discussion, not ratified universal geography. Owner 39 and index updated.
+
+## November 24, 2026 — Author-endorsed natural mana ecology
+
+Hybrid physical geography/mana ecology, directional natural cycling and finite ecological regulation endorsed. Mana abundance does not replace material requirements, and regions can be rich/poor apart from ley lines. Author proposes white-to-red transition can drive geological activity outside established faults and physical terraforming (e.g. dams) can influence blue supply and subsequent ecosystems. Recorded as qualitative directions; rates, thresholds, precise natural conversion processes and terraforming outcomes open. Existing bidirectional industrial discharge benchmarks unchanged pending further revision. Owner 39 and index updated.

@@ -2834,3 +2834,7 @@ See [39 Canopy Kingdoms and Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md
 ## November 24, 2026 — Latest ecological compatibility correction
 
 Author approves bidirectional compatibility between adjacent colors of the established refinement cycle: native 1×, either neighboring color 2×, remaining colors 4×, unmanaged Hex 8×. The refinement cycle itself remains directed. Natural flow and biome geography remain under development. See [industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md).
+
+## November 24, 2026 — Natural mana ecology
+
+Author endorses hybrid physical/mana ecology: physical requirements constrain biomes, directional natural mana cycling and finite ecosystem regulation reinforce or reshape them; mana-rich/poor regions need not depend on ley lines. White-to-red geological activity away from existing faults and dam-based blue-mana ecological engineering are qualitative author directions, not quantitative mechanics. No rigid biome sequence. See [industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md).
