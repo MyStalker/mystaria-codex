@@ -1,3 +1,9 @@
+## November 24, 2026 — Upgrade 4.0: APPROVED EXPERIMENTAL programmable research
+
+The author approves the programmable Combat Lab research direction, configurable HP/diminishing-return and equipment/Deflection experiments, lawful construction/optimization, stable MCP access and universal win-rate ladders. **No final numerical balance or operative canon is changed.** Preserve frozen engines and historical experiments. Full scope and remaining deployment boundary: [Upgrade 4.0 research](reports/experimental/Upgrade_4_0_Programmable_Research.md).
+
+---
+
 ## November 23, 2026 — Upgrade 3.4: APPROVED EXPERIMENTAL specialty-weapon research
 
 The author authorizes configurable conventional, Hulking and Precision equipment

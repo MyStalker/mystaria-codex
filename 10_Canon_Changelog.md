@@ -1,3 +1,9 @@
+## November 24, 2026 — Upgrade 4.0: APPROVED EXPERIMENTAL programmable research
+
+The author approves the programmable Combat Lab research direction, configurable HP/diminishing-return and equipment/Deflection experiments, lawful construction/optimization, stable MCP access and universal win-rate ladders. **No final numerical balance or operative canon is changed.** Preserve frozen engines and historical experiments. Full scope and remaining deployment boundary: [Upgrade 4.0 research](reports/experimental/Upgrade_4_0_Programmable_Research.md).
+
+---
+
 ## November 24, 2026 — Author-established material origins and deep mining
 
 See [Smithcraft](07_Centaurs_and_Smithcraft.md) for material origins, living Skyvein, cultivated Trufula, mana-insulating Nullporcelain, stronger brittle ceramics and Nymbrin clockwork restoration/modernization. See [Canopy and mana economy](39_Canopy_Kingdoms_and_Mana_Economy.md) for mana-rich ore, escalating subterranean dangers, Drakyn protection, deeper valuable deposits and Serpentari salvage. Springsteel/Thornspring terminology unresolved; no numeric recipes, prices, combat changes or hazard rates ratified.
