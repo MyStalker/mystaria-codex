@@ -1,3 +1,9 @@
+## November 24, 2026 — Mining technology balance and access (author direction)
+
+Wakecraft haulage should be situational, alchemical transport a middle ground, and clockwork superior at scale with high investment but disadvantaged in small operations. Do not immediately retune Study 3; revisit after machinery manufacturing and acquisition costs are modeled. Cheaper clockwork is a hypothesis, not a mandated outcome. Availability matters: desert Scarlands water scarcity may require expert Deepdraw practitioners for hydraulic mines; respect actual water and existing Wakecraft limits. Demand for Centaur clockwork can drive Scarlander guilds toward international trade, which Vren may encourage or discourage according to their interests. Players may navigate competing suppliers, guilds and political interests. No universal trade policy, fixed costs or quantitative Study 3 approval implied.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Anchored Earthworks beyond 30 days
 
 Continuously powered alchemical anchor sigils can sustain temporary Earthworks beyond the ordinary 30-day Stonecraft-maintenance limit. Temporary walls are supported by residual pure mana from the Earthcraft spell; author explicitly describes the residual structural mana as green, which gradually fades while blue mana supplied through the anchor replaces its supporting function. Once dependent on the anchor, loss of power or breakage causes the entire supported temporary structure to collapse. This supersedes the earlier unresolved beyond-30-day question. No grace period, redundancy mechanic, upkeep rate or permanent conversion is implied. Existing red-aligned Earthcraft affinity is not changed; relationship of green structural residue to that affinity remains open. Preserve permanent masonry and Slagstone exceptions.
