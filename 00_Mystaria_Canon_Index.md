@@ -2825,3 +2825,7 @@ See [39 Canopy Kingdoms and Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md
 ## November 24, 2026 — Author direction: ordinary Anvilcant, mining and freight
 
 [Smithcraft](07_Centaurs_and_Smithcraft.md): Anvilcant at its ordinary level is commonplace smithing without personal MP cost; Centaur aptitude, widespread foreign study, and exceptional/legendary high-end material capability (~100×/~1,000×) are distinct from bulk throughput. Existing Craft and equipment rules preserved. [Canopy and mana economy](39_Canopy_Kingdoms_and_Mana_Economy.md): Scarlands hold most mountain ranges; Canopy mines comparatively precious; mining specialist race **Dirtmoles** is a provisional name/design. [Worldcoil](34_Ancient_Serpentari_Aquatic_Waterways_Canon.md): usable exposed waterways default bulk routes, faster Wakecraft/Imperial segments, complementary parrot-folk and prospective Skyvein air freight. Numeric rates, race mechanics and trade costs open.
+
+## November 24, 2026 — Mining and refining benchmarks
+
+[Industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md): red-aligned Dirtmole Craft mining capability 5× ordinary, 100× top 2%, 1,000× nested top 2%; Hearthiron and alchemical refining routes, ~2× alchemical refining-efficiency target with higher mana and Hex costs; in red-aligned regions matched depleted red discharge has at least tenfold lower impact than comparable depleted black, probably twentyfold lower than unmanaged Hex. Working benchmarks, not finalized Craft mechanics or environmental equations.
