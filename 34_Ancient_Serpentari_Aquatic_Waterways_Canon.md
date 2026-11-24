@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient Codex reservoirs (AUTHOR ESTABLISHED)
+
+Ancient Codexes hold more mana than modern Codexes, are more durable, and often retain usable mana when recovered. Unlike modern rechargeable Codexes, ancient examples were not made for reuse: once depleted they cannot be recharged. Exact capacity, remaining charge, retention, durability statistics and prices remain open. Do not infer an exception to non-rechargeability from restoration services or alter modern Codex mechanics. Ancient reserves are finite salvage resources, not recurring industrial fuel supply.
+
+---
+
 ## November 24, 2026 — Ancient salvage and deep-mine protection (AUTHOR APPROVED)
 
 Deep mining can reuse Serpent Steel (Snakesteel) and Slagstone recovered from ancient Serpentari structures for tunnel reinforcement and construction; see Smithcraft for composition and properties. Ancient codices and Kobold machinery, occasionally beyond modern capabilities, are additional salvage opportunities. Scarlands Drakyn are an option for mine protection; Verspryn, professional demon slayers, are also ideal candidates. Exact contracts, staffing, capabilities, risks and prices remain open. No new playable race or combat mechanics inferred.
