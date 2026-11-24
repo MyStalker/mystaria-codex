@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient Codex reservoirs (AUTHOR ESTABLISHED)
+
+Ancient Codexes hold more mana than modern Codexes, are more durable, and often retain usable mana when recovered. Unlike modern rechargeable Codexes, ancient examples were not made for reuse: once depleted they cannot be recharged. Exact capacity, remaining charge, retention, durability statistics and prices remain open. Do not infer an exception to non-rechargeability from restoration services or alter modern Codex mechanics. Ancient reserves are finite salvage resources, not recurring industrial fuel supply.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Springsteel and ancient salvage
 
 Springsteel officially replaces Thornspring everywhere in current terminology; prior mechanical rules are unchanged. Nullporc and Porcelain are author shorthand for Nullporcelain. Serpent Steel (Snakesteel), living Adamantite/Springsteel/Pazara structural alloy, and mana-reformable limestone Slagstone are established; see [Smithcraft](07_Centaurs_and_Smithcraft.md). Deep mine reuse, ancient codices/Kobold machinery and Verspryn demon-slayer protection alongside Drakyn: see [Canopy economy](39_Canopy_Kingdoms_and_Mana_Economy.md). Numeric recipes, prices, weapon stats and Slagstone alternate naming remain open.
