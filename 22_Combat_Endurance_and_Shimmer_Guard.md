@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: END Barbarian equipment identity
+
+Preserve shared carrying capacity STR + END. END-focused Barbarians intentionally sacrifice armor to carry high-base-damage weapons, including sufficiently heavy Hulking equipment, while retaining high natural HP and substantially less STR-derived damage than STR specialists. This is distinct from END tanks that spend capacity on armor. Do not impose a universal STR gate on Hulking weapons; individual genuinely STR-dependent weapon exceptions may remain where justified, but must not erase Barbarian access. Hulking caps should matter less for builds that do not specialize in the capped statistics; exact replacement caps remain unresolved. Test Barbarian as an explicit equipment archetype. The proposed tier-100 Heavy Hulking Weight 210 and other Weight ladder numbers are experimental, not finalized catalogue canon. Previous specialty results used Weight 2 conventional/3 Hulking and minimal STR 1, so access conclusions need retesting. Preserve historical engines and operative wound rules.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: independent equipment eligibility and provisional Deflection handling standard
 
 For the HP/d20 replacement design, ordinary equipment eligibility should primarily use shared Weight capacity or Handling, not compulsory cumulative unrelated attribute gates. Conventional armor and ordinary STR-led weapons do not require meaningful DEX handling merely because their equipment tier is high. Specific STR/DEX-led or hybrid weapons may retain justified individual requirements. STR and END support Weight; DEX unlocks refined equipment. Honed weapons should be lighter and require DEX handling; Hulking weapons heavier, with specific STR gates only where justified. Exact weapon values remain experimental.
