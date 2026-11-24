@@ -1,3 +1,9 @@
+## November 24, 2026 — Ancient salvage and deep-mine protection (AUTHOR APPROVED)
+
+Deep mining can reuse Serpent Steel (Snakesteel) and Slagstone recovered from ancient Serpentari structures for tunnel reinforcement and construction; see Smithcraft for composition and properties. Ancient codices and Kobold machinery, occasionally beyond modern capabilities, are additional salvage opportunities. Scarlands Drakyn are an option for mine protection; Verspryn, professional demon slayers, are also ideal candidates. Exact contracts, staffing, capabilities, risks and prices remain open. No new playable race or combat mechanics inferred.
+
+---
+
 # Ancient Serpentari Aquatic Nature and Planetary Waterways
 
 **Status:** Author-approved global Mystaria worldbuilding, November 9, 2026. The planetary network is definitively named **the Worldcoil**. Its deepest, extremely dangerous lower stratum is definitively **the Undercoil**. Earlier alternative names are historical proposals, not current names.
