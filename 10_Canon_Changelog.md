@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: strict Hulking working candidate
+
+For HP/d20 replacement research, select doubled marginal STR-derived damage (not doubled total attack), retain experimental +25% nominal weapon-derived damage (implemented as +0.7 × WR), remove flat accuracy penalty, cap final physical accuracy at 8 at level 25 and 16 at level 100, retain provisional 150% weapon Weight and no universal STR gate. Intermediate cap progression, item catalogue, wider lethality and counterplay validation remain open. Training may be planned around the cap; no automatic in-play refunds. Evidence: jobs `fa4b18c2-92db-4a62-8b50-048e49dce141` and `fa4b18c2-92db-4a62-8b50-048e49dce142` (78,400 encounters), strict candidate STR/Heavy Barbarian/armored Barbarian win rates 53.9/57.0/63.4% at L25 and 60.1/45.6/59.7% at L100. Builder reinvested capped accuracy ranks; L100 STR raw 1005.2, accuracy 16. Ordinary one-hit lethality against tested generalists is possible; Hero Break and non-Hero validation remain open. This is a selected working replacement candidate, not a finalized catalogue or alteration of historical operative engines.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: agricultural compensation and plantation staffing benchmarks
 
 Retain approved free fieldworker 9 silver accounting units/day and Leshy cultivation expert 27/day; new working rates: machinery assistant 12/day, qualified clockwork operator 18/day, clockwork technician 27/day, master Centaur engineer 45/day. These are occupational compensation benchmarks, not automatic racial wages or universal rates. Guard 12.5/day and original 240-paid-day household remain unchanged. At 250 reference paid days annual equivalents are 2,250/3,000/4,500/6,750/11,250 for fieldworker/assistant/operator/technician/master respectively.
