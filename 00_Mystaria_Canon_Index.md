@@ -1,3 +1,9 @@
+## November 24, 2026 — Author clarification: precision machinery and component value
+
+High workmanship Quality is not synonymous with best all-round economics. High-precision performance-oriented machines may sacrifice reliability, fuel economy and service life for precision, power and output; expect substantially higher annual maintenance, potentially higher fuel use and modest or shorter service life versus ordinary commercial machinery. This supersedes the earlier illustrative premium-machine assumption of universally lower maintenance and longer life; efficient bespoke designs remain possible where designed for efficiency. Exact modifiers remain open. Distinguish raw alloy stock from fabricated precision components and assembled machines. Author prefers valuable Springsteel/Nullporcelain internals and engine/Leywell assemblies to dominate harvester value rather than structural frame. Springsteel stock meeting/exceeding frame stock value and Nullporcelain stock around 32 silver are tentative calibration preferences, subject to clarification after component-cost allocation, not approved price changes.
+
+---
+
 ## November 24, 2026 — APPROVED Deflection armor and Honed identity
 
 HP/d20 replacement: Deflection retains half equipment AR, full trained AR, adds +1/+2/+3 Evasion by Light/Medium/Heavy, unchanged Weight/handling, no automatic TP refunds. Honed replaces the Precision design name: balanced weight improves accuracy at cost of striking power; numbers pending. See [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Changelog](10_Canon_Changelog.md). Weight-class balance remains open; operative wound engine preserved.
