@@ -1,3 +1,5 @@
+**Current terminology:** Springsteel replaces Thornspring.
+
 ## November 20, 2026 — Additional approved finished ranged-item price references (PRICE ONLY)
 
 Current [Gem Price Catalogue](37_Gem_Price_Catalogue.md) §11B–C prices lower-Quality *otherwise legally manufactured* versions of the four already-approved STR100/200/300/400-capacity engineered bows at **60%/70%/80%/90%/100% of the existing Quality-V reference** for Quality I–V, respectively:
@@ -118,11 +120,11 @@ A missed arrow embedded in soft ground could be recoverable; one broken against 
 | Design | Working physical assembly and role |
 |---|---|
 | **Advanced high-draw bow (cap STR100)** | Reinforced traditional laminates, conventional wood and Boughsteel fittings: the most accessible specialist heavy-draw design. |
-| **Titan bow (cap STR200)** | Thornspring elastic limbs with a Boughsteel spine/fittings; the engineered limb structure distributes heavy draw tension. |
-| **Colossal composite bow (cap STR300)** | Multiple coupled Thornspring limb assemblies distributing very large loads through a specialist frame; lightweight Trufula structural components are a viable *option*, not mandatory, and retain their established fire hazard. |
-| **Legendary greatbow (cap STR400)** | Large, exceptionally efficient coupled elastic limbs, plausibly using Thornspring energy storage, selective Adamantite high-stress joints, and compatible lightweight structural elements. Neither Adamantite nor any one material is universally mandatory. |
+| **Titan bow (cap STR200)** | Springsteel elastic limbs with a Boughsteel spine/fittings; the engineered limb structure distributes heavy draw tension. |
+| **Colossal composite bow (cap STR300)** | Multiple coupled Springsteel limb assemblies distributing very large loads through a specialist frame; lightweight Trufula structural components are a viable *option*, not mandatory, and retain their established fire hazard. |
+| **Legendary greatbow (cap STR400)** | Large, exceptionally efficient coupled elastic limbs, plausibly using Springsteel energy storage, selective Adamantite high-stress joints, and compatible lightweight structural elements. Neither Adamantite nor any one material is universally mandatory. |
 
-**Construction interpretation:** These are the approved current *design directions* and plausible material combinations, **not** rigid blueprints, new material-specific raw Power multipliers, fixed crafting recipes, or new Smithcraft skill/rank/level gates. Thornspring's pre-existing extraordinary elastic-energy storage supports this engineering. Adamantite is useful for small stress-bearing parts, but its density is a major reason not to presume an entire Adamantite bow. Material choices must remain compatible with existing durability, burden and fire properties. Alternate credible assemblies are permitted to be developed later; a bow's already approved intrinsic full-draw Power includes engineering effects and is not recalculated because its recipe contains several materials. Ordinary arrows of either approved head form work with all four designs; never resurrect size/strength-rated arrow tiers.
+**Construction interpretation:** These are the approved current *design directions* and plausible material combinations, **not** rigid blueprints, new material-specific raw Power multipliers, fixed crafting recipes, or new Smithcraft skill/rank/level gates. Springsteel's pre-existing extraordinary elastic-energy storage supports this engineering. Adamantite is useful for small stress-bearing parts, but its density is a major reason not to presume an entire Adamantite bow. Material choices must remain compatible with existing durability, burden and fire properties. Alternate credible assemblies are permitted to be developed later; a bow's already approved intrinsic full-draw Power includes engineering effects and is not recalculated because its recipe contains several materials. Ordinary arrows of either approved head form work with all four designs; never resurrect size/strength-rated arrow tiers.
 
 ### Quality I–V handling improvement, author approved
 
