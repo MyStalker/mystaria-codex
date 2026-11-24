@@ -1,3 +1,19 @@
+## November 24, 2026 — AUTHOR APPROVED: HP/d20 replacement attribute scaling
+
+The author explicitly canonizes the following marginal attribute curves for the HP/d20 replacement foundation, superseding its earlier linear candidates. Preserve operative wound-engine rules pending replacement migration, historical engines, and existing training rules.
+
+| Effective attribute band | HP per END | Physical damage per STR |
+|---|---:|---:|
+| First 50 | 4 | 1 |
+| Next 50 | 3.5 | 1.5 |
+| Above 100 | 3 | 2 |
+
+Base natural ordinary HP is 75; add marginal END contributions and retain existing final rounding. For the tested conventional STR-led physical fixture, add the marginal STR contribution minus linear STR to the existing raw physical damage before final floor and mitigation. Do not multiply weapon or purchased damage by this bonus. Specialty, mixed-stat and other weapon interactions remain to be validated; no new AP, DEX, TP or equipment rule is implied. The existing experimental purchased-HP curve (10 to 30 per rank by level 25) and 150% natural-HP purchase cap were retained in the tests; this approval does not independently settle other outstanding training candidates.
+
+Evidence: connected Combat Lab 4.0 jobs `fa4b18c2-92db-4a62-8b50-048e49dce103` (24,000 encounters) and `fa4b18c2-92db-4a62-8b50-048e49dce105` (36,000 encounters). Approved combined candidate at L100: damage 57.2%, accuracy 47.9%, evasion 42.7%, health 43.4%, armor 46.2%, generalist 62.6%; mean 4.87 rounds. L25 unchanged; no observed pair above 90% at either level (200 encounters per pair). These are stationary conventional Hero duels, not guarantees or complete equipment/racial validation. Author directs progression to physical equipment balance; Deflection and specialty numbers remain experimental.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Scarlands cave settlements, temporary Earthcraft and mine transport
 
 Scarlands subterranean settlements prefer natural caverns, built out with living Pazara and modest but significant Earthcraft expansions. Excessive subterranean digging increases unwanted demon encounters; some cities have ignored these constraints and suffer consequences. No fixed encounter probabilities or city names established.
