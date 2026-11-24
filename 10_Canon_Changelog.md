@@ -4261,3 +4261,8 @@ Owning reference: `01_World_and_Shimmer.md`; navigation: `00_Mystaria_Canon_Inde
 **Cindercorn — approved name replacing proposed Cindergrain:** drought-tolerant cereal native to drier territories bordering the Scarlands, not a cactus; dark burgundy seed heads, red/black managmin emphasis, potential flour blend with Rosewheat and regional trade crop. The name does not by itself establish Earth maize morphology; precise anatomy, managmin fractions/density, cultivation and cost remain open. Preserve Rosewheat's approved nutrition and seasonal assumptions. No food price or additional nutritional requirement is ratified.
 
 Owning reference: `01_World_and_Shimmer.md`; navigation: `00_Mystaria_Canon_Index.md`. Next: five-farm experimental cost model, no final prices selected.
+
+
+## November 24, 2026 — Reconciliation of approved Canopy and mana economy directions
+
+Recorded the author-approved Canopy confederation, citizenship, social framework, house archetypes, industrial history, Nectar properties, and three mana refining traditions in [39 Canopy Kingdoms and Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md), from the latest handoff and recovered prior approvals. Experimental demographic split, MP efficiencies and prices remain working benchmarks; no newly calculated farm prices or Craft rules are canonized. Earlier generalized elevated staple-farming assumptions are superseded by the latest ground-field approval in World and Shimmer.

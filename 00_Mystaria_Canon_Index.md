@@ -2816,3 +2816,8 @@ The five approved attack Coverage categories are **Point, Narrow, Sweep, Wide Sw
 **CANON UPDATE:** The planetary Serpentari underwater network is named **the Worldcoil**, with the deeper, extraordinarily dangerous **Undercoil** reserved for epic/high-level threats. The modern Naga Imperium still uses controlled sections of the Worldcoil and aquatic Starspawn can be unusually aware of it. A company of **Elder Starspawn** continues its original God War mission at the eventual final Undercoil approaches, with repeated Celestial Recalls and returns to battle; the **Scaled City remains an unverified legend** and no exact combat content is settled. See [`34_Ancient_Serpentari_Aquatic_Waterways_Canon.md`](34_Ancient_Serpentari_Aquatic_Waterways_Canon.md).
 
 **SLATE RP PREP:** [`campaigns/slate/Next_Three_Scenes_DM_Packet.md`](campaigns/slate/Next_Three_Scenes_DM_Packet.md) has proposed vault rewards (two additional kobold/Serpentari curiosities), Dusk hideout continuity and the first Mara recruit mission. Proposed objects are **not yet approved or collected**. The Mirrorwake water vial and damaged kobold research notebook are retained as future clue seeds.
+
+
+## November 24, 2026 — Canopy polity, industry and mana economy
+
+See [39 Canopy Kingdoms and Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md) for author-approved confederation, Avowed citizenship, society, industrial history, Nectar, and three mana refining traditions, with experimental economic benchmarks explicitly distinguished. The latest World and Shimmer crop/geography/productivity entries remain controlling.
