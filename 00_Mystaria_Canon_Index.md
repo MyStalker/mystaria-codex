@@ -1,3 +1,9 @@
+## November 23, 2026 — AUTHOR-APPROVED CANOPY GRAIN AND AGRICULTURAL SECURITY
+
+**Approved:** Ground-level plains are the primary staple-grain location; elevated agriculture favors valuable/perishable produce. **Wheathounds** are territorial pest-hunting Starspawn whose nesting habitat farmers preserve. Mundane barriers, beneficial Starspawn, wardens and regional Drakyn pack protection complement each other; protection can justify dragon taxes. Locust-like catastrophic pests may be kept locally extirpated, not assumed globally extinct. The unnamed staple cereal is **white-aligned and seriously red-managmin-deficient**; gruel-only diets can cause nutritional illness. Plenty Day normally includes enslaved households in upstanding towns. Working yield targets: traditional ~600 kg/acre/year, advanced ~2,000–4,000; natural annual harvest, potential intensive multiple harvests, 1–3 fertilizations/season, dry storage for several months. Exact nutrient ratios, creature statistics, production costs and fees remain OPEN. Owners: [World and Shimmer](01_World_and_Shimmer.md), [Drakyn](06_Drakyn.md); [approval ledger](10_Canon_Changelog.md).
+
+---
+
 ## November 23, 2026 — Upgrade 3.4: APPROVED EXPERIMENTAL specialty-weapon research
 
 The author authorizes configurable conventional, Hulking and Precision equipment
