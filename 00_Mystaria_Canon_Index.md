@@ -1,3 +1,21 @@
+## November 23, 2026 — Upgrade 3.4: APPROVED EXPERIMENTAL specialty-weapon research
+
+The author authorizes configurable conventional, Hulking and Precision equipment
+experiments, independent attribute/weapon/TP damage contributions, lawful handling,
+fixed construction AP, independent attribute/training specializations, equipment
+selection diagnostics and opt-in deterministic supporting-stat spending. **No final
+balance numbers or full specialty conversion are ratified.** Operative wound combat,
+catalogue F/requirements/prices, frozen HP rulesets and the original 3.3 control remain.
+
+Full scope, source gaps, reported evidence and candidates are recorded in
+[Upgrade 3.4 research](reports/experimental/Upgrade_3_4_Specialty_Weapons.md).
+The existing prototype reference to Hulking Speed caps and Precision restrictions
+is preserved. Detailed historical specialty benefits/restrictions and their conversion
+were not found in current source references; explicit experimental policies do not
+replace them. Movement/action/Pressure/shield limitations must remain visible.
+
+---
+
 ## November 23, 2026 — Upgrade 3.3: APPROVED EXPERIMENTAL foundational progression
 
 Small starting attributes, independent derived-stat bases, once-only experimental reversal of the historical Hero racial +10 before multipliers, current-level training benefits, front-loaded runtime weapon curves and early armor viability are approved experimental directions. Optional introductory monster preparation is distinct from NPC/player progression. Prioritize levels 5–100 balance; levels 1–4 require functional builds and enjoyable survival, not exact symmetric duels.

@@ -1,3 +1,15 @@
+## November 23, 2026 — Specialty equipment experimental boundary (Upgrade 3.4)
+
+Conventional/Hulking/Precision identities may now be compared with explicit experimental
+WR, attribute scaling, independent STR/DEX/support gates, hands, Weight, modes, fixed AP
+and declared restrictions. This is **not a catalogue conversion**. No historical F,
+material/Quality adjustment, Gem price or operative eligibility rule is replaced.
+Detailed specialty benefits/restrictions and legacy SPD-cap conversion remain source
+gaps; labels cannot silently grant bonuses. Compare equal labeled construction budgets
+without claiming an approved Gem-price mapping. See [research and candidates](reports/experimental/Upgrade_3_4_Specialty_Weapons.md).
+
+---
+
 ## November 23, 2026 — APPROVED EXPERIMENTAL front-loaded equipment and early armor (Upgrade 3.3)
 
 The foundational-progression laboratory should grant a greater proportion of eventual weapon damage earlier, through configurable runtime curves and explicit endgame endpoint preservation. Stored weapon ratings, construction/catalogue entries, fixed AP, lawful handling, attribute requirements, materials, enchantments and prices remain unchanged. The contribution table and complete approval are owned by [Combat](22_Combat_Endurance_and_Shimmer_Guard.md).

@@ -1,3 +1,21 @@
+## November 23, 2026 — Upgrade 3.4: APPROVED EXPERIMENTAL specialty-weapon research
+
+The author authorizes configurable conventional, Hulking and Precision equipment
+experiments, independent attribute/weapon/TP damage contributions, lawful handling,
+fixed construction AP, independent attribute/training specializations, equipment
+selection diagnostics and opt-in deterministic supporting-stat spending. **No final
+balance numbers or full specialty conversion are ratified.** Operative wound combat,
+catalogue F/requirements/prices, frozen HP rulesets and the original 3.3 control remain.
+
+Full scope, source gaps, reported evidence and candidates are recorded in
+[Upgrade 3.4 research](reports/experimental/Upgrade_3_4_Specialty_Weapons.md).
+The existing prototype reference to Hulking Speed caps and Precision restrictions
+is preserved. Detailed historical specialty benefits/restrictions and their conversion
+were not found in current source references; explicit experimental policies do not
+replace them. Movement/action/Pressure/shield limitations must remain visible.
+
+---
+
 ## November 23, 2026 — AUTHOR-APPROVED Upgrade 3.3 foundational progression
 
 Approved **experimental directions**: low neutral starts (5 each as a candidate), most racial bases below 11 except defining strengths, independent base derived statistics/conversion coefficients, marked once-only reversal of historical Hero +10 before multipliers, and explicit provisional Skill mappings without SPD substitution. Operative racial tables and unresolved conversions remain intact; include all thirteen established playable diagnostic entries.
