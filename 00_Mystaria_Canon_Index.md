@@ -2829,3 +2829,8 @@ See [39 Canopy Kingdoms and Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md
 ## November 24, 2026 — Mining and refining benchmarks
 
 [Industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md): red-aligned Dirtmole Craft mining capability 5× ordinary, 100× top 2%, 1,000× nested top 2%; Hearthiron and alchemical refining routes, ~2× alchemical refining-efficiency target with lower mana consumption per output and additional Hex runoff, intended to lead bulk refining; revised relative environmental discharge impacts native 1×, cycle-compatible 2×, incompatible 4×, unmanaged Hex 8× (supersedes prior 1/10/20). Working benchmarks, not finalized Craft mechanics or environmental equations.
+
+
+## November 24, 2026 — Latest ecological compatibility correction
+
+Author approves bidirectional compatibility between adjacent colors of the established refinement cycle: native 1×, either neighboring color 2×, remaining colors 4×, unmanaged Hex 8×. The refinement cycle itself remains directed. Natural flow and biome geography remain under development. See [industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md).

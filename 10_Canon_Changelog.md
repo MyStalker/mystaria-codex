@@ -4279,3 +4279,8 @@ Recorded red-aligned Dirtmole/learned mining Craft 5× ordinary, 100× top 2%, 1
 ## November 24, 2026 — Latest author correction: forge energy and pollution alignment
 
 Alchemical forges should lead bulk refining, targeting roughly twice refining efficiency and consuming less mana per comparable output than Hearthiron forges, with additional Hex runoff. This supersedes earlier higher-mana-per-output interpretation; precise throughput, fuel ratios, capital and pollution costs remain open. Relative ecological impact of comparable discharge now native depleted mana 1×, compatible 2×, other 4×, unmanaged Hex 8×, superseding earlier 1/10/20 and intermediate 1/5/10 proposals. Compatibility follows color feeding into the native color on established directed Nymbrin refining cycle; immediate predecessor is the working interpretation, reverse compatibility not established. No new combat Hex conversion or safe discharge thresholds. Owners 39 and 07; index reconciled.
+
+
+## November 24, 2026 — Bidirectional ecological compatibility
+
+Author explicitly approves compatibility working in both directions between immediate neighbors of the red → blue → green → black → white → red refinement cycle. Native 1×, adjacent 2×, nonadjacent 4×, unmanaged Hex 8×; supersedes previous immediate-predecessor-only interpretation, not the directed alchemical process itself. Author endorses revised lower-mana bulk alchemy forge direction; exact rates remain experimental. Natural directional mana flow and geographic biome chain are under discussion, not ratified universal geography. Owner 39 and index updated.
