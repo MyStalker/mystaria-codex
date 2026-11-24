@@ -1,3 +1,11 @@
+## November 24, 2026 — Author-established mining geology and subterranean ecology
+
+Ore deposits tend to be richer in areas of high mana concentration; no mandatory ley-line association or numeric grade multiplier. Subterranean Starspawn occupy vibrant ecological niches; green Starspawn can rival Dirtmole digging capability. Demons are the real threat. Mine security starts at least comparable to plains protection and escalates sharply with depth; deepest mines almost certainly need several legendary-quality fighters. Scarlands Drakyn may specialize in subterranean protection and preemptive lair clearance for settlements and mining ventures. Canopy surface wilderness, especially forest, has higher average danger than Scarlands surface travel for a Haze-inoculated fugitive; deep underground danger vastly exceeds even deepest Canopy forests. No fixed hazard rates, depths or combat levels.
+
+High-investment mines distinguish themselves through deeper access to more valuable ores suitable for higher-grade equipment and enchantment Gems, not merely greater common-ore volume. A separate mining/salvage industry dismantles colossal subterranean Serpentari structures for metal modern smiths cannot reforge and industrially valuable construction stone, particularly in stone-scarce Scarlands. No new ancient material name, extraction method, pricing, or entitlement to divine Gems; distinguish recovered enchantment resources from divine currency rules. See Smithcraft and Worldcoil references.
+
+---
+
 # Canopy Kingdoms and Industrial Mana Economy
 
 **Status: author-approved worldbuilding directions recovered from November 23–24, 2026 discussion and November 24 handoff.** Numeric economic benchmarks explicitly identified below are experimental, not fixed market prices or Craft mechanics. See [World and Shimmer](01_World_and_Shimmer.md) for approved crop and security details.
