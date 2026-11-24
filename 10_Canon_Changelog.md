@@ -1,3 +1,9 @@
+## November 24, 2026 — Author clarification: precision machinery and component value
+
+High workmanship Quality is not synonymous with best all-round economics. High-precision performance-oriented machines may sacrifice reliability, fuel economy and service life for precision, power and output; expect substantially higher annual maintenance, potentially higher fuel use and modest or shorter service life versus ordinary commercial machinery. This supersedes the earlier illustrative premium-machine assumption of universally lower maintenance and longer life; efficient bespoke designs remain possible where designed for efficiency. Exact modifiers remain open. Distinguish raw alloy stock from fabricated precision components and assembled machines. Author prefers valuable Springsteel/Nullporcelain internals and engine/Leywell assemblies to dominate harvester value rather than structural frame. Springsteel stock meeting/exceeding frame stock value and Nullporcelain stock around 32 silver are tentative calibration preferences, subject to clarification after component-cost allocation, not approved price changes.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Deflection armor and Honed weapon identity (HP/d20 replacement)
 
 Deflection is a situational armor sidegrade, not a universal upgrade. Retain 50% of equipment-derived physical Armor Rating and add flat Evasion +1/+2/+3 for Light/Medium/Heavy respectively. Purchased armor training retains full effectiveness: effective AR = 0.5 × equipment AR + trained AR (preserve existing rounding pipeline). Ordinary weight and handling requirements remain unchanged. Training may be planned around equipment bonuses; equipping or switching armor does not automatically refund historical TP purchases. This supersedes earlier experimental total-armor reductions. Do not infer changes to shield deflection, magical resistance or the operative wound engine.
