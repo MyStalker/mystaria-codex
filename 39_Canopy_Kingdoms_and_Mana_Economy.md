@@ -1,3 +1,9 @@
+## November 24, 2026 — Dirtmole Earthcraft revision (author direction)
+
+Dirtmoles are intended to be approximately as common as Leshy. Earthcraft excavation should be substantially more powerful than the prior 5× ordinary benchmark; sustained walking-speed tunneling is an author illustration for calibration, not a fixed spell mechanic. Earthcraft also assists stoneworking and construction; other mining activities remain independently constrained. The author authorizes adjusting Mystarian ore richness relative to terrestrial ores as a price-calibration lever, preserving the existing mana-rich deposit tendency. Prior 5×/100×/1,000× mining-task benchmarks are under revision, not replaced by a ratified numerical ladder yet. Proposed 100×/1,000×/10,000× excavation and 20× stone shaping/10× stabilization/5× detection and separation await approval. No playable race mechanics established.
+
+---
+
 ## November 24, 2026 — Ancient Codex reservoirs (AUTHOR ESTABLISHED)
 
 Ancient Codexes hold more mana than modern Codexes, are more durable, and often retain usable mana when recovered. Unlike modern rechargeable Codexes, ancient examples were not made for reuse: once depleted they cannot be recharged. Exact capacity, remaining charge, retention, durability statistics and prices remain open. Do not infer an exception to non-rechargeability from restoration services or alter modern Codex mechanics. Ancient reserves are finite salvage resources, not recurring industrial fuel supply.
