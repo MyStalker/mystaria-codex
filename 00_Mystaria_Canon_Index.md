@@ -1,3 +1,9 @@
+## November 24, 2026 — Author-established material origins and deep mining
+
+See [Smithcraft](07_Centaurs_and_Smithcraft.md) for material origins, living Skyvein, cultivated Trufula, mana-insulating Nullporcelain, stronger brittle ceramics and Nymbrin clockwork restoration/modernization. See [Canopy and mana economy](39_Canopy_Kingdoms_and_Mana_Economy.md) for mana-rich ore, escalating subterranean dangers, Drakyn protection, deeper valuable deposits and Serpentari salvage. Springsteel/Thornspring terminology unresolved; no numeric recipes, prices, combat changes or hazard rates ratified.
+
+---
+
 ## November 24, 2026 — LATEST AUTHOR APPROVAL: WHOLE-FARM AGRICULTURAL PRODUCTIVITY AND COMPANION CROPS
 
 **20–50× means total food output per total farm labor-hour relative to a nonmagical traditional farmer (1×); fully industrialized magitech farms target 30×+.** This expressly supersedes the harvest-only interpretation. Model acreage, crop yields, harvest frequency, individual tasks and shared support labor independently; no automatic yield multiplier or final price. **Emberbeans:** hardy cream/red-marked Canopy legumes, dry storage, working profile Red33/White15/Green25/Blue12/Black15%. **Cindercorn** (replaces proposed Cindergrain): drought-tolerant red/black cereal of the Scarlands border, dark burgundy seed heads; exact profile and morphology open. See [World and Shimmer](01_World_and_Shimmer.md) and [Changelog](10_Canon_Changelog.md).
