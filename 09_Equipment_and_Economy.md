@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR DESIGN IDEA FOR LATER: weapon specialty alterations
+
+The author wants to explore allowing existing weapons to be altered, likely by a qualified craftsman, into Hulking, Honed or other compatible specialty configurations. Purpose: expand pre-battle equipment counterplay without requiring characters to purchase and carry three separate versions of the same battleaxe. This is a recorded design idea for later development, not a finalized crafting rule. Costs, materials, required Craft and rank, duration, reversibility, eligibility, transport implications and preservation of Quality/enchantments remain unresolved. Do not infer instant combat switching or free alterations. Related HP/d20 research: specialty counterplay jobs `fa4b18c2-92db-4a62-8b50-048e49dce138` and `fa4b18c2-92db-4a62-8b50-048e49dce139`. Their weapon fixtures use minimal STR requirement 1 and conventional weapon Weight 2 even at tier 100, so full-tier Hulking access by low-STR builds is not validated against representative catalogue equipment.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: independent equipment eligibility and provisional Deflection handling standard
 
 For the HP/d20 replacement design, ordinary equipment eligibility should primarily use shared Weight capacity or Handling, not compulsory cumulative unrelated attribute gates. Conventional armor and ordinary STR-led weapons do not require meaningful DEX handling merely because their equipment tier is high. Specific STR/DEX-led or hybrid weapons may retain justified individual requirements. STR and END support Weight; DEX unlocks refined equipment. Honed weapons should be lighter and require DEX handling; Hulking weapons heavier, with specific STR gates only where justified. Exact weapon values remain experimental.
