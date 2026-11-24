@@ -1,3 +1,9 @@
+## November 24, 2026 — APPROVED HP/d20 replacement attribute curves
+
+Marginal END HP rates 4/3.5/3 and STR physical damage rates 1/1.5/2 at 50/100 thresholds are author-approved replacement canon; base HP 75. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and [Changelog](10_Canon_Changelog.md) for tested scope and unresolved specialty interactions. Wound engine and frozen historical rules preserved. Equipment balance follows.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Scarlands cave settlements, temporary Earthcraft and mine transport
 
 Scarlands subterranean settlements prefer natural caverns, built out with living Pazara and modest but significant Earthcraft expansions. Excessive subterranean digging increases unwanted demon encounters; some cities have ignored these constraints and suffer consequences. No fixed encounter probabilities or city names established.
