@@ -4288,3 +4288,9 @@ Author explicitly approves compatibility working in both directions between imme
 ## November 24, 2026 — Author-endorsed natural mana ecology
 
 Hybrid physical geography/mana ecology, directional natural cycling and finite ecological regulation endorsed. Mana abundance does not replace material requirements, and regions can be rich/poor apart from ley lines. Author proposes white-to-red transition can drive geological activity outside established faults and physical terraforming (e.g. dams) can influence blue supply and subsequent ecosystems. Recorded as qualitative directions; rates, thresholds, precise natural conversion processes and terraforming outcomes open. Existing bidirectional industrial discharge benchmarks unchanged pending further revision. Owner 39 and index updated.
+
+
+## November 24, 2026 — Final approved directional hybrid discharge benchmark
+
+Author approves the directional hybrid industrial-discharge impact scale: native 1×, immediate predecessor (feeds native) 2×, immediate successor (native feeds it) 4×, either nonadjacent color 6×, unmanaged Hex 8×. Cycle red → blue → green → black → white → red. This supersedes symmetric 1/2/4/8 and all earlier alternatives. In blue environments blue 1×, red 2×, green 4×, black/white 6×, Hex 8×. These are relative ecological burden weights for comparable concentrated depleted-mana discharge, not ordinary coexistence, chemical annihilation, absolute safety thresholds, combat rules or a conversion between MP and Hex. Natural circulation remains directional and finite ecosystem capacity matters.
+ See [industrial economy](39_Canopy_Kingdoms_and_Mana_Economy.md). Next economic study: ore extraction, concentration, freight and metal refining; no new prices approved.
