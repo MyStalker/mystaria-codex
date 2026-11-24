@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: Anchored Earthworks beyond 30 days
+
+Continuously powered alchemical anchor sigils can sustain temporary Earthworks beyond the ordinary 30-day Stonecraft-maintenance limit. Temporary walls are supported by residual pure mana from the Earthcraft spell; author explicitly describes the residual structural mana as green, which gradually fades while blue mana supplied through the anchor replaces its supporting function. Once dependent on the anchor, loss of power or breakage causes the entire supported temporary structure to collapse. This supersedes the earlier unresolved beyond-30-day question. No grace period, redundancy mechanic, upkeep rate or permanent conversion is implied. Existing red-aligned Earthcraft affinity is not changed; relationship of green structural residue to that affinity remains open. Preserve permanent masonry and Slagstone exceptions.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: HP/d20 replacement attribute scaling
 
 The author explicitly canonizes the following marginal attribute curves for the HP/d20 replacement foundation, superseding its earlier linear candidates. Preserve operative wound-engine rules pending replacement migration, historical engines, and existing training rules.
