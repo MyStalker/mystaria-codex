@@ -1,3 +1,11 @@
+## November 24, 2026 — Earthcraft excavation, prospecting and structural stability (AUTHOR APPROVED)
+
+Dirtmole Earthgliding moves the practitioner through earth by manipulating material around their body for propulsion. Earth Carving uses raw Rock-Craft to shave/remove chunks of earth or rock; distinguish travel from excavation. Author accepts revised excavation working benchmarks 100× ordinary, 1,000× exceptional top 2%, 10,000× legendary nested top 2%, relative to conventional excavation only (weighted 121.6× at equal utilization). Mineral detection is a core Earthcraft function with at least 20× conventional prospecting capability; separate detection from ore separation, whose 5× candidate remains unapproved. Ore and especially rare ore are harder to find in accessible locations: iron may be as geologically common as terrestrial iron, but deposits not associated with demon nests are much scarcer. Distinguish geological abundance, discovery, access/security and ore grade; no fixed nest frequency.
+
+Raw Earth Carving is inherently unstable for construction. Alchemical anchor sigils can stabilize such structures at continuous mana cost, preserving existing lawful alchemy and Hex constraints. Temporary structures (e.g. stone scaffolding) assist proper construction. Permanent conventional stoneworking/construction tasks assisted by Earthcraft use a Leshy-like 5× ordinary productivity reference, superseding proposed 20× stone shaping and 10× stabilization as general long-term construction assumptions. Earthcraft assists masonry rather than replacing it. Slagstone is an explicit exception: Earthcraft enables its easy molding and stable structures. Exact mana requirements, structural duration, failure behavior, recipes, prospecting success, mine support and playable mechanics remain open. Scarlanders may have alternatives to Centaur clockwork; specifics unresolved.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Springsteel rename and ancient construction materials
 
 **Springsteel** is the official replacement name for Thornspring, the iron/aluminium/small-silver alloy. All existing material properties, Springload, Quality, crafting, equipment and Gem rules are unchanged. Historical references to Thornspring refer to Springsteel. **Nullporc** and **Porcelain** are accepted author shorthand for Nullporcelain.
