@@ -4274,3 +4274,8 @@ Recorded ordinary Anvilcant as normal, personally mana-free smithing, natural Ce
 ## November 24, 2026 — Author mining and metal-refining benchmarks
 
 Recorded red-aligned Dirtmole/learned mining Craft 5× ordinary, 100× top 2%, 1,000× top 2% of exceptional group; Hearthiron red-powered/red-waste forge versus alchemical forge targeting double efficiency at significant mana and Hex costs; matched red discharge in red regions at least 10× less consequential than depleted black, probably 20× less than unmanaged Hex. Preserve existing alchemy and Hearthiron mechanics; numerical mass/energy accounting, precise efficiency metric and environmental thresholds open. Owners 39_Canopy_Kingdoms_and_Mana_Economy.md and 07_Centaurs_and_Smithcraft.md; index updated.
+
+
+## November 24, 2026 — Latest author correction: forge energy and pollution alignment
+
+Alchemical forges should lead bulk refining, targeting roughly twice refining efficiency and consuming less mana per comparable output than Hearthiron forges, with additional Hex runoff. This supersedes earlier higher-mana-per-output interpretation; precise throughput, fuel ratios, capital and pollution costs remain open. Relative ecological impact of comparable discharge now native depleted mana 1×, compatible 2×, other 4×, unmanaged Hex 8×, superseding earlier 1/10/20 and intermediate 1/5/10 proposals. Compatibility follows color feeding into the native color on established directed Nymbrin refining cycle; immediate predecessor is the working interpretation, reverse compatibility not established. No new combat Hex conversion or safe discharge thresholds. Owners 39 and 07; index reconciled.
