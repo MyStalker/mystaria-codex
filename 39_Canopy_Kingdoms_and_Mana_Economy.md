@@ -1,3 +1,15 @@
+## November 24, 2026 — AUTHOR APPROVED: agricultural compensation and plantation staffing benchmarks
+
+Retain approved free fieldworker 9 silver accounting units/day and Leshy cultivation expert 27/day; new working rates: machinery assistant 12/day, qualified clockwork operator 18/day, clockwork technician 27/day, master Centaur engineer 45/day. These are occupational compensation benchmarks, not automatic racial wages or universal rates. Guard 12.5/day and original 240-paid-day household remain unchanged. At 250 reference paid days annual equivalents are 2,250/3,000/4,500/6,750/11,250 for fieldworker/assistant/operator/technician/master respectively.
+
+Ordinary enslaved agricultural worker illustrative annual estate cost 650 silver: food 200, housing/utilities 100, clothing/necessities 50, medical care 50, supervision/security 100, acquisition/replacement amortization 150. Not a wage, universal treatment standard, sale price or zero-cost workforce. Preserve Leshy-specific non-food upkeep and other racial requirements. Harvester at reference full utilization: 15,000 manual task days, equivalent free wages 135,000 or illustrative enslaved estate costs 39,000; machine annualized cost 3,012.50 plus 150 operator days at 18 = 5,712.50, before other overhead; approximately 95.8% lower than free manual wages. This is a task comparison, not whole-farm savings or guaranteed displacement.
+
+Approved provisional 240-acre, 720-tonne plantation staffing target: 4 general workers, 2 Leshy specialists, 1 operator, 1 shared technician equivalent = 8 worker-years; paid annual compensation 33,750, approximately 0.046875 silver/kg before nonlabor costs. This is a working target, not demonstrated task feasibility. Do not double count operator or technical wages in machine and plantation accounts. Seasonal staffing, support labor, machinery fleet, water infrastructure, actual costs and task scaling remain open. Industrialization may shift demand from ordinary labor toward specialists; outcomes vary by house and no automatic emancipation is implied.
+
+Author intends to proceed to geography after economic foundations, including regional industrialization and open frontier extent; no geographic proportions approved.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: agricultural work and commercial harvester working benchmarks
 
 Use an eight-hour worker-day (one Worker Equivalent, WE), 250 days/2,000 hours per reference worker-year; these are accounting conventions, not universal working schedules. Traditional nonmagical cereal farmer: 5 acres, 600 kg/acre/year Rosewheat, 3 tonnes/year, 1.5 kg/labor-hour. Advanced yield reference 2,000–4,000 kg/acre/year, central 3,000. Whole-farm productivity targets 1×, 3–5×, 5–10×, 15–30×, 30–50× correspond to 3, 9–15, 15–30, 45–90, 90–150 tonnes per worker-year. 
