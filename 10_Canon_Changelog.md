@@ -1,3 +1,9 @@
+## November 24, 2026 — Author direction: harvester capital and fuel economics
+
+The author accepts retaining the currently modeled expensive industrial fuel economy for further development, provided machinery acquisition remains a substantial farm upgrade rather than a cheap afterthought relative to fuel. Do not retune fuel merely to match terrestrial lifetime fuel-to-purchase ratios. The illustrative 2,000 silver retail acquisition, 150 operating days/year, 100 manual task worker-days/day, 8× work/MP, 20-year life, 5% maintenance, 0.10 silver/MP and resulting operating costs remain experimental calibration inputs, not finalized prices or universal machine rules. Fuel color, actual draw, staffing, utilization, traditional acreage and labor economics remain open.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: independent equipment eligibility and provisional Deflection handling standard
 
 For the HP/d20 replacement design, ordinary equipment eligibility should primarily use shared Weight capacity or Handling, not compulsory cumulative unrelated attribute gates. Conventional armor and ordinary STR-led weapons do not require meaningful DEX handling merely because their equipment tier is high. Specific STR/DEX-led or hybrid weapons may retain justified individual requirements. STR and END support Weight; DEX unlocks refined equipment. Honed weapons should be lighter and require DEX handling; Hulking weapons heavier, with specific STR gates only where justified. Exact weapon values remain experimental.
