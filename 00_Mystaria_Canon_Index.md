@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: Springsteel and ancient salvage
+
+Springsteel officially replaces Thornspring everywhere in current terminology; prior mechanical rules are unchanged. Nullporc and Porcelain are author shorthand for Nullporcelain. Serpent Steel (Snakesteel), living Adamantite/Springsteel/Pazara structural alloy, and mana-reformable limestone Slagstone are established; see [Smithcraft](07_Centaurs_and_Smithcraft.md). Deep mine reuse, ancient codices/Kobold machinery and Verspryn demon-slayer protection alongside Drakyn: see [Canopy economy](39_Canopy_Kingdoms_and_Mana_Economy.md). Numeric recipes, prices, weapon stats and Slagstone alternate naming remain open.
+
+---
+
 ## November 24, 2026 — Upgrade 4.0: APPROVED EXPERIMENTAL programmable research
 
 The author approves the programmable Combat Lab research direction, configurable HP/diminishing-return and equipment/Deflection experiments, lawful construction/optimization, stable MCP access and universal win-rate ladders. **No final numerical balance or operative canon is changed.** Preserve frozen engines and historical experiments. Full scope and remaining deployment boundary: [Upgrade 4.0 research](reports/experimental/Upgrade_4_0_Programmable_Research.md).
