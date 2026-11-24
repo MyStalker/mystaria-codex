@@ -1,3 +1,9 @@
+## November 24, 2026 — APPROVED Deflection armor and Honed identity
+
+HP/d20 replacement: Deflection retains half equipment AR, full trained AR, adds +1/+2/+3 Evasion by Light/Medium/Heavy, unchanged Weight/handling, no automatic TP refunds. Honed replaces the Precision design name: balanced weight improves accuracy at cost of striking power; numbers pending. See [Equipment](09_Equipment_and_Economy.md), [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Changelog](10_Canon_Changelog.md). Weight-class balance remains open; operative wound engine preserved.
+
+---
+
 ## November 24, 2026 — Author direction: industrial machinery quality and trade
 
 Manufacturing scale and workmanship quality are independent. Cheap factories can produce junk machinery with comparable nominal work but shorter service life, higher maintenance and somewhat lower fuel efficiency. Quality matters broadly; exact industrial Quality grades/modifiers remain open. Reference machine recipes remain fixed working examples; players may propose bespoke substitutions or omissions rather than requiring a universal modular machine system now. Omitting Nullporcelain can increase environmental damage; substituting Trufula for Boughsteel is situational and retains Trufula fire vulnerability and engineering constraints. Basic mass-produced harvesters suit bulk Cindercorn; expensive specialists and marginal fuel gains need not justify premium machines. Handmade machines can be more energy/material efficient and enable delicate high-mana alchemical gardens or allow moderately skilled Leshy to maintain/harvest specialized plants. Preserve actual Craft requirements; no free skill transfer or universal capability. Review specialized material costs and secure heavy freight/restricted trade costs upward where justified; no fixed price, tariff or lifespan approved. Factory productivity study accepted in broad direction, numerical quality/trade refinements pending.
