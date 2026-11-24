@@ -1,3 +1,9 @@
+## November 24, 2026 — Author-established material origins and deep mining
+
+See [Smithcraft](07_Centaurs_and_Smithcraft.md) for material origins, living Skyvein, cultivated Trufula, mana-insulating Nullporcelain, stronger brittle ceramics and Nymbrin clockwork restoration/modernization. See [Canopy and mana economy](39_Canopy_Kingdoms_and_Mana_Economy.md) for mana-rich ore, escalating subterranean dangers, Drakyn protection, deeper valuable deposits and Serpentari salvage. Springsteel/Thornspring terminology unresolved; no numeric recipes, prices, combat changes or hazard rates ratified.
+
+---
+
 ## November 23, 2026 — Upgrade 3.4: APPROVED EXPERIMENTAL specialty-weapon research
 
 The author authorizes configurable conventional, Hulking and Precision equipment
