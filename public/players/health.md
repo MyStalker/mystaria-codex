@@ -42,3 +42,7 @@ With maximum ordinary HP 310 and reserve 310, full combined maximum is 620. The 
 Recovery is added to current ordinary HP and stops at its maximum. A qualifying Hero's sleep also fully restores Shimmer Reserve, including a Guard broken by emergency Break; medical attention is not required for that reset.
 
 A broken Guard becomes available at the earlier of qualifying sleep or 24 hours after the Break. Whether the 24-hour timer alone refills the reserve remains unsettled. Your GM also determines what counts as qualifying sleep and medical attention.
+
+## Hex exposure and poisoning
+
+Hexed I and II begin at one and two times the applicable status threshold. Four times causes acute Hex Sickness; eight times causes a Hex-induced coma. Isolated exposure below half the threshold usually needs no chronic tracking, but repeated exposure can still cause lasting harm. Untreated coma outcomes are 10% recovery, 50% Hexen transformation and 40% death. Quality I healing improves recovery and reduces death by ten percentage points; Quality IV guarantees survival, not freedom from mutation. Living alchemy may prevent an incomplete mutation by extracting bodily Hex; reversing established Hexen transformation is a near-miraculous undertaking. Chronic exposure, organ damage and augmentation rejection require appropriate treatment. Exact chronic rates and treatment procedures remain table questions.
