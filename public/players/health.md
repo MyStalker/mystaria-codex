@@ -60,3 +60,7 @@ Ordinary creatures process about 3 Hex particles per day at the reference capaci
 | V | +75% | -15% | -40% |
 
 Apply the listed tier, not all previous tiers together. Exceptional Living Alchemy may reverse damage at the expense of resistance. Resolve a Hex coma once per medical crisis; the highest effective healing Quality shifts 10 percentage points per tier from death to recovery, capped at 40. Mutation remains 50% under conventional treatment. Recovery does not guarantee absence of lasting damage. Exact exposure conversion, inoculation advancement and crisis duration are table questions.
+
+## Breathing Haze
+
+Effective Haze 0/I/II/III/IV/V gives reference daily absorption of 0/1.5/6/24/96/384 Hex particles. Ordinary creatures process 2 + END/10 per day. Inoculation I–V reduces ambient absorption by 10/25/50/65/80%. Ordinary powered Clearbreaths and Purity Circles each lower effective Haze by two tiers; their ordinary protection does not stack. Haze I/II has no routine combat buildup; III adds 5/minute, IV 10/turn and V 40/turn. Rapidly absorbed Hex adds 10 buildup per particle; ambient acute disruption is not an extra retained particle dose. Infants temporarily retain maternal protection, children adapt faster and gradual inoculation carries lasting health costs. Sustained sickness may accelerate adaptation but is dangerous. Exact advancement schedules and exposure overlap require GM adjudication.
