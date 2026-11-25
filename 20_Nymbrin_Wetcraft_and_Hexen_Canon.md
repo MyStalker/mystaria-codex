@@ -1,3 +1,22 @@
+## November 25, 2026 — AUTHOR APPROVED: chronic Hex, inoculation and medical care
+
+Track environmental Haze, acute Hexed buildup and chronic Hex separately. Persistent Hex Burden represents bodily contamination not yet processed; Inoculation represents permanent adaptation and damage. Review significant total exposure after an encounter, including subclinical exposure at or above 0.5× applicable threshold; isolated smaller exposures normally need no tracking, but repeated near-limit exposure requires DM review. Daily processing reduces burden; prolonged gradual exposure can cause inoculation, not instant adaptation from a single fight. END governs physiological tolerance and processing capacity; exact scaling and conversion from combat buildup to biological particles remain unresolved. Resistance and processing capacity are distinct. Ordinary creatures process a reference 3 Hex particles/day without recovering usable MP; ordinary Hexen process 30/day (10×), preserving existing Elemental/exceptional/legendary benchmarks, reserve limits, conversion and overload/possession rules.
+
+Approved permanent inoculation modifiers, relative to otherwise applicable values:
+
+| Tier | Hex resistance | Maximum HP | Maximum MP and natural mana output/recovery | Natural lifespan |
+|---|---:|---:|---:|---:|
+| 0 | unchanged | unchanged | unchanged | unchanged |
+| I | +10% | -2% | -2% | -5% |
+| II | +20% | -4% | -4% | -10% |
+| III | +35% | -7% | -7% | -20% |
+| IV | +50% | -10% | -10% | -30% |
+| V | +75% | -15% | -15% | -40% |
+
+Use the tier's listed total modifier, not cumulative tier stacking. Hex resistance modifies the applicable Hex-specific status threshold, not general status resistance. Inoculation is not automatically inherited; exceptional Living Alchemy may reverse lasting damage at the cost of some resistance. Exact advancement doses, durations, rounding and reversal procedure are open.
+
+Untreated coma resolves once per medical crisis, not daily repeated outcome rolls. Conventional effective treatment Quality transfers 10 percentage points per tier from fatality to recovery, capped at 40; recovery/transformation/death by Quality 0/I/II/III/IV/V are 10/50/40, 20/50/30, 30/50/20, 40/50/10, 50/50/0, 50/50/0 percent. Use highest effective treatment Quality rather than stacking healers' probability bonuses. Quality V may provide additional stabilization or organ-recovery benefits, exact effects open. Recovery means survival without Hexen transformation, not automatic removal of organ damage, inoculation or mana impairment. Advanced Living Alchemy may prevent incomplete transformation by removing bodily Hex; established Hexen reversal remains near-miraculous. Preserve acute thresholds 1×/2×/4×/8×, existing clean-air buildup removal, Haze rules and medical treatment prerequisites. Crisis duration, burden conversion, daily exposure mapping, acute recovery and implant/venting rates remain open.
+
 ## November 25, 2026 — AUTHOR RULING: Hex exposure, medical crisis and treatment
 
 In the current HP/d20 game, Hexed I triggers at 1× applicable status threshold and Hexed II at 2×; acute Hex Sickness at 4× and Hex-induced coma at 8×. This supersedes older Hex-specific 4× Severity II references for the current game; preserve historical rulesets. Use the current effective status HP basis (ordinary current HP, Hero floor of 25% ordinary maximum HP), not the old independent resistance statistic, subject to future named Hex resistance modifiers. Preserve legal application and counterplay. Medical crisis persistence/recovery details remain open; ordinary status clearing does not imply reversal of established mutation.
