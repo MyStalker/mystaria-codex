@@ -1,0 +1,25 @@
+name: Publish Living Codex
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.md'
+  workflow_dispatch:
+permissions: {}
+concurrency:
+  group: living-codex-publish
+  cancel-in-progress: false
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Trigger reviewed public reference rebuild
+        env:
+          BUILD_HOOK: ${{ secrets.LIVING_CODEX_BUILD_HOOK }}
+        run: |
+          if [ -z "$BUILD_HOOK" ]; then
+            echo "Configure the LIVING_CODEX_BUILD_HOOK repository secret."
+            exit 1
+          fi
+          curl --fail --silent --show-error --retry 3 --request POST --data '{}' "$BUILD_HOOK"
