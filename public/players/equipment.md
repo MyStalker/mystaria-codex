@@ -50,3 +50,8 @@ Compare [the materials](/reference/materials/) to understand why light Trufula, 
 ## Before you buy
 
 Check the finished profile, total equipped Weight, handling, hands, actual coverage, and price. For magical gear also check eligible slots, installed effects, compatible Leywell mana, and any Soul Strain. An incomplete installation specification is a question for your GM, not permission to assume it works.
+
+
+## Imperial gadgets and augmentations
+
+Arcane Field tools and weapons still need lawful item profiles and resources; heat projection can be precise but beams lose intensity with distance. Imperial firearms favor field-projected energy or field-accelerated ammunition, including micro-codex bullets. Centaur gunpowder firearms remain distinct. Neural cybernetics can restore or exceed natural function but body-interfacing technology causes Hex Rejection: the soul rejects the interface, building bodily Hex. Tougher bodies tolerate more, and medicine can reduce accumulation with strong side effects. Excessive corruption risks delirium, Hexen transformation and potentially demonic corruption. Exact tolerance, implant budgets and treatment profiles require a GM ruling; no extra stat bonuses or actions are automatic.
