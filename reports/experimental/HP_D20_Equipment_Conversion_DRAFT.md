@@ -6,6 +6,74 @@ November 24, 2026. Author authorized a single broad conversion pass and postpone
 
 The author approves the initial material and shape conversion as a working starting point and the four corrections following jobs `fa4b18c2-92db-4a62-8b50-048e49dce149` and `fa4b18c2-92db-4a62-8b50-048e49dce150` (12,000 completed stationary L100 duels, no timeouts). Adamantite weapon WR factors now 1.25/1.40/1.60 Light/Medium/Heavy, retaining 2.5 Weight; not yet re-simulated. Precompute item-tier weapon contribution, including the exact Honed subtraction of 0.7 × WR, at construction rather than per wielder level. Shield HP references trained generalist ordinary maximum HP (exclude Shimmer): QII generalist 423, QV 849, Light/Medium shields 211/424, Heavy shields 423/849 respectively; other qualities still need trained reference calculations. The natural-only shield table below is superseded as a final shield HP reference; retain its AR/Weight candidates. Resolve documented STR+END versus tested legacy capacity with extra 20; no specific resolution approved. Move to magic immediately rather than fine physical balancing. The prior screening excluded material abilities, magic, spatial tactics and full catalogue eligibility; heavy Adamantite access, ranged numbers, and unresolved effects remain provisional. Existing operative wound rules and prices remain unchanged.
 
+## November 24, 2026 — APPROVED working replacement melee construction budget
+
+Author approves the targeted construction budget after jobs 153–158 (35,760 stationary STR-control duels). For HP/d20 replacement only, retain original shape identity, widen Light/Medium differences, keep Heavy spread, and replace prior generic versatility modifiers with meaningful modes 1/2/3 = ×1.10/1.00/0.95; reach Long ×0.95; mode coverage Point/Narrow ×1, Sweep/Line ×0.95, Wide Sweep ×0.90. Form factors Slashing ×1.125, Blunt ×1, Piercing ×0.875; fixed AP 0/25%/50% of neutral pre-form inherent damage, respectively, preserving the experimental AP reference used in jobs 153–158. This AP denominator is a working implementation choice, not a new operative wound rule. No attribute or training multipliers added. Apply form once, preserve fractions until final printed damage (nearest integer) and floor AP. The older 12.5%-of-WR bonus and generic 5% one-mode adjustment are superseded in this candidate. Historical F remains operative for wound combat. Never stack this table's finished inherent damage with the old runtime WR contribution. 
+
+**Construction implementation:** provisional shape factor = 1 + 1.6 × (old individual F / class F − 1); class F 1/1.15/1.45. Neutral class references I–V Light 45/72/106/133/165, Medium 60/94/136/172/216, Heavy 75/119/169/214/269. Use original class WR times item-tier runtime factors 5, 94/26, 136/45, 172/61, 2.8; expand difference from neutral reference ×1.8/1.5/1 for Light/Medium/Heavy, then apply mode-count, reach, coverage and form factors. Do not retain previous generic versatility factor or previous Slashing bonus. These explicit implementation choices reproduce the intended broad spread but are not separately calibrated. The approved budget adjusts original shape factors which already reflect some advantages; watch for excessive double penalties. Conditional genuine secondary faces only count when actually constructed; table assumes listed legitimate numeric modes exist. Unarmed-cap improvised modes do not count. A single-mode alternative should recalculate. Material/specialty conversions and exact rounding/AP integration remain to be audited. Preserve historical handling, reach, coverage and genuine alternate modes. 
+
+### Current candidate Boughsteel damage / fixed AP (Quality I–V)
+
+| ID | Weapon | Scaling | Reach | Attack | Form / coverage | Inherent damage I–V | Fixed AP I–V |
+|---|---|---|---|---|---|---|---|
+| L-01 | Dagger | DEX | Short | primary | Piercing / Point | 39/63/92/116/145 | 22/36/52/66/82 |
+| L-01 | Dagger | DEX | Short | secondary | Slashing / Narrow | 36/58/85/106/133 | 0/0/0/0/0 |
+| L-02 | Stiletto | DEX | Short | primary | Piercing / Point | 48/78/113/142/177 | 27/44/64/81/101 |
+| L-03 | Short knife | Either | Short | primary | Slashing / Narrow | 46/75/109/136/170 | 0/0/0/0/0 |
+| L-03 | Short knife | Either | Short | secondary | Piercing / Point | 14/23/33/41/51 | 7/12/18/23/29 |
+| L-04 | Cestus / knuckle weapon | STR | Short | primary | Blunt / Narrow | 50/80/116/145/182 | 12/19/29/36/45 |
+| L-05 | Hand axe | STR | Short | primary | Slashing / Sweep | 55/89/129/162/202 | 0/0/0/0/0 |
+| L-05 | Hand axe | STR | Short | secondary | Blunt / Narrow (poll) | 38/61/89/111/139 | 9/15/22/27/34 |
+| L-06 | Light pick | STR | Short | primary | Piercing / Point | 45/73/106/132/166 | 25/41/60/75/94 |
+| L-06 | Light pick | STR | Short | secondary | Blunt / Narrow (hammer poll) | 38/61/89/111/139 | 9/15/22/27/34 |
+| L-07 | Short club | STR | Short | primary | Blunt / Narrow | 45/73/106/133/166 | 11/18/26/33/41 |
+| L-08 | Sickle | DEX | Short | primary | Slashing / Narrow | 51/82/119/149/186 | 0/0/0/0/0 |
+| L-08 | Sickle | DEX | Short | secondary | Piercing / Point (tip) | 17/27/39/49/61 | 9/15/22/27/35 |
+| M-01 | Arming sword | Either | Medium | primary | Slashing / Sweep | 63/98/142/180/225 | 0/0/0/0/0 |
+| M-01 | Arming sword | Either | Medium | secondary | Piercing / Point | 26/41/60/76/95 | 15/23/34/43/54 |
+| M-02 | Longsword | Both | Medium | primary | Slashing / Sweep | 57/90/130/165/206 | 0/0/0/0/0 |
+| M-02 | Longsword | Both | Medium | secondary | Piercing / Point | 23/36/52/66/82 | 13/20/29/37/46 |
+| M-03 | Rapier | DEX | Medium | primary | Piercing / Point | 50/79/114/144/181 | 28/45/65/82/103 |
+| M-03 | Rapier | DEX | Medium | secondary | Slashing / Narrow (edged design) | 49/76/111/140/175 | 0/0/0/0/0 |
+| M-04 | Sabre | DEX | Medium | primary | Slashing / Sweep | 64/100/145/184/230 | 0/0/0/0/0 |
+| M-04 | Sabre | DEX | Medium | secondary | Piercing / Point (usable tip) | 27/43/62/78/98 | 15/24/35/44/55 |
+| M-05 | Falchion | STR | Medium | primary | Slashing / Sweep | 76/120/173/219/274 | 0/0/0/0/0 |
+| M-06 | Mace / flanged mace | STR | Medium | primary | Blunt / Narrow | 63/98/142/179/224 | 15/24/35/44/56 |
+| M-06 | Mace / flanged mace | STR | Medium | secondary | Piercing / Point (purpose-built spike) | 42/66/95/120/150 | 23/37/54/68/85 |
+| M-07 | Warhammer | STR | Medium | primary | Blunt / Narrow | 64/100/145/183/229 | 15/24/36/45/57 |
+| M-07 | Warhammer | STR | Medium | secondary | Piercing / Point (beak) | 43/67/97/123/154 | 24/38/55/70/87 |
+| M-08 | War pick | STR | Medium | primary | Piercing / Point | 58/91/131/166/208 | 33/51/75/94/118 |
+| M-08 | War pick | STR | Medium | secondary | Blunt / Narrow (hammer face) | 51/80/116/147/184 | 12/20/29/36/45 |
+| M-09 | Battleaxe | STR | Medium | primary | Slashing / Sweep | 71/111/161/203/254 | 0/0/0/0/0 |
+| M-09 | Battleaxe | STR | Medium | secondary | Blunt / Narrow (poll) | 51/80/116/147/184 | 12/20/29/36/45 |
+| M-10 | Short spear | Either | Medium | primary | Piercing / Point | 54/85/123/155/194 | 30/48/70/88/111 |
+| M-11 | Quarterstaff | Both | Medium | primary | Blunt / Sweep | 47/74/108/136/170 | 11/18/26/34/42 |
+| M-11 | Quarterstaff | Both | Medium | secondary | Blunt / Narrow (butt thrust) | 37/57/83/105/131 | 9/14/20/26/32 |
+| H-01 | Greatsword | Both | Long | primary | Slashing / Wide Sweep | 68/108/154/195/244 | 0/0/0/0/0 |
+| H-01 | Greatsword | Both | Long | secondary | Piercing / Point (blade thrust) | 40/63/89/113/142 | 22/36/51/64/81 |
+| H-02 | Zweihander | Both | Long | primary | Slashing / Wide Sweep | 70/111/157/199/250 | 0/0/0/0/0 |
+| H-02 | Zweihander | Both | Long | secondary | Piercing / Point (blade thrust) | 41/65/92/116/146 | 23/37/52/66/83 |
+| H-03 | Greataxe | STR | Medium | primary | Slashing / Wide Sweep | 82/130/185/234/293 | 0/0/0/0/0 |
+| H-03 | Greataxe | STR | Medium | secondary | Blunt / Narrow (poll) | 68/109/154/195/244 | 17/27/38/48/61 |
+| H-04 | Maul | STR | Medium | primary | Blunt / Wide Sweep | 74/118/168/212/266 | 18/29/41/53/66 |
+| H-05 | Great hammer | STR | Medium | primary | Blunt / Sweep | 64/102/145/183/230 | 16/25/36/45/57 |
+| H-05 | Great hammer | STR | Medium | secondary | Piercing / Point (spiked side) | 49/78/111/141/177 | 28/44/63/80/100 |
+| H-06 | Poleaxe | Both | Long | primary | Piercing / Point (top spike) | 44/69/98/124/156 | 24/39/56/71/89 |
+| H-06 | Poleaxe | Both | Long | secondary | Slashing / Sweep (axe) | 44/69/98/124/156 | 0/0/0/0/0 |
+| H-06 | Poleaxe | Both | Long | hammer | Blunt / Narrow | 41/65/92/116/146 | 10/16/22/29/36 |
+| H-07 | Halberd | Both | Long | primary | Slashing / Sweep | 64/101/143/182/228 | 0/0/0/0/0 |
+| H-07 | Halberd | Both | Long | secondary | Piercing / Point (top spike) | 43/69/97/123/154 | 24/39/55/70/88 |
+| H-08 | Glaive | Both | Long | primary | Slashing / Sweep | 71/113/160/203/255 | 0/0/0/0/0 |
+| H-08 | Glaive | Both | Long | secondary | Piercing / Point (pointed tip) | 39/62/88/112/140 | 22/35/50/63/80 |
+| H-09 | Pike | Both | Long | primary | Piercing / Line | 48/76/108/137/172 | 27/43/61/78/98 |
+| H-10 | Long spear | Either | Long | primary | Piercing / Point | 50/79/112/142/178 | 28/45/64/81/101 |
+| H-11 | Lance | STR | Long | primary | Piercing / Point | 48/77/109/138/173 | 27/43/62/78/98 |
+| H-12 | Heavy flail | STR | Medium | primary | Blunt / Sweep | 83/132/187/236/296 | 20/32/46/59/74 |
+
+**Validation boundary:** stationary STR-control tournaments do not establish actual mixed/DEX scaling, legal handling at each tier, group survival, reach/control, tactical mode selection or specialty balance. Analytical group coverage is conditional on each legal individual target and successful attacks; no free extra damage multiplier. Prior WR table below is historical comparison, not simultaneous damage. Proceed toward magic after compact screening; no exhaustive optimization.
+
+---
+
 ## Construction baseline
 Quality I–V reference tiers 10/25/50/75/100; not character level gates. All sequences I–V. Weight is abstract equipped Weight, not kg. New interpolation and missing anchors are proposals. Medium WR anchors follow recent lab fixtures/reference rating. Heavy QII/QV and armor QII/QV are tested anchors; remaining anchors are proposed/interpolated from historical armor reference. Light WR/weapon Weight are new. Use one final rounding per constructed stat. No material multiplier on training or attribute contribution. Do not stack old F on final damage. Preserve the existing front-loaded engine contribution function and its separate x2 weapon factor for the tested configuration; at medium QII/QV actual base weapon contribution is 94/215.6 before attribute and training, not 47/107.8. For a catalogue conversion, use the **item tier** rather than wielder level for the contribution lookup (proposal); scale reference contribution by actual WR/reference WR. Fixed AP must be separately audited against engine behavior and lawful minimum-stat modes; do not infer automatic percent bypass of target armor.
 
