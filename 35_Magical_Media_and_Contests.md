@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR CLARIFICATION: Freeze potency and expanded Wakecraft test scope
+
+Replacement HP/d20 prototype: Freeze is an advanced-incapacitating status and uses half ordinary outgoing status-applying Power before the applicable buildup multiplier. A pure Freeze attack under the universal 3× pure-status rule therefore has a 1.5× baseline; do not silently stack the historical dedicated Freeze 2× modifier with the new framework (reconciliation remains open). Pyromancers retain ordinary red, blue and white fire. Earlier approved flame distinctions: red delivers 100% ordinary Burning buildup and bypasses 0% armor-derived ER; blue delivers 50% buildup and bypasses 25% armor-derived ER; white delivers no buildup or refresh and bypasses 50% armor-derived ER. Wakecraft has physical Water attacks with Erosion buildup, physical piercing Ice Spikes with **no Freeze buildup** (supersedes old Ice Stab hybrid), and full pure Freeze status attacks. Water/Erosion now joins the near-term **Wakecraft** test scope, not martial elemental weapon testing. Preserve optional Erosion transfer on qualifying Freeze/Lightning contact, actual medium and casting costs, and earlier approved Freeze penalties. Fire, Lightning and Freeze remain the martial elemental test scope; defer Air, Hex, spellblades and implement tuning. No new damage or AP values for Ice Spikes, no new spell purchase costs, and no simulated results approved by this clarification.
+
+---
+
 ## November 24, 2026 — AUTHOR CORRECTION: Erosion, Air amplification, Lightning discharge and restricted elemental test scope
 
 **HP/d20 replacement prototype; not a global migration of operative wound rules.** The author restores the following elemental identities and benchmarks, superseding earlier assistant summaries and incompatible historical proposals.
