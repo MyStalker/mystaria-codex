@@ -113,3 +113,8 @@ This can support emergency reclamation, but it is not unlimited safe absorption.
 ## Why this matters to daily life
 
 Energy-rich industry can still be constrained by clean air, collection equipment, healthy receiving land, and skilled maintenance. A cheap source of MP is only the beginning of the bill.
+
+
+## Imperial flux and waste reclamation
+
+Fluxfluid is a shelf-stable organic reagent made from balanced managmins, water and heat. It supports bonding, cleaning, acid treatment, purification and material preparation, but cannot substitute for magical transmutation. Canopy crops and Nymbrin industrial alchemy support supply. Imperial Hex-Cells contain and transport waste with ordinary stored-mana retention limits; leakage is pollution, not destruction. Reclamation facilities can combine collected Hex, organic feedstock and balanced five-color inputs into flux at great energy cost. Ordinary flux production does not require Hex. Reclamation avoids disposal costs rather than generating free power. Exact yields and service prices remain table questions.
