@@ -1,3 +1,11 @@
+## November 24, 2026 — AUTHOR ESTABLISHED: Dreamcatchers, Leshy cleanup and industrial Leydrains
+
+Most Canopy clockwork incorporates Nullporcelain waste-management components called Dreamcatchers; average collection is about 50% of arriving depleted mana, with finite accumulation and emptying during maintenance. Nested machine, factory-floor and prosperous-city Dreamcatchers catch successive shares of remaining waste, not additive percentage points: three 50% stages capture 87.5% of original waste when functioning. Preserve Nullporcelain nonconductivity; engineered collector is not a claim that the ceramic itself absorbs energy. Captured waste may be recycled or transferred into matter for slow dispersion across regions (e.g. waterways or smokestacks); dispersion does not imply destruction, guaranteed safe disposal or zero ecological burden.
+
+Leshy can reach deep with roots, selectively draw remaining depleted mana by color and transform it into Nectar. Preserve Nectar's nonconvertibility back into usable MP and unresolved doses, yield, skill requirements and costs. Centaur industrial Leydrains accelerate natural directional conversion red→blue→green→black→white→red, drawing depleted mana and producing pure mana of the successor color. Author wants significant inefficiency/catches; exact input, output, operating energy, residues, costs and throughput remain OPEN. Industrial Leydrain is distinct from existing Celestite Leydrain combat suppression; no alteration to divine material, spells, ranks or item costs. No assumption of Hex removal by these mechanisms. Existing concentrated depleted-mana burden multipliers remain in force.
+
+---
+
 ## November 24, 2026 — AUTHOR CLARIFICATION: Beanstock geography and catastrophic death
 
 Beanstock cultivation is nearly impossible in the Scarlands' mountains and swamps due to Hex and insufficient suitable water; color affinity does not confer Hex immunity or replace physical necessities. This is a strong regional tendency, not an absolute prohibition on extraordinary suitable sites. The more ecologically diverse Imperium can plausibly cultivate Beanstocks, opening opportunities for mutual benefit and cooperation with Canopy expertise; no specific existing Imperial plantation, treaty or ownership arrangement established. Preserve Worldspindle limits and separate Hex management.
