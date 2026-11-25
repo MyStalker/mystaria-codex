@@ -2,6 +2,10 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 25, 2026 — Hex medical threshold precedence
+
+See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for the latest Hex medical ruling: Hexed I/II at 1×/2× effective status threshold, acute sickness at 4×, coma at 8×; isolated exposure below 0.5× generally exempt from chronic bookkeeping except recurrent near-limit exposure. Coma recovery/transformation/fatality and treatment are governed by that reference. Older 4× Hexed II thresholds are superseded for the current HP/d20 game; preserve frozen historical rules.
+
 ## November 25, 2026 — AUTHOR APPROVED: modular Orbcraft progression and gadget servicing
 
 Orbcraft is INT-governed, not DEX-governed. Technological research primarily unlocks distinct capabilities horizontally; five root technologies grant foundational use, with advanced research extending capabilities and unlocking specialized or exotic uses. Most gadgets require only a handful of technologies; final root names, research catalogue, SP costs and prerequisites remain open. The earlier six subject divisions remain descriptive, not a fixed purchase tree.
