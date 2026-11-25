@@ -1,3 +1,13 @@
+## November 24, 2026 — AUTHOR APPROVED: staple crop economic calibration
+
+Working reference farmgate Rosewheat quotes (silver/kg, full paid labor, 10% business contingency and 20% markup): traditional 1.166 at 3 t/worker-year (2250 labor +400 nonlabor annual per worker); prosperous smallholding 0.440 at 12t (3000+1000); commercial 0.275 at 24t (3500+1500); industrial ~0.093 at 90t (approved plantation budget); exceptional ~0.083 at 120t (4500+3000). Not universal market prices or subsistence cash wages. Flour recovery 85% by mass, milling/packaging 0.025 silver/kg flour, wholesale 10% and retail 25% markups; reference industrial flour retail ~0.19/kg with 100km ordinary Worldcoil freight. Bran revenue, processing managmin retention and extra charges unresolved.
+
+Emberbeans: advanced annual yield 1800 kg/acre, production cost/acre 115% of Rosewheat, dry density 3200 managmins/kg, cleaning recovery 95%; preserve approved Red33 White15 Green25 Blue12 Black15%. Industrial farmgate ~0.178/kg, processed wholesale ~0.227, reference retail ~0.28 (rounded from 0.284). Cindercorn: advanced annual yield 2400 kg/acre, production cost/acre 90% of Rosewheat under suitable conditions, dry density 3400 managmins/kg, White15 Green10 Blue5 Black30 Red40%. Industrial farmgate ~0.105/kg, illustrative dry grain retail near source ~0.17, accessible regional market ~0.20, 500km overland ~0.43; rounded provisional quotes, security and actual processing costs subject to reconciliation. Preserve established food identities, annual yields, managmin-only nutrition and unresolved dietary needs.
+
+Reference five-person household grocery basket adopts 0.19/kg grain/flour and 0.28/kg dried Emberbeans; retain other existing trial prices and half-price Plenty Day scenario as experimental, not newly ratified universal prices or subsidy. Guard income 3000/year, nonfood reference 1695, 10% grocery contingency once. Current approved Codex fieldworker 9/day controls over older companion-repo 5/day unskilled trial; do not silently revise wage canon. New crop/price references subject to later market, geography and waste-management calibration.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: agricultural work and commercial harvester working benchmarks
 
 Use an eight-hour worker-day (one Worker Equivalent, WE), 250 days/2,000 hours per reference worker-year; these are accounting conventions, not universal working schedules. Traditional nonmagical cereal farmer: 5 acres, 600 kg/acre/year Rosewheat, 3 tonnes/year, 1.5 kg/labor-hour. Advanced yield reference 2,000–4,000 kg/acre/year, central 3,000. Whole-farm productivity targets 1×, 3–5×, 5–10×, 15–30×, 30–50× correspond to 3, 9–15, 15–30, 45–90, 90–150 tonnes per worker-year. 
