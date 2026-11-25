@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: settlement-relative ley-line scale and Beanstock stress
+
+Ley-line throughput generally scales well to settlement-wide mana output; the most powerful natural ley lines slightly exceed the total mana output of a large city, not arbitrarily many orders of magnitude beyond civilization. This is a relative working design benchmark subject to economic testing; absolute throughput, population anchors and actual daily biological generation remain unresolved. Do not equate reserve capacity with usable daily energy or assume a settlement necessarily has a ley line. Industrial constraints are primarily handling depleted mana/waste rather than raw power availability. Beanstocks may be pushed to wilting during war, famine or other crises; preserve their biological nature, waste uptake and exceptional site requirements. Exact sustainable capacity, stress triggers, recovery, output and mortality remain open. No numerical waste conversion or new Craft rules approved.
+
+---
+
 # Leshen (Leshy) — Foundational Racial and Economic Canon
 
 **Status: AUTHOR APPROVED November 21, 2026 — foundational identity, ecology, geography and social role only.** The playable-race rules and Leshy Craft will be developed later; this is not a completed mechanical race dossier.
