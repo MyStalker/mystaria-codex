@@ -18,7 +18,7 @@ Conventional equipment should be evaluated by its actual profile. A refined weap
 
 **Hulking** weapons are heavier and emphasize very large blows. Their working design increases the STR-derived damage contribution and constrains accuracy. They do not have a universal STR entry gate: an END-focused fighter may carry a heavy weapon by forgoing armor.
 
-Their complete profiles, intermediate progression, and numerical tradeoffs are still being settled. Choose an actual GM-supplied item rather than extrapolating a universal weapon from a research fixture.
+Their complete profiles, intermediate progression, and numerical tradeoffs are still being settled. Choose the finished item profile supplied by your GM.
 :::
 
 ## Armor

@@ -24,3 +24,12 @@ Water, ice, puddles, pressure, actual contact, and material resistance matter. A
 Irrigation, source acquisition, purification, conveyance, and distribution are different jobs. Specialists may unlock a source that makes farming possible without automatically increasing the throughput of every channel downstream.
 
 Carried water helps in dry regions, but it remains finite. A clever small supply can enable a lawful effect; it does not waive the effect's actual quantity, medium, MP, or range requirements.
+
+
+## Explore the learned ranks
+
+Native Wakecraft purchases cost **5 SP per rank**, with earlier ranks purchased first.
+
+Use these learned capability trees together with the shared casting, resource, and current condition rules. A capability description does not waive resistance or supply an unspecified damage figure.
+
+{{ranks:wakecraft}}

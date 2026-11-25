@@ -28,3 +28,10 @@ Choose material for its job and limits. Physical Quality affects the completed c
 A real workshop, actual inputs, qualifying skill, and time are required. Repair is not a blanket free reset; missing matter needs replacement. Mundane labor and material costs remain separate from a Hero's divine Gem accounting.
 
 For a player crafter, agree the available workshop, qualifying ranks, intended item profile, materials, and work schedule with the GM before promising the party a finished item.
+
+
+## Explore the learned ranks
+
+The following established trees give concrete purchase choices; the other fields above still need their completed current definitions.
+
+{{ranks:anvilcant}}

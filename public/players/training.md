@@ -68,6 +68,6 @@ You can specialize through attributes, TP, equipment, or a mixture. Those choice
 
 ## Check the menu with your GM
 
-The full training price list, HP-per-rank schedule, and purchased-HP cap are still being calibrated. Use one declared menu for your table. A simulator's selectable candidate is not automatically a new purchase rule.
+The full training price list, HP-per-rank schedule, and purchased-HP cap are still being calibrated. Use one declared menu for your table. Use the selected menu your GM supplies for actual purchases.
 
 When a benefit scales with level, owned ranks use your **current-level** benefit; buying early should not require repurchasing the same rank. Check HP caps before spending on a rank that may be partly or wholly ineffective. Gear changes do not automatically refund previous TP purchases.

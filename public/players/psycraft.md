@@ -23,3 +23,12 @@ Hostile status applications count as offensive attacks. Helpers may use suitable
 ## In society
 
 Psycraft shapes Imperial institutions, sport, communication, investigation, and power. A person's psychic ability does not settle questions of consent, legal authority, or what an institution permits.
+
+
+## Explore the learned ranks
+
+Each native Psycraft rank costs **5 SP**; the three complete five-rank trees total **75 SP**.
+
+Use these learned capability trees together with the shared casting, resource, and current condition rules. A capability description does not waive resistance or supply an unspecified damage figure.
+
+{{ranks:psycraft}}
