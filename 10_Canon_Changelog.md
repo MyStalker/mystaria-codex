@@ -1,3 +1,7 @@
+## November 25, 2026 — AUTHOR APPROVED: environmental Haze calibration
+
+See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Approved daily absorption 0/1.5/6/24/96/384, ordinary processing 2+END/10, rapid absorption 10 buildup/particle, ambient acute III/IV/V 5/minute, 10/turn, 40/turn, inoculation absorption reductions 10/25/50/65/80%, ordinary mask/circle nonstacking, temporary infant maternal protection and faster child adaptation. Tier I about a week, typical intermediate adult adaptation at least a year; sickness accelerates adaptation. Exact advancement schedules and overlap remain open. Supersedes earlier unselected ambient exposure calibration.
+
 ## November 25, 2026 — AUTHOR APPROVED: chronic Hex calibration
 
 See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Approved ordinary biological processing 3 Hex/day versus ordinary Hexen 30/day (10×); permanent inoculation tiers I–V with resistance +10/20/35/50/75%, HP and MP/output -2/4/7/10/15%, lifespan -5/10/20/30/40%; no automatic inheritance, extraordinary reversal possible. Track burden after significant exposure and review recurrent near-limit incidents. Coma rolls once per crisis; highest effective healing Quality shifts 10 percentage points per tier from death to recovery, capped at 40, with no healer stacking. Recovery may leave lasting harm. Quality V additional stabilization benefits, END scaling, conversion and progression doses remain open. Supersedes prior pending status of these proposals.
