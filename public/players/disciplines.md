@@ -38,3 +38,8 @@ An **Echo** is stored experience. **Echoing** copies; **Mindcut** removes and tr
 An eligible **Skillprint** may count a compatible Shimmer skill as purchased for zero SP under its actual rules. It does not invent an unknown skill, automatically satisfy every other prerequisite, or provide unlimited duplicate benefit.
 
 Complete rank trees are not supplied for every known tradition. Choose a documented ability or settle the missing detail with your GM before spending points.
+
+
+## Orbcraft and field engineering
+
+Kobold engineers combine materials, tools, time, Fluxfluid, mana and Orb bandwidth to make inventions. Ordinary fabrication is not exclusive to Kobolds. Their six areas of expertise are Fabrication, Computation, Transmission, Manatech, Augmentation and Automation. Arcane Fields manipulate gravity and direct heat or kinetic force; red favors heat, blue precision, green kinetic power, white efficiency and black uncontrolled raw power. Kinetic projection has equal opposing recoil. Reallocating bandwidth costs an action in combat; powered gadgets and constructs do not give extra turns or attacks. You can specialize without robots. Ask your GM for finished recipes, ranks and costs before buying or building a device.
