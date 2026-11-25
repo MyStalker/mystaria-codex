@@ -1,3 +1,7 @@
+## November 25, 2026 — Hex medical threshold precedence
+
+See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for the latest Hex medical ruling: Hexed I/II at 1×/2× effective status threshold, acute sickness at 4×, coma at 8×; isolated exposure below 0.5× generally exempt from chronic bookkeeping except recurrent near-limit exposure. Coma recovery/transformation/fatality and treatment are governed by that reference. Older 4× Hexed II thresholds are superseded for the current HP/d20 game; preserve frozen historical rules.
+
 ## November 25, 2026 — Public player teaching edition
 
 The Living Codex's explicitly included current-game teaching references now live in [`public/players/`](public/players/README.md). They cover character creation, attributes/SP/TP, health/recovery, combat/conditions, equipment/enchantments, magical disciplines, races/society, creatures, food/trade, a Scarlands–Canopy economic comparison, and mana generation/waste. These are editorial explanations of approved material, not new statistics, prices, abilities or finalized missing conversions. Owning detailed subject references retain precedence. Approved future player-facing changes should update the affected teaching page in the same maintenance pass; the cloud pipeline ingests the current main and publishes it without a local manual build. Historical decisions and simulation records remain in their original references.
