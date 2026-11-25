@@ -1,3 +1,11 @@
+## November 24, 2026 — AUTHOR CLARIFICATION: Beanstock geography and catastrophic death
+
+Beanstock cultivation is nearly impossible in the Scarlands' mountains and swamps due to Hex and insufficient suitable water; color affinity does not confer Hex immunity or replace physical necessities. This is a strong regional tendency, not an absolute prohibition on extraordinary suitable sites. The more ecologically diverse Imperium can plausibly cultivate Beanstocks, opening opportunities for mutual benefit and cooperation with Canopy expertise; no specific existing Imperial plantation, treaty or ownership arrangement established. Preserve Worldspindle limits and separate Hex management.
+
+At the literal worst-case death of a Beanstock, released pure mana may produce severe and increasingly frequent natural disasters according to its color: black — plagues; blue — extreme rainfall and flooding; red — grave earthquakes; green — explosive overgrowth of other plants; white — rapid desertification. These are catastrophic possibilities, not automatic results of ordinary wilting, routine discharge or every plant death. Magnitude, affected extent, duration, recovery and mitigation remain unresolved. Preserve distinct depleted-mana pollution burden scale and the prohibition on Beanstock Hex removal. The author considers deliberate misuse by a legendary Leshy a possible high-stakes narrative premise; feasibility, constraints and safeguards are not finalized. No new offensive Craft ability or operational procedure established.
+
+---
+
 # Mystaria — The Gilded Coil: Imperial Gazetteer
 
 ## November 6, 2026 — Moontouched knitwear, service clothing and maid cafés
