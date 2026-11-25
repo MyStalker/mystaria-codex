@@ -1,3 +1,7 @@
+## November 25, 2026 — AUTHOR APPROVED: chronic Hex calibration
+
+See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Approved ordinary biological processing 3 Hex/day versus ordinary Hexen 30/day (10×); permanent inoculation tiers I–V with resistance +10/20/35/50/75%, HP and MP/output -2/4/7/10/15%, lifespan -5/10/20/30/40%; no automatic inheritance, extraordinary reversal possible. Track burden after significant exposure and review recurrent near-limit incidents. Coma rolls once per crisis; highest effective healing Quality shifts 10 percentage points per tier from death to recovery, capped at 40, with no healer stacking. Recovery may leave lasting harm. Quality V additional stabilization benefits, END scaling, conversion and progression doses remain open. Supersedes prior pending status of these proposals.
+
 ## November 25, 2026 — Hex medical threshold precedence
 
 See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for the latest Hex medical ruling: Hexed I/II at 1×/2× effective status threshold, acute sickness at 4×, coma at 8×; isolated exposure below 0.5× generally exempt from chronic bookkeeping except recurrent near-limit exposure. Coma recovery/transformation/fatality and treatment are governed by that reference. Older 4× Hexed II thresholds are superseded for the current HP/d20 game; preserve frozen historical rules.
