@@ -38,3 +38,7 @@ The affected part remains the target of that status instance. Adding buildup doe
 Use a counter that genuinely applies: the right magic, physical removal of a restraint, water against fire, or another established intervention. Ordinary ally counters use the shared reduction rules, while some specific effects fully clear a status.
 
 Lawful reduction can immediately downgrade or remove severity. Healing HP, reducing buildup, clearing a condition, and changing a terrain tile are separate effects; check which one your action actually performs.
+
+## Hex exposure and poisoning
+
+Hexed I and II begin at one and two times the applicable status threshold. Four times causes acute Hex Sickness; eight times causes a Hex-induced coma. Isolated exposure below half the threshold usually needs no chronic tracking, but repeated exposure can still cause lasting harm. Untreated coma outcomes are 10% recovery, 50% Hexen transformation and 40% death. Quality I healing improves recovery and reduces death by ten percentage points; Quality IV guarantees survival, not freedom from mutation. Living alchemy may prevent an incomplete mutation by extracting bodily Hex; reversing established Hexen transformation is a near-miraculous undertaking. Chronic exposure, organ damage and augmentation rejection require appropriate treatment. Exact chronic rates and treatment procedures remain table questions.
