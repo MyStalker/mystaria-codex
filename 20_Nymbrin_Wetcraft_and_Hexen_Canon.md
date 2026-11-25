@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR CLARIFICATION: ambient Haze persistence and ecological recovery
+
+Ambient dispersed Haze dissipates naturally at the same rate as ordinary environmental depleted mana under comparable ecological conditions. Hex nevertheless imposes the established 8× environmental burden relative to native depleted mana while present; this is not an 8× slower inherent decay rate, a combat multiplier, or a new MP-to-Hex conversion. The barren, degraded Scarlands process environmental pollution slowly because natural ecological processing capacity is diminished, reinforcing persistent contamination. Preserve distinctions between containment leakage, fresh Hex dispersal and ambient environmental assimilation. No universal environmental half-life or numerical recovery rate is established; the existing 30-day stored-mana leakage benchmark is not automatically an ambient decay rate. The earlier assistant suggestion of an intrinsically decades-long ambient Haze half-life is not adopted. Exact assimilation thresholds, biological conversion accounting, Hexway engineering, purification upkeep, possession mechanics and demon motives remain under development. The author's playful suggestion of demon environmentalism is deferred, not confirmed canon.
+
+---
+
 ## November 24, 2026 — AUTHOR DIRECTION: collection Circuits, Elemental demographics and Beanstock sites
 
 Alchemical collection circles may siphon actual mana into a connected transmission network without requiring local Leywell storage; mana is forwarded rather than accumulated. Preserve lawful access, compatible colors, existing Circuit and Hex constraints; exact collection method, rates, losses, permissions and surplus routing unresolved. No automatic mana generation or storage.

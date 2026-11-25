@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR CLARIFICATION: ambient Haze persistence and ecological recovery
+
+Ambient dispersed Haze dissipates naturally at the same rate as ordinary environmental depleted mana under comparable ecological conditions. Hex nevertheless imposes the established 8× environmental burden relative to native depleted mana while present; this is not an 8× slower inherent decay rate, a combat multiplier, or a new MP-to-Hex conversion. The barren, degraded Scarlands process environmental pollution slowly because natural ecological processing capacity is diminished, reinforcing persistent contamination. Preserve distinctions between containment leakage, fresh Hex dispersal and ambient environmental assimilation. No universal environmental half-life or numerical recovery rate is established; the existing 30-day stored-mana leakage benchmark is not automatically an ambient decay rate. The earlier assistant suggestion of an intrinsically decades-long ambient Haze half-life is not adopted. Exact assimilation thresholds, biological conversion accounting, Hexway engineering, purification upkeep, possession mechanics and demon motives remain under development. The author's playful suggestion of demon environmentalism is deferred, not confirmed canon.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: mobile Leydrains and Dreamcatcher infrastructure
 
 Small machine Dreamcatchers are attached to Leywells; larger factory and municipal collectors are built into foundations or subterranean infrastructure. Retrofitting existing cities can require Dirtmole Earthcraft excavation and Centaur engineering. Portable factory-scale collection is integrated into a vessel's structural hull or comparable enclosure; successive interception layers require meaningful larger-scale infrastructure, not arbitrary stacking of small collectors. The established average 50% capture per successive functioning layer remains unchanged.
