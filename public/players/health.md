@@ -46,3 +46,17 @@ A broken Guard becomes available at the earlier of qualifying sleep or 24 hours 
 ## Hex exposure and poisoning
 
 Hexed I and II begin at one and two times the applicable status threshold. Four times causes acute Hex Sickness; eight times causes a Hex-induced coma. Isolated exposure below half the threshold usually needs no chronic tracking, but repeated exposure can still cause lasting harm. Untreated coma outcomes are 10% recovery, 50% Hexen transformation and 40% death. Quality I healing improves recovery and reduces death by ten percentage points; Quality IV guarantees survival, not freedom from mutation. Living alchemy may prevent an incomplete mutation by extracting bodily Hex; reversing established Hexen transformation is a near-miraculous undertaking. Chronic exposure, organ damage and augmentation rejection require appropriate treatment. Exact chronic rates and treatment procedures remain table questions.
+
+## Chronic Hex and inoculation
+
+Ordinary creatures process about 3 Hex particles per day at the reference capacity; ordinary Hexen process 30. END governs tolerance and processing, with exact scaling settled at the table. Significant exposure can leave Hex Burden even after combat buildup clears; repeated near-limit incidents matter. Gradual adaptation can permanently increase Hex resistance while reducing health, mana output and lifespan.
+
+| Inoculation | Hex resistance | Maximum HP, MP and mana output/recovery | Natural lifespan |
+|---|---:|---:|---:|
+| I | +10% | -2% | -5% |
+| II | +20% | -4% | -10% |
+| III | +35% | -7% | -20% |
+| IV | +50% | -10% | -30% |
+| V | +75% | -15% | -40% |
+
+Apply the listed tier, not all previous tiers together. Exceptional Living Alchemy may reverse damage at the expense of resistance. Resolve a Hex coma once per medical crisis; the highest effective healing Quality shifts 10 percentage points per tier from death to recovery, capped at 40. Mutation remains 50% under conventional treatment. Recovery does not guarantee absence of lasting damage. Exact exposure conversion, inoculation advancement and crisis duration are table questions.
