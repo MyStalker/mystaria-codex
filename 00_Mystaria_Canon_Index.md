@@ -1,3 +1,15 @@
+## November 24, 2026 — AUTHOR ESTABLISHED: regional energy distribution and biological Vital Essence
+
+Vital Essence is harvested directly from living creatures; raw mana cannot be converted into Vital Essence. Preserve all five colors, existing extraction restrictions and frozen 1–3 year spoilage benchmark. Author's economic design target: extraction should be competitive with the cost/opportunity cost of ordinary labor (including enslaved mining labor), potentially as viable as or more viable than ordinary fuel; no automatic premium, exact yield, extraction harm, recovery rate, price or labor regime established. Refrigeration is possible through enchantment, Wakecraft and alchemy; clockwork itself lacks a refrigeration solution. Do not infer new purchasable spells, ranks or MP costs.
+
+Beanstock juice has low usable MP per unit volume/mass despite very high total plantation output; intentionally harder to ship than competing fuel media. No fixed density or plantation yield yet.
+
+Imperium predominantly distributes energy in compact Codexes, requiring special reinforcement to avoid catastrophic detonation. Preserve modern rechargeability, ancient nonrechargeable finite reserves, color/handling restrictions and unresolved exact capacity, failure, reinforcement and retention mechanics.
+
+Scarlands alchemical circles relay very large quantities of raw mana rapidly across linked networks, potentially much faster than parrotfolk flight. This is transmission rather than storage: without Codexes or extremely costly bulk Leywells, arriving mana needs prompt use. Most deliveries are sustained over hours or effectively continuous, not a single instantaneous discharge. Preserve existing catalyst cycle, refining stoichiometry, Hex and lawful alchemical constraints; do not equate transmission with free generation or assume every relay refines mana. Exact throughput, latency, relay spacing, losses, construction/operating costs, storage and failure mechanics remain open.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: distance-based freight, parrotfolk flight and five-color Vital Essence
 
 Adopt working freight rates (silver accounting units/tonne-km; travel km/day): ordinary Worldcoil 0.04/30, accelerated Worldcoil 0.06/150, overland caravan 0.35/30, Skyvein bulk airship 0.50/100. Supersedes flat 1 silver/tonne/journey as general calibration. Rates and speeds are provisional, explicitly revisit with construction, machinery, vessel and security costs; no universal tariff or performance ceiling. Courier rates unresolved. Gross cargo density 5,000 MP/tonne is an illustrative sensitivity input, not fixed container specification. Ordinary refined fuel retains 30-day half-life; delivered cost per surviving MP includes freight and elapsed decay.
