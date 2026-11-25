@@ -1,3 +1,13 @@
+## November 24, 2026 — AUTHOR DIRECTION: collection Circuits, Elemental demographics and Beanstock sites
+
+Alchemical collection circles may siphon actual mana into a connected transmission network without requiring local Leywell storage; mana is forwarded rather than accumulated. Preserve lawful access, compatible colors, existing Circuit and Hex constraints; exact collection method, rates, losses, permissions and surplus routing unresolved. No automatic mana generation or storage.
+
+Adopt 5% of global population as provisional Elemental demographic average for economic testing, not a universal local share or final racial census. Preserve earlier 5× ordinary, top 2% 100×, nested top 2% 1,000× potential references; realized contribution depends on actual reserves, expenditures and collection. Do not equate potential with saleable fuel.
+
+Beanstocks normally require powerful ley-line sites; an exceptional industrial capital capable of concentrating sufficient waste mana may be an alternative site (author direction). Exact threshold, sustainable flow, cultivation and yield remain unresolved. Preserve legendary Leshy requirement, bulky juice and waste consumption; do not assume self-sustaining recycling or free energy. Earlier ley-line lore is to be reconciled before numerical throughput calibration.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: fuel density benchmarks and Vital Essence quality distinction
 
 Retain provisional gross cargo energy densities for economic modeling: Beanstock juice 1,000 MP/tonne, ordinary frozen Vital Essence 10,000 MP/tonne, reinforced industrial Codex cargo 100,000 MP/tonne. These are not item capacities or fixed physical recipes; revisit with vessel costs, actual shipping lanes and packaging. Codex retention and cold-chain costs remain unresolved.
