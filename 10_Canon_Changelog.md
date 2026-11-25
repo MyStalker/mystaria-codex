@@ -1,3 +1,11 @@
+## November 24, 2026 — AUTHOR APPROVED: mobile Leydrains and Dreamcatcher infrastructure
+
+Approved machine Leywell-mounted and larger foundation/municipal Dreamcatchers, Dirtmole-assisted retrofits, structural portable two-layer collectors, mobile Leydrain barges/airships and permanent stations. Contained depleted mana escapes with a 30-day half-life (not destroyed); healthy ecosystems have finite assimilation and can suffer self-reinforcing degradation. Only Leshy actively extract deeply settled soil mana. Mobile services transport residues for suitable dispersion; 300 depleted +150 usable ->100 usable successor +350 depleted is an approved working illustration, not a universal specification. Two layers retain 262.5 and release 87.5; three release 43.75 before leakage and transport. See [Canopy economy](39_Canopy_Kingdoms_and_Mana_Economy.md). Exact engineering, service costs, ecological numerical thresholds and waste densities remain open; preserve existing Hex and grocery rules.
+
+Owners: 39, 07, 38; index updated. Supersedes earlier open placement/containment and mobile-service design status only; exact machine economics and ecological calibration remain open.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: staple crop economic calibration
 
 Working reference farmgate Rosewheat quotes (silver/kg, full paid labor, 10% business contingency and 20% markup): traditional 1.166 at 3 t/worker-year (2250 labor +400 nonlabor annual per worker); prosperous smallholding 0.440 at 12t (3000+1000); commercial 0.275 at 24t (3500+1500); industrial ~0.093 at 90t (approved plantation budget); exceptional ~0.083 at 120t (4500+3000). Not universal market prices or subsistence cash wages. Flour recovery 85% by mass, milling/packaging 0.025 silver/kg flour, wholesale 10% and retail 25% markups; reference industrial flour retail ~0.19/kg with 100km ordinary Worldcoil freight. Bran revenue, processing managmin retention and extra charges unresolved.

@@ -1,3 +1,9 @@
+## November 24, 2026 — AUTHOR APPROVED: mobile Leydrains and Dreamcatcher infrastructure
+
+Healthy environments naturally assimilate finite quantities of depleted mana; sufficiently compatible, distributed discharge within tolerance does not require active Leshy reclamation. Excess discharge may degrade natural processing and cause a reinforcing collapse loop. Only Leshy can actively reclaim depleted mana that has settled deep into soil; industrial Leydrains service concentrated collectible waste and do not replace ecological restoration. Contained depleted mana escapes with a 30-day half-life, entering natural circulation rather than vanishing. See [Canopy economy](39_Canopy_Kingdoms_and_Mana_Economy.md) for mobile collectors and working illustrations. No change to Nectar rules, skill costs, or unapproved numerical assimilation thresholds.
+
+---
+
 ## November 24, 2026 — AUTHOR ESTABLISHED: Dreamcatchers, Leshy cleanup and industrial Leydrains
 
 Most Canopy clockwork incorporates Nullporcelain waste-management components called Dreamcatchers; average collection is about 50% of arriving depleted mana, with finite accumulation and emptying during maintenance. Nested machine, factory-floor and prosperous-city Dreamcatchers catch successive shares of remaining waste, not additive percentage points: three 50% stages capture 87.5% of original waste when functioning. Preserve Nullporcelain nonconductivity; engineered collector is not a claim that the ceramic itself absorbs energy. Captured waste may be recycled or transferred into matter for slow dispersion across regions (e.g. waterways or smokestacks); dispersion does not imply destruction, guaranteed safe disposal or zero ecological burden.
