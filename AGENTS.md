@@ -69,3 +69,10 @@ For **every future comprehensive Mystaria playable-race balance audit**, include
 ## Centaur full equipment stat bonus (AUTHOR APPROVED November 15, 2026)
 
 The previous Centaur-only **50% penalty to equipment-derived numerical attribute bonuses is removed**. Centaurs now receive **full normal equipment stat bonuses**, subject to ordinary equipment rules and Junk fractional pooling. Keep the **10% discount on the aggregate equipment Soul Strain** with once-only upward rounding. Include Centaurs in all future comprehensive 13-playable-race balance checks. This latest ruling supersedes the previous instructions in this file stating Centaurs still halve equipment stat bonuses.
+
+
+## Public player edition — November 25, 2026
+
+The Living Codex teaches **HP/d20 with Training Points as the current game, without a playtest label**, by the author's explicit direction. The selected public teaching pages are in `public/players/`. When an approved change affects player-facing rules or explanations, update the corresponding teaching page in the same canon maintenance pass, alongside the owning subject reference and changelog. Keep the full subject rules intact. Write the resulting present rule as a lesson; do not transplant revision logs, removed mechanics, simulation evidence or internal maintenance into the player edition. Preserve unresolved numerical/creative decisions as short table questions rather than inventing them. Do not propagate the new teaching default into frozen engines, old saved sheets or historical reproduction fixtures automatically.
+
+Public guide changes are published by the existing cloud workflow and require no local website rebuild. Website rendering, explicit inclusion, private-content filtering, source-table expansion and navigation live in the dedicated website repository. New guides require its reading-manifest entry; public/private status must be deliberate.

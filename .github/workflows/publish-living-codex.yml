@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '*.md'
+      - 'public/players/*.md'
   workflow_dispatch:
 permissions: {}
 concurrency:

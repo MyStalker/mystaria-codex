@@ -1,3 +1,7 @@
+## November 25, 2026 — Public player teaching edition
+
+The Living Codex's explicitly included current-game teaching references now live in [`public/players/`](public/players/README.md). They cover character creation, attributes/SP/TP, health/recovery, combat/conditions, equipment/enchantments, magical disciplines, races/society, creatures, food/trade, a Scarlands–Canopy economic comparison, and mana generation/waste. These are editorial explanations of approved material, not new statistics, prices, abilities or finalized missing conversions. Owning detailed subject references retain precedence. Approved future player-facing changes should update the affected teaching page in the same maintenance pass; the cloud pipeline ingests the current main and publishes it without a local manual build. Historical decisions and simulation records remain in their original references.
+
 ## November 25, 2026 — AUTHOR DIRECTION: current player-facing HP/d20 and Training Points
 
 The author explicitly directs the Living Codex to **teach HP/d20 with Training Points as the current game, without a playtest label**. The public website should teach the present rules through character-building guidance and focused explanations, rather than reproducing approval history, removed mechanics, research evidence, or repository maintenance notes. This latest direction overrides older prototype-only presentation labels for that player-facing edition.

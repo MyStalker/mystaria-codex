@@ -1,0 +1,40 @@
+Some attacks build toward a condition instead of—or alongside—ordinary damage. Track each status separately: what has accumulated, what severity is active, how long it remains, and how it can be reduced.
+
+## Buildup and severity
+
+The shared HP status foundation uses **standard severity at 1× effective status HP** and **advanced severity at 2×**. A damaging hybrid normally supplies 1× eligible damage and 1× buildup; a pure status attack supplies 3× buildup. Advanced incapacitating effects use half ordinary outgoing status-applying Power before their buildup multiplier.
+
+Criticals double eligible buildup. Accumulation normally lasts three rounds and refreshes on a valid application. A condition's active duration can be a separate timer. A later reduction in HP does not spontaneously promote existing buildup to a higher severity.
+
+Specific statuses can have named exceptions. Use their actual delivery, resistance, threshold, and reduction rules.
+
+## Conditions you are likely to meet
+
+| Condition | What it does | What to keep track of |
+|---|---|---|
+| **Burning** | Deals ongoing damage based on maximum ordinary HP. | Severity, next tick, actual extinguishing, and buildup duration. |
+| **Freeze** | Standard Freeze halves movement and gives two Pressure Points. Advanced Freeze incapacitates under its rules. | Legal cold delivery, resistance, severity, and actual counterplay. |
+| **Binding** | Standard Binding disables one chosen actual part; advanced Binding restrains the whole body. | The affected part and the real binding medium. |
+| **Lightning** | Standard removes an action. Advanced stuns initially and paralyzes on subsequent turns. | Triggered effect and its three-turn duration; buildup resets when it triggers. Timing details need GM adjudication. |
+| **Erosion** | Standard reduces Energy Resistance by 25%; advanced by 50%. | Separate water buildup and any qualifying transfer into Lightning or Freeze. |
+| **Hex** | Drains MP first, then threatens substantial HP damage after mana is exhausted. | Actual reservoirs and the GM's unresolved rate/overflow adjudication. |
+
+::: detail Burning damage and timing
+A Burning tick deals **ceil(maximum ordinary HP / 3)**. Reserve HP does not increase that base, but active Shimmer can absorb the actual damage normally.
+
+The first tick occurs at the end of the victim's next proper turn. Severity I then ticks every other victim turn; Severity II every victim turn. A legitimate downgrade from II to I restarts the Severity I tick clock as a fresh application. You may extinguish before end-turn damage when able.
+
+One qualifying puddle extinguishes one five-foot fire tile, converting fire to cold ash and water to steam. Removing a fire tile and removing a creature's already active Burning are distinct applications of the actual counter method.
+:::
+
+::: detail What a bound part means
+A bound arm cannot use an implement requiring it, an arm-mounted shield, or its share of a two-handed weapon. A bound leg halves movement and grants one Pressure Point. Another targetable part must be real and relevant; Binding is not unrestricted invention of a new body part or weakness.
+
+The affected part remains the target of that status instance. Adding buildup does not freely move the restraint elsewhere.
+:::
+
+## Helping an ally
+
+Use a counter that genuinely applies: the right magic, physical removal of a restraint, water against fire, or another established intervention. Ordinary ally counters use the shared reduction rules, while some specific effects fully clear a status.
+
+Lawful reduction can immediately downgrade or remove severity. Healing HP, reducing buildup, clearing a condition, and changing a terrain tile are separate effects; check which one your action actually performs.
