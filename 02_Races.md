@@ -1,3 +1,15 @@
+## November 24, 2026 — AUTHOR APPROVED: distance-based freight, parrotfolk flight and five-color Vital Essence
+
+Adopt working freight rates (silver accounting units/tonne-km; travel km/day): ordinary Worldcoil 0.04/30, accelerated Worldcoil 0.06/150, overland caravan 0.35/30, Skyvein bulk airship 0.50/100. Supersedes flat 1 silver/tonne/journey as general calibration. Rates and speeds are provisional, explicitly revisit with construction, machinery, vessel and security costs; no universal tariff or performance ceiling. Courier rates unresolved. Gross cargo density 5,000 MP/tonne is an illustrative sensitivity input, not fixed container specification. Ordinary refined fuel retains 30-day half-life; delivered cost per surviving MP includes freight and elapsed decay.
+
+Parrotfolk average favorable-wind, mana-efficient flight about 150 mph (~241 km/h), carrying approximately what an ordinary person can carry; no fixed payload mass, flight endurance, combat movement, or mana cost implied. Wind manipulation is central to most sky barge sailing and also usable on water vessels. Wind-assisted water barges are an intermediate technology, generally inferior to full engines or manufactured accelerated currents, analogous to intermediate magical mine haulage. Exceptional premium blimps with legendary parrotfolk helmsmen may exceed ordinary freight norms, with costly specialist services; exact performance open.
+
+Vital Essence can be of ANY of the five mana colors, superseding any red-only restriction on the commodity itself. Frozen Vital Essence is the uniquely meaningful long-shelf-life industrial fuel commodity in the author's direction; retain existing 1–3 year frozen spoilage working benchmark, ordinary refined fuel decay, ancient finite reservoirs and specialized storage exceptions. Do not infer arbitrary color conversion, mixed-color containers, changes to specific material nourishment affinities, extraction yield or new prices. Source, cold chain, density, refinement and compatibility remain open.
+
+Regional transport security tendency: Scarlands high (Hex and crime), Canopy floor medium, Canopy fields medium-low, Imperium generally low (strong organization and low crime). Route-specific exceptions remain; no fixed premiums, loss probabilities or security fees yet. Revisit freight with construction economics. See 34_Ancient_Serpentari_Aquatic_Waterways_Canon.md and 39_Canopy_Kingdoms_and_Mana_Economy.md.
+
+---
+
 ## November 23, 2026 — APPROVED EXPERIMENTAL low racial bases (Upgrade 3.3)
 
 For the separate foundational-progression laboratory, prefer most level-1 racial bases below **11**, allowing defining strengths. Test reversal of the historical universal Hero **+10** by subtracting 10 from marked applicable starting bases **before racial multipliers**, retaining effective minimum 1. Current approved tables and historical examples must be identified separately; examples already excluding the increase receive no second subtraction.
