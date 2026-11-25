@@ -40,3 +40,8 @@ The three central goddesses have distinct concerns: **Arrest** with justice, res
 - [Society and daily life](/world/society/) for citizenship, hierarchy, and culture.
 - [Regional economic strengths](/economy/regions/) for the Scarlands–Canopy comparison.
 - [Creatures and Starspawn](/world/creatures/) for the beings encountered beyond ordinary society.
+
+
+## Imperial technology
+
+Kobold Orbcraft supports intelligent manufacturing, Arcane Fields, precision tools, vehicles and neural augmentations. Advanced cities can feel futuristic while poorer districts rely on worn and salvaged technology. Prisminds are born artificial intelligences, educated in hatcheries and transferable between compatible Orbs, but not copyable. Rogue Ciphergeists (Guiests) threaten connected infrastructure; Phantoms include malicious software and demonic machine presences. The historical Cogmind incident widened the division between Imperial and Canopy engineering traditions. Worldspindles remain irreplaceable despite ongoing research.
