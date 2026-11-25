@@ -1,3 +1,15 @@
+## November 24, 2026 — AUTHOR ESTABLISHED: regional energy distribution and biological Vital Essence
+
+Vital Essence is harvested directly from living creatures; raw mana cannot be converted into Vital Essence. Preserve all five colors, existing extraction restrictions and frozen 1–3 year spoilage benchmark. Author's economic design target: extraction should be competitive with the cost/opportunity cost of ordinary labor (including enslaved mining labor), potentially as viable as or more viable than ordinary fuel; no automatic premium, exact yield, extraction harm, recovery rate, price or labor regime established. Refrigeration is possible through enchantment, Wakecraft and alchemy; clockwork itself lacks a refrigeration solution. Do not infer new purchasable spells, ranks or MP costs.
+
+Beanstock juice has low usable MP per unit volume/mass despite very high total plantation output; intentionally harder to ship than competing fuel media. No fixed density or plantation yield yet.
+
+Imperium predominantly distributes energy in compact Codexes, requiring special reinforcement to avoid catastrophic detonation. Preserve modern rechargeability, ancient nonrechargeable finite reserves, color/handling restrictions and unresolved exact capacity, failure, reinforcement and retention mechanics.
+
+Scarlands alchemical circles relay very large quantities of raw mana rapidly across linked networks, potentially much faster than parrotfolk flight. This is transmission rather than storage: without Codexes or extremely costly bulk Leywells, arriving mana needs prompt use. Most deliveries are sustained over hours or effectively continuous, not a single instantaneous discharge. Preserve existing catalyst cycle, refining stoichiometry, Hex and lawful alchemical constraints; do not equate transmission with free generation or assume every relay refines mana. Exact throughput, latency, relay spacing, losses, construction/operating costs, storage and failure mechanics remain open.
+
+---
+
 ## November 24, 2026 — AUTHOR APPROVED: Anchored Earthworks beyond 30 days
 
 Continuously powered alchemical anchor sigils can sustain temporary Earthworks beyond the ordinary 30-day Stonecraft-maintenance limit. Temporary walls are supported by residual pure mana from the Earthcraft spell; author explicitly describes the residual structural mana as green, which gradually fades while blue mana supplied through the anchor replaces its supporting function. Once dependent on the anchor, loss of power or breakage causes the entire supported temporary structure to collapse. This supersedes the earlier unresolved beyond-30-day question. No grace period, redundancy mechanic, upkeep rate or permanent conversion is implied. Existing red-aligned Earthcraft affinity is not changed; relationship of green structural residue to that affinity remains open. Preserve permanent masonry and Slagstone exceptions.
