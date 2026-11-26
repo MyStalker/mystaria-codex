@@ -15,7 +15,7 @@ Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **310
 - Use armor and suitable resistances to make the same HP last longer.
 - Improve Evasion, positioning, and teamwork to reduce incoming hits.
 
-Health training and natural HP remain separate on the sheet. This makes caps and level-scaled purchased benefits easier to check.
+Cybernetic END does not increase HP or the Health training allowance; enchanted END can increase applicable HP, but not mana. Keep natural, enchanted and cybernetic END distinguishable. Health training and natural HP remain separate on the sheet. This makes caps and level-scaled purchased benefits easier to check.
 
 ## Resolving damage
 

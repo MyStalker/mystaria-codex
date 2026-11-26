@@ -1,5 +1,9 @@
 # Mystaria — Current Gem Price Catalogue and Encounter Reward Calibration
 
+## November 26, 2026 — AUTHOR APPROVED: cybernetic augmentation, shared enhancement ceiling and procurement
+
+The divine shop can supply cybernetics as well as enchanted gear, subject to ordinary procurement and installation requirements. Silver-funded manufacture or commissions may supply either; no automatic currency conversion. Approved passive attribute appraisal principle: equal points per Gem to comparable legal Blank stat-only equipment before the working +10% implant installation surcharge. With same-tier half stat yield, use half the comparable Blank finished item reference value for the passive implant comparison, before additional active module/function value and surgery. This is a relative pricing rule, not a finalized Blank tariff or a universal module bundle price. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Do not treat experimental 100/300/5,000/40,000/125,000 Blank proxies or derived implant prices as new approved shop offers.
+
 ## November 26, 2026 — Approved Junk casting implement reference
 
 A Junk casting implement costs **50 Gems**, with independent HP/d20 equipment Power **16**. This specific reference does not finalize all higher-Quality implement prices or profiles. Preserve ordinary Craft compatibility and equipment restrictions.

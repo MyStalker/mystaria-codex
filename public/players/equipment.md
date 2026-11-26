@@ -54,7 +54,7 @@ Check the finished profile, total equipped Weight, handling, hands, and price. F
 
 ## Imperial gadgets and augmentations
 
-Arcane Field tools and weapons still need lawful item profiles and resources; heat projection can be precise but beams lose intensity with distance. Imperial firearms favor field-projected energy or field-accelerated ammunition, including micro-codex bullets. Centaur gunpowder firearms remain distinct. Neural cybernetics can restore or exceed natural function but body-interfacing technology causes Hex Rejection: the soul rejects the interface, building bodily Hex. Tougher bodies tolerate more, and medicine can reduce accumulation with strong side effects. Excessive corruption risks delirium, Hexen transformation and potentially demonic corruption. Exact tolerance, implant budgets and treatment profiles require a GM ruling; no extra stat bonuses or actions are automatic.
+Arcane Field tools and weapons still need lawful item profiles and resources; heat projection can be precise but beams lose intensity with distance. Imperial firearms favor field-projected energy or field-accelerated ammunition, including micro-codex bullets. Centaur gunpowder firearms remain distinct. Neural cybernetics can restore or exceed natural function but body-interfacing technology causes Hex Rejection: the soul rejects the interface, building bodily Hex. Tougher bodies tolerate more, and medicine can reduce accumulation with strong side effects. Excessive corruption risks delirium, Hexen transformation and potentially demonic corruption. Exact chronic tolerance and treatment profiles require a GM ruling; no extra actions are automatic. The passive cybernetic attribute bonus follows the Quality rule below.
 
 ## Using technological equipment
 
@@ -74,4 +74,12 @@ A module supplies a capability; a submodule optionally improves it. A gadget per
 ## Starter casting implements
 
 A Junk casting implement contributes **16 equipment Power** to eligible spells and has a reference price of **50 Gems**. This contribution is separate from the caster's own Power. Check Craft compatibility, actual medium, hands, and the finished implement's tuning. Higher-Quality implement profiles remain table questions.
+
+
+
+## Cybernetic augmentation
+
+An installed cybernetic system grants passive attribute bonuses from its total Quality: I **+3**, II **+6**, III **+10**, IV **+14**, V **+18**. The bonus does not need a special power module or spend MP, and does not add ordinary equipment Soul Strain. Cybernetic END can increase applicable MP and the capacity for Soul Strain, but not HP; enchanted END does the opposite. Enhanced Skill never grants additional SP or TP. You can benefit from at most **15 attribute-enhancing items and implants combined**; existing equipment and anatomical limits still apply. Ordinary wearable gadgets can substitute a machine's capabilities for yours but do not raise your attributes directly.
+
+Integrated active functions use actual modules, normal mana expenditure, normal Hex generation and ordinary action and Integration rules. A built-in weapon is not a free attack or automatically twice as mana-efficient. Proper containment handles operating waste as with other technology; it is not automatically poured into your body. The interface still produces chronic bodily Hex independently of operation. Exact chronic rates, displacement, anatomical requirements and treatment remain GM questions. Both divine Gems and mundane Silver can fund implants or enchantments through lawful channels. Implant passive bonuses have equal value per point to Blank enchantments before the working 10% surgery surcharge; active modules add their own costs. Exact prices remain open.
 
