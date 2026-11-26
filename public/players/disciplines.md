@@ -53,3 +53,9 @@ Gadgets produce Hex waste, but adequate containment prevents ordinary use from a
 ## Using technological equipment
 
 Directed weapons such as laser pistols and Arcblades use ordinary applicable weapon attributes, training and handling. Their modules determine equipment capabilities and operating costs. Powered armor and implants use module-derived protection and assistance; implants incur chronic Hex Rejection. Complex machines have Integration requirements primarily based on INT: meeting them enables full hardware output, while exceeding them does not increase it. Partial Integration of at least 25% permits reduced performance at increased fuel cost; more fuel generates more Hex. At half Integration, performance is 75% and mana cost is four times normal. Individual functions do not have extra universal Integration gates. Gadget Quality averages functional module Qualities equally, but individual components retain their stats. Frame strength, material and handling can limit supported output. Exact machine requirements, prices and module stats remain table questions.
+
+### Integration and material expertise
+
+A powerful living Anima can extract more magical effect from mana than a novice or an automated mechanism. Integration bridges living control and fixed hardware capabilities: a proficient operator realizes the machine's intended output efficiently, without exceeding its physical maximum. Compatible purchased mana does not require personal harmonization.
+
+Orbcraft can fabricate machinery from appropriate prepared exotic stock, including purchased or salvaged alloys and Adamantite. It does not inherently teach ore refining or alloy manufacture; those remain qualified Anvilcant capabilities. Wetcraft can complement both through lawful extraction and material preparation, subject to equivalent exchange and real materials, costs and qualifications.
