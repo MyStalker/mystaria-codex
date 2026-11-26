@@ -85,6 +85,10 @@ Prestigious Kobold household specialists retain practical engineer or professor 
 
 ## Cipherlight, Rainbows, and the Physical Coilnet — approved November 4, 2026
 
+**November 26, 2026 — AUTHOR APPROVED clarification:** Directional lighthouse Cipherlight forms visible curved Rainbow beams linking towers; these genuinely bend around the horizon, not merely appear curved. Communication needs an unobstructed actual Rainbow path (line of Rainbow), rather than ordinary straight optical line of sight. Weather can attenuate it. A directional beam reveals its transmitting location; encryption does not hide the beam or necessarily expose its contents. This is distinct from the broader atmospheric Rainbow, which indicates network coverage/traffic rather than individual origins. Most lighthouses host smaller relays for local distribution, and mobile relay machines are possible. Preserve reflective guided pipelines and their existing forensic implications. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Range, Throughput and Prismind travel rules. Exact beam geometry remains open.
+
+
+
 ### Mindprism, Echoes and the Mnemonic Arts — approved November 4, 2026
 
 The **Mnemonic Arts** are an elite, expensive application of Cipherlight-based **Orbcraft and Mirrorcraft**. Carefully calibrated **Mindprism** installations focus encoded Cipherlight through a person's **retinas** and into the brain, allowing memory recording, direct upload, genuine **Skillprints**, and real-time **Dreamcasting**. **Mindwrights** calibrate each client. Ordinary direct exposure to Cipherlight is still dangerously confusing and cannot safely replace Mindprism equipment.

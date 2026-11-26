@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Transmission, Rainbow geometry and Prismind transit
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Range/Throughput, size and Quality scaling, directional ×20 curved Rainbow paths beyond horizon, relay networks, transmission submodules/colors, and Prismind Receiver-range transit, failed infiltration return chain and exposed mana-form survival (tier ×5 minutes). [Imperial Gazetteer](18_The_Gilded_Coil_Imperial_Gazetteer.md) distinguishes visible directional arcs from atmospheric network Rainbows. Absolute costs, timing/detection details and exact beam geometry remain open; Sensors next. [Player disciplines guide](public/players/disciplines.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: Emitters, Focusers and Orb computation
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for the approved Emitter/Focuser catalogue, relative working profiles, enhancements, and Orb Processing/Bandwidth framework (I–V fixed-size working capacity 1/2/4/8/16), programming, optional submodules, color research, shared computation and Prismind hosting. Absolute numerical calibration, final recipes and purchase trees remain open. [Player disciplines guide](public/players/disciplines.md). Transmission and Sensors remain next for review.
