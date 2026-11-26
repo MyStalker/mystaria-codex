@@ -40,7 +40,7 @@ Leshy, Nymbrin, and the developing mining peoples have established worldbuilding
 |---|---|---|
 | **Strength — STR** | Hit hard, carry equipment, and contribute to physical accuracy. | Useful for powerful weapons and for making room in your loadout. |
 | **Dexterity — DEX** | Aim precisely, evade, handle refined equipment, and perform delicate physical work. | Supports both offense and defense; individual weapons may have handling requirements. |
-| **Endurance — END** | Have more natural HP, carry equipment, and contribute to evasion. | Supports durability. Mana-generating races also use effective END in their natural MP rules. |
+| **Endurance — END** | Have more natural HP, carry equipment, and contribute to evasion. | Supports durability. Mana-generating races use effective END excluding enchantment-derived END in their natural MP rules. Enchanted END cannot increase Soul Strain capacity. |
 | **Intelligence — INT** | Understand and use complex magic; contribute to magical accuracy. | Check the prerequisites of the actual Craft you want to learn. |
 | **Skill** | Earn additional Skill Points and Training Points when you allocate points to it. | Gives more room to develop abilities and trained statistics. |
 
