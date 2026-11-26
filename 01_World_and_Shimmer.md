@@ -1,3 +1,19 @@
+## November 26, 2026 — AUTHOR APPROVED: refined Skill training progression and HP allowance
+
+For current HP/d20 Heroes at level L, let S be the number of actually allocated base attribute points invested in Skill. Baseline TP remains 2L; total ordinary earned TP = floor(2L + S × t(L)). Skill SP income remains +2 SP per allocated Skill point (ordinary earned SP = 2L + 2S); the former one-to-one SP/TP income relationship and flat +2 TP per Skill are superseded for this progression. Racial starting Skill, racial multipliers, automatic fifth-level increases, enchantments and implants do not count as S. Preserve independently approved exceptional grants, separate ledgers and existing purchase costs.
+
+| Level | TP per invested Skill t | Additional purchased HP allowance per invested Skill k |
+|---:|---:|---:|
+| 1–10 | 0.5 | 0 |
+| 25 | 1 | 0 |
+| 50 | 2 | 1 |
+| 75 | 2.5 | 1 |
+| 100 | 2.5 | 1.5 |
+
+Linearly interpolate between anchors, recalculate at current level, and floor the final TP budget once. Purchased HP ceiling = floor(1.5 × natural HP + k(L) × S). Effective purchased HP is limited to this ceiling; actual HP ranks must still be bought with TP. HP training remains available from level 1, and its per-rank benefit and cost are not changed here. Skill grants no free HP or natural HP. Preserve racial/augmentation exclusions and existing Shimmer rules. No automatic refund or reset of saved ledgers.
+
+Validation: Combat Lab job ba931a10-36bd-49b1-882e-650a00000011, 297,000 encounters, 220 constructions and 990 matchup checks passed. Five Skill investment shares and eleven levels tested under both AR policies. Strong AR remains experimental, not approved here; caster balance and armor specialist spending remain open. Stationary duels, permissive equipment and fixed strategies limit conclusions. Historical engines unchanged.
+
 ## November 26, 2026 — AUTHOR APPROVED: level-one point budgets
 
 In the current HP/d20 Hero game, a newly created level-1 Hero receives **2 allocatable base attribute (stat) points, 2 Skill Points (SP), and 2 Training Points (TP)**, in addition to the racial starting array and existing exceptional grants. These are separate pools, available before purchases. Each subsequent level continues the existing +2 attribute points and +2 SP/+2 TP income; the existing +1 to all five base attributes every fifth level remains unchanged. Baseline earned totals at level L are 2L attribute points, 2L SP and 2L TP (including the starting grant), with no second level-one award. Each actually allocated Skill attribute point grants +2 SP and +2 TP; racial base Skill, racial modifiers and automatic fifth-level increases do not count. Record earned, spent and unspent balances separately. This is not a new universal non-Hero advancement rule or automatic refund/reset of saved character ledgers.
