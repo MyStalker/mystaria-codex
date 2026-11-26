@@ -64,3 +64,7 @@ Apply the listed tier, not all previous tiers together. Exceptional Living Alche
 ## Breathing Haze
 
 Effective Haze 0/I/II/III/IV/V gives reference daily absorption of 0/1.5/6/24/96/384 Hex particles. Ordinary creatures process 2 + END/10 per day. Inoculation I–V reduces ambient absorption by 10/25/50/65/80%. Ordinary powered Clearbreaths and Purity Circles each lower effective Haze by two tiers; their ordinary protection does not stack. Haze I/II has no routine combat buildup; III adds 5/minute, IV 10/turn and V 40/turn. Rapidly absorbed Hex adds 10 buildup per particle; ambient acute disruption is not an extra retained particle dose. Infants temporarily retain maternal protection, children adapt faster and gradual inoculation carries lasting health costs. Sustained sickness may accelerate adaptation but is dangerous. Exact advancement schedules and exposure overlap require GM adjudication.
+
+## Adaptation over time
+
+Comfortable sustained exposure reaches inoculation I/II/III/IV/V at cumulative adult benchmarks of one week, three months, one year, five years and fifteen years. Children adapt twice as quickly. Persistent mild/moderate/severe sickness accelerates adaptation 2/3/4 times, but acute poisoning is a medical crisis, not safe training. Negligible exposure or environmental equilibrium can halt progress. Infants temporarily retain maternal absorption protection, not permanent inoculation. Tier V is uncommon and associated with prolonged dangerous exposure; wealthy protected residents may never inoculate.
