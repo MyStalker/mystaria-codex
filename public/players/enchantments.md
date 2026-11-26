@@ -10,7 +10,21 @@ These modes are mutually exclusive choices. Physical Quality, enchantment streng
 
 Blank and Mixed attribute bonuses remain active while the item is legally equipped and supplying its effect. Their ongoing cost is **Soul Strain**. You do not reactivate those stat bonuses every five rounds.
 
-Soul Strain and MP are different limits. Check your actual strain rules before filling your loadout with stat-enhancing items. Centaurs receive full normal equipment attribute bonuses and apply their racial reduction to aggregate equipment strain, with the established once-only upward rounding.
+Soul Strain occupies part of your maximum mana reserve rather than spending MP every turn. Use the standard stat-enchantment ladder below for legally installed bonuses; physical Quality alone does not grant these bonuses.
+
+| Enchantment tier | Blank attribute bonus | Mixed attribute bonus | Ordinary Soul Strain |
+|---|---:|---:|---:|
+| I | +6 | +3 | 1 |
+| II | +12 | +6 | 2 |
+| III | +20 | +10 | 4 |
+| IV | +28 | +14 | 6 |
+| V | +36 | +18 | 8 |
+
+**Enchanted Endurance does not increase natural MP or Soul Strain capacity.** It still improves applicable physical statistics, such as HP, Evasion and Weight capacity. Calculate mana using END without its enchantment-derived bonus, then apply the ordinary +10 compensation and racial rules. Enchanted Skill does not grant SP or TP; only allocated Skill points grant extra progression income.
+
+Centaurs receive full normal equipment attribute bonuses and pay 90% of aggregate equipment strain, rounded up once. Moontouched retain zero usable natural MP and their separate strain-capacity accounting. Other racial rules remain unchanged.
+
+This is the standard five-tier benchmark, not a rule granting new slots or permitting arbitrary distribution of the listed bonus.
 
 ## Powered magical effects
 
