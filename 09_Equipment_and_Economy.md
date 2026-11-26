@@ -1,3 +1,21 @@
+## November 26, 2026 — AUTHOR APPROVED: HP/d20 Soul Strain and attribute enchantment closeout
+
+The author approves retaining the existing enchantment attribute/strain ladder in current HP/d20 rules, with the explicit correction that **enchanted END never increases natural maximum MP or the capacity available to support Soul Strain**. Use effective END excluding enchantment-derived END for the existing natural mana calculation, including the approved +10 compensation before racial capacity multipliers. Enchanted END still contributes normally to HP, Evasion, Weight capacity and other applicable non-mana derived statistics. This exclusion applies to enchantment-derived END, not a blanket redesign of cybernetic, racial or other separately governed effects.
+
+| Enchantment tier | Blank attribute bonus | Mixed attribute bonus | Ordinary equipment Soul Strain |
+|---|---:|---:|---:|
+| I | +6 | +3 | 1 |
+| II | +12 | +6 | 2 |
+| III | +20 | +10 | 4 |
+| IV | +28 | +14 | 6 |
+| V | +36 | +18 | 8 |
+
+These are the retained standard five-tier stat-enchantment benchmarks, not automatic physical Quality bonuses or a new slot-to-stat distribution rule. Blank and Mixed stat bonuses are continuous while legally equipped; both pay their applicable equipment strain, not periodic MP upkeep. Full grants no stat bonus and no strain from its active enchantment; Mixed/Full active effects use compatible Leywell MP with the existing five-round default and normal action rules. Mixed magical effects retain their established half-strength relationship to Full, subject to named effect rules. Equipment attribute bonuses apply after racial multipliers. Enchanted Skill can affect applicable checks but never generates SP or TP: only allocated Skill points grant extra progression income.
+
+Keep Centaur aggregate equipment strain ceil(0.90 × subtotal), full normal equipment bonuses, ordinary Junk rules, Moontouched zero usable natural MP with existing strain-only accounting, Drakyn capacity and feeding-only recovery, and all other existing racial limits. Keep implement tuning, Skyvein intrinsic strain, dragonmarks, permanent-spell strain, Toxicity and separately governed cybernetic Hex/displacement distinct. Ordinary unenchanted craftsmanship incurs no enchantment strain. Do not alter Gem tariffs, named active effect values, or existing slot and installation legality.
+
+The author explicitly defers early-level enchantment balance testing until the system is more complete. The ladder is approved for current use, not claimed empirically balanced under HP/d20. Exact slot-to-attribute distribution, outstanding installation rules and previously unresolved exceptional reserve accounting remain open. Historical combat engines unchanged.
+
 ## November 26, 2026 — AUTHOR CORRECTION: Quality burden, equipment specialties, and armor coverage suspension
 
 In current HP/d20 personal equipment, increasing Quality increases Weight and applicable Handling: supernatural craftsmanship concentrates mana, increasing density beyond mundane limitations without requiring larger designs. Preserve shape/material/Quality as the catalogue axes; no separate reinforced/advanced grade ladder. Baseline early Weight and ordinary Weight-first eligibility remain; do not impose unrelated universal DEX/STR gates. Retain the intentional high-level tradeoff between the largest weapons and thickest armor, and END Barbarian access. Exact reconciled I–V numerical Weight/Handling ladders are open; earlier HP/d20 equipment conversion report provides historical benchmarks (QV Heavy weapon 140, Heavy Hulking 210, Heavy armor 85). Mastercraft bonus-only Quality retains its separately approved no increase in wielding requirements; reconcile physical Weight implementation separately, and do not silently change Orbcraft frame/module rules.
