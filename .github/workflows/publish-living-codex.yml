@@ -1,26 +1,11 @@
-name: Publish Living Codex
+name: Publishing handled by shared queue
 on:
-  push:
-    branches: [main]
-    paths:
-      - '*.md'
-      - 'public/players/*.md'
   workflow_dispatch:
 permissions: {}
-concurrency:
-  group: living-codex-publish
-  cancel-in-progress: false
 jobs:
-  notify:
+  information:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 1
     steps:
-      - name: Trigger reviewed public reference rebuild
-        env:
-          BUILD_HOOK: ${{ secrets.LIVING_CODEX_BUILD_HOOK }}
-        run: |
-          if [ -z "$BUILD_HOOK" ]; then
-            echo "Configure the LIVING_CODEX_BUILD_HOOK repository secret."
-            exit 1
-          fi
-          curl --fail --silent --show-error --retry 3 --request POST --data '{}' "$BUILD_HOOK"
+      - name: Production hooks are retired
+        run: echo 'No production deploy requested. Approved changes are batched by https://github.com/MyStalker/mystaria-living-codex/actions/workflows/reconcile.yml'
