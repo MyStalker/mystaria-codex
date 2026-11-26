@@ -1,3 +1,9 @@
+## November 26, 2026 — AUTHOR APPROVED: level-one point budgets
+
+In the current HP/d20 Hero game, a newly created level-1 Hero receives **2 allocatable base attribute (stat) points, 2 Skill Points (SP), and 2 Training Points (TP)**, in addition to the racial starting array and existing exceptional grants. These are separate pools, available before purchases. Each subsequent level continues the existing +2 attribute points and +2 SP/+2 TP income; the existing +1 to all five base attributes every fifth level remains unchanged. Baseline earned totals at level L are 2L attribute points, 2L SP and 2L TP (including the starting grant), with no second level-one award. Each actually allocated Skill attribute point grants +2 SP and +2 TP; racial base Skill, racial modifiers and automatic fifth-level increases do not count. Record earned, spent and unspent balances separately. This is not a new universal non-Hero advancement rule or automatic refund/reset of saved character ledgers.
+
+Owners: `01_World_and_Shimmer.md`, `22_Combat_Endurance_and_Shimmer_Guard.md`; player instructions: `public/players/character.md`, `public/players/training.md`. Character manager and simulator implementation are not verified or changed by this documentation update.
+
 ## November 26, 2026 — AUTHOR APPROVED: Prismind education, fusion and infiltration
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Caged/Rogue NPC distinction, neural-interface education and inherited Integration, noncombat IV/V INT 100/200, exponential fusion/assimilation (1/4/16/64/256; contributors at least two tiers lower), and opposed hacking with 30-foot Prismind range, +10 counterplay and three-round nonstacking sabotage. Ciphergeist denotes dangerous rogue intelligence, not every uncaged Prismind. Exact hacking math, seizure, fusion implementation and general Orb ratings remain open. Player guide: [disciplines](public/players/disciplines.md).

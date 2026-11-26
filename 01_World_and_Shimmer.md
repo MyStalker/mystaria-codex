@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: level-one point budgets
+
+In the current HP/d20 Hero game, a newly created level-1 Hero receives **2 allocatable base attribute (stat) points, 2 Skill Points (SP), and 2 Training Points (TP)**, in addition to the racial starting array and existing exceptional grants. These are separate pools, available before purchases. Each subsequent level continues the existing +2 attribute points and +2 SP/+2 TP income; the existing +1 to all five base attributes every fifth level remains unchanged. Baseline earned totals at level L are 2L attribute points, 2L SP and 2L TP (including the starting grant), with no second level-one award. Each actually allocated Skill attribute point grants +2 SP and +2 TP; racial base Skill, racial modifiers and automatic fifth-level increases do not count. Record earned, spent and unspent balances separately. This is not a new universal non-Hero advancement rule or automatic refund/reset of saved character ledgers.
+
 ## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
 
 Apply the +10 compensation to ordinary natural capacity before existing racial capacity multipliers, retaining Soul Strain and affinity rules. Moontouched usable natural MP remains hard-capped at zero, but the +10 is included in Soul Strain capacity accounting. Drakyn have a natural maximum MP and recover only by consuming Starspawn, never by resting.

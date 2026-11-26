@@ -7,6 +7,7 @@ For Hero bookkeeping at level **L**, baseline SP income is **2 × L**, including
 | Example | Total SP earned | Total TP earned |
 |---|---:|---:|
 | Level 1, no allocated Skill investment | 2 | 2 |
+| Level 1, both attribute points invested in Skill | 6 | 6 |
 | Level 5, no allocated Skill investment | 10 | 10 |
 | Level 5, three allocated points invested in Skill | 16 | 16 |
 
@@ -14,7 +15,7 @@ These are earned totals before purchases and before any separately established e
 
 ## Improving attributes
 
-Each gained Hero level grants **two allocatable base attribute points**. Every fifth level also adds **+1 to all five base attributes**. Racial modifiers continue to apply to eligible base increases.
+At character creation, a level-1 Hero receives **two allocatable base attribute points**, **two SP**, and **two TP**. Each subsequent Hero level grants another two of each; the level-one grant is already included in the 2 × L totals. Base attribute points earned by level L total 2 × L, before automatic milestone increases. Every fifth level also adds **+1 to all five base attributes**. Racial modifiers continue to apply to eligible base increases.
 
 Keep the base value and effective value distinct. A fractional effective attribute can matter; round only after completing the relevant derived calculation.
 

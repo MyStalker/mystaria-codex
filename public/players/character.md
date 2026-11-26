@@ -52,6 +52,8 @@ Attributes describe broad potential. A high attribute does not teach an unlearne
 | **Skill Points — SP** | Abilities, Crafts, mundane skills, and useful options. | Each purchase's actual cost, rank, and prerequisites. |
 | **Training Points — TP** | Improvements to individual derived statistics, such as accuracy, evasion, damage, or HP. | Purchased ranks, their costs, effective benefits, and remaining TP. |
 
+At level 1, you begin with **2 unspent attribute points, 2 SP, and 2 TP**, before any purchases or additional earned Skill bonuses. These are in addition to your racial starting attributes and applicable racial entitlements. Allocate the attribute points before calculating your final budgets; each point allocated to Skill grants another 2 SP and 2 TP. Keep all three remaining balances visible.
+
 SP and TP are independent pools. Spending one does not spend the other. [The training guide](/learn/training/) explains income, escalating purchases, and how to plan a useful build.
 
 ## Buy a few things you will actually use
@@ -64,7 +66,7 @@ Read [magic and disciplines](/learn/magic/) before buying magical skills. Differ
 
 Pick a weapon with a clear job. Check its damage, reach, attack forms, hands, Weight, and handling requirements. Armor reduces incoming damage but uses part of the same carrying budget as your other gear. A shield needs its own lawful handling and defensive use.
 
-Your shared equipped **Weight capacity is the floor of effective STR + effective END**. Add up the whole equipped loadout before calling it legal. Do not confuse a weapon's independent rating with your personal attributes or training.
+Your shared equipped **Weight capacity is max(0, floor(20 + effective STR + effective END))**. Add up the whole equipped loadout before calling it legal. Do not confuse a weapon's independent rating with your personal attributes or training.
 
 Start with [equipment explained](/learn/equipment/), then [enchantments](/learn/enchantments/) if you are buying magical gear.
 
