@@ -2,6 +2,58 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 26, 2026 — AUTHOR APPROVED: Emitters, Focusers and Orb computation
+
+The author approves the previously proposed Emitter/Focuser catalogue and general Orb/Computation framework. Relative numerical profiles below are approved working design references, not finalized absolute equipment ratings or balance results. Preserve all previous frame, recoil, weapon parity, mana affinity, Hex, integration, Mount, action economy and Prismind rules.
+
+### Emitters and Focusers
+
+An Emitter generates an Arcane Field; a compatible Focuser shapes that output, as a submodule rather than a separate Gadget Mount. Unfocused output is crude, weak and poorly controlled. Ordinary beams are available through foundational field manipulation; color-specific effects require advanced research and matching mana. The approved catalogue comprises:
+
+| Emitter | Relative Power | Relative MP | Relative Load | Role |
+|---|---:|---:|---:|---|
+| Standard | 100% | 100% | 100% | General-purpose output |
+| Continuous | 75% | 75% | 75% | Sustained output |
+| Pulse | 150% | 150% | 150% | Short high-output bursts |
+| Precision | 75% | 100% | 50% | Controlled precise work |
+| Broad-field | 100% | 150% | 150% | Distributed field output |
+
+| Focuser | Relative effective Power | Qualitative range | Coverage |
+|---|---:|---|---|
+| None | 25% | Contact | Poorly controlled |
+| Beam | 100% | Long | Narrow |
+| Cone | 75% | Short | Broad |
+| Containment | 125% | Contact | Fixed shape |
+| Barrier | 100% | Close | Surface |
+| Manipulation | 100% | Medium | Selected object |
+| Radial | 50% | Short | Surrounding area |
+
+These are recovered relative working profiles, not universal multipliers for attack damage or a guarantee of target count, defense, penetration or increased attacks. Final stacking, range distances, duty cycles, duration, area budgets, field-specific MP and Load and absolute stat conversions remain open. The optional enhancement catalogue includes Amplifier (working +50% Power, MP and Load), Collimator (+50% Range), Economizer (-25% MP, -10% Power), Stabilizer, Pulse Capacitor and Field Shaper. Heat-related enhancement details and exact remaining modifiers were not recovered in full and must not be inferred. Preserve one of each compatible submodule type by default and meaningful design costs. Color specialties remain red heat, blue precision, green kinetic power, white efficiency, black uncontrolled raw power; color-specific field modifiers remain unfinalized. Beam attenuation/divergence remains meaningful; inverse-square energy density is a physical reference beyond the divergence-dominated distance, not a finalized HP damage formula.
+
+### Orb computation
+
+Orbs have two defining computational statistics: Processing (task sophistication) and Bandwidth (simultaneous computational control capacity). Standard fixed-reference-size working progression:
+
+| Quality | Baseline Processing | Bandwidth |
+|---|---|---:|
+| I | Timers, switches, measurements, simple commands, arithmetic | 1 |
+| II | Conditional instructions, feedback, stabilization, ordinary navigation | 2 |
+| III | Visual recognition, pathfinding, coordinated movement, predictive targeting calculations | 4 |
+| IV | Complex simulations, advanced diagnostics, adaptive control, precision manufacturing | 8 |
+| V | Extensive scientific modelling, sophisticated pattern analysis, complex optimization | 16 |
+
+Processing is a qualitative tier, not an independent consciousness rating. Specialization may alter effective task capability. Working Bandwidth demands: 0 for passive hardware, manual switches and elementary local controllers; 1 for ordinary remote Gadget operation/simple automation; 2 for automated navigation, independent visual tracking or coordinated articulated movement; 4 for sophisticated real-time simulation/adaptive machinery/complex coordination. These are task examples, not fixed costs for every Gadget. Simple switched loads need not occupy full Bandwidth. Bandwidth is allocated, not expended; reallocation costs one action in combat. Operator expertise determines personally manageable remote Bandwidth, hardware determines available computation, and autonomous local processing need not consume personal supervision capacity. Exact operator progression, size, Quality VI, simultaneous task mapping and sabotage percentage rounding remain open.
+
+Programming may use ordinary-language instructions, sequential, conditional, repetitive, responsive and adaptive behavior according to real Processing, Bandwidth, expertise, sensor and actuator capabilities. Programs and ordinary data may be saved, copied, bought, modified and transferred between compatible Orbs. Programs optimize defined objectives, not independently choose their own ambitions. Remote control, programmed control and genuinely intelligent Prismind operation are distinct and can coexist on compatible hardware. Preserve the previously approved Caged/Rogue distinction, NPC action economy and hacking rules; no free attacks or turns from automation. No change to special Echo, Mindprism and Skillprint restrictions.
+
+Optional Orb submodules: Accelerator (general Processing/throughput at increased MP and Hex); Parallel Core (Bandwidth at Weight, material and energy cost); Memory Bank (expanded archives/recordings/maps/program storage at physical and material cost); Logic Core (specialized efficient computation within a chosen domain, e.g. navigation, diagnosis, fabrication or encryption); Isolation Core (restricted data exchange/coordination for security). Standard Orbs store ordinary intended programs without tracking every data unit. The previously approved performance-costing defensive hacking submodule (Cipherlock, working name) remains; relationship to Isolation Core and precise modifiers are unresolved. Network isolation alone cannot block nearby Prismind infiltration. A compatible Prismind host interface is an advanced Orb modification, not creation or copying of a mind; compatibility and birth mechanism remain open.
+
+Advanced colored computation research: blue precision for calculations, diagnostics and control (no universal connected weapon Accuracy increase); white computation efficiency, less MP and consequent Hex; black temporary Processing throughput or Bandwidth overdrive, more Hex and potentially less reliable results. Red and green remain available for ordinary computation but no dedicated computational benefit is established. Matching mana and appropriate research are required; exact modifiers, penalties, duration and costs open.
+
+A central Orb may serve multiple Gadgets within actual Processing, Bandwidth and compatibility. Multiple Orbs may distribute tasks or pool Bandwidth via suitable networked coordination, with actual infrastructure and capacity; Processing tiers do not simply add (two II Orbs do not automatically become IV). Legitimately parallelizable work may benefit. Centralization saves components and simplifies coordination but introduces shared failure vulnerability; distributed computation adds redundancy, specialization and physical costs. No separate arbitrary Orb count cap beyond construction, actual resource and integration constraints.
+
+Routine computation MP is included in precomputed equipment operating costs when practical; major standalone calculation, sustained infrastructure and overdrive may need distinct energy accounting. Actual MP generates Hex under existing rules. Research themes include advanced logic, parallel control, data systems, specialization, coordination, isolation, host interfaces and colored computation; these are not final purchase trees or prerequisites. Absolute ratings, recipes, prices, numerical calibration and Skill Point costs remain unfinished.
+
 ## November 26, 2026 — AUTHOR APPROVED: Prismind education, fusion and infiltration
 
 Prisminds are born, noncopyable individuals, not ordinary programs. Caged Prisminds execute orders under enforceable behavioral restrictions, analogous to Cogmarshal constructs; they do not supply independent combat turns. Rogue (uncaged) Prisminds are independent NPCs with their own actions and no enforceable creator loyalty; behavior follows personality, relationships and lived experience. Rogue does not necessarily mean hostile; a Ciphergeist (Geist) is a dangerous rogue intelligence. Preserve ordinary programmed machines' lack of independent consciousness and existing Phantom distinctions.
