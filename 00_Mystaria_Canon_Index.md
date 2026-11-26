@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: propulsion modules and colored propulsion
+
+See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) for approved propulsion families, multiple propulsion Mounts, working relative stats, submodules and matching-color research. Arcane Field propulsion added; seals moved to frames. Green Speed -25%; White Speed -10–20%; Black no extra MP, 50% more imprecise and +50% Hex. Heat favors Hex inefficiency; cooldown submodule implementation, absolute profiles and MP/output scaling remain open.
+
 ## November 26, 2026 — AUTHOR APPROVED: frame construction and structural loads
 
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) for approved frame material/size/Quality/Load rules, Reprise Bronze transport compression, specialized modifications and application-dependent Weight. Propulsion profiles and color upgrades remain open.
