@@ -17,7 +17,7 @@ Specific statuses can have named exceptions. Use their actual delivery, resistan
 | **Binding** | Standard Binding disables one chosen actual part; advanced Binding restrains the whole body. | The affected part and the real binding medium. |
 | **Lightning** | Standard removes an action. Advanced stuns initially and paralyzes on subsequent turns. | Triggered effect and its three-turn duration; buildup resets when it triggers. Timing details need GM adjudication. |
 | **Erosion** | Standard reduces Energy Resistance by 25%; advanced by 50%. | Separate water buildup and any qualifying transfer into Lightning or Freeze. |
-| **Sonic / Deafened** | At 1× two Pressure Points; at 2× Stunned for one turn and Deafened with two Pressure Points until magical healing. | While Deafened by Sonic, immune to further Sonic condition, not physical Sonic damage. Use ordinary advanced-status buildup rules; healing details require GM adjudication. |
+| **Sonic / Deafened** | At 1× two Pressure Points; at 2× Stunned for one turn and Deafened with two Pressure Points until magical healing. | At 0.5× buildup or higher, the user's Acoustic Sensors are scrambled until buildup falls below 0.5×. While Deafened by Sonic, immune to further Sonic condition, not physical Sonic damage. Use ordinary advanced-status buildup rules; healing details require GM adjudication. |
 | **Hex** | Drains MP first, then threatens substantial HP damage after mana is exhausted. | Actual reservoirs and the GM's unresolved rate/overflow adjudication. |
 
 ::: detail Burning damage and timing
