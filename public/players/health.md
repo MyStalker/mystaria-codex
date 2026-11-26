@@ -11,7 +11,7 @@ Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **310
 ## Increasing your health
 
 - Increase END to improve natural HP.
-- Spend TP on health training using your table's selected benefits and cap.
+- Spend TP on health training from level 1. You can normally buy additional HP up to 150% of natural HP. After level 25, invested Skill gradually expands that limit; at level 50 it permits one extra purchasable HP per invested point, and at level 100 one and a half. This is not free health. See [training](/learn/training/) for the progression.
 - Use armor and suitable resistances to make the same HP last longer.
 - Improve Evasion, positioning, and teamwork to reduce incoming hits.
 
