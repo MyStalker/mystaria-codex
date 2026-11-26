@@ -11,7 +11,23 @@ Read [the races of Mystaria](/world/races/) for their bodies, cultures, and magi
 With your GM, record your race's starting attributes and racial modifiers. Also decide where you grew up, your legal status, and your relationship to the society around you. [The three great regions](/world/regions/) provide very different beginnings.
 
 ::: detail Starting statistics and unusual races
-The five-stat training system uses STR, DEX, END, INT, and Skill. Complete racial starting arrays for this system are still being settled. Use the starting sheet your GM supplies; older Speed entries do not automatically become Skill.
+The five-stat training system uses STR, DEX, END, INT, and Skill. Use these level-1 base attributes and permanent racial modifiers. Only allocated Skill points grant additional SP and TP.
+
+| Race | STR | DEX | END | INT | Skill | Permanent modifiers |
+|---|---:|---:|---:|---:|---:|---|
+| Moontouched | 1 | 7 | 10 | 5 | 2 | END +25% |
+| Bloomkin | 2 | 8 | 1 | 10 | 6 | STR −25%, DEX +25% |
+| Thornguard | 8 | 4 | 10 | 3 | 5 | STR +25% |
+| Tidekin | 5 | 9 | 6 | 5 | 8 | DEX +25% |
+| Duskpaws | 3 | 10 | 4 | 7 | 7 | INT +25% |
+| Naga | 7 | 6 | 8 | 7 | 6 | END +25% |
+| Vren | 8 | 8 | 8 | 5 | 9 | STR +25%, Skill +25% |
+| Corvyn | 3 | 6 | 3 | 8 | 7 | STR −25%, INT +25% |
+| Drider | 8 | 8 | 6 | 5 | 5 | All five +10% |
+| Untouched Serpentari | 7 | 6 | 7 | 9 | 6 | INT +25% |
+| Kharak | 12 | 5 | 10 | 7 | 4 | STR +25%, INT +25% |
+| Kobold | 2 | 8 | 3 | 10 | 7 | STR −25%, DEX +25%, INT +25% |
+| Centaur | 11 | 3 | 8 | 6 | 10 | STR +25%, Skill +25% |
 
 Leshy, Nymbrin, and the developing mining peoples have established worldbuilding but incomplete player statistics. A compelling character concept does not itself supply missing racial numbers or free abilities.
 :::

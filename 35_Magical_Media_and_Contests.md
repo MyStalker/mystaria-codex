@@ -1,5 +1,12 @@
 ## November 25, 2026 — Hex medical threshold precedence
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+
 See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for the latest Hex medical ruling: Hexed I/II at 1×/2× effective status threshold, acute sickness at 4×, coma at 8×; isolated exposure below 0.5× generally exempt from chronic bookkeeping except recurrent near-limit exposure. Coma recovery/transformation/fatality and treatment are governed by that reference. Older 4× Hexed II thresholds are superseded for the current HP/d20 game; preserve frozen historical rules.
 
 ## November 24, 2026 — AUTHOR CLARIFICATION: Freeze potency and expanded Wakecraft test scope

@@ -1,5 +1,12 @@
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+Current HP/d20 starting racial arrays and Skill conversion are approved in [Races](02_Races.md), superseding previous unresolved SPD migration. Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) and [Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Mastercraft requires matching relevant tiers (collaboration allowed); does not increase potion Quality. Alchemical fabrication requires the caster personally know the relevant manufacturing Craft(s); coached untrained casting is not permitted. Approved working construction Power references L1/10/25/50/75/100; large multi-tile projects additionally need Magnitude and spell radius. Absolute Power and VI statistics remain open.
 
 ## November 26, 2026 — AUTHOR APPROVED: Mastercraft, technological weapon parity and alchemical fabrication

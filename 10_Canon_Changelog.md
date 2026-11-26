@@ -1,5 +1,16 @@
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+The author approves removal of the historical universal +10 from Hero starting bases before racial modifiers, and direct transfer of rebased SPD and its racial modifier to Skill, except Moontouched. Moontouched transfer eight points from Skill to END, using maximum ordinary starting base END 10, and move the former +25% SPD modifier to END. Only allocated Skill points grant additional SP/TP under existing training rules. Monster attributes may reach −10; Hero minimum 1 remains. Preserve all racial abilities and historical fixtures. This current table supersedes earlier +10 and SPD tables for HP/d20.
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+Owners: 02_Races.md, 01_World_and_Shimmer.md, 06_Drakyn.md, 04_Warlock_Manacraft.md, 35_Magical_Media_and_Contests.md and player guides.
+
+
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) and [Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Mastercraft requires matching relevant tiers (collaboration allowed); does not increase potion Quality. Alchemical fabrication requires the caster personally know the relevant manufacturing Craft(s); coached untrained casting is not permitted. Approved working construction Power references L1/10/25/50/75/100; large multi-tile projects additionally need Magnitude and spell radius. Absolute Power and VI statistics remain open.
 
 ## November 26, 2026 — AUTHOR APPROVED: Mastercraft, technological weapon parity and alchemical fabrication

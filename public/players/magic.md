@@ -42,7 +42,7 @@ A large reserve does not automatically allow a large one-action spell. An implem
 
 ## MP and recovery
 
-For ordinarily mana-generating characters, natural MP uses effective END under the actual affinity and Soul Strain rules. **Moontouched and Drakyn have no natural MP**. Warlocks require real external sources rather than recovering a natural pool through sleep.
+Natural maximum MP uses the applicable racial capacity and Soul Strain rules, including the +10 capacity compensation. **Drakyn have a natural maximum MP but restore it only by consuming Starspawn, not by resting. Moontouched have zero natural usable MP**, but receive the +10 compensation for Soul Strain calculations only. Warlocks require actual external mana sources.
 
 Stored industrial fuel, a caster's reserve, a Leywell, biological Vital Essence, and dietary managmins are different resources. [Mana generation and waste](/economy/mana/) explains the wider world economy.
 

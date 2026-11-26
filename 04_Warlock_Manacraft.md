@@ -1,5 +1,12 @@
 ## November 20, 2026 — Tiered mana potion current divine-Gem tariffs (AUTHOR APPROVED)
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+
 Mana restoration and Toxicity are **mechanically unchanged**, but the current single-drink Tier I–V Gem prices are **20 / 60 / 1,000 / 8,000 / 25,000** for the approved **5 / 10 / 20 / 40 / 80 MP** restoration amounts; the comparable daily-refillable one-dose item prices are **200 / 600 / 10,000 / 80,000 / 250,000 Gems**. Each additional daily charge increases the refillable's base price by 50% as before. This is solely a repricing consistent with current [Gem catalogue](37_Gem_Price_Catalogue.md), not a modification of MP, action economy, Soul Strain, potion manufacture, Warlock eligibility, toxicity thresholds or rest rules. Earlier 6/12/24/48/96 prices and W100=3,200 are historical superseded economic numbers. Historical Mana Dew/healing-vial goods remain NOT LIVE pending effect reconciliation.
 
 ---

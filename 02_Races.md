@@ -1,5 +1,30 @@
 ## November 24, 2026 — AUTHOR APPROVED: distance-based freight, parrotfolk flight and five-color Vital Essence
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+The author approves removal of the historical universal +10 from Hero starting bases before racial modifiers, and direct transfer of rebased SPD and its racial modifier to Skill, except Moontouched. Moontouched transfer eight points from Skill to END, using maximum ordinary starting base END 10, and move the former +25% SPD modifier to END. Only allocated Skill points grant additional SP/TP under existing training rules. Monster attributes may reach −10; Hero minimum 1 remains. Preserve all racial abilities and historical fixtures. This current table supersedes earlier +10 and SPD tables for HP/d20.
+
+| Race | STR | DEX | END | INT | Skill | Permanent modifiers |
+|---|---:|---:|---:|---:|---:|---|
+| Moontouched | 1 | 7 | 10 | 5 | 2 | END +25% |
+| Bloomkin | 2 | 8 | 1 | 10 | 6 | STR −25%, DEX +25% |
+| Thornguard | 8 | 4 | 10 | 3 | 5 | STR +25% |
+| Tidekin | 5 | 9 | 6 | 5 | 8 | DEX +25% |
+| Duskpaws | 3 | 10 | 4 | 7 | 7 | INT +25% |
+| Naga | 7 | 6 | 8 | 7 | 6 | END +25% |
+| Vren | 8 | 8 | 8 | 5 | 9 | STR +25%, Skill +25% |
+| Corvyn | 3 | 6 | 3 | 8 | 7 | STR −25%, INT +25% |
+| Drider | 8 | 8 | 6 | 5 | 5 | All five +10% |
+| Untouched Serpentari | 7 | 6 | 7 | 9 | 6 | INT +25% |
+| Kharak | 12 | 5 | 10 | 7 | 4 | STR +25%, INT +25% |
+| Kobold | 2 | 8 | 3 | 10 | 7 | STR −25%, DEX +25%, INT +25% |
+| Centaur | 11 | 3 | 8 | 6 | 10 | STR +25%, Skill +25% |
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+
 Adopt working freight rates (silver accounting units/tonne-km; travel km/day): ordinary Worldcoil 0.04/30, accelerated Worldcoil 0.06/150, overland caravan 0.35/30, Skyvein bulk airship 0.50/100. Supersedes flat 1 silver/tonne/journey as general calibration. Rates and speeds are provisional, explicitly revisit with construction, machinery, vessel and security costs; no universal tariff or performance ceiling. Courier rates unresolved. Gross cargo density 5,000 MP/tonne is an illustrative sensitivity input, not fixed container specification. Ordinary refined fuel retains 30-day half-life; delivered cost per surviving MP includes freight and elapsed decay.
 
 Parrotfolk average favorable-wind, mana-efficient flight about 150 mph (~241 km/h), carrying approximately what an ordinary person can carry; no fixed payload mass, flight endurance, combat movement, or mana cost implied. Wind manipulation is central to most sky barge sailing and also usable on water vessels. Wind-assisted water barges are an intermediate technology, generally inferior to full engines or manufactured accelerated currents, analogous to intermediate magical mine haulage. Exceptional premium blimps with legendary parrotfolk helmsmen may exceed ordinary freight norms, with costly specialist services; exact performance open.

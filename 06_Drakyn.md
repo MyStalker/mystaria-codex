@@ -1,5 +1,10 @@
 # Mystaria — Drakyn: Origins, Biology, Sorcery and Wyrmcraft
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+
 **Authority:** CANON. **Approved:** 2026-11-03, including the name *Drakyn* and the revised race as a whole.  
 **Terminology:** *Drakyn* is both singular and plural; *dragon* is the common descriptive word. **Primary source basis:** the approved Drakyn development conversation and its standalone `Drakyn_Player_Field_Guide.html`. Sorcery prices cross-reference `03_Sorcery.md`.
 

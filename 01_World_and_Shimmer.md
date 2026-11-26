@@ -1,5 +1,16 @@
 ## November 24, 2026 — AUTHOR APPROVED: staple crop economic calibration
 
+## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
+
+The author approves removal of the historical universal +10 from Hero starting bases before racial modifiers, and direct transfer of rebased SPD and its racial modifier to Skill, except Moontouched. Moontouched transfer eight points from Skill to END, using maximum ordinary starting base END 10, and move the former +25% SPD modifier to END. Only allocated Skill points grant additional SP/TP under existing training rules. Monster attributes may reach −10; Hero minimum 1 remains. Preserve all racial abilities and historical fixtures. This current table supersedes earlier +10 and SPD tables for HP/d20.
+
+See the consolidated current thirteen-race table in `02_Races.md`.
+
+Natural maximum MP and regeneration are distinct. Apply the approved +10 natural-MP compensation to the existing racial capacity calculation, preserving racial capacity modifiers and Soul Strain. Drakyn have a natural maximum MP capacity but restore it only by consuming Starspawn, never by resting; retain single-color replacement and feeding restrictions. Moontouched natural usable MP is hard-capped at zero; include the +10 compensation in their Soul Strain accounting only, without granting spendable MP. Exact ordering of the compensation relative to racial capacity multipliers remains a calibration question.
+
+Small compensating increases to Channel Limit and noncombat attribute benchmarks are author-directed; exact numerical implementation remains proposed pending calibration. Starter-equipment accessibility audit required; do not automatically lower every gate or grant heavy weapons.
+
+
 Working reference farmgate Rosewheat quotes (silver/kg, full paid labor, 10% business contingency and 20% markup): traditional 1.166 at 3 t/worker-year (2250 labor +400 nonlabor annual per worker); prosperous smallholding 0.440 at 12t (3000+1000); commercial 0.275 at 24t (3500+1500); industrial ~0.093 at 90t (approved plantation budget); exceptional ~0.083 at 120t (4500+3000). Not universal market prices or subsistence cash wages. Flour recovery 85% by mass, milling/packaging 0.025 silver/kg flour, wholesale 10% and retail 25% markups; reference industrial flour retail ~0.19/kg with 100km ordinary Worldcoil freight. Bran revenue, processing managmin retention and extra charges unresolved.
 
 Emberbeans: advanced annual yield 1800 kg/acre, production cost/acre 115% of Rosewheat, dry density 3200 managmins/kg, cleaning recovery 95%; preserve approved Red33 White15 Green25 Blue12 Black15%. Industrial farmgate ~0.178/kg, processed wholesale ~0.227, reference retail ~0.28 (rounded from 0.284). Cindercorn: advanced annual yield 2400 kg/acre, production cost/acre 90% of Rosewheat under suitable conditions, dry density 3400 managmins/kg, White15 Green10 Blue5 Black30 Red40%. Industrial farmgate ~0.105/kg, illustrative dry grain retail near source ~0.17, accessible regional market ~0.20, 500km overland ~0.43; rounded provisional quotes, security and actual processing costs subject to reconciliation. Preserve established food identities, annual yields, managmin-only nutrition and unresolved dietary needs.
