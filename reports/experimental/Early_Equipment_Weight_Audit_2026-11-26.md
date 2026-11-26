@@ -98,3 +98,8 @@ Total 31,395 deterministic checks (overlapping scenario groups, not unique build
 ## Starter package boundary
 
 Existing grant: one eligible Junk QI Boughsteel weapon and one Junk QI Boughsteel armor ensemble, ordinary Light, qualified Medium at GM discretion, not Heavy. No free shield or Gems. 30 Gems is reference equipment wealth, not a shopping purse; 50-Gem Junk implement price does not prove it is granted. Preserve availability, body fit and actual Craft rules. No finalized item prices changed. Ranged ammunition and implement access through grant need separate confirmation. Legal one-handed arming sword + shield capacity is a separate loadout check, not a free starter bundle. Heavy armor excluded from normal starting grant even if it fits. Full armor coverage, individual material and Quality Weight, exact Honed discount, Grip exceptions, special ranged conversions and actual item cards remain open.
+
+
+## Subsequent author correction, November 26, 2026
+
+Current Quality increases Weight and applicable Handling. Honed does not reduce Weight. Deflection replaces ordinary armor Weight with an equal DEX Handling requirement; the earlier 75% Weight and fixed shared DEX ladder are superseded for Deflection. Armor coverage subdivisions suspended. Original checks above remain historical and do not establish corrected eligibility beyond tested inputs.

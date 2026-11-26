@@ -1,3 +1,5 @@
+<!-- Current equipment correction: armor coverage subdivision is suspended; Quality increases Weight and applicable Handling. See the equipment guide. -->
+
 Choose the person you want to play, then give them the tools to do it. A race shapes your body and heritage; attributes describe your broad capabilities; training develops particular strengths; skills give you things to do.
 
 ## Start with an idea

@@ -11,23 +11,23 @@ A loadout is a set of tradeoffs. Your weapon determines how you threaten an enem
 | **Hands and handling** | Whether you can use it while carrying a shield, implement, or other item, and what requirements you must meet. |
 | **Weight** | How much of your shared equipped budget it occupies. |
 
-Ordinary conventional melee weapons, armor and shields use shared Weight rather than unrelated generic stat gates. Specialized Handling and genuine mechanical constraints still apply. Conventional complete Light/Medium/Heavy armor weighs 6/12/24; shields weigh 4/8/16. A dagger weighs 2, shortsword 5, longsword 8 and greatsword 18 before material adjustments. A refined weapon may require DEX; a heavy weapon may consume much of your loadout capacity. Not every high-tier weapon automatically has the same stat requirements.
+Ordinary conventional melee weapons, armor and shields use shared Weight rather than unrelated generic stat gates. Specialized Handling and genuine mechanical constraints still apply. Early reference Light/Medium/Heavy armor weighs 6/12/24; shields weigh 4/8/16. A dagger weighs 2, shortsword 5, longsword 8 and greatsword 18 before material and Quality adjustments. Higher Quality concentrates mana into equipment, increasing its Weight and applicable Handling. A refined weapon may require DEX; a heavy weapon may consume much of your loadout capacity. Not every high-tier weapon automatically has the same stat requirements.
 
 ::: detail Honed and Hulking weapons
-**Honed** weapons trade striking power for accuracy through careful balance. The developing equipment direction makes them lighter and requires DEX handling.
+**Honed** weapons trade striking power for accuracy through careful balance. They retain the Weight of equivalent conventional weapons and require applicable DEX Handling.
 
 **Hulking** weapons are heavier and emphasize very large blows. Their working design increases the STR-derived damage contribution and constrains accuracy. They do not have a universal STR entry gate: an END-focused fighter may carry a heavy weapon by forgoing armor.
 
-Honed weapons and Deflection armor require effective DEX 6/18/32/46/60 at Quality I–V respectively. Junk cannot have these specialties. Hulking Weight is 150% of ordinary Weight; Deflection armor Weight is 75%. Honed's exact Weight reduction and remaining numerical tradeoffs are still being settled. Choose the finished item profile supplied by your GM.
+Honed weapons use the working effective DEX Handling ladder 6/18/32/46/60 at Quality I–V. Junk cannot have these specialties. Hulking Weight is 150% of ordinary Weight. Deflection armor replaces its conventional Weight with an equal DEX Handling requirement; it consumes no armor Weight. Exact Quality Weight progression is being reconciled. Choose the finished item profile supplied by your GM.
 :::
 
 ## Armor
 
-Armor Rating reduces eligible incoming physical damage after penetration. Better protection costs Weight and must actually cover the part struck. An exposed body part and a protected gap are different targets.
+Armor Rating reduces eligible incoming physical damage after penetration. Better conventional protection costs Weight. Use a single armor ensemble of the chosen class; the old Partial/Standard/Full coverage and armor hit-location rules are suspended for current play.
 
 Light, Medium, and Heavy identify protection choices. They are not automatic character-level restrictions. Your actual Weight budget, handling, availability, and item profile determine what you can equip.
 
-**Deflection armor** trades some equipment Armor Rating for Evasion. It retains half its equipment-derived AR and adds +1/+2/+3 Evasion for Light/Medium/Heavy. Armor training still contributes its full benefit. Check the actual Weight and DEX handling of the chosen item.
+**Deflection armor** trades some equipment Armor Rating for Evasion. It retains half its equipment-derived AR and adds +1/+2/+3 Evasion for Light/Medium/Heavy. Armor training still contributes its full benefit. Its Handling equals the Weight of the corresponding conventional armor; the armor itself costs no Weight.
 
 ## Weight and handling
 
@@ -43,13 +43,13 @@ Active defensive maneuvers require appropriate preparation. Declare the defense 
 
 ## Quality, material, and enchantment
 
-**Quality** describes physical construction. **Material** gives properties and limitations. **Enchantment** adds an eligible magical enhancement or effect. They are separate choices.
+**Quality** describes supernatural craftsmanship; mana density increases Weight and applicable Handling. **Material** gives properties and limitations. **Enchantment** adds an eligible magical enhancement or effect. They are separate choices.
 
 Compare [the materials](/reference/materials/) to understand why light Trufula, heavy Adamantite, brittle Nullporcelain, or resilient Boughsteel solve different problems. Then read [how enchantments work](/learn/enchantments/) before spending on magical gear.
 
 ## Before you buy
 
-Check the finished profile, total equipped Weight, handling, hands, actual coverage, and price. For magical gear also check eligible slots, installed effects, compatible Leywell mana, and any Soul Strain. An incomplete installation specification is a question for your GM, not permission to assume it works.
+Check the finished profile, total equipped Weight, handling, hands, and price. For magical gear also check eligible slots, installed effects, compatible Leywell mana, and any Soul Strain. An incomplete installation specification is a question for your GM, not permission to assume it works.
 
 
 ## Imperial gadgets and augmentations

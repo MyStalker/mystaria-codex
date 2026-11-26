@@ -1,4 +1,4 @@
-# Material and Quality Weight conversion — PROPOSAL, November 26, 2026
+# Material and Quality Weight conversion — HISTORICAL PROPOSAL, November 26, 2026
 
 Not approved. Baseline equipment and specialty Handling are now approved in 09, 25, 27 and 29. This report does not change those rules or historical engines.
 
@@ -29,3 +29,8 @@ Retain historical armor burden ratios Partial/Standard/Full 0.6/0.8/1 as propose
 Recommended Quality I–V and Junk Weight multiplier 1 for same construction/shape; actual independently heavier design can differ. Mastercraft bonus Quality does not increase wielding requirements: evaluate Quality-specific Handling at underlying construction Quality for bonus-only Mastercraft (proposed explicit interpretation, no change to ordinary quality ladder). No automatic Quality-linked increase in mass, no universal Quality-based Weight discount. Preserve approved Quality requirement relief for genuine mechanical requirements where already specified, and do not apply to already-tiered Honed/Deflection ladder.
 
 High-level concern: constant baseline Weight can become negligible as STR/END grow. Alternative experimental heavier equipment design scale 1/2/3/4.5/6, not automatic Quality factor or level gate. QV-sized Heavy Hulking maul (24 x 1.5 x 6) Weight 216 is near historical experimental tier-100 Weight 210. These are design stress references only: separate rating/benefit and tiered loadout audit required before adoption. Do not infer ordinary QV dagger becomes six times heavier. No new simulations or final high-level design scales approved.
+
+
+## Author correction, November 26, 2026
+
+Quality increases Weight and applicable Handling through supernatural mana density; the Quality-independent Weight recommendation and additional design-grade ladder are rejected. Honed Weight equals conventional Weight; Deflection converts ordinary armor Weight into equal DEX Handling with no armor Weight. Partial/Standard/Full coverage suspended. Material factors remain proposals unless separately approved. See current Equipment and Economy.
