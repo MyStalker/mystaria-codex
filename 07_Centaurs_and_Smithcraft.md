@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Windling Sonic condition
+
+Windlings are capable of applying Sonic buildup through legal combined commands/attacks. Preserve the established four Windlings per CP and no independent attack per construct. Sonic status (1× two PP; 2× one-turn Stun and Deafened until magical healing, immune to further Sonic condition while deafened) follows [unified status rules](35_Magical_Media_and_Contests.md). Bellcopper resonance, counter-resonance and existing sonic identities remain; no new armor values, free sonic output, Windling damage/buildup rates or attack profiles are implied. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for acoustic technology and remaining calibration.
+
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) and [Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md). Mastercraft requires matching relevant tiers (collaboration allowed); does not increase potion Quality. Alchemical fabrication requires the caster personally know the relevant manufacturing Craft(s); coached untrained casting is not permitted. Approved working construction Power references L1/10/25/50/75/100; large multi-tile projects additionally need Magnitude and spell radius. Absolute Power and VI statistics remain open.

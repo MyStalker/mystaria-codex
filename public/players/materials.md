@@ -7,7 +7,7 @@ Material is a practical choice, not a ladder where every exotic substance is uni
 | **Boughsteel** | Reliable, enchantment-friendly high-grade carbon steel. | No extraordinary property that solves every threat. |
 | **Trufula** | Extremely light, physically tough cultivated wood. | Extremely flammable; slow cultivation uses green-rich Beanstock juice. |
 | **Adamantite** | Exceptionally strong, dense natural metal for protection and high-stress components. | Its great weight makes full-sized arms demanding to use. |
-| **Nullporcelain / Nullporc** | Mana-nonconductive ceramic for magical protection and extreme-energy infrastructure. | Brittle and poor at flexing; mundane physical threats remain important. |
+| **Nullporcelain / Nullporc** | Mana-nonconductive ceramic for magical protection and extreme-energy infrastructure. | Brittle and poor at flexing; mundane physical threats remain important. Complete insulation blocks wireless Cipherlight and Prismind hopping; an actual fiber-optic cable can provide a route through it. |
 | **Skyvein** | Negative-weight living alloy of Pazara and aluminium. | Inertia remains; Vital Essence nourishment and stability matter. |
 | **Reprise Bronze** | Shape-memory alloy with prepared alternative forms. | The forms must be designed beforehand. |
 | **Oathsilver** | Stable long-term attunement and enchantment work. | Attunement and strain still follow their actual rules. |

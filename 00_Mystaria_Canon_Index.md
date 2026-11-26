@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: insulated communications, Prismind stealth, holography and sonic status
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for insulated and fiber-optic control, instant cabled Prismind transfer, stealth penalty/detection, solid-material hopping attenuation, Line of Light terminology and holographic projection. [Status rules](35_Magical_Media_and_Contests.md): Sonic physical damage/status, 1× two Pressure Points, 2× one-turn Stun and persistent Deafened until magical healing with condition immunity. [Anvilcant](07_Centaurs_and_Smithcraft.md): Windling Sonic eligibility. Detailed acoustics, noise cancellation and sensors remain next; costs and final equipment stats open.
+
 ## November 26, 2026 — AUTHOR APPROVED: Transmission, Rainbow geometry and Prismind transit
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Range/Throughput, size and Quality scaling, directional ×20 curved Rainbow paths beyond horizon, relay networks, transmission submodules/colors, and Prismind Receiver-range transit, failed infiltration return chain and exposed mana-form survival (tier ×5 minutes). [Imperial Gazetteer](18_The_Gilded_Coil_Imperial_Gazetteer.md) distinguishes visible directional arcs from atmospheric network Rainbows. Absolute costs, timing/detection details and exact beam geometry remain open; Sensors next. [Player disciplines guide](public/players/disciplines.md).
