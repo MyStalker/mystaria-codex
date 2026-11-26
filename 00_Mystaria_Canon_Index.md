@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Prismind education, fusion and infiltration
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Caged/Rogue NPC distinction, neural-interface education and inherited Integration, noncombat IV/V INT 100/200, exponential fusion/assimilation (1/4/16/64/256; contributors at least two tiers lower), and opposed hacking with 30-foot Prismind range, +10 counterplay and three-round nonstacking sabotage. Ciphergeist denotes dangerous rogue intelligence, not every uncaged Prismind. Exact hacking math, seizure, fusion implementation and general Orb ratings remain open. Player guide: [disciplines](public/players/disciplines.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
 
 See racial and benchmark rules in `01_World_and_Shimmer.md`, channel rules in `35_Magical_Media_and_Contests.md`, and compensated combat/Weight in `22_Combat_Endurance_and_Shimmer_Guard.md`. Latest author approval supersedes earlier pending numerical compensation notes.
