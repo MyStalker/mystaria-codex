@@ -1,3 +1,7 @@
+## November 25, 2026 — AUTHOR APPROVED: Integration efficiency and prepared materials
+
+See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md). Living Anima can extract greater useful magical effect per MP than automated mechanisms; Integration is the operator-dependent efficiency middle ground bounded by hardware. No separate harmonization mechanic or personalized fuel. Preserve consistent MP and industrial efficiency benchmarks. Orbcraft can fabricate with suitable prepared exotic stock purchased or salvaged in actual quantities; refining ore and manufacturing alloys remain qualified Anvilcant capabilities, with Wetcraft enabling lawful interdisciplinary extraction/preparation under equivalent exchange and existing restrictions. No new recipe or waiver of material requirements.
+
 ## November 24, 2026 — AUTHOR APPROVED: mobile Leydrains and Dreamcatcher infrastructure
 
 Small machine Dreamcatchers are attached to Leywells; larger factory and municipal collectors are built into foundations or subterranean infrastructure. Retrofitting existing cities can require Dirtmole Earthcraft excavation and Centaur engineering. Portable factory-scale collection is integrated into a vessel's structural hull or comparable enclosure; successive interception layers require meaningful larger-scale infrastructure, not arbitrary stacking of small collectors. The established average 50% capture per successive functioning layer remains unchanged.
