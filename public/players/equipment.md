@@ -31,7 +31,7 @@ Light, Medium, and Heavy identify protection choices. They are not automatic cha
 
 ## Weight and handling
 
-**Shared equipped capacity = floor(effective STR + effective END).** Count the complete equipped loadout together. Carrying armor, a weapon, a shield, and a second implement all compete for that capacity.
+**Shared equipped capacity = max(0, floor(20 + effective STR + effective END)).** Count the complete equipped loadout together. Carrying armor, a weapon, a shield, and a second implement all compete for that capacity.
 
 Weight is not the only requirement. Apply the item's actual handling and anatomical requirements as well. Missing catalogue values require a GM-provided profile; they are not zero by default.
 

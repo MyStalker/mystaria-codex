@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+Apply the +10 compensation to ordinary natural capacity before existing racial capacity multipliers, retaining Soul Strain and affinity rules. Moontouched usable natural MP remains hard-capped at zero, but the +10 is included in Soul Strain capacity accounting. Drakyn have a natural maximum MP and recover only by consuming Starspawn, never by resting.
+
 # Mystaria — Drakyn: Origins, Biology, Sorcery and Wyrmcraft
 
 ## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction

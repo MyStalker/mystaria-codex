@@ -1,3 +1,9 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+See racial and benchmark rules in `01_World_and_Shimmer.md`, channel rules in `35_Magical_Media_and_Contests.md`, and compensated combat/Weight in `22_Combat_Endurance_and_Shimmer_Guard.md`. Latest author approval supersedes earlier pending numerical compensation notes.
+
+Deterministic melee gate audit (not a new equipment approval): 13 playable races × 31 shapes × levels 1/5/10 × four policies = 4,836 comparisons. QI Boughsteel, no equipment bonuses; later levels allocate all earned points evenly to STR/DEX and apply five-level increments. Existing gate pass totals 80/194/271 of 403 per level; subtract 10 from each gate, minimum 1: 262/321/361; remove Light gates after rebase: identical; remove ordinary Light/Medium gates after rebase: 272/321/361. Existing level-1 gates exclude Moontouched, Bloomkin, Corvyn, Kobold from every melee profile. Rebased gates permit all 13 races all eight Light shapes. Weight-first is recommended, not yet approved; actual individual HP/d20 Weight catalogue, Honed early requirements, armor and shield loadout profiles remain unresolved. No combat trials. Named shortsword lacks independent final profile. No automatic permission for Heavy equipment.
+
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
 ## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction

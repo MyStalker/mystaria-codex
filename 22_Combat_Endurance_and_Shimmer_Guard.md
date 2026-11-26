@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+Approved HP/d20 rebase compensation: natural HP max(1,floor(115 + marginal END)), marginal bands 4 per point through 50, 3.5 through 100, 3 above, extending the first band linearly to −10. Conventional STR-derived contribution 10 + marginal STR (1 through 50, 1.5 through 100, 2 above; extend to −10), Hulking doubles that contribution, and INT-derived magical contribution uses the same marginal curve plus 10. Preserve other damage sources and final nonnegative damage. Shared equipped capacity max(0,floor(20+effective STR+effective END)). Accuracy/evasion formulas unchanged. Retain existing training, racial exceptions and Shimmer rules. Historical engines unchanged.
+
 ## November 25, 2026 — Hex medical threshold precedence
 
 See [Wetcraft and Hexen canon](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) for the latest Hex medical ruling: Hexed I/II at 1×/2× effective status threshold, acute sickness at 4×, coma at 8×; isolated exposure below 0.5× generally exempt from chronic bookkeeping except recurrent near-limit exposure. Coma recovery/transformation/fatality and treatment are governed by that reference. Older 4× Hexed II thresholds are superseded for the current HP/d20 game; preserve frozen historical rules.

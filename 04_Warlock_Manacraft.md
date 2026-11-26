@@ -1,3 +1,9 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+Apply the +10 compensation to ordinary natural capacity before existing racial capacity multipliers, retaining Soul Strain and affinity rules. Moontouched usable natural MP remains hard-capped at zero, but the +10 is included in Soul Strain capacity accounting. Drakyn have a natural maximum MP and recover only by consuming Starspawn, never by resting.
+
+For the developing HP/d20 modular Channel Limit, use floor(1 + governing effective attribute/10 + applicable Craft Mastery), preserving existing Craft-specific modifiers, nominal investment, action and resource constraints. Warlocks retain INT or END governing choice and half ordinary throughput; apply the +1 compensation before the specialty multiplier, with final downward rounding. This approval does not resolve unspecified Mastery accrual.
+
 ## November 20, 2026 — Tiered mana potion current divine-Gem tariffs (AUTHOR APPROVED)
 
 ## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction

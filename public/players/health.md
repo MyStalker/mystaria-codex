@@ -6,7 +6,7 @@ Natural ordinary HP starts at **75**, then adds the contribution from effective 
 
 {{table:health-curve}}
 
-Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **310 natural HP** after adding the base 75. END 120 contributes 200 + 175 + 60, giving **510 natural HP**. These are examples before health training or other lawful HP modifiers.
+Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **310 natural HP** after adding the base 115. END 120 contributes 200 + 1115 + 60, giving **510 natural HP**. These are examples before health training or other lawful HP modifiers.
 
 ## Increasing your health
 

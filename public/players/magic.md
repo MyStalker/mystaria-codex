@@ -42,7 +42,7 @@ A large reserve does not automatically allow a large one-action spell. An implem
 
 ## MP and recovery
 
-Natural maximum MP uses the applicable racial capacity and Soul Strain rules, including the +10 capacity compensation. **Drakyn have a natural maximum MP but restore it only by consuming Starspawn, not by resting. Moontouched have zero natural usable MP**, but receive the +10 compensation for Soul Strain calculations only. Warlocks require actual external mana sources.
+Natural maximum MP uses the applicable racial capacity and Soul Strain rules, including the +10 capacity compensation before racial capacity multipliers. **Drakyn have a natural maximum MP but restore it only by consuming Starspawn, not by resting. Moontouched have zero natural usable MP**, but receive the +10 compensation for Soul Strain calculations only. Warlocks require actual external mana sources.
 
 Stored industrial fuel, a caster's reserve, a Leywell, biological Vital Essence, and dietary managmins are different resources. [Mana generation and waste](/economy/mana/) explains the wider world economy.
 
@@ -57,3 +57,6 @@ An implement may contribute its own potency. A medium is the real substance or e
 Rituals allow larger workings over longer periods, with actual mana supplied during the work. A leader's learned capabilities and channel limits determine the spell; allies contribute real resources rather than granting arbitrary new ranks. Cooperation and long rituals can lose substantial energy to entropy.
 
 An interrupted ritual fails rather than becoming an instant partial-strength attack. Permanent workings and their Soul Strain follow their own rules. Ask your GM about an exact ritual before committing resources to it.
+
+
+The full Channel Limit uses floor(1 + governing effective attribute/10 + applicable Craft Mastery), subject to Craft-specific exceptions. Warlocks use INT or END and half ordinary throughput, with the compensation before the specialty multiplier. Mastery accrual details still require a GM value.

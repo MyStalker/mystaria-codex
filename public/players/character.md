@@ -82,3 +82,8 @@ Your first session needs a playable person with a few dependable choices. You ca
 ## Learn your first turn
 
 Read [combat at the table](/learn/combat/) for the two-action turn, attacking, pressure, and preparation. Keep [health and defense](/learn/health/) nearby for damage, Shimmer, and recovery.
+
+
+## Practical strength
+
+A reference one-time waist-height lift in pounds is 100 × (max(0, effective STR + 10)/15)². Actual grip, leverage and anatomy matter.

@@ -1,3 +1,9 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+Apply the +10 compensation to ordinary natural capacity before existing racial capacity multipliers, retaining Soul Strain and affinity rules. Moontouched usable natural MP remains hard-capped at zero, but the +10 is included in Soul Strain capacity accounting. Drakyn have a natural maximum MP and recover only by consuming Starspawn, never by resting.
+
+For the practical noncombat waist-height lift benchmark, pounds = 100 × (max(0,effective STR+10)/15)^2. Restore the removed offset in other legacy noncombat benchmarks dependent on that old scale, not in separately compensated combat equations; exact other benchmark conversions remain open.
+
 ## November 24, 2026 — AUTHOR APPROVED: distance-based freight, parrotfolk flight and five-color Vital Essence
 
 ## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction

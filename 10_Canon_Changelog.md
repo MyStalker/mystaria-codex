@@ -1,3 +1,15 @@
+## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
+
+Apply the +10 compensation to ordinary natural capacity before existing racial capacity multipliers, retaining Soul Strain and affinity rules. Moontouched usable natural MP remains hard-capped at zero, but the +10 is included in Soul Strain capacity accounting. Drakyn have a natural maximum MP and recover only by consuming Starspawn, never by resting.
+
+For the developing HP/d20 modular Channel Limit, use floor(1 + governing effective attribute/10 + applicable Craft Mastery), preserving existing Craft-specific modifiers, nominal investment, action and resource constraints. Warlocks retain INT or END governing choice and half ordinary throughput; apply the +1 compensation before the specialty multiplier, with final downward rounding. This approval does not resolve unspecified Mastery accrual.
+
+For the practical noncombat waist-height lift benchmark, pounds = 100 × (max(0,effective STR+10)/15)^2. Restore the removed offset in other legacy noncombat benchmarks dependent on that old scale, not in separately compensated combat equations; exact other benchmark conversions remain open.
+
+Approved HP/d20 rebase compensation: natural HP max(1,floor(115 + marginal END)), marginal bands 4 per point through 50, 3.5 through 100, 3 above, extending the first band linearly to −10. Conventional STR-derived contribution 10 + marginal STR (1 through 50, 1.5 through 100, 2 above; extend to −10), Hulking doubles that contribution, and INT-derived magical contribution uses the same marginal curve plus 10. Preserve other damage sources and final nonnegative damage. Shared equipped capacity max(0,floor(20+effective STR+effective END)). Accuracy/evasion formulas unchanged. Retain existing training, racial exceptions and Shimmer rules. Historical engines unchanged.
+
+Deterministic melee gate audit (not a new equipment approval): 13 playable races × 31 shapes × levels 1/5/10 × four policies = 4,836 comparisons. QI Boughsteel, no equipment bonuses; later levels allocate all earned points evenly to STR/DEX and apply five-level increments. Existing gate pass totals 80/194/271 of 403 per level; subtract 10 from each gate, minimum 1: 262/321/361; remove Light gates after rebase: identical; remove ordinary Light/Medium gates after rebase: 272/321/361. Existing level-1 gates exclude Moontouched, Bloomkin, Corvyn, Kobold from every melee profile. Rebased gates permit all 13 races all eight Light shapes. Weight-first is recommended, not yet approved; actual individual HP/d20 Weight catalogue, Honed early requirements, armor and shield loadout profiles remain unresolved. No combat trials. Named shortsword lacks independent final profile. No automatic permission for Heavy equipment.
+
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
 ## November 26, 2026 — AUTHOR APPROVED: racial attribute migration and mana correction
