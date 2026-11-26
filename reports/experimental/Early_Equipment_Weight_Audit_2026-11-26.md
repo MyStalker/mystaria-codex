@@ -1,6 +1,6 @@
 # Early equipment accessibility — November 26, 2026 (PROPOSAL / deterministic research)
 
-**Not canon.** The level-one 2 stat / 2 SP / 2 TP grant is approved separately (commit e4e9229bd1d66f11f8a699766faacd7a483ba9ec). These item values and conversions are candidates, not replacements for the historical approved profiles. Prior approved independent eligibility direction, END Barbarian access, and provisional Hulking 150% Weight / Deflection 75% Weight are preserved.
+**Historical research snapshot; the author subsequently approved the baseline equipment values, Handling ladder and ordinary ranged conversion.** Current rules live in the owning equipment/melee/ranged/shield references; remaining material, grip and ammo quantity questions are still open. The following preserves the original proposal-stage audit. The level-one 2 stat / 2 SP / 2 TP grant is approved separately (commit e4e9229bd1d66f11f8a699766faacd7a483ba9ec). At the time of this audit, item values and conversions were candidates, not replacements for historical profiles. Prior approved independent eligibility direction, END Barbarian access, and provisional Hulking 150% Weight / Deflection 75% Weight are preserved.
 
 ## Baseline conventional melee candidates
 

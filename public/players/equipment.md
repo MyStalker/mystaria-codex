@@ -11,14 +11,14 @@ A loadout is a set of tradeoffs. Your weapon determines how you threaten an enem
 | **Hands and handling** | Whether you can use it while carrying a shield, implement, or other item, and what requirements you must meet. |
 | **Weight** | How much of your shared equipped budget it occupies. |
 
-Conventional equipment should be evaluated by its actual profile. A refined weapon may require DEX; a heavy weapon may consume much of your loadout capacity. Not every high-tier weapon automatically has the same stat requirements.
+Ordinary conventional melee weapons, armor and shields use shared Weight rather than unrelated generic stat gates. Specialized Handling and genuine mechanical constraints still apply. Conventional complete Light/Medium/Heavy armor weighs 6/12/24; shields weigh 4/8/16. A dagger weighs 2, shortsword 5, longsword 8 and greatsword 18 before material adjustments. A refined weapon may require DEX; a heavy weapon may consume much of your loadout capacity. Not every high-tier weapon automatically has the same stat requirements.
 
 ::: detail Honed and Hulking weapons
 **Honed** weapons trade striking power for accuracy through careful balance. The developing equipment direction makes them lighter and requires DEX handling.
 
 **Hulking** weapons are heavier and emphasize very large blows. Their working design increases the STR-derived damage contribution and constrains accuracy. They do not have a universal STR entry gate: an END-focused fighter may carry a heavy weapon by forgoing armor.
 
-Their complete profiles, intermediate progression, and numerical tradeoffs are still being settled. Choose the finished item profile supplied by your GM.
+Honed weapons and Deflection armor require effective DEX 6/18/32/46/60 at Quality I–V respectively. Junk cannot have these specialties. Hulking Weight is 150% of ordinary Weight; Deflection armor Weight is 75%. Honed's exact Weight reduction and remaining numerical tradeoffs are still being settled. Choose the finished item profile supplied by your GM.
 :::
 
 ## Armor

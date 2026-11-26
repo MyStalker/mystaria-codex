@@ -68,6 +68,8 @@ Pick a weapon with a clear job. Check its damage, reach, attack forms, hands, We
 
 Your shared equipped **Weight capacity is max(0, floor(20 + effective STR + effective END))**. Add up the whole equipped loadout before calling it legal. Do not confuse a weapon's independent rating with your personal attributes or training.
 
+A new Hero receives one eligible Junk weapon (or casting implement) and one Junk armor ensemble, normally Light or qualified Medium with GM approval. A ranged starter weapon includes suitable ammunition; agree its quantity with the GM. This is a grant, not a Gem purse or a free shield.
+
 Start with [equipment explained](/learn/equipment/), then [enchantments](/learn/enchantments/) if you are buying magical gear.
 
 ## Finish your sheet
