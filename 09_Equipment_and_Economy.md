@@ -1,5 +1,10 @@
 ## November 24, 2026 — AUTHOR APPROVED: strict Hulking working candidate
 
+## November 26, 2026 — AUTHOR APPROVED: Junk casting implement linear Power
+
+For HP/d20, Junk casting implements contribute **16 independent equipment Power**, i.e. **80% of the proposed neutral Quality I benchmark of 20**, at a **50 Gem** reference price. This supersedes the old generic half-Power treatment specifically for Junk casting implement Power; no change to reduced enchantment potential, other Junk equipment, Craft eligibility, or tuning rules. Quality II–V numerical conversion remains provisional. Evidence: `e759e9d1-788a-4cb7-a53a-a9ffed451202`, 126,000 encounters, seed 20261201; selected candidate warrior win rates 50/42.6/32.3% at levels 1/5/10; level 10 remains below the 35% target. Fixed nominal 2 MP and 30 starting MP, no full Channel Limit/medium/Gem-budget validation.
+
+
 For HP/d20 replacement research, select doubled marginal STR-derived damage (not doubled total attack), retain experimental +25% nominal weapon-derived damage (implemented as +0.7 × WR), remove flat accuracy penalty, cap final physical accuracy at 8 at level 25 and 16 at level 100, retain provisional 150% weapon Weight and no universal STR gate. Intermediate cap progression, item catalogue, wider lethality and counterplay validation remain open. Training may be planned around the cap; no automatic in-play refunds. Evidence: jobs `fa4b18c2-92db-4a62-8b50-048e49dce141` and `fa4b18c2-92db-4a62-8b50-048e49dce142` (78,400 encounters), strict candidate STR/Heavy Barbarian/armored Barbarian win rates 53.9/57.0/63.4% at L25 and 60.1/45.6/59.7% at L100. Builder reinvested capped accuracy ranks; L100 STR raw 1005.2, accuracy 16. Ordinary one-hit lethality against tested generalists is possible; Hero Break and non-Hero validation remain open. This is a selected working replacement candidate, not a finalized catalogue or alteration of historical operative engines.
 
 ---

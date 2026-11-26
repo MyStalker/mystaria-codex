@@ -1,5 +1,10 @@
 ## November 26, 2026 — AUTHOR APPROVED: Codex stability, mana affinity and Hex containment
 
+## November 26, 2026 — AUTHOR APPROVED: Junk casting implement Power
+
+Set Junk implement independent linear equipment Power to **16** (80% of proposed QI 20), reference price **50 Gems**. No extra accuracy. Preserve other Junk penalties and existing tuning. See `09_Equipment_and_Economy.md` and `37_Gem_Price_Catalogue.md`. Tournament `e759e9d1-788a-4cb7-a53a-a9ffed451202` supports the selection; full magical legality and higher Quality progression remain open.
+
+
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) for approved listed MP costs, multicolor Codexes and colored cores, DC10 Stability, mana-loss failures, relative-Quality filtration, safe Cell swaps, exposure and advanced Hex-Cell submodules. Absolute ratings, prices and detailed weaponized delivery remain open.
 
 ## November 26, 2026 — AUTHOR APPROVED: propulsion modules and colored propulsion

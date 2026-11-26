@@ -69,3 +69,9 @@ Orbcraft can fabricate machinery from appropriate prepared exotic stock, includi
 ## Modules, submodules and mounts
 
 A module supplies a capability; a submodule optionally improves it. A gadget performs a complete function; an assembly combines gadgets on a frame (or a suitable host frame). Each integrated gadget uses one Mount, and Fabrication I–V supports 1/2/4/8/16 Mounts. Supporting components do not consume separate Mounts. Recipes allow compatible submodule types, normally one of each per primary module. Shared mana, control and Hex containment are possible, subject to real capacity. Gadgets can use compatible personal mana instead of a Codex, but insufficient filtration can expose the operator immediately. Minimal designs are often weak or inefficient; choose upgrades to suit the job. Magic Mirrors supply visual data. Foundational beams have no color-specific bonus; advanced color effects require matching mana and appropriate research, whose details remain under development.
+
+
+## Starter casting implements
+
+A Junk casting implement contributes **16 equipment Power** to eligible spells and has a reference price of **50 Gems**. This contribution is separate from the caster's own Power. Check Craft compatibility, actual medium, hands, and the finished implement's tuning. Higher-Quality implement profiles remain table questions.
+

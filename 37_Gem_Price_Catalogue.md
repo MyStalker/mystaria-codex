@@ -1,5 +1,10 @@
 # Mystaria — Current Gem Price Catalogue and Encounter Reward Calibration
 
+## November 26, 2026 — Approved Junk casting implement reference
+
+A Junk casting implement costs **50 Gems**, with independent HP/d20 equipment Power **16**. This specific reference does not finalize all higher-Quality implement prices or profiles. Preserve ordinary Craft compatibility and equipment restrictions.
+
+
 **Status: AUTHOR APPROVED, November 20, 2026.** This is the latest operative divine-Gem economic and catalogue repricing, ratified after approval of the escalating **7-to-997 Gems per equal-level Henchman** model and the author’s direction to reprice **all previously priced items, including Junk**. It supersedes contradictory older *Gem numbers*, not mechanical statistics, item identities, properties, racial suitability, shop stock/availability restrictions, Smithcraft requirements, MP, SP, Soul Strain, XP, cooldowns or patron qualification rules. Historical ledgers, archived proposals and retired Moonlit Forge prices are not current shop offers. `09_Equipment_and_Economy.md` retains the full economic doctrines; `01_World_and_Shimmer.md` governs XP and patron rewards.
 
 ## 1. Universal Gem reward schedule
