@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: acoustic engineering and active surveying
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved acoustic modules (QI Acoustic Sensor includes microphone), sonic weapon roles and shared damage budget, acoustic submodules/color research, stealth-bonus/category-based noise cancellation, active ping surveying through walls and noise-cancellation counterplay. Exact cancellation grades, surveying statistics, weapon profiles, recipes and costs remain open; industrial resonance detail deferred. [Player disciplines](public/players/disciplines.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
 
 See [Equipment](09_Equipment_and_Economy.md), [Melee](25_Melee_Weapon_Catalogue_DRAFT.md), [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md), [Shields](29_Physical_Shield_Profiles.md). Ordinary melee/armor/shields use shared Weight rather than unrelated legacy attribute gates. Approved baseline Boughsteel Weight table, armor 6/12/24, shields 4/8/16, implements 2–4; Honed/Deflection DEX 6/18/32/46/60 at QI–V, no Junk specialties; working Hulking ×1.5 and Deflection ×0.75. Ordinary ranged conversions preserve actual draw, cocking and recoil. Starter implement substitution and suitable ranged ammunition approved; quantity open. Material, Quality and coverage Weight, Honed discount and exceptional handling remain open. Historical engines unchanged. See [research](reports/experimental/Early_Equipment_Weight_Audit_2026-11-26.md).
