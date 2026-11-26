@@ -131,3 +131,15 @@ An installed cybernetic system grants passive attribute bonuses from its total Q
 
 Integrated active functions use actual modules, normal mana expenditure, normal Hex generation and ordinary action and Integration rules. A built-in weapon is not a free attack or automatically twice as mana-efficient. Proper containment handles operating waste as with other technology; it is not automatically poured into your body. The interface still produces chronic bodily Hex independently of operation. Exact chronic rates, displacement, anatomical requirements and treatment remain GM questions. Both divine Gems and mundane Silver can fund implants or enchantments through lawful channels. Implant passive bonuses have equal value per point to Blank enchantments before the working 10% surgery surcharge; active modules add their own costs. Exact prices remain open.
 
+
+
+## Masterful integration and machine repair
+
+Your personal Bandwidth is 2 + floor(effective INT / 10), subject to actual machine and connection capabilities. Meeting a machine's Integration requirement grants its full designed output. Exceeding it never raises that output, but actively integrated operation becomes cheaper: at 100%, 200%, 300% and 400% Integration, pay 100%, 75%, 50% and 25% of ordinary MP respectively, interpolated linearly; 25% is the floor. Autonomous operation does not receive this excess-Integration discount. Tool Quality, not a second INT-based proficiency, governs technical tasks alongside applicable knowledge and checks.
+
+Patch a damaged machine with a flux tool, replacement parts and repair time: current structural HP recovers but maximum structural HP decreases. Appropriate green-mana structural healing, or true structural repair by a Nymbrin alchemist capable of making the machine, can restore HP without this penalty. Exact repair rates, costs and time require GM adjudication.
+
+## Integrated machines
+
+A piloted or remotely integrated machine uses your actions and hardware statistics rather than gaining its own character levels or training. High-end automatic combat requires one activation action per machine and is designed for about three rounds at full output; direct operation is more efficient. A Hero shares one Shimmer Guard with an integrated machine, based on the greater of their own ordinary maximum HP or the machine's maximum structural HP, preserving the remaining proportion and broken state. Occupied machines retain protection continuously; remotely operated machines retain it until the end of your next turn after a meaningful command. Unlinked autonomous machines have no Guard. Enclosed machines grant complete cover above half structural HP and improved cover at or below half; an enemy can pry open the hatch with a Technique grapple check as difficult as pinning the machine. Status attacks delivered through an occupied shell use its effective status HP and share applicable conditions with the pilot. Direct attacks against exposed pilots use their personal defenses. Exact cover penalties, damage routing and construction costs remain table questions.
+

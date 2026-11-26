@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: INT specialization and structural repair
+
+A Nymbrin alchemist capable of creating the actual machine can perform true structural repair without the maximum-HP loss of mechanical flux-tool patching. Preserve existing Reshaping, equivalent exchange, compatible materials, lawful knowledge, mana and Hex requirements. Appropriate green structural healing likewise avoids the patch penalty; no blanket free repair or missing-matter creation. Exact repair amounts/time/cost and prior maximum-HP loss restoration remain open. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
 Mastercraft requires matching relevant ordinary manufacturing tiers in Orbcraft and Anvilcant. For example, a technological sword normally requiring Orbcraft III can be Mastercrafted into Quality IV with relevant Anvilcant III supplied by the inventor or a qualified collaborator. The lower relevant qualification bounds the combined base tier; retain +1 Quality up to VI, half incremental next-tier material surcharge, double mundane construction time, and unchanged wielding stat requirements from the bonus. Collaboration remains permitted for conventional Mastercraft. Orbcraft/Anvilcant synergy does not increase potion Quality.
