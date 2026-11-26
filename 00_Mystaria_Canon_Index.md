@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Mastercraft, technological weapon parity and alchemical fabrication
+
+See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md), [Anvilcant](07_Centaurs_and_Smithcraft.md), [Wetcraft](20_Nymbrin_Wetcraft_and_Hexen_Canon.md) and [Equipment](09_Equipment_and_Economy.md). Technological weapons have conventional base parity and may be enchanted. Mastercraft combines Orbcraft and Anvilcant, including collaboration, +1 Quality up to VI; material surcharge is half the incremental next-tier recipe cost (hypothetical QVI reference for base V), double ordinary construction time, no increase to wielding stats from bonus Quality. Gem Shop does not offer cross-Craft Mastercraft upgrades. Qualified alchemical construction replaces mundane fabrication time with spell/ritual completion, subject to materials and legal Power comparable to structural destruction (normal castle wall L50). Exact rank gates, VI statistics, recipe costs and ritual calibration remain open.
+
 ## November 26, 2026 — AUTHOR APPROVED: Codex stability, mana affinity and Hex containment
 
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) for approved listed MP costs, multicolor Codexes and colored cores, DC10 Stability, mana-loss failures, relative-Quality filtration, safe Cell swaps, exposure and advanced Hex-Cell submodules. Absolute ratings, prices and detailed weaponized delivery remain open.
