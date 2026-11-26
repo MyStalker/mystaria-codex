@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: countersensor resolution and colored Codex ordnance
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for effective concealment tier comparison, automatic mechanical sensor defeat when concealment favored, natural perception check bonus, artificial-sense vulnerability, colored Codex ordnance identities and requested colored-ammunition kinetic module development. Numerical check bonuses, ammunition/module catalogue and ordnance profiles open. [Player disciplines](public/players/disciplines.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: sensory modules and countersensor foundations
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for four sensory families, default stored mana quantity readings, shorter mana Range/no through walls, optical and physical enhancements, sensor fusion, holographic light bending/invisibility, Quality- and target-size-dependent countersensors. Exact concealment and equipment calibration open. Codex explosive design requested next; no new explosive profile approved. [Player disciplines](public/players/disciplines.md).
