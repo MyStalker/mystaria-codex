@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: sensory modules and countersensor foundations
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for four sensory families, default stored mana quantity readings, shorter mana Range/no through walls, optical and physical enhancements, sensor fusion, holographic light bending/invisibility, Quality- and target-size-dependent countersensors. Exact concealment and equipment calibration open. Codex explosive design requested next; no new explosive profile approved. [Player disciplines](public/players/disciplines.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: Echosounding, Counterwave grades and Sonic sensor disruption
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for Counterwave +2/+4/+6/+8/+10 and noise classes, Echosounder QI–V handheld 30/60/120/240/480 ft working ranges, qualitative penetration and echo concealment; kinetic constructs sound/echo. [Status](35_Magical_Media_and_Contests.md): Sonic buildup at 0.5× or above temporarily disables user's Acoustic Sensors. Other Sensor families next. Exact calibration and remote routing open.
