@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
+
+Conventional Light/Medium/Heavy shields use baseline Weight **4/8/16**, shared capacity and legal hands/anatomy; no generic unrelated stat gates in HP/d20. Specialized control exceptions and material modifiers remain open; preserve approved shield HP/AR and defense procedures. Historical rules unchanged.
+
 **Current terminology:** Springsteel replaces Thornspring; shield mechanics unchanged.
 
 ## November 22, 2026 — APPROVED HP/D20 PROTOTYPE: SHIELD HP AND ARMOR BENCHMARKS

@@ -1,3 +1,46 @@
+## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
+
+Current HP/d20 ordinary conventional melee weapons, armor and shields use shared equipped Weight capacity max(0,floor(20+effective STR+effective END)), not legacy unrelated STR/DEX gates. Preserve actual grips, anatomy, attack modes and justified individual mechanical restrictions; no universal STR gate for Heavy or Hulking. This supersedes legacy generic melee/armor/shield eligibility for HP/d20 only. Historical engines unchanged. Baseline Weight refers to ordinary Boughsteel reference equipment; material, coverage and Quality Weight conversion remains open. Weight is not pounds. Damage, AR, prices and existing material effects unchanged.
+
+Approved working Honed and Deflection effective DEX by Quality I–V: **6/18/32/46/60**; not character-level gates. Junk cannot have these specialties. Preserve working Hulking ×1.5 Weight, Deflection ×0.75 Weight. Honed is lighter but exact discount remains open. Do not apply another generic Quality discount to this already Quality-specific ladder.
+
+| ID | Shape | Weight |
+|---|---|---:|
+| L-01 | Dagger | 2 |
+| L-02 | Stiletto | 2 |
+| L-03 | Short knife | 2 |
+| L-04 | Cestus / knuckle weapon | 2 |
+| L-05 | Hand axe | 4 |
+| L-06 | Light pick | 3 |
+| L-07 | Short club | 3 |
+| L-08 | Sickle | 3 |
+| M-01 | Arming sword | 6 |
+| M-02 | Longsword | 8 |
+| M-03 | Rapier | 6 |
+| M-04 | Sabre | 6 |
+| M-05 | Falchion | 7 |
+| M-06 | Mace / flanged mace | 6 |
+| M-07 | Warhammer | 7 |
+| M-08 | War pick | 6 |
+| M-09 | Battleaxe | 8 |
+| M-10 | Short spear | 6 |
+| M-11 | Quarterstaff | 6 |
+| H-01 | Greatsword | 18 |
+| H-02 | Zweihander | 22 |
+| H-03 | Greataxe | 20 |
+| H-04 | Maul | 24 |
+| H-05 | Great hammer | 24 |
+| H-06 | Poleaxe | 18 |
+| H-07 | Halberd | 16 |
+| H-08 | Glaive | 14 |
+| H-09 | Pike | 16 |
+| H-10 | Long spear | 12 |
+| H-11 | Lance | 18 |
+| H-12 | Heavy flail | 20 |
+| separate named item | Traveler's Shortsword | 5 |
+
+Traveler's Shortsword Weight 5 approved; no independent WR/damage profile finalized. Specific exceptional grips/control remain open.
+
 **Current terminology:** Springsteel replaces Thornspring.
 
 ## November 16, 2026 — Reach distances and Technique-based movement control APPROVED (LATEST)

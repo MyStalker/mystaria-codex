@@ -1,3 +1,15 @@
+## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
+
+Current HP/d20 ordinary conventional melee weapons, armor and shields use shared equipped Weight capacity max(0,floor(20+effective STR+effective END)), not legacy unrelated STR/DEX gates. Preserve actual grips, anatomy, attack modes and justified individual mechanical restrictions; no universal STR gate for Heavy or Hulking. This supersedes legacy generic melee/armor/shield eligibility for HP/d20 only. Historical engines unchanged. Baseline Weight refers to ordinary Boughsteel reference equipment; material, coverage and Quality Weight conversion remains open. Weight is not pounds. Damage, AR, prices and existing material effects unchanged.
+
+Baseline complete Light/Medium/Heavy armor Weight **6/12/24**, shields **4/8/16**, implements **2–4** by actual profile. Deflection armor **4.5/9/18** before coverage/material. No new shield HP/AR or implement damage assigned.
+
+Approved working Honed and Deflection effective DEX by Quality I–V: **6/18/32/46/60**; not character-level gates. Junk cannot have these specialties. Preserve working Hulking ×1.5 Weight, Deflection ×0.75 Weight. Honed is lighter but exact discount remains open. Do not apply another generic Quality discount to this already Quality-specific ladder.
+
+A new Hero may substitute an eligible Junk casting implement for the granted Junk weapon; ranged starter weapons include appropriate ammunition (quantity unresolved). Preserve one Junk armor ensemble, normally Light or qualified Medium at GM discretion; no Heavy starter armor, free shield or Gem purse. The 30-Gem benchmark is reference wealth, not a purchasing balance. Actual Craft eligibility and ammunition compatibility apply.
+
+See [melee](25_Melee_Weapon_Catalogue_DRAFT.md), [ranged](27_Ranged_Weapon_Catalogue_DRAFT.md), [shields](29_Physical_Shield_Profiles.md), and [audit evidence](reports/experimental/Early_Equipment_Weight_Audit_2026-11-26.md). The 31,395 deterministic checks are selected thresholds/capacity only, not complete anatomy, price or combat validation. Character manager and simulator not verified.
+
 ## November 26, 2026 — AUTHOR APPROVED: rebase compensation finalization
 
 Approved HP/d20 rebase compensation: natural HP max(1,floor(115 + marginal END)), marginal bands 4 per point through 50, 3.5 through 100, 3 above, extending the first band linearly to −10. Conventional STR-derived contribution 10 + marginal STR (1 through 50, 1.5 through 100, 2 above; extend to −10), Hulking doubles that contribution, and INT-derived magical contribution uses the same marginal curve plus 10. Preserve other damage sources and final nonnegative damage. Shared equipped capacity max(0,floor(20+effective STR+effective END)). Accuracy/evasion formulas unchanged. Retain existing training, racial exceptions and Shimmer rules. Historical engines unchanged.

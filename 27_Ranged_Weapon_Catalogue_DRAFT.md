@@ -1,3 +1,34 @@
+## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
+
+Approved ordinary HP/d20 working requirements below replace legacy November 6 test gates for listed profiles only. Bow STR is minimum controlled draw, not full draw or a new cap. Crossbow STR is unassisted cocking burden, not necessarily preloaded firing eligibility. Single-shot recoil independent. Preserve ammo, aids and shortfall rules. Special engineered bows, special material guns, mounted guns and automatic volley thresholds remain unresolved. No new Power or cap assigned.
+
+| Item | Weight | Support/draw STR | DEX | Single-shot recoil STR |
+|---|---:|---:|---:|---:|
+| Shortbow | 4 | 1 | 1 | — |
+| Recurve bow | 5 | 3 | 1 | — |
+| Longbow | 7 | 8 | 3 | — |
+| Composite bow | 7 | 7 | 5 | — |
+| Warbow | 12 | 15 | 5 | — |
+| Mounted recurve | 6 | 6 | 6 | — |
+| Hand crossbow | 4 | 1 | 1 | — |
+| Hunting crossbow | 7 | 1 | 2 | — |
+| Military crossbow | 8 | 6 | 5 | — |
+| Arbalest | 14 | 13 | 7 | — |
+| Repeating crossbow | 8 | 5 | 8 | — |
+| Battle-saddle crossbow | mounted | rated mount | 10 | — |
+| Single-shot pistol | 4 | 1 | 2 | 5 |
+| Revolver | 5 | 1 | 4 | 8 |
+| Automatic pistol | 5 | 2 | 7 | 10 |
+| Musket | 8 | 5 | 5 | 13 |
+| Carbine | 8 | 8 | 8 | 15 |
+| Automatic carbine | 8 | 11 | 11 | 20 |
+| Precision rifle | 12 | 16 | 15 | 25 |
+| Scattergun | 8 | 9 | 7 | 20 |
+
+Manual/thrown Weight: throwing dagger 2, axe 4, javelin 5, dart 1, sling 2, bolas 2. Ordinary sling STR/DEX 1/1; other release gates unresolved. Do not invent automatic restraint or shot Power. Mount transferred Weight and specific frame support uncalibrated.
+
+A new Hero may substitute an eligible Junk casting implement for the granted Junk weapon; ranged starter weapons include appropriate ammunition (quantity unresolved). Preserve one Junk armor ensemble, normally Light or qualified Medium at GM discretion; no Heavy starter armor, free shield or Gem purse. The 30-Gem benchmark is reference wealth, not a purchasing balance. Actual Craft eligibility and ammunition compatibility apply.
+
 **Current terminology:** Springsteel replaces Thornspring.
 
 ## November 20, 2026 — Additional approved finished ranged-item price references (PRICE ONLY)
