@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: HP/d20 Soul Strain and attribute enchantment closeout
+
+See [Equipment and Economy](09_Equipment_and_Economy.md) for the approved Blank/Mixed attribute bonuses (+6/12/20/28/36 and +3/6/10/14/18), ordinary strain (1/2/4/6/8), and existing Full/Leywell rules. Enchanted END contributes to normal physical statistics but not natural MP or Soul Strain capacity; enchanted Skill grants no SP/TP. Existing racial exceptions and distinct strain sources retained. Early-game enchantment balance tests explicitly deferred; no new slot distribution or pricing rule approved. Player rules updated.
+
 ## November 26, 2026 — AUTHOR APPROVED: countersensor resolution and colored Codex ordnance
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for effective concealment tier comparison, automatic mechanical sensor defeat when concealment favored, natural perception check bonus, artificial-sense vulnerability, colored Codex ordnance identities and requested colored-ammunition kinetic module development. Numerical check bonuses, ammunition/module catalogue and ordnance profiles open. [Player disciplines](public/players/disciplines.md).
