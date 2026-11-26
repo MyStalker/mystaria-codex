@@ -2,14 +2,19 @@ Your attributes establish broad potential. Training lets you decide which parts 
 
 ## Earning points
 
-For Hero bookkeeping at level **L**, baseline SP income is **2 × L**, including level 1. Every SP earned also grants one TP. Each **allocated attribute point invested in Skill** adds **two SP and two TP**.
+For Hero bookkeeping at level **L**, baseline SP and TP income are each **2 × L**, including level 1. Each allocated attribute point invested in Skill adds two SP and a growing amount of TP as you level.
 
-| Example | Total SP earned | Total TP earned |
+| Character level | TP per invested Skill | Extra trainable HP per invested Skill |
 |---|---:|---:|
-| Level 1, no allocated Skill investment | 2 | 2 |
-| Level 1, both attribute points invested in Skill | 6 | 6 |
-| Level 5, no allocated Skill investment | 10 | 10 |
-| Level 5, three allocated points invested in Skill | 16 | 16 |
+| 1–10 | 0.5 | 0 |
+| 25 | 1 | 0 |
+| 50 | 2 | 1 |
+| 75 | 2.5 | 1 |
+| 100 | 2.5 | 1.5 |
+
+Between these levels the benefits increase gradually. Use your current level for all invested points, then round down total TP. At level 1, investing both attribute points in Skill gives 6 SP and 3 TP. At level 5, three invested Skill points give 16 SP and 11 TP.
+
+Endurance makes you naturally tougher; Skill lets you train yourself to become tougher. You can purchase HP from level 1, normally up to 150% of natural HP. Later Skill expands that ceiling by the amount shown above; it does not grant free HP. Your character manager can calculate the intermediate values.
 
 These are earned totals before purchases and before any separately established exceptional sources. Skill's racial multiplier, enchanted Skill bonuses and the automatic fifth-level increase do not count as allocated Skill investment.
 
@@ -69,6 +74,6 @@ You can specialize through attributes, TP, equipment, or a mixture. Those choice
 
 ## Check the menu with your GM
 
-The full training price list, HP-per-rank schedule, and purchased-HP cap are still being calibrated. Use one declared menu for your table. Use the selected menu your GM supplies for actual purchases.
+The full training price list and HP-per-rank schedule are still being calibrated. Use one declared menu for your table. Use the selected menu your GM supplies for actual purchases.
 
 When a benefit scales with level, owned ranks use your **current-level** benefit; buying early should not require repurchasing the same rank. Check HP caps before spending on a rank that may be partly or wholly ineffective. Gear changes do not automatically refund previous TP purchases.
