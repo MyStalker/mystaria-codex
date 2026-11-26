@@ -54,7 +54,7 @@ Attributes describe broad potential. A high attribute does not teach an unlearne
 | **Skill Points — SP** | Abilities, Crafts, mundane skills, and useful options. | Each purchase's actual cost, rank, and prerequisites. |
 | **Training Points — TP** | Improvements to individual derived statistics, such as accuracy, evasion, damage, or HP. | Purchased ranks, their costs, effective benefits, and remaining TP. |
 
-At level 1, you begin with **2 unspent attribute points, 2 SP, and 2 TP**, before any purchases or additional earned Skill bonuses. These are in addition to your racial starting attributes and applicable racial entitlements. Allocate the attribute points before calculating your final budgets; each point allocated to Skill grants another 2 SP and 2 TP. Keep all three remaining balances visible.
+At level 1, you begin with **2 unspent attribute points, 2 SP, and 2 TP**, before any purchases or additional earned Skill bonuses. These are in addition to your racial starting attributes and applicable racial entitlements. Allocate the attribute points before calculating your final budgets; each point allocated to Skill grants another 2 SP and a level-dependent amount of TP. At levels 1–10, each invested Skill point grants half a TP; this rises as you level. Round down the total TP budget. At higher levels Skill also lets you purchase more HP beyond the usual training limit, without granting free HP. Keep all three remaining balances visible.
 
 SP and TP are independent pools. Spending one does not spend the other. [The training guide](/learn/training/) explains income, escalating purchases, and how to plan a useful build.
 
