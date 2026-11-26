@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: frame construction and structural loads
+
+See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md) for approved frame material/size/Quality/Load rules, Reprise Bronze transport compression, specialized modifications and application-dependent Weight. Propulsion profiles and color upgrades remain open.
+
 ## November 25, 2026 — AUTHOR APPROVED: modular construction and mounts
 
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md). Primary modules and optional compatible submodules (normally one per type), Mounts for integrated functional gadgets, shared host frames and infrastructure, direct mana feed with Hex exposure risk, common performance vocabulary and color-specific advanced research direction approved. Preserve Fabrication 1/2/4/8/16 Mount limits, equal module Quality and real material/capacity constraints. Magic Mirrors replace camera analogies. Exact recipes and stats remain open.
