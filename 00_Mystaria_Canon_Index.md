@@ -1,3 +1,7 @@
+## November 25, 2026 — AUTHOR APPROVED: modular construction and mounts
+
+See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md). Primary modules and optional compatible submodules (normally one per type), Mounts for integrated functional gadgets, shared host frames and infrastructure, direct mana feed with Hex exposure risk, common performance vocabulary and color-specific advanced research direction approved. Preserve Fabrication 1/2/4/8/16 Mount limits, equal module Quality and real material/capacity constraints. Magic Mirrors replace camera analogies. Exact recipes and stats remain open.
+
 ## November 25, 2026 — AUTHOR APPROVED: Integration efficiency and prepared materials
 
 See [Orbcraft canon](40_Kobold_Technology_and_Orbcraft.md). Living Anima can extract greater useful magical effect per MP than automated mechanisms; Integration is the operator-dependent efficiency middle ground bounded by hardware. No separate harmonization mechanic or personalized fuel. Preserve consistent MP and industrial efficiency benchmarks. Orbcraft can fabricate with suitable prepared exotic stock purchased or salvaged in actual quantities; refining ore and manufacturing alloys remain qualified Anvilcant capabilities, with Wetcraft enabling lawful interdisciplinary extraction/preparation under equivalent exchange and existing restrictions. No new recipe or waiver of material requirements.
