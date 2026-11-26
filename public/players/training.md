@@ -11,7 +11,7 @@ For Hero bookkeeping at level **L**, baseline SP income is **2 × L**, including
 | Level 5, no allocated Skill investment | 10 | 10 |
 | Level 5, three allocated points invested in Skill | 16 | 16 |
 
-These are earned totals before purchases and before any separately established exceptional sources. Skill's racial multiplier and the automatic fifth-level increase do not count as allocated Skill investment.
+These are earned totals before purchases and before any separately established exceptional sources. Skill's racial multiplier, enchanted Skill bonuses and the automatic fifth-level increase do not count as allocated Skill investment.
 
 ## Improving attributes
 
