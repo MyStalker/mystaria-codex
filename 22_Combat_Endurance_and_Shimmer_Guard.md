@@ -1,3 +1,19 @@
+## November 26, 2026 — AUTHOR APPROVED: refined Skill training progression and HP allowance
+
+For current HP/d20 Heroes at level L, let S be the number of actually allocated base attribute points invested in Skill. Baseline TP remains 2L; total ordinary earned TP = floor(2L + S × t(L)). Skill SP income remains +2 SP per allocated Skill point (ordinary earned SP = 2L + 2S); the former one-to-one SP/TP income relationship and flat +2 TP per Skill are superseded for this progression. Racial starting Skill, racial multipliers, automatic fifth-level increases, enchantments and implants do not count as S. Preserve independently approved exceptional grants, separate ledgers and existing purchase costs.
+
+| Level | TP per invested Skill t | Additional purchased HP allowance per invested Skill k |
+|---:|---:|---:|
+| 1–10 | 0.5 | 0 |
+| 25 | 1 | 0 |
+| 50 | 2 | 1 |
+| 75 | 2.5 | 1 |
+| 100 | 2.5 | 1.5 |
+
+Linearly interpolate between anchors, recalculate at current level, and floor the final TP budget once. Purchased HP ceiling = floor(1.5 × natural HP + k(L) × S). Effective purchased HP is limited to this ceiling; actual HP ranks must still be bought with TP. HP training remains available from level 1, and its per-rank benefit and cost are not changed here. Skill grants no free HP or natural HP. Preserve racial/augmentation exclusions and existing Shimmer rules. No automatic refund or reset of saved ledgers.
+
+Validation: Combat Lab job ba931a10-36bd-49b1-882e-650a00000011, 297,000 encounters, 220 constructions and 990 matchup checks passed. Five Skill investment shares and eleven levels tested under both AR policies. Strong AR remains experimental, not approved here; caster balance and armor specialist spending remain open. Stationary duels, permissive equipment and fixed strategies limit conclusions. Historical engines unchanged.
+
 ## November 26, 2026 — AUTHOR APPROVED: integrated machine combat and frame HP benchmarks
 
 See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for integrated machine Shimmer maximum max(Hero ordinary max HP, machine max structural HP), one reserve with conserved remaining proportion and broken state, occupied continuous protection and remote command duration through end of next operator turn. Truly autonomous unlinked machines have no Guard. Enclosed pilot complete cover above half structural HP, improved cover at/below half, hatch grapple/pin difficulty, shared applicable status buildup effects through occupied shell's effective status HP, direct pilot attacks use personal defenses. See [Summoners](08_Other_Crafts.md) for shared symbiotic HP/MP/action economy and cooperative 60%+60% offensive attack. Detailed routing, Break, cover values and balance tests remain open.
