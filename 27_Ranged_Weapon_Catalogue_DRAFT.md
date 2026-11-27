@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: thrown and mounted recurve damage candidates
+
+Retain the ordinary HP/d20 ranged construction budget and form/AP rules below. Additional neutral inherent damage factors: throwing dagger Light ×0.8 (DEX), throwing axe Light ×1 (STR), javelin Medium ×1 (STR), dart Light ×0.6 (DEX), sling Light ×0.9 (STR), bolas Light ×0.5 (DEX), mounted recurve Medium ×0.9 (STR draw). Add lawful attribute and trained damage as applicable. Bolas entanglement remains unresolved, not automatic. These are approved working candidates pending balance validation. No new release requirements, ammunition prices, mount support ratings or historical wound conversion. Exceptional engineered bows and advanced ranged profiles require further numerical calibration.
+
 ## November 26, 2026 — AUTHOR APPROVED: working HP/d20 equipment Weight and ordinary ranged conversion
 
 Use individual approved QI baseline weapon Weight × class Quality reference / QI class reference × material modifier × applicable specialty, rounded once to nearest whole Weight. Junk uses QI baseline. Class references I–V: Light 7/18/33/44/55, Medium 12/30/52/71/90, Heavy 22/50/80/110/140. Honed unchanged Weight; Hulking ×1.5 where eligible. Mastercraft bonus Quality does not raise wielding requirements. Armor uses existing material-specific tables in the equipment conversion report, with latest Boughsteel Heavy QI 24 (not historical 22); Deflection substitutes equivalent Weight as DEX Handling. No new shield Quality curve approved here.
