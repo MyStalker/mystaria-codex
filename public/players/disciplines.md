@@ -158,6 +158,8 @@ Patch a damaged machine with a flux tool, replacement parts and repair time: cur
 
 The Structure is the load-bearing chassis, supplying Mounts, Weight and sustained/burst Load capacity. The Frame is the HP-providing body. A basic combat machine is designed around a comparable Hero's natural HP before HP training; additional durability costs Weight and Load rather than granting extra capacity. Exact construction profiles remain under calibration. Propulsion must support the finished Weight; excessive burden reduces movement, efficiency, active Evasion and eventually relevant Accuracy. Flight requires adequate lift. Sustained Load represents prolonged forces; Burst Load represents brief peaks. Physical Plating uses ordinary Light, Medium or Heavy armor protection, not extra AR for a larger machine. It adds 25%, 50% or 100% of reference frame Weight before material modifiers. Magical Plating uses applicable Nullporcelain resistance and can coexist with physical plating; exact magical balance remains subject to calibration. Lamination is an extra defensive investment comparable to armor/resistance training, with its numerical benefits still to be determined. Dermal armor supplies one quarter of equivalent machine plating protection and Weight, with ordinary cybernetic attribute benefits and biological drawbacks.
 
+Ordinary physical/magical plating and Lamination are passive defenses: their Weight counts toward structural capacity, but they require no separate operating Load, MP or Bandwidth. HP, AR and ER remain separate investments; exact Lamination profiles and remaining plating calibration are under development.
+
 ### Choosing a Structure
 
 The following are Quality I Standard Boughsteel reference values:
