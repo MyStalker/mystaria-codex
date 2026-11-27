@@ -19,6 +19,21 @@ Choose a tradition for what you want to do and who your character is. Knowing a 
 | **Wyrmcraft** | Drakyn | Sorcery metamagic across five disciplines. |
 | **Mnemonic Arts** | Qualified memory specialists | Recording, cutting, receiving, and safeguarding Echoes. |
 
+## Magnitude and spell maintenance
+
+Magnitude sets how far you can place a spell, how large an ordinary area you may pay to affect, and how many spells you can actively maintain at once.
+
+| Rank | Maximum placement range | Maximum ordinary area | Area MP | Base simultaneous maintained spells |
+|---|---|---|---:|---:|
+| 0 | 30 ft | Single target | 1 | 1 |
+| I | 90 ft | Adjacent targets | 2 | 2 |
+| II | 300 ft | 20-ft radius | 4 | 4 |
+| III | 1,000 ft | 100-ft radius | 10 | 8 |
+| IV | 1 mile | 1,000-ft radius | 30 | 16 |
+| V | 10 miles | 2-mile radius | 60 | 32 |
+
+Area cost is separate from other eligible spell costs. Your available mana, Channel Limit, medium and casting requirements still apply. Pyromancy's natural blast and containment rules and environmental-restraint costs are special exceptions. Spell upkeep is tied to Duration. A lasting physical consequence, such as a fire ignited by an instantaneous spell, is not another maintained spell. Additional Craft Mastery scaling, duration prices and the details of autonomous effects and renewal remain table questions.
+
 ## Buying ranks
 
 Use the actual tradition's ledger. Native and foreign Craft learning can differ; an awakening requirement is not a rank. Sorcery purchases individual Incantations and alterations; Jestercraft has a different component economy. Earlier ranks and the appropriate tier prerequisites still matter.
