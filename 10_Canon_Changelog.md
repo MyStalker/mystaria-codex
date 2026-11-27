@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Curtainwall upgrade direction
+
+Owner: [Jestercraft](05_Jestercraft.md). Retain innate Impact Loom, proposed Bodyguard I and Tempered Curtain II directions; Threadblade weapon/armor profiles reuse Hardlight-style conventional equipment logic without automatically copying technological fuel or shield renewal. Spell Catcher III becomes an inefficient non-psychic self-status extraction and attack-transfer technique; exact numbers pending. Living Mantle IV rejected in favor of solo-useful design, Pincushion V open to alternatives. SP ledger and detailed equipment/defense interfaces remain open. No simulation.
+
 ## November 27, 2026 — AUTHOR SELECTED: minimum Stitch durability working calibration
 
 Owner: [Jestercraft](05_Jestercraft.md). HP per intact Stitch = max(25, floor(10% Defensive Spell Power)); Defensive Power equals comparable baseline raw offensive spell damage with lawful DEX, implement and training. Working HP/d20 calibration replaces prior 0.5× coefficient, subject to later martial-art comparison. Corrected 6,000-encounter screen `f67354d1-9469-4c2a-92f1-004730ad2004` tested related percentage/flat/hybrid candidates, **not this minimum formula itself**. Author defers additional simulation. Exact spell progression, barrier routing and purchased Curtainwall ranks remain open.
