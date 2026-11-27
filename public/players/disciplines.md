@@ -158,6 +158,20 @@ Patch a damaged machine with a flux tool, replacement parts and repair time: cur
 
 The Structure is the load-bearing chassis, supplying Mounts, Weight and sustained/burst Load capacity. The Frame is the HP-providing body. A basic combat machine is designed around a comparable Hero's natural HP before HP training; additional durability costs Weight and Load rather than granting extra capacity. Exact construction profiles remain under calibration. Propulsion must support the finished Weight; excessive burden reduces movement, efficiency, active Evasion and eventually relevant Accuracy. Flight requires adequate lift. Sustained Load represents prolonged forces; Burst Load represents brief peaks. Physical Plating uses ordinary Light, Medium or Heavy armor protection, not extra AR for a larger machine. It adds 25%, 50% or 100% of reference frame Weight before material modifiers. Magical Plating uses applicable Nullporcelain resistance and can coexist with physical plating; exact magical balance remains subject to calibration. Lamination is an extra defensive investment comparable to armor/resistance training, with its numerical benefits still to be determined. Dermal armor supplies one quarter of equivalent machine plating protection and Weight, with ordinary cybernetic attribute benefits and biological drawbacks.
 
+### Choosing a Structure
+
+The following are Quality I Standard Boughsteel reference values:
+
+| Size | Weight | Sustained Load | Burst Load |
+|---|---:|---:|---:|
+| Miniature | 0.1 | 1 | 1 |
+| Handheld | 1 | 4 | 4 |
+| Personal | 4 | 16 | 16 |
+| Vehicle | 16 | 64 | 64 |
+| Industrial | 64 | 256 | 256 |
+
+Junk and Quality I–V multiply both Load capacities by 0.5/1/1.5/2/2.5/3, without increasing Weight. Material factors (Sustained/Burst/Weight): Boughsteel 1/1/1, Springsteel 1/2/0.8, Adamantite 2/2/2.5, Reprise Bronze 0.75/0.75/1, Skyvein 0.75/0.75 with uplift still to be calibrated. Choose Standard (unchanged), Heavy-Duty (double Sustained, half Burst) or Dynamic (half Sustained, double Burst). These alternatives do not change Weight. Apply the multipliers together. Actual geometry and Fabrication determine eligible Mounts; the Frame and all modules are separate.
+
 ### Structure Checks
 
 Normal operation within Sustained and Burst Load capacity requires no check. A compatible machine can deliberately override its safety limiter to exceed either capacity. Roll a flat d20: over 100% through 150% succeeds on 10 or higher; over 150% through 200% succeeds on 15 or higher; over 200% automatically fails. Check once per overloaded sustained round or overloaded burst activation. Failure prevents the intended function, spends its action and MP, and directly removes a quarter of base structural HP, bypassing Shimmer. Existing Codex Stability triggers still apply. No bonus can improve the Structure Check; improve the Structure or reduce the actual demand instead. Modules use simple 0/1/2 demand grades, with exact profiles under calibration.
