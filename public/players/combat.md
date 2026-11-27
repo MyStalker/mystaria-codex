@@ -33,7 +33,9 @@ The effect must still have the required equipment, coverage, mana, medium, and p
 
 A falling character or ally may prepare an eligible defensive action to catch or cushion a fall, with a specific trigger and actual means of stopping the impact. See [health and defense](/learn/health/) for falling damage, emergency Shimmer Break and knockout recovery.
 
-A deliberately aimed falling object needs a successful attack and at least 10 ft of fall. The falling object takes falling damage; the struck target takes physical collision damage: raw max(20, twice the object's actual surface AR), minus target AR. Half/full terminal velocity doubles/quadruples raw collision damage at −2/−4 Attack. No critical collision damage or AP. See [disciplines](/learn/disciplines/) for Tractor Beams.
+A deliberately aimed falling object needs a successful attack and at least 10 ft of fall. The falling object takes falling damage; the struck target takes physical collision damage: raw max(20, twice the object's actual surface AR), minus target AR. At 250/510 ft the raw collision damage doubles/quadruples at −2/−4 Attack. No critical collision damage or AP. See [disciplines](/learn/disciplines/) for Tractor Beams.
+
+Large falling structures use one Reflex AoE avoidance check against 10 + attacker Attack (including the drop penalty), or a GM-set natural hazard DC. On success, move within your speed to actual safety outside the footprint or reach actual cover inside; escape prevents damage and Burial, ordinary cover halves both, sufficiently strong cover may prevent both. Failure receives the full applicable consequences. Natural collapses need not strike at high velocity. See [conditions](/learn/conditions/) for Buried.
 
 ## Movement and escape
 

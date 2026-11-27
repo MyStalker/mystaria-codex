@@ -34,6 +34,12 @@ A bound arm cannot use an implement requiring it, an arm-mounted shield, or its 
 The affected part remains the target of that status instance. Adding buildup does not freely move the restraint elsewhere.
 :::
 
+## Buried beneath debris
+
+Buried buildup is based on the debris actually trapping you, not how fast it fell. Minor/Substantial/Room/Building/Monumental debris gives 100/300/750/1500/3000 buildup; Thin halves it, Dense doubles it. Actual successful cover normally halves buildup. An impact need not bury you.
+
+At 1× effective status HP (Buried I), halve movement and take two Pressure Points; you may still use legal attacks, spells and accessible gadgets to clear debris. At 2× (Buried II), you cannot move or take ordinary combat actions, but can struggle free or receive rescue. Spend one nonoffensive action to remove max(1, 2×STR) buildup; you may spend both actions struggling. At lesser severity, attacks remove actual post-armor debris damage from buildup, destroying obstructions clears their contribution, and suitable magic or machinery removes actual material. Allies may use ordinary rescue reductions. Buried persists while debris restrains you; reducing below 2× downgrades it and below 1× ends the penalties. A dormant intact Shimmer Guard can Break to reduce advanced Buried to standard if it has not already activated or broken during the impact. No automatic ongoing crushing damage.
+
 ## Helping an ally
 
 Use a counter that genuinely applies: the right magic, physical removal of a restraint, water against fire, or another established intervention. Ordinary ally counters use the shared reduction rules, while some specific effects fully clear a status.

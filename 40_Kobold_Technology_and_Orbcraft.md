@@ -1,5 +1,12 @@
 # Kobold Technology and Orbcraft
 
+## November 26, 2026 — AUTHOR APPROVED: collapse hazards, Buried status and kinetic uprooting
+
+To rip an otherwise eligible object free from the ground or an attachment (rooted tree, house foundation, embedded boulder, fixed machinery), treat it as one density category heavier for that detachment attempt/action: Thin → Medium, Medium → Dense. Once successfully detached, use its normal density for ordinary manipulation. This changes eligible span/capacity, not the object's actual Weight, subsequent density or speed. Preserve genuine anchors, reinforcement, structural breaking and actual path/geometry; capacity alone does not guarantee detachment. Naturally Dense detachment exceeds the existing three-category scale; exact treatment remains open rather than inventing a fourth category. Ease of collapsing houses/ceilings is specifically reserved for playtesting. No new structural damage formula.
+
+Aimed drop bands are 10 ft minimum, 10–249 ft ×1 collision, 250–509 ft ×2 with −2 Attack, 510+ ft ×4 with −4 Attack (gameplay approximation). Dropped object takes falling damage; struck target takes collision damage. Individual aimed drops use ordinary attack; large area collapse uses Reflex avoidance and actual cover, with separate Buried buildup. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) for the full approved rules. This supersedes earlier unresolved half-terminal height and large-area collapse direction. No simulation.
+
+
 ## November 26, 2026 — AUTHOR APPROVED: Tractor Beam catalogue, control and falling-object impacts
 
 Ordinary Tractor Beams use Rated Magnitude (maximum selectable operating rank), Range, Weight and Quality; remove separate Intensity. Kinetic manipulation uses its own size scale, not spell area geometry, while retaining approved utility-field MP costs. No target weight, volume or acceleration arithmetic. Select one target at Magnitude 0; higher ranks can manipulate a group within the appropriate combined occupied span. Actual path, anchors, mounting, reach and detachment/breakage still matter.
