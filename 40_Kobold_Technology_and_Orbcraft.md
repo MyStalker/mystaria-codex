@@ -1,5 +1,19 @@
 # Kobold Technology and Orbcraft
 
+## November 26, 2026 — AUTHOR APPROVED: assembly form-factor Mount limits
+
+Apply both Fabrication rank and form-factor limits to each Assembly: maximum integrated Gadget Mounts = the lesser of Fabrication allowance and applicable form-factor cap. Miniature assemblies cap at 2, a single handheld weapon assembly at 4, and a worn suit assembly at 8. No other additional form-factor caps: other assemblies retain the general Fabrication allowance. Mastercraft VI adds no Mounts.
+
+| Assembly form | Fabrication I | II | III | IV | V (including eligible Mastercraft VI) |
+|---|---:|---:|---:|---:|---:|
+| Miniature | 1 | 2 | 2 | 2 | 2 |
+| Single handheld weapon | 1 | 2 | 4 | 4 | 4 |
+| Worn suit | 1 | 2 | 4 | 8 | 8 |
+| Other assemblies | 1 | 2 | 4 | 8 | 16 |
+
+These are limits on integrated functional Gadgets, not physical primary module count or equipment ownership. Supporting Codex, Hex-Cell, filter, frame, controller, Focuser and matched recoil-control Emitter do not independently consume Mounts. Preserve actual module size, geometry, compatibility, Weight, Handling, support, fuel, action economy and anti-nesting rules; connected genuinely integrated functions cannot evade the cap by packaging them as subassemblies. Separate weapons carried and drawn independently remain legal, subject to ordinary equipment limits. A four-function laser/Tractor Beam/Repulsor/grenade-launching rifle is an intended example; a separate flamethrower/tractor/sniper assembly is also permissible. Examples are conceptual, not validated recipes or approval of unfinished laser/grenade/flamethrower numerical profiles. A Repulsor's existing self-launch mode is not another Gadget. Supersedes previous absence of specific form-factor caps. No simulation or new equipment prices.
+
+
 ## November 26, 2026 — AUTHOR APPROVED: Repulsor cannon catalogue and universal Full Recoil Control
 
 Repulsors are momentary pulse kinetic cannons, not continuous reverse Tractor Beams; sustained thrust belongs to Arcane Field propulsion. Use the existing Tractor Beam Rated Magnitude by Quality and size, ordinary base Range and reference finished Weight/Handling, density, actual attachment/detachment, recoil STR and actual path/geometry framework. Repulsor eligible target span is half corresponding Tractor span at same Magnitude/density; for anchored detachment halve again. Preserve actual substantial target and combined group capacity. Displacement per shot is four times Tractor controlled movement distance; instantaneous launch, no sustained grip or steering, may travel beyond initial aiming Range. Quality Junk/I/II/III/IV/V/VI displacement is 40/80/160/240/320/400/480 ft. Obstacles interrupt travel. No automatic direct HP damage merely for being launched; meaningful Repulsor collision doubles ordinary raw collision damage before struck AR, no AP/ER/critical or extra Quality multiplier. Actual falling/collision consequences apply; do not double-count the same impact or automatically stack unrelated falling velocity multipliers. Quality improves displacement and eligible size, not this collision multiplier.
@@ -331,7 +345,7 @@ Quality Junk/I/II/III/IV/V multiplies both Load capacities by 0.5/1/1.5/2/2.5/3,
 | Reprise Bronze | 0.75 | 0.75 | 1 |
 | Skyvein | 0.75 | 0.75 | uplift; exact unresolved |
 
-Choose one Structure configuration at construction: Standard (Sustained x1, Burst x1); Heavy-Duty (Sustained x2, Burst x0.5); Dynamic (Sustained x0.5, Burst x2). Configurations have the same reference Weight and are alternatives, not cumulative submodules. Multiply size reference, Quality, material and configuration for each Load capacity. Retain fractional Weight/Load during construction (exact final rounding remains open). Mounts depend on actual geometry and the existing Fabrication rank limits; no new per-size numerical Mount table approved. Preserve Reprise Bronze compression constraints, Skyvein inertia/nourishment and Serpent Steel restrictions. Structure material does not automatically grant Frame HP, AR or ER; those are separate investments.
+Choose one Structure configuration at construction: Standard (Sustained x1, Burst x1); Heavy-Duty (Sustained x2, Burst x0.5); Dynamic (Sustained x0.5, Burst x2). Configurations have the same reference Weight and are alternatives, not cumulative submodules. Multiply size reference, Quality, material and configuration for each Load capacity. Retain fractional Weight/Load during construction (exact final rounding remains open). Mounts depend on actual geometry, Fabrication rank limits and the newer approved assembly form-factor caps (miniature 2, single handheld weapon 4, worn suit 8). Preserve Reprise Bronze compression constraints, Skyvein inertia/nourishment and Serpent Steel restrictions. Structure material does not automatically grant Frame HP, AR or ER; those are separate investments.
 
 Examples QV vehicle (Weight / Sustained / Burst): Standard Boughsteel 16/192/192; Heavy-Duty Boughsteel 16/384/96; Dynamic Boughsteel 16/96/384; Standard Springsteel 12.8/192/384; Dynamic Springsteel 12.8/96/768; Heavy-Duty Adamantite 40/768/192; Standard Adamantite 40/384/384. These are empty Structures only. Frame HP and Weight and baseline Weight-to-Load are governed by the newer approval above; exact Mount geometry, engine demand assignments, peak demand aggregation and complete build balance remain open. No simulation or pricing approval.
 
