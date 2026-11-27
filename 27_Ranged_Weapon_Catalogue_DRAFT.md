@@ -1,3 +1,52 @@
+## November 26, 2026 — AUTHOR APPROVED: working HP/d20 equipment Weight and ordinary ranged conversion
+
+Use individual approved QI baseline weapon Weight × class Quality reference / QI class reference × material modifier × applicable specialty, rounded once to nearest whole Weight. Junk uses QI baseline. Class references I–V: Light 7/18/33/44/55, Medium 12/30/52/71/90, Heavy 22/50/80/110/140. Honed unchanged Weight; Hulking ×1.5 where eligible. Mastercraft bonus Quality does not raise wielding requirements. Armor uses existing material-specific tables in the equipment conversion report, with latest Boughsteel Heavy QI 24 (not historical 22); Deflection substitutes equivalent Weight as DEX Handling. No new shield Quality curve approved here.
+
+Weapon material Weight factors: Boughsteel 1, Trufula 0.5, Springsteel 0.65, Skyvein 0.4, Adamantite 2.5, Oathsilver 0.85, Hearthiron 1.4, Reprise Bronze 1 deployed. Composite construction weights each actual component share, not whole weapon discount for a lightweight stock. Other historical material factors remain subject to separate confirmation. No standalone Nullporcelain striking weapon.
+
+Ordinary ranged DEX Handling = ceil(QI DEX × 1/1.5/2/3/4 at I–V); Junk uses QI. Keep actual bow controlled draw, crossbow cocking, firearm recoil and genuine support/mount requirements distinct; no new generic support gate duplicating Weight. Preserve approved exceptional engineered bow/arbalest handling pending specific reconciliation. No automatic level gate. Existing recoil shortfalls and aids remain; no new full-auto mechanics.
+
+| Weapon | Weight class | Neutral damage reference class | Damage factor |
+|---|---|---|---:|
+| Shortbow | Light | Light | 0.9 |
+| Recurve bow | Medium | Medium | 0.9 |
+| Longbow | Medium | Medium | 1 |
+| Composite bow | Medium | Medium | 1 |
+| Warbow | Heavy | Heavy | 1 |
+| Mounted recurve | Medium | unresolved | unresolved |
+| Hand crossbow | Light | Light | 1.5 |
+| Hunting crossbow | Medium | Medium | 1.5 |
+| Military crossbow | Medium | Medium | 1.75 |
+| Arbalest | Heavy | Heavy | 2 |
+| Repeating crossbow | Medium | Medium | 1.1 |
+| Single-shot pistol | Light | Light | 1.75 |
+| Revolver | Light | Light | 1.5 |
+| Automatic pistol | Light | Light | 1.25 |
+| Musket | Medium | Medium | 2 |
+| Carbine | Medium | Medium | 1.5 |
+| Automatic carbine | Medium | Medium | 1.25 |
+| Precision rifle | Heavy | Heavy | 1.75 |
+| Scattergun | Medium | Medium | 1.75 |
+| Throwing dagger / axe / dart / sling / bolas | Light | unresolved | unresolved |
+| Javelin | Medium | unresolved | unresolved |
+
+Neutral inherent damage reference I–V: Light 45/72/106/133/165, Medium 60/94/136/172/216, Heavy 75/119/169/214/269. Multiply by listed factor then apply eligible form once: Slashing ×1.125 / AP 0; Blunt ×1 / AP floor(25% neutral inherent); Piercing ×0.875 / AP floor(50% neutral inherent). Round printed inherent damage nearest whole. Bows add draw-dependent STR contribution (exact partial draw HP conversion still open) and trained damage; crossbows/firearms add trained damage only, no STR-derived raw damage. Thrown weapons add applicable attribute contribution and trained damage; individual numerical budgets unresolved. No material damage multiplier for ranged output approved here. Preserve engineered caps, actual ammo compatibility, existing reloads and attack modes. Historical wound Power unchanged. Junk damage, advanced variants, mounts, siege, ranged timing and exact range profiles remain open. These are accepted working damage candidates pending balance validation, not empirically balanced.
+
+Material compatibility (ordinary / conditional composite / unsuitable primary):
+| Material | Bow | Crossbow | Firearm | Thrown |
+|---|---|---|---|---|
+| Boughsteel | ordinary | ordinary | ordinary | ordinary |
+| Trufula | ordinary | conditional | conditional | ordinary |
+| Springsteel | ordinary | ordinary | conditional | ordinary |
+| Skyvein | conditional | conditional | conditional | conditional |
+| Adamantite | conditional | ordinary | ordinary | ordinary |
+| Oathsilver | conditional | conditional | conditional | ordinary |
+| Hearthiron | conditional | conditional | ordinary | ordinary |
+| Reprise Bronze | conditional | conditional | conditional | ordinary |
+| Nullporcelain | unsuitable | conditional | conditional | unsuitable |
+
+Ordinary compatibility means suitable engineered components, not pure material recipes or removal of existing material limitations. Trufula firearms require compatible pressure-safe noncombustive impulse; retain existing exceptional properties. Ammo prices deferred.
+
 ## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
 
 Approved ordinary HP/d20 working requirements below replace legacy November 6 test gates for listed profiles only. Bow STR is minimum controlled draw, not full draw or a new cap. Crossbow STR is unassisted cocking burden, not necessarily preloaded firing eligibility. Single-shot recoil independent. Preserve ammo, aids and shortfall rules. Special engineered bows, special material guns, mounted guns and automatic volley thresholds remain unresolved. No new Power or cap assigned.
