@@ -1,5 +1,43 @@
 # Kobold Technology and Orbcraft
 
+## November 26, 2026 — AUTHOR APPROVED: Repulsor cannon catalogue and universal Full Recoil Control
+
+Repulsors are momentary pulse kinetic cannons, not continuous reverse Tractor Beams; sustained thrust belongs to Arcane Field propulsion. Use the existing Tractor Beam Rated Magnitude by Quality and size, ordinary base Range and reference finished Weight/Handling, density, actual attachment/detachment, recoil STR and actual path/geometry framework. Repulsor eligible target span is half corresponding Tractor span at same Magnitude/density; for anchored detachment halve again. Preserve actual substantial target and combined group capacity. Displacement per shot is four times Tractor controlled movement distance; instantaneous launch, no sustained grip or steering, may travel beyond initial aiming Range. Quality Junk/I/II/III/IV/V/VI displacement is 40/80/160/240/320/400/480 ft. Obstacles interrupt travel. No automatic direct HP damage merely for being launched; meaningful Repulsor collision doubles ordinary raw collision damage before struck AR, no AP/ER/critical or extra Quality multiplier. Actual falling/collision consequences apply; do not double-count the same impact or automatically stack unrelated falling velocity multipliers. Quality improves displacement and eligible size, not this collision multiplier.
+
+### Universal Full Recoil Control (all applicable field projectors)
+
+Requires an additional matched field Emitter facing the opposing direction and shaped to surround the user in a kinetic anchoring field transferring reaction into suitable supporting terrain, not a destructive counterblast. No separate SP purchase, but actual Emitter material, Weight and cost; compatible sufficiently sized Codex, Hex-Cell, filter, frame and controller can be reused. Compensation doubles applicable operating MP and removes recoil STR requirement while actual adequate anchoring exists; no extra activation action or independent holder-recoil Load. The prior arbitrary +25% finished Weight surcharge is superseded by the actual additional Emitter Weight. No automatic airborne anchoring or unsupported recoil cancellation; actual propulsion or other genuine support can provide reaction. Can deactivate compensation to deliberately move oneself. Supporting compensation hardware is not an independent Gadget function/Mount under ordinary module accounting; exact emitter component Weight, price and cross-mode sharing qualification remain open.
+
+### Repulsor profiles
+
+| Magnitude | Thin span | Medium span | Dense span | Normal MP/shot | Compensated | Charged | Charged compensated |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| 0 | 5 ft | 2.5 ft | 1.25 ft | 1 | 2 | 2 | 4 |
+| I | 10 ft | 5 ft | 2.5 ft | 1 | 2 | 2 | 4 |
+| II | 20 ft | 10 ft | 5 ft | 2.5 | 5 | 5 | 10 |
+| III | 50 ft | 25 ft | 12.5 ft | 5 | 10 | 10 | 20 |
+| IV | 200 ft | 100 ft | 50 ft | 10 | 20 | 20 | 40 |
+| V | 2 miles | 1 mile | 0.5 miles | 40 | 80 | 80 | 160 |
+
+Per-shot MP (not per minute). Standard matched QV miniature/handheld/personal/vehicle/industrial Codex capacities 9/22.5/45/90/360 MP support four maximum-rank compensated shots (I/II/III/IV/V respectively), subject to actual discharge and other draws. Preserve fractions pending universal rounding. No change to Codex ratings or personal manual Integration.
+
+| Focuser | Range fraction of base | Span capacity fraction of Repulsor |
+|---|---:|---:|
+| Straight line | 1 | 1 |
+| Narrow cone | 0.75 | 1 |
+| Wide cone | 0.5 | 0.5 |
+
+Fixed pattern chosen at construction; compatible Field Shaper permits switching all three before firing without an additional action or separate SP purchase, with actual hardware cost/Weight. Exact cone geometry/line width and combined group packing remain open; no universal Emitter/Focuser multiplier stacking assumed.
+
+Hostile directed attack uses ordinary Attack vs Evasion; cone uses existing AoE Reflex avoidance. No second initial Technique check, no maintenance, no midflight steering. Unattended eligible reachable object manipulation succeeds without a hostile roll. Prepared kinetic interception uses legal defensive action and real capacity/path. One action can fire uncompensated against suitable surface to propel operator opposite direction by up to normal Repulsor displacement; shorter travel allowed without MP discount, no sustained flight/midair steering, actual uncontrolled falls and collisions remain dangerous. Normal offensive-action constraints apply to hostile attacks; self movement is one action, not free movement.
+
+### Overcharge
+
+Spend one action and an additional normal shot cost (including applicable compensation); next attack by end of next turn spends ordinary shot cost and gains knockdown; charge plus fire totals double otherwise applicable MP. Lost invested MP if unused; no stacking. Discharge applies separately to actual payments each turn (sum if same turn). Displacement, capacity and collision multiplier unchanged. Only successfully displaced creatures roll d20 + applicable Technique >= the attack's normal Reflex DC (10 + applicable Attack including modifiers); success remains standing, failure prone. No additional automatic damage. This applies to directed and cone attacks; use corresponding normal AoE DC even for directed shot. No knockdown on a target not displaced.
+
+Eligible vehicles/buildings can be toppled instead of launched by overcharge, with sufficient size/density capacity and actual attachment resistance (halved span for detachment). Piloted vehicles use applicable mechanical Technique to resist against same Reflex DC; unattended objects without active stabilization topple if physically eligible. Actual collapse resolves through existing collision, fall and Buried rules. No new universal stability stat, no automatic building destruction. Exact structural geometry and support failure remain open; flag extreme mobility, collision damage, area capacity and collapse frequency for playtesting. No simulation, final component weights or prices.
+
+
 ## November 26, 2026 — AUTHOR APPROVED: collapse hazards, Buried status and kinetic uprooting
 
 To rip an otherwise eligible object free from the ground or an attachment (rooted tree, house foundation, embedded boulder, fixed machinery), treat it as one density category heavier for that detachment attempt/action: Thin → Medium, Medium → Dense. Once successfully detached, use its normal density for ordinary manipulation. This changes eligible span/capacity, not the object's actual Weight, subsequent density or speed. Preserve genuine anchors, reinforcement, structural breaking and actual path/geometry; capacity alone does not guarantee detachment. For all three densities, including naturally Dense, halve the normal eligible manipulation span during the detachment attempt. No fourth density category is needed. Magnitude 0/I/II/III/IV/V Dense detachment spans are 1.25/2.5/5/12.5/50 ft/0.5 miles. Ease of collapsing houses/ceilings is specifically reserved for playtesting. No new structural damage formula.
@@ -40,7 +78,7 @@ Thin includes fabrics, leaves, leather, Trufula and Skyvein, including qualifyin
 | Vehicle | 10 | 16 | Mounted |
 | Industrial | 30 | 64 | Mounted |
 
-Reference finished Weight includes ordinary Codex and waste containment; compensated design ×1.25 Weight. VI bonus Quality retains V ordinary wielding Weight. No independent DEX or INT gate for manual operation. Size/Quality maximum coverage does not waive actual Range; industrial field placement versus mile-scale coverage needs reconciliation. Alternate Codex and component Weight, rounding, prices, paid Magnitude upgrades mid-activation remain open. Standard Codex Capacity/Discharge/Recharge and actual compatible design apply: a rated field is not necessarily fuelable at maximum setting by its reference Codex. QV handheld standard discharge 9 MP cannot pay compensated II (10 MP) in one turn; QVI 10.5 can. Use actual compatible supply or lower operating rank.
+Reference finished Weight includes ordinary Codex and waste containment; compensated design adds actual matched Emitter Weight (see newer Full Recoil Control). VI bonus Quality retains V ordinary wielding Weight. No independent DEX or INT gate for manual operation. Size/Quality maximum coverage does not waive actual Range; industrial field placement versus mile-scale coverage needs reconciliation. Alternate Codex and component Weight, rounding, prices, paid Magnitude upgrades mid-activation remain open. Standard Codex Capacity/Discharge/Recharge and actual compatible design apply: a rated field is not necessarily fuelable at maximum setting by its reference Codex. QV handheld standard discharge 9 MP cannot pay compensated II (10 MP) in one turn; QVI 10.5 can. Use actual compatible supply or lower operating rank.
 
 Activation lasts one minute; include activation in first operation action. Switching/releasing/reactivating within paid activation does not charge again at the paid setting. Pulling, lifting, swinging, lowering and self-grappling use the same Quality movement distance per action independently of Magnitude/density, limited by actual reach and path. A compensated unit needs uncompensated mode for self-grappling. Suspension from a secure anchor is possible during active field. Inanimate objects remain suspended without actions while the field remains active and undisturbed. Release on operator turn is free; deliberately aimed drops are offensive actions requiring an ordinary hit check.
 
