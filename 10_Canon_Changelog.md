@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: working equipment Weight and ranged conversion
+
+See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the accepted class-relative Weight curves, material modifiers, ordinary ranged DEX multipliers and compatibility matrix, and ordinary HP/d20 ranged damage budgets. Preserve baseline melee shape Weight and latest specialty rules. Damage candidates await validation; thrown, advanced and mounted profiles remain incomplete. No new ammo pricing or historical engine changes. 
+
 ## November 26, 2026 — AUTHOR APPROVED: refined Skill training progression and HP allowance
 
 For current HP/d20 Heroes at level L, let S be the number of actually allocated base attribute points invested in Skill. Baseline TP remains 2L; total ordinary earned TP = floor(2L + S × t(L)). Skill SP income remains +2 SP per allocated Skill point (ordinary earned SP = 2L + 2S); the former one-to-one SP/TP income relationship and flat +2 TP per Skill are superseded for this progression. Racial starting Skill, racial multipliers, automatic fifth-level increases, enchantments and implants do not count as S. Preserve independently approved exceptional grants, separate ledgers and existing purchase costs.
