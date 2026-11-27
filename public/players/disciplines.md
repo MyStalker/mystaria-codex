@@ -156,9 +156,19 @@ Patch a damaged machine with a flux tool, replacement parts and repair time: cur
 
 ## Machine reinforcement and plating
 
-The Structure is the load-bearing chassis, supplying Mounts, Weight and sustained/burst Load capacity. The Frame is the HP-providing body. A basic combat machine is designed around a comparable Hero's natural HP before HP training; additional durability costs Weight and Load rather than granting extra capacity. Exact construction profiles remain under calibration. Propulsion must support the finished Weight; excessive burden reduces movement, efficiency, active Evasion and eventually relevant Accuracy. Flight requires adequate lift. Sustained Load represents prolonged forces; Burst Load represents brief peaks. Physical Plating uses ordinary Light, Medium or Heavy armor protection, not extra AR for a larger machine. It adds 25%, 50% or 100% of reference frame Weight before material modifiers. Magical Plating uses applicable Nullporcelain resistance and can coexist with physical plating; exact magical balance remains subject to calibration. Lamination is an extra defensive investment comparable to armor/resistance training, with its numerical benefits still to be determined. Dermal armor supplies one quarter of equivalent machine plating protection and Weight, with ordinary cybernetic attribute benefits and biological drawbacks.
+The Structure is the load-bearing chassis, supplying Mounts, Weight and sustained/burst Load capacity. The Frame is the HP-providing body. A basic combat machine is designed around a comparable Hero's natural HP before HP training; extra durability costs Weight and available Load, rather than granting extra capacity. Propulsion must support finished Weight; excessive burden reduces movement, efficiency, active Evasion and eventually relevant Accuracy. Sustained Load represents prolonged forces; Burst Load represents brief peaks.
 
-Ordinary physical/magical plating and Lamination are passive defenses: their Weight counts toward structural capacity, but they require no separate operating Load, MP or Bandwidth. HP, AR and ER remain separate investments; exact Lamination profiles and remaining plating calibration are under development.
+Physical Plating supplies equipment AR; Magical Plating supplies ER. They may coexist, and neither requires independent operating Load, MP or Bandwidth. Larger machines require more material and Weight, not higher ratings. Nullporcelain alone supplies no AR.
+
+| Quality | Boughsteel Light AR | Medium AR | Heavy AR | Adamantite Light AR | Medium AR | Heavy AR | Nullporcelain Light ER | Medium ER | Heavy ER |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| I | 10 | 20 | 35 | 12 | 27 | 42 | 45 | 65 | 90 |
+| II | 22 | 40 | 60 | 28 | 54 | 74 | 55 | 75 | 105 |
+| III | 40 | 75 | 110 | 53 | 100 | 139 | 65 | 90 | 120 |
+| IV | 52 | 95 | 138 | 73 | 135 | 184 | 75 | 105 | 140 |
+| V | 65 | 115 | 165 | 93 | 169 | 244 | 85 | 120 | 170 |
+
+Plating Weight is the same-size, same-Quality Standard Boughsteel Frame's Weight multiplied by the class factor (Light 0.25, Medium 0.5, Heavy 1) and material factor (Boughsteel 1, Adamantite 2.5, Nullporcelain 0.75; Trufula 0.55 where legal). The actual installed Frame's design does not alter plating Weight. Count plating Weight once in each structural capacity comparison. Add applicable trained AR and ER from the operator or educated Prismind, without stacking their training for the same function. Machines do not earn their own TP. Dermal armor supplies one quarter of equivalent machine plating equipment protection and Weight, with ordinary cybernetic attribute benefits and biological drawbacks. Consult the GM for unresolved material profiles, prices and rounding.
 
 ### Choosing a Structure
 
