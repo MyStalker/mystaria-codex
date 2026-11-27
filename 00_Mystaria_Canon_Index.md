@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR DIRECTION: tractor-beam hostile grappling and pinning
+
+Tractor Beam hostile grapple/pin attempts use Technique; see [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for actual hardware eligibility and unresolved multi-target/maintenance timing. No new collision damage formula adopted.
+
 ## November 26, 2026 — AUTHOR APPROVED: kinetic field scale, tractor operation and grappling
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Kinetic fields use Intensity, Magnitude/radius and Thin/Medium/Dense target categories with twofold adjacent density differences, not target weight arithmetic or human lifting charts. Magnitude increases MP as for spells. Tractor Beam activation lasts one minute including release/reactivation, swinging and switching targets; normal actions apply. Uncompensated recoil uses operator STR, not body weight; both device output and STR must suffice to lift. Full compensation removes recoil STR requirement at efficiency cost. Grappling self-movement costs one action, 20 ft × beam tier (I–VI 20/40/60/80/100/120 ft), subject to actual range/path/anchor. Exact intensity/STR/density thresholds, activation prices, timing details, Junk distance and catalogue remain open.
