@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Seamcraft ranks and Frayed offensive fuel correction
+
+Jestercraft active magical attacks, including Binding, Thread Grapple and Living Unravel, now spend Frayed Stitches for offensive Power at 1 effective MP per Stitch, with Black Masquerade intact substitution. Retain normal pure-status/advanced-incapacitation modifiers, medium and attack rules; actual MP duration and separate applicable costs remain distinct. Silk Road also uses Frayed; passive Razorwire excepted. This supersedes older mana-funded offensive Binding wording below. See [Jestercraft](05_Jestercraft.md) for complete approved Seamcraft and open interfaces.
+
 ## November 27, 2026 — AUTHOR APPROVED: Cleanse baseline Spell Power cap
 
 Wakecraft Cleanse remains the premier dedicated self-cleansing ability: **1 MP, one available action, remove up to 100% of comparable ordinary baseline Spell Power** from eligible own status buildup (including psychic buildup under existing eligibility). This supersedes the earlier attack-status-buildup-equivalent wording: do not apply pure-status multipliers or advanced-status modifiers to inflate Cleanse. Actual reduction cannot exceed existing buildup. Preserve pre-effect eligibility, action restrictions and ordinary medium/casting requirements; one versus multiple status pools per use remains unresolved. Jestercraft Spell Catcher is an inefficient offensive-transfer alternative, not a superior cleanse. No simulation.
