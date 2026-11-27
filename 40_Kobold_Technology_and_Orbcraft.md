@@ -2,11 +2,52 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 26, 2026 — AUTHOR APPROVED: Codex capacity, universal gadget fuel costs and vehicle logistics foundation
+
+The author accepts the preceding universal gadget fuel proposal with the newer half-cost actively piloted mech correction. Retain existing listed Actuator, Articulation and propulsion combat MP, the separate piloted mech 0.5 factor and INT Integration multiplier, and the approximately 100 INT full-powered QV reference. Do not assume 400% Integration is routine.
+
+### Standard modern Codex working catalogue
+
+| Quality | Vehicle Capacity (MP) | Discharge/turn | Recharge/turn |
+|---|---:|---:|---:|
+| Junk | 15 | 6 | 7.5 |
+| I | 30 | 12 | 15 |
+| II | 45 | 18 | 22.5 |
+| III | 60 | 24 | 30 |
+| IV | 75 | 30 | 37.5 |
+| V | 90 | 36 | 45 |
+| VI | 105 | 42 | 52.5 |
+
+Multiply each of the three ratings by actual Codex size: miniature 0.1, handheld 0.25, personal 0.5, vehicle 1, industrial 4. Preserve ordinary modern multicolor shared Capacity; advanced single-color core has +50% Capacity only and actual color restriction. Multiple Codexes remain permitted with the existing Stability penalty and real physical costs. Standard Hex-Cell capacity remains twice equivalent standard Codex MP; actual operating MP produces ordinary Hex.
+
+| Codex design | Capacity | Discharge | Recharge |
+|---|---:|---:|---:|
+| Standard | 1 | 1 | 1 |
+| Reservoir | 2 | 0.5 | 0.75 |
+| Pulse | 0.75 | 3 | 0.75 |
+| Rapid-cycle | 0.75 | 1 | 3 |
+
+Apply the selected design relative to its standard reference and retain applicable existing compatible submodule modifiers. Absolute Codex Weight, material quantities, design compatibility details, fractions/rounding and tariffs still require calibration. The earlier illustrative 93 MP vehicle Codex is superseded by the working 90 MP QV reference.
+
+### Standard operating categories and utility prices
+
+Passive equipment/switches/controls 0 MP; ordinary sensors and communication 1 MP per 30 minutes each; basic holographic projection 1 MP per minute; advanced sensory analysis 2 MP per minute; active utility fields 1 MP plus the approved spell Magnitude **area MP** per minute of activation (area costs 1/2/4/10/30/60 for Magnitude 0/I/II/III/IV/V); full recoil compensation doubles applicable field cost. Tractor Beam retains one-minute activation including lawful release, reactivation and target switching. Ordinary weapons pay their individual MP per attack; combat machinery pays applicable active-round costs; routine low-output propulsion pays its listed engine operating cost per 30 minutes, not per combat round. Do not charge ordinary travel at combat rate or use the routine interval for combat/high-output movement. Apply existing lawful equipment and efficiency modifiers; no universal INT discount for ordinary manual gadgets or autonomous operation. These are working operating references, not new weapon damage or final gadget eligibility profiles. Exact rounding, size/output-specific gadget cost exceptions, changes in paid field Magnitude during activation, ordinary travel speeds and noncombat autonomous navigation computation remain open.
+
+### Autonomous combat computation
+
+Additional MP per full independent combat round, Junk/I/II/III/IV/V/VI = 2/4/6/8/10/12/13. This is sophisticated independent combat decision-making overhead, not a universal charge for simple automation, sensors, switches or basic navigation. A directly piloted machine does not pay that autonomous combat overhead; hybrid operation pays according to actual mode. Preserve autonomous activation/actions and turret benchmark (nine firing rounds, reload every three). Approximately three rounds is the standard full-output autonomous combat reference, not an artificial duration cap; greater fuel investment may extend endurance with actual physical, economic, Discharge and Stability constraints.
+
+### Fuel benchmark (illustrative, not a universal weapon tariff)
+
+Standard vehicle reference with Actuator, Articulation, Rotary propulsion and one illustrative powered weapon attack per round. Junk/I/II/III/IV/V/VI weapon MP reference = 1/2/2.5/3.5/4/5/6; actual weapons need individual profiles. QV hardware MP 4+3+6+5=18 per active round; autonomous overhead 12 yields 30, hence 3 full rounds from 90 MP. At 100% Integration (approximately 100 INT), half-cost actively piloted operation pays 9 MP/round, hence 10 full rounds. At 200/300/400% Integration 6.75/4.5/2.25 MP, respectively; theoretical last endpoint not ordinary character benchmark. A QV reference pilot at full Integration spends 48 MP for 8 hours of routine Rotary travel and 108 for three four-round encounters: total 156, 66 beyond one full 90 MP Codex. One appropriately timed refueling stop can cover that deficit from genuine fuel supplies; with standard 45 MP/turn Recharge it is not necessarily one recharge action. Four such encounters plus travel cost 192 MP. All budgets assume actual legal compatible hardware, discharge headroom, full-output reference rounds and stated travel; not a validated complete machine build or combat experiment. Reconcile fractions/precomputed operating profiles, actual Codex Weight, complete build and specialized cost/efficiency interactions before final implementation. Personal Mana Capacity training, bought mana and spare fuel remain legitimate options.
+
+Use the vehicle catalogue as the foundation for later freight and logistics calibration; see [Mana Economy](39_Canopy_Kingdoms_and_Mana_Economy.md). Preserve existing provisional economic assumptions until reconciled. The new approved fuel references supersede earlier statements leaving these particular absolute Codex, routine propulsion, utility and autonomous overhead values undecided. Still open: exact INT requirements by Quality/size, weapon profiles, actual travel speeds, mass/payload conversion, costs, rounding, turret and full-build validation. No Combat Lab simulation performed.
+
 ## November 26, 2026 — AUTHOR CORRECTION: half-cost piloted mechs and daily refueling benchmark
 
 Actively piloted mechs pay HALF their otherwise applicable operating MP, in addition to the existing INT Integration multiplier. Apply this to actual actively integrated machine operation (including genuine active remote piloting of the same kind), not to independent autonomous modes, ordinary manually operated gadgets, or a universal implant discount. Keep listed hardware MP, ordinary autonomous computation expenditure, output, minimum Integration, action, Discharge/Recharge, fuel, Hex and physical eligibility rules unchanged. Actual Hex follows actual expenditure. For a piloted mech multiply the otherwise applicable listed operating MP by 0.5 and the existing Integration multiplier: at Integration 25/50/75/100/200/300/400%, effective MP relative to undiscounted hardware cost is 400/200/100/50/37.5/25/12.5%, respectively. The 25% floor belongs to the Integration multiplier itself; the new piloted base discount is separate. No double application, new output bonus or free mana. Ordinary autonomous mode does not receive this discount even on a machine capable of piloting; preserve trained/Prismind distinctions and applicable control costs.
 
-Balance direction: a full-powered QV machine should require approximately 100 effective INT for normal/full Integration; 400% Integration is an extraordinary theoretical endpoint, not a realistic ordinary level-100 balance reference. Aim for a competent adventuring pilot to manage a day with roughly one refueling stop, rather than needing to refuel after every battle. Purchased mana and meaningful carried or nearby fuel stores are valid logistics, not a flaw; no new recharge action, fuel generation, free reserve or storage limit. The earlier roughly three-round standard full-output autonomous combat benchmark remains unchanged. Exact requirement curves by Quality/size/configuration, Codex absolute profiles, weapon and utility MP, autonomous computation ratings, routine travel time/cost, rounding and complete build/day validation remain open. Prior illustrative 90 MP vehicle Codex and daily budgets are proposals, not approved catalogue values. No new simulation.
+Balance direction: a full-powered QV machine should require approximately 100 effective INT for normal/full Integration; 400% Integration is an extraordinary theoretical endpoint, not a realistic ordinary level-100 balance reference. Aim for a competent adventuring pilot to manage a day with roughly one refueling stop, rather than needing to refuel after every battle. Purchased mana and meaningful carried or nearby fuel stores are valid logistics, not a flaw; no new recharge action, fuel generation, free reserve or storage limit. The earlier roughly three-round standard full-output autonomous combat benchmark remains unchanged. Exact requirement curves by Quality/size/configuration, individual weapon MP, rounding and complete build/day validation remain open. The newer approved fuel catalogue above resolves the working Codex, utility, routine propulsion interval and autonomous overhead values; the daily budget remains an illustrative reference, not a validated build. No new simulation.
 
 ## November 26, 2026 — AUTHOR DIRECTION: tractor-beam hostile grappling and pinning
 
