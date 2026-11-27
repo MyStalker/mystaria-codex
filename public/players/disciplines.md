@@ -193,6 +193,12 @@ Torque is the Weight an engine can move efficiently. An engine also has its own 
 
 Flight requires a flight-capable engine and no more than 150% burden. Above that an airborne machine descends; loss of propulsion may cause falling or gliding. Torque overload and structural overload are separate. Apply Evasion/Accuracy penalties only to affected active functions. Mechanical hardware Evasion = floor(DEX/20) + floor(designed Speed/20 ft), Speed contribution capped at +5 and combined hardware at +10; add applicable nonstacking pilot or Prismind training, then burden penalty. Exact combined-engine rules and MP rounding are still under calibration.
 
+### Actuators and Articulation
+
+Actuators supply task-appropriate STR; Articulation supplies task-appropriate DEX; propulsion moves the machine. Mechanical attributes replace, not add to, pilot attributes for machine-performed tasks. Use ordinary physical accuracy and Technique foundations and the mechanical Evasion rule above. Applicable trained bonuses come from the pilot or an educated Prismind, not both stacked for the same function.
+
+Initial working vehicle-size Standard STR/DEX references for Junk and I–V: 6/6, 12/12, 30/25, 50/45, 70/60, 90/80. High-Force and Hyperarticulated designs double their respective attribute but triple Weight, base Load and MP. Lightweight and Economical designs trade output for other benefits; narrow Task-Specialized Articulation grants enhanced DEX only for its selected function. See the owning Orbcraft reference for the initial working component tables. Complete-build headroom and module size costs remain under calibration: a single-attribute specialist must have room for useful equipment and other functions, while maximizing both attributes together should remain demanding.
+
 ### Structure Checks
 
 Normal operation within Sustained and Burst Load capacity requires no check. A compatible machine can deliberately override its safety limiter to exceed either capacity. Roll a flat d20: over 100% through 150% succeeds on 10 or higher; over 150% through 200% succeeds on 15 or higher; over 200% automatically fails. Check once per overloaded sustained round or overloaded burst activation. Failure prevents the intended function, spends its action and MP, and directly removes a quarter of base structural HP, bypassing Shimmer. Existing Codex Stability triggers still apply. No bonus can improve the Structure Check; improve the Structure or reduce the actual demand instead. Modules use simple 0/1/2 demand grades, with exact profiles under calibration.
