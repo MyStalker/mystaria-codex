@@ -9,7 +9,7 @@ Choose a tradition for what you want to do and who your character is. Knowing a 
 | [Wakecraft](/reference/wakecraft/) | Tidekin | Water force, reach, hidden sources, memory, sea life, and thirst. |
 | [Psycraft](/reference/psycraft/) | Naga Psychics | Psychic force, minds, and divination. |
 | [Sanguine Arts](/reference/sanguine-arts/) | Vren | Blood, bonds, forms, shadow, predatory power, and moments. |
-| [Jestercraft](/reference/jestercraft/) | A chosen wearer of living Regalia, of any race | Fabric, Stitches, protection, puppetry, and strange bodily tricks. |
+| [Jestercraft](/reference/jestercraft/) | A chosen wearer of living Regalia, of any race | DEX-led martial art: acrobatic movement, fabric control, protection and retaliatory attacks. |
 | [Anvilcant](/reference/anvilcant/) | Centaur smithing tradition and qualified learners | Materials, manufacture, enchantment, mechanisms, and maintenance. |
 | **Concordance** | Thornguard and Bloomkin partnership | Cooperative white-mana shaping and protection. |
 | **Fraycraft** | Duskpaws | Black-mana locks, decay, and practical cleverness. |
@@ -36,7 +36,7 @@ Area cost is separate from other eligible spell costs. Your available mana, Chan
 
 ## Buying ranks
 
-Use the actual tradition's ledger. Native and foreign Craft learning can differ; an awakening requirement is not a rank. Sorcery purchases individual Incantations and alterations; Jestercraft has a different component economy. Earlier ranks and the appropriate tier prerequisites still matter.
+Use the actual tradition's ledger. Native and foreign Craft learning can differ; an awakening requirement is not a rank. Sorcery purchases individual Incantations and alterations; Jestercraft uses physical Stitches and learned martial techniques. Its damaging magical attacks expend Frayed Stitches instead of MP; Frayed fabric lasts until combat ends, or two minutes outside combat. Black Masquerade may be toggled freely at the beginning of the Jester's turn, disables Curtainwall and lets intact Stitches serve as sacrificial attack ammunition. Meaningful movement of at least half normal speed grants +1 Evasion, or +2 instead on qualifying threads, until the next turn begins. Exact attack profiles and the HP conversion of Curtainwall are still being developed. Earlier ranks and the appropriate tier prerequisites still matter.
 
 SP buys these learned options. TP improves the combat statistics used to apply them; buying accuracy does not itself teach a spell.
 
