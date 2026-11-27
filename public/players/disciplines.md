@@ -19,6 +19,12 @@ Choose a tradition for what you want to do and who your character is. Knowing a 
 | **Wyrmcraft** | Drakyn | Sorcery metamagic across five disciplines. |
 | **Mnemonic Arts** | Qualified memory specialists | Recording, cutting, receiving, and safeguarding Echoes. |
 
+## Attack commitment and Smoke Sense
+
+One-action offensive spells and martial techniques take −2 Attack and may use half the applicable Channel Limit; two-action attacks have no commitment penalty and may use the full limit. Both share the ordinary two-action turn, one offensive attack maximum and shared channeling budget. Ordinary weapon damage is not reduced by a Quick Attack. Nonoffensive casting retains its normal channeling and eligibility rules.
+
+Smoke imposes −2 Attack per smoke-filled tile along the sightline, including the caster's and target's tiles. At −10 from smoke alone, the target cannot be seen or directly attacked. A Pyromancer's Smoke Sense ignores the caster's and target's occupied tiles, not smoke between them.
+
 ## Magnitude and spell maintenance
 
 Magnitude sets how far you can place a spell, how large an ordinary area you may pay to affect, and how many spells you can actively maintain at once.

@@ -1,3 +1,26 @@
+## November 27, 2026 — AUTHOR APPROVED: universal attack commitment and tile-based smoke
+
+### Offensive casting and martial techniques
+
+Current HP/d20 combat uses the same attack commitment rule for physical weapons, offensive spells and mana-enhanced martial arts. A combatant has two actions per turn and at most one offensive attack action per turn; this is not permission for a second attack or a new martial technique.
+
+| Attack commitment | Accuracy modifier | Applicable Channel Limit | Ordinary weapon damage |
+|---|---:|---:|---:|
+| Quick Attack / one-action offensive spell or technique | −2 Attack | 50% | Unchanged |
+| Full Attack / two-action offensive spell or technique | 0 | 100% | Unchanged |
+
+Apply the −2 to the applicable Attack bonus once per one-action offensive attack, including an offensive spell or martial technique; use the actual modified attack total for the normal direct attack, applicable AoE Reflex DC and critical confirmation procedures. Two-action attacks have no commitment penalty; other lawful situational modifiers still apply. An unenhanced weapon retains its full otherwise lawful inherent damage, attribute contribution and trained damage. Channel Limit restricts mana throughput, not ordinary weapon damage. Mana expenditure, rank requirements, medium, existing action-specific eligibility and the shared turn-scale Channel Limit remain binding; use the existing one-action channeling rounding and eligible minimum-one-MP exception. Nonoffensive actions do not receive a new attack accuracy penalty. This supersedes the older −4 or one-category Quick Attack penalty and the absence of an equivalent one-action offensive spell penalty in current HP/d20; preserve frozen historical rules and separately approved specialist mechanics.
+
+### Smoke and Smoke Sense
+
+For current HP/d20, count the smoke-filled battlefield tiles crossed by the relevant attack sightline, including the attacker's occupied tile and the target's occupied tile (each distinct tile counted once). Each qualifying tile imposes **−2 Attack**. When the smoke penalty reaches **−10** (five qualifying tiles), the target cannot be seen or directly attacked through that sightline. This is a visibility restriction, not a roll that succeeds on a natural 20. Use only actual smoke along the sightline, not unrelated cloud area.
+
+A Pyromancer using **Smoke Sense** ignores the smoke penalty from their own occupied tile and from the target's occupied tile. Intervening smoke still counts normally, including toward the −10 visibility cutoff. For example, smoke on both endpoint tiles with no intervening smoke gives an ordinary attacker −4 and a Pyromancer with Smoke Sense zero smoke penalty. Other accuracy modifiers (including the one-action −2) still apply separately. Smoke does not grant blanket immunity to obstruction, extra actions, or bypass medium or legal targeting requirements.
+
+This replaces the earlier one-tile sightline/category rule and escalating tripling thresholds in current HP/d20. Direct sight-dependent attacks are unavailable at the new cutoff; separate lawful non-sight-dependent area effects are not granted new permissions here. Smoke creation, duration, dispersal, maintenance and other special-sense rules are otherwise unchanged; detailed smoke counterplay and blind-target interactions beyond the approved direct-attack restriction remain open.
+
+See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) for universal action economy.
+
 ## November 26, 2026 — AUTHOR APPROVED: collapse hazards, Buried status and kinetic uprooting
 
 Buried is a physical environmental restraint owned by [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), with approved standard 1× and advanced 2× effective status HP thresholds, persistence while debris remains, and explicit self-struggle exception at advanced severity. Environmental buildup 100/300/750/1500/3000 by actual trapping debris scale, Thin ×0.5/Dense ×2, ordinary successful cover ×0.5; this is not an offensive spell Power formula. Standard halves movement and applies two Pressure Points, advanced immobilizes and restricts victim to struggle; legal attacks/spells/gadgets at lesser severity and external rescue can physically clear material. Struggle removes max(1, 2×STR) per action, up to both actions; ordinary allied counters retain existing proportional defaults. Dormant Shimmer status Break can reduce advanced Buried to standard if still available; cannot use it after impact activates/breaks Guard. Exact simultaneous damage/buildup ordering remains open. Physical rubble is not automatically removed by generic magical status dispelling. See Combat for all avoidance and removal rules.

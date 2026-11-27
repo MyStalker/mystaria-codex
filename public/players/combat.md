@@ -6,6 +6,8 @@ You have **two actions per turn**, with **at most one offensive attack action**.
 
 Use the remaining opportunity for lawful movement, preparation, equipment handling, assistance, or another supported nonoffensive action. An enchantment or zero-MP cantrip follows the same attack limit.
 
+A **Quick Attack** (one action), whether a weapon strike, offensive spell or martial technique, takes **−2 Attack** and can use at most half the applicable Channel Limit. A **Full Attack** (two actions) takes no commitment accuracy penalty and can use the full applicable limit. Ordinary weapon damage remains unchanged either way. Channeling still shares the turn's available throughput; mana costs and legal technique requirements still apply. Use the ordinary casting rounding and minimum rules. A nonoffensive action does not gain an attack penalty.
+
 ## Making a physical attack
 
 1. Choose a target you can actually reach or shoot, with the right hands, weapon readiness, and line of effect.
@@ -24,6 +26,8 @@ Pressure represents meaningful tactical disadvantages: being pinned into a bad p
 Each effective Pressure Point reduces Evasion and Reflex checks by **2**, up to **three net points**. At three the target is **Trapped** under the current rules. Eligible automatic or passive shield defenses can still function; Trapped is not permission to ignore every defense.
 
 Space matters. Reach, cover, facing, a genuine attack path, and room to swing remain real constraints. A large damage rating is not automatic area coverage.
+
+**Smoke:** Each smoke-filled tile along the attack sightline imposes −2 Attack, including the tiles you and the target occupy. At −10 from smoke alone, you cannot see or directly attack that target. Pyromancer Smoke Sense ignores smoke in both occupied endpoint tiles, but not intervening tiles. Other attack modifiers still apply.
 
 ## Prepare a defense before the result
 
