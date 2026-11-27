@@ -2,13 +2,39 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 26, 2026 — AUTHOR APPROVED: Structure catalogue and design specialties
+
+Structure (load-bearing chassis, not HP-providing Frame) QI Standard Boughsteel size references:
+
+| Size | Weight | Sustained Load | Burst Load |
+|---|---:|---:|---:|
+| Miniature | 0.1 | 1 | 1 |
+| Handheld | 1 | 4 | 4 |
+| Personal | 4 | 16 | 16 |
+| Vehicle | 16 | 64 | 64 |
+| Industrial | 64 | 256 | 256 |
+
+Quality Junk/I/II/III/IV/V multiplies both Load capacities by 0.5/1/1.5/2/2.5/3, with no automatic Structure Weight increase. Apply the following material multipliers independently to the corresponding base statistics:
+
+| Material | Sustained Load | Burst Load | Weight |
+|---|---:|---:|---:|
+| Boughsteel | 1 | 1 | 1 |
+| Springsteel | 1 | 2 | 0.8 |
+| Adamantite | 2 | 2 | 2.5 |
+| Reprise Bronze | 0.75 | 0.75 | 1 |
+| Skyvein | 0.75 | 0.75 | uplift; exact unresolved |
+
+Choose one Structure configuration at construction: Standard (Sustained x1, Burst x1); Heavy-Duty (Sustained x2, Burst x0.5); Dynamic (Sustained x0.5, Burst x2). Configurations have the same reference Weight and are alternatives, not cumulative submodules. Multiply size reference, Quality, material and configuration for each Load capacity. Retain fractional Weight/Load during construction (exact final rounding remains open). Mounts depend on actual geometry and the existing Fabrication rank limits; no new per-size numerical Mount table approved. Preserve Reprise Bronze compression constraints, Skyvein inertia/nourishment and Serpent Steel restrictions. Structure material does not automatically grant Frame HP, AR or ER; those are separate investments.
+
+Examples QV vehicle (Weight / Sustained / Burst): Standard Boughsteel 16/192/192; Heavy-Duty Boughsteel 16/384/96; Dynamic Boughsteel 16/96/384; Standard Springsteel 12.8/192/384; Dynamic Springsteel 12.8/96/768; Heavy-Duty Adamantite 40/768/192; Standard Adamantite 40/384/384. These are empty Structures only. Frame HP, Weight, Load costs, exact Mount geometry, engine demand assignments, weight aggregation and complete build balance remain open. No simulation or pricing approval.
+
 ## November 26, 2026 — AUTHOR APPROVED: Structure Checks and simplified Load demands
 
 A properly supported machine can perform its ordinary designed functions without a Structure Check; ordinary turning, braking and maneuvering within the listed design envelope do not independently trigger structural failure. Compatible oversized or overpowered machinery may be fitted to an inadequate Structure, but a normal safety limiter prevents operation beyond available Sustained or Burst Load unless deliberately overridden. Deliberate overloading is permitted, not a free source of output. No new attachment permission overrides actual Mounts, geometry, power supply or other compatibility requirements.
 
 A **Structure Check** is a flat, unmodified d20 roll when the actual demanded Load exceeds the corresponding Structure capacity. Demand at or below 100% requires no roll; above 100% through 150% succeeds on d20 >= 10; above 150% through 200% succeeds on d20 >= 15; above 200% automatically fails. Sustained overload checks once per round of overloaded operation; Burst overload checks once per overloaded activation/maneuver. Success allows the attempted function normally, subject to all other legal limitations. Failure prevents the attempted function, consumes the expended action and MP, and directly removes one quarter of base structural HP (25%, not 10%) from current structural HP, bypassing Shimmer Guard. Use the machine's intact designed maximum structural HP, not remaining current HP or shared Shimmer, as the working meaning of base health; ordinary existing whole-HP rounding applies. Existing Codex Stability triggers from the resulting HP loss still apply; Structure Check and Codex Stability are separate. No module, material, training, operator attribute, Integration or other bonus may modify the flat Structure Check roll; better engineering increases actual capacity or reduces demand instead. Simultaneous sustained/burst check handling, exact limiter implementation and exceptional zero-capacity cases remain open.
 
-Author-directed simplification: module Sustained and Burst demands use only 0/1/2 times their base Load rating (none/standard/heavy), replacing the earlier fractional Stress Factor catalogue as the design framework. Exact module-specific assignments, base ratings, combination of Weight and strain and aggregation of peak demands remain to be finalized; do not promote illustrative wagon numbers into canon. No new Structure/Frame numerical catalogue approved.
+Author-directed simplification: module Sustained and Burst demands use only 0/1/2 times their base Load rating (none/standard/heavy), replacing the earlier fractional Stress Factor catalogue as the design framework. Exact module-specific assignments, base ratings, combination of Weight and strain and aggregation of peak demands remain to be finalized; do not promote illustrative wagon numbers into canon. The newer Structure catalogue above is approved; Frame numerical catalogue remains open.
 
 ## November 26, 2026 — AUTHOR APPROVED: separate Structure and Frame construction
 
