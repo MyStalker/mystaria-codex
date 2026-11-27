@@ -2,6 +2,10 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 26, 2026 — AUTHOR APPROVED: passive machine defense design
+
+Ordinary Physical Plating, Magical Plating and Lamination are passive installed defenses. They contribute actual Weight (counted once in each structural capacity comparison) and require no separate active operating Load, MP or Bandwidth. Frame HP, equipment-derived AR/ER and Lamination-derived additional mitigation remain independent investments. Develop meaningful durability, physical mitigation, energy resistance, lightweight mobility and generalist options, without cheap simultaneous maximization. Exact numerical Lamination ratings, reference plating Weight reconciliation, material-specific magical mitigation, costs and complete-build balance still require approval. No new numeric defense table approved by this entry.
+
 ## November 26, 2026 — AUTHOR CORRECTION: onboard weapons do not demand independent Load
 
 Onboard weapons have no independent Sustained or Burst Load demand, including ordinary recoil or attack activation. A machine's appropriate mechanical STR and DEX, actuator/articulation hardware, and lawful weapon handling/mounting already accommodate ordinary weapon forces. Do not charge the weapon's recoil a second time as active or reserved Load. Weapon Weight still counts once in total Weight, and all existing handling requirements, physical compatibility, actual recoil/anchoring principles where relevant, damage, ammunition, MP, Hex, Bandwidth and action economy remain in force. This is not free unlimited weapon size, extra attacks or removal of recoil physics. An emitter serving as actual propulsion uses the propulsion rules for that function.
