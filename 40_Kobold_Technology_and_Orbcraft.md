@@ -2,6 +2,33 @@
 
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
+## November 26, 2026 — AUTHOR APPROVED: Actuators, Articulation and viable specialization
+
+Actuators provide task-appropriate mechanical STR, Articulation provides task-appropriate mechanical DEX; propulsion moves the machine itself. Mechanical attributes replace rather than add to pilot attributes for machine-performed tasks. HP comes from Frame, AR/ER from applicable plating and Lamination, MP from power supply. No simulated END, INT or Skill is required. Use ordinary governing attribute contributions to physical damage and physical accuracy (floor((STR+DEX)/20)), ordinary Technique foundation max(STR,DEX) and the previously approved mechanical Evasion formula. Applicable pilot or educated Prismind training may supply trained bonuses but the same function does not stack the two sources; trained Technique remains subject to ordinary training rules, and machine armor/resistance training is represented by Lamination. Preserve actual physical compatibility, control/actions and other existing rules.
+
+Author accepts the following initial Actuator/Articulation catalogue as the working basis, with capacity headroom and complete build affordability explicitly still subject to adjustment. Reference is vehicle-size standard module; entries are attribute / Weight / base Load / MP per active round:
+| Quality | Actuator | Articulation |
+|---|---|---|
+| Junk | 6/1.5/1.5/0.5 | 6/1/1/0.5 |
+| I | 12/3/3/1 | 12/2/2/1 |
+| II | 30/5/5/1.5 | 25/3/3/1 |
+| III | 50/7/7/2 | 45/4/4/2 |
+| IV | 70/9/9/3 | 60/6/6/2 |
+| V | 90/12/12/4 | 80/8/8/3 |
+
+Actuator family Sustained/Burst demand grades: general-purpose 1/1; industrial lifting 2/0; combat 1/2. Ordinary Articulation 1/0. Select one design per subsystem; multipliers attribute/Weight/base Load/MP:
+| Design | Factors |
+|---|---|
+| Standard | 1/1/1/1 |
+| High-Force Actuator or Hyperarticulated Articulation | 2/3/3/3 |
+| Lightweight | 0.75/0.5/0.75/1 |
+| Economical | 0.75/1.5/1/0.5 |
+| Task-Specialized Articulation | 2/2/2/2 for narrow designated task only |
+
+Task-limited DEX is not a whole-machine combat/evasion bonus. Proposed size STR factors accepted as initial working basis: miniature 0.1, handheld 0.25, personal 0.75, vehicle 1, industrial 3. DEX does not automatically scale down with module size but applies only to actual controlled mechanisms. Exact module size Weight/Load/MP factors remain open; no free global attributes from miniature components. Use applicable existing STR lifting benchmarks, actual handling, combined-effort rules; multiple actuators do not simply sum STR. Carried cargo counts toward total Weight and support demand without duplicate static burden.
+
+Author directs that single-attribute specialists retain meaningful capacity for equipment, power, protection and other functions analogous to a Hero's gear and magic, through fair construction options or revised headroom. Near-maximal generalist STR and DEX together should remain prohibitively demanding at comparable size/Quality/budget; avoid making specialization unusable. The working cost tables are not a validated final balance pass. New capacity upgrades or adjusted module costs require further author approval; no Combat Lab test performed.
+
 ## November 26, 2026 — AUTHOR APPROVED: propulsion catalogue, Torque, burden brackets and flight
 
 Engine statistics: Torque (formerly Rated Weight; maximum Weight efficiently moved), Speed (tactical feet), Weight (own Weight), MP per operating round, Sustained Load and Burst Load. Vehicle-size Standard Boughsteel Rotary reference, ordered Torque/Speed/Weight/MP/base Load: Junk 32/10/6/1/8; I 64/20/12/2/16; II 96/30/18/3/24; III 128/40/24/4/32; IV 160/50/30/5/40; V 192/60/36/6/48. All scale by existing Quality factors. Torque, Weight, MP and base Load also scale with actual module size (exact size coefficients remain open); Speed does not automatically scale with size. Engine material factors beyond Boughsteel remain open.
@@ -38,7 +65,7 @@ Propulsion burden = total supported Weight / available Torque. Apply one bracket
 
 Underweight retains existing efficiency benefit, never extra Speed. Apply flat penalties to applicable active combat statistics, not independently supported stationary equipment. Propulsion burden is not itself a Structure Check; actual Load excess uses the separate approved check. Flight-capable Rotor, Thrust and Arcane Field propulsion requires available Torque at least two-thirds of supported Weight (150% burden inclusive). Beyond 150% cannot take off or maintain altitude; airborne craft begin descending, or fall/glide as construction permits if propulsion is lost. No separate numerical Lift stat. Preserve actual flight geometry and other physical constraints, power, Hex, Integration, actions and Shimmer.
 
-Mechanical Evasion: floor(mechanical DEX/20) plus floor(designed propulsion Speed in feet/20), propulsion contribution capped at +5 and combined hardware contribution capped at +10; add applicable trained Evasion of pilot or Prismind without stacking the two, then apply flat propulsion burden penalty. No simultaneous additional HP-derived Evasion contribution approved. Exact controller assistance selection beyond nonstacking, temporary speed modifier handling, combined propulsion Torque and MP rounding remain open. No new actuator profile or simulation result approved.
+Mechanical Evasion: floor(mechanical DEX/20) plus floor(designed propulsion Speed in feet/20), propulsion contribution capped at +5 and combined hardware contribution capped at +10; add applicable trained Evasion of pilot or Prismind without stacking the two, then apply flat propulsion burden penalty. No simultaneous additional HP-derived Evasion contribution approved. Exact controller assistance selection beyond nonstacking, temporary speed modifier handling, combined propulsion Torque and MP rounding remain open. See newer Actuator/Articulation working catalogue above; no simulation result approved.
 
 ## November 26, 2026 — AUTHOR APPROVED: Frame catalogue and subsystem specialization
 
