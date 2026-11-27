@@ -1,3 +1,7 @@
+## Ranged weapons and equipment Weight
+
+Use the finished weapon's Weight and actual handling requirements. Higher Quality increases Weight and ordinary ranged DEX handling. Bows depend on draw strength; crossbows and firearms derive damage from the mechanism and purchased damage training, rather than the user's strength. Carrying a weapon is not the same as drawing, cocking or controlling it. Material compatibility and exceptional designs matter. Use the GM's working ranged profile for damage and AP; missing values are not zero.
+
 A loadout is a set of tradeoffs. Your weapon determines how you threaten an enemy; armor and shields determine how you withstand them. Weight, handling, reach, and available hands tie those choices together.
 
 ## Read a weapon profile
