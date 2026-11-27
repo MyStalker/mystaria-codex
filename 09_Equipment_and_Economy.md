@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: ranged damage balance and firing cycles
+
+Current HP/d20 ordinary ranged damage factors: Shortbow ×1.05 (was ×0.90), throwing dagger ×0.95 (was ×0.80), military crossbow ×1.65 (was ×1.75), carbine ×1.40 (was ×1.50), precision rifle ×1.50 (was ×1.75), arbalest ×1.70 (was ×2.00), sling ×1.00 (was ×0.90). All other factors remain unchanged. Multiply only neutral inherent weapon damage before the existing damage-form/AP calculation; do not multiply attribute or training contributions. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the operative firing cycles, magazine capacities and preserved dedicated-turn exceptions. The ordinary arbalest is distinct from the advanced arbalest. Exceptional ranged HP/d20 profiles, Junk weapon damage and exact bow draw contribution remain open. No historical engine, ammo price, or advanced firing ability changes.
+
 ## November 26, 2026 — AUTHOR APPROVED: working equipment Weight and ranged conversion
 
 See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the accepted class-relative Weight curves, material modifiers, ordinary ranged DEX multipliers and compatibility matrix, and ordinary HP/d20 ranged damage budgets. Preserve baseline melee shape Weight and latest specialty rules. Damage candidates await validation; thrown, advanced and mounted profiles remain incomplete. No new ammo pricing or historical engine changes. 

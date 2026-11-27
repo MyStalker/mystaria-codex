@@ -1,6 +1,36 @@
+## November 26, 2026 — AUTHOR APPROVED: ranged damage balance and firing cycles
+
+Current HP/d20 ordinary ranged damage factors: Shortbow ×1.05 (was ×0.90), throwing dagger ×0.95 (was ×0.80), military crossbow ×1.65 (was ×1.75), carbine ×1.40 (was ×1.50), precision rifle ×1.50 (was ×1.75), arbalest ×1.70 (was ×2.00), sling ×1.00 (was ×0.90). All other factors remain unchanged. Multiply only neutral inherent weapon damage before the existing damage-form/AP calculation; do not multiply attribute or training contributions. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the operative firing cycles, magazine capacities and preserved dedicated-turn exceptions. The ordinary arbalest is distinct from the advanced arbalest. Exceptional ranged HP/d20 profiles, Junk weapon damage and exact bow draw contribution remain open. No historical engine, ammo price, or advanced firing ability changes.
+
+Balance evidence: experiment ab123456-0000-4000-8000-000000000004, as reported in the author-approved analysis: 91,000 encounters, 140 constructions, 910/910 consistency checks, no draws/timeouts. The adjusted-policy values were tested, not every final rounded value; sling ×1.00 is a newly approved adjustment rather than a tested result. Stationary tests do not establish spatial or reload-cycle balance. No new experiment was run for this approval.
+
+### Approved firing cycles
+
+A turn has two actions and permits at most one offensive attack action. A normal shot consumes its ordinary ammunition; magazine capacity does not grant an extra attack or an automatic volley. Reloads consume the listed actions and can be split across turns unless a previously approved dedicated full-turn reload rule applies. An initially loaded ordinary arbalest can shoot and spend one reload action on turn 1, finish loading and shoot on turn 2, reload on turn 3 and shoot on turn 4. Bows include nocking/drawing in the attack; preserve actual draw and ammunition requirements.
+
+| Weapon | Shots before reload | Reload cost |
+|---|---:|---|
+| Bow | 1 | Included in attack |
+| Hand crossbow | 1 | 1 action |
+| Hunting crossbow | 1 | 1 action |
+| Military crossbow | 1 | 2 actions |
+| Arbalest (ordinary) | 1 | 2 actions |
+| Advanced arbalest | 1 | 4 actions: two dedicated reload turns |
+| Repeating crossbow | 6 | 2 actions |
+| Single-shot pistol | 1 | 2 actions: dedicated full turn |
+| Revolver | 6 | 2 actions |
+| Automatic pistol | 12 | 2 actions |
+| Musket | 1 | 2 actions |
+| Carbine | 8 | 2 actions |
+| Automatic carbine | 20 | 2 actions |
+| Precision rifle | 5 | 2 actions |
+| Scattergun | 2 | 1 action |
+
+Retain the prior dedicated full-turn rule for high-capacity magazine reloads wherever already applicable. The advanced arbalest still requires its separately approved initial setup turn and two dedicated nonshooting reload turns, not a split-action shortcut; setup is not reset by ordinary discharge/reloading. Advanced crossbow keeps one dedicated reload turn; advanced precision rifle and light precision firearm keep 5/6 cartridges and one full nonshooting magazine reload turn. This table supersedes older generic ordinary reload benchmarks only for listed ordinary models. Preserve actual cocking, support, recoil, ammunition compatibility, recoil recovery and other independently approved action rules. Automatic pistol/carbine magazine capacities are now approved; volley expenditure, upgraded magazines and other unspecified profiles are not finalized by this table.
+
 ## November 26, 2026 — AUTHOR APPROVED: thrown and mounted recurve damage candidates
 
-Retain the ordinary HP/d20 ranged construction budget and form/AP rules below. Additional neutral inherent damage factors: throwing dagger Light ×0.8 (DEX), throwing axe Light ×1 (STR), javelin Medium ×1 (STR), dart Light ×0.6 (DEX), sling Light ×0.9 (STR), bolas Light ×0.5 (DEX), mounted recurve Medium ×0.9 (STR draw). Add lawful attribute and trained damage as applicable. Bolas entanglement remains unresolved, not automatic. These are approved working candidates pending balance validation. No new release requirements, ammunition prices, mount support ratings or historical wound conversion. Exceptional engineered bows and advanced ranged profiles require further numerical calibration.
+Retain the ordinary HP/d20 ranged construction budget and form/AP rules below. Additional neutral inherent damage factors: throwing dagger Light ×0.95 (DEX), throwing axe Light ×1 (STR), javelin Medium ×1 (STR), dart Light ×0.6 (DEX), sling Light ×1.00 (STR), bolas Light ×0.5 (DEX), mounted recurve Medium ×0.9 (STR draw). Add lawful attribute and trained damage as applicable. Bolas entanglement remains unresolved, not automatic. These are approved working values; see the latest balance approval above for tested-versus-rounded distinctions. No new release requirements, ammunition prices, mount support ratings or historical wound conversion. Exceptional engineered bows and advanced ranged profiles require further numerical calibration.
 
 ## November 26, 2026 — AUTHOR APPROVED: working HP/d20 equipment Weight and ordinary ranged conversion
 
@@ -12,7 +42,7 @@ Ordinary ranged DEX Handling = ceil(QI DEX × 1/1.5/2/3/4 at I–V); Junk uses Q
 
 | Weapon | Weight class | Neutral damage reference class | Damage factor |
 |---|---|---|---:|
-| Shortbow | Light | Light | 0.9 |
+| Shortbow | Light | Light | 1.05 |
 | Recurve bow | Medium | Medium | 0.9 |
 | Longbow | Medium | Medium | 1 |
 | Composite bow | Medium | Medium | 1 |
@@ -20,21 +50,21 @@ Ordinary ranged DEX Handling = ceil(QI DEX × 1/1.5/2/3/4 at I–V); Junk uses Q
 | Mounted recurve | Medium | unresolved | unresolved |
 | Hand crossbow | Light | Light | 1.5 |
 | Hunting crossbow | Medium | Medium | 1.5 |
-| Military crossbow | Medium | Medium | 1.75 |
-| Arbalest | Heavy | Heavy | 2 |
+| Military crossbow | Medium | Medium | 1.65 |
+| Arbalest | Heavy | Heavy | 1.70 |
 | Repeating crossbow | Medium | Medium | 1.1 |
 | Single-shot pistol | Light | Light | 1.75 |
 | Revolver | Light | Light | 1.5 |
 | Automatic pistol | Light | Light | 1.25 |
 | Musket | Medium | Medium | 2 |
-| Carbine | Medium | Medium | 1.5 |
+| Carbine | Medium | Medium | 1.40 |
 | Automatic carbine | Medium | Medium | 1.25 |
-| Precision rifle | Heavy | Heavy | 1.75 |
+| Precision rifle | Heavy | Heavy | 1.50 |
 | Scattergun | Medium | Medium | 1.75 |
 | Throwing dagger / axe / dart / sling / bolas | Light | unresolved | unresolved |
 | Javelin | Medium | unresolved | unresolved |
 
-Neutral inherent damage reference I–V: Light 45/72/106/133/165, Medium 60/94/136/172/216, Heavy 75/119/169/214/269. Multiply by listed factor then apply eligible form once: Slashing ×1.125 / AP 0; Blunt ×1 / AP floor(25% neutral inherent); Piercing ×0.875 / AP floor(50% neutral inherent). Round printed inherent damage nearest whole. Bows add draw-dependent STR contribution (exact partial draw HP conversion still open) and trained damage; crossbows/firearms add trained damage only, no STR-derived raw damage. Thrown weapons add applicable attribute contribution and trained damage; individual numerical budgets unresolved. No material damage multiplier for ranged output approved here. Preserve engineered caps, actual ammo compatibility, existing reloads and attack modes. Historical wound Power unchanged. Junk damage, advanced variants, mounts, siege, ranged timing and exact range profiles remain open. These are accepted working damage candidates pending balance validation, not empirically balanced.
+Neutral inherent damage reference I–V: Light 45/72/106/133/165, Medium 60/94/136/172/216, Heavy 75/119/169/214/269. Multiply by listed factor then apply eligible form once: Slashing ×1.125 / AP 0; Blunt ×1 / AP floor(25% neutral inherent); Piercing ×0.875 / AP floor(50% neutral inherent). Round printed inherent damage nearest whole. Bows add draw-dependent STR contribution (exact partial draw HP conversion still open) and trained damage; crossbows/firearms add trained damage only, no STR-derived raw damage. Thrown weapons add applicable attribute contribution and trained damage; individual numerical budgets unresolved. No material damage multiplier for ranged output approved here. Preserve engineered caps, actual ammo compatibility, existing reloads and attack modes. Historical wound Power unchanged. Junk damage, advanced variants, mounts, siege, ranged timing and exact range profiles remain open. These are accepted working damage values; the latest balance approval above records validation scope and remaining limitations.
 
 Material compatibility (ordinary / conditional composite / unsuitable primary):
 | Material | Bow | Crossbow | Firearm | Thrown |

@@ -1,3 +1,11 @@
+## November 26, 2026 — AUTHOR APPROVED: ranged damage balance and firing cycles
+
+Current HP/d20 ordinary ranged damage factors: Shortbow ×1.05 (was ×0.90), throwing dagger ×0.95 (was ×0.80), military crossbow ×1.65 (was ×1.75), carbine ×1.40 (was ×1.50), precision rifle ×1.50 (was ×1.75), arbalest ×1.70 (was ×2.00), sling ×1.00 (was ×0.90). All other factors remain unchanged. Multiply only neutral inherent weapon damage before the existing damage-form/AP calculation; do not multiply attribute or training contributions. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the operative firing cycles, magazine capacities and preserved dedicated-turn exceptions. The ordinary arbalest is distinct from the advanced arbalest. Exceptional ranged HP/d20 profiles, Junk weapon damage and exact bow draw contribution remain open. No historical engine, ammo price, or advanced firing ability changes.
+
+Balance evidence: experiment ab123456-0000-4000-8000-000000000004, as reported in the author-approved analysis: 91,000 encounters, 140 constructions, 910/910 consistency checks, no draws/timeouts. The adjusted-policy values were tested, not every final rounded value; sling ×1.00 is a newly approved adjustment rather than a tested result. Stationary tests do not establish spatial or reload-cycle balance. No new experiment was run for this approval.
+
+Affected references: ranged catalogue, equipment and economy, canon index, and public player equipment guide. The approved timings are documented, not a claim of simulated firing-cycle validation. Existing dedicated-turn advanced and magazine rules preserved.
+
 ## November 26, 2026 — AUTHOR CLARIFICATION: restoration of patch-lost structural HP
 
 Appropriate green-mana structural repair restores maximum structural HP previously lost to mechanical patch repairs, up to the machine's lawful original intact maximum, as well as repairing current HP according to the actual effect. It is not limited to preventing additional maximum-HP loss. Genuine replacement materials and applicable repair/shape requirements remain; exact costs, rates, and whether a qualified Wetcraft repair independently restores prior patch loss remain open.
