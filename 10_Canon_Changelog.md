@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR CORRECTION: half-cost piloted mechs and daily refueling benchmark
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Actively piloted mechs pay half otherwise applicable operating MP, separate from existing Integration; normal full Integration now pays 50% of undiscounted hardware operating cost, theoretical 400% Integration 12.5%. Existing output and Integration curve unchanged; no autonomous, ordinary gadget or universal implant discount. QV full-power normal Integration reference approximately 100 INT, not 400 INT. Balance for approximately one daily refueling stop with legitimate purchased fuel stores rather than after every encounter; keep standard autonomous ~3 combat rounds. Exact requirement curves, absolute Codex/utility/computation prices and routine travel costs remain open; no simulation. Affected: Orbcraft, Canon Index and public player disciplines guide.
+
 ## November 26, 2026 — AUTHOR APPROVED: falling damage and Hero knockout recovery
 
 ### Falling damage
