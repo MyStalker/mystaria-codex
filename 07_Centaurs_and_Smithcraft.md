@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: baseline weapon fabrication parity
+
+Orbcraft can manufacture baseline and technological weapons directly from appropriate prepared stock at full qualified Fabrication Quality. Anvilcant retains special-metal refining, magical alloy production and enchantment expertise, not an exclusive baseline weapon manufacturing advantage. Existing material restrictions and Mastercraft remain. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: Windling Sonic condition
 
 Windlings are capable of applying Sonic buildup through legal combined commands/attacks. Preserve the established four Windlings per CP and no independent attack per construct. Sonic status (1× two PP; 2× one-turn Stun and Deafened until magical healing, immune to further Sonic condition while deafened) follows [unified status rules](35_Magical_Media_and_Contests.md). Bellcopper resonance, counter-resonance and existing sonic identities remain; no new armor values, free sonic output, Windling damage/buildup rates or attack profiles are implied. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for acoustic technology and remaining calibration.
