@@ -156,6 +156,14 @@ Integrated active functions use actual modules, normal mana expenditure, normal 
 
 
 
+## Mastercraft Quality VI machinery
+
+With matching Orbcraft V and relevant Anvilcant V, a qualified collaboration can build eligible Quality VI components. Mastercraft does not unlock a new Craft rank, Mounts, research or Prismind tier. Use each component's own progression; ordinary linear ratings use a factor of 3.5 (7/6 of V). Fixed modifiers do not increase automatically. Internal physical costs still apply; bonus Quality alone does not increase ordinary wielding requirements.
+
+Standard vehicle VI Boughsteel Structure: 224 Sustained and Burst Load, 16 Weight. Frame: 425 HP, 28 Weight. Actuator: 110 STR, 15 Weight, 15 base Load, 5 MP per active round; Articulation: 95 DEX, 10 Weight, 10 base Load, 4 MP. Rotary: 224 Torque, 70 ft Speed, 42 Weight, 7 MP, 56 base Load. Apply existing material, size and design factors.
+
+VI plating Light/Medium/Heavy AR: Boughsteel 78/135/192, Adamantite 113/203/304. Nullporcelain ER 95/135/200. Use 28 Weight as the standard vehicle VI plating reference before class and material multipliers. Orb Bandwidth 32; handheld transmission 30,000 ft, Throughput 32; Mana Sensor 320 ft; Echosounder 960 ft; Counterwave +12 relevant Stealth. VI passive cybernetic bonus +22; Wired Reflexes +6 Initiative; Cerebral Coprocessor hacking Range 3,000 ft. Dermal armor remains one quarter equivalent plating. Standard mana hardware uses 7/6 of V for linear capacity/throughput; a VI filter matches a VI Codex. Weapons follow their own inherent damage progression, not an extra universal output multiplier. See the Orbcraft reference for complete specialized profiles and consult the GM for unfinished absolute ratings and Hardening costs.
+
 ## Masterful integration and machine repair
 
 Your personal Bandwidth is 2 + floor(effective INT / 10), subject to actual machine and connection capabilities. Meeting a machine's Integration requirement grants its full designed output. Exceeding it never raises that output, but actively integrated operation becomes cheaper: at 100%, 200%, 300% and 400% Integration, pay 100%, 75%, 50% and 25% of ordinary MP respectively, interpolated linearly; 25% is the floor. Autonomous operation does not receive this excess-Integration discount. Tool Quality, not a second INT-based proficiency, governs technical tasks alongside applicable knowledge and checks.
