@@ -1,3 +1,18 @@
+## November 26, 2026 — AUTHOR APPROVED: Magnitude rank progression and Duration-linked upkeep
+
+Magnitude is one universal discipline governing spell placement reach, purchasable area and simultaneous actively maintained spells. The author approves the following rank mapping and base multiplicity; ordinary burst measurements are radii, not diameters.
+
+| Rank | Maximum placement range | Maximum ordinary area | Area MP | Base simultaneous maintained spells |
+|---|---|---|---:|---:|
+| 0 | 30 ft | Single target | 1 | 1 |
+| I | 90 ft | Adjacent targets | 2 | 2 |
+| II | 300 ft | 20-ft radius | 4 | 4 |
+| III | 1,000 ft | 100-ft radius | 10 | 8 |
+| IV | 1 mile | 1,000-ft radius | 30 | 16 |
+| V | 10 miles | 2-mile radius | 60 | 32 |
+
+Area MP is the existing separate area-component cost; learning the rank permits but does not pay for the corresponding area. Preserve actual MP, Channel Limit, legal medium, placement and ritual requirements; caster-centered effects remain permitted under the established rule. Preserve the Pyromancy natural-spread/containment exception and doubled environmental-restraint area prices. Active maintenance capacity does not count ordinary lasting physical consequences of instantaneous magic; distinguish active maintenance from autonomous effects under Autonomy. Additional multiplicity scaling with automatic Craft Mastery remains intended but its formula is OPEN. Spell upkeep is tied to Duration, not an independent universal upkeep ladder; the November 20 non-attack Duration multiplier chart remains provisional pending separate approval. Renewal timing, permanent spell prices/strain, exact autonomous-slot interaction, separate reach pricing if any, and legacy SP/Longwake migration remain OPEN. This supersedes earlier provisional rank mapping, base multiplicity and ambiguous burst dimensions, not Craft-specific exceptions or unrelated costs.
+
 ## November 26, 2026 — AUTHOR APPROVED: Sonic acoustic interference (HP/d20)
 
 While a user has Sonic buildup at or above **0.5× effective status HP**, their Acoustic Sensors are scrambled and cannot function. They recover when buildup falls below 0.5×. Passive sensing and active Echosounding that need the affected input cannot operate. No automatic permanent equipment damage or general Orb shutdown. Exact remote operator versus independent machine routing, autonomous machine thresholds, Counterwave dependency and Deafened/buildup clearing edges remain open. Retain 1× two Pressure Points, 2× one-turn Stun and persistent Deafened, immunity to further Sonic condition while Deafened until magical healing, not physical Sonic damage immunity. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
