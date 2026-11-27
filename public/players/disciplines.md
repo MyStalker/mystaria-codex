@@ -69,6 +69,14 @@ Gadgets produce Hex waste, but adequate containment prevents ordinary use from a
 
 Directed weapons such as laser pistols and Arcblades use ordinary applicable weapon attributes, training and handling. Their modules determine equipment capabilities and operating costs. Powered armor and implants use module-derived protection and assistance; implants incur chronic Hex Rejection. Complex machines have Integration requirements primarily based on INT: meeting them enables full hardware output, while exceeding them does not increase it. Partial Integration of at least 25% permits reduced performance at increased fuel cost; more fuel generates more Hex. At half Integration, performance is 75% and mana cost is four times normal. Individual functions do not have extra universal Integration gates. Gadget Quality averages functional module Qualities equally, but individual components retain their stats. Frame strength, material and handling can limit supported output. Exact machine requirements, prices and module stats remain table questions.
 
+### Using personal gadgets
+
+You do not need Orbcraft training to use most purchased gadgets. Ordinary manually operated gadgets use applicable physical Weight and Handling requirements and deliver their designed output at normal equipment MP cost, without your INT Integration multiplier. Weapons such as Arcblades still use your applicable STR or DEX and ordinary training. Truly integrated piloting, remote control and neural/body-integrated functions retain the Integration rules.
+
+A handheld tractor beam pushes back against its holder with equal reaction; actual support and target Weight matter. A compensated design projects an equal opposing beam to cancel that reaction at the cost of energy efficiency. Do not count holder recoil as extra operating Load on the device. Ask the GM about exact Weight/Handling and energy costs.
+
+Grenades and other explosive consumables, wholly automated functions and suitable sensors deliver their designed effects regardless of user stats. This does not remove normal activation, aiming or placement, ammunition and power costs, sensor limits, or autonomous command and action rules.
+
 ### Integration and material expertise
 
 A powerful living Anima can extract more magical effect from mana than a novice or an automated mechanism. Integration bridges living control and fixed hardware capabilities: a proficient operator realizes the machine's intended output efficiently, without exceeding its physical maximum. Compatible purchased mana does not require personal harmonization.
