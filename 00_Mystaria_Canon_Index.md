@@ -1,3 +1,9 @@
+## November 26, 2026 — AUTHOR CLARIFICATION: restoration of patch-lost structural HP
+
+Appropriate green-mana structural repair restores maximum structural HP previously lost to mechanical patch repairs, up to the machine's lawful original intact maximum, as well as repairing current HP according to the actual effect. It is not limited to preventing additional maximum-HP loss. Genuine replacement materials and applicable repair/shape requirements remain; exact costs, rates, and whether a qualified Wetcraft repair independently restores prior patch loss remain open.
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: working equipment Weight and ranged conversion
 
 See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the accepted class-relative Weight curves, material modifiers, ordinary ranged DEX multipliers and compatibility matrix, and ordinary HP/d20 ranged damage budgets. Preserve baseline melee shape Weight and latest specialty rules. Damage candidates await validation; thrown, advanced and mounted profiles remain incomplete. No new ammo pricing or historical engine changes. 

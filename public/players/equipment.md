@@ -93,7 +93,7 @@ Integrated active functions use actual modules, normal mana expenditure, normal 
 
 Your personal Bandwidth is 2 + floor(effective INT / 10), subject to actual machine and connection capabilities. Meeting a machine's Integration requirement grants its full designed output. Exceeding it never raises that output, but actively integrated operation becomes cheaper: at 100%, 200%, 300% and 400% Integration, pay 100%, 75%, 50% and 25% of ordinary MP respectively, interpolated linearly; 25% is the floor. Autonomous operation does not receive this excess-Integration discount. Tool Quality, not a second INT-based proficiency, governs technical tasks alongside applicable knowledge and checks.
 
-Patch a damaged machine with a flux tool, replacement parts and repair time: current structural HP recovers but maximum structural HP decreases. Appropriate green-mana structural healing, or true structural repair by a Nymbrin alchemist capable of making the machine, can restore HP without this penalty. Exact repair rates, costs and time require GM adjudication.
+Patch a damaged machine with a flux tool, replacement parts and repair time: current structural HP recovers but maximum structural HP decreases. Appropriate green-mana structural healing, or true structural repair by a Nymbrin alchemist capable of making the machine, can restore HP without this penalty. Green structural repair also restores maximum HP lost to previous patches, up to the original intact maximum. Exact repair rates, costs and time require GM adjudication.
 
 ## Integrated machines
 

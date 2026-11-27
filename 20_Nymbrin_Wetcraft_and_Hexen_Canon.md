@@ -1,6 +1,10 @@
+## November 26, 2026 — AUTHOR CLARIFICATION: restoration of patch-lost structural HP
+
+Appropriate green-mana structural repair restores maximum structural HP previously lost to mechanical patch repairs, up to the machine's lawful original intact maximum, as well as repairing current HP according to the actual effect. It is not limited to preventing additional maximum-HP loss. Genuine replacement materials and applicable repair/shape requirements remain; exact costs, rates, and whether a qualified Wetcraft repair independently restores prior patch loss remain open.
+
 ## November 26, 2026 — AUTHOR APPROVED: INT specialization and structural repair
 
-A Nymbrin alchemist capable of creating the actual machine can perform true structural repair without the maximum-HP loss of mechanical flux-tool patching. Preserve existing Reshaping, equivalent exchange, compatible materials, lawful knowledge, mana and Hex requirements. Appropriate green structural healing likewise avoids the patch penalty; no blanket free repair or missing-matter creation. Exact repair amounts/time/cost and prior maximum-HP loss restoration remain open. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
+A Nymbrin alchemist capable of creating the actual machine can perform true structural repair without the maximum-HP loss of mechanical flux-tool patching. Preserve existing Reshaping, equivalent exchange, compatible materials, lawful knowledge, mana and Hex requirements. Appropriate green structural healing likewise avoids the patch penalty; no blanket free repair or missing-matter creation. Exact repair amounts/time/cost remain open; green structural repair also restores previously lost maximum HP. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md).
 
 ## November 26, 2026 — AUTHOR APPROVED: matched Mastercraft ranks and personal alchemical expertise
 
