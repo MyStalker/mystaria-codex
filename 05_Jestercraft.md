@@ -1,3 +1,26 @@
+## November 27, 2026 — AUTHOR APPROVED: Individual Jestercraft attack profiles
+
+Current HP/d20 working profiles, approved by the author. No simulation or validated balance claim. Preserve the latest Frayed fuel correction (1 Frayed Stitch = 1 effective offensive MP; Black Masquerade intact substitution), DEX governing attribute, legal medium/contact, ordinary implement/training contributions, separate applicable actual MP costs, and one offensive attack per turn. Quick attacks take one action, −2 Attack and half CL; full attacks take two actions, no commitment accuracy penalty and full CL. Minimum offensive fuel one Stitch; no inherent Quick damage reduction. Power means ordinary comparable offensive Spell Power at the invested effective MP, not an independent damage formula.
+
+| Attack | Unlock | Raw damage / buildup | Delivery |
+|---|---|---|---|
+| Reprisal | Innate Impact Loom | 100% Power Blunt | 5 ft from Regalia or lawful Draped origin; single target or purchased burst area; no inherent knockback |
+| Threadshot | Innate Impact Loom | 100% Power Piercing | Single target projectile, standard Magnitude range from lawful Regalia/Draped origin; no ordinary area expansion |
+| Snapback | Curtainwall II | 75% Power Blunt | Single target, 15 ft from origin; on hit ordinary opposed Technique to push or pull up to 10 ft directly toward/away from origin; damage remains on failed displacement |
+| Whiplash | Curtainwall II | 100% Power Slashing | 90-degree cone, half purchased ordinary area radius in length (minimum 5 ft), standard Magnitude area pricing; no inherent maneuver |
+| Binding | Innate Anchor Stitch | No direct damage, 150% Power buildup | Legal hit, within 5 ft of eligible Draped origin; preserve pure status ×3 and advanced-incapacitation ×0.5, reusable origin and existing restraint rules |
+| Thread Grapple | Innate Anchor Stitch | No direct damage | Immediate source-anchored grapple; Power governs initiation and maintenance, exact contest calibration open |
+| Barbed Binding | Seamcraft I | No initial direct damage | Double offensive Frayed investment for equivalent ordinary Binding Power; physical self-escape attempts deal 25% original baseline Power Slashing whether successful or not; preserve rescue exceptions |
+| Living Unravel | Rag Doll V | No initial direct damage, 300% Power buildup | Preserve direct bodily/controlled-thread contact, approved thresholds and HP-to-Stitch conversion; not advanced incapacitation |
+
+All three conventional physical damage types become available through the core attack repertoire by Curtainwall II (Slashing via Whiplash, not an innate unlock). Direct raw damage parity with comparable Pyromancy remains the baseline, subject to individual profiles and AR rather than ER. Remote origins do not waive lawful placement, physical access, sight/targeting or medium/transmission constraints.
+
+**Weed Wacker (Seamcraft II):** one persistent attack, choose one mode at casting; no immediate damage. Frayed investment for Power, actual MP for duration, ordinary area/CL/maintenance limits. At affected creature end-turn resolve fresh lawful hit check, with same-Jester overlapping zones not multiplying strikes. Lashing: 50% Power Slashing. Entangling: no damage, 75% Power Binding buildup (half trigger Power × ordinary Binding 1.5); preserve concealed Threaded origin exception. Sweeping: no damage, normal trip attempt after hit. Repelling: no damage, normal shove resistance after hit, up to 5 ft. No disarm or extra attacks. Preserve existing open details on duration, area and precise trigger roll implementation.
+
+**Razorwire:** preserve prior approved passive intact-fabric/actual-MP exception, 25% invested Power per qualifying crossed tile with 50% AR bypass, no attack roll, ordinary per-instance mitigation and crossing restrictions. Any illustrative percentage-mitigation preview is not a replacement for the universal armor formula.
+
+**Outstanding:** Thread Grapple contest, Threadblade/Tempered Curtain investment and equipment profiles, offensive implement design, area surcharge fuel mapping, precise burst geometry and delivery edges remain open. No dedicated damaging ultimate is planned for the current repertoire; existing discipline capstones remain. No changes to approved discipline ranks or universal combat rules. No balance tests conducted.
+
 ## November 27, 2026 — AUTHOR APPROVED: Regalia replenishment and total enchanted stock
 
 Existing suitable fabric may be enchanted without being worn for 1 MP per whole Stitch-equivalent. Enchantment takes two actions and is specifically limited to max(1,floor(full applicable CL/2)) MP, hence that many whole Stitches at most; actual mana, suitable material, contact and combined stock headroom still required. Creating new fabric from raw mana costs 4 MP per whole Stitch, also two actions, with the same total MP ceiling (not that many Stitches); no minimum-one-Stitch creation exception where 4 MP cannot lawfully be channeled. This replaces legacy 2 MP raw regeneration and legacy per-round regeneration formula for current HP/d20.
