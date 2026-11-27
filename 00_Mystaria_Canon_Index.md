@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR CORRECTION: bows use ordinary Both-stat damage
+
+Current HP/d20 bows use ordinary melee Both-stat STR + DEX damage scaling, plus finished inherent and trained damage. No draw-cap limit on attribute damage or separate partial-draw formula applies. Retain existing Weight, minimum handling, ammunition, AP and action rules; crossbows/firearms unchanged. Exceptional finished damage profiles remain open. Historical wound-engine draw-cap/Power rules are preserved solely for historical reproduction. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md).
+
 ## November 26, 2026 — AUTHOR APPROVED: Junk physical equipment in HP/d20
 
 Ordinary Junk melee and ranged weapons inherit the equivalent legal QI Boughsteel profile's inherent damage, fixed AP and Weight, but impose **−2 Attack accuracy** once when used. Junk worn armor retains QI AR and Weight and imposes **−2 Evasion** once. The two modifiers cancel when both apply to the same hit comparison. Half-QI Gem price and existing specialty restrictions remain. See [Equipment and Economy](09_Equipment_and_Economy.md) for the full rule and preserved exceptions. No separate Junk weapon damage table is required. This supersedes the old categorical penalties for current HP/d20 only; historical engines are unchanged.
@@ -8,7 +12,7 @@ Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). One Structural Reinforc
 
 ## November 26, 2026 — AUTHOR APPROVED: ranged damage balance and firing cycles
 
-Current HP/d20 ordinary ranged damage factors: Shortbow ×1.05 (was ×0.90), throwing dagger ×0.95 (was ×0.80), military crossbow ×1.65 (was ×1.75), carbine ×1.40 (was ×1.50), precision rifle ×1.50 (was ×1.75), arbalest ×1.70 (was ×2.00), sling ×1.00 (was ×0.90). All other factors remain unchanged. Multiply only neutral inherent weapon damage before the existing damage-form/AP calculation; do not multiply attribute or training contributions. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the operative firing cycles, magazine capacities and preserved dedicated-turn exceptions. The ordinary arbalest is distinct from the advanced arbalest. Exceptional ranged HP/d20 profiles and exact bow draw contribution remain open; the later Junk approval resolves ordinary Junk weapon damage by QI inheritance. No historical engine, ammo price, or advanced firing ability changes.
+Current HP/d20 ordinary ranged damage factors: Shortbow ×1.05 (was ×0.90), throwing dagger ×0.95 (was ×0.80), military crossbow ×1.65 (was ×1.75), carbine ×1.40 (was ×1.50), precision rifle ×1.50 (was ×1.75), arbalest ×1.70 (was ×2.00), sling ×1.00 (was ×0.90). All other factors remain unchanged. Multiply only neutral inherent weapon damage before the existing damage-form/AP calculation; do not multiply attribute or training contributions. See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the operative firing cycles, magazine capacities and preserved dedicated-turn exceptions. The ordinary arbalest is distinct from the advanced arbalest. Exceptional ranged HP/d20 profiles remain open; the later Junk and Both-stat bow approvals resolve ordinary Junk damage and bow attribute scaling. No historical engine, ammo price, or advanced firing ability changes.
 
 ## November 26, 2026 — AUTHOR CLARIFICATION: restoration of patch-lost structural HP
 

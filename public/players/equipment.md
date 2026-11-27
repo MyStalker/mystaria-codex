@@ -1,6 +1,6 @@
 ## Ranged weapons and equipment Weight
 
-Use the finished weapon's Weight and actual handling requirements. Higher Quality increases Weight and ordinary ranged DEX handling. Bows depend on draw strength; crossbows and firearms derive damage from the mechanism and purchased damage training, rather than the user's strength. Carrying a weapon is not the same as drawing, cocking or controlling it. Material compatibility and exceptional designs matter. Use the finished ranged profile for damage and AP; missing values are not zero. The inherent damage factors for Shortbow, throwing dagger, military crossbow, carbine, precision rifle, arbalest and sling are respectively ×1.05, ×0.95, ×1.65, ×1.40, ×1.50, ×1.70 and ×1.00. Apply the factor to the neutral inherent damage, not your attribute or training contribution.
+Use the finished weapon's Weight and actual handling requirements. Higher Quality increases Weight and ordinary ranged DEX handling. Bows use both STR and DEX for damage, just like Both-stat melee weapons, in addition to inherent weapon damage and purchased damage training. No separate draw-cap or partial-draw damage modifier applies. Crossbows and firearms derive damage from the mechanism and purchased damage training, rather than the user's attributes. Carrying a weapon is not the same as drawing, cocking or controlling it. Material compatibility and exceptional designs matter. Use the finished ranged profile for damage and AP; missing values are not zero. The inherent damage factors for Shortbow, throwing dagger, military crossbow, carbine, precision rifle, arbalest and sling are respectively ×1.05, ×0.95, ×1.65, ×1.40, ×1.50, ×1.70 and ×1.00. Apply the factor to the neutral inherent damage, not your attribute or training contribution.
 
 ### Shooting and reloading
 
@@ -22,7 +22,7 @@ You have two actions per turn, but may make only one offensive attack action. No
 | Precision rifle | 5 | 2 actions |
 | Scattergun | 2 | 1 action |
 
-You can split ordinary action-based reloads across turns, except when a weapon requires a dedicated full turn (including the existing high-capacity magazine rule). Advanced arbalests also need their initial setup turn. Advanced crossbows reload in one dedicated turn; advanced precision rifles and light precision firearms have five and six cartridges respectively and reload in a full nonshooting turn. A magazine does not give you extra attacks. Observe actual handling, cocking, recoil and ammunition requirements. Exact advanced damage profiles and bow draw contributions are table questions.
+You can split ordinary action-based reloads across turns, except when a weapon requires a dedicated full turn (including the existing high-capacity magazine rule). Advanced arbalests also need their initial setup turn. Advanced crossbows reload in one dedicated turn; advanced precision rifles and light precision firearms have five and six cartridges respectively and reload in a full nonshooting turn. A magazine does not give you extra attacks. Observe actual handling, cocking, recoil and ammunition requirements. Exact advanced damage profiles are table questions.
 
 A loadout is a set of tradeoffs. Your weapon determines how you threaten an enemy; armor and shields determine how you withstand them. Weight, handling, reach, and available hands tie those choices together.
 
