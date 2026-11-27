@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
+
+Owner: [World and Shimmer](01_World_and_Shimmer.md); see also [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) and [Equipment](09_Equipment_and_Economy.md). From level 1, Mana Capacity gives +5 MP per rank (20 ranks/+100 maximum); ranks 1–5/6–10/11–15/16–20 cost 2/3/4/5 TP each (70 TP total). Add after racial capacity multipliers; the same reserve supports Soul Strain. No END prerequisite or percentage cap. Preserve Moontouched strain-only/zero usable natural MP, Drakyn feeding-only recovery, Thornguard casting/strain rules and other racial exceptions. HP, Channel Limit, spell damage and Leywells unchanged. Balance and implementation not yet verified.
+
 ## November 26, 2026 — AUTHOR DIRECTION: tractor-beam hostile grappling and pinning
 
 Tractor Beam hostile grapple/pin attempts use Technique; see [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for actual hardware eligibility and unresolved multi-target/maintenance timing. No new collision damage formula adopted.

@@ -22,6 +22,8 @@ Soul Strain occupies part of your maximum mana reserve rather than spending MP e
 
 **Enchanted Endurance does not increase natural MP or Soul Strain capacity.** It still improves applicable physical statistics, such as HP, Evasion and Weight capacity. Calculate mana using END without its enchantment-derived bonus, then apply the ordinary +10 compensation and racial rules. Enchanted Skill does not grant SP or TP; only allocated Skill points grant extra progression income. Cybernetic END can increase applicable mana and Soul Strain capacity, but not HP. Count Blank and Mixed stat-enhancing equipped items and stat-enhancing implanted systems together: at most **15 simultaneous sources**, not 15 points. Full active-only items do not count. Existing slot and racial limits still apply.
 
+Purchased Mana Capacity adds to the reserve available for Soul Strain after racial capacity calculation, up to +100 MP (see the [training guide](/learn/training/)). It is the same reservoir as maximum MP, not a separate strain pool; racial restrictions remain.
+
 Centaurs receive full normal equipment attribute bonuses and pay 90% of aggregate equipment strain, rounded up once. Moontouched retain zero usable natural MP and their separate strain-capacity accounting. Other racial rules remain unchanged.
 
 This is the standard five-tier benchmark, not a rule granting new slots or permitting arbitrary distribution of the listed bonus.

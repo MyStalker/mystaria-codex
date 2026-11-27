@@ -56,6 +56,8 @@ Attributes describe broad potential. A high attribute does not teach an unlearne
 
 At level 1, you begin with **2 unspent attribute points, 2 SP, and 2 TP**, before any purchases or additional earned Skill bonuses. These are in addition to your racial starting attributes and applicable racial entitlements. Allocate the attribute points before calculating your final budgets; each point allocated to Skill grants another 2 SP and a level-dependent amount of TP. At levels 1–10, each invested Skill point grants half a TP; this rises as you level. Round down the total TP budget. At higher levels Skill also lets you purchase more HP beyond the usual training limit, without granting free HP. Keep all three remaining balances visible.
 
+You may also purchase Mana Capacity with TP from level 1: +5 MP per rank, up to +100, with the same capacity supporting Soul Strain. Existing racial restrictions apply. See the [training guide](/learn/training/) for costs.
+
 SP and TP are independent pools. Spending one does not spend the other. [The training guide](/learn/training/) explains income, escalating purchases, and how to plan a useful build.
 
 ## Buy a few things you will actually use

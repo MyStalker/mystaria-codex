@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
+
+Mana Capacity is an independent TP purchase: +5 maximum MP and shared Soul Strain capacity per rank, maximum 20 ranks/+100 MP. See [World and Shimmer](01_World_and_Shimmer.md) for the approved 2/3/4/5 TP rank bands, racial calculation order and exceptions. No change to HP, spell damage, Channel Limit, Leywells or existing strain deductions and racial restrictions.
+
 ## November 26, 2026 — AUTHOR DIRECTION: tractor-beam hostile grappling and pinning
 
 Tractor Beam hostile grapple/pin attempts use Technique; see [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for actual hardware eligibility and unresolved multi-target/maintenance timing. No new collision damage formula adopted.

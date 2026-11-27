@@ -1,3 +1,18 @@
+## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
+
+Current HP/d20 Heroes may purchase **Mana Capacity** with Training Points from level 1, without an END prerequisite or percentage-based purchase cap. Each purchased rank grants a flat **+5 maximum MP**, up to 20 ranks / **+100 MP**. The price belongs to the next rank; keep TP and purchased ranks in the ordinary training ledger.
+
+| Purchased rank | TP per rank | Cumulative TP at end of band | Total trained MP at end of band |
+|---|---:|---:|---:|
+| 1–5 | 2 | 10 | +25 |
+| 6–10 | 3 | 25 | +50 |
+| 11–15 | 4 | 45 | +75 |
+| 16–20 | 5 | 70 | +100 |
+
+Add the flat trained capacity **after** the existing +10 natural-MP compensation and applicable racial capacity calculation/multipliers. The same added capacity supports Soul Strain: it is one shared reservoir, not a separate free strain pool. Existing strain deductions, racial equipment-strain limitations, affinities, lawful use and recovery rules remain. Moontouched receive the trained increase for Soul Strain capacity only; their usable natural MP remains zero. Drakyn retain feeding-only recovery by consuming Starspawn. Thornguard retain their casting restrictions and existing equipment-strain ceiling. Mana Capacity does not increase END, HP, Channel Limit, spell damage, Leywell capacity, or change recovery methods. Enchanted END still cannot increase MP/strain capacity; cybernetic END retains its existing distinct effects. This is an independent training route for INT, Skill and martial builds, not a new source of spell access. No simulation or implementation change is implied.
+
+Affected: World and Shimmer, Combat, Equipment, Canon Index and public player training, character and enchantment guides. Supersedes the absence of an independent mana capacity purchase; no other training price changes, simulation or character manager migration. Balance remains untested.
+
 ## November 26, 2026 — AUTHOR DIRECTION: tractor-beam hostile grappling and pinning
 
 Hostile grappling or pinning of one or more creatures with a Tractor Beam uses a Technique check, subject to lawful field coverage, device output, recoil qualification and ordinary combat action limits. The normal Technique statistic and existing contested maneuver framework apply; no automatic restraint or damage merely from sufficient Magnitude. Exact multi-target check procedure, holding/escape cadence and hostile displacement remain open. Manipulation gadgets versus dedicated kinetic projectile weapons, removal of separate Intensity, and the proposed collision damage of twice target armor are under development; the collision armor referent, raw versus post-armor treatment and breakage interface require clarification before numerical adoption. No new collision damage formula or weapon profile approved by this entry. Owners: Orbcraft and Combat; player guide updated.

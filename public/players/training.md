@@ -42,6 +42,19 @@ TP purchases improve a derived statistic. You may train physical or magical accu
 If your table uses a ladder charging 2 TP for each of ranks 1–4, purchasing three ranks costs 6 TP. That is an explanation of rank-band pricing, not a universal price for every statistic. Your GM's selected training menu supplies the actual cost and benefit.
 :::
 
+## Mana Capacity training
+
+You can train your maximum MP independently of Endurance from level 1. Each rank gives **+5 maximum MP**, with a maximum of **20 ranks (+100 MP)**. There is no END prerequisite or percentage cap.
+
+| Rank | TP per rank | Cumulative TP | Bonus MP at end of band |
+|---|---:|---:|---:|
+| 1–5 | 2 | 10 | +25 |
+| 6–10 | 3 | 25 | +50 |
+| 11–15 | 4 | 45 | +75 |
+| 16–20 | 5 | 70 | +100 |
+
+Add this bonus after your racial mana-capacity calculation. The same reservoir supports Soul Strain; it is not a second pool. Moontouched gain strain capacity only, retaining zero usable natural MP. Drakyn still replenish mana only by consuming Starspawn; Thornguard retain their casting and strain restrictions. Mana Capacity training does not change HP, spell power, Channel Limit, Leywells or recovery methods.
+
 ## What the combat statistics mean
 
 | Statistic | What training changes |
@@ -50,6 +63,7 @@ If your table uses a ladder charging 2 TP for each of ranks 1–4, purchasing th
 | **Magical accuracy** | Your contribution to eligible magical attack checks; individual Crafts still have their own rules. |
 | **Evasion** | How difficult you are to hit. |
 | **HP** | How much ordinary damage you can withstand. |
+| **Mana Capacity** | Your maximum MP and shared Soul Strain capacity, subject to racial rules. |
 | **Damage** | How hard an eligible landed attack hits, before the target's defenses resolve it. |
 | **Armor or resistance** | Protection against the appropriate incoming threat. |
 | **Technique, movement, initiative, and other supported training** | Particular capabilities defined by the table's selected rules. |

@@ -1,3 +1,16 @@
+## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
+
+Current HP/d20 Heroes may purchase **Mana Capacity** with Training Points from level 1, without an END prerequisite or percentage-based purchase cap. Each purchased rank grants a flat **+5 maximum MP**, up to 20 ranks / **+100 MP**. The price belongs to the next rank; keep TP and purchased ranks in the ordinary training ledger.
+
+| Purchased rank | TP per rank | Cumulative TP at end of band | Total trained MP at end of band |
+|---|---:|---:|---:|
+| 1–5 | 2 | 10 | +25 |
+| 6–10 | 3 | 25 | +50 |
+| 11–15 | 4 | 45 | +75 |
+| 16–20 | 5 | 70 | +100 |
+
+Add the flat trained capacity **after** the existing +10 natural-MP compensation and applicable racial capacity calculation/multipliers. The same added capacity supports Soul Strain: it is one shared reservoir, not a separate free strain pool. Existing strain deductions, racial equipment-strain limitations, affinities, lawful use and recovery rules remain. Moontouched receive the trained increase for Soul Strain capacity only; their usable natural MP remains zero. Drakyn retain feeding-only recovery by consuming Starspawn. Thornguard retain their casting restrictions and existing equipment-strain ceiling. Mana Capacity does not increase END, HP, Channel Limit, spell damage, Leywell capacity, or change recovery methods. Enchanted END still cannot increase MP/strain capacity; cybernetic END retains its existing distinct effects. This is an independent training route for INT, Skill and martial builds, not a new source of spell access. No simulation or implementation change is implied.
+
 ## November 26, 2026 — AUTHOR APPROVED: refined Skill training progression and HP allowance
 
 For current HP/d20 Heroes at level L, let S be the number of actually allocated base attribute points invested in Skill. Baseline TP remains 2L; total ordinary earned TP = floor(2L + S × t(L)). Skill SP income remains +2 SP per allocated Skill point (ordinary earned SP = 2L + 2S); the former one-to-one SP/TP income relationship and flat +2 TP per Skill are superseded for this progression. Racial starting Skill, racial multipliers, automatic fifth-level increases, enchantments and implants do not count as S. Preserve independently approved exceptional grants, separate ledgers and existing purchase costs.
