@@ -33,6 +33,8 @@ The effect must still have the required equipment, coverage, mana, medium, and p
 
 A falling character or ally may prepare an eligible defensive action to catch or cushion a fall, with a specific trigger and actual means of stopping the impact. See [health and defense](/learn/health/) for falling damage, emergency Shimmer Break and knockout recovery.
 
+A deliberately aimed falling object needs a successful attack and at least 10 ft of fall. The falling object takes falling damage; the struck target takes physical collision damage: raw max(20, twice the object's actual surface AR), minus target AR. Half/full terminal velocity doubles/quadruples raw collision damage at −2/−4 Attack. No critical collision damage or AP. See [disciplines](/learn/disciplines/) for Tractor Beams.
+
 ## Movement and escape
 
 The movement foundation starts at **30 feet**, or six five-foot tiles, with eligible Movement training applied under its rules. One Dash doubles the ordinary allowance; Double Dash doubles it again and uses both actions.

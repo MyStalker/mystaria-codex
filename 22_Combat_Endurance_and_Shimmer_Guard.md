@@ -1,3 +1,11 @@
+## November 26, 2026 — AUTHOR APPROVED: Tractor Beam catalogue, control and falling-object impacts
+
+For a meaningful environmental collision use raw physical damage max(20, 2 × actual colliding surface material/equipment AR), subtract struck target applicable AR (minimum zero); no AP, ER, critical or attribute/training damage additions. Ordinary mutual impacts can damage each participant appropriately; preserve legal geometry, actual size and cushioning. For a deliberately aimed falling object, make an ordinary attack check; it must fall at least 10 ft for a damaging drop. The falling object/creature takes ordinary falling damage; the struck target takes collision damage with raw multiplier ×1 normally, ×2 at half terminal velocity (−2 Attack), ×4 at full terminal velocity (−4 Attack). Exact half-terminal height open; existing terminal falling-damage benchmark is 510 ft. No double damage formula on a participant for the same impact. A miss falls elsewhere and resolves actual impact. Retain existing Shimmer, fall recovery and localized structural damage rules. See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved field profiles and control procedure.
+
+### Author direction: large falling objects and Buried (development; numerical rules not yet approved)
+
+For a large dropped object/collapse, permit a qualifying avoidance check to escape the footprint if within the target's movement speed; if successful but not escaping, seek actual cover within the area. Reconcile author's Evasion terminology with existing Reflex-based AoE checks before final implementation. A Buried physical status should hinder victims at lower buildup while allowing eligible spells/attacks to free themselves; advanced Tier II restricts the victim to self-escape akin to Freeze. Scale buildup to the actual dropped object/debris so major collapses can impede legendary Heroes; strong warriors should eventually be able to escape physically and wizards/inventors benefit from preparation. Exact AoE check, cover outcome, buildup, STR escape reduction, thresholds/counterplay, duration and Shimmer interaction are open. No new numerical Buried status adopted.
+
 ## November 26, 2026 — AUTHOR APPROVED: falling damage and Hero knockout recovery
 
 ### Falling damage

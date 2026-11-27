@@ -1,5 +1,49 @@
 # Kobold Technology and Orbcraft
 
+## November 26, 2026 — AUTHOR APPROVED: Tractor Beam catalogue, control and falling-object impacts
+
+Ordinary Tractor Beams use Rated Magnitude (maximum selectable operating rank), Range, Weight and Quality; remove separate Intensity. Kinetic manipulation uses its own size scale, not spell area geometry, while retaining approved utility-field MP costs. No target weight, volume or acceleration arithmetic. Select one target at Magnitude 0; higher ranks can manipulate a group within the appropriate combined occupied span. Actual path, anchors, mounting, reach and detachment/breakage still matter.
+
+| Magnitude | Thin span | Medium span | Dense span | Uncompensated STR | MP/min | Fully compensated MP/min |
+|---|---:|---:|---:|---:|---:|---:|
+| 0 | 10 ft | 5 ft | 2.5 ft | 10 | 2 | 4 |
+| I | 20 ft | 10 ft | 5 ft | 20 | 3 | 6 |
+| II | 40 ft | 20 ft | 10 ft | 40 | 5 | 10 |
+| III | 100 ft | 50 ft | 25 ft | 80 | 11 | 22 |
+| IV | 400 ft | 200 ft | 100 ft | 160 | 31 | 62 |
+| V | 4 miles | 2 miles | 1 mile | 320 | 61 | 122 |
+
+Thin includes fabrics, leaves, leather, Trufula and Skyvein, including qualifying primarily lightweight mechs; Medium includes wood, stone, ordinary creatures (including ordinarily armored ones); Dense includes most metals and solid heavy metallic constructs. Classify composites by actual overall construction, not a single light component. Full compensation removes recoil STR, not ordinary handling, and doubles MP; adequate mechanical STR or actual stationary anchoring may supply support. No partial compensation adopted. No extra holder-recoil Load. Uncompensated self-grappling requires a genuine secure anchor, not sufficient STR to lift it.
+
+| Quality | Miniature max Mag | Handheld | Personal | Vehicle | Industrial | Handheld Range ft | Manipulation ft/action | Handheld Weight |
+|---|---|---|---|---|---|---:|---:|---:|
+| Junk | 0 | 0 | 0 | I | II | 30 | 10 | 4 |
+| I | 0 | 0 | I | II | III | 60 | 20 | 8 |
+| II | 0 | I | I | II | III | 90 | 40 | 12 |
+| III | 0 | I | II | III | IV | 120 | 60 | 16 |
+| IV | I | II | II | III | IV | 150 | 80 | 20 |
+| V | I | II | III | IV | V | 180 | 100 | 24 |
+| VI | I | II | III | IV | V | 210 | 120 | 24 |
+
+| Size | Range factor | Reference finished Weight factor | Handling |
+|---|---:|---:|---|
+| Miniature | 0.25 | 0.1 | One hand |
+| Handheld | 1 | 1 | One hand |
+| Personal | 3 | 4 | Two hands or harness |
+| Vehicle | 10 | 16 | Mounted |
+| Industrial | 30 | 64 | Mounted |
+
+Reference finished Weight includes ordinary Codex and waste containment; compensated design ×1.25 Weight. VI bonus Quality retains V ordinary wielding Weight. No independent DEX or INT gate for manual operation. Size/Quality maximum coverage does not waive actual Range; industrial field placement versus mile-scale coverage needs reconciliation. Alternate Codex and component Weight, rounding, prices, paid Magnitude upgrades mid-activation remain open. Standard Codex Capacity/Discharge/Recharge and actual compatible design apply: a rated field is not necessarily fuelable at maximum setting by its reference Codex. QV handheld standard discharge 9 MP cannot pay compensated II (10 MP) in one turn; QVI 10.5 can. Use actual compatible supply or lower operating rank.
+
+Activation lasts one minute; include activation in first operation action. Switching/releasing/reactivating within paid activation does not charge again at the paid setting. Pulling, lifting, swinging, lowering and self-grappling use the same Quality movement distance per action independently of Magnitude/density, limited by actual reach and path. A compensated unit needs uncompensated mode for self-grappling. Suspension from a secure anchor is possible during active field. Inanimate objects remain suspended without actions while the field remains active and undisturbed. Release on operator turn is free; deliberately aimed drops are offensive actions requiring an ordinary hit check.
+
+Hostile creature grapple/pin uses normal opposed Technique, not an extra attack check. Initiation, hostile displacement/pin/slam and maintenance each consume one offensive action; moving or pinning also maintains the hold that turn. One offensive action maintains the whole field. Moving an eligible cooperative or unattended target or self-grappling costs one action. Catching a falling ally uses lawful prepared defense. A successful grapple prevents voluntary escape movement until released or escaped; remote grip does not automatically impose close-grapple weapon restrictions, damage, unconsciousness or spellcasting prohibition. Pin requires actual surface. One d20 Technique roll compared against each eligible target's contested difficulty allows partial success; individual escape attempts cost one action. An escaped creature is not recaptured by maintenance even inside coverage; a new grapple replaces the current area grapple and rerolls against all selected targets, including previously held creatures. A group may be moved together, not separately manipulated through one action. Keep one-offensive-action limit; no free attacks.
+
+Meaningful ordinary environmental collision raw physical damage = max(20, 2 × actual colliding surface material/equipment AR), net = max(0, raw − struck target applicable AR). No AP, critical damage, STR/DEX/training damage additions or ER; soft surfaces can cushion entirely. Ordinary mutual impacts may damage both parties using their respective surfaces; actual size/geometry must be meaningful, no tiny hard projectile as battering ram. Use existing local structural breach thresholds 25%/50%/100% of max section HP after armor; individual wall HP and section dimensions remain open.
+
+**Author correction for aimed falling objects:** the dropped object/creature receives ordinary falling damage; the struck target receives collision damage, not falling damage. At least 10 ft fall to deliver drop collision damage; ordinary multiplier ×1, at half terminal velocity raw collision ×2 with −2 Attack, at full terminal velocity ×4 with −4 Attack, before target AR. The full terminal falling-damage benchmark is 510 ft; exact height translating to half terminal velocity remains open (do not assume half distance is half physical velocity). No double damage formula on one participant for one impact. A missed aimed drop falls elsewhere; resolve actual impact. Ordinary free release remains distinct from a deliberate attack; use actual substantial object and legitimate contact, not a feather or tiny projectile. Existing falling and Shimmer rules remain, and no new critical or status exception implied. Broad collapsing-object hazards and Buried status are separate development; see Combat. No simulations or prices approved.
+
+
 **AUTHOR APPROVED — November 25, 2026.** This is the owning reference for the technological framework, not a completed skill purchase catalogue. Existing combat, equipment, mana, Hex, Shimmer and racial prerequisites remain operative.
 
 ## November 26, 2026 — AUTHOR APPROVED: Codex capacity, universal gadget fuel costs and vehicle logistics foundation
