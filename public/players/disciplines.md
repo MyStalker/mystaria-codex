@@ -178,6 +178,21 @@ Standard vehicle-size Boughsteel Frame HP at Quality I–V is 150/200/255/315/37
 
 Major subsystems are intended to offer genuine specialization: building around exceptional firepower, propulsion or another capability should require sacrificing other investments, not simply adding every possible upgrade at negligible cost.
 
+### Propulsion and Torque
+
+Torque is the Weight an engine can move efficiently. An engine also has its own Weight, tactical Speed, MP consumption and Sustained/Burst Load demands. Quality I Standard Boughsteel vehicle Rotary reference: Torque 64, Speed 20 ft, Weight 12, MP 2/operating round, base Load 16. Scale by Junk–V Quality factors and appropriate family/design factors; exact module size coefficients remain under development. Family factors (Torque/Speed/MP/Sustained/Burst): Rotary 1/1/1/1/0, Articulated 0.75/0.75/1.5/1/1, Aquatic 1.5/0.75/1.25/1/0, Rotor 0.5/1.5/2/2/0, Thrust 0.5/2.5/3/1/2, Arcane Field 0.75/2/2.5/1/2. Choose one design (Torque/Speed/Weight/base Load/MP): Standard all 1; Racing 1/2/2/2/2; Hauling 2/0.75/2/2/1.5; Endurance 0.75/0.75/1.5/1/0.5. Compatible submodules and color options remain available.
+
+| Weight relative to Torque | Speed | MP | Evasion | Accuracy | Flight |
+|---|---:|---:|---:|---:|---|
+| Up to 100% | 100% | max(0.5, ratio) | 0 | 0 | Yes |
+| Over 100–125% | 80% | x1.25 | -2 | 0 | Yes |
+| Over 125–150% | 65% | x1.5 | -3 | 0 | Yes |
+| Over 150–175% | 55% | x1.75 | -4 | -2 | No |
+| Over 175–200% | 50% | x2 | -6 | -3 | No |
+| Over 200% | Immobile | — | -8 | -4 | No |
+
+Flight requires a flight-capable engine and no more than 150% burden. Above that an airborne machine descends; loss of propulsion may cause falling or gliding. Torque overload and structural overload are separate. Apply Evasion/Accuracy penalties only to affected active functions. Mechanical hardware Evasion = floor(DEX/20) + floor(designed Speed/20 ft), Speed contribution capped at +5 and combined hardware at +10; add applicable nonstacking pilot or Prismind training, then burden penalty. Exact combined-engine rules and MP rounding are still under calibration.
+
 ### Structure Checks
 
 Normal operation within Sustained and Burst Load capacity requires no check. A compatible machine can deliberately override its safety limiter to exceed either capacity. Roll a flat d20: over 100% through 150% succeeds on 10 or higher; over 150% through 200% succeeds on 15 or higher; over 200% automatically fails. Check once per overloaded sustained round or overloaded burst activation. Failure prevents the intended function, spends its action and MP, and directly removes a quarter of base structural HP, bypassing Shimmer. Existing Codex Stability triggers still apply. No bonus can improve the Structure Check; improve the Structure or reduce the actual demand instead. Modules use simple 0/1/2 demand grades, with exact profiles under calibration.
