@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: falling damage and Hero knockout recovery
+
+See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) for full falling and HP-related knockout rules. A fall-induced emergency Shimmer Break saves life but sets ordinary HP to 0, destroys reserve and causes helpless unconsciousness. The first HP-related knockout since a qualifying long rest lasts one hour, or until ordinary HP reaches ceil(25% of maximum); later knockouts before long rest last eight hours even if fully healed. Natural awakening if alive restores HP to at least ceil(10% of maximum), preserving higher current HP. Involuntary unconsciousness is not restorative sleep and does not reset the count, restore Shimmer or grant ordinary sleep recovery. Preserve independent Shimmer recovery, ordinary non-incapacitating Break and distinct magical Sleep rules.
+
 ## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
 
 Current HP/d20 Heroes may purchase **Mana Capacity** with Training Points from level 1, without an END prerequisite or percentage-based purchase cap. Each purchased rank grants a flat **+5 maximum MP**, up to 20 ranks / **+100 MP**. The price belongs to the next rank; keep TP and purchased ranks in the ordinary training ledger.

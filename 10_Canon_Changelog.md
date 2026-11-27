@@ -1,3 +1,31 @@
+## November 26, 2026 — AUTHOR APPROVED: falling damage and Hero knockout recovery
+
+### Falling damage
+
+For current HP/d20 play, an uncontrolled fall of H feet deals `min(1500, 3 × max(0, H − 10))` HP damage: the first 10 ft are safe, each additional foot deals 3 HP, and the terminal-velocity cap is 1,500 HP (reached at 510 ft). Landing in sufficiently deep water subtracts 100 damage after the cap, to a minimum of zero. Ordinary Armor Rating and Energy Resistance do not mitigate falling damage; falling cannot critically hit. Ordinary Evasion or a generic saving throw does not negate an unavoidable impact. Heavy equipment does not independently multiply this damage. A controlled descent need not be an uncontrolled fall.
+
+Fall recovery is ordinarily a defensive action. The falling character or an ally can prepare a specific lawful defense to arrest, catch or cushion the fall, respecting normal action/preparation timing, Channel Limit, MP, range, medium, equipment, actual anchors and capacity. Examples include flight, a tractor beam, catching threads, controlled water or a genuine handhold; applicable Technique may resolve a legitimate grab or maneuver, not a generic damage reduction. No free reaction or new casting permission. Sufficiently cushioning surfaces can reduce the effective uncontrolled falling distance; exact other surface modifiers and defense effectiveness remain GM adjudication. An unconscious character in water may drown; the impact's survival protection does not prevent subsequent drowning.
+
+### Fall-induced emergency Shimmer Break
+
+Apply eligible fall prevention and water reduction before testing the impact. An intact, dormant Hero Shimmer Guard breaks under the ordinary emergency threshold or when the remaining falling damage equals or exceeds maximum ordinary HP (fall-specific exception closing the ordinary threshold gap). The otherwise catastrophic impact does not kill the Hero; instead set ordinary HP to **0**, forfeit the entire Shimmer Reserve, break the Guard, and leave the Hero prone, unconscious and helpless. This replaces the ordinary emergency Break's retention of pre-impact HP only for falling. A Guard already active or broken cannot perform this emergency Break; otherwise retain ordinary lawful damage routing and existing Shimmer recovery. No automatic protection against subsequent hazards.
+
+### Hero knockout and recovery
+
+Track a single HP-related knockout count since the last qualifying long rest. Ordinary HP-related defeat (after applicable Shimmer protection, not merely ordinary HP reaching zero while reserve still protects the Hero) and fall-induced Shimmer Break share this count. Ordinary emergency Break without incapacitation does not count. Magical Sleep and other distinct incapacitating conditions retain their own rules.
+
+| Rule | First knockout since long rest | Second and subsequent knockouts before long rest |
+|---|---|---|
+| Unconsciousness duration | 1 hour | 8 hours |
+| Early awakening | Heal ordinary HP to at least ceil(25% of maximum ordinary HP) | None, even if fully healed |
+| Natural awakening, if alive | At least ceil(10% of maximum ordinary HP) | At least ceil(10% of maximum ordinary HP) |
+
+Knocked-out Heroes cannot act or defend and may receive healing. Partial healing below the first-knockout wake threshold is retained but does not wake them. On natural awakening, set ordinary HP to the greater of current HP and ceil(10% of maximum ordinary HP), without lowering existing healing or exceeding maximum HP. The first knockout may end early when the threshold is reached; a repeated knockout lasts the full eight hours. Completing a qualifying long rest resets the count; involuntary unconsciousness itself does not count as restorative sleep, reset the counter, restore Shimmer, or grant ordinary sleep-based MP or HP recovery beyond the specified awakening floor. Ordinary Shimmer recovery timing remains independent.
+
+Preserve other current HP/d20 damage, healing, status and Shimmer rules. Drowning, execution, general death rules for unconscious Heroes, normal reserve overflow details, precise other cushioning modifiers and final quantitative balance remain unresolved. The fixed damage cap is an approved gameplay benchmark, not a physics calculation or simulation result. No historical engine or saved character migration.
+
+Affected: Combat, World and Shimmer, Magical Media and Contests, Canon Index, and public health/combat guides. The falling-specific Break and explicit HP knockout recovery supersede earlier open hazard and incapacitation notes to this extent only. Public health examples corrected to the already-approved 115 natural HP constant. No simulation or character manager update.
+
 ## November 26, 2026 — AUTHOR APPROVED: Mana Capacity training
 
 Current HP/d20 Heroes may purchase **Mana Capacity** with Training Points from level 1, without an END prerequisite or percentage-based purchase cap. Each purchased rank grants a flat **+5 maximum MP**, up to 20 ranks / **+100 MP**. The price belongs to the next rank; keep TP and purchased ranks in the ordinary training ledger.

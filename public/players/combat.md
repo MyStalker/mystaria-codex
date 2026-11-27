@@ -31,6 +31,8 @@ For an active prepared defense, commit the required action(s) on your own turn a
 
 The effect must still have the required equipment, coverage, mana, medium, and position when the trigger occurs.
 
+A falling character or ally may prepare an eligible defensive action to catch or cushion a fall, with a specific trigger and actual means of stopping the impact. See [health and defense](/learn/health/) for falling damage, emergency Shimmer Break and knockout recovery.
+
 ## Movement and escape
 
 The movement foundation starts at **30 feet**, or six five-foot tiles, with eligible Movement training applied under its rules. One Dash doubles the ordinary allowance; Double Dash doubles it again and uses both actions.

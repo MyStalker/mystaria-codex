@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: falling damage and Hero knockout recovery
+
+Fall recovery is ordinarily a defensive action: a falling character or ally may prepare a specific lawful spell to arrest or cushion the fall, using the existing action, Channel Limit, MP, medium, range, trigger and response rules. No free reaction or generic damage-negating roll. See [Combat](22_Combat_Endurance_and_Shimmer_Guard.md) for impact damage, falling-specific Shimmer Break and shared HP-related knockout recovery. Magical Sleep retains its separate condition and counters.
+
 ## November 26, 2026 — AUTHOR APPROVED: Magnitude rank progression and Duration-linked upkeep
 
 Magnitude is one universal discipline governing spell placement reach, purchasable area and simultaneous actively maintained spells. The author approves the following rank mapping and base multiplicity; ordinary burst measurements are radii, not diameters.

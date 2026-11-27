@@ -2,11 +2,11 @@ HP measures how much ordinary damage you can withstand. Endurance gives you natu
 
 ## Your ordinary health
 
-Natural ordinary HP starts at **75**, then adds the contribution from effective END. Add eligible purchased HP separately under your table's training menu.
+Natural ordinary HP starts at **115**, then adds the contribution from effective END. Add eligible purchased HP separately under your table's training menu.
 
 {{table:health-curve}}
 
-Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **310 natural HP** after adding the base 115. END 120 contributes 200 + 1115 + 60, giving **510 natural HP**. These are examples before health training or other lawful HP modifiers.
+Read the bands in order. END 60 contributes 50 × 4 plus 10 × 3.5, giving **350 natural HP** after adding the base 115. END 120 contributes 200 + 175 + 60, giving **550 natural HP**. These are examples before health training or other lawful HP modifiers.
 
 ## Increasing your health
 
@@ -34,6 +34,24 @@ An intact, dormant Guard also protects against a single devastating attack. If i
 ::: detail Emergency Break example
 With maximum ordinary HP 310 and reserve 310, full combined maximum is 620. The emergency threshold is ceil(0.51 × 620) = **317 post-armor damage**. Use maximum combined HP for this test, rather than your current HP or only your ordinary maximum.
 :::
+
+## Falling and emergency rescue
+
+The first 10 feet of an uncontrolled fall are safe. Each additional foot deals **3 HP**, capped at **1,500 HP** (510 feet or more). Sufficiently deep water reduces the final impact damage by **100**, to a minimum of zero. Ordinary AR and ER do not protect against the impact, and falling cannot critically hit. A lawful defensive action may catch or cushion a fall; the character or an ally must have the actual ability, timing and resources. Unconscious people in water can drown.
+
+If falling damage triggers an emergency Break, or equals or exceeds the Hero's maximum ordinary HP while their Guard is intact and dormant, the Guard saves their life but breaks. The Hero loses the reserve, falls to **0 ordinary HP**, and is prone, unconscious and helpless. This is different from ordinary emergency Break, which preserves preattack HP. An active or already broken Guard cannot perform the emergency Break.
+
+## Hero knockout and revival
+
+Track HP-related knockouts since your last qualifying long rest, including fall-induced Breaks. Ordinary HP exhaustion alone does not knock you out while your Shimmer Reserve still protects you.
+
+| | First knockout | Second or later before long rest |
+|---|---|---|
+| Unconscious duration | 1 hour | 8 hours |
+| Early awakening | Heal to 25% of maximum ordinary HP | None, even at full HP |
+| Natural awakening if alive | At least 10% of maximum ordinary HP | At least 10% of maximum ordinary HP |
+
+Round both HP thresholds up. Healing is retained while unconscious; natural awakening never lowers HP already restored. You cannot act or defend while knocked out. A qualifying long rest resets the knockout count. Being unconscious is not restorative sleep: it grants no ordinary sleep recovery or Shimmer restoration by itself. Magical Sleep uses its own rules; a non-incapacitating ordinary emergency Break does not count as a knockout.
 
 ## Rest and medical care
 
