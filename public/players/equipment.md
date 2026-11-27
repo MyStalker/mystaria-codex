@@ -22,9 +22,13 @@ You have two actions per turn, but may make only one offensive attack action. No
 | Precision rifle | 5 | 2 actions |
 | Scattergun | 2 | 1 action |
 
-You can split ordinary action-based reloads across turns, except when a weapon requires a dedicated full turn (including the existing high-capacity magazine rule). Advanced arbalests also need their initial setup turn. Advanced crossbows reload in one dedicated turn; advanced precision rifles and light precision firearms have five and six cartridges respectively and reload in a full nonshooting turn. A magazine does not give you extra attacks. Observe actual handling, cocking, recoil and ammunition requirements. Exact advanced damage profiles, Junk damage, and bow draw contributions are table questions.
+You can split ordinary action-based reloads across turns, except when a weapon requires a dedicated full turn (including the existing high-capacity magazine rule). Advanced arbalests also need their initial setup turn. Advanced crossbows reload in one dedicated turn; advanced precision rifles and light precision firearms have five and six cartridges respectively and reload in a full nonshooting turn. A magazine does not give you extra attacks. Observe actual handling, cocking, recoil and ammunition requirements. Exact advanced damage profiles and bow draw contributions are table questions.
 
 A loadout is a set of tradeoffs. Your weapon determines how you threaten an enemy; armor and shields determine how you withstand them. Weight, handling, reach, and available hands tie those choices together.
+
+## Junk equipment
+
+A Junk melee or ranged weapon has the same inherent damage, fixed AP, Weight and handling as the corresponding Quality I Boughsteel weapon, but attacks made with it suffer **−2 Attack**. Junk armor has the same AR and Weight as its Quality I counterpart, but gives **−2 Evasion** once for the ensemble. If a Junk weapon attacks a Junk-armored target, the two penalties cancel in the hit comparison. Ordinary Junk gear costs half the matching Quality I Gem price; Junk cannot be Honed, Hulking or Deflection. Shields, casting implements and accessories have their own Junk rules. A missing underlying Quality I profile is still a question for your GM.
 
 ## Read a weapon profile
 

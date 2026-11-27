@@ -46,3 +46,7 @@ A potion normally takes one action to draw and one to drink. Inaccessibility, a 
 ## After an attack
 
 Use [health and defense](/learn/health/) for damage, Shimmer, and recovery. Use [conditions](/learn/conditions/) for accumulating statuses and helping an affected ally. Your GM resolves the remaining edge cases and any maneuver whose HP conversion is not yet specified.
+
+## Junk equipment in combat
+
+Attacks made with a Junk melee or ranged weapon take **−2 Attack** once. Wearing Junk armor gives **−2 Evasion** once. These cancel when a Junk weapon attacks a Junk-armored target; neither reduces the weapon's damage or armor penetration. See [equipment](/learn/equipment/) for the item profiles and separate shield and implement rules.

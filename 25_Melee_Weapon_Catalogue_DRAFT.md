@@ -1,3 +1,7 @@
+## November 26, 2026 — AUTHOR APPROVED: Junk physical equipment in HP/d20
+
+Ordinary Junk melee and ranged weapons inherit the equivalent legal QI Boughsteel profile's inherent damage, fixed AP and Weight, but impose **−2 Attack accuracy** once when used. Junk worn armor retains QI AR and Weight and imposes **−2 Evasion** once. The two modifiers cancel when both apply to the same hit comparison. Half-QI Gem price and existing specialty restrictions remain. See [Equipment and Economy](09_Equipment_and_Economy.md) for the full rule and preserved exceptions. No separate Junk weapon damage table is required. This supersedes the old categorical penalties for current HP/d20 only; historical engines are unchanged.
+
 ## November 26, 2026 — AUTHOR APPROVED: working equipment Weight and ranged conversion
 
 See [ranged catalogue](27_Ranged_Weapon_Catalogue_DRAFT.md) for the accepted class-relative Weight curves, material modifiers, ordinary ranged DEX multipliers and compatibility matrix, and ordinary HP/d20 ranged damage budgets. Preserve baseline melee shape Weight and latest specialty rules. Damage candidates await validation; thrown, advanced and mounted profiles remain incomplete. No new ammo pricing or historical engine changes. 
