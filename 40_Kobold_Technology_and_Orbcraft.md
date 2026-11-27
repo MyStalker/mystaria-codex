@@ -1,5 +1,62 @@
 # Kobold Technology and Orbcraft
 
+## November 27, 2026 — AUTHOR APPROVED: Kinetic Barriers, Collimated walls and Hardlight equipment
+
+### Kinetic Barrier Projector
+
+A sustained, target-anchored omnidirectional permeable field (all angles, including above/below), not a structural wall, grapple or restraint. One selected eligible creature/object at a time; protects despite facing, prone, flanking, Pressure or Trapped. One action to activate or voluntarily deactivate; first round's upkeep paid at activation, no separate activation fee; automatic subsequent upkeep. No shield HP. Manual operation uses hardware output, ordinary Weight/Handling, not user INT/END/training or spell Power. One technological barrier per target, no overlapping equivalent barriers; conventional armor, shields and distinct White Manacraft defenses compatible, exact combined shield interception order still open.
+
+Choose Kinetic (physical damage and eligible physical status) or Energy (energy damage and eligible energy status); not both by default. Switch free once at start of own turn or spend one action later on own turn; never retroactively. Use actual delivery component: swords, bullets, boulders, sonic, physical ice spikes are Kinetic; lasers, fire, lightning and pure Freeze are Energy. Hybrid packets treat components separately. No innate prevention of grapples, trips, disarms, pressure, Repulsor displacement or other maneuvers; no removal of existing status, automatic rubble clearance or blanket negation of environmental restraints. A successful eligible crossing attack reduces raw damage before AR/ER and independently reduces eligible status buildup by BR, each minimum zero, with one interception cost per attack, not per damage/status component. Ordinary AP does not penetrate separate BR. Outgoing attacks from a friendly protected target pass freely. No free retroactive defense or automatic mitigation of an effect that does not cross the field.
+
+| Quality | BR | Miniature MP | Handheld MP | Personal MP | Vehicle MP | Industrial MP |
+|---|---:|---:|---:|---:|---:|---:|
+| Junk | 25 | 0.2 | 0.5 | 1 | 2 | 8 |
+| I | 50 | 0.3 | 0.75 | 1.5 | 3 | 12 |
+| II | 80 | 0.5 | 1.25 | 2.5 | 5 | 20 |
+| III | 120 | 0.7 | 1.75 | 3.5 | 7 | 28 |
+| IV | 160 | 0.8 | 2 | 4 | 8 | 32 |
+| V | 200 | 1 | 2.5 | 5 | 10 | 40 |
+| VI | 240 | 1.2 | 3 | 6 | 12 | 48 |
+
+The same listed Operating Cost is paid per active round and per eligible successful attack intercepted, irrespective of intensity or amount prevented. Misses, ineligible types and nonintercepted maneuvers do not pay interception costs. One eligible damage/status attack costs once. No partial protection: if insufficient stored mana or available discharge for the full interception cost, that attack passes; if upkeep cannot be paid, field automatically ends. Actual MP generates ordinary Hex. Preserve fractions until universal rounding is resolved. Reference generalist defensive base spell Power parity is an author design target, not a verified spell calibration. Standard matched QV Codex at each size supplies nine idle rounds or three rounds at two eligible hits each, assuming no other draws/refueling and adequate discharge. Other grades approximately match the target. No change to Codex capacity or recharge/discharge. No per-hit amount/25 formula.
+
+| Size | Normal projection range | Intended target | Collimated range |
+|---|---|---|---|
+| Miniature | 10 ft | Small creature/component | 15 ft |
+| Handheld | 30 ft | Ordinary humanoid | 45 ft |
+| Personal | 60 ft | Large creature/battlesuit | 90 ft |
+| Vehicle | 90 ft | Mech/vehicle | 135 ft |
+| Industrial | 1 mile | Large machinery/installation | 1.5 miles |
+
+Size governs coverage and range, not BR at equal Quality. Ordinary projector is one Gadget Mount. Can project to self, willing ally or eligible object in range and continuous actual Line of Light. To anchor on a hostile target spend one offensive action; target rolls Reflex with disadvantage (lower of two d20), against DC 10 + operator's applicable Attack. On failure field anchors and reduces matching outgoing damage/status by BR in addition to protecting the target against incoming matching attacks; each actual eligible intercepted attack charges the same operating cost. No movement/attack restriction or grapple. If range or Line of Light breaks (e.g. wall), field ends, no automatic reattachment when connection returns. Change target by deactivation and new activation (one action each). Actual geometry and suitable projection paths apply.
+
+### Barrier-specific optional enhancements
+
+Amplifier +50% BR and +50% operating cost; Economizer -25% operating cost and -10% BR; Collimator +50% range, additional physical hardware, replaces personal/creature-anchored shield function with a world-anchored one-way wall (same BR and costs); Field Shaper allows free mode changes on own turn with actual hardware; Stabilizer grants advantage on eligible disruption-resistance checks with added Weight (specific checks remain open); Dual-Field Emitter requires second Emitter and doubles upkeep and interception cost, allowing both physical and energy protection. Ordinary compatible submodule limits and physical costs remain; exact stacking, recipes, component Weight/price open.
+
+Collimated walls are fixed in world, oriented at activation with a selected protected side; intercept eligible attacks crossing toward that side, allow attacks outward freely. No personal/creature-anchored shield with Collimator. Require uninterrupted Line of Light and actual range. Each qualifying attack contacting the protected face pays normal interception cost, not a separate upkeep per sheltered ally; exact area/multi-target packet handling and wall dimensions remain open. Wall uses BR reduction, not structural HP or a solid containment obstacle; ordinary creature passage remains possible. Distinct from White Manacraft structural barrier, no change to its rules. No new attack or restraint from wall.
+
+### Hardlight equipment
+
+Hardlight is a shaped tangible kinetic/containment field, distinct from purely visual holograms, omnidirectional Barrier Projectors and contained-plasma Arcblades. Actual physical projector, Focuser, power supply and compatible supporting hardware remain. Basic projector produces a predetermined legal implement; compatible Field Shaper permits multiple supported shapes but only one at a time. Changing shape costs one action, as drawing another weapon; supersedes free turn-start change proposal. Activation one action; sustained upkeep each active turn. Hardlight should have modest ongoing MP cost, normally not at risk of exhaustion mid-combat with suitable ordinary fuel, but meaningful over an adventuring day. Exact MP rates and duration benchmarks not yet numerically approved. No per-hit mana cost for Hardlight shields or armor. Loss of sustaining power ends projected equipment. Actual hardware Weight, normal grip/anatomy/handling, geometry and shared burden apply. No unsupported one-handed use of a two-handed form, no additional attacks, no automatic INT gate for ordinary manually operated equipment.
+
+| Projector size | Supported melee forms |
+|---|---|
+| Miniature | Light compact weapons |
+| Handheld | Ordinary one-handed weapons |
+| Personal | Large/two-handed weapons |
+| Vehicle | Mounted mechanical melee weapons |
+| Industrial | Exceptional industrial cutting/demolition |
+
+Hardlight weapons use equivalent legal conventional weapon profile of corresponding form and Quality (ordinary STR/DEX scaling, inherent damage, AP, attack modes, reach and trained damage); physical kinetic damage rather than energy damage. Shape adaptability, not inherent damage supremacy, is the advantage. Use actual hardware Weight; exact handling and maximum supported forms, fixed-form recipes and material-specialty equivalences require final calibration; no automatic conventional material enchantment traits. One variable implement Gadget Mount even if switching between weapon and shield; simultaneous independent weapon/shield fields need separate gadgets. Separate Arcblade family uses contained plasma, thermal/energy offense and specialized forms, ER rather than AR where applicable; exact Arcblade numerical catalogue remains open.
+
+Hardlight shields use applicable conventional shield class, armor/Guard/handling and bash rules, with maximum HP one-third equivalent normal shield HP. Given H_G ordinary generalist HP, Light/Medium H_G/6, Heavy H_G/3. HP refreshes each turn while sustained; fixed upkeep only, no mana drain per absorbed attack. Can break through under ordinary shield rules; renewal replaces permanent repair rather than changing conventional shield HP or overflow rules. Exact refresh phase, interactions of changing shape/reactivation with depleted shield HP, overflow and rounding are open; no automatic extra mid-turn HP refresh from changing shape. A variable projector can choose shield shape within actual supported size.
+
+Hardlight armor projects fitted armor-equivalent physical AR over actual covered locations; no automatic extra shield BR or grapple immunity. Use stronger applicable Hardlight or conventional worn armor layer, do not stack full AR of equivalent layers. Energy-resistant construction separate compatible variant; standard physical only. Fixed ongoing MP, no per-hit drain. Actual projector hardware Weight and ordinary armor handling apply, projection disappears if unfueled. No passive attribute replacement or extra armor stacking.
+
+No combat simulation performed. Exact component Weight/prices, hardlight upkeep, shield HP rounding/refresh sequencing and wall dimensions, combined shield ordering, passive/active defense interaction, BR parity, enhancement compatibility and balance remain open. Preserve existing form-factor caps, action economy, Integration, color/MP/Hex and actual equipment rules.
+
+
 ## November 26, 2026 — AUTHOR APPROVED: assembly form-factor Mount limits
 
 Apply both Fabrication rank and form-factor limits to each Assembly: maximum integrated Gadget Mounts = the lesser of Fabrication allowance and applicable form-factor cap. Miniature assemblies cap at 2, a single handheld weapon assembly at 4, and a worn suit assembly at 8. No other additional form-factor caps: other assemblies retain the general Fabrication allowance. Mastercraft VI adds no Mounts.

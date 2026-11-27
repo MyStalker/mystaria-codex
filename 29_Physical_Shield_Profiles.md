@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Hardlight shield variant
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for the full projected-equipment catalogue. A Hardlight shield has one-third maximum HP of the corresponding ordinary shield (Light/Medium H_G/6, Heavy H_G/3, where H_G is ordinary generalist HP at the reference progression). Retain conventional class armor, lawful shield interception/Guard, handling and bash rules. Shield HP replenishes each turn while sustained; fixed MP upkeep only, no per-interception drain or permanent repair requirement. Exact refresh phase, rounding, overflow and shape-change/reactivation interactions remain open; one-action change of shape does not automatically confer additional mid-turn renewal. Does not alter conventional shield durability or White Manacraft/Kinetic Barrier mechanics. No absolute shield price or MP rate approved.
+
 ## November 26, 2026 — AUTHOR APPROVED: early HP/d20 equipment eligibility and baseline Weight
 
 Conventional Light/Medium/Heavy shields use baseline Weight **4/8/16**, shared capacity and legal hands/anatomy; no generic unrelated stat gates in HP/d20. Specialized control exceptions and material modifiers remain open; preserve approved shield HP/AR and defense procedures. Historical rules unchanged.

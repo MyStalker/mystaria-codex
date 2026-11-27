@@ -93,6 +93,24 @@ A powerful living Anima can extract more magical effect from mana than a novice 
 
 Orbcraft can fabricate machinery from appropriate prepared exotic stock, including purchased or salvaged alloys and Adamantite. It does not inherently teach ore refining or alloy manufacture; those remain qualified Anvilcant capabilities. Wetcraft can complement both through lawful extraction and material preparation, subject to equivalent exchange and real materials, costs and qualifications.
 
+### Kinetic Barriers and Hardlight
+
+A Kinetic Barrier is a sustained omnidirectional shield on one eligible creature/object. Choose Kinetic (physical) or Energy protection, switch freely once at turn start or spend an action later on your turn. Activate or voluntarily deactivate for one action; pay upkeep immediately on activation and each active round. Quality Junk/I/II/III/IV/V/VI Barrier Rating is 25/50/80/120/160/200/240. Subtract BR from matching raw damage before armor and from eligible status buildup independently. No automatic protection from grapples, trips, disarms or forced displacement. Each eligible landed attack intercepted pays the same cost as one round of upkeep, once even for damage plus buildup; wrong types pass. If full interception cost is unavailable the attack passes; if upkeep cannot be paid the shield ends.
+
+| Quality | Miniature | Handheld | Personal | Vehicle | Industrial |
+|---|---:|---:|---:|---:|---:|
+| Junk | 0.2 | 0.5 | 1 | 2 | 8 |
+| I | 0.3 | 0.75 | 1.5 | 3 | 12 |
+| II | 0.5 | 1.25 | 2.5 | 5 | 20 |
+| III | 0.7 | 1.75 | 3.5 | 7 | 28 |
+| IV | 0.8 | 2 | 4 | 8 | 32 |
+| V | 1 | 2.5 | 5 | 10 | 40 |
+| VI | 1.2 | 3 | 6 | 12 | 48 |
+
+MP per upkeep or interception. A standard matched QV Codex lasts nine idle rounds or three rounds with two eligible interceptions per round. Range miniature/handheld/personal/vehicle/industrial is 10/30/60/90 ft/1 mile; size governs coverage, not BR. Remote barrier ends if actual Line of Light or range breaks. A hostile projection is an offensive action: target rolls Reflex with disadvantage against 10 + operator Attack; on failure the barrier reduces matching outgoing attacks as well as protecting the target from incoming ones. Neither movement nor techniques are blocked. Collimator adds 50% range but replaces the target shield with a fixed one-way wall; attacks toward protected side are reduced, outgoing attacks and ordinary movement pass. Other enhancements include Amplifier, Economizer, Field Shaper, Stabilizer and Dual-Field Emitter; consult Orbcraft for profiles. One technological barrier per target.
+
+Hardlight equipment uses tangible shaped fields rather than an omnidirectional Barrier. A compatible Field Shaper permits different legal forms of one implement; reshaping costs one action, and only one form operates at a time per gadget. Weapons use ordinary equivalent physical weapon stats/handling; size limits available forms. Hardlight shields have one-third corresponding conventional shield HP and replenish each turn while sustained; fixed upkeep, not per-hit drain. Hardlight armor supplies equivalent covered physical AR (use stronger layer rather than stacking with worn armor), separate energy-resistant variant. All require actual hardware and sustaining fuel; modest upkeep is intended, but exact Hardlight MP rates, component Weight, prices and shield renewal timing remain unfinished. Arcblades are distinct contained-plasma energy melee weapons.
+
 ## Modules, submodules and mounts
 
 A module supplies a capability; a submodule optionally improves it. A gadget performs a complete function; an assembly combines gadgets on a Structure (or a suitable host Structure). Each integrated gadget uses one Mount, and Fabrication I–V supports 1/2/4/8/16 Mounts. Apply the lower of this allowance and the assembly form cap: miniature 2, single handheld weapon 4, worn suit 8. Other assemblies have no additional form cap. Mastercraft adds no Mounts. Separate carried weapons are permitted; genuinely integrated functions cannot evade the cap through nested packaging. Supporting components do not consume separate Mounts. Recipes allow compatible submodule types, normally one of each per primary module. Shared mana, control and Hex containment are possible, subject to real capacity. Gadgets can use compatible personal mana instead of a Codex, but insufficient filtration can expose the operator immediately. Minimal designs are often weak or inefficient; choose upgrades to suit the job. Magic Mirrors supply visual data. Foundational beams have no color-specific bonus; advanced color effects require matching mana and appropriate research, whose details remain under development.
