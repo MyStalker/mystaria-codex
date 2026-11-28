@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Imperial Matter Core firearms and Rupture Emitters
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md). Imperial Matter Core removes ordinary ammo/magazines, Codex refueling and Hex retained; Field Modulator inherent damage, eight firearm modes, burst ×3 MP +2 Accuracy Full only, auto ×5 Full only, shotgun 15-ft/90°/3-target Sweep. Reusable hardware-defined Rupture Emitter area gadget with approved working intensity and Power candidates. Exact configuration coefficients, fuel/geometry, payload interface and balance open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Stonewall shared durability and grenade launcher cycle
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Thick Stonewall uses material-tier Armor/HP, one wall-wide pool, half damage unless AoE encompasses entire wall, no separate hardness statistic. Retain formation/displacement and confinement safeguards. Draw/throw one action each; loaded grenade launcher fires/reloads one action each, range/convenience only. Exact material ratings, area allocation, ranges and costs open. No simulation.
