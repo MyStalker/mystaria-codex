@@ -26,7 +26,7 @@ The five-stat training system uses STR, DEX, END, INT, and Skill. Use these leve
 | Vren | 8 | 8 | 8 | 5 | 9 | STR +25%, Skill +25% |
 | Corvyn | 3 | 6 | 3 | 8 | 7 | STR −25%, INT +25% |
 | Drider | 8 | 8 | 6 | 5 | 5 | All five +10% |
-| Untouched Serpentari | 7 | 6 | 7 | 9 | 6 | INT +25% |
+| Untouched Serpentari | 5 | 10 | 7 | 5 | 8 | DEX +25% |
 | Kharak | 12 | 5 | 10 | 7 | 4 | STR +25%, INT +25% |
 | Kobold | 2 | 8 | 3 | 10 | 7 | STR −25%, DEX +25%, INT +25% |
 | Centaur | 11 | 3 | 8 | 6 | 10 | STR +25%, Skill +25% |

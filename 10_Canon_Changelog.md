@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Untouched Serpentari starting attributes
+
+The current HP/d20 Untouched Serpentari base array is STR 5, DEX 10, END 7 (unchanged), INT 5, Skill 8, total 35. The permanent +25% racial modifier moves from INT to DEX. This supersedes only their November 26 rebased racial row; Sovereign Aptitude, other racial traits, other races, and historical test fixtures remain unchanged. Owner: [Races](02_Races.md); player-facing table: [Character](public/players/character.md). No balance testing or application/engine migration performed.
+
 ## November 27, 2026 — AUTHOR APPROVED: physical Orbcraft weapon construction and ranged scope
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Lightweight damage/Weight ×0.75/0.50, Standard ×1/1, Reinforced ×1.50/1.50; normal attribute/training/accuracy, independent structural investment. Dense Core intermediate ×1.125 and ×1.25 damage/Weight, major ×1.50, nonstacking. Working proportional construction AP flagged for calibration. Ordinary ×1.75/2 candidates withdrawn. Both melee and ranged technological weapons, explicitly melee and ranged Laser; existing Hardlight limits remain. Natural same-tier offensive burden target, actual additional nondamaging support Weight permitted. 120,000 stationary Combat Lab encounters support working benchmarks, not full technology balance. Module/structural profiles, prices and ranged details open.
