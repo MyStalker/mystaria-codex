@@ -1,3 +1,25 @@
+## November 27, 2026 — AUTHOR APPROVED: asymmetric technological acceleration and provisional world demographics
+
+Approved as adjustable working guesses, not fixed census: 250 million sapient inhabitants (100–500 million sensitivity range); Scarlands 35% / 87.5M, Canopy Kingdoms 25% / 62.5M, Imperium 40% / 100M. Canopy legal-status working split remains 75% enslaved, 12% Avowed, 9% native free commoners, 2% nobility, 2% temporary foreign residents. Provisional racial shares: Moontouched 12%, Tidekin 11%, Duskpaw 9%, Bloomkin 9%, Kobold 8%, Thornguard 7%, Kharak 7%, Nymbrin 6%, Vren 5%, Elementals 5%, Leshy 4%, Dirtmoles 4%, Centaurs 3%, Naga 3%, other peoples 7%; whether Elementals overlap other races remains unresolved. Revisit after fuller race development. Nested top 2% exceptional and top 0.04% legendary apply to relevant trained practitioner pools as working demographic model, not all inhabitants or automatic combat levels. Anvilcant 500k trained/200 legendary; Orbcraft 250k/100; Earthcraft 1M/400; Leshy cultivation 2M/800; Wetcraft 200k/80; Wakecraft 1M/400; Pyromancy 500k/200; Jestercraft 50k/20. Overlap allowed. Personal Anvilcant/Orbcraft dual masters 3–7 worldwide (central 4), active Mastercraft partnerships 10–30; collaboration remains lawful. Capability is not bulk production throughput. Combat equivalent bands L50–74 20–50k (central 35k), L75–89 2–5k (3500), L90–99 500–1000 (750), L100 100–250 (200). No new NPC progression rule. Kharak and Thornguard strongly overrepresented through martial culture; Moontouched rare at high levels without hard racial ceiling, lawful mana-free Arts, externally powered Orbcraft and other eligible disciplines or chosen Warlock paths remain possible. Regional L100 central estimates Imperium 94, Canopy 58, Scarlands 48. Detailed racial combat estimates below are provisional hand-calibrated counts, not simulations. No fixed lifespan, training duration, geographical carrying capacity or production ceiling approved.
+
+| Race | L50–74 | L75–89 | L90–99 | L100 |
+|---|---:|---:|---:|---:|
+| Kharak | 9800 | 1120 | 260 | 70 |
+| Thornguard | 7000 | 770 | 165 | 44 |
+| Vren | 3500 | 350 | 75 | 20 |
+| Drakyn | 1750 | 210 | 50 | 14 |
+| Vesperyn | 1750 | 175 | 40 | 10 |
+| Naga | 1400 | 140 | 30 | 8 |
+| Corvyn | 1050 | 105 | 25 | 6 |
+| Serpentari | 350 | 70 | 20 | 8 |
+| Kobolds | 1400 | 105 | 20 | 5 |
+| Centaurs | 1050 | 70 | 15 | 4 |
+| Tidekin | 1400 | 105 | 15 | 3 |
+| Duskpaw | 1400 | 105 | 15 | 3 |
+| Nymbrin | 700 | 70 | 10 | 2 |
+| Moontouched | 350 | 14 | 2 | 1 |
+| Other | 2100 | 91 | 8 | 2 |
+
 ## November 26, 2026 — AUTHOR APPROVED: HP/d20 Soul Strain and attribute enchantment closeout
 
 For natural mana capacity and the corresponding Soul Strain capacity, exclude enchantment-derived END before applying the existing +10 compensation and racial capacity rules. Enchanted END still contributes to applicable physical derived statistics. This is not a change to other sources of END or a blanket change to Channel Limit. Preserve Moontouched strain-only accounting and zero usable natural MP, Drakyn recovery, and existing racial exceptions. See [Equipment and Economy](09_Equipment_and_Economy.md).
