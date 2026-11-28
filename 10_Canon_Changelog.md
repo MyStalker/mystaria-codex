@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Magical Tempering and manufacturing valuation
+
+Owners: [Anvilcant](07_Centaurs_and_Smithcraft.md), [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Shared same-material mana-consuming permanent reinforcement above ordinary QI; diminishing returns, native properties, rank gate, distinct from enchantment, finished Weight separate from consumed stock, no full recovery. Preserve Mastercraft and refining boundaries. Glassweave containment, Nullporcelain Hex filters. Calibrate manufacturing costs to existing Gem gold-equivalent appraisals without automatic exchange or market-demand pricing; component-specific recipes. Numerical costs, labor, time, recovery, valuation and physical gemstone proposal remain open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Imperial firearm configurations and distinct grenade launcher catalogue
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md). Eight Imperial firearm output/fuel/requirement profiles approved as working candidates; four reusable Rupture configurations and color roles. Explicitly retain Auxiliary, Dedicated and Repeating consumable grenade launchers with prior QI Weight/range/capacity profiles and one-action fire/reload. Distinct from mana-powered Rupture Emitters. Full manifests, numerical calibration, qualification, recipes and prices open. No simulation.
