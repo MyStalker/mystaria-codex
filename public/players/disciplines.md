@@ -337,3 +337,7 @@ Arcane Disruptors can damage magical barriers directly without transferring exce
 Roll once using the grenade's printed Accuracy and compare against each affected creature's 10 + Agility. The grenade's Accuracy reflects an equivalent-level generalist caster, not the user's own stats or training. A successful defense halves anti-armor grenade damage and effects; other offensive grenades are negated. Drawing a grenade costs one action. Dedicated launchers can offer convenience; exact loading rules remain a table question.
 
 Stonewall grenades grow real rock in available empty space, automatically forcing creatures out of the forming wall. At the DM's discretion an exceptionally powerful creature may push the forming wall aside instead. Hardness depends on tier and decreases with larger area. In confined space the formation can bury creatures but cannot instantly crush them to death or expand against enclosing walls. Exact terrain ratings remain table questions.
+
+### Stonewall durability and grenade launchers
+
+A Stonewall is thick real stone with appropriate material Armor and a single shared HP pool. An attack anywhere on the wall damages the whole pool; attacks without an area capable of encompassing the entire wall deal half damage. There is no separate hardness statistic. Draw and throw each cost one action; a loaded dedicated grenade launcher fires in one action and reloads in one action. Launchers improve convenience and range, not grenade damage or Accuracy. Exact material ratings and launcher ranges remain table questions.

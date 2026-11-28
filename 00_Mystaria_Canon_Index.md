@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Stonewall shared durability and grenade launcher cycle
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Thick Stonewall uses material-tier Armor/HP, one wall-wide pool, half damage unless AoE encompasses entire wall, no separate hardness statistic. Retain formation/displacement and confinement safeguards. Draw/throw one action each; loaded grenade launcher fires/reloads one action each, range/convenience only. Exact material ratings, area allocation, ranges and costs open. No simulation.
+
 ## November 27, 2026 — AUTHOR CORRECTION: grenade Accuracy, draw action and Stonewall terrain
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). One grenade Accuracy roll vs each 10+Agility; item Accuracy benchmarks equivalent-level generalist caster, no user scaling. Successful defense halves anti-armor damage/effect, negates others. Draw one action; launcher convenience direction. Stonewall automatic displacement, exceptional DM strength override, tier/area hardness, empty-space rock, possible Buried in enclosure, no instant crushing or expansion against walls. Numerical ladders, geometry, launcher actions and pricing open. No simulation.
