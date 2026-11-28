@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Imperial firearm configurations and distinct grenade launcher catalogue
+
+See [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for approved Imperial Field Modulator configuration multipliers and requirements, Auxiliary/Dedicated/Repeating grenade launchers and distinct reusable Rupture Emitter gadgets. Conventional ammunition and reload profiles remain unchanged.
+
 ## November 27, 2026 — AUTHOR APPROVED: Imperial Matter Core firearms and Rupture Emitters
 
 Imperial accelerator firearms are a distinct technological family; see [Orbcraft](40_Kobold_Technology_and_Orbcraft.md) for Matter Core, Field Modulator and firing profiles. Ordinary ammunition and magazine cycles below remain valid for conventional weapons, not Imperial Matter Core firearms. Burst is Full Attack only, ×3 native MP and +2 Accuracy; full auto Full Attack only, ×5 native MP. Imperial shotgun Sweep 15 ft/90 degrees/up to three targets. Exact configuration coefficients and qualification remain open.

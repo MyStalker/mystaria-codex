@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Imperial firearm configurations and distinct grenade launcher catalogue
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md). Eight Imperial firearm output/fuel/requirement profiles approved as working candidates; four reusable Rupture configurations and color roles. Explicitly retain Auxiliary, Dedicated and Repeating consumable grenade launchers with prior QI Weight/range/capacity profiles and one-action fire/reload. Distinct from mana-powered Rupture Emitters. Full manifests, numerical calibration, qualification, recipes and prices open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Imperial Matter Core firearms and Rupture Emitters
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md). Imperial Matter Core removes ordinary ammo/magazines, Codex refueling and Hex retained; Field Modulator inherent damage, eight firearm modes, burst ×3 MP +2 Accuracy Full only, auto ×5 Full only, shotgun 15-ft/90°/3-target Sweep. Reusable hardware-defined Rupture Emitter area gadget with approved working intensity and Power candidates. Exact configuration coefficients, fuel/geometry, payload interface and balance open. No simulation.
