@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: handheld module Weight and manifests
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Handheld component Weight multipliers Junk–VI .5/1/1.5/2/2.5/3/3, using existing QI component references. Six-category construction manifest; QI Vibro Rapier preliminary 8.5 Handling, 7.5 MP/15 Hex capacity, .25 MP per attack. Structure, Strain, processing and full construction qualification pending; no new simulation.
+
 ## November 27, 2026 — AUTHOR CORRECTION: unified weapon construction burden
 
 Owners: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md), [Melee](25_Melee_Weapon_Catalogue_DRAFT.md), [Ranged](27_Ranged_Weapon_Catalogue_DRAFT.md), [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). One finished construction Weight W sets either shared equipped Weight cost or DEX Handling W, not both; applies to materials, Quality, body modifiers and actual added hardware. Arbalests permit DEX-qualified reload/use without separate STR cocking gate; existing reload/setup retained. Repulsors require STR or actual Full Recoil Control. Gyrodrive and Levitation Drive withdrawn; Capacitor retained for development. Magic Handling, Mastercraft exception, actual structure and historical rules retained. No new simulations.
