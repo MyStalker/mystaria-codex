@@ -60,3 +60,9 @@ Use [health and defense](/learn/health/) for damage, Shimmer, and recovery. Use 
 ## Junk equipment in combat
 
 Attacks made with a Junk melee or ranged weapon take **−2 Attack** once. Wearing Junk armor gives **−2 Evasion** once. These cancel when a Junk weapon attacks a Junk-armored target; neither reduces the weapon's damage or armor penetration. See [equipment](/learn/equipment/) for the item profiles and separate shield and implement rules.
+
+
+## Weapon construction and eligibility
+
+A weapon's finished construction burden determines its ordinary requirement: Weight weapons spend that amount of shared equipment capacity; Handling weapons require the same numerical DEX instead, without paying that amount again as equipped Weight. Materials, Quality, reinforcements and installed hardware alter the same burden. Qualified DEX users may operate and reload arbalests without an additional STR cocking gate; ordinary loading/setup rules still apply. Repulsors need sufficient STR to withstand recoil or powered Full Recoil Control with real anchoring. Existing Magic Handling and Mastercraft exceptions remain.
+

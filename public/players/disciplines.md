@@ -315,3 +315,9 @@ Enchant existing suitable fabric for 1 MP per Stitch, two actions, up to half fu
 Orbcraft can fabricate ordinary weapons and technological melee or ranged weapons, including lasers in either form. A Lightweight weapon body has 75% of ordinary inherent damage and half its Weight; a Reinforced body has 150% of ordinary inherent damage and Weight. Standard bodies retain the equivalent conventional profile. Attribute and trained damage remain normal. Structural strength is a separate investment; extra power storage or other support equipment adds its actual Weight. Hardlight cannot launch detached projected ammunition. Specific technological module statistics and ranged profiles remain under development.
 
 A weapon's Hollow Core reduces structural Weight and capacity; a Reinforcing Spine increases both without directly increasing damage. The wielder supports the finished weapon, while the internal structure must safely withstand its hardware and generated forces. A Vibrodrive learns a target through a successful strike and doubles ordinary armor penetration on subsequent attacks against that remembered target. Actual memory, processing and fuel limit its operation; advanced remote scanning is optional.
+
+
+## Weapon construction and eligibility
+
+A weapon's finished construction burden determines its ordinary requirement: Weight weapons spend that amount of shared equipment capacity; Handling weapons require the same numerical DEX instead, without paying that amount again as equipped Weight. Materials, Quality, reinforcements and installed hardware alter the same burden. Qualified DEX users may operate and reload arbalests without an additional STR cocking gate; ordinary loading/setup rules still apply. Repulsors need sufficient STR to withstand recoil or powered Full Recoil Control with real anchoring. Existing Magic Handling and Mastercraft exceptions remain.
+
