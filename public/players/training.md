@@ -34,7 +34,7 @@ Many established supernatural Craft upgrades use **5 SP per rank**. Some traditi
 
 ## Spending TP
 
-TP purchases improve a derived statistic. You may train physical or magical accuracy, evasion, HP, damage, armor, resistance, and other supported statistics. Each statistic can have its own price ladder and benefit schedule.
+TP purchases improve a derived statistic. You may train universal Accuracy, Agility, HP, damage, armor, resistance, and other supported statistics. Accuracy training applies to all eligible physical, magical and technological attacks and maneuvers. Agility training improves direct attack defense, Reflex saves and initiative. Poise is derived from the Strength-only bonus plus Accuracy training; it is not purchased separately. Each statistic can have its own price ladder and benefit schedule.
 
 **Later ranks cost more.** The price belongs to the next rank you are buying, not to your character's level or the number of ranks you happen to buy today. Record each purchase and keep unspent TP visible.
 
@@ -59,23 +59,23 @@ Add this bonus after your racial mana-capacity calculation. The same reservoir s
 
 | Statistic | What training changes |
 |---|---|
-| **Physical accuracy** | Your chance to connect with a lawful physical attack. |
-| **Magical accuracy** | Your contribution to eligible magical attack checks; individual Crafts still have their own rules. |
-| **Evasion** | How difficult you are to hit. |
+| **Accuracy** | All eligible attack modifiers and offensive maneuvers, plus derived Poise. |
+| **Agility** | Direct attack defense, Reflex saves and initiative. |
+| **Poise (derived)** | Strength-only bonus plus purchased Accuracy; use the higher of Poise or Agility against physical-control maneuvers. No independent purchase. |
 | **HP** | How much ordinary damage you can withstand. |
 | **Mana Capacity** | Your maximum MP and shared Soul Strain capacity, subject to racial rules. |
 | **Damage** | How hard an eligible landed attack hits, before the target's defenses resolve it. |
 | **Armor or resistance** | Protection against the appropriate incoming threat. |
-| **Technique, movement, initiative, and other supported training** | Particular capabilities defined by the table's selected rules. |
+| **Movement and other supported training** | Particular capabilities defined by the table's selected rules. |
 
-::: detail Attribute contributions to accuracy and evasion
-These are the training-system foundation formulas. Purchased bonuses are added separately.
+::: detail Attribute contributions to Accuracy and Agility
+These are the training-system foundation formulas. Purchased bonuses are added separately; the same Accuracy purchase applies to both attack formulas. Exact Strength-only Poise conversion and final Accuracy/Agility price ladders remain to be calibrated.
 
 | Statistic | Attribute contribution |
 |---|---|
 | Physical accuracy | floor((effective STR + effective DEX) / 20) |
 | Magical accuracy | floor((effective INT + effective DEX) / 20) |
-| Evasion | floor((effective DEX + effective END) / 20) |
+| Agility | floor((effective DEX + effective END) / 20) |
 
 There is no automatic flat level bonus in this training foundation. Equipment, statuses, and temporary effects apply under their own rules.
 :::
