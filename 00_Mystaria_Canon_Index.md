@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Accuracy, Agility and Poise
+
+Owner: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md). Universal Accuracy training covers eligible physical, magical and technological attacks and offensive maneuvers; Agility replaces separate Evasion, Reflex and Initiative training. Retire Technique. Derived Poise = Strength-only bonus + Accuracy training, no independent purchase or DEX contribution. Physical-control maneuver defense = 10 + max(Agility, Poise); feints use Agility only. Actual legal spell, tool and reach required. Final cost ladders and exact Strength bonus conversion remain open; test equal prices first. Existing special escape/maintenance and opposed contests require targeted reconciliation. No simulation or saved-sheet migration. Player combat and training guides updated.
+
 ## November 27, 2026 — AUTHOR APPROVED: ammunition investment, Overcharge and Capacitor ratings
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Combat](22_Combat_Endurance_and_Shimmer_Guard.md). Special ammo 1/2/4/8 personal MP, external ×4, .5/1/1.5/2 effect; fixed Green healing 2 MP. Native Overcharge tariffs, hardware output/Strain ×1.25/1.5/2, ordinary Quick/Full Attack commitment and personal CL; external hardware supply exempt from personal CL. Capacitor standard equivalent Codex storage, full stored discharge, one action per charging turn, one-minute charge. Individual effects, personal non-Craft CL, full manifests and balance open. No simulation.
