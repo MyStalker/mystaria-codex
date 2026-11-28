@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: ammunition investment, Overcharge and Capacitor ratings
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md); [Combat](22_Combat_Endurance_and_Shimmer_Guard.md). Special ammo 1/2/4/8 personal MP, external ×4, .5/1/1.5/2 effect; fixed Green healing 2 MP. Native Overcharge tariffs, hardware output/Strain ×1.25/1.5/2, ordinary Quick/Full Attack commitment and personal CL; external hardware supply exempt from personal CL. Capacitor standard equivalent Codex storage, full stored discharge, one action per charging turn, one-minute charge. Individual effects, personal non-Craft CL, full manifests and balance open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Vibro local controller and Capacitor design direction
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Basic Vibrodrive remembers one target without separate Orb; advanced memory/remote analysis require suitable computation. QI base Rapier preliminary 8.25 Handling. Separate variable weapon/ammunition mana investment from Capacitor storage/discharge infrastructure; no inherent capacitor damage multiplier. Exact tariffs, output, charging, hardware and validation pending. No simulation.
