@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: Vibro local controller and Capacitor design direction
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Basic Vibrodrive remembers one target without separate Orb; advanced memory/remote analysis require suitable computation. QI base Rapier preliminary 8.25 Handling. Separate variable weapon/ammunition mana investment from Capacitor storage/discharge infrastructure; no inherent capacitor damage multiplier. Exact tariffs, output, charging, hardware and validation pending. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: handheld module Weight and manifests
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Handheld component Weight multipliers Junk–VI .5/1/1.5/2/2.5/3/3, using existing QI component references. Six-category construction manifest; QI Vibro Rapier preliminary 8.5 Handling, 7.5 MP/15 Hex capacity, .25 MP per attack. Structure, Strain, processing and full construction qualification pending; no new simulation.
