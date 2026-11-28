@@ -11,19 +11,25 @@ A **Quick Attack** (one action), whether a weapon strike, offensive spell or mar
 ## Making a physical attack
 
 1. Choose a target you can actually reach or shoot, with the right hands, weapon readiness, and line of effect.
-2. Apply the actual attack bonus and target Evasion, including relevant positioning, Pressure, equipment, and statuses.
-3. Roll against **10 + target Evasion**: a total of **d20 + Attack** meeting that defense hits.
+2. Apply the actual attack bonus and target Agility, including relevant positioning, Pressure, equipment, and statuses.
+3. Roll against **10 + target Agility**: a total of **d20 + Attack** meeting that defense hits.
 4. Resolve the target's lawful defenses and the attack's damage or status effect.
 
 In the selected training rules, a **natural 1 misses** and a **natural 20 hits and threatens a critical**. Confirm with a second roll using the same original attack bonus and actual defense: natural 1 fails confirmation; natural 20 succeeds. A confirmed critical doubles post-armor HP damage and applicable buildup.
 
 An automatic hit still respects mitigation. It can deal zero HP damage against sufficient armor.
 
+## Maneuvers, Reflex and initiative
+
+Accuracy training applies to physical, magical and technological attacks. Agility supplies direct evasive defense, the Reflex save modifier and the initiative modifier. Context-specific bonuses still apply only to their intended use.
+
+Poise is the Strength-only bonus plus purchased Accuracy, with no Dexterity contribution or separate training. A lawful physical-control maneuver (grapple, trip, disarm, shove or pin, including eligible magical or technological restraints) uses one appropriate attack check against **10 + the higher of Agility or Poise**. Feints use Agility, not Poise. Poise cannot replace Agility against ordinary damage or area attacks. An appropriate spell, tool, reach and actual means of control are required; ordinary fire magic cannot grapple at range just because its caster has high Accuracy. Existing action and status requirements still apply.
+
 ## Pressure and positioning
 
 Pressure represents meaningful tactical disadvantages: being pinned into a bad position, threatened by coordinated opponents, or constrained by a condition. Count the applicable advantages and meaningful counter-pressure, then use the net result.
 
-Each effective Pressure Point reduces Evasion and Reflex checks by **2**, up to **three net points**. At three the target is **Trapped** under the current rules. Eligible automatic or passive shield defenses can still function; Trapped is not permission to ignore every defense.
+Each effective Pressure Point reduces direct evasive defense and Reflex checks by **2**, up to **three net points**. At three the target is **Trapped** under the current rules. Eligible automatic or passive shield defenses can still function; Trapped is not permission to ignore every defense.
 
 Space matters. Reach, cover, facing, a genuine attack path, and room to swing remain real constraints. A large damage rating is not automatic area coverage.
 
@@ -59,7 +65,7 @@ Use [health and defense](/learn/health/) for damage, Shimmer, and recovery. Use 
 
 ## Junk equipment in combat
 
-Attacks made with a Junk melee or ranged weapon take **−2 Attack** once. Wearing Junk armor gives **−2 Evasion** once. These cancel when a Junk weapon attacks a Junk-armored target; neither reduces the weapon's damage or armor penetration. See [equipment](/learn/equipment/) for the item profiles and separate shield and implement rules.
+Attacks made with a Junk melee or ranged weapon take **−2 Attack** once. Wearing Junk armor gives **−2 direct evasive defense** once. These cancel when a Junk weapon attacks a Junk-armored target; neither reduces the weapon's damage or armor penetration. See [equipment](/learn/equipment/) for the item profiles and separate shield and implement rules.
 
 
 ## Weapon construction and eligibility
