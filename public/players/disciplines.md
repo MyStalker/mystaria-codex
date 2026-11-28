@@ -325,3 +325,9 @@ A weapon's finished construction burden determines its ordinary requirement: Wei
 ### Specialized technological ammunition and field countermeasures
 
 Powered ammunition improves intrinsic damage (Red +25%, Black +50% with doubled Hex), accuracy (Blue +2 Attack), stabilization (Green −50% recoil and firing Strain), or range (White +50%) at standard investment. Eligible bonuses scale with ammunition investment; stabilization never replaces required Repulsor recoil-control hardware. Payload ammunition can deliver Burning, Freeze, Binding, Blindness, Energy damage or Hex using hardware Power; fixed Green healing replaces damage. Arcane Disruptors are specialized active countermeasures against projected fields and magical barriers, not universal dispels. Exact Disruptor resolution and complete weapon recipes remain table questions.
+
+### Grenades and specialized ammunition
+
+Colored ammunition costs twice ordinary ammunition; its additional mana cost is paid when fired. Grenades are costly self-contained consumables comparable to potions, with fixed hardware effects, no personal mana expenditure, attribute scaling or stat prerequisites. More powerful grenades cost more; only expensive mid/late-game ordnance approaches ultimate-spell damage. Grenades can serve as land mines and cannot be replenished through a Gem-funded daily allowance. Use Agility for evasion. Anti-armor versions trade area for armor penetration; anti-infantry versions cover wider areas but armor protects twice as much. Exact area, penetration and evasion profiles remain table questions.
+
+Arcane Disruptors can damage magical barriers directly without transferring excess damage to the protected creature, or temporarily suppress eligible fields through an interference contest. They do not dispel permanent enchantments, Shimmer or physical matter. Shared weapon modules can trade power, fuel, range, stability and equipment burden; specialized existing rules take precedence.

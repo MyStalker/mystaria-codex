@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: grenade economy, stat independence, Disruptor and shared weapon modules
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Colored ammo 2× ordinary price; grenades potion-like expense, spell-MP potency benchmarks, ultimate-tier damage only expensive mid/late game, no Gem-funded daily supply, land-mine use, no stat scaling/requirements, Agility evasion, narrow AP anti-armor and broad doubled-armor anti-infantry. Disruptor Breach/Interference and hardware ladder, shared module modifiers/Weight, Laser retention and Plasma comparison candidates approved. Exact grenade profiles, contests, AP, area, qualification, recipes, prices and balance remain open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: powered ammunition, payloads, weapon manifests and Disruptor scope
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Author approves powered Red/Blue/Green/White/Black ammunition coefficients, seven payload identities (including existing fixed healing), minimum manifest directions, Gravitic Anchor development and active Arcane Disruptor explicitly including magical barriers. Gyrodrive remains withdrawn under later correction; existing Capacitor rules retained. Individual caps, full qualification, Disruptor numerical resolution, recipes/prices and combat validation remain open. No simulation.
