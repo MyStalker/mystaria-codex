@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR CORRECTION: grenade Accuracy, draw action and Stonewall terrain
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). One grenade Accuracy roll vs each 10+Agility; item Accuracy benchmarks equivalent-level generalist caster, no user scaling. Successful defense halves anti-armor damage/effect, negates others. Draw one action; launcher convenience direction. Stonewall automatic displacement, exceptional DM strength override, tier/area hardness, empty-space rock, possible Buried in enclosure, no instant crushing or expansion against walls. Numerical ladders, geometry, launcher actions and pricing open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: grenade economy, stat independence, Disruptor and shared weapon modules
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Colored ammo 2× ordinary price; grenades potion-like expense, spell-MP potency benchmarks, ultimate-tier damage only expensive mid/late game, no Gem-funded daily supply, land-mine use, no stat scaling/requirements, Agility evasion, narrow AP anti-armor and broad doubled-armor anti-infantry. Disruptor Breach/Interference and hardware ladder, shared module modifiers/Weight, Laser retention and Plasma comparison candidates approved. Exact grenade profiles, contests, AP, area, qualification, recipes, prices and balance remain open. No simulation.
