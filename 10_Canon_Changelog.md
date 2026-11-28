@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: handheld weapon structural accounting and Vibrodrive working profiles
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Hollow Core Weight/Sustained/Burst ×0.90/0.80/0.65 and Reinforcing Spine ×1.25/1.50/2 by investment, mutually exclusive per structural member, independent of damage. Finished Weight counts body plus genuine additional hardware; wielder supports body, internal hardware/forces qualify against Structure, no routine per-strike strain bookkeeping. QI handheld module Weight references and contact-attunement target memory Junk–VI 1/1/1/2/3/4/5 documented; processing/containment/geometry restrictions retained. Prototype validation, remote scans, recipes, pricing and other weapon families remain open. No new simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Untouched Serpentari starting attributes
 
 The current HP/d20 Untouched Serpentari base array is STR 5, DEX 10, END 7 (unchanged), INT 5, Skill 8, total 35. The permanent +25% racial modifier moves from INT to DEX. This supersedes only their November 26 rebased racial row; Sovereign Aptitude, other racial traits, other races, and historical test fixtures remain unchanged. Owner: [Races](02_Races.md); player-facing table: [Character](public/players/character.md). No balance testing or application/engine migration performed.
