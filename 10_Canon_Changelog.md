@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: powered ammunition, payloads, weapon manifests and Disruptor scope
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Author approves powered Red/Blue/Green/White/Black ammunition coefficients, seven payload identities (including existing fixed healing), minimum manifest directions, Gravitic Anchor development and active Arcane Disruptor explicitly including magical barriers. Gyrodrive remains withdrawn under later correction; existing Capacitor rules retained. Individual caps, full qualification, Disruptor numerical resolution, recipes/prices and combat validation remain open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: handheld weapon structural accounting and Vibrodrive working profiles
 
 Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Hollow Core Weight/Sustained/Burst ×0.90/0.80/0.65 and Reinforcing Spine ×1.25/1.50/2 by investment, mutually exclusive per structural member, independent of damage. Finished Weight counts body plus genuine additional hardware; wielder supports body, internal hardware/forces qualify against Structure, no routine per-strike strain bookkeeping. QI handheld module Weight references and contact-attunement target memory Junk–VI 1/1/1/2/3/4/5 documented; processing/containment/geometry restrictions retained. Prototype validation, remote scans, recipes, pricing and other weapon families remain open. No new simulation.

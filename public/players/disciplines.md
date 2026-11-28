@@ -321,3 +321,7 @@ A weapon's Hollow Core reduces structural Weight and capacity; a Reinforcing Spi
 
 A weapon's finished construction burden determines its ordinary requirement: Weight weapons spend that amount of shared equipment capacity; Handling weapons require the same numerical DEX instead, without paying that amount again as equipped Weight. Materials, Quality, reinforcements and installed hardware alter the same burden. Qualified DEX users may operate and reload arbalests without an additional STR cocking gate; ordinary loading/setup rules still apply. Repulsors need sufficient STR to withstand recoil or powered Full Recoil Control with real anchoring. Existing Magic Handling and Mastercraft exceptions remain.
 
+
+### Specialized technological ammunition and field countermeasures
+
+Powered ammunition improves intrinsic damage (Red +25%, Black +50% with doubled Hex), accuracy (Blue +2 Attack), stabilization (Green −50% recoil and firing Strain), or range (White +50%) at standard investment. Eligible bonuses scale with ammunition investment; stabilization never replaces required Repulsor recoil-control hardware. Payload ammunition can deliver Burning, Freeze, Binding, Blindness, Energy damage or Hex using hardware Power; fixed Green healing replaces damage. Arcane Disruptors are specialized active countermeasures against projected fields and magical barriers, not universal dispels. Exact Disruptor resolution and complete weapon recipes remain table questions.

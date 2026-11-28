@@ -1,3 +1,7 @@
+## November 27, 2026 — AUTHOR APPROVED: powered ammunition, payloads, weapon manifests and Disruptor scope
+
+Owner: [Orbcraft](40_Kobold_Technology_and_Orbcraft.md). Author approves powered Red/Blue/Green/White/Black ammunition coefficients, seven payload identities (including existing fixed healing), minimum manifest directions, Gravitic Anchor development and active Arcane Disruptor explicitly including magical barriers. Gyrodrive remains withdrawn under later correction; existing Capacitor rules retained. Individual caps, full qualification, Disruptor numerical resolution, recipes/prices and combat validation remain open. No simulation.
+
 ## November 27, 2026 — AUTHOR APPROVED: Accuracy, Agility and Poise
 
 Owner: [Combat](22_Combat_Endurance_and_Shimmer_Guard.md). Universal Accuracy training covers eligible physical, magical and technological attacks and offensive maneuvers; Agility replaces separate Evasion, Reflex and Initiative training. Retire Technique. Derived Poise = Strength-only bonus + Accuracy training, no independent purchase or DEX contribution. Physical-control maneuver defense = 10 + max(Agility, Poise); feints use Agility only. Actual legal spell, tool and reach required. Final cost ladders and exact Strength bonus conversion remain open; test equal prices first. Existing special escape/maintenance and opposed contests require targeted reconciliation. No simulation or saved-sheet migration. Player combat and training guides updated.
